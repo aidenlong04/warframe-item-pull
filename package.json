@@ -1,0 +1,28 @@
+{
+  "name": "warframe-item-pull",
+  "version": "1.0.0",
+  "scripts": {
+    "pull": "node pull.js",
+    "transform": "node transform.js",
+    "update": "node pull.js && node transform.js",
+    "lint": "jshint .",
+    "validate": "npm ls"
+  },
+  "dependencies": {
+    "@wfcd/items": "^1.1272.171",
+    "@wfcd/patchlogs": "^2.149.12",
+    "@wfcd/relics": "^2.0.29",
+    "warframe-public-export-plus": "^0.5.103",
+    "warframe-riven-info": "^0.1.2",
+    "warframe-worldstate-data": "^3.10.1",
+    "warframe-worldstate-parser": "^5.2.17"
+  },
+  "pre-commit": [
+    "lint",
+    "validate"
+  ],
+  "devDependencies": {
+    "jshint": "^2.13.6",
+    "pre-commit": "^1.2.2"
+  }
+}
