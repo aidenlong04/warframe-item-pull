@@ -104,10 +104,55 @@ for (const rel of mdFiles) {
 
 console.log('Loaded ' + headingMap.size + ' sections from individual md files');
 
-// --- Step 2: Sanitize content for Gemini 2.5 consumption ---
-// Remove wiki links, forum links, bare URLs, Lotus paths, HTML tags, image descriptions
+// --- Step 2: Sanitize content for Gemma 4 consumption ---
+// Gemma 4 has a smaller context window than Gemini 2.5 and is more sensitive to noise,
+// so we strip everything that does not carry retrievable facts: wiki links, forum links,
+// bare URLs, Lotus paths, HTML tags, image descriptions, and stray whitespace.
+// We also normalise Unicode that the system prompt forbids (smart quotes, en dash,
+// unicode bullets, zero-width chars, NBSP, ellipsis, multiplication sign) so the model
+// only ever sees the canonical token vocabulary it is told to emit.
+//
+// Wiki UI noise headers ("In-Game Description", "Click to view ...", "Patch History",
+// "Trivia", etc.) are stripped because they contain no retrievable fact -- the prose
+// that follows is the actual content. Long flattened paragraphs (>500 chars) are
+// soft-wrapped on sentence boundaries so retrieval chunkers can split cleanly and so
+// Gemma 4 sees one fact per line, which improves pattern matching.
+
+// Regex matching wiki UI lines that are pure boilerplate. Match either a bare
+// label (whole line) or a "Click to view ..." style instruction.
+const NOISE_LINE = new RegExp([
+  '^In-Game Description\\s*$',
+  '^External Links?\\s*$',
+  '^Main [Aa]rticle:.*$',
+  '^See also:.*$',
+  '^Click (?:to view|here).*$',
+  '^Edit on wiki.*$',
+  '^Patch History\\s*$',
+  '^Maximization\\s*$',
+  '^Gallery\\s*$',
+  '^Tabber\\s*$',
+  '^Media\\s*$',
+  '^For the .* of the same name.*$',
+  '^This .* is a stub.*$',
+  '^#REDIRECT.*$',
+  '^\\.\\s*$',
+  '^\\|\\s*$'
+].join('|'), 'gm');
+
+// Wrap a single long prose line on sentence boundaries (". ", "! ", "? ").
+// Avoid splitting markdown tables (lines containing pipes), headers, or list items.
+function softWrap(line) {
+  if (line.length <= 500) { return line; }
+  if (line.indexOf('|') !== -1) { return line; }      // table row -- leave alone
+  if (/^\s*[#>\-*]/.test(line)) { return line; }      // header / list / blockquote
+  // Split on sentence terminator followed by a space and a capital/digit start.
+  var parts = line.split(/(?<=[.!?])\s+(?=[A-Z0-9"'])/);
+  if (parts.length === 1) { return line; }
+  return parts.join('\n');
+}
+
 function sanitize(text) {
-  return text
+  text = text
     .replace(/\[Wiki\]\([^)]*\)/g, '')
     .replace(/\[Forum Link\]\([^)]*\)/g, '')
     .replace(/https?:\/\/\S+/g, '')
@@ -115,10 +160,43 @@ function sanitize(text) {
     .replace(/<[^>]+>/g, '')
     .replace(/\/Lotus\/Language\/[^\s|)}\]]+/g, '')
     .replace(/\/Lotus\/[^\s|)}\]]+/g, function (m) { return m.split('/').pop(); })
-    // Literal \\n in stat descriptions → space
+    // Literal \\n in stat descriptions -> space
     .replace(/:\\n\+/g, ': +')
     .replace(/:\\n/g, ': ')
-    // Double spaces → single
+    // Strip zero-width chars (potential homoglyph / injection vector)
+    .replace(/[\u200B-\u200D\uFEFF]/g, '')
+    // Strip UI / gallery box glyphs that survived wiki scrub
+    .replace(/[\u25FC\u2588]/g, '')
+    // NBSP and thin space -> regular space
+    .replace(/[\u00A0\u2009\u202F]/g, ' ')
+    // Smart quotes -> ASCII
+    .replace(/[\u2018\u2019\u201A\u201B]/g, '\'')
+    .replace(/[\u201C\u201D\u201E\u201F]/g, '"')
+    // En dash -> hyphen (em dash U+2014 is preserved -- canonical join token)
+    .replace(/\u2013/g, '-')
+    // Unicode bullets -> ASCII hyphen bullet
+    .replace(/^[\u2022\u00B7\u25CF\u25E6\u2023\u2043]\s*/gm, '- ')
+    .replace(/[\u2022\u00B7\u25CF\u25E6\u2023\u2043]/g, '-')
+    // Ellipsis -> three dots
+    .replace(/\u2026/g, '...')
+    // Multiplication sign -> x (per prompt: write 2.8x)
+    .replace(/\u00D7/g, 'x')
+    // Comparison operators -> ASCII
+    .replace(/\u2265/g, '>=')
+    .replace(/\u2264/g, '<=')
+    // Strip wiki-UI boilerplate lines (no retrievable facts)
+    .replace(NOISE_LINE, '');
+
+  // Soft-wrap long prose lines on sentence boundaries
+  text = text.split('\n').map(softWrap).join('\n');
+
+  // Drop ### subsection headers that are immediately followed by another header
+  // or end of section (these are empty; they confuse the model into thinking
+  // structured data exists when it does not).
+  text = text.replace(/^### [^\n]+\n+(?=#)/gm, '');
+
+  return text
+    // Double spaces -> single
     .replace(/ {2,}/g, ' ')
     .replace(/\n{3,}/g, '\n\n')
     .replace(/^\s+$/gm, '');
@@ -312,13 +390,15 @@ function splitOnLines(text, maxSize) {
 
 var totalFiles = 0;
 for (const [baseName, group] of Object.entries(groups)) {
-  // Build preamble with schema description and section TOC
+  // Build preamble: title, FORMAT line, INDEX line.
+  // Tuned for Gemma 4: explicit uppercase labels so a small model can lock onto
+  // the structure on a single read; ASCII only; one fact per line.
   var content = '# ' + group.label + '\n';
   if (group.schema) {
-    content += 'Format: ' + group.schema + '\n';
+    content += 'FORMAT: ' + group.schema + '\n';
   }
 
-  // Count ## entries per section for a compact TOC
+  // Count ## entries per section for a compact INDEX
   var tocLines = [];
   for (const h of group.headings) {
     var section = headingMap.get(h);
@@ -328,8 +408,8 @@ for (const [baseName, group] of Object.entries(groups)) {
       tocLines.push(sectionName + ' (' + entryCount + ' entries)');
     }
   }
-  if (tocLines.length > 1) {
-    content += 'Sections: ' + tocLines.join(' | ') + '\n';
+  if (tocLines.length >= 1) {
+    content += 'INDEX: ' + tocLines.join(' | ') + '\n';
   }
   content += '\n';
 
@@ -366,6 +446,9 @@ console.log('\n' + totalFiles + ' grouped files written to docs/');
 
 // --- Step 6: Generate Mastery Rank reference file ---
 var mrContent = `# Mastery Rank
+FORMAT: Reference doc. ## sections cover earning rules, XP formula, and the full rank table (rank | name | XP req | total XP | test).
+INDEX: Earning Mastery Points | XP Formula | Mastery Rank Table
+
 Mastery Ranking (MR) tracks total content experienced. Points come from ranking equipment with Affinity, clearing nodes, Junctions, and Intrinsics. Ranks after MR30 are Legendary Ranks (LR).
 
 ## Earning Mastery Points
@@ -383,8 +466,8 @@ Variants (MK1, Prime, Vandal, Wraith, Prisma, Kuva, Tenet, etc.) count separatel
 Steel Path nodes/Junctions award mastery separately from normal mode.
 
 ## XP Formula
-Ranks 1-30: 2,500 × Rank² total XP required
-Legendary ranks: 2,250,000 + (147,500 × LR number)
+Ranks 1-30: 2,500 x Rank^2 total XP required
+Legendary ranks: 2,250,000 + (147,500 x LR number)
 
 ## Mastery Rank Table
 | Rank Name | Rank | Next Rank Req | Total XP | Test |

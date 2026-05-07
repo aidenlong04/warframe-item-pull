@@ -171,6 +171,9 @@ Crit Chance: 30.00% | Crit Multiplier: 3x | Status Chance: 20.00% | Fire Rate: 1
 ## Akaten
 Hound melee attacks eviscerate with Puncture and Slash Damage.
 
+### Acquisition
+The Akaten is automatically acquired upon claiming a Hound configured with the Hec Model. Note that this weapon also takes up one Sentinel inventory slot.
+
 ### Wiki
 Hound melee attacks eviscerate with Puncture and Slash damage.
 Akaten is a Hound weapon that eviscerates enemies with Puncture and Slash damage.
@@ -182,8 +185,6 @@ Very high critical multiplier.
 Good status chance.
 Disadvantages:
 Low critical chance.
-**Acquisition:**
-The Akaten is automatically acquired upon claiming a Hound configured with the Hec Model. Note that this weapon also takes up one Sentinel inventory slot.
 **Notes:**
 The Akaten, Batoten and Lacerten are all statistically identical (speed, critical, status, etc.) other than their physical damage types. All three are 50%/50% split between two physical damages, with the three weapons covering the three possible combinations.
 Akaten only uses standard melee attacks. It does not allow the Hound to block or perform special attacks, nor does it have its own combo counter.
@@ -363,6 +364,10 @@ Crit Chance: 16.00% | Crit Multiplier: 2.8x | Status Chance: 32.00% | Fire Rate:
 ## Amprex
 The Amprex rifle fires a continuous beam of high voltage electricity that arcs among nearby enemies. This weapon excels at Crowd Control.
 
+### Acquisition
+The Amprex's blueprint can be researched from the Energy Lab in the dojo.
+This weapon can be sold for 7,500.
+
 ### Wiki
 Weapons
 The Amprex rifle fires a continuous beam of high voltage electricity that arcs among nearby enemies. This weapon excels at crowd control.
@@ -380,9 +385,6 @@ Main beam has a limited range of 18 meters.
 Sinister Reach can be equipped to extend the maximum range.
 Chain beam has a limited range of 10 meters.
 Chain beam range cannot be increased with Sinister Reach.
-**Acquisition:**
-The Amprex's blueprint can be researched from the Energy Lab in the dojo.
-This weapon can be sold for 7,500.
 **Type:** Rifle | **Mastery Req:** 10 | **Riven Disposition:** 2
 
 ### Normal Attack
@@ -400,6 +402,9 @@ Crit Chance: 32.00% | Crit Multiplier: 2.2x | Status Chance: 22.00% | Fire Rate:
 
 ## Arca Plasmor
 Stagger targets with blasts from this Corpus engineered plasma shotgun. Surviving enemies are consumed with radiation.
+
+### Acquisition
+The Arca Plasmor's blueprint can be researched from the Energy Lab in the dojo.
 
 ### Wiki
 Weapons
@@ -422,8 +427,6 @@ Limited range of 30 meters (can be increased with Projectile Speed mods).
 Has a headshot multiplier of 1x.
 Innate punch through does not apply to surfaces if hitting with the central portion of the projectile, requiring punch through mods.
 Tenet Arca Plasmor
-**Acquisition:**
-The Arca Plasmor's blueprint can be researched from the Energy Lab in the dojo.
 **Type:** Shotgun | **Mastery Req:** 10 | **Riven Disposition:** 3
 
 ### Normal Attack
@@ -442,6 +445,9 @@ Crit Chance: 22.00% | Crit Multiplier: 1.6x | Status Chance: 28.00% | Fire Rate:
 ## Argonak
 Pick off targets by highlighting distant enemies using this Grineer rifle's advanced laser sighting system. Deadly in both single fire and automatic modes.
 
+### Acquisition
+The Argonak's blueprint can be researched from the Chem Lab in the dojo.
+
 ### Wiki
 Grineer
 Pick off targets by highlighting distant enemies using this Grineer rifle's advanced laser sighting system. Deadly in both single fire and automatic modes.
@@ -453,8 +459,6 @@ Can use the Argonak-exclusive Amalgam Argonak Metal Auger mod.
 Innate Madurai and one Naramon polarities.
 Semi-auto mode has high zoom, increasing its effectiveness at longer ranges.
 Semi-auto mode's high zoom impairs close quarter combat capability.
-**Acquisition:**
-The Argonak's blueprint can be researched from the Chem Lab in the dojo.
 **Type:** Rifle | **Mastery Req:** 7 | **Riven Disposition:** 4
 
 ### Semi-Auto Mode
@@ -477,13 +481,14 @@ Crit Chance: 9.00% | Crit Multiplier: 1.5x | Status Chance: 27.00% | Fire Rate: 
 ## Artax
 Freeze targets in their tracks with this sentinel mounted ice-beam.
 
+### Acquisition
+The Artax is automatically acquired upon obtaining Taxon. Note that this weapon also takes up one Companion inventory slot.
+
 ### Wiki
 Freeze targets in their tracks with this sentinel mounted ice-beam.
 The Artax is the default robotic weapon of the Taxon Sentinel, which fires a beam that deals Cold damage and status effect against enemies. This weapon accepts Rifle Mods.
 Characteristics
 This weapon deals Cold damage.
-**Acquisition:**
-The Artax is automatically acquired upon obtaining Taxon. Note that this weapon also takes up one Companion inventory slot.
 **Notes:**
 Has an innate +20% Cold damage bonus.
 Does not combine with other modded elements, and will stay as Cold.
@@ -498,6 +503,9 @@ Crit Chance: 2.00% | Crit Multiplier: 1.5x | Status Chance: 35.00% | Fire Rate: 
 
 ## Astilla
 Blast enemies with glass slugs that devastate on impact. In Gara's hands, this signature weapon has a larger Ammo Pool.
+
+### Acquisition
+The Astilla's blueprint can be purchased from the Market.
 
 ### Wiki
 Weapons
@@ -521,8 +529,6 @@ Explosion inflicts self-stagger.
 Explosion has a headshot multiplier of 1x and cannot trigger headshot conditions.
 Explosion has linear Damage Falloff from 100% to 70% from central impact.
 Astilla Prime
-**Acquisition:**
-The Astilla's blueprint can be purchased from the Market.
 **Type:** Shotgun | **Mastery Req:** 10 | **Riven Disposition:** 4
 
 ### Slug Impact
@@ -592,6 +598,9 @@ Crit Chance: 21.00% | Crit Multiplier: 1.9x | Status Chance: 37.00% | Fire Rate:
 ## Attica
 Quickly fire off a volley of deadly bolts with the Attica repeating crossbow.
 
+### Acquisition
+The Attica's blueprint can be researched from the Tenno Lab in the dojo.
+
 ### Wiki
 Weapons
 Quickly fire off a volley of deadly bolts with the Attica repeating crossbow.
@@ -610,8 +619,6 @@ Pinpoint accuracy when aiming.
 Silent.
 Projectiles have travel time.
 Tied with Panthera Prime for the second slowest fire rate of all fully automatic weapons, after Panthera.
-**Acquisition:**
-The Attica's blueprint can be researched from the Tenno Lab in the dojo.
 **Notes:**
 Can be used in bow-only Sortie missions.
 Despite being a crossbow, maxing it out will not unlock the PS4 "Bow Proficiency" trophy.
@@ -693,6 +700,9 @@ Crit Chance: 2.00% | Crit Multiplier: 4.8x | Status Chance: 30.00% | Fire Rate: 
 ## Batoten
 Hound melee attacks pierce hard with Impact and Puncture Damage.
 
+### Acquisition
+The Batoten is automatically acquired upon claiming a Hound configured with the Dorma Model. Note that this weapon also takes up one Sentinel inventory slot.
+
 ### Wiki
 Hound melee attacks pierce hard with Impact and Puncture damage.
 Batoten is a Hound weapon that pierces through enemies with Impact and Puncture damage.
@@ -704,8 +714,6 @@ Very high critical multiplier.
 Good status chance.
 Disadvantages:
 Low critical chance.
-**Acquisition:**
-The Batoten is automatically acquired upon claiming a Hound configured with the Dorma Model. Note that this weapon also takes up one Sentinel inventory slot.
 **Notes:**
 The Akaten, Batoten and Lacerten are all statistically identical (speed, critical, status, etc.) other than their physical damage types. All three are 50%/50% split between two physical damages, with the three weapons covering the three possible combinations.
 Batoten only uses standard melee attacks. It does not allow the Hound to block or perform special attacks, nor does it have its own combo counter.
@@ -721,6 +729,9 @@ Crit Chance: 10.00% | Crit Multiplier: 3x | Status Chance: 15.00% | Fire Rate: 1
 
 ## Battacor
 A weapon that builds charge the more it kills. Hit capacity then release for an obliterating discharge of power.
+
+### Acquisition
+The Battacor's blueprint can be researched from the Energy Lab in the dojo.
 
 ### Wiki
 Weapons
@@ -739,8 +750,6 @@ Alternate Fire:
 Explosion inflicts self-stagger.
 Explosion has a headshot multiplier of 1x and cannot trigger headshot conditions.
 Explosion has linear damage falloff from 100% to 60% from central impact.
-**Acquisition:**
-The Battacor's blueprint can be researched from the Energy Lab in the dojo.
 **Type:** Rifle | **Mastery Req:** 10 | **Riven Disposition:** 3
 
 ### Normal Attack
@@ -767,6 +776,9 @@ Crit Chance: 34.00% | Crit Multiplier: 3x | Status Chance: 50.00% | Fire Rate: 5
 ## Baza
 Make easy prey of enemies with this quiet, agile, and pinpoint accurate Tenno submachine gun.
 
+### Acquisition
+The Baza's blueprint can be researched from the Tenno Lab in the dojo.
+
 ### Wiki
 Weapons
 Make easy prey of enemies with this quiet, agile, and pinpoint accurate Tenno submachine gun.
@@ -784,8 +796,6 @@ Has linear damage falloff from 100% to 50% starting at 22m until 34m target dist
 Cannot equip Terminal Velocity.
 Poor ammo economy.
 Baza Prime
-**Acquisition:**
-The Baza's blueprint can be researched from the Tenno Lab in the dojo.
 **Notes:**
 The weapon's firing sounds increases in pitch when 15 or fewer rounds are remaining in the magazine, indicating that the weapon's magazine is almost empty.
 The weapon has minimal zoom when aiming, helpful for mods that add bonuses while aiming like Argon Scope.
@@ -945,6 +955,9 @@ Crit Chance: 20.00% | Crit Multiplier: 2.2x | Status Chance: 24.00% | Fire Rate:
 ## Boltor
 The Boltor fires slow, heavy bolts that are capable of impaling enemies to walls.
 
+### Acquisition
+The Boltor's blueprint can be purchased from the Market. Alternatively, a built Boltor is awarded from completing the Venus to Mercury Junction, complete with a free weapon slot and pre-installed Orokin Catalyst.
+
 ### Wiki
 The Boltor is an automatic rifle that rapidly fires heavy bolts that can pin your foes to the walls.
 The Boltor is a Tenno assault rifle with the characteristic of firing bolt projectiles instead of conventional bullets. This weapon requires the user to take into account projectile travel time while aiming at targets, as well as the projectile drift, making the Boltor difficult to use effectively beyond medium ranges.
@@ -960,8 +973,6 @@ Low recoil.
 Projectiles have travel time with slight arcing.
 Telos Boltor
 Boltor Prime
-**Acquisition:**
-The Boltor's blueprint can be purchased from the Market. Alternatively, a built Boltor is awarded from completing the Venus to Mercury Junction, complete with a free weapon slot and pre-installed Orokin Catalyst.
 **Notes:**
 Incarnon Genesis
 Upon completion of The Duviri Paradox and Angels of the Zariman, and unlocking The Steel Path, players can earn Boltor Incarnon Genesis from The Circuit's Steel Path to place on their Boltor with the help of Cavalero in the Chrysalith. This Incarnon Genesis form grants it evolutions to a transformation and newfound strength.
@@ -1035,6 +1046,10 @@ Crit Chance: 24.00% | Crit Multiplier: 3x | Status Chance: 20.00% | Fire Rate: 1
 ## Braton
 The Braton's high rate of fire and accuracy make it a favorite among the Tenno.
 
+### Acquisition
+A fully built Braton can be purchased from the Market for 25,000.
+It can be sold for 7,500.
+
 ### Wiki
 The Braton's high rate of fire and accuracy make it a favorite among Tenno.
 The Braton is a Tenno assault rifle with balanced damage, fire rate, and accuracy. It is a versatile rifle, performing effectively against all enemies without specialty.
@@ -1044,9 +1059,6 @@ Low recoil.
 Mk1-Braton
 Braton Prime
 Braton Vandal
-**Acquisition:**
-A fully built Braton can be purchased from the Market for 25,000.
-It can be sold for 7,500.
 **Notes:**
 Incarnon Genesis
 Upon completion of The Duviri Paradox and Angels of the Zariman, and unlocking The Steel Path, players can earn Braton Incarnon Genesis from The Circuit's Steel Path to place on their Braton with the help of Cavalero in the Chrysalith. This Incarnon Genesis form grants it evolutions to a transformation and newfound strength.
@@ -1169,6 +1181,9 @@ Crit Chance: 38.00% | Crit Multiplier: 3.2x | Status Chance: 22.00% | Fire Rate:
 ## Bubonico
 Rain down a triple volley of explosive disease bladders from a distance, then move in for the kill by unloading a multi-shot barrage of toxic barbs with primary fire.
 
+### Acquisition
+The Bubonico's blueprint can be researched from the Bio Lab in the dojo.
+
 ### Wiki
 Weapons
 Rain down a triple volley of explosive disease bladders from a distance, then move in for the kill by unloading a multi-shot barrage of toxic barbs with primary fire.
@@ -1196,8 +1211,6 @@ Explosion inflicts self-stagger.
 Explosion has a headshot multiplier of 1x and cannot trigger headshot conditions.
 Explosion has linear damage falloff from 100% to 50% from central impact.
 Coda Bubonico
-**Acquisition:**
-The Bubonico's blueprint can be researched from the Bio Lab in the dojo.
 **Type:** Shotgun | **Mastery Req:** 13 | **Riven Disposition:** 1
 
 ### Auto
@@ -1224,6 +1237,9 @@ Crit Chance: 3.00% | Crit Multiplier: 3.5x | Status Chance: 57.00% | Fire Rate: 
 ## Burst Laser
 Fires a small burst of lasers.
 
+### Acquisition
+The Burst Laser is automatically acquired upon obtaining Shade. Note that this weapon also takes up one Companion inventory slot.
+
 ### Wiki
 Fires a small burst of lasers.
 The Burst Laser is the default robotic weapon for the Shade Sentinel that fires three-round bursts in succession. This weapon accepts Pistol Mods.
@@ -1232,8 +1248,6 @@ Characteristics
 This weapon deals primarily Puncture damage.
 Prisma Burst Laser
 Burst Laser Prime
-**Acquisition:**
-The Burst Laser is automatically acquired upon obtaining Shade. Note that this weapon also takes up one Companion inventory slot.
 **Notes:**
 Actual fire rate of this weapon is not affected by fire rate mods. Instead, these mods affect delay between bursts.
 Due to having instantaneous reload, this weapon is not affected by magazine capacity or reload speed mods.
@@ -1246,6 +1260,9 @@ Crit Chance: 15.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 1
 ## Burst Laser Prime
 Shade Prime’s signature weapon fires laser bursts.
 
+### Acquisition
+The Burst Laser Prime is automatically acquired upon obtaining Shade Prime. Note that this weapon also takes up one Companion inventory slot.
+
 ### Wiki
 Shade Prime's signature weapon fires laser bursts.
 The Burst Laser Prime is the default weapon for the Shade Prime Sentinel and is a special Prime version of the three-round burst-fire Burst Laser that shoots five shots within a burst instead. This weapon accepts Pistol Mods.
@@ -1253,8 +1270,6 @@ Characteristics
 This weapon deals primarily Puncture damage.
 Burst Laser
 Prisma Burst Laser
-**Acquisition:**
-The Burst Laser Prime is automatically acquired upon obtaining Shade Prime. Note that this weapon also takes up one Companion inventory slot.
 **Type:** Companion Weapon | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -1264,6 +1279,10 @@ Crit Chance: 20.00% | Crit Multiplier: 2.3x | Status Chance: 15.00% | Fire Rate:
 ## Burston
 The Burston fires 3-round bursts, which provides a balance between the lethality of automatic rifles and the accuracy of semi-automatic rifles.
 
+### Acquisition
+The Burston's blueprint and the resources required for its construction are awarded upon completion of Vor's Prize quest. Additional blueprints can be purchased from the Market.
+Can be sold for 7,500.
+
 ### Wiki
 Weapons
 The Burston fires 3-round bursts, which provides a balance between the lethality of automatic rifles and the accuracy of semi-automatic rifles.
@@ -1272,9 +1291,6 @@ Characteristics
 This weapon deals equal physical damages.
 Can equip the Burston-exclusive Triple Tap mod (Conclave only).
 Burston Prime
-**Acquisition:**
-The Burston's blueprint and the resources required for its construction are awarded upon completion of Vor's Prize quest. Additional blueprints can be purchased from the Market.
-Can be sold for 7,500.
 **Notes:**
 Incarnon Genesis
 Upon completion of The Duviri Paradox and Angels of the Zariman, and unlocking The Steel Path, players can earn Burston Incarnon Genesis from The Circuit's Steel Path to place on their Burston with the help of Cavalero in the Chrysalith. This Incarnon Genesis form grants it evolutions to a transformation and newfound strength.
@@ -1360,6 +1376,10 @@ Crit Chance: 28.00% | Crit Multiplier: 3x | Status Chance: 30.00% | Fire Rate: 2
 ## Buzlok
 Mark your targets and unleash a barrage of bullets, the Buzlok's homing rounds always find the enemy. Marked targets are more likely to take critical hits.
 
+### Acquisition
+The Buzlok's blueprint can be researched from the Chem Lab in the dojo.
+This weapon can be sold for 7,500.
+
 ### Wiki
 Weapons
 Mark your targets and then unleash a barrage of bullets, the Buzlok's homing rounds always find the enemy. Marked Targets are more likely to take critical hits.
@@ -1372,9 +1392,6 @@ Tracer round mechanic allows for free aiming, and shooting around cover to strik
 Once a target is selected with tracking beacon, the weapon will fire on that target until the beacon disappears or the enemy is killed, making it difficult to use against multiple targets or change targets.
 Has a unique Z-axis recoil, which creates irregular aimed accuracy after firing a burst.
 Projectiles have travel time on main fire and tracer round which may make tagging a weak spot difficult at range.
-**Acquisition:**
-The Buzlok's blueprint can be researched from the Chem Lab in the dojo.
-This weapon can be sold for 7,500.
 **Type:** Sniper | **Mastery Req:** 11 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -1536,6 +1553,9 @@ Crit Chance: 10.00% | Crit Multiplier: 2x | Status Chance: 50.00% | Fire Rate: 1
 ## Cernos
 Evoking the design of ancient bows, the high impact Cernos is perfect for hunting down highly shielded enemies.
 
+### Acquisition
+The Cernos's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 Evoking the design of ancient bows, the high impact Cernos is perfect for hunting down highly shielded enemies.
@@ -1547,8 +1567,6 @@ Characteristics
 This weapon deals primarily Impact damage.
 Cernos Prime
 Rakta Cernos
-**Acquisition:**
-The Cernos's blueprint can be purchased from the Market.
 **Tips:**
 Despite what its description says, the Cernos is most effective against Grineer, which are primarily armored, not shielded. Its damage spread being weighted primarily towards Impact means the majority of the weapon's damage will inherit the element's Faction Damage Bonus against them, dealing solid damage even through their armor.
 Impact's status effect of reducing the target's Mercy threshold also logically counteracts their armor, allowing heavy enemies to be executed even with most of their health remaining, once their Overguard is broken, after suffering enough Impact procs.
@@ -1575,6 +1593,11 @@ Crit Chance: 36.00% | Crit Multiplier: 2x | Status Chance: 18.00% | Fire Rate: 1
 ## Cernos Prime
 A noble bow to hunt hellish beasts.
 
+### Acquisition
+Unlike most Prime gear, Cernos Prime is permanently unvaulted, with relics being obtainable through Abandoned Derelict Caches in Corpus Railjack missions.
+Vaultings
+On September 11th, 2018, it was announced that Cernos Prime, along with Valkyr Prime and Venka Prime, would enter the Prime Vault and be retired from the reward tables on September 25th, 2018. Any preexisting components or fully-built weapons will remain as is.
+
 ### Wiki
 A noble bow to hunt hellish beasts.
 The Cernos Prime is the Prime variant of the Cernos. Aside from increased damage, the Cernos Prime is unique in that it fires three arrows per shot in a horizontal spread, and has an Alternate Fire mode that shoots vertically, and deals bonus damage on headshots. It was released alongside Valkyr Prime and Venka Prime.
@@ -1594,10 +1617,6 @@ Silent.
 Very wide spread.
 Cernos
 Rakta Cernos
-**Acquisition:**
-Unlike most Prime gear, Cernos Prime is permanently unvaulted, with relics being obtainable through Abandoned Derelict Caches in Corpus Railjack missions.
-Vaultings
-On September 11th, 2018, it was announced that Cernos Prime, along with Valkyr Prime and Venka Prime, would enter the Prime Vault and be retired from the reward tables on September 25th, 2018. Any preexisting components or fully-built weapons will remain as is.
 **Type:** Bow | **Mastery Req:** 12 | **Riven Disposition:** 4
 
 ### Uncharged Horizontal/Vertical Shot
@@ -1739,6 +1758,9 @@ Crit Chance: 5.00% | Crit Multiplier: 3.5x | Status Chance: 57.00% | Fire Rate: 
 ## Coda Hema
 The Technocyte virus did nothing but increase the Hema’s thirst for blood. With increased Fire Rate, Magazine Size, Critical Chance, Critical Damage, Status Chance, and Damage.
 
+### Acquisition
+Adversary System/Weapons#Coda Acquisition
+
 ### Wiki
 Weapons
 The Technocyte virus did nothing but increase the Hema’s thirst for blood. With increased Fire Rate, Magazine Size, Critical Chance, Critical Multiplier, Status Chance, and Damage.
@@ -1761,8 +1783,6 @@ Functionally infinite ammo.
 Health drain can be detrimental in some cases.
 Projectiles have travel time and low flight speed.
 Hema
-**Acquisition:**
-Adversary System/Weapons#Coda Acquisition
 **Notes:**
 Adversary System#Notes
 Known Bugs
@@ -1775,6 +1795,9 @@ Crit Chance: 20.00% | Crit Multiplier: 2.3x | Status Chance: 30.00% | Fire Rate:
 
 ## Coda Sporothrix
 Delivers a virus-laden barb to its victim that continues to damage it before exploding. With increased Damage, Reload Speed, Magazine Size, Status Chance, and explosion radius.
+
+### Acquisition
+Adversary System/Weapons#Coda Acquisition
 
 ### Wiki
 Weapons
@@ -1799,8 +1822,6 @@ Polarizing the weapon increases its max rank by 2, capping at rank 40 after 5 po
 Elemental Vice can be applied to the weapon after it has reached rank 40, allowing the bonus damage type to be swapped freely.
 Unlike Kuva and Tenet weapons directly acquired from a Kuva Lich or Sisters of Parvos, the listed Mastery Rank requirement is enforced.
 Sporothrix
-**Acquisition:**
-Adversary System/Weapons#Coda Acquisition
 **Notes:**
 Adversary System#Notes
 **Type:** Sniper | **Mastery Req:** 17 | **Riven Disposition:** 3
@@ -1815,6 +1836,9 @@ Crit Chance: 5.00% | Crit Multiplier: 3x | Status Chance: 55.00% | Fire Rate: 1.
 
 ## Coda Synapse
 Firing a nonstop stream of vile corrosive gastric juice, the Coda Synapse comes with increased Magazine size, Beam Length, Status Chance, Punch Through, and Damage.
+
+### Acquisition
+Lich System/Weapons#Coda Acquisition
 
 ### Wiki
 Weapons
@@ -1835,8 +1859,6 @@ Elemental Vice can be applied to the weapon after it has reached rank 40, allowi
 Unlike Kuva and Tenet weapons directly acquired from a Kuva Lich or Sisters of Parvos, the listed Mastery Rank requirement is enforced.
 Synapse
 Higher beam range (32 vs. 27)
-**Acquisition:**
-Lich System/Weapons#Coda Acquisition
 **Notes:**
 Adversary System#Notes
 **Type:** Rifle | **Mastery Req:** 17 | **Riven Disposition:** 3
@@ -1847,6 +1869,9 @@ Crit Chance: 40.00% | Crit Multiplier: 2.7x | Status Chance: 15.00% | Fire Rate:
 
 ## Convectrix
 When its twin-lasers converge on a target a circuit is created, frying the subject.
+
+### Acquisition
+The Convectrix's blueprint can be researched from the Energy Lab in the dojo.
 
 ### Wiki
 Weapons
@@ -1867,8 +1892,6 @@ Lowest damage of all shotguns.
 Damage ramps up from 60% (primary fire)/80% (alt-fire) to 100% over 0.6 seconds when firing. After firing stops for 0.8 seconds, the damage decays back to 60%/80% over 2 seconds.
 Limited range of 30 meters.
 Does not deal full damage at the crosshair until both beams are aligned.
-**Acquisition:**
-The Convectrix's blueprint can be researched from the Energy Lab in the dojo.
 **Type:** Shotgun | **Mastery Req:** 7 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -1978,14 +2001,15 @@ Crit Chance: 4.00% | Crit Multiplier: 1.6x | Status Chance: 50.00% | Fire Rate: 
 ## Cryotra
 Fires volleys of icy grenades that inflict a lingering chill on the blast zone.
 
+### Acquisition
+The Cryotra's blueprint can be purchased from Legs in Fortuna for 10,000 Standing, requiring Rank 5 - Old Mate with Solaris United. Note that this weapon also takes up one Companion inventory slot.
+
 ### Wiki
 Fire volleys of icy grenades that inflict a lingering chill on the blast zone.
 The Cryotra is a robotic weapon that fires Cold grenades that leave behind damaging fields. This weapon accepts Rifle Mods.
 Characteristics
 This weapon deals Cold damage.
 Fires grenades that leave behind damaging a Cold field with a 1.5m radius that last for 5 seconds.
-**Acquisition:**
-The Cryotra's blueprint can be purchased from Legs in Fortuna for 10,000 Standing, requiring Rank 5 - Old Mate with Solaris United. Note that this weapon also takes up one Companion inventory slot.
 **Notes:**
 Cold field AoE size does not seem to be affected by Firestorm
 24.1.3.2
@@ -2011,6 +2035,10 @@ Crit Chance: 10.00% | Crit Multiplier: 1.8x | Status Chance: 30.00% | Fire Rate:
 ## Daikyu
 Daikyu takes great strength to draw back, but provides added power and range to every shot.
 
+### Acquisition
+The Daikyu's blueprint can be researched from the Tenno Lab in the dojo.
+This weapon can be sold for 7,500.
+
 ### Wiki
 Weapons
 Daikyu takes great strength to draw back, but provides added power and range to every shot.
@@ -2035,9 +2063,6 @@ Second slowest charge speed of all bows, after Lenz.
 Cannot be fired at partial charge.
 Arrows have travel time with slight arcing.
 Daikyu Prime
-**Acquisition:**
-The Daikyu's blueprint can be researched from the Tenno Lab in the dojo.
-This weapon can be sold for 7,500.
 **Type:** Bow | **Mastery Req:** 10 | **Riven Disposition:** 4
 
 ### Charged Shot
@@ -2100,6 +2125,9 @@ Crit Chance: 40.00% | Crit Multiplier: 2.4x | Status Chance: 50.00% | Fire Rate:
 ## Deconstructor
 Causes the Helios Sentinel to attack enemy targets using pieces of itself.
 
+### Acquisition
+The Deconstructor is automatically acquired upon obtaining Helios. Note that this weapon also takes up one Companion inventory slot.
+
 ### Wiki
 Causes the Helios Sentinel to attack enemy targets using pieces of itself.
 The Deconstructor is a robotic weapon exclusive to the Helios Sentinel that throws parts of the Sentinel at enemies in a fashion similar to throwing weapons like the Glaive. The Deconstructor uses melee and thrown melee mods.
@@ -2109,8 +2137,6 @@ This weapon inflicts Impact, Slash, and Puncture in a sequence.
 Has a critical chance of 0%.
 Projectiles have travel time.
 Deconstructor Prime
-**Acquisition:**
-The Deconstructor is automatically acquired upon obtaining Helios. Note that this weapon also takes up one Companion inventory slot.
 **Notes:**
 The Deconstructor can only be used by the Helios and Helios Prime Sentinels.
 Deconstructor only uses standard melee attacks. It does not allow the Sentinel to block or perform special attacks, nor does it have its own combo counter.
@@ -2132,21 +2158,21 @@ Crit Chance: 0.00% | Crit Multiplier: 1x | Status Chance: 25.00% | Fire Rate: 1.
 ## Deconstructor Prime
 Allows the Helios Prime to violently disassemble and turn itself into a deadly projectile.
 
-### Wiki
-Allows the Helios Prime to violently disassemble and turn itself into a deadly projectile.
-The Deconstructor Prime is Helios Prime's Primed counterpart of the Deconstructor robotic weapon featuring all-around improved damage. This weapon uses melee and thrown melee mods.
-This weapon can be sold for 1,250.
-**Acquisition:**
+### Acquisition
 This sentinel weapon is automatically acquired by acquiring Helios Prime. Note that this weapon also takes up one Sentinel inventory slot.
 Characteristics
 This weapon inflicts Impact, Slash, and Puncture in a sequence.
 Has a critical chance of 0%.
 Projectiles have travel time.
 Deconstructor
-**Acquisition:**
 The Deconstructor Prime is automatically acquired upon obtaining Helios Prime. Note that this weapon also takes up one Companion inventory slot.
 Vaultings
 On December 7th, 2018, it was announced that Helios Prime, alongside Banshee Prime and Euphona Prime, would enter the Prime Vault and be retired from the reward tables on December 18th, 2018. Any preexisting components or fully-built weapons will remain as-is.
+
+### Wiki
+Allows the Helios Prime to violently disassemble and turn itself into a deadly projectile.
+The Deconstructor Prime is Helios Prime's Primed counterpart of the Deconstructor robotic weapon featuring all-around improved damage. This weapon uses melee and thrown melee mods.
+This weapon can be sold for 1,250.
 **Notes:**
 The Deconstructor can only be used by the Helios and Helios Prime Sentinels.
 Deconstructor Prime only uses standard melee attacks. It does not allow the Sentinel to block or perform special attacks, nor does it have its own combo counter.
@@ -2170,6 +2196,10 @@ Crit Chance: 0.00% | Crit Multiplier: 1x | Status Chance: 25.00% | Fire Rate: 1.
 ## Dera
 The Dera is a repeater that fires super-heated plasma.
 
+### Acquisition
+The Dera's blueprint can be researched from the Energy Lab in the dojo.
+This weapon can be sold for 7,500.
+
 ### Wiki
 Weapons
 The Dera is a repeater that fires super-heated plasma.
@@ -2178,9 +2208,6 @@ Characteristics
 This weapon deals primarily Puncture damage.
 Projectiles have travel time, making long range shots more difficult.
 Dera Vandal
-**Acquisition:**
-The Dera's blueprint can be researched from the Energy Lab in the dojo.
-This weapon can be sold for 7,500.
 **Notes:**
 The projectiles may possibly obstruct view when firing if the energy color is a bright color such as yellow, blue, or green.
 The projectiles ricochet off of a Nullifier Crewman's bubble.
@@ -2211,6 +2238,9 @@ Crit Chance: 22.00% | Crit Multiplier: 3x | Status Chance: 18.00% | Fire Rate: 2
 ## Dera Vandal
 A customized version of the Dera, featuring a metallic finish and Lotus decal.
 
+### Acquisition
+Blueprints and components are a potential Invasion reward. All components can be traded, although players must have a Mastery Rank of at least 7 to acquire the blueprint.
+
 ### Wiki
 Weapons
 A customized version of the Dera, featuring a metallic finish and Lotus decal.
@@ -2219,8 +2249,6 @@ Characteristics
 This weapon deals primarily Puncture damage.
 Projectiles have travel time, making long range shots more difficult.
 Dera
-**Acquisition:**
-Blueprints and components are a potential Invasion reward. All components can be traded, although players must have a Mastery Rank of at least 7 to acquire the blueprint.
 **Notes:**
 The projectiles may possibly obstruct view when firing if the energy color is a bright color such as yellow, blue, or green.
 Due to the projectiles firing from alternating barrels, this has a convergence effect where the bolts will meet at the point the crosshair is on. This will result in the bolts crossing in an 'X' if they miss their target.
@@ -2252,6 +2280,9 @@ Crit Chance: 30.00% | Crit Multiplier: 3x | Status Chance: 22.00% | Fire Rate: 2
 ## Deth Machine Rifle
 Standard issue weaponry signature to Dethcube.
 
+### Acquisition
+The Deth Machine Rifle is automatically acquired upon obtaining Dethcube. Note that this weapon also takes up one Companion inventory slot.
+
 ### Wiki
 Standard issue weaponry signature to Dethcube.
 The Deth Machine Rifle is the default robotic weapon for the Dethcube Sentinel. This weapon requires a short spool-up time before reaching its full firing speed, dealing relatively high damage at full-spool. This weapon accepts Rifle Mods.
@@ -2259,8 +2290,6 @@ This weapon can be sold for 1,250.
 Characteristics
 This weapon deals primarily Slash damage.
 Deth Machine Rifle Prime
-**Acquisition:**
-The Deth Machine Rifle is automatically acquired upon obtaining Dethcube. Note that this weapon also takes up one Companion inventory slot.
 **Tips:**
 Recoil is more noticeable at 20m-30m ranges. Stabilizer seems to have no effect on this.
 **Type:** Companion Weapon | **Riven Disposition:** 5
@@ -2272,6 +2301,9 @@ Crit Chance: 5.00% | Crit Multiplier: 2x | Status Chance: 1.00% | Fire Rate: 8.3
 ## Deth Machine Rifle Prime
 Signature default weapon of Dethcube Prime.
 
+### Acquisition
+The Deth Machine Rifle Prime is automatically acquired upon obtaining Dethcube Prime. Note that this weapon also takes up one Companion inventory slot.
+
 ### Wiki
 Signature default weapon of Dethcube Prime.
 The Deth Machine Rifle Prime is the default robotic weapon for the Dethcube Prime Sentinel, as well as the Primed counterpart of the Deth Machine Rifle acting as a direct upgrade.
@@ -2279,8 +2311,6 @@ This weapon can be sold for 1,250.
 Characteristics
 This weapon deals primarily Slash damage.
 Deth Machine Rifle
-**Acquisition:**
-The Deth Machine Rifle Prime is automatically acquired upon obtaining Dethcube Prime. Note that this weapon also takes up one Companion inventory slot.
 **Type:** Companion Weapon | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -2290,6 +2320,9 @@ Crit Chance: 10.00% | Crit Multiplier: 2x | Status Chance: 4.00% | Fire Rate: 10
 ## Dex Sybaris
 A gift from the Lotus to commemorate the third anniversary of the first Tenno waking from Cryo stasis.
 
+### Acquisition
+The Dex Sybaris was released in commemoration of WARFRAME's 3rd Year Anniversary. It is obtainable through yearly anniversaries in March via Alerts, complete with a free weapon slot and a pre-installed Orokin Catalyst.
+
 ### Wiki
 Weapons
 A gift from the Lotus to commemorate the third anniversary of the first Tenno waking from Cryo stasis.
@@ -2298,8 +2331,6 @@ Characteristics
 This weapon deals primarily Slash damage.
 Sybaris
 Sybaris Prime
-**Acquisition:**
-The Dex Sybaris was released in commemoration of WARFRAME's 3rd Year Anniversary. It is obtainable through yearly anniversaries in March via Alerts, complete with a free weapon slot and a pre-installed Orokin Catalyst.
 **Notes:**
 Incarnon Genesis
 Upon completion of The Duviri Paradox and Angels of the Zariman, and unlocking The Steel Path, players can earn Sybaris Incarnon Genesis from The Circuit's Steel Path to place on their Sybaris with the help of Cavalero in the Chrysalith. This Incarnon Genesis form grants it evolutions to a transformation and newfound strength.
@@ -2326,6 +2357,9 @@ Crit Chance: 30.00% | Crit Multiplier: 3x | Status Chance: 20.00% | Fire Rate: 3
 ## Drakgoon
 The Drakgoon flak cannon sends volleys of intensely hot shrapnel ricocheting around the room. Can be fired in wide or concentrated bursts.
 
+### Acquisition
+The Drakgoon's blueprint can be purchased from the Market. Alternatively, it can be acquired from completing the Neptune to Pluto Junction.
+
 ### Wiki
 Weapons
 The Drakgoon Flak Cannon sends volleys of intensely hot shrapnel ricocheting around the room. Can be fired in wide or concentrated bursts.
@@ -2348,8 +2382,6 @@ Shrapnel projectiles have travel time.
 Shrapnel projectiles slow down by a great margin after ricocheting.
 Shrapnel will vanish after 2 seconds of leaving the weapon.
 Kuva Drakgoon
-**Acquisition:**
-The Drakgoon's blueprint can be purchased from the Market. Alternatively, it can be acquired from completing the Neptune to Pluto Junction.
 **Notes:**
 The projectiles bounce once when not charged, and bounce twice when fully charged. 
 The "Flak" from the weapon works with Mag's Magnetize and can headshot if it enters the field at a high enough point.
@@ -2517,6 +2549,9 @@ Crit Chance: 25.00% | Crit Multiplier: 2.2x | Status Chance: 38.00% | Fire Rate:
 ## Exergis
 Feel the kick of this Corpus shotgun as it shatters a high-yield crystal into anyone and anything standing in your way.
 
+### Acquisition
+The Exergis's blueprint can be purchased from the Market.
+
 ### Wiki
 Corpus
 Feel the kick of this Corpus shotgun as it shatters a high-yield crystal into anyone and anything standing in your way.
@@ -2531,8 +2566,6 @@ Innate Infinite Body Punch Through, and 0.5 meter punch through for surfaces.
 Has linear damage falloff from 100% to 49.2% from 30m to 60m target distance (distances are affected by Projectile Speed).
 Projectiles have travel time.
 Lowest pellet count of all pellet shotguns.
-**Acquisition:**
-The Exergis's blueprint can be purchased from the Market.
 **Notes:**
 Although the Arsenal shows a huge accuracy increase when using Tainted Shell, there doesn't seem to be a notable accuracy difference in practice.
 **Type:** Shotgun | **Mastery Req:** 8 | **Riven Disposition:** 3
@@ -2643,6 +2676,10 @@ Crit Chance: 4.00% | Crit Multiplier: 2x | Status Chance: 50.00% | Fire Rate: 0.
 ## Flux Rifle
 Laser Rifle with Corpus safe-guards removed.
 
+### Acquisition
+The Flux Rifle's blueprint can be researched from the Energy Lab in the dojo.
+This weapon can be sold for 7,500.
+
 ### Wiki
 Weapons
 Laser Rifle with Corpus safe-guards removed.
@@ -2662,9 +2699,6 @@ Thin continuous short range laser, requires precise aiming.
 Staggered opponents may 'jump' out of user's crosshair.
 Limited range of 30 meters.
 Tenet Flux Rifle
-**Acquisition:**
-The Flux Rifle's blueprint can be researched from the Energy Lab in the dojo.
-This weapon can be sold for 7,500.
 **Notes:**
 Because the 50 shots count as part of a single magazine rather than an ammo pool, mods like Ammo Drum have no effect.
 Can dismember and slice enemies, making it easier to cut through a line of enemies instead of firing at their corpses prematurely.
@@ -2687,6 +2721,10 @@ Crit Chance: 10.00% | Crit Multiplier: 2x | Status Chance: 24.00% | Fire Rate: 1
 
 ## Fulmin
 Strike with silent lightning or the pummeling drum of thunder. Alternate between stealthy short-range electrical discharge, and automatic lightning gun. Faster mode-switch when used by Wisp.
+
+### Acquisition
+The Fulmin's blueprint can be purchased from the Market.
+It can be sold for 7,500.
 
 ### Wiki
 Weapons
@@ -2717,9 +2755,6 @@ Innate punch through does not apply to surfaces if hitting with the central port
 Full-auto mode:
 Shots are alarming.
 Fulmin Prime
-**Acquisition:**
-The Fulmin's blueprint can be purchased from the Market.
-It can be sold for 7,500.
 **Type:** Rifle | **Mastery Req:** 8 | **Riven Disposition:** 3
 
 ### Full Auto Mode
@@ -2793,6 +2828,10 @@ Crit Chance: 30.00% | Crit Multiplier: 2.2x | Status Chance: 22.00% | Fire Rate:
 ## Glaxion
 Fires a photon beam that halts molecular vibrations, causing instant and painful freezing.
 
+### Acquisition
+The Glaxion's blueprint can be researched from the Energy Lab in the dojo.
+This weapon can be sold for 7,500.
+
 ### Wiki
 Weapons
 Fires a photon beam that halts molecular vibrations, causing instant and painful freezing.
@@ -2807,9 +2846,6 @@ Damage ramps up from 20% to 100% over 0.6 seconds when firing. After firing stop
 Limited range of 24 meters.
 Glaxion Vandal
 Tenet Glaxion
-**Acquisition:**
-The Glaxion's blueprint can be researched from the Energy Lab in the dojo.
-This weapon can be sold for 7,500.
 **Notes:**
 The Glaxion is capable of freezing enemies solid with sustained fire if it kills them. Enemies will progressively turn icy blue (spreading from the point of contact), and eventually become completely solid upon death. Frozen enemies can then be shattered by other attacks. This only applies to normal enemies such as Lancers, Crewmen, and MOAs - Ospreys will simply explode upon death.
 Even if the weapon is modified to have a non-Cold damage type (such as Blast damage), the Glaxion will still freeze foes solid if it kills them.
@@ -2835,6 +2871,10 @@ Crit Chance: 8.00% | Crit Multiplier: 2x | Status Chance: 34.00% | Fire Rate: 12
 ## Glaxion Vandal
 A cutting-edge, halogen-cooled electron accelerator capable of snap-freezing a target in moments.
 
+### Acquisition
+The weapon is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 250,000 and 475. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
+The weapon can be traded, but only when unranked and without Forma or an Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 12.
+
 ### Wiki
 Weapons
 A cutting-edge, halogen-cooled electron accelerator capable of snap-freezing a target in moments.
@@ -2857,9 +2897,6 @@ Limited range of 28 meters.
 Sinister Reach can be equipped to extend the maximum range.
 Glaxion
 Tenet Glaxion
-**Acquisition:**
-The weapon is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 250,000 and 475. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
-The weapon can be traded, but only when unranked and without Forma or an Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 12.
 **Type:** Rifle | **Mastery Req:** 12 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -2963,6 +3000,10 @@ Crit Chance: 19.00% | Crit Multiplier: 2.1x | Status Chance: 27.00% | Fire Rate:
 ## Gotva Prime
 Long before clone-rot set in, elite Grineer Commanders protected the surviving Orokin from rebelling Warframes with these formidable rifles. When Gotva Prime inflicts a Status Effect, its next shot has a chance to be a Super Critical hit.
 
+### Acquisition
+Gotva Prime is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 625,000 and 675. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
+The weapon can be traded, but only when unranked and without Forma or Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 14.
+
 ### Wiki
 Long before clone-rot set in, elite Grineer Commanders protected the surviving Orokin from rebelling Warframes with these formidable rifles. When Gotva Prime inflicts a Status Effect its next shot has a chance to be a Super Critical hit.
 Gotva Prime is a standalone Prime rifle, widely used by ancient Orokin Era Grineer soldiers during the final days of the Empire. Fully automatic with pure Puncture damage, Status Effects from the Gotva Prime have a chance to set the next shot to 300% Critical Chance.
@@ -2974,9 +3015,6 @@ The effect is triggered separately for each bullet when using Multishot, as well
 Whether an enemy hit via Punch Through can be subject to the increased crit chance depends on whether or not the previous enemy hit was inflicted with a status effect, not whether the previous shot did.
 Chance remains until landing another successful shot; missed shots will not reset the chance.
 Set Critical Chance ignores all other modifiers, whether from mods or Warframe abilities. However, the Vigilante set mods can increase the damage to that of a Tier-4 critical hit.
-**Acquisition:**
-Gotva Prime is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 625,000 and 675. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
-The weapon can be traded, but only when unranked and without Forma or Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 14.
 **Type:** Rifle | **Mastery Req:** 14 | **Riven Disposition:** 2
 
 ### Normal Attack
@@ -2985,6 +3023,9 @@ Crit Chance: 23.00% | Crit Multiplier: 2.5x | Status Chance: 27.00% | Fire Rate:
 
 ## Grakata
 Equipped with a huge Magazine and impressive Fire Rate, the Grakata is the preferred weapon of Grineer Lancers.
+
+### Acquisition
+The Grakata's blueprint can be purchased from the Market.
 
 ### Wiki
 Weapons
@@ -2997,8 +3038,6 @@ This weapon deals primarily Impact damage.
 Can use the Grakata-exclusive Brain Storm and Wild Frenzy mods.
 High recoil.
 Prisma Grakata
-**Acquisition:**
-The Grakata's blueprint can be purchased from the Market.
 **Notes:**
 This weapon can be treated as a side-grade to the Soma, trading critical chance, magazine capacity, recoil, damage, and critical damage multiplier in exchange for a much greater status chance, rate of fire and maximum ammo capacity. it also does not require a spin-up period to fire at full speed.
 Due to its inefficient ammo economy, one can find themselves running out of ammo very quickly.
@@ -3021,6 +3060,10 @@ Crit Chance: 25.00% | Crit Multiplier: 2x | Status Chance: 20.00% | Fire Rate: 2
 ## Grinlok
 With pinpoint accuracy, the Grinlok lever-action repeating rifle can easily find the soft spot on any target.
 
+### Acquisition
+The Grinlok's blueprint can be researched from the Chem Lab in the dojo.
+This weapon can be sold for 7,500.
+
 ### Wiki
 Weapons
 With pinpoint accuracy, the Grinlok lever-action repeating rifle can easily find the soft spot on any target.
@@ -3037,9 +3080,6 @@ Excellent ammo efficiency.
 Tied with Prisma Grinlok for the second slowest fire rate of all semi-automatic rifles, after Kuva Chakkhurr.
 Tied with Nagantaka for the lowest magazine size of all semi-automatic rifles.
 Prisma Grinlok
-**Acquisition:**
-The Grinlok's blueprint can be researched from the Chem Lab in the dojo.
-This weapon can be sold for 7,500.
 **Notes:**
 The Grinlok often ragdolls enemies on lethal shots, a side effect of it dealing mainly Impact damage.
 The Grinlok's focus on both Impact and Slash damage makes it generally effective against the Grineer and the Infested, respectively.
@@ -3064,6 +3104,10 @@ Crit Chance: 15.00% | Crit Multiplier: 2.5x | Status Chance: 35.00% | Fire Rate:
 ## Harpak
 Spike enemies to the wall or reel them in with this burst harpoon gun.
 
+### Acquisition
+The Harpak's blueprint can be purchased from the Market.
+This weapon can be sold for 7,500.
+
 ### Wiki
 Weapons
 Spike enemies to the wall or reel them in with this automatic harpoon gun.
@@ -3081,9 +3125,6 @@ The harpoon pull can interrupt enemy casting/power animations, including the cha
 Knockdown leaves target open for melee finishers.
 Can use the Harpak-exclusive Exposing Harpoon mod.
 Projectiles have travel time with arcing.
-**Acquisition:**
-The Harpak's blueprint can be purchased from the Market.
-This weapon can be sold for 7,500.
 **Type:** Rifle | **Mastery Req:** 7 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -3106,6 +3147,9 @@ Crit Chance: 25.00% | Crit Multiplier: 2.3x | Status Chance: 13.00% | Fire Rate:
 ## Hek
 The Hek is a powerful shotgun that fires its shots with a tight spread, making it efficient at medium range as long as its strong recoil is properly managed.
 
+### Acquisition
+The Hek's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 The Hek is a powerful shotgun that fires its shots with a tight spread, making it efficient at medium range as long as its strong recoil is properly managed.
@@ -3119,8 +3163,6 @@ Has linear damage falloff from 100% to 20% from 10m to 20m target distance (dist
 High recoil.
 Vaykor Hek
 Kuva Hek
-**Acquisition:**
-The Hek's blueprint can be purchased from the Market.
 **Tips:**
 Along with the Corinth and Vaykor Hek, the Hek is able to use Accelerated Blast more efficiently than other shotguns due to Puncture being its primary damage, which is uncommon among weapons in its class.
 Using the Shotgun Ammo Mutation mod can help regain ammo when needed, although not as often as the full auto shotguns.
@@ -3145,6 +3187,9 @@ Crit Chance: 10.00% | Crit Multiplier: 2x | Status Chance: 10.70% | Fire Rate: 2
 ## Helstrum
 Launches a swarm of micro-missiles.
 
+### Acquisition
+The Helstrum's blueprint can be purchased from Legs in Fortuna for 10,000 Standing, requiring Rank 5 - Old Mate with Solaris United. Note that this weapon also takes up one Companion inventory slot.
+
 ### Wiki
 Launches a swarm of micro-missiles.
 The Helstrum is a robotic launcher weapon that burst-fires four small homing missiles that explode and deal Heat damage. This weapon accepts Rifle Mods.
@@ -3156,8 +3201,6 @@ Explosions deal Heat damage.
 Initial hit and explosion apply status separately.
 Explosion does not need direct line of sight to deal damage and will penetrate walls.
 Innate Madurai polarity.
-**Acquisition:**
-The Helstrum's blueprint can be purchased from Legs in Fortuna for 10,000 Standing, requiring Rank 5 - Old Mate with Solaris United. Note that this weapon also takes up one Companion inventory slot.
 **Notes:**
 Fires in a quick 4-round burst, but then has a burst cycle time of 4 times the inverse of the Firing Rate, otherwise known as the Seconds Per Shot. The delay in seconds between the first shot of each burst = 4 / (modified firing rate), e.g. with a maxed Speed Trigger the cycle time is 4/(0.91 x (1 + 0.6)) = 2.75 seconds between bursts. The default rate is one burst every 4.4 seconds.
 Missiles have homing properties, allowing the whole salvo to reliably hit small and/or agile targets such as Ospreys.
@@ -3186,6 +3229,9 @@ Crit Chance: 5.00% | Crit Multiplier: 1.5x | Status Chance: 30.00% | Fire Rate: 
 ## Hema
 A bloodsucker. This symbiotic burst-rifle leeches health to forge its ammo and then restores health with each headshot.
 
+### Acquisition
+The Hema's blueprint can be researched from the Bio Lab in the dojo.
+
 ### Wiki
 Weapons
 A bloodsucker. This symbiotic burst-rifle leeches health to forge its ammo and then restores health with each headshot.The Hema is an Infested burst-fire rifle that uses no ammunition, instead demanding a health sacrifice to reload. It fires three-round bursts of Viral agents, life stealing on headshots to heal the user.
@@ -3201,8 +3247,6 @@ Functionally infinite ammo.
 Health drain can be detrimental in some cases.
 Projectiles have travel time and low flight speed.
 Coda Hema
-**Acquisition:**
-The Hema's blueprint can be researched from the Bio Lab in the dojo.
 **Notes:**
 The Hema is a highly accurate rifle that heals the player on headshots. To reload however, the player must lay out their arm as the weapon sucks some of their health. It will drain up to 5% of the player's max health depending on how much ammo needs to be replenished to the magazine. With the unmodded magazine size of 60, each bullet reloaded drains 0.083% max health.
 If the player is at 3 or lower health, it will not reload and the player will have no ammo until they get more health.
@@ -3228,6 +3272,12 @@ Crit Chance: 11.00% | Crit Multiplier: 2x | Status Chance: 25.00% | Fire Rate: 5
 ## Higasa
 Depend on Higasa when it rains bullets. Aiming creates a shield that blocks weapon fire. Kills and blocked shots charge a beam released by Alternate Fire.
 
+### Acquisition
+Higasa's blueprint and components can be obtained from Shrine Defense on Saya's Visions, Earth. Access requires completion of Saya's Vigil and Once Awake.
+Alternatively they can be purchased from Koumei's Shrine in Cetus with Fate Pearl, which are dropped by the Infested Oni at the end of Shrine Defense in quantities of 14-18 (20-24 on The Steel Path). Each component blueprint require 45 and the main blueprint requires 135, totaling 270 Fate Pearls for the whole set.
+Crafting
+Higasa also requires Fate Pearl to craft; 14 per component and 5 for the main blueprint, to a total of 47 Fate Pearls.
+
 ### Wiki
 Weapon
 Depend on Higasa when it rains bullets. Aiming creates a shield that blocks weapon fire. Kills and blocked shots charge a beam released by Alternate Fire.
@@ -3245,11 +3295,6 @@ Blocking another enemy attack while gauge is filling from blocking an enemy atta
 Innate 2 meters Punch Through.
 Can use the Higasa-exclusive Higasa Serration mod.
 Primary fire projectiles have travel time.
-**Acquisition:**
-Higasa's blueprint and components can be obtained from Shrine Defense on Saya's Visions, Earth. Access requires completion of Saya's Vigil and Once Awake.
-Alternatively they can be purchased from Koumei's Shrine in Cetus with Fate Pearl, which are dropped by the Infested Oni at the end of Shrine Defense in quantities of 14-18 (20-24 on The Steel Path). Each component blueprint require 45 and the main blueprint requires 135, totaling 270 Fate Pearls for the whole set.
-Crafting
-Higasa also requires Fate Pearl to craft; 14 per component and 5 for the main blueprint, to a total of 47 Fate Pearls.
 **Trivia:**
 The weapon may be named after a traditional Japanese parasol (日傘).
 **Type:** Rifle | **Mastery Req:** 2 | **Riven Disposition:** 4
@@ -3274,6 +3319,10 @@ Crit Chance: 24.00% | Crit Multiplier: 2x | Status Chance: 18.00% | Fire Rate: 1
 ## Hind
 A powerful mid-range rifle used by Grineer shock troops, the Hind fires in five round bursts.
 
+### Acquisition
+The Hind's blueprint can be purchased from the Market.
+This weapon can be sold for 7,500.
+
 ### Wiki
 Weapons
 A powerful mid-range rifle used by Grineer shock troops, the Hind fires in five round bursts.
@@ -3289,9 +3338,6 @@ Linearly less efficient – sometimes a target may only die with six bullets, wh
 Semi-auto mode:
 Tied with Kuva Hind and Nagantaka for the third slowest fire rate of all semi-automatic rifles, after Grinlok/Prisma Grinlok and Kuva Chakkhurr.
 Kuva Hind
-**Acquisition:**
-The Hind's blueprint can be purchased from the Market.
-This weapon can be sold for 7,500.
 **Notes:**
 This weapon was introduced in Update 9.6.
 Mods that affect fire rate will also affect the burst rate, making the Hind very deadly with mods that increase the firerate, and even more so with the addition of punch through.
@@ -3321,6 +3367,10 @@ Crit Chance: 15.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 2
 ## Ignis
 Ignis produces a stream of intense heat.
 
+### Acquisition
+The Ignis's blueprint can be researched from the Chem Lab in the dojo.
+This weapon can be sold for 7,500.
+
 ### Wiki
 Weapons
 The Ignis produces a stream of intense heat.
@@ -3341,9 +3391,6 @@ Innate punch through does not apply to surfaces, requiring punch through mods.
 Area of effect has a headshot multiplier of 1x and cannot trigger headshot conditions.
 Ignis Wraith
 Lower range (20 meters vs 27 meters)
-**Acquisition:**
-The Ignis's blueprint can be researched from the Chem Lab in the dojo.
-This weapon can be sold for 7,500.
 **Type:** Rifle | **Mastery Req:** 5 | **Riven Disposition:** 1
 
 ### Normal Attack
@@ -3408,6 +3455,10 @@ Crit Chance: 17.00% | Crit Multiplier: 2.5x | Status Chance: 29.00% | Fire Rate:
 ## Javlok
 Launch super-heated slugs at individual foes, or hurl the entire weapon and ignite groups of enemies in a flash inferno.
 
+### Acquisition
+The Javlok's blueprint can be researched from the Chem Lab in the dojo.
+This weapon can be sold for 7,500.
+
 ### Wiki
 Weapons
 Launch super-heated slugs at individual foes, or hurl the entire weapon and ignite groups of enemies in a flash inferno.
@@ -3434,9 +3485,6 @@ All explosions have a headshot multiplier of 1x and cannot trigger headshot cond
 Explosions have linear Damage Falloff from:
 100% to 70% from central impact on primary fire.
 100% to 40% from central impact on alternate fire.
-**Acquisition:**
-The Javlok's blueprint can be researched from the Chem Lab in the dojo.
-This weapon can be sold for 7,500.
 **Type:** Rifle | **Mastery Req:** 7 | **Riven Disposition:** 4
 
 ### Projectile Impact
@@ -3467,6 +3515,10 @@ Crit Chance: 20.00% | Crit Multiplier: 2x | Status Chance: 25.00% | Fire Rate: 1
 ## Karak
 Solid, dependable and deadly. The Karak is a standard issue rifle in many Grineer platoons.
 
+### Acquisition
+The Karak's blueprint can be purchased from the Market.
+This weapon can be sold for 7,500.
+
 ### Wiki
 Weapons
 Solid, dependable and deadly. The Karak is a standard issue rifle in many Grineer platoons.
@@ -3476,9 +3528,6 @@ This weapon deals primarily Impact damage.
 Low recoil.
 Karak Wraith
 Kuva Karak
-**Acquisition:**
-The Karak's blueprint can be purchased from the Market.
-This weapon can be sold for 7,500.
 **Tips:**
 With a Madurai polarity, the Karak is recommended to either have Serration, Split Chamber, or Speed Trigger as its first mod.
 The Karak is a solid anti-Grineer weapon due to its slight bias towards Impact damage over Puncture and Slash damage. Consider adding Bane of Grineer to further increase its effectiveness against them.
@@ -3509,6 +3558,10 @@ Crit Chance: 9.00% | Crit Multiplier: 1.5x | Status Chance: 15.00% | Fire Rate: 
 ## Karak Wraith
 A different take on the Grineer assault rifle, the Karak Wraith features unique styling.
 
+### Acquisition
+Karak Wraith was introduced during the Operation: Tubemen of Regor event, where players would need to complete a minimum of four regional battles in favor of one side more than the other, and Alad V was the victor of the conflict. Alad V had won the conflict in the PC and XB1 versions of the game, but not in the PS4. The weapon was fully built and came with a free weapon slot and a pre-installed Orokin Catalyst.
+The blueprint and parts were formerly a reward from the First and Third Seasons of Sorties; they can now be found as an Invasion reward. All components can be traded, although players must have a Mastery Rank of at least 7 to acquire the blueprint.
+
 ### Wiki
 Weapons
 A different take on the Grineer assault rifle, the Karak Wraith features unique styling.
@@ -3518,9 +3571,6 @@ This weapon deals primarily Impact damage.
 Low recoil.
 Karak
 Kuva Karak
-**Acquisition:**
-Karak Wraith was introduced during the Operation: Tubemen of Regor event, where players would need to complete a minimum of four regional battles in favor of one side more than the other, and Alad V was the victor of the conflict. Alad V had won the conflict in the PC and XB1 versions of the game, but not in the PS4. The weapon was fully built and came with a free weapon slot and a pre-installed Orokin Catalyst.
-The blueprint and parts were formerly a reward from the First and Third Seasons of Sorties; they can now be found as an Invasion reward. All components can be traded, although players must have a Mastery Rank of at least 7 to acquire the blueprint.
 **Trivia:**
 Curiously, the Karak Wraith's UI icon appears to be missing its magazine and the remainder of the hanging strap.
 The Karak Wraith is the sixth Wraith weapon to be released.
@@ -3544,6 +3594,10 @@ Crit Chance: 13.00% | Crit Multiplier: 2x | Status Chance: 25.00% | Fire Rate: 1
 ## Kohm
 For every shot fired in rapid succession the Kohm releases an additional bolt and grows more lethal.
 
+### Acquisition
+The Kohm's blueprint can be purchased from the Market.
+This weapon can be sold for 7,500.
+
 ### Wiki
 Weapons
 For every shot fired in rapid succession the Kohm releases an additional bolt and grows more lethal.
@@ -3553,9 +3607,6 @@ This weapon deals primarily Slash damage.
 Innate multishot that increases with auto-spool, each consecutive shot adds an additional pellet, up to a maximum of 12 pellets.
 Poor ammo efficiency; consumes 4 shells per shot at full spool.
 Kuva Kohm
-**Acquisition:**
-The Kohm's blueprint can be purchased from the Market.
-This weapon can be sold for 7,500.
 **Notes:**
 While holding the firing button, each time the Kohm shoots, it will add more pellets to the shot.
 At full spool it shoots 12 pellets and uses 4 ammo per shot.
@@ -3834,6 +3885,9 @@ Crit Chance: 21.00% | Crit Multiplier: 1.9x | Status Chance: 33.00% | Fire Rate:
 ## Kuva Karak
 The custom weapon of a fearsome Kuva Lich. It has greater reload speed, lower recoil and greater accuracy than the standard-issue Karak rifle.
 
+### Acquisition
+Adversary System/Weapons#Kuva Acquisition
+
 ### Wiki
 Grineer
 The custom weapon of a fearsome Kuva Lich. It has greater reload speed, lower recoil and greater accuracy than the standard-issue Karak rifle.
@@ -3851,13 +3905,10 @@ Low recoil.
 Innate punch through helps bypasses thin obstacles.
 Karak
 Karak Wraith
-**Acquisition:**
-Adversary System/Weapons#Kuva Acquisition
 **Notes:**
 Adversary System#Notes
 Adversary System/Progenitor
 FK_z5AMB78w
-26
 Karak, the normal variant.
 Karak Wraith, the Wraith variant.
 Kuva, the Kuva Lich version of a weapon.
@@ -3874,6 +3925,9 @@ Crit Chance: 23.00% | Crit Multiplier: 2.1x | Status Chance: 31.00% | Fire Rate:
 
 ## Kuva Kohm
 The Kuva Kohm variant has a higher fire rate than the original. For every shot fired in rapid succession the Kuva Kohm releases an additional bolt and grows more lethal.
+
+### Acquisition
+Adversary System/Weapons#Kuva Acquisition
 
 ### Wiki
 Weapons
@@ -3896,8 +3950,6 @@ Poor ammo efficiency; consumes 4 shells per shot at full spool.
 Very low accuracy at full spool.
 Low status chance per pellet at full spool.
 Kohm
-**Acquisition:**
-Adversary System/Weapons#Kuva Acquisition
 **Type:** Shotgun | **Mastery Req:** 13 | **Riven Disposition:** 3
 
 ### Single Pellet
@@ -3991,6 +4043,9 @@ Crit Chance: 31.00% | Crit Multiplier: 2.3x | Status Chance: 27.00% | Fire Rate:
 ## Kuva Sobek
 The Kuva Sobek’s exceptional Reload Speed, Critical Chance, and Status Chance make it a natural fit for the Kuva Lich’s dominant spirit.
 
+### Acquisition
+Adversary System/Weapons#Kuva Acquisition
+
 ### Wiki
 Grineer
 The Kuva Sobek's exceptional Reload Speed, Critical Chance, and Status Chance make it a natural fit for the Kuva Lich's dominant spirit.
@@ -4005,8 +4060,6 @@ Polarizing the weapon increases its max rank by 2, capping at rank 40 after 5 po
 Elemental Vice can be applied to the weapon after it has reached rank 40, allowing the bonus damage type to be swapped freely.
 Listed Mastery Rank requirement is not enforced - the weapon may theoretically be obtained at any mastery rank by acquiring and vanquishing a Kuva Lich that has this weapon equipped.
 Sobek
-**Acquisition:**
-Adversary System/Weapons#Kuva Acquisition
 **Notes:**
 Adversary System#Notes
 Adversary System/Progenitor
@@ -4118,6 +4171,9 @@ Crit Chance: 37.00% | Crit Multiplier: 2.5x | Status Chance: 9.70% | Fire Rate: 
 ## Lacerten
 Hound melee attacks devastate with Impact and Slash Damage.
 
+### Acquisition
+The Lacerten is automatically acquired upon claiming a Hound configured with the Bhaira Model. Note that this weapon also takes up one Sentinel inventory slot.
+
 ### Wiki
 Hound melee attacks devastate with Impact and Slash damage.
 Lacerten is a Hound weapon that devastates enemies with Impact and Slash damage.
@@ -4129,8 +4185,6 @@ Very high critical multiplier.
 Good status chance.
 Disadvantages:
 Low critical chance.
-**Acquisition:**
-The Lacerten is automatically acquired upon claiming a Hound configured with the Bhaira Model. Note that this weapon also takes up one Sentinel inventory slot.
 **Notes:**
 The Akaten, Batoten and Lacerten are all statistically identical (speed, critical, status, etc.) other than their physical damage types. All three are 50%/50% split between two physical damages, with the three weapons covering the three possible combinations.
 Because of the weapon's base Impact damage and the Hound's reasonable attack speed, it may be beneficial to add Shattering Impact when embarking on missions against enemies that possess armor, such as Grineer, Corrupted or Infested (in case Swarm Mutalist MOAs appear).
@@ -4147,6 +4201,9 @@ Crit Chance: 10.00% | Crit Multiplier: 3x | Status Chance: 15.00% | Fire Rate: 1
 
 ## Lanka
 The Lanka fires a high velocity projectile through magnetic induction.
+
+### Acquisition
+The Lanka's blueprint can be researched from the Energy Lab in the dojo.
 
 ### Wiki
 Weapons
@@ -4171,8 +4228,6 @@ Projectiles have travel time, slightly hindering its long-ranged potential.
 Longest shot combo reset time of all sniper rifles.
 Has linear damage falloff from 100% to 50% from 400m to 600m target distance (distances are affected by Projectile Speed).
 Fairly slow charge speed.
-**Acquisition:**
-The Lanka's blueprint can be researched from the Energy Lab in the dojo.
 **Type:** Sniper | **Mastery Req:** 10 | **Riven Disposition:** 3
 
 ### Partially Charged Shot
@@ -4195,6 +4250,9 @@ Crit Chance: 25.00% | Crit Multiplier: 2x | Status Chance: 25.00%
 ## Laser Rifle
 A laser rifle developed by reverse-engineering Corpus technology.
 
+### Acquisition
+The Laser Rifle is automatically acquired upon obtaining Wyrm. Note that this weapon also takes up one Companion inventory slot.
+
 ### Wiki
 A laser rifle developed by reverse-engineering Corpus technology.
 The Laser Rifle is the default robotic weapon for the Wyrm Sentinel. This weapon fires a series of projectiles in quick succession. This weapon accepts Rifle Mods.
@@ -4202,8 +4260,6 @@ This weapon can be sold for 1,250.
 Characteristics
 This weapon deals primarily Puncture damage.
 Prime Laser Rifle
-**Acquisition:**
-The Laser Rifle is automatically acquired upon obtaining Wyrm. Note that this weapon also takes up one Companion inventory slot.
 **Notes:**
 Ammo Drum does not affect the Laser Rifle, as Sentinel weapons do not run out of ammo.
 Magazine Warp only increases magazine by 2 rounds.
@@ -4215,6 +4271,10 @@ Crit Chance: 17.00% | Crit Multiplier: 1.8x | Status Chance: 7.50% | Fire Rate: 
 
 ## Latron
 The Latron is a highly efficient rifle that performs well at medium and at long range, its accuracy making it a deadly weapon in the hands of skilled marksmen.
+
+### Acquisition
+The Latron's blueprint can be purchased from the Market.
+This weapon can be sold for 7,500.
 
 ### Wiki
 Weapons
@@ -4230,9 +4290,6 @@ Very ammo efficient.
 Third lowest damage of all semi-automatic rifles, after Stradavar and Tiberon Prime.
 Latron Prime
 Latron Wraith
-**Acquisition:**
-The Latron's blueprint can be purchased from the Market.
-This weapon can be sold for 7,500.
 **Notes:**
 The Latron is noticeably quiet compared to other rifles, capable of being fired without alerting enemies within the same tile.
 Incarnon Genesis
@@ -4317,6 +4374,11 @@ Crit Chance: 44.00% | Crit Multiplier: 3.4x | Status Chance: 30.00% | Fire Rate:
 ## Latron Wraith
 The Latron Wraith is a powerful variation of the standard, semi-automatic rifle that features unique styling.
 
+### Acquisition
+This weapon was awarded during the Operation: Cryotic Front event to players who extracted 3000 Cryotic in a single mission, complete with a free weapon slot and a pre-installed Orokin Catalyst.
+The blueprint and parts were formerly a reward from the Eighth Season of Sorties; they can now be found as an Invasion reward. All components can be traded, although players must have a Mastery Rank of at least 7 to acquire the blueprint.
+This weapon can be sold for 7,500.
+
 ### Wiki
 Weapons
 The Latron Wraith is a powerful variation of the standard, semi-automatic rifle that features unique styling.
@@ -4333,10 +4395,6 @@ Moderate recoil.
 Higher than average zoom impairs close quarters firing.
 Latron
 Latron Prime
-**Acquisition:**
-This weapon was awarded during the Operation: Cryotic Front event to players who extracted 3000 Cryotic in a single mission, complete with a free weapon slot and a pre-installed Orokin Catalyst.
-The blueprint and parts were formerly a reward from the Eighth Season of Sorties; they can now be found as an Invasion reward. All components can be traded, although players must have a Mastery Rank of at least 7 to acquire the blueprint.
-This weapon can be sold for 7,500.
 **Notes:**
 Incarnon Genesis
 Upon completion of The Duviri Paradox and Angels of the Zariman, and unlocking The Steel Path, players can earn Latron Incarnon Genesis from The Circuit's Steel Path to place on their Latron with the help of Cavalero in the Chrysalith. This Incarnon Genesis form grants it evolutions to a transformation and newfound strength.
@@ -4473,6 +4531,10 @@ Crit Chance: 20.00% | Crit Multiplier: 3.3x | Status Chance: 56.00% | Fire Rate:
 ## Mk1-Braton
 The MK1-Braton is the standard issue rifle for all Tenno. A versatile weapon that can be customized to support a wide variety of play styles.
 
+### Acquisition
+Mk1-Braton be purchased from the Market for 15,000.
+It can be sold for 2,500.
+
 ### Wiki
 Tenno
 The Mk1-Braton is the standard issue rifle for all Tenno. A versatile weapon that can be customized to support a wide variety of play styles.
@@ -4483,9 +4545,6 @@ Low recoil.
 Braton
 Braton Prime
 Braton Vandal
-**Acquisition:**
-Mk1-Braton be purchased from the Market for 15,000.
-It can be sold for 2,500.
 **Notes:**
 Incarnon Genesis
 Upon completion of The Duviri Paradox and Angels of the Zariman, and unlocking The Steel Path, players can earn Braton Incarnon Genesis from The Circuit's Steel Path to place on their Braton with the help of Cavalero in the Chrysalith. This Incarnon Genesis form grants it evolutions to a transformation and newfound strength.
@@ -4514,6 +4573,9 @@ Crit Chance: 20.00% | Crit Multiplier: 2.4x | Status Chance: 10.00% | Fire Rate:
 ## Mk1-Paris
 The MK1-Paris is the standard issue bow for all Tenno.
 
+### Acquisition
+Mk1-Paris can be purchased from the Market for 15,000.
+
 ### Wiki
 Weapons
 The Mk1-Paris is the standard issue bow for all Tenno.
@@ -4523,8 +4585,6 @@ Characteristics
 This weapon deals primarily Puncture damage.
 Paris
 Paris Prime
-**Acquisition:**
-Mk1-Paris can be purchased from the Market for 15,000.
 **Notes:**
 The MK-1 Paris is a slightly weaker version of the standard Paris, with less overall damage. It handles identically otherwise. However, it has a very minuscule 0.1 second faster reload.
 Enemies will notice missed arrows but arrows that hit are silent.
@@ -4549,6 +4609,9 @@ Crit Chance: 40.00% | Crit Multiplier: 3x | Status Chance: 20.00% | Fire Rate: 1
 ## Mk1-Strun
 The Strun is a standard shotgun. Reliable, versatile and deadly.
 
+### Acquisition
+A built Mk1-Strun can be purchased from the Market for 15,000.
+
 ### Wiki
 Weapons
 The Strun is a standard issue shotgun for all Tenno. Reliable, versatile and deadly.
@@ -4568,8 +4631,6 @@ Tied with Strun for the second slowest reload speed of all shotguns, after Strun
 Strun
 Strun Wraith
 Strun Prime
-**Acquisition:**
-A built Mk1-Strun can be purchased from the Market for 15,000.
 **Notes:**
 Reload time is 0.75s + 0.5s per round, coming to 3.75 total seconds to reload a completely empty mag.
 This time will further increase if magazine mods such as Ammo Stock are used.
@@ -4595,13 +4656,14 @@ Crit Chance: 44.00% | Crit Multiplier: 3x | Status Chance: 40.00% | Fire Rate: 1
 ## Multron
 Launches a volley of bomb darts that embed themselves in targets, exploding a short time later.
 
+### Acquisition
+The Multron is automatically acquired upon obtaining Oxylus. Note that this weapon also takes up one Companion inventory slot.
+
 ### Wiki
 Fires a burst of armor-piercing rounds.
 The Multron is the default robotic weapon for the Oxylus Sentinel that fires explosive Blast darts. This weapon accepts Rifle Mods.
 Characteristics
 This weapon deals primarily Blast damage.
-**Acquisition:**
-The Multron is automatically acquired upon obtaining Oxylus. Note that this weapon also takes up one Companion inventory slot.
 **Type:** Companion Weapon | **Mastery Req:** 3 | **Riven Disposition:** 3
 
 ### Projectile Impact
@@ -4614,6 +4676,9 @@ Crit Chance: 15.00% | Crit Multiplier: 2x | Status Chance: 22.00% | Fire Rate: 2
 
 ## Mutalist Cernos
 Overcome with Infestation, this bow's arrows now spread poisonous contagion to any surface they hit.
+
+### Acquisition
+The Mutalist Cernos's blueprint can be purchased from the Market.
 
 ### Wiki
 Weapons
@@ -4639,8 +4704,6 @@ Pinpoint accuracy when aiming (RMB).
 Silent.
 Arrows have travel time with slight arcing.
 Second lowest critical chance of all bows, after Proboscis Cernos.
-**Acquisition:**
-The Mutalist Cernos's blueprint can be purchased from the Market.
 **Type:** Rifle | **Mastery Req:** 7 | **Riven Disposition:** 5
 
 ### Uncharged Shot
@@ -4667,6 +4730,9 @@ Crit Chance: 15.00% | Crit Multiplier: 2x | Status Chance: 49.00% | Fire Rate: 1
 ## Mutalist Quanta
 A bizarre union of Corpus technology and Infested biology, this automatic rifle can also deploy an irradiated airborne infested mass. Further field testing is required to fully understand the potential of this weapon.
 
+### Acquisition
+The Mutalist Quanta's blueprint can be researched from the Bio Lab in the dojo.
+
 ### Wiki
 Weapons
 A bizarre union of Corpus technology and Infested biology, this automatic rifle can also deploy an irradiated airborne infested mass. Further field testing is required to fully understand the potential of this weapon.
@@ -4685,8 +4751,6 @@ Explosion has a headshot multiplier of 1x and cannot trigger headshot conditions
 Explosion has linear Damage Falloff from 100% to 50% from central impact.
 Quanta
 Quanta Vandal
-**Acquisition:**
-The Mutalist Quanta's blueprint can be researched from the Bio Lab in the dojo.
 **Type:** Rifle | **Mastery Req:** 2 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -4792,6 +4856,10 @@ Crit Chance: 25.00% | Crit Multiplier: 2.3x | Status Chance: 39.00% | Fire Rate:
 ## Nataruk
 Hunhow’s gift, carved from the bones of his kin. Shots can be charged and held; release them just before full charge for maximum effect.
 
+### Acquisition
+Nataruk is given upon completion of The New War, complete with a free weapon slot and a pre-installed Orokin Catalyst.
+Additional copies of Nataruk can be bought from Cephalon Simaris for 100,000 Standing.
+
 ### Wiki
 Weapons
 Hunhow's gift, carved from the bones of his kin. Shots can be charged and held; release them just before the full charge for maximum effect.
@@ -4805,9 +4873,6 @@ Four innate V polarities.
 Quick shots have a forced Impact proc.
 Infinite ammo.
 Charged and Perfect Shots have a headshot multiplier of 1x.
-**Acquisition:**
-Nataruk is given upon completion of The New War, complete with a free weapon slot and a pre-installed Orokin Catalyst.
-Additional copies of Nataruk can be bought from Cephalon Simaris for 100,000 Standing.
 **Notes:**
 Charged and perfect shot arrows are coated with Void-like trails and "explode" on impact.
 However, despite the visuals, the weapon has no area of effect properties.
@@ -4833,6 +4898,10 @@ Crit Chance: 60.00% | Crit Multiplier: 2.4x | Status Chance: 50.00% | Fire Rate:
 ## Ogris
 Ogris fires detonite-infused casings.
 
+### Acquisition
+The Ogris's blueprint can be researched from the Chem Lab in the dojo.
+This weapon can be sold for 7,500.
+
 ### Wiki
 Weapons
 The Ogris fires detonite infused casings.
@@ -4853,9 +4922,6 @@ Explosion has a headshot multiplier of 1x and cannot trigger headshot conditions
 Explosion has linear Damage Falloff from 100% to 20% from central impact.
 Kuva Ogris
 Trigger type (Charge vs Semi)
-**Acquisition:**
-The Ogris's blueprint can be researched from the Chem Lab in the dojo.
-This weapon can be sold for 7,500.
 **Type:** Launcher | **Mastery Req:** 9 | **Riven Disposition:** 4
 
 ### Rocket Impact
@@ -4877,6 +4943,9 @@ Crit Chance: 5.00% | Crit Multiplier: 2x | Status Chance: 35.00% | Fire Rate: 1.
 
 ## Opticor
 Once charged this Corpus laser cannon dispatches a devastating blast of light energy.
+
+### Acquisition
+The Opticor's blueprint can be researched from the Energy Lab in the dojo.
 
 ### Wiki
 Weapons
@@ -4904,8 +4973,6 @@ Explosion inflicts self-stagger.
 Explosion has a headshot multiplier of 1x and cannot trigger headshot conditions.
 Explosion has linear Damage Falloff from 100% to 40% from central impact.
 Opticor Vandal
-**Acquisition:**
-The Opticor's blueprint can be researched from the Energy Lab in the dojo.
 **Type:** Rifle | **Mastery Req:** 14 | **Riven Disposition:** 4
 
 ### Charged Shot
@@ -4936,6 +5003,9 @@ Crit Chance: 20.00% | Crit Multiplier: 2.5x | Status Chance: 20.00% | Fire Rate:
 ## Opticor Vandal
 With a precision crafted lens, this customized Opticor achieves a level of performance previously thought impossible.
 
+### Acquisition
+This weapon is awarded for earning 100 points from the recurring Thermia Fractures event that was first introduced in Operation: Buried Debts, complete with a free weapon slot and a pre-installed Orokin Catalyst. The points are cumulative across all Thermia Fractures events, thus the weapon can only be acquired once this way.
+
 ### Wiki
 Weapons
 With a precision crafted lens, this customized Opticor achieves a level of performance previously thought impossible.
@@ -4962,8 +5032,6 @@ Explosion inflicts self-stagger.
 Explosion has a headshot multiplier of 1x and cannot trigger headshot conditions.
 Explosion has linear Damage Falloff from 100% to 40% from central impact.
 Opticor
-**Acquisition:**
-This weapon is awarded for earning 100 points from the recurring Thermia Fractures event that was first introduced in Operation: Buried Debts, complete with a free weapon slot and a pre-installed Orokin Catalyst. The points are cumulative across all Thermia Fractures events, thus the weapon can only be acquired once this way.
 **Type:** Rifle | **Mastery Req:** 14 | **Riven Disposition:** 3
 
 ### Charged Shot
@@ -4985,6 +5053,9 @@ Crit Chance: 24.00% | Crit Multiplier: 2.6x | Status Chance: 30.00% | Fire Rate:
 ## Panthera
 Firing high-velocity blades, this weapon can also be used as a battle-saw, shredding anything unfortunate enough to get within range.
 
+### Acquisition
+The Panthera's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 Firing high-velocity blades, this weapon can also be used as a battle-saw, shredding anything unfortunate enough to get into range.
@@ -4998,8 +5069,6 @@ Can be deployed without consequence when no targets exist.
 Can use the Panthera-exclusive Disarming Purity Augment mod.
 Double ammo consumption reduces overall ammo efficiency.
 Panthera Prime
-**Acquisition:**
-The Panthera's blueprint can be purchased from the Market.
 **Notes:**
 The Panthera's primary fire mode shoots fast-moving sawblades that will ricochet off walls and enemies up to 3 times.
 The Panthera has a Alternate Fire mode initiated by holding down the alternate fire key (default MMB). This levitates a spinning sawblade up to 6 meters in front of the weapon, dealing continuous damage to enemies that make contact with it, as well as staggering them.
@@ -5073,6 +5142,9 @@ Crit Chance: 26.00% | Crit Multiplier: 2x | Status Chance: 38.00% | Fire Rate: 2
 ## Paracyst
 Completely overwhelmed by Infested biology, this former Quanta now fires organic ordnance and a harpoon like appendage.
 
+### Acquisition
+The Paracyst's blueprint can be researched from the Bio Lab in the dojo.
+
 ### Wiki
 Weapons
 Completely overwhelmed by Infested biology, this former Quanta now fires organic ordinance and a harpoon like appendage.
@@ -5087,8 +5159,6 @@ Second fastest fire rate of all burst-fire weapons, behind Burston Prime.
 Second lowest base damage per bullet of all burst-fire rifles, after Burston/Hind/Kuva Hind.
 Linearly less efficient – sometimes a target may only die with 4 bullets, which requires an entire second burst to be fired or the Infested Harpoon.
 All projectiles have travel time.
-**Acquisition:**
-The Paracyst's blueprint can be researched from the Bio Lab in the dojo.
 **Notes:**
 Spore pull can interrupt enemy casting/power animations, including the charge-up for Railgun MOAs.
 The secondary fire ragdolls enemies it hits as it pulls them to the user. Enemies that are hit gain a yellow aura that prevents them from being grabbed again until they recover.
@@ -5120,6 +5190,9 @@ Crit Chance: 0.00% | Crit Multiplier: 1x | Status Chance: 30.00% | Fire Rate: 1
 ## Paris
 Based on one of the world's oldest weapon designs, this Tenno-crafted weapon can be used both in stealth and in open combat. The Paris uses a chargeable magnetic field to launch arrows capable of impaling enemies to walls.
 
+### Acquisition
+The Paris's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 Based on one of the world's oldest weapon designs, this Tenno-crafted weapon can be used both in stealth and in open combat. The Paris uses a chargeable magnetic field to launch arrows capable of impaling enemies to walls.
@@ -5129,8 +5202,6 @@ Characteristics
 This weapon deals primarily Puncture damage.
 Mk1-Paris
 Paris Prime
-**Acquisition:**
-The Paris's blueprint can be purchased from the Market.
 **Notes:**
 Enemies will notice missed arrows but arrows that hit are silent.
 Arrows have a large amount of momentum, allowing players to pin enemies to walls. However, a dead body will not lose its momentum if it hits a closed door, so the body will fly through it as soon as the door opens.
@@ -5208,6 +5279,10 @@ Crit Chance: 50.00% | Crit Multiplier: 3.4x | Status Chance: 20.00% | Fire Rate:
 ## Penta
 The Penta Launcher fires up to five grenades that can be remotely triggered at just the right moment.
 
+### Acquisition
+The Penta's blueprint can be purchased from the Market. Alternatively, it can be acquired from completing the Jupiter to Saturn Junction.
+This weapon can be sold for 7,500.
+
 ### Wiki
 Weapons
 The Penta Launcher fires up to five grenades that can be remotely triggered at just the right moment.
@@ -5232,9 +5307,6 @@ Explosion has a headshot multiplier of 1x and cannot trigger headshot conditions
 Explosion has linear Damage Falloff from 100% to 50% from central impact.
 Secura Penta
 Carmine Penta
-**Acquisition:**
-The Penta's blueprint can be purchased from the Market. Alternatively, it can be acquired from completing the Jupiter to Saturn Junction.
-This weapon can be sold for 7,500.
 **Type:** Launcher | **Mastery Req:** 6 | **Riven Disposition:** 5
 
 ### Grenade Impact
@@ -5321,6 +5393,9 @@ Crit Chance: 32.00% | Crit Multiplier: 2.6x | Status Chance: 20.00% | Fire Rate:
 ## Phage
 Fires seven beams of continuous biochemical energy which depletes the life of any surface they contact.
 
+### Acquisition
+The Phage's blueprint can be researched from the Bio Lab in the dojo.
+
 ### Wiki
 Weapons
 Fires seven beams of continuous biochemical energy which depletes the life from any surface they contact.
@@ -5342,8 +5417,6 @@ Wide initial spread.
 Beam focus time cannot be modified by any means.
 Loses focus if firing is interrupted or released.
 Limited range of 25 meters.
-**Acquisition:**
-The Phage's blueprint can be researched from the Bio Lab in the dojo.
 **Notes:**
 The time required for the beams to fully focus is approximately 0.5 seconds.
 Sprinting, falling, or otherwise interrupting your movement will result in the Phage's focus being reset to its maximum spread.
@@ -5489,6 +5562,9 @@ Crit Chance: 3.00% | Crit Multiplier: 1.5x | Status Chance: 37.00% | Fire Rate: 
 ## Phenmor
 Zariman colonists originally intended to use the Phenmor in burial rites. In Orokin society, the higher the rank, the greater number of volleys for the deceased. Its stock is carved from Phenaureus Pine, a tree designed to release seedlings only onto scorched earth. In the hands of the Void, the Phenmor becomes darkly aggressive.
 
+### Acquisition
+Phenmor's main blueprint is purchased from Cavalero of The Holdfasts at Rank 2 - Watcher for 6,000 Standing Standing. The blueprint can be traded.
+
 ### Wiki
 Weapons
 Zariman colonists originally intended to use the Phenmor in burial rites. In Orokin society, the higher the rank, the greater number of volleys for the deceased. Its stock is carved from Phenaureus Pine, a tree designed to release seedlings only onto scorched earth. In the hands of the Void, the Phenmor becomes darkly aggressive.
@@ -5504,8 +5580,6 @@ Gains increased base fire rate, 3 meter Punch Through, and significantly reduced
 Fire rate decreases from 100% to 60% over 51 shots as the trigger is held, reducing its effectiveness from prolonged periods of firing.
 Instead of drawing from the Phenmor's ammo reserves, Incarnon Form gives the Phenmor a unique "magazine" from 34 rounds per charge to a maximum of 408, indicated by a bar underneath the reticle.
 If the Alternate Fire key is pressed whether or not the Incarnon magazine is fully expended, the Phenmor is transformed back into its default state.
-**Acquisition:**
-Phenmor's main blueprint is purchased from Cavalero of The Holdfasts at Rank 2 - Watcher for 6,000 Standing Standing. The blueprint can be traded.
 **Type:** Rifle | **Mastery Req:** 14 | **Riven Disposition:** 1
 
 ### Normal Attack
@@ -5528,6 +5602,9 @@ Crit Chance: 20.00% | Crit Multiplier: 2x | Status Chance: 20.00% | Fire Rate: 1
 ## Prime Laser Rifle
 A Prime Laser Rifle.
 
+### Acquisition
+The Prime Laser Rifle is automatically acquired upon obtaining Wyrm Prime. Note that this weapon also takes up one Companion inventory slot.
+
 ### Wiki
 A Prime Laser Rifle.
 The Prime Laser Rifle is the default robotic weapon for the Wyrm Prime Sentinel, and the Primed counterpart of the Laser Rifle featuring all-around improved damage. This weapon accepts Rifle Mods.
@@ -5535,8 +5612,6 @@ This weapon can be sold for 1,250.
 Characteristics
 This weapon deals primarily Puncture damage.
 Laser Rifle
-**Acquisition:**
-The Prime Laser Rifle is automatically acquired upon obtaining Wyrm Prime. Note that this weapon also takes up one Companion inventory slot.
 **Trivia:**
 The Prime Laser Rifle can be visually distinguished from the Laser Rifle by its golden yellow projectiles while firing, as opposed to the latter's blue projectiles.
 The Prime Laser Rifle is the first Primed Robotic Weapon, and the first Primed item to have the term "Prime" as prefix rather than a suffix.
@@ -5551,6 +5626,11 @@ Crit Chance: 20.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 5
 ## Prisma Burst Laser
 Fires a small burst of lasers.
 
+### Acquisition
+The Prisma Burst Laser is automatically acquired upon purchasing Prisma Shade from Baro Ki'Teer in the Concourse section of the Tenno Relay for 300,000 and 500. Note that Baro Ki'Teer's stock changes with each appearance, and this item may not be available on a succeeding appearance.
+Prisma Burst Laser can be traded, but only for unranked copies without Forma and Orokin Catalyst installed.
+Note that this weapon also takes up one Companion inventory slot.
+
 ### Wiki
 Fires a small burst of lasers.
 The Prisma Burst Laser is the default weapon for the Prisma Shade Sentinel and is a special Prisma version of the three-round burst-fire Burst Laser. This weapon accepts Pistol Mods.
@@ -5559,10 +5639,6 @@ Characteristics
 This weapon deals primarily Puncture damage.
 Burst Laser
 Burst Laser Prime
-**Acquisition:**
-The Prisma Burst Laser is automatically acquired upon purchasing Prisma Shade from Baro Ki'Teer in the Concourse section of the Tenno Relay for 300,000 and 500. Note that Baro Ki'Teer's stock changes with each appearance, and this item may not be available on a succeeding appearance.
-Prisma Burst Laser can be traded, but only for unranked copies without Forma and Orokin Catalyst installed.
-Note that this weapon also takes up one Companion inventory slot.
 **Notes:**
 Its reload time of 0.0 seconds means that the Prisma Burst Laser takes no breaks from firing, while the sentinel is not preoccupied. This also means that its magazine size and reload speed modifications are irrelevant. Furthermore, it benefits more from fire rate than other weapons, due to its fire rate not impacting how much time it will spend reloading. This is converse to Prime Laser Rifle, which spends its entire magazine in a third of a second.
 **Tips:**
@@ -5578,6 +5654,10 @@ Crit Chance: 18.00% | Crit Multiplier: 2.1x | Status Chance: 10.00% | Fire Rate:
 ## Prisma Gorgon
 Adorned with void hardened prisma crystal, this Gorgon variant is prized for its beauty and enhanced mechanics.
 
+### Acquisition
+The Prisma Gorgon is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 50,000 and 600. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
+The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 11.
+
 ### Wiki
 Weapons
 Adorned with void hardened prisma crystal, this Gorgon variant is prized for its beauty and enhanced mechanics.
@@ -5592,9 +5672,6 @@ Can use the Gorgon-exclusive mod Gorgon Frenzy (Conclave only).
 Spool-up creates a warm-up period of weakness for fire rate, making short engagements undesirable.
 Gorgon
 Gorgon Wraith
-**Acquisition:**
-The Prisma Gorgon is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 50,000 and 600. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
-The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 11.
 **Notes:**
 While the Prisma Gorgon has the same vertical recoil behavior as the Gorgon and the Gorgon Wraith, it has significantly reduced horizontal recoil, which combined with higher accuracy stats makes the weapon overall more manageable at longer ranges.
 **Type:** Rifle | **Mastery Req:** 11 | **Riven Disposition:** 4
@@ -5614,6 +5691,10 @@ Crit Chance: 27.00% | Crit Multiplier: 2.3x | Status Chance: 21.00% | Fire Rate:
 ## Prisma Grakata
 Encased in plates refined from pure prisma crystals, this rare element gives this assault rifle a radiant luster.
 
+### Acquisition
+The Prisma Grakata is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 100,000 and 610. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
+The weapon can be traded, but only when unranked and without Forma or Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 11.
+
 ### Wiki
 Weapons
 Encased in plates refined from pure Prisma crystals, this rare element gives this assault rifle a radiant luster.
@@ -5623,9 +5704,6 @@ This weapon deals primarily Impact damage.
 Can use the Grakata-exclusive Brain Storm and Wild Frenzy mods.
 High recoil.
 Grakata
-**Acquisition:**
-The Prisma Grakata is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 100,000 and 610. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
-The weapon can be traded, but only when unranked and without Forma or Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 11.
 **Tips:**
 Due to a high rate of fire and a high critical chance, Critical Delay can be used with the Prisma Grakata to lower the fire rate (effectively making the weapon easier to handle and reduces ammo cost) and increase the critical chance at the cost of slightly lower overall DPS.
 Compared to other rifles with high rates of fire, the Prisma Grakata has a high chance to cause status effects, which goes well with builds designed to weaken, confuse, or stun enemies.
@@ -5645,6 +5723,12 @@ Crit Chance: 25.00% | Crit Multiplier: 2.5x | Status Chance: 21.00% | Fire Rate:
 ## Prisma Grinlok
 Prisma-crystal enhancement creates here a prestige instrument; a weapon capable of taking life at astonishing range with but a single pull of its exquisitely-tooled trigger.
 
+### Acquisition
+The Prisma Grinlok is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 220,000 and ‍500. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
+The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 11.
+Gvm4T0WYHVE
+24.4
+
 ### Wiki
 Weapons
 Prisma-crystal enhancement creates here a prestige instrument; a weapon capable of taking life at astonishing range with but a single pull of its exquisitely-tooled trigger.
@@ -5661,11 +5745,6 @@ Very small spread.
 Excellent ammo efficiency.
 Tied with Grinlok for the second slowest fire rate of all semi-automatic rifles, after Kuva Chakkhurr.
 Grinlok
-**Acquisition:**
-The Prisma Grinlok is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 220,000 and ‍500. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
-The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 11.
-Gvm4T0WYHVE
-24.4
 **Type:** Rifle | **Mastery Req:** 11 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -5674,6 +5753,10 @@ Crit Chance: 21.00% | Crit Multiplier: 2.9x | Status Chance: 37.00% | Fire Rate:
 
 ## Prisma Lenz
 The explosive potential of the Lenz, enhanced with Prisma crystals.
+
+### Acquisition
+The Prisma Lenz is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 200,000 and 575. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
+The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 12.
 
 ### Wiki
 Corpus
@@ -5695,9 +5778,6 @@ Innate Arrow Mutation effect.
 Can benefit from Firestorm (Primed Firestorm) and Cautious Shot.
 Fire rate mods apply double their bonuses.
 Lenz
-**Acquisition:**
-The Prisma Lenz is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 200,000 and 575. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
-The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 12.
 **Type:** Bow | **Mastery Req:** 12 | **Riven Disposition:** 3
 
 ### Charged Shot
@@ -5715,6 +5795,10 @@ Crit Chance: 50.00% | Crit Multiplier: 2.8x | Status Chance: 16.00% | Fire Rate:
 ## Prisma Tetra
 When bathed in Void energy and prisma crystal, the simple Tetra becomes a beacon of style and intimidation.
 
+### Acquisition
+The Prisma Tetra is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 50,000 and 400. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
+The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 4.
+
 ### Wiki
 Weapons
 When bathed in void energy and Prisma crystal, the simple Tetra becomes a beacon of style and intimidation.
@@ -5725,9 +5809,6 @@ Can use the Tetra-exclusive Focused Acceleration and Kinetic Ricochet mods.
 Projectiles have travel time.
 Tetra
 Tenet Tetra
-**Acquisition:**
-The Prisma Tetra is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 50,000 and 400. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
-The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 4.
 **Tips:**
 With a large portion (80%) of its total damage relying on Puncture, it is somewhat more viable to equip Piercing Caliber than with most weapons.
 Similarly, due to the fact that the Tetra has no Slash damage, Sawtooth Clip and Fanged Fusillade are completely useless.
@@ -5802,6 +5883,10 @@ Crit Chance: 7.00% | Crit Multiplier: 1.9x | Status Chance: 43.00% | Fire Rate: 
 ## Purgator 1
 Put them down so that they stay down, with this Scaldra slug launcher.
 
+### Acquisition
+Purgator 1's blueprints can be purchased from Minerva of The Hex for Standing Standing; component blueprints for 5,000 Standing and the main blueprint for 15,000 Standing to a total of 30,000 Standing, all requiring Rank 5 - Pizza Party.
+This weapon is also part of the Scaldra Dominance Pack for 655.
+
 ### Wiki
 Weapons
 Put them down so that they stay down, with this Scaldra slug launcher.
@@ -5810,9 +5895,6 @@ Characteristics
 This weapon deals primarily Puncture damage.
 Enemies directly killed by Purgator 1 leave a Gas status effect behind.
 Innate 1.1 meter punch through and Infinite Body Punch Through
-**Acquisition:**
-Purgator 1's blueprints can be purchased from Minerva of The Hex for Standing Standing; component blueprints for 5,000 Standing and the main blueprint for 15,000 Standing to a total of 30,000 Standing, all requiring Rank 5 - Pizza Party.
-This weapon is also part of the Scaldra Dominance Pack for 655.
 **Notes:**
 Enemies directly killed by the Purgator 1 leave behind 1 Gas status effect stack.
 Kills must be directly from the projectile itself, not from any Damage over Time Status Effects. DoT kills will generate clouds that deal no damage.
@@ -5832,6 +5914,10 @@ Crit Chance: 31.00% | Crit Multiplier: 2.3x | Status Chance: 19.00% | Fire Rate:
 
 ## Quanta
 This weapon was designed to assist with the excavation of mineral deposits from large asteroids, but has been adapted for military purposes.
+
+### Acquisition
+The Quanta's blueprint can be researched from the Energy Lab in the dojo.
+This weapon can be sold for ‍7,500.
 
 ### Wiki
 Weapons
@@ -5856,9 +5942,6 @@ Cubes have slow travel time and a limited range of roughly 15 meters.
 Explosion has a headshot multiplier of 1x and cannot trigger headshot conditions.
 Quanta Vandal
 Tenet Quanta
-**Acquisition:**
-The Quanta's blueprint can be researched from the Energy Lab in the dojo.
-This weapon can be sold for ‍7,500.
 **Type:** Rifle | **Mastery Req:** 4 | **Riven Disposition:** 5
 
 ### Beam
@@ -5889,6 +5972,9 @@ Crit Chance: 5.00% | Crit Multiplier: 1.5x | Status Chance: 26.00% | Fire Rate: 
 ## Quanta Vandal
 A customized version of the Quanta, with metallic finish and Lotus decal.
 
+### Acquisition
+This weapon was originally obtained by gaining at least 1,500 points in the Operation False Profit event, complete with a free weapon slot and a pre-installed Orokin Catalyst.
+
 ### Wiki
 Weapons
 A customized version of the Quanta, with metallic finish and Lotus decal.
@@ -5917,8 +6003,6 @@ Cubes have slow travel time and a limited range of roughly 15 meters.
 Explosion has a headshot multiplier of 1x and cannot trigger headshot conditions.
 Quanta
 Tenet Quanta
-**Acquisition:**
-This weapon was originally obtained by gaining at least 1,500 points in the Operation False Profit event, complete with a free weapon slot and a pre-installed Orokin Catalyst.
 **Type:** Rifle | **Mastery Req:** 10 | **Riven Disposition:** 5
 
 ### Beam
@@ -6005,6 +6089,11 @@ Crit Chance: 40.00% | Crit Multiplier: 2.2x | Status Chance: 10.00% | Fire Rate:
 ## Rakta Cernos
 A finely tuned instrument of assassination.
 
+### Acquisition
+The Rakta Cernos can be acquired by reaching the Rank of Exalted with the Red Veil, and spending 125,000 Standing to purchase. As with all Syndicate Weapons, the Rakta Cernos cannot be chosen as the free offering upon ranking up to Exalted rank.
+Syndicate weapons can also be acquired via Trading, but only for unranked copies without Forma and Orokin Catalyst installed.
+Players must have a Mastery Rank of at least 12 to acquire the Rakta Cernos, either through trading or through the Syndicates themselves.
+
 ### Wiki
 Weapons
 A finely tuned instrument of assassination.
@@ -6015,10 +6104,6 @@ Innate Blight effect.
 Innate Blight effect can put enemies into minor alert status during stealth.
 Cernos
 Cernos Prime
-**Acquisition:**
-The Rakta Cernos can be acquired by reaching the Rank of Exalted with the Red Veil, and spending 125,000 Standing to purchase. As with all Syndicate Weapons, the Rakta Cernos cannot be chosen as the free offering upon ranking up to Exalted rank.
-Syndicate weapons can also be acquired via Trading, but only for unranked copies without Forma and Orokin Catalyst installed.
-Players must have a Mastery Rank of at least 12 to acquire the Rakta Cernos, either through trading or through the Syndicates themselves.
 **Notes:**
 Has a unique holster style where the bow is upside down on the Warframe's back instead of being slung across its shoulder.
 **Trivia:**
@@ -6096,6 +6181,10 @@ Crit Chance: 28.00% | Crit Multiplier: 2.8x | Status Chance: 16.00% | Fire Rate:
 ## Rubico
 Scope out the enemy with this long-range revolver style rifle.
 
+### Acquisition
+The Rubico's blueprint can be purchased from the Market.
+This weapon can be sold for ‍7,500.
+
 ### Wiki
 Weapons
 Scope out the enemy with this long-range revolver style rifle.
@@ -6119,9 +6208,6 @@ Inaccurate beyond short range when fired from the hip.
 Very short shot combo decay timer.
 Rubico Prime
 Higher zoom distance (3.5x/6x vs. 2.5x/5x)
-**Acquisition:**
-The Rubico's blueprint can be purchased from the Market.
-This weapon can be sold for ‍7,500.
 **Type:** Sniper | **Mastery Req:** 6 | **Riven Disposition:** 3
 
 ### Normal Attack
@@ -6179,6 +6265,11 @@ Crit Chance: 38.00% | Crit Multiplier: 3x | Status Chance: 16.00% | Fire Rate: 3
 ## Sancti Tigris
 Echo nature's violent beauty with this special Tigris.
 
+### Acquisition
+The Sancti Tigris can be acquired by reaching the Rank of Flawless with New Loka, and spending 125,000 Standing to purchase. As with all Syndicate Weapons, the Sancti Tigris cannot be chosen as the free offering upon ranking up to Flawless rank.
+Syndicate weapons can also be acquired via Trading, but only for unranked copies without Forma and Orokin Catalyst installed.
+Players must have a Mastery Rank of at least 12 to acquire the Sancti Tigris, either through trading or through the Syndicates themselves.
+
 ### Wiki
 Weapons
 Echo nature's violent beauty with this special Tigris.
@@ -6197,10 +6288,6 @@ Low pellet count.
 Inefficient against groups, unless using Punch Through mods.
 Tigris
 Tigris Prime
-**Acquisition:**
-The Sancti Tigris can be acquired by reaching the Rank of Flawless with New Loka, and spending 125,000 Standing to purchase. As with all Syndicate Weapons, the Sancti Tigris cannot be chosen as the free offering upon ranking up to Flawless rank.
-Syndicate weapons can also be acquired via Trading, but only for unranked copies without Forma and Orokin Catalyst installed.
-Players must have a Mastery Rank of at least 12 to acquire the Sancti Tigris, either through trading or through the Syndicates themselves.
 **Type:** Shotgun | **Mastery Req:** 12 | **Riven Disposition:** 3
 
 ### Normal Attack
@@ -6209,6 +6296,9 @@ Crit Chance: 15.00% | Crit Multiplier: 1.5x | Status Chance: 14.00% | Fire Rate:
 
 ## Scourge
 Blast targets with corrosive plasma projectiles, or toss the scepter to inflict an energy field upon nearby enemies that amplifies their brain waves to attract bullets.
+
+### Acquisition
+The Scourge's blueprint can be researched from the Tenno Lab in the dojo.
 
 ### Wiki
 Weapons
@@ -6236,8 +6326,6 @@ Explosion has linear Damage Falloff from:
 100% to 70% from central impact on primary fire.
 100% to 40% from central impact on alternate fire.
 Scourge Prime
-**Acquisition:**
-The Scourge's blueprint can be researched from the Tenno Lab in the dojo.
 **Type:** Rifle | **Mastery Req:** 6 | **Riven Disposition:** 4
 
 ### Projectile Impact
@@ -6401,6 +6489,10 @@ Crit Chance: 25.00% | Crit Multiplier: 2.1x | Status Chance: 29.00% | Fire Rate:
 ## Simulor
 Creates miniature gravitational singularities that can be used for scientific study or self-defense.
 
+### Acquisition
+The Simulor's blueprint can be purchased from Cephalon Simaris for 75,000 Standing.
+This weapon can be sold for 7,500.
+
 ### Wiki
 Weapons
 Creates miniature gravitational singularities that can be used for scientific study or self-defense.
@@ -6421,9 +6513,6 @@ Direct impacts with the orbs with enemies do not deal any damage, and must be co
 Explosion has a headshot multiplier of 1x and cannot trigger headshot conditions.
 Explosion has linear Damage Falloff from 100% to 40% from central impact.
 Synoid Simulor
-**Acquisition:**
-The Simulor's blueprint can be purchased from Cephalon Simaris for 75,000 Standing.
-This weapon can be sold for 7,500.
 **Type:** Rifle | **Mastery Req:** 5 | **Riven Disposition:** 4
 
 ### Orb Launch
@@ -6449,9 +6538,7 @@ Crit Chance: 12.00% | Crit Multiplier: 2x | Status Chance: 30.00% | Fire Rate: 3
 ## Sirocco
 A silent, pistol-style Amp for the Drifter. Generates its own ammunition from Void energy. A precisely timed reload over-charges the next shot.
 
-### Wiki
-In-Game DescriptionSirocco is the Drifter's Amp that fires semi-automatic Void rounds. Uniquely has a standard reload, and pressing the reload button while halfway will immediately finish the reload and overcharge the next shot. However, it lacks an Alternate Fire function.
-**Acquisition:**
+### Acquisition
 The Drifter acquires this weapon in The Duviri Paradox off the body of a Dax executor and serves as their sole firearm throughout Duviri. In the Origin System side, this Amp is given upon completion of The New War, complete with a free amp slot and is pre-Gilded. Additional copies of Sirocco can be bought from Cephalon Simaris for 100,000 Standing.
 Characteristics
 This weapon deals exclusively Void damage.
@@ -6471,6 +6558,9 @@ Will not break Void Mode during reload or when starting to reload, preserving st
 Disadvantages:
 Standard, non-battery reload.
 Accordingly, cannot benefit from Inner Gaze, Eternal Gaze, or Virtuos Null.
+
+### Wiki
+In-Game DescriptionSirocco is the Drifter's Amp that fires semi-automatic Void rounds. Uniquely has a standard reload, and pressing the reload button while halfway will immediately finish the reload and overcharge the next shot. However, it lacks an Alternate Fire function.
 **Type:** Pistol | **Riven Disposition:** 3
 
 ### Normal Attack
@@ -6483,6 +6573,10 @@ Crit Chance: 80.00% | Crit Multiplier: 2x | Status Chance: 50.00% | Fire Rate: 0
 
 ## Snipetron
 Manufactured by the Corpus, the Snipetron is a powerful and accurate rifle that sports optical zoom capabilities. Perfect for long range engagements.
+
+### Acquisition
+The blueprint occasionally returns as an offering sold by Nakak in Cetus during the Operation: Plague Star event for 3,000 Standing Operational Supply and 5,000.
+The blueprint is available from Ticker in Fortuna during the Star Days event for 8 Advances Debt-Bonds.
 
 ### Wiki
 Weapons
@@ -6500,9 +6594,6 @@ Innate 2.5 meter punch through.
 Has linear damage falloff from 100% to 50% from 400m to 600m target distance (distances are affected by Projectile Speed).
 Inaccurate beyond short range when fired from the hip.
 Snipetron Vandal
-**Acquisition:**
-The blueprint occasionally returns as an offering sold by Nakak in Cetus during the Operation: Plague Star event for 3,000 Standing Operational Supply and 5,000.
-The blueprint is available from Ticker in Fortuna during the Star Days event for 8 Advances Debt-Bonds.
 **Type:** Sniper | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -6521,6 +6612,11 @@ Crit Chance: 30.00% | Crit Multiplier: 1.5x | Status Chance: 12.00% | Fire Rate:
 ## Snipetron Vandal
 A customized version of the elusive Snipetron, with metallic finish and Lotus decal.
 
+### Acquisition
+This weapon's blueprint and parts can currently be found as Invasion rewards.
+Previously, this weapon was awarded as a special-edition reward for killing 20 Informers in the Informant Event, complete with a free weapon slot and a pre-installed Orokin Catalyst. The blueprint and parts were also formerly a reward from the Sixth Season of Sorties.
+All components can be traded, although players must have a Mastery Rank of at least 5 to acquire the blueprint.
+
 ### Wiki
 Weapons
 A customized version of the elusive Snipetron, with metallic finish and Lotus decal.
@@ -6538,10 +6634,6 @@ Has linear damage falloff from 100% to 50% from 400m to 600m target distance (di
 High recoil.
 Inaccurate beyond short range when fired from the hip.
 Snipetron
-**Acquisition:**
-This weapon's blueprint and parts can currently be found as Invasion rewards.
-Previously, this weapon was awarded as a special-edition reward for killing 20 Informers in the Informant Event, complete with a free weapon slot and a pre-installed Orokin Catalyst. The blueprint and parts were also formerly a reward from the Sixth Season of Sorties.
-All components can be traded, although players must have a Mastery Rank of at least 5 to acquire the blueprint.
 **Notes:**
 The Snipetron Vandal requires 3 shots to activate its shot combo counter, giving it a 1.5x damage bonus on the third shot, a 2.0x damage bonus after 9 shots, and a 2.5x damage bonus after 27 shots.
 **Type:** Sniper | **Mastery Req:** 5 | **Riven Disposition:** 4
@@ -6561,6 +6653,9 @@ Crit Chance: 28.00% | Crit Multiplier: 2x | Status Chance: 16.00% | Fire Rate: 2
 ## Sobek
 Sobek is a rapid-firing Grineer shotgun that has reduced damage per shot but boasts extra large magazine capacity.
 
+### Acquisition
+The Sobek's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 Sobek is a rapid-firing Grineer shotgun that has reduced damage per shot but boasts extra large clip capacity.
@@ -6576,8 +6671,6 @@ Has linear damage falloff from 100% to 50% from 20m to 30m target distance (dist
 Slowest fire rate of all fully automatic shotguns.
 Tied with Tigris for the second lowest pellet count of all pellet shotguns, after Exergis.
 Kuva Sobek
-**Acquisition:**
-The Sobek's blueprint can be purchased from the Market.
 **Tips:**
 Modding the weapon with its exclusive Shattering Justice and Acid Shells gives the Sobek very good crowd control capabilities.
 **Trivia:**
@@ -6604,6 +6697,10 @@ Crit Chance: 11.00% | Crit Multiplier: 2x | Status Chance: 16.20% | Fire Rate: 2
 ## Soma
 Accuracy coupled with a massive magazine makes the Soma assault rifle a formidable weapon.
 
+### Acquisition
+The Soma's blueprint can be purchased from the Market.
+This weapon can be sold for 7,500.
+
 ### Wiki
 Weapons
 Accuracy combined with a massive magazine make the Soma assault rifle a formidable weapon.
@@ -6614,9 +6711,6 @@ Requires a spool-up of 6 shots before optimal fire rate is achieved.
 Fire rate starts at 25% of the listed value, and increases by 15% per shot.
 Spool-up creates a warm-up period of weakness for fire rate, making short engagements undesirable.
 Soma Prime
-**Acquisition:**
-The Soma's blueprint can be purchased from the Market.
-This weapon can be sold for 7,500.
 **Notes:**
 This weapon can be treated like an upgraded Grakata, due to its higher critical chance, lower recoil and a larger magazine size. Although the spin-up time, slower maximum fire rate and much lower status chance must also be taken into account.
 Capable of shooting the first shot of the magazine with high accuracy, allowing shots to weak-points from afar.
@@ -6826,6 +6920,9 @@ Crit Chance: 14.00% | Crit Multiplier: 2.2x | Status Chance: 22.00% | Fire Rate:
 ## Stinger
 Standard issue weapon for Djinn Sentinel. Fires Toxin projectiles that embed into enemies and continuously deal damage for 3 seconds.
 
+### Acquisition
+The Stinger is automatically acquired upon obtaining Djinn. Note that this weapon also takes up one Companion inventory slot.
+
 ### Wiki
 Standard issue weapon for Djinn Sentinel. Fires Toxin projectiles that embed into enemies and continuously deal damage for 3 seconds.
 The Stinger is the default robotic weapon for the Djinn Sentinel that shoots Toxin darts. This weapon accepts Rifle Mods.
@@ -6834,8 +6931,6 @@ Characteristics
 This weapon deals Toxin damage.
 Shots have a guaranteed Toxin proc.
 Direct hits deal damage over time per second over 3 seconds.
-**Acquisition:**
-The Stinger is automatically acquired upon obtaining Djinn. Note that this weapon also takes up one Companion inventory slot.
 **Notes:**
 Similar to the Acrid, each Stinger projectile will deal one guaranteed Toxin status effect on hit, regardless of what elements are modded onto the weapon. This is in addition to any statuses inflicted naturally from the weapon's status chance, which can proc any element that is modded onto the weapon (as with any other weapon).
 Stinger projectiles embed into their target on hit, dealing 3 ticks of 15 Toxin damage over 2 seconds (the first tick happens immediately on hit).
@@ -6860,6 +6955,10 @@ Crit Chance: 2.50% | Crit Multiplier: 1.5x | Status Chance: 20.00% | Fire Rate: 
 ## Stradavar
 A high-capacity, high-damage enforcer, this weapon can switch between the high crit semi-automatic and full automatic firing modes.
 
+### Acquisition
+The Stradavar's blueprint can be purchased from the Market.
+This weapon can be sold for 7,500.
+
 ### Wiki
 Weapons
 A high-capacity, high-damage enforcer, this weapon can switch between the high crit semi-automatic and full automatic firing modes.
@@ -6870,9 +6969,6 @@ Full-auto mode has negligible recoil.
 Semi-auto mode has high accuracy when aiming.
 Semi-auto mode has the second-lowest damage of all semi-automatic rifles, after Tiberon Prime.
 Stradavar Prime
-**Acquisition:**
-The Stradavar's blueprint can be purchased from the Market.
-This weapon can be sold for 7,500.
 **Trivia:**
 The Stradavar's design bears a strong resemblance to several machine guns utilizing a drum-pan magazine, such as the British-built Vickers K and Lewis Gun, the US-built American-180, and the Russian-built DP-28.
 The Stradavar further resembles the Lewis gun without its barrel shroud, or the Type 92 machine gun.
@@ -6946,6 +7042,9 @@ Crit Chance: 30.00% | Crit Multiplier: 2.8x | Status Chance: 22.00% | Fire Rate:
 ## Strun
 The Strun is a standard shotgun. Reliable, versatile and deadly.
 
+### Acquisition
+A built Strun can be purchased from the Market for 25,000.
+
 ### Wiki
 Weapons
 The Strun is a standard shotgun. Reliable, versatile and deadly.
@@ -6963,8 +7062,6 @@ Tied with Mk1-Strun for the second slowest reload speed of all shotguns, after S
 Mk1-Strun
 Strun Wraith
 Strun Prime
-**Acquisition:**
-A built Strun can be purchased from the Market for 25,000.
 **Notes:**
 Reload time is 0.75s + 0.5s per round, coming to 3.75 total seconds to reload a completely empty mag.
 This time will further increase if magazine mods such as Ammo Stock are used.
@@ -7034,6 +7131,11 @@ Crit Chance: 48.00% | Crit Multiplier: 3.4x | Status Chance: 46.00% | Fire Rate:
 ## Strun Wraith
 A different take on a familiar shotgun, the Strun Wraith features unique styling.
 
+### Acquisition
+This weapon was first introduced from the Survival Weekend Event, awarded for completing the event's Survival for 20 minutes, complete with a free weapon slot and a pre-installed Orokin Catalyst.
+The Strun Wraith was awarded again from acquiring 100 points in the Den of Kubrow Tactical Alert, also complete with a free weapon slot and a pre-installed Orokin Catalyst.
+The blueprint and parts were formerly a reward from the Fourth Season of Sorties; they can now be found as an Invasion reward. All components can be traded, although players must have a Mastery Rank of at least 10 to acquire the blueprint.
+
 ### Wiki
 Weapons
 A different take on a familiar shotgun, the Strun Wraith features unique styling.
@@ -7051,10 +7153,6 @@ Slowest reload speed of all shotguns.
 Mk1-Strun
 Strun
 Strun Prime
-**Acquisition:**
-This weapon was first introduced from the Survival Weekend Event, awarded for completing the event's Survival for 20 minutes, complete with a free weapon slot and a pre-installed Orokin Catalyst.
-The Strun Wraith was awarded again from acquiring 100 points in the Den of Kubrow Tactical Alert, also complete with a free weapon slot and a pre-installed Orokin Catalyst.
-The blueprint and parts were formerly a reward from the Fourth Season of Sorties; they can now be found as an Invasion reward. All components can be traded, although players must have a Mastery Rank of at least 10 to acquire the blueprint.
 **Notes:**
 Incarnon Genesis
 Upon completion of The Duviri Paradox and Angels of the Zariman, and unlocking The Steel Path, players can earn Strun Incarnon Genesis from The Circuit's Steel Path to place on their Strun with the help of Cavalero in the Chrysalith. This Incarnon Genesis form grants it evolutions to a transformation and newfound strength.
@@ -7085,6 +7183,10 @@ Crit Chance: 56.00% | Crit Multiplier: 3.4x | Status Chance: 44.00% | Fire Rate:
 ## Supra
 The SUPRA is a heavy laser gun with a short wind up time.
 
+### Acquisition
+The Supra's blueprint can be researched from the Energy Lab in the dojo.
+This weapon can be sold for 7,500.
+
 ### Wiki
 Weapons
 The Supra is a heavy laser gun with a short wind up time.
@@ -7097,9 +7199,6 @@ Can equip the Supra-exclusive Directed Convergence and Entropy Burst mods.
 Projectiles have travel time, making long range shots more difficult.
 Spool-up creates a warm-up period of weakness for fire rate, making short engagements undesirable.
 Supra Vandal
-**Acquisition:**
-The Supra's blueprint can be researched from the Energy Lab in the dojo.
-This weapon can be sold for 7,500.
 **Notes:**
 Cancelling the reload animation on its third-quarter period counts as a reload, much like the Soma.
 **Tips:**
@@ -7125,6 +7224,11 @@ Crit Chance: 12.00% | Crit Multiplier: 1.8x | Status Chance: 30.00% | Fire Rate:
 ## Supra Vandal
 A customized version of the powerful Supra, featuring a metallic finish and Lotus decal.
 
+### Acquisition
+The Supra Vandal is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 275,000 and 500. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
+The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 14.
+This weapon can be sold for 7,500.
+
 ### Wiki
 Weapons
 A customized version of the powerful Supra, featuring a metallic finish and Lotus decal.
@@ -7137,10 +7241,6 @@ Can equip the Supra-exclusive Directed Convergence and Entropy Burst mods.
 Projectiles have travel time, making long range shots more difficult.
 Spool-up creates a warm-up period of weakness for fire rate, making short engagements undesirable.
 Supra
-**Acquisition:**
-The Supra Vandal is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 275,000 and 500. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
-The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 14.
-This weapon can be sold for 7,500.
 **Notes:**
 Cancelling the reload animation on its third-quarter period counts as a reload, much like the Soma.
 **Type:** Rifle | **Mastery Req:** 14 | **Riven Disposition:** 3
@@ -7152,6 +7252,9 @@ Crit Chance: 16.00% | Crit Multiplier: 2x | Status Chance: 30.00% | Fire Rate: 1
 ## Sweeper
 Standard issue weapon for Carrier Sentinel. Fires shotgun rounds.
 
+### Acquisition
+This Sentinel weapon is automatically acquired upon obtaining Carrier. Note that this weapon also takes up one Companion inventory slot.
+
 ### Wiki
 Standard issue weapon for Carrier sentinel. Fires shotgun rounds.
 The Sweeper is the default robotic weapon for the Carrier Sentinel. This weapon accepts Shotgun Mods.
@@ -7160,8 +7263,6 @@ Characteristics
 This weapon deals primarily Impact damage.
 Innate two Madurai polarities.
 Sweeper Prime
-**Acquisition:**
-This Sentinel weapon is automatically acquired upon obtaining Carrier. Note that this weapon also takes up one Companion inventory slot.
 **Type:** Companion Weapon | **Riven Disposition:** 3
 
 ### Normal Attack
@@ -7171,6 +7272,11 @@ Crit Chance: 10.00% | Crit Multiplier: 1.8x | Status Chance: 4.50% | Fire Rate: 
 ## Sweeper Prime
 Standard issue weapon for Carrier Prime Sentinel. Fires shotgun rounds.
 
+### Acquisition
+The Sweeper Prime is automatically acquired upon obtaining Carrier Prime. Note that this weapon also takes up one Companion inventory slot.
+Vaultings
+On May 24th, 2017, it was announced that Carrier Prime would enter the Prime Vault and be retired from the reward tables on May 30th, 2017. Any preexisting components or fully-built sentinels will remain as is.
+
 ### Wiki
 Standard issue weapon for Carrier Prime Sentinel. Fires shotgun rounds.
 The Sweeper Prime is the default robotic weapon for the Carrier Prime Sentinel, as well as the primed counterpart of the Sweeper acting as a direct upgrade. This weapon accepts Shotgun Mods.
@@ -7179,10 +7285,6 @@ Characteristics
 This weapon deals primarily Impact damage.
 Two innate Madurai polarities.
 Sweeper
-**Acquisition:**
-The Sweeper Prime is automatically acquired upon obtaining Carrier Prime. Note that this weapon also takes up one Companion inventory slot.
-Vaultings
-On May 24th, 2017, it was announced that Carrier Prime would enter the Prime Vault and be retired from the reward tables on May 30th, 2017. Any preexisting components or fully-built sentinels will remain as is.
 **Type:** Companion Weapon | **Riven Disposition:** 3
 
 ### Normal Attack
@@ -7192,6 +7294,10 @@ Crit Chance: 10.00% | Crit Multiplier: 2.3x | Status Chance: 5.00% | Fire Rate: 
 ## Sybaris
 This Tenno crafted, lever action rifle, is equal parts elegance and executioner.
 
+### Acquisition
+The Sybaris' blueprint can be researched from the Tenno Lab in the dojo.
+This weapon can be sold for 7,500.
+
 ### Wiki
 Weapons
 This Tenno crafted, lever action rifle, is equal parts elegance and executioner.
@@ -7200,9 +7306,6 @@ Characteristics
 This weapon deals equal physical damage.
 Sybaris Prime
 Dex Sybaris
-**Acquisition:**
-The Sybaris' blueprint can be researched from the Tenno Lab in the dojo.
-This weapon can be sold for 7,500.
 **Notes:**
 Like the Tiberon, the Sybaris has a very tight shot spread courtesy of its almost nonexistent recoil, capable of landing both shots on a small target. This makes it suitable for long-range gunfights, unlike most other burst-fire weapons that tend to scatter their shots. And also makes it ideal for landing headshots.
 Maximizing the fire rate of this weapon may require practice, as a short animation is required after each burst is fired.
@@ -7269,6 +7372,10 @@ Crit Chance: 25.00% | Crit Multiplier: 3x | Status Chance: 30.00% | Fire Rate: 3
 ## Synapse
 Powered by a bio-chemical reaction, the Infested Synapse rifle fries its targets with a steady stream of Corrosive energy.
 
+### Acquisition
+The Synapse's blueprint can be researched from the Bio Lab in the dojo.
+The Synapse can be sold for 7,500.
+
 ### Wiki
 Weapons
 Powered by a bio-chemical reaction, the infested Synapse rifle fries its targets with a steady stream of Corrosive energy.
@@ -7282,9 +7389,6 @@ Consumes 0.5 ammo per tick of damage.
 Damage ramps up from 20% to 100% over 0.6 seconds when firing. After firing stops for 0.8 seconds, the damage decays back to 20% over 2 seconds.
 Coda Synapse
 Lower beam range (27 vs. 32)
-**Acquisition:**
-The Synapse's blueprint can be researched from the Bio Lab in the dojo.
-The Synapse can be sold for 7,500.
 **Notes:**
 Compared to the very similar Amprex, the Synapse deals significantly more damage due to its innate Corrosive damage allowing for the addition of other secondary elements. However it lacks the property of shots chaining to other enemies, making the Synapse better for single-target damage while the Amprex excels at crowd damage.
 **Trivia:**
@@ -7312,6 +7416,11 @@ Crit Chance: 39.00% | Crit Multiplier: 2.7x | Status Chance: 13.00% | Fire Rate:
 ## Synoid Simulor
 Cephalon Suda's custom issue Simulor was built to satisfy her curiosity.
 
+### Acquisition
+The Synoid Simulor can be acquired by reaching the Rank of Genius with Cephalon Suda, and spending 125,000 Standing to purchase. As with all Syndicate Weapons, the Synoid Simulor cannot be chosen as the free offering upon ranking up to Genius rank.
+Syndicate weapons can also be acquired via Trading, but only for unranked copies without Forma and Orokin Catalyst installed.
+Players must have a Mastery Rank of at least 12 to acquire the Synoid Simulor, either through trading or through the Syndicates themselves.
+
 ### Wiki
 Weapons
 Cephalon Suda's custom issue Synoid Simulor was built to satisfy her curiosity.
@@ -7333,10 +7442,6 @@ Direct impacts with the orbs with enemies do not deal any damage, and must be co
 Explosion inflicts self-stagger.
 Extremely ammo inefficient; requires just 5 reloads to fully deplete all ammo reserves.
 Simulor
-**Acquisition:**
-The Synoid Simulor can be acquired by reaching the Rank of Genius with Cephalon Suda, and spending 125,000 Standing to purchase. As with all Syndicate Weapons, the Synoid Simulor cannot be chosen as the free offering upon ranking up to Genius rank.
-Syndicate weapons can also be acquired via Trading, but only for unranked copies without Forma and Orokin Catalyst installed.
-Players must have a Mastery Rank of at least 12 to acquire the Synoid Simulor, either through trading or through the Syndicates themselves.
 **Type:** Rifle | **Mastery Req:** 12 | **Riven Disposition:** 4
 
 ### Orb Launch
@@ -7357,6 +7462,10 @@ Crit Chance: 0.00% | Crit Multiplier: 0x | Status Chance: 0.00% | Fire Rate: 4
 ## Tazicor
 Releases a burst of static electricity that can jump between foes, incapacitating them.
 
+### Acquisition
+The Tazicor's blueprint can be purchased from Legs in Fortuna for 10,000 Standing, requiring Rank 5 - Old Mate with Solaris United. Note that this weapon also takes up one Companion inventory slot.
+24.1.3.2
+
 ### Wiki
 Releases a burst of static electricity that can jump between foes, incapacitating them.
 The Tazicor is a robotic weapon which fires taser beams that deals Electricity damage and can chain between enemies. This weapon accepts Rifle Mods.
@@ -7366,9 +7475,6 @@ Beam can chain up to 3 nearby enemies within 5 meters of each other, with each c
 Each enemy hit by the main beam from Punch Through can generate a new set of 3 chains.
 Enemy corpses will still allow the beam to connect to nearby enemies.
 Consumes 0.5 ammo per tick of damage.
-**Acquisition:**
-The Tazicor's blueprint can be purchased from Legs in Fortuna for 10,000 Standing, requiring Rank 5 - Old Mate with Solaris United. Note that this weapon also takes up one Companion inventory slot.
-24.1.3.2
 **Type:** Companion Weapon | **Mastery Req:** 3 | **Riven Disposition:** 3
 
 ### Normal Attack
@@ -7387,6 +7493,11 @@ Crit Chance: 5.00% | Crit Multiplier: 1.5x | Status Chance: 25.00% | Fire Rate: 
 ## Telos Boltor
 Bring down judgement, with this boltor crafted by the Arbiters of Hexis.
 
+### Acquisition
+The Telos Boltor can be acquired by reaching the Rank of Maxim with the Arbiters of Hexis, and spending 125,000 Standing to purchase. As with all Syndicate Weapons, the Telos Boltor cannot be chosen as the free offering upon ranking up to Maxim rank.
+Syndicate weapons can also be acquired via Trading, but only for unranked copies without Forma and Orokin Catalyst installed.
+Players must have a Mastery Rank of at least 12 to acquire the Telos Boltor, either through trading or through the Syndicates themselves.
+
 ### Wiki
 Weapons
 Bring down judgement, with this Boltor crafted by the Arbiters of Hexis.
@@ -7402,10 +7513,6 @@ Low recoil.
 Projectiles have travel time with slight arcing.
 Boltor
 Boltor Prime
-**Acquisition:**
-The Telos Boltor can be acquired by reaching the Rank of Maxim with the Arbiters of Hexis, and spending 125,000 Standing to purchase. As with all Syndicate Weapons, the Telos Boltor cannot be chosen as the free offering upon ranking up to Maxim rank.
-Syndicate weapons can also be acquired via Trading, but only for unranked copies without Forma and Orokin Catalyst installed.
-Players must have a Mastery Rank of at least 12 to acquire the Telos Boltor, either through trading or through the Syndicates themselves.
 **Notes:**
 Incarnon Genesis
 Upon completion of The Duviri Paradox and Angels of the Zariman, and unlocking The Steel Path, players can earn Boltor Incarnon Genesis from The Circuit's Steel Path to place on their Boltor with the help of Cavalero in the Chrysalith. This Incarnon Genesis form grants it evolutions to a transformation and newfound strength.
@@ -7544,6 +7651,9 @@ Crit Chance: 4.00% | Crit Multiplier: 2x | Status Chance: 50.00% | Fire Rate: 0.
 ## Tenet Flux Rifle
 Sister-modified Flux Rifle with increased fire rate and range. Recharge has been replaced with ammo clips to accommodate greater power needs.
 
+### Acquisition
+Adversary System/Weapons#Tenet Acquisition (Sister)
+
 ### Wiki
 Weapons
 Sister-modified Flux Rifle with increased fire rate and range. Recharge has been replaced with ammo clips to accommodate greater power needs.
@@ -7559,8 +7669,6 @@ Elemental Vice can be applied to the weapon after it has reached rank 40, allowi
 Listed Mastery Rank requirement is not enforced - the weapon may theoretically be obtained at any mastery rank by acquiring and vanquishing a Sister that has this weapon equipped.
 Can equip the Combustion Beam mod, despite not being a continuous weapon.
 Flux Rifle
-**Acquisition:**
-Adversary System/Weapons#Tenet Acquisition (Sister)
 **Type:** Rifle | **Mastery Req:** 16 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -7574,6 +7682,9 @@ Crit Chance: 20.00% | Crit Multiplier: 1.8x | Status Chance: 26.00% | Fire Rate:
 
 ## Tenet Glaxion
 Advances in microelectronics have improved a Corpus classic. Tenet Glaxion’s photon beam strikes up to four enemies at once. It also boasts superior Damage, Critical Chance, and Status Chance.
+
+### Acquisition
+Adversary System/Weapons#Tenet Acquisition (Sister)
 
 ### Wiki
 Weapons
@@ -7598,8 +7709,6 @@ Damage ramps up from 20% to 100% over 0.6 seconds when firing. After firing stop
 Limited range of 30 meters.
 Glaxion
 Glaxion Vandal
-**Acquisition:**
-Adversary System/Weapons#Tenet Acquisition (Sister)
 **Type:** Rifle | **Mastery Req:** 16 | **Riven Disposition:** 1
 
 ### Normal Attack
@@ -7705,6 +7814,9 @@ Crit Chance: 28.00% | Crit Multiplier: 2.2x | Status Chance: 30.00% | Fire Rate:
 ## Tenora
 Unload percussive machine gun fire, or strike a heavy chord with a single charge shot. When Octavia wields her signature rifle alt-fire Headshot Kills have a chance to instantly refill the magazine.
 
+### Acquisition
+The Tenora's blueprint can be researched from the Tenno Lab in the dojo.
+
 ### Wiki
 Unload percussive machine gun fire, or strike a heavy chord with a single charge shot. This is Octavia's signature rifle.
 The Tenora is Octavia's signature assault rifle, which features two different firing modes: a standard full-auto fire mode that increases fire rate and accuracy the longer it shoots, and an Alternate Fire mode that fires a single powerful, charged shot. Has a chance to instantly refill magazine after a headshot charged shot kill while being used by Octavia.
@@ -7722,8 +7834,6 @@ Increased accuracy the longer the weapon is fired.
 Innate punch through helps bypasses thin obstacles and bodies.
 Spool-up creates a warm-up period of weakness for fire rate, making short engagements undesirable.
 Tenora Prime
-**Acquisition:**
-The Tenora's blueprint can be researched from the Tenno Lab in the dojo.
 **Notes:**
 As a Signature Weapon, Tenora gains a bonus effect with Octavia or Octavia Prime, where headshot kills with the Alternate Fire have a 20% chance to instantly refill magazine.
 The refilled ammo is automatically deducted from ammo reserves, and does not generate ammo.
@@ -7797,6 +7907,10 @@ Crit Chance: 40.00% | Crit Multiplier: 3x | Status Chance: 20.00% | Fire Rate: 2
 ## Tetra
 Drawing from its huge quad-chambered magazine, the Tetra is capable of unleashing a sustained barrage of lethal energy bolts.
 
+### Acquisition
+The Tetra's blueprint can be purchased from the Market.
+This weapon can be sold for 7,500.
+
 ### Wiki
 Weapons
 Drawing from its huge quad-chambered clip, the Tetra is capable of unleashing a sustained barrage of lethal energy bolts.
@@ -7807,9 +7921,6 @@ Can use the Tetra-exclusive Focused Acceleration and Kinetic Ricochet mods.
 Projectiles have travel time.
 Prisma Tetra
 Tenet Tetra
-**Acquisition:**
-The Tetra's blueprint can be purchased from the Market.
-This weapon can be sold for 7,500.
 **Tips:**
 With a large portion (80%) of its total damage relying on Puncture, it is somewhat more viable to equip Piercing Hit and/or Piercing Caliber than with most weapons.
 Similarly, because the Tetra has no Slash Damage, Sawtooth Clip and Fanged Fusillade are completely useless.
@@ -7834,14 +7945,15 @@ Crit Chance: 4.00% | Crit Multiplier: 1.5x | Status Chance: 20.00% | Fire Rate: 
 ## Thornbak
 A sturdy burst-rifle of considerable age and unknown origin collected by Teshin during his many years wandering the Origin System.
 
+### Acquisition
+Thornbak is awarded during The Teacher quest, complete with a free weapon slot and a pre-installed Orokin Catalyst. Additional copies can be purchased from Cephalon Simaris for 100,000 Standing.
+
 ### Wiki
 Weapon
 A sturdy burst-rifle of considerable age and unknown origin collected by Teshin during his many years wandering the Origin System.
 Thornbak is a burst-fire rifle. It fires four rounds in quick succession, boasting incredible Status Chance.
 Characteristics
 This weapon deals equal physical damage.
-**Acquisition:**
-Thornbak is awarded during The Teacher quest, complete with a free weapon slot and a pre-installed Orokin Catalyst. Additional copies can be purchased from Cephalon Simaris for 100,000 Standing.
 **Trivia:**
 Thornbak shares a similar look to the Kyndryn Gunblade Skin.128px
 **Type:** Rifle | **Riven Disposition:** 3
@@ -7862,6 +7974,10 @@ Crit Chance: 6.00% | Crit Multiplier: 1.4x | Status Chance: 36.00% | Fire Rate: 
 ## Tiberon
 Forged by a master gunsmith, this Tenno burst rifle will strike down targets with swift precision.
 
+### Acquisition
+The Tiberon's blueprint can be purchased from the Market.
+This weapon can be sold for 7,500.
+
 ### Wiki
 Weapons
 Forged by a master gunsmith, this Tenno burst rifle will strike down targets with swift precision.
@@ -7875,9 +7991,6 @@ Very low recoil.
 Third highest fire rate of all burst-fire rifles, behind Paracyst and Burston Prime.
 Linearly less efficient – sometimes a target may only die with four bullets, which requires an entire second burst to be fired.
 Tiberon Prime
-**Acquisition:**
-The Tiberon's blueprint can be purchased from the Market.
-This weapon can be sold for 7,500.
 **Notes:**
 Like the Sybaris, the Tiberon's burst has a very tight shot grouping, which combined with its high base accuracy and negligible recoil makes it better at long-range shooting than other burst-fire weapons, such as the Burston or Hind.
 The Tiberon is a very strong candidate for a tenno Specter to use thanks to its high damage per second combined with high accuracy.
@@ -7948,6 +8061,9 @@ Crit Chance: 16.00% | Crit Multiplier: 2.8x | Status Chance: 32.00% | Fire Rate:
 ## Tigris
 The double-barreled Tigris shotgun fires two bursts in rapid succession, easily taking down the toughest prey.
 
+### Acquisition
+The Tigris's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 The double-barreled Tigris shotgun fires two bursts in rapid succession, easily taking down the toughest prey.
@@ -7959,8 +8075,6 @@ Can use the Tigris-exclusive Combat Reload mod.
 Unique trigger type allows for two rapid shots against tough targets, or careful shot management against many weaker opponents. First shot on button press, the second on button release.
 Sancti Tigris
 Tigris Prime
-**Acquisition:**
-The Tigris's blueprint can be purchased from the Market.
 **Notes:**
 Even if the weapon fires only one round, the reload animation is shown to eject two rounds, but will still draw one round from the ammo pool.
 As the Tigris has an extremely low magazine capacity, upgrades such as Ammo Stock at Rank 2 (+30%) will raise capacity to 3. For a 4-round magazine combine Ammo Stock at Rank 5 (+60%) and a Burdened Magazine at Rank 1 (+20% Capacity, -6% Reload) or a rank 7 or higher Primed Ammo Stock.
@@ -8024,6 +8138,10 @@ Crit Chance: 10.00% | Crit Multiplier: 2x | Status Chance: 11.25% | Fire Rate: 2
 ## Tonkor
 Hurl mayhem and destruction with this Grineer grenade launcher.
 
+### Acquisition
+The Tonkor's blueprint can be purchased from the Market.
+This weapon can be sold for 8,500.
+
 ### Wiki
 Weapons
 Hurl mayhem and destruction with this Grineer grenade launcher.
@@ -8046,9 +8164,6 @@ Minimum travel length of 7.5 meters before being explosive should prevent accide
 Explosion has a headshot multiplier of 1x and cannot trigger headshot conditions.
 Explosion has linear Damage Falloff from 100% to 30% from central impact.
 Kuva Tonkor
-**Acquisition:**
-The Tonkor's blueprint can be purchased from the Market.
-This weapon can be sold for 8,500.
 **Type:** Launcher | **Mastery Req:** 5 | **Riven Disposition:** 4
 
 ### Grenade Impact
@@ -8071,6 +8186,10 @@ Crit Chance: 25.00% | Crit Multiplier: 2.5x | Status Chance: 10.00% | Fire Rate:
 ## Torid
 Torid lobs a toxic payload.
 
+### Acquisition
+The Torid's blueprint can be researched from the Bio Lab in the dojo.
+This weapon can be sold for 7,500.
+
 ### Wiki
 Weapons
 The Torid lobs a toxic payload.
@@ -8090,9 +8209,6 @@ Low magazine size.
 Projectiles have travel time with heavy arcing.
 Explosion has a headshot multiplier of 1x and cannot trigger headshot conditions.
 Explosion has linear Damage Falloff from 100% to 0% from central impact.
-**Acquisition:**
-The Torid's blueprint can be researched from the Bio Lab in the dojo.
-This weapon can be sold for 7,500.
 **Notes:**
 Torid launches toxic grenades with a slight arc and slow projectile speed. These grenades stick to anything they hit and explode into gas clouds on impact covering ~3 meter large circles.
 Clouds have innate Punch Through, allowing them to damage enemies through objects.
@@ -8127,6 +8243,10 @@ Crit Chance: 29.00% | Crit Multiplier: 3.1x | Status Chance: 39.00% | Fire Rate:
 ## Trumna
 An ancient weapon designed by the Entrati. Primary fire siphons life essence from the target to fuel a devastating secondary fire. A heavy, oversized automatic rifle with withering fire that delivers rapid heat damage. Secondary fire unleashes an arcing projectile that ricochets off surfaces and enemies, exploding on every impact.
 
+### Acquisition
+Trumna is acquired by reaching Rank 3 - Associate with the Entrati. Father sells the main blueprint for 5,000 Standing and component blueprints for 2,500 Standing; a total of 12,500 Standing is needed for all parts. The main blueprint is also offered as a rank-up reward.
+Additionally requires Rank 3 - Trusted with the Ostrons in order to acquire Marquise Veridos and Auroxium Alloy required in its construction.
+
 ### Wiki
 Weapons
 An ancient weapon designed by the Entrati. Primary fire siphons life essence from the target to fuel a devastating alt fire. A heavy, oversized automatic rifle with withering fire that delivers rapid heat damage. Alt fire unleashes an arcing projectile that ricochets off surfaces and enemies, exploding every impact.
@@ -8150,9 +8270,6 @@ All explosion have linear Damage Falloff from:
 Trumna Prime
 Grenade Bounce AoE:
 Lower base damage (1,000.00 vs. 1,115.00)
-**Acquisition:**
-Trumna is acquired by reaching Rank 3 - Associate with the Entrati. Father sells the main blueprint for 5,000 Standing and component blueprints for 2,500 Standing; a total of 12,500 Standing is needed for all parts. The main blueprint is also offered as a rank-up reward.
-Additionally requires Rank 3 - Trusted with the Ostrons in order to acquire Marquise Veridos and Auroxium Alloy required in its construction.
 **Type:** Rifle | **Mastery Req:** 13 | **Riven Disposition:** 2
 
 ### Auto
@@ -8270,6 +8387,14 @@ Crit Chance: 40.00% | Crit Multiplier: 2.8x | Status Chance: 18.00% | Fire Rate:
 ## Vaykor Hek
 Forged in the fires of rebel struggle, this shotgun is a force for liberation.
 
+### Acquisition
+The Vaykor Hek can be acquired by reaching the Rank of General with Steel Meridian, and spending 125,000 Standing to purchase. As with all Syndicate Weapons, the Vaykor Hek cannot be chosen as the free offering upon ranking up to General rank.
+Syndicate weapons can also be acquired via Trading, but only for unranked copies without Forma and Orokin Catalyst installed.
+Players must have a Mastery Rank of at least 12 to acquire the Vaykor Hek, either through trading or through the Syndicates themselves.
+Can make good use of Accelerated Blast, due to its high innate Puncture damage.
+The Vaykor Hek has over double the critical potential of the normal Hek. This, combined with more rounds per magazine and a higher fire rate, means the Vaykor variant is more viable for a critical oriented build, and more powerful overall even with Hek's extra multishot afforded by Scattered Justice.
+wV3JAIEvkB8
+
 ### Wiki
 Weapons
 Forged in the fires of rebel struggle, this shotgun is a force for liberation.
@@ -8285,13 +8410,6 @@ Has linear damage falloff from 100% to 26.67% from 10m to 25m target distance (d
 High recoil.
 Hek
 Kuva Hek
-**Acquisition:**
-The Vaykor Hek can be acquired by reaching the Rank of General with Steel Meridian, and spending 125,000 Standing to purchase. As with all Syndicate Weapons, the Vaykor Hek cannot be chosen as the free offering upon ranking up to General rank.
-Syndicate weapons can also be acquired via Trading, but only for unranked copies without Forma and Orokin Catalyst installed.
-Players must have a Mastery Rank of at least 12 to acquire the Vaykor Hek, either through trading or through the Syndicates themselves.
-Can make good use of Accelerated Blast, due to its high innate Puncture damage.
-The Vaykor Hek has over double the critical potential of the normal Hek. This, combined with more rounds per magazine and a higher fire rate, means the Vaykor variant is more viable for a critical oriented build, and more powerful overall even with Hek's extra multishot afforded by Scattered Justice.
-wV3JAIEvkB8
 **Type:** Shotgun | **Mastery Req:** 12 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -8300,6 +8418,9 @@ Crit Chance: 25.00% | Crit Multiplier: 2x | Status Chance: 10.70% | Fire Rate: 3
 
 ## Vectis
 A classic Tenno sniper rifle, the Vectis is ideal for ranged takedowns.
+
+### Acquisition
+The Vectis's blueprint can be purchased from the Market.
 
 ### Wiki
 Weapons
@@ -8323,8 +8444,6 @@ High recoil, which may make it difficult to fire a follow-up shot, especially at
 Vectis Prime
 Lower zoom distance (3x/4.5x vs. 3.5x/6x)
 Lower zoom headshot damage (30%/50% vs. 40%/60%)
-**Acquisition:**
-The Vectis's blueprint can be purchased from the Market.
 **Notes:**
 Unlike other sniper rifles, such as the Lanka or the Vulkar, the Vectis can reload while zoomed in, allowing for continuous shots without having to re-sight the target.
 The Vectis has to reload after each shot, which resembles the way a bolt-action sniper rifle works in other shooters.
@@ -8388,6 +8507,9 @@ Crit Chance: 30.00% | Crit Multiplier: 2x | Status Chance: 30.00% | Fire Rate: 2
 ## Veldt
 Precise calibration, rapid trigger-pull and a steady hand all combine to bring down the hardiest prey on two legs or four.
 
+### Acquisition
+The Veldt's blueprint can be researched from the Tenno Lab in the dojo.
+
 ### Wiki
 Weapons
 Precise calibration, rapid trigger-pull and a steady hand all combine to bring down the hardiest prey on two legs or four.
@@ -8397,8 +8519,6 @@ This weapon primarily deals Slash damage.
 While aiming, Alternate Fire adjusts the zoom, allowing players to deal with enemies at close and medium ranges.
 Innate Naramon polarity.
 Has uniform spread while hip-firing and while scoped, meaning that shots will not stray above or below the reticle.
-**Acquisition:**
-The Veldt's blueprint can be researched from the Tenno Lab in the dojo.
 **Notes:**
 While aiming, players can increase or decrease the zoom using Alternate Fire.
 The pitch of the shots changes on the last 4 rounds.
@@ -8429,6 +8549,9 @@ Crit Chance: 22.00% | Crit Multiplier: 2.2x | Status Chance: 22.00% | Fire Rate:
 ## Verglas
 Designed as the perfect mate for Nautilus, this Sentinel weapon projects an icy beam at nearby targets.
 
+### Acquisition
+The Verglas is automatically acquired upon obtaining Nautilus. Note that this weapon also takes up one Companion inventory slot.
+
 ### Wiki
 Designed as the perfect mate for Nautilus, this Sentinel weapon projects an icy beam at nearby targets.
 The Verglas is the default robotic weapon for the Nautilus Sentinel that fires a continuous beam of Cold damage. This weapon accepts Rifle Mods.
@@ -8437,8 +8560,6 @@ Characteristics
 This weapon deals Cold damage.
 Kills create an extra corpse, synergizing with Nekros' Desecrate.
 Verglas Prime
-**Acquisition:**
-The Verglas is automatically acquired upon obtaining Nautilus. Note that this weapon also takes up one Companion inventory slot.
 **Trivia:**
 Verglas is a thin layer of ice, originating from the French word Verglas which means black ice i.e. clear ice.
 Upon release, Verglas Riven Mods were unveiled from Rifle Rivens as opposed to Companion Weapon Rivens; this was soon patched.
@@ -8451,14 +8572,15 @@ Crit Chance: 8.00% | Crit Multiplier: 2x | Status Chance: 34.00% | Fire Rate: 12
 ## Verglas Prime
 The icy signature weapon of Nautilus Prime.
 
+### Acquisition
+The Verglas Prime is automatically acquired upon obtaining Nautilus Prime. Note that this weapon also takes up one Companion inventory slot.
+
 ### Wiki
 The icy signature weapon of Nautilus Prime.
 Verglas Prime is the default robotic weapon of Nautilus Prime, and is the Primed counterpart of the fully automatic Verglas acting as a direct upgrade. This weapon accepts Rifle Mods.
 Characteristics
 This weapon deals primarily Cold damage.
 Verglas
-**Acquisition:**
-The Verglas Prime is automatically acquired upon obtaining Nautilus Prime. Note that this weapon also takes up one Companion inventory slot.
 **Notes:**
 The Verglas Prime needs at least +257.2% Critical Chance to proc Tenacious Bond. This is only possible with Riven Mods or external buffs such as Harrow's Covenant.
 The Critical Chance threshold can be reached with either Point Strike/Critical Delay and any riven with critical chance, or with only a single riven that has a very high roll of critical chance.
@@ -8470,6 +8592,10 @@ Crit Chance: 14.00% | Crit Multiplier: 2.2x | Status Chance: 36.00% | Fire Rate:
 
 ## Vinquibus
 Bring hell to the battlefield with Uriel's signature rifle and bayonet combination. Occupying both primary and melee slots, this unique weapon blends precision marksmanship with unrelenting melee combat.
+
+### Acquisition
+Vinquibus' main and component blueprints from Roathe's Oblivion on Infernium 21 of The Descendia, available after completing The Old Peace quest.
+Alternatively Vinquibus's blueprints can be purchased from Roathe in La Cathėdrale, Sanctum Anatomica for Maphica obtained in The Descendia. Each component blueprint requires 25 and the main blueprint requires 35, totaling 135 Maphica for the whole set.
 
 ### Wiki
 Weapon
@@ -8494,9 +8620,6 @@ Melee
 Kills grant 4 stacks of the Vinquibus Ferocity buff, increasing primary Ammo Efficiency by 100% stacks up to 16 times.
 Stacks are indicated on the left side of the reticle.
 Stacks are expended on shot, regardless whether or not they hit an enemy.
-**Acquisition:**
-Vinquibus' main and component blueprints from Roathe's Oblivion on Infernium 21 of The Descendia, available after completing The Old Peace quest.
-Alternatively Vinquibus's blueprints can be purchased from Roathe in La Cathėdrale, Sanctum Anatomica for Maphica obtained in The Descendia. Each component blueprint requires 25 and the main blueprint requires 35, totaling 135 Maphica for the whole set.
 **Type:** Rifle | **Mastery Req:** 14 | **Riven Disposition:** 1
 
 ### Normal Attack
@@ -8515,15 +8638,16 @@ Crit Chance: 40.00% | Crit Multiplier: 3.2x | Status Chance: 20.00% | Fire Rate:
 ## Vulcax
 Charges up a powerful blast of ultra-heated plasma.
 
+### Acquisition
+The Vulcax's blueprint can be purchased from Legs in Fortuna for 10,000 Standing, requiring Rank 5 - Old Mate with Solaris United. Note that this weapon also takes up one Companion inventory slot.
+24.1.3.2
+
 ### Wiki
 Charges up a powerful blast of ultra-heated plasma.
 The Vulcax is a robotic weapon that charges up for a single Heat shot. This weapon accepts Rifle Mods.
 Characteristics
 This weapon deals Heat damage.
 Innate 2 meters punch through.
-**Acquisition:**
-The Vulcax's blueprint can be purchased from Legs in Fortuna for 10,000 Standing, requiring Rank 5 - Old Mate with Solaris United. Note that this weapon also takes up one Companion inventory slot.
-24.1.3.2
 **Type:** Companion Weapon | **Mastery Req:** 14 | **Riven Disposition:** 3
 
 ### Impact
@@ -8546,6 +8670,9 @@ Crit Chance: 20.00% | Crit Multiplier: 2.5x | Status Chance: 20.00% | Fire Rate:
 ## Vulkar
 Built by the Grineer for their elite troopers, the Vulkar is a devastating distance weapon. In the right hands it is capable of taking down targets long before they get into attack range.
 
+### Acquisition
+The Vulkar's blueprint can be purchased from the Market. Alternatively, it can be acquired from completing the Mars to Ceres Junction.
+
 ### Wiki
 Weapons
 Built by the Grineer for their elite troops, the Vulkar is a devastating distance weapon. In the right hands it is capable of taking down targets long before they get into attack range.
@@ -8566,8 +8693,6 @@ Innate 1 meter punch through.
 Has linear damage falloff from 100% to 50% from 400m to 600m target distance (distances are affected by Projectile Speed).
 Inaccurate when fired from the hip, bullets may widely spread when fired.
 Vulkar Wraith
-**Acquisition:**
-The Vulkar's blueprint can be purchased from the Market. Alternatively, it can be acquired from completing the Mars to Ceres Junction.
 **Notes:**
 The Vulkar has the second longest shot combo reset time of the sniper rifles at 5 seconds, thus it can maintain its shot combo after reloading.
 It needs only 2 shots to initiate the shot combo counter's 1.5x damage bonus, allowing it to attain 2.0x bonus damage if all rounds of its magazine hit.
@@ -8589,6 +8714,10 @@ Crit Chance: 20.00% | Crit Multiplier: 2x | Status Chance: 25.00% | Fire Rate: 1
 
 ## Vulkar Wraith
 A blood-red variant of this devastating sniper rifle.
+
+### Acquisition
+The Vulkar Wraith is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 300,000 and 450. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
+The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 7.
 
 ### Wiki
 Weapons
@@ -8613,9 +8742,6 @@ Has linear damage falloff from 100% to 50% from 400m to 600m target distance (di
 Slow reload speed.
 Inaccurate when fired from the hip, bullets may widely spread when fired.
 Vulkar
-**Acquisition:**
-The Vulkar Wraith is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 300,000 and 450. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
-The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 7.
 **Type:** Sniper | **Mastery Req:** 7 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -8625,6 +8751,9 @@ Crit Chance: 20.00% | Crit Multiplier: 2x | Status Chance: 25.00% | Fire Rate: 2
 ## Vulklok
 Standard issue sniper rifle for Diriga.
 
+### Acquisition
+The Vulklok is automatically acquired upon obtaining Diriga. Note that this weapon also takes up one Companion inventory slot.
+
 ### Wiki
 Standard issue sniper rifle for Diriga.
 The Vulklok is the default robotic weapon of the Diriga Sentinel that fires Electricity energy projectiles. This weapon functions as a sniper rifle, accepting rifle and Sniper Mods.
@@ -8632,8 +8761,6 @@ This weapon can be sold for 1,250.
 Characteristics
 This weapon deals Electricity damage.
 Innate Infinite Body Punchthrough and 1.5 meters Punch Through.
-**Acquisition:**
-The Vulklok is automatically acquired upon obtaining Diriga. Note that this weapon also takes up one Companion inventory slot.
 **Trivia:**
 The naming of this weapon seems to be an amalgamation of Vulkar and Grinlok, two Grineer long-range rifles.
 Ironically, it functionally resembles the Lanka — a Corpus-built sniper rifle.
@@ -8646,6 +8773,10 @@ Crit Chance: 35.00% | Crit Multiplier: 2.5x | Status Chance: 25.00% | Fire Rate:
 
 ## Zarr
 Unload a barrage of explosives or a huge shot of flak from this cannon’s enormous barrel.
+
+### Acquisition
+The Zarr's blueprint can be purchased from the Market.
+This weapon can be sold for 7,500.
 
 ### Wiki
 Weapons
@@ -8676,9 +8807,6 @@ Barrage Mode:
 Maximum range of 10 meters (affected by Projectile Speed mods).
 Very small magazine size.
 Kuva Zarr
-**Acquisition:**
-The Zarr's blueprint can be purchased from the Market.
-This weapon can be sold for 7,500.
 **Type:** Launcher | **Mastery Req:** 7 | **Riven Disposition:** 4
 
 ### Cannon Mode Projectile
@@ -8713,6 +8841,10 @@ Crit Chance: 17.00% | Crit Multiplier: 2.5x | Status Chance: 8.70% | Fire Rate: 
 ## Zenith
 Deploy the radar disc to reveal hidden enemies and then strike with precision shots that punch through all obstacles in the way.
 
+### Acquisition
+The Zenith is exclusive to the Daily Tribute system. It will become available every 200 days, beginning at day 100, until chosen as the Milestone reward. The weapon comes with its own weapon slot and a pre-installed Orokin Catalyst.
+Additional blueprints can be bought from Cephalon Simaris for 100,000 Standing.
+
 ### Wiki
 Weapons
 Deploy the radar disc to reveal hidden enemies and then strike with precision shots that punch through all obstacles in the way.
@@ -8732,9 +8864,6 @@ Consumes 3 ammo per shot.
 Third slowest fire rate of all semi-auto rifles, after Hind/Nagantaka and Grinlok.
 High recoil when firing from the hip.
 Mediocre ammo efficiency.
-**Acquisition:**
-The Zenith is exclusive to the Daily Tribute system. It will become available every 200 days, beginning at day 100, until chosen as the Milestone reward. The weapon comes with its own weapon slot and a pre-installed Orokin Catalyst.
-Additional blueprints can be bought from Cephalon Simaris for 100,000 Standing.
 **Type:** Rifle | **Mastery Req:** 10 | **Riven Disposition:** 3
 
 ### Auto Mode
@@ -8757,6 +8886,9 @@ Crit Chance: 35.00% | Crit Multiplier: 2.5x | Status Chance: 8.00% | Fire Rate: 
 ## Zhuge
 This devastating automatic crossbow is the perfect marriage of ancient Earth weaponry and Tenno technology.
 
+### Acquisition
+The Zhuge's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 This devastating automatic crossbow is the perfect marriage of ancient Earth weaponry and Tenno technology.
@@ -8775,8 +8907,6 @@ Projectiles have travel time.
 Third lowest fire rate of all fully automatic weapons, after Attica/Panthera Prime and Panthera.
 Zhuge Prime
 Bolts do not explode on impact by default; thus no self-stagger effect.
-**Acquisition:**
-The Zhuge's blueprint can be purchased from the Market.
 **Notes:**
 Can be used on bow-only Sortie missions.
 **Tips:**

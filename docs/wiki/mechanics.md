@@ -553,7 +553,6 @@ The base critical damage multiplier of a weapon is quantized. This applies befor
 As an example, a Braton with Vital Sense excluding quantization for simplicity, has a critical damage multiplier of:
 1.6 (1 + Vital Sense)
 Another similar example, now including quantization, and now with the incarnon perk Critical Parallel yields a critical damage multiplier of:
-1
 (32 / 4095) (1 + Vital Sense)
 Sources of % Critical Damage Bonus
 Sources of Absolute (Flat) Critical Damage Bonus
@@ -1412,7 +1411,6 @@ Following its predecessor, Focus 2.0, each School gained two unique castable abi
 Activation
 Missing iOS controls
 right|thumb|250px|A Tenno Operator being projected through Transcendence as the Warframe lies inert on the ground.
-5
 Upon completion of The Second Dream quest, players become able to perform Transcendence. When activated, an invulnerable projection of the Operator (along with a powerful Void Beam attack) will appear and hover from the Warframe, able to be controlled through basic movement, and any learned Focus passives will take effect. During Transcendence, the player's Warframe is invulnerable but disabled, though any active channeled/cast Abilities will remain. This state lasts for 10 seconds unless the player manually deactivates it or falls off a platform. Activating Transcendence requires a filled gauge that automatically charges after 3 minutes.
 Completing The War Within replaces Transcendence with Transference, which allows the Operator to physically join the battle with an entirely new set of Abilities, Amp and Arcanes. This upgrade also allows Focus passives to take effect immediately at the start of a mission, even if Transference isn't used at all.
 Acquiring both Transcendence and Transference are required to activate and take advantage of the passive and active Focus powers provided by each school.
@@ -1675,7 +1673,6 @@ Reservoirs do not affect Mind Control targets.
 
 ## Endo
 Endo is a form of energy used in the process of Fusion to upgrade the effectiveness of Mods at the cost of increasing their drain. Appearing as a large blue and gold orb, it is commonly dropped by slain enemies, as well as rewarded by a variety of mission types. Endo can also be acquired by dissolving unused Mods in the Orbiter's Mods segment, converting the Mods into set quantities of Endo. Maroo can also extract Endo from Ayatan Treasures at her Bazaar.
-2
 Enemy Drop Quantities
 Fusion Costs
 Fusion costs to a final mod rank from both mod rank 0 and previous mod rank are show below. Expressing rarity as a number (such as common rarity being 1, uncommon 2 etc.) allows to derive convenient formulas for calculating fusion costs. Also note that these fusion costs apply to these additional mod rarities:
@@ -2091,7 +2088,6 @@ After Update 16, when Cold based mods like Cryo Rounds increased their mod drain
 Lore
 Teshin during The Teacher
 Mod Components
-26
 
 ## Arcane Enhancement
 Arcane Enhancements are special items that can be installed on equipment to provide buffs, often activated through specific conditions within a mission.

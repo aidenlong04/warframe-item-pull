@@ -245,7 +245,6 @@ Localization
 Lotus Fragment
 The Lotus is a mysterious figure who guides the Tenno during their operations throughout the Origin System.
 She often takes the role of mission control throughout missions, advising the Tenno of incoming enemy units and their awareness of the Tenno presence at the start of a mission, as well as upon an enemy alerting the rest by using a control console. She will also advise the Tenno of heavy units when they are nearby such as the Infested Ancients, Corpus Shockwave MOAs, and various heavy Grineer. She may also sometimes interrupt the current non-endless objective, ordering the Tenno to ignore their original task and commence Exterminate.
-3
 Lore
 Lotus
 The Lotus acts as the guide to the Tenno in nearly all Missions, Events, Quests and Comics of WARFRAME, making her the most ubiquitous character of the game. For this reason, the lore section of this article will only cover the events where Lotus plays a major role.
@@ -650,12 +649,6 @@ Vox Solaris (Syndicate)#Offerings
 Exotic Goods
 Anomaly Shard can be used to purchase the Tenebrous Ephemera, and the Sentient Murex Captura scenes
 LittleDuckExoticGoods
-15
-10
-10
-10
-10
-10
 Note
 When the player reaches Rank 5 - Shadow with Vox Solaris, Little Duck will open her chest cavity, revealing her organic head and signifying her trust in the Tenno.
 The chest cavity will not open if Creator Mode in Settings is enabled.
@@ -1001,7 +994,6 @@ Once he hears that one of his undercover contractors has been captured by the Gr
 Darvo's Totally Legit Sale & The Corpus Bust Alerts
 At the start of August 2016, Darvo announced that he would be hosting a month-long series of deals in an attempt to liquidate some ill-gotten goods "acquired" from Corpus ships and cover his tracks from their investigations. Though he succeeds in getting rid of those goods, the Corpus find him and hunt him down anyway. Darvo promptly pleads the Tenno to defend him from waves of Corpus troops, with the promise of additional rewards for keeping him safe. Ultimately, the Tenno succeed in defending the merchant and the Corpus call off the investigation.
 Darvo's Official Fire Sale
-700px
 On April 25, 2017, Darvo would once again host another series of deals to get rid of goods stolen from Grineer ships after suspecting that the Grineer are investigating him. Unlike his scam with the Corpus however, the Grineer did not pursue Darvo after the Sale concluded on May 17 of the same year, suggesting that either they were never investigating him in the first place, or they opted to drop the investigations to avoid Tenno retaliation much like the Corpus before them.
 Twitch Prime Subscription Rewards
 Beginning in 2018, players who linked their Warframe accounts with a Twitch account could receive additional rewards through Twitch Prime subscriptions, which were initially framed in-game as Darvo sending messages to the players, having learned of the rewards in a "Void Rift" that he could not access, much to his annoyance. Despite his attempts in collecting the goods, even going as far as sending Clem through the Rift, Darvo's attempts ultimately prove fruitless. Some of these items would end up in Varzia's hands.
@@ -1755,58 +1747,15 @@ Other
 Enigma Archives
 Enigma Gyrum can be used to purchase Duviri-Themed Decorations.
 AcrithisEnigma
-50
-40
-35
-35
-20
-15
-10
-10
-10
-10
-10
-10
-5
-5
 Kullervo's Archive
 Kullervo's Bane can be used to purchase Kullervo, Rauta and Credits. 42 are needed to purchase all parts of Kullervo, and 30 are needed to purchase all parts of Rauta, for a total of 72 Kullervo's Bane needed to purchase both.
 AcrithisKullervo
-15
-9
-9
-9
-12
-6
-6
-6
-15
-10
-15
 Exchange Scuttler Husks
 Scuttler Husk can be used to purchase Oraxia, Scyotid, Spinnerex, Thalys and Captura scenes.
 Kuva has purchase limit of 7 times per week.
 120 are needed to purchase all parts of Oraxia, 96 for all parts of Scyotid (2x Barrel and Gauntlet), 96 for all parts of Spinnerex, 96 for the Thalys blueprint, and 125 for all Captura scenes, for a total of 533 Scuttler Husk needed to purchase everything. (This total increases to 653 if you wish to purchase a second Oraxia for Helminth purposes.) However, only the Captura scenes and the Thalys blueprint are shop-exclusive, reducing this total to 221 Scuttler Husk if you are willing to farm the rest.
 Note: Acrithis will only exchange Scuttler Husks in the Dormizone. This option is absent if she is interacted within Duviri.
 AcrithisOraxia
-60
-20
-20
-20
-48
-12
-12
-96
-48
-16
-16
-16
-25
-25
-25
-25
-25
-100
 
 ## Kahl-175
 Kahl-175
@@ -3087,22 +3036,6 @@ Archimedean Yonta offers Voidplumes of each tier for sale, and asks for material
 Trade for Lua Thrax Plasm
 YontaOfferings2
 Lua Thrax Plasm can be used to purchase Voruna, Perigale, and Sarofang blueprints and components, Arcane Blessing, Arcane Rise, Primary Frostbite, and Conjunction Voltage, and the Lua Circulus Captura scene as an alternative to Conjunction Survival drops; only the Captura scene is exclusive to Yonta's wares.
-125
-75
-75
-75
-100
-50
-50
-100
-50
-50
-50
-15
-15
-15
-15
-250
 **Trivia:**
 At times while interacting with Yonta, she will comment that "there's a version of [her] that stayed behind on Lua," and that she "hate[s] her."
 This references Eternalism, potentially showing that Yonta regrets leaving Origin System on the Zariman, and is jealous of the version of herself that decided against it.

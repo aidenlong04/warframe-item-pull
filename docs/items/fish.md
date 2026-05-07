@@ -21,7 +21,6 @@ thumb|270px
 In-Game Description
 Amniophysi Trophy is a Fishing Trophy Decoration that can be crafted and displayed in the player's Orbiter.
 The blueprint can be purchased from Daughter for 1,500 Standing, requiring the rank of Stranger with the Entrati.
-29
 **Type:** Fish | **Tradable**
 
 ### Drop Sources
@@ -46,7 +45,6 @@ thumb|270px
 In-Game Description
 Aquapulmo Trophy is a Fishing Trophy Decoration that can be crafted and displayed in the player's Orbiter.
 The blueprint can be purchased from Daughter for 7,500 Standing, requiring the rank of Friend with the Entrati.
-29
 **Type:** Fish | **Tradable**
 
 ### Drop Sources
@@ -70,7 +68,6 @@ thumb|270px
 In-Game Description
 Barbisteo Trophy is a Fishing Trophy Decoration that can be crafted and displayed in the player's Orbiter.
 The blueprint can be purchased from Daughter for 1,500 Standing, requiring the rank of Stranger with the Entrati.
-29
 **Type:** Fish | **Tradable**
 
 ### Drop Sources
@@ -199,7 +196,6 @@ thumb|270px
 In-Game Description
 Chondricord Trophy is a Fishing Trophy Decoration that can be crafted and displayed in the player's Orbiter.
 The blueprint can be purchased from Daughter for 5,000 Standing, requiring the rank of Associate with the Entrati.
-29
 **Type:** Fish | **Tradable**
 
 ### Drop Sources
@@ -237,7 +233,6 @@ thumb|270px
 In-Game Description
 Cryptosuctus Trophy is a Fishing Trophy Decoration that can be crafted and displayed in the player's Orbiter.
 The blueprint can be purchased from Daughter for 1,500 Standing, requiring the rank of Stranger with the Entrati.
-29
 **Type:** Fish | **Tradable**
 
 ### Drop Sources
@@ -293,7 +288,6 @@ thumb|270px
 In-Game Description
 Duroid Trophy is a Fishing Trophy Decoration that can be crafted and displayed in the player's Orbiter.
 The blueprint can be purchased from Daughter for 5,000 Standing, requiring the rank of Associate with the Entrati.
-29
 **Type:** Fish | **Tradable**
 
 ### Drop Sources
@@ -408,7 +402,6 @@ thumb|270px
 In-Game Description
 Glutinox Trophy is a Fishing Trophy Decorations that can be crafted and displayed in the player's Orbiter.
 The blueprint can be purchased from Daughter for 3,000 Standing, requiring the rank of Acquaintance with the Entrati.
-29
 **Type:** Fish | **Tradable**
 
 ### Drop Sources
@@ -557,7 +550,6 @@ thumb|270px
 In-Game Description
 Kymaeros Trophy is a Fishing Trophy Decoration that can be crafted and displayed in the player's Orbiter.
 The blueprint can be purchased from Daughter for 1,500 Standing, requiring the rank of Stranger with the Entrati.
-29
 **Type:** Fish | **Tradable**
 
 ### Drop Sources
@@ -742,7 +734,6 @@ thumb|270px
 In-Game Description
 Myxostomata Trophy is a Fishing Trophy Decorations that can be crafted and displayed in the player's Orbiter.
 The blueprint can be purchased from Daughter for 10,000 Standing, requiring the rank of Family with the Entrati.
-29
 **Type:** Fish | **Tradable**
 
 ### Drop Sources
@@ -809,7 +800,6 @@ thumb|270px
 In-Game Description
 Ostimyr Trophy is a Fishing Trophy Decoration that can be crafted and displayed in the player's Orbiter.
 The blueprint can be purchased from Daughter for 3,000 Standing, requiring the rank of Acquaintance with the Entrati.
-29
 **Type:** Fish | **Tradable**
 
 ### Drop Sources
@@ -885,12 +875,13 @@ The blueprint can be purchased from The Business for 1,500 Standing, requiring t
 ## Seonn
 The Seonn's ability to flare its neck and hood makes it impossible for most predators to swallow, but the Golden Maw can overcome its defense.
 
+### Acquisition
+Acquired via the Maw Feeding activity in Duviri. The feeding platforms are usually located next to small ponds. You need to be in "The Duviri Experience", not "The Lone Story" or "The Circuit".
+
 ### Wiki
 Fishing
 The Seonn's ability to flare its neck and hood makes it impossible for predators to swallow, but the Golden Maw can overcome its defense.
 Seonn is a species of fish in Duviri.
-**Acquisition:**
-Acquired via the Maw Feeding activity in Duviri. The feeding platforms are usually located next to small ponds. You need to be in "The Duviri Experience", not "The Lone Story" or "The Circuit".
 **Type:** Fish | **Tradable**
 
 ## Sharrac
@@ -1044,7 +1035,6 @@ thumb|270px
 In-Game Description
 Vitreospina Trophy is a Fishing Trophy Decoration that can be crafted and displayed in the player's Orbiter.
 The blueprint can be purchased from Daughter for 3,000 Standing, requiring the rank of Acquaintance with the Entrati.
-29
 **Type:** Fish | **Tradable**
 
 ### Drop Sources

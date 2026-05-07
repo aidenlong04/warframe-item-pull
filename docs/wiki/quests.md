@@ -8,56 +8,18 @@ Available Quests
 Main Quests
 Main quests are the primary questline following the story of the Tenno and their origins. In addition, these quests serve to familiarize the player with the game's various factions and key gear items like the Archwing and the Railjack. They are divided into four separate story arcs:
 Arc 1 - Awakening
-220
-220
-220
 Vox Solaris
-220
-220
-220
 Arc 2 - The War Within Saga
 Natah
-220
-220
-220
-220
-220
-220
 Arc 3 - The New War Saga
 The Duviri Paradox, despite being completeable as early as Arc 2, is largely interlinked with the events of Arc 3. It is also the prerequisite requirement to start The Hex in Arc 4.
-220
-220
-220
 Arc 4 - The Void War Saga
 Although Angels of the Zariman and Jade Shadows are classified as main quests, they are currently not required to progress the main storyline.
-220
-220
-220
-220
 The Hex
-220
 Side Quests
 Side quests are optional questlines that often reveal additional lore about the world and the characters of WARFRAME. These quests often unlock access to new Syndicates or additional game features such as the Incubation Segment for Kubrow breeding.
-220
-220
-220
-220
-220
-220
 Warframe Quests
 Warframe Quests are optional questlines that revolve around the discovery and backstory of new Warframes, usually rewarding one or more Blueprints of the Warframe the quest revolves around. Note that while a majority of quests could be categorized as Warframe Quests, this category is specifically about quests that are not part of the main story progression.
-220
-220
-220
-220
-220
-220
-220
-220
-220
-220
-220
-220
 Quest Progression
 The following lists the overall progression of each quest as well as which sidequests they unlock. These branches are ordered as it was shown in the Codex. Quests that are not listed in the following branches do not have any prerequisite quests, and can be started as soon as other prerequisite requirements (such as Mastery Rank) are met, if any.
 Awakening

@@ -2,7 +2,9 @@
 
 ## Overview
 
-Warframe game data pipeline that pulls data from community APIs, official DE exports, and wiki sources, then transforms and bundles it into AI-readable `.txt` files for the **Oda Fragment** Discord bot (Cephalon assistant powered by Gemini 2.5).
+Warframe game data pipeline that pulls data from community APIs, official DE exports, and wiki sources, then transforms and bundles it into AI-readable `.txt` files for the **Oda Fragment** Discord bot (Cephalon assistant powered by Google Gemma 4).
+
+All output is tuned for Gemma 4's smaller context window (~128K tokens) and stricter instruction-following: ASCII-only formatting, explicit `RULE`/`FORMAT`/`FACT`-style markers, square-bracket slot tokens (`[NAME]`, never `«PLACEHOLDER»`), no unicode bullets (`▸`/`•`), and no `>` blockquote item headers. The retrieval layer is expected to inject only the relevant slice of the `.txt` files into the user turn, since Gemma cannot hold all 14 MB at once.
 
 **Four-stage pipeline:**
 1. `pull.js` — Fetches raw JSON from APIs and npm packages into `data/`
@@ -56,10 +58,10 @@ Warframe game data pipeline that pulls data from community APIs, official DE exp
 | `warframe-data-drops-enemies.txt` | ~422 KB | Enemy drop tables |
 | `warframe-data-export.txt` | ~933 KB | DE public export — Warframes, Weapons, Mods, Recipes, Regions |
 | `warframe-data-export-extended.txt` | ~333 KB | Focus Schools, Dojo, Nightwave, Vendors, Syndicates |
-| `warframe-data-wiki-lore.txt` | ~515 KB | Characters, factions |
-| `warframe-data-wiki-quests.txt` | ~377 KB | Quest walkthroughs |
-| `warframe-data-wiki-mechanics.txt` | ~402 KB | Damage types, status effects, game systems |
-| `warframe-data-wiki-systems.txt` | ~562 KB | Open worlds, endgame, modular equipment |
+| `warframe-data-lore.txt` | ~515 KB | Characters, factions |
+| `warframe-data-quests.txt` | ~377 KB | Quest walkthroughs |
+| `warframe-data-mechanics.txt` | ~402 KB | Damage types, status effects, game systems |
+| `warframe-data-systems.txt` | ~562 KB | Open worlds, endgame, modular equipment |
 | `warframe-data-patchnotes.txt` | ~3.0 MB | Full patch history |
 | `warframe-data-mastery-rank.txt` | ~3 KB | Mastery rank requirements |
 
@@ -67,8 +69,8 @@ Warframe game data pipeline that pulls data from community APIs, official DE exp
 
 | File | Purpose |
 |------|---------|
-| `prompts/oda-fragment.md` | System prompt — identity, core directives, source hierarchy, security |
-| `prompts/oda-response-format.md` | Category-specific response templates with `«PLACEHOLDER»` tokens |
+| `prompts/oda-fragment.md` | System prompt — identity, core directives, source hierarchy, security. Delivered as the FIRST user turn (Gemma has no system role). |
+| `prompts/oda-response-format.md` | Category-specific response templates with `[SLOT]` tokens (square brackets — Gemma is more reliable than with `«»`). |
 
 ## Code Style
 

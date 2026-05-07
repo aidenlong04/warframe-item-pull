@@ -5,10 +5,7 @@ All crafting resources, their descriptions, and drop sources.
 For the documentarian who sees the world through a unique lens, extra film is always a win. Trade this Hex Treasure with Lettie to earn standing with The Hex.
 Location: 1999 (Höllvania)
 
-### Wiki
-In-Game Description
-35mm Film is a Hex Treasure found within Höllvania. It can be exchanged for 750 Standing standing with The Hex. 1x 35mm Film is required to advance to the Rank 3 - 2-For-1 with the Hex and 1x 35mm Film is required to advance to Rank 5 - Pizza Party with the Hex.
-**Acquisition:**
+### Acquisition
 35mm Film can be found scattered across any Höllvania missions as an interactable pickup.
 Farming Locations
 Non-endless missions in Höllvania are recommended since players can explore the tileset after completing the objective.
@@ -17,40 +14,44 @@ Click to view the Blueprints requiring 35mm Film
 Gathering Tips
 As Hex Treasures (The Countessa Comic, On-lyne CD, Chuggin' Along Sixpack, Mood Crystal, Cheddar Crowns Cereal, 35mm Film, Argon Burger Meal and Big Bytes Pizza) are located as Syndicate-like medallions all around the Höllvania tileset, having a Warframe and/or companion with large loot detection capability (Loot Detector, Thief's Wit, Animal Instinct), using the Orokin Eye Air Support and infusing Golden Instinct will greatly help in recovering these items.
 The surface of all Hex Treasures has a bright green glow to it, making them easier to locate.
+
+### Wiki
+In-Game Description
+35mm Film is a Hex Treasure found within Höllvania. It can be exchanged for 750 Standing standing with The Hex. 1x 35mm Film is required to advance to the Rank 3 - 2-For-1 with the Hex and 1x 35mm Film is required to advance to Rank 5 - Pizza Party with the Hex.
 **Type:** Resource
 
 ## Adramal Alloy
 Purged of spores and contaminants, this alloy is highly versatile.
 Blueprint sold by Otak in the Necralisk on Deimos.
 
-### Wiki
-In-game description
-Adramal Alloy is a resource crafted from Adramalium. Each build yields 20 Adramal Alloy.
-**Acquisition:**
+### Acquisition
 The reusable blueprint can be purchased from Otak for 1,000 Standing, requiring Rank 0 - Neutral with the Entrati.
 Item Checklist for
 38.0.12
-29
+
+### Wiki
+In-game description
+Adramal Alloy is a resource crafted from Adramalium. Each build yields 20 Adramal Alloy.
 **Type:** Gem
 
 ## Adramalium
 Sinewy and metallic, possessed of great elastic strength.
 Location: Cambion Drift (Deimos) from Yellow Mining Lesions, Spitia Infested Cysts, and Rolizor Infested Cysts.
 
-### Wiki
-In-game description
-Adramalium is an ore that can be found in the Cambion Drift. It can be refined into Adramal Alloy.
-**Acquisition:**
+### Acquisition
 Adramalium can be acquired from two different sources:
 Mining yellow mineral veins in the Cambion Drift
 Rolizor and Spitia Infested Cysts in the Cambion Drift
 Item Checklist for
 40.0.5.1
+
+### Wiki
+In-game description
+Adramalium is an ore that can be found in the Cambion Drift. It can be refined into Adramal Alloy.
 **Notes:**
 They can be traded at Otak in exchange for Otak Tokens in quantities of 7 to 25.
 **Trivia:**
 The name Adramalium might be referring to Adramelech, an Assyrian God and Christian demon, whose name probably translates to "Magnificent King".
-29
 **Type:** Gem
 
 ## Advances Debt-Bond
@@ -73,13 +74,13 @@ Obtained from Bounties in the Orb Vallis (Venus), or purchased from Ticker in Fo
 It is said that Aggri Formations are hardened saliva from mighty Orowyrms. Duviri citizens believe Aggristones are powerful talismans.
 Location: Duviri
 
+### Acquisition
+Aggristone can be obtained by completing Spiral objectives, The Circuit or by destroying Aggristone Formations found throughout Duviri's landscape.
+Item Checklist for
+
 ### Wiki
 Missing map.
 Aggristone is a common resource found within Duviri.
-**Acquisition:**
-Aggristone can be obtained by completing Spiral objectives, The Circuit or by destroying Aggristone Formations found throughout Duviri's landscape.
-Item Checklist for
-39
 **Type:** Resource
 
 ### Drop Sources
@@ -115,18 +116,18 @@ Weapons
 A violet gem that forms from the crystallization of byproducts expelled from the Weeping Towers.
 Location: Orb Vallis (Venus) from Blue Mining Veins and Resource Containers
 
-### Wiki
-In-game Description
-Amarast is a resource that is obtainable by Mining the blue gem veins in Orb Vallis. Can be turned in to Solaris United's Standing by Smokefinger at Fortuna, Venus for 500 Standing each, or refined into Star Amarast.
-**Acquisition:**
+### Acquisition
 Amarast can be acquired from two different sources:
 Mined from Orb Vallis.
 Dropped from storage containers found in Orb Vallis, yielding varying units.
 Item Checklist for
-42
 Gathering Tips
 As with all other rare gems, it is recommended to have a Resource Drop Chance Booster or a Resource Drop Chance Blessing active while mining this gem.
 Amarast may be more common in blue veins near the Temple of Profit, in the far Northwestern corner of the map. Veins can be found in the nearby mushroom field and lake area.
+
+### Wiki
+In-game Description
+Amarast is a resource that is obtainable by Mining the blue gem veins in Orb Vallis. Can be turned in to Solaris United's Standing by Smokefinger at Fortuna, Venus for 500 Standing each, or refined into Star Amarast.
 **Trivia:**
 Amarast is likely a portmanteau word based on amaranth, a purple-red flower, and amethyst, a purple quartz gem.
 **Type:** Gem
@@ -140,10 +141,7 @@ This resource is dropped from Ambulas Units.
 Burgers so tasty they always disappear!
 Location: 1999 (Höllvania)
 
-### Wiki
-In-Game Description
-Argon Burger Meal is a Hex Treasure found within Höllvania. It can be exchanged for 1500 Standing standing with The Hex.
-**Acquisition:**
+### Acquisition
 Argon Burger Meals can be found scattered across any Höllvania missions as an interactable pickup.
 Farming Locations
 Non-endless missions in Höllvania are recommended since players can explore the tileset after completing the objective. alternatively, enemies do not start spwaning before activating kalymos in legacyte captures, allowing players to explore before completing any objectives and quickly capture the legacyte afterwards
@@ -152,6 +150,10 @@ Can be traded to Leticia for 1500 Standing with The Hex
 Gathering Tips
 As Hex Treasures (The Countessa Comic, On-lyne CD, Chuggin' Along Sixpack, Mood Crystal, Cheddar Crowns Cereal, 35mm Film, Argon Burger Meal and Big Bytes Pizza) are located as Syndicate-like medallions all around the Höllvania tileset, having a Warframe and/or companion with large loot detection capability (Loot Detector, Thief's Wit, Animal Instinct), using the Orokin Eye Air Support and infusing Golden Instinct will greatly help in recovering these items.
 The surface of all Hex Treasures has a bright green glow to it, making them easier to locate.
+
+### Wiki
+In-Game Description
+Argon Burger Meal is a Hex Treasure found within Höllvania. It can be exchanged for 1500 Standing standing with The Hex.
 **Trivia:**
 Its name and description are a reference to Argon Crystal.
 The face on the box as well as the box's shape might be references to the McDonald's Happy Meal.
@@ -161,10 +163,7 @@ The face on the box as well as the box's shape might be references to the McDona
 Technology developed by Executor Ballas to allow remote piloting of a hijacked Warframe for short periods, forcing them to act against even their deepest instincts.
 Obtained from Recall: Vanguard missions in The Perita Rebellion (The Dark Refractory).
 
-### Wiki
-In-Game Description
-Ascaris Prime is a special resource that can be obtained from the "Recall: Vanguard" mission in The Perita Rebellion.
-**Acquisition:**
+### Acquisition
 75 Ascaris Prime is awarded upon completion of The Old Peace quest.
 Awarded from The Perita Rebellion's Recall: Vanguard:
 Every Order completed in the Recall: Vanguard awards 1 Ascaris Prime.
@@ -179,6 +178,10 @@ Each special resource from The Perita Rebellion is also used to upgrade the new 
 Obtaining and upgrading all 5 weapons requires 864 Lyroic Bridge, 912 Ren Hypercore, and 839 Ascaris Prime for a total of 2615 The Perita Rebellion resources.
 Excluding the 750 of each resource it takes to obtain all 5 weapons, upgrading all 5 weapons to the max requires 114 Lyroic Bridge, 162 Ren Hypercore, and 89 Ascaris Prime for a total of 365 The Perita Rebellion resources.
 Ascaris: The modern, non-Prime variant used by Captain Vor
+
+### Wiki
+In-Game Description
+Ascaris Prime is a special resource that can be obtained from the "Recall: Vanguard" mission in The Perita Rebellion.
 **Type:** Resource | **Tradable**
 
 ### Drop Sources
@@ -193,7 +196,6 @@ In-Game Description
 Asterite is an uncommon resource that can be found in any Empyrean mission. It is used in upgrading the Railjack.
 Item Checklist for
 checklist
-41
 Gathering Tips
 Destroying Asteroids, Red barrels, Metal scrap around wreckages, and Green rifts in any of the Empyrean missions has a chance to drop Asterite.
 **Trivia:**
@@ -227,6 +229,9 @@ The name Asterite is derived from asteroid, an umbrella term for space rocks.
 A modular component that compensates for the multitude of atmospheric conditions encountered in the Origin System.
 Location: Obtained by completing Heists on the Orb Vallis (Venus)
 
+### Acquisition
+Can be purchased from Little Duck for 2,500 Standing at Rank 2 - Agent.
+
 ### Wiki
 In-Game Description
 The Atmo Systems is a crafting component that can be acquired as rewards from Heist Bounties offered by Vox Solaris or purchased from Little Duck.
@@ -235,8 +240,6 @@ Item Checklist for
 General
 Research
 38.0.12
-**Acquisition:**
-Can be purchased from Little Duck for 2,500 Standing at Rank 2 - Agent.
 **Type:** Resource
 
 ### Drop Sources
@@ -250,11 +253,7 @@ Can be purchased from Little Duck for 2,500 Standing at Rank 2 - Agent.
 This deep black ink has the power to reveal hidden truth.
 Obtained from Atramentum Balloons and completing Follie's Hunt missions (Vesper Relay). Exchanged with Aspirant Zorba in any Relay.
 
-### Wiki
-In-Game Description
-thumb|right|295px|An Atramentum Balloon, located in Follie's Hunt.
-Atramentum is a special resource obtained from the Follie's Hunt gamemode.
-**Acquisition:**
+### Acquisition
 After completing the Chains of Harrow quest, the Vesper Relay becomes a playable gamemode - Follie's Hunt.
 Completing Follie's Hunt will reward 15 Atramentum (25 in The Steel Path).
 During Follie's Hunt, 12 Atramentum Balloons will spawn in, with each dropping 2 - 4 Atramentum (3 - 6 in The Steel Path). Atramentum Balloons can only be destroyed with weapon damage; Atramentum Balloons are immune to ability damage.
@@ -262,6 +261,11 @@ Atramentum is not affected by Resource Booster, Resourceful Retriever, or Loyal 
 Usage
 Atramentum is primarily used to purchase Follie and Enkaus from Aspirant Zorba.
 Item Checklist
+
+### Wiki
+In-Game Description
+thumb|right|295px|An Atramentum Balloon, located in Follie's Hunt.
+Atramentum is a special resource obtained from the Follie's Hunt gamemode.
 **Trivia:**
 Atramentum or Atrament generally refers to a very black substance, usually liquid such as ink.
 **Type:** Resource
@@ -325,16 +329,16 @@ The description likely refers to the real-life Venusian atmosphere, which is hig
 A compound formed from Axidite.
 Blueprint sold by Smokefinger in Fortuna on Venus.
 
-### Wiki
-In-Game Description
-Axidrol Alloy is a resource crafted from Axidite. Each build yields 20 Axidrol Alloy.
-**Acquisition:**
+### Acquisition
 The reusable blueprint can be purchased from Smokefinger for 1,000 Standing, requiring the rank of Neutral with Solaris United.
 Item Checklist for
 General
 Research
 40.0.5.1
-24
+
+### Wiki
+In-Game Description
+Axidrol Alloy is a resource crafted from Axidite. Each build yields 20 Axidrol Alloy.
 **Type:** Gem
 
 ## Azurite
@@ -364,72 +368,47 @@ This gem is the in-game equivalent of Azurite.
 Malleable, owing to ingrown veins of Infestation protein.
 Location: Cambion Drift (Deimos) from Yellow Mining Lesions, Rolizor Infested Cysts, and Bonus Vaults in Isolation Vault Bounties.
 
-### Wiki
-In-game description
-Bapholite is an ore that can be found in the Cambion Drift. It can be refined into Tempered Bapholite.
-**Acquisition:**
+### Acquisition
 Bapholite can be acquired from three different sources:
 Mining yellow mineral veins in the Cambion Drift.
 Storage containers found in the Bonus vaults found during Isolation Vault bounties.
 Infested Rolizor Cysts on the Cambion Drift can house Bapholites within.
 Item Checklist for
 40.0.5.1
+
+### Wiki
+In-game description
+Bapholite is an ore that can be found in the Cambion Drift. It can be refined into Tempered Bapholite.
 **Notes:**
 They can be traded at Otak in exchange for Otak Tokens in quantities of 7 to 25.
 **Trivia:**
 The name Bapholite might be derived from the name Baphomet, a pagan idol allegedly worshipped by the Knights Templar.
-29
 **Type:** Gem
 
 ## Beating Heartstrings
 These curious Techrot growths still quivered in sympathy with Temple’s music long after the gig was over.
 Location: Stage Defense missions in Höllvania.
 
-### Wiki
-In-Game Description
-Beating Heartstrings is a rare component that can be obtained from Stage Defense, Solstice Square in Höllvania. It is used to purchase Temple and Riot-848 components from Flare, as well as other memorabilia.
-**Acquisition:**
+### Acquisition
 Completing a rotation of Stage Defense missions (3 waves) in Solstice Square, Höllvania, awarded in quantities of 4-9 (7-12 on The Steel Path).
 Item Checklist
-41
 Usage
 Beating Heartstrings can be traded to Flare for Temple, Riot-848, and various music-themed decorations.
 Kuva has purchase limit of 7 times per week.
 BeatingHeartstrings
-195
-65
-65
-65
-120
-60
-60
-60
-30
-30
-30
-30
-30
-30
-30
-30
-30
-30
-30
-30
-100
-110
 Farming Locations
 Solstice Square
+
+### Wiki
+In-Game Description
+Beating Heartstrings is a rare component that can be obtained from Stage Defense, Solstice Square in Höllvania. It is used to purchase Temple and Riot-848 components from Flare, as well as other memorabilia.
 **Type:** Resource
 
 ## Bellow Voca
 The deepest of Voidtongue moans, etched into stone. An unlikely asset in the construction of Albrecht's vessels.
 Location: Albrecht's Laboratories (Deimos)
 
-### Wiki
-In-Game Description
-Bellow Voca is an uncommon resource found within Albrecht's Laboratories on Deimos. They can be exchanged for 1000 Standing standing with the Cavia. 2x Bellow Voca are required to advance to the Rank 3 - Colleague and 10x for Rank 4 - Scholar with the Cavia.
-**Acquisition:**
+### Acquisition
 Bellow Voca can be found scattered across any Albrecht's Laboratories mission as an interactable pickup.
 Tier 3 and 4 Bounties from Fibonacci have a chance to award a Bellow Voca.
 Every 8 hours, one Bellow Voca can be purchased from Loid using resources found in the Albrecht's Laboratories.
@@ -441,6 +420,10 @@ Uses for Bellow Voca
 Gathering Tips
 As Voca (Shrill Voca, Bellow Voca and Echo Voca) are located as Syndicate-like medallions all around the Albrecht's Laboratories tileset, having a Warframe and/or companion with large loot detection capability (Loot Detector, Thief's Wit, Animal Instinct), using the Orokin Eye Air Support and infusing Golden Instinct will greatly help in recovering these items.
 All Voca emit a low bellowing sound, making them easier to locate.
+
+### Wiki
+In-Game Description
+Bellow Voca is an uncommon resource found within Albrecht's Laboratories on Deimos. They can be exchanged for 1000 Standing standing with the Cavia. 2x Bellow Voca are required to advance to the Rank 3 - Colleague and 10x for Rank 4 - Scholar with the Cavia.
 **Type:** Resource
 
 ### Drop Sources
@@ -627,10 +610,7 @@ Wisps can be encountered at any time of day, though they can be harder to see at
 A nostalgic treat for the ultimate ‘90s kid! Remember those commercials with the cheerful mouse quartet? Trade this Hex Treasure with Lettie to earn standing with The Hex.
 Location: 1999 (Höllvania)
 
-### Wiki
-In-Game Description
-Cheddar Crowns Cereal is a Hex Treasure found within Höllvania. It can be exchanged for 750 Standing standing with The Hex. 1x Cheddar Crowns Cereal is required to advance to the Rank 3 - 2-For-1 with the Hex and 1x Cheddar Crowns Cereal is required to advance to Rank 5 - Pizza Party with the Hex.
-**Acquisition:**
+### Acquisition
 Cheddar Crowns Cereal boxes can be found scattered across any Höllvania missions as an interactable pickup.
 Tier 5 Bounties from the Bounty Board have a chance to award Cheddar Crowns Cereal.
 Farming Locations
@@ -640,6 +620,10 @@ Click to view the Blueprints requiring Cheddar Crowns Cereal
 Gathering Tips
 As Hex Treasures (The Countessa Comic, On-lyne CD, Chuggin' Along Sixpack, Mood Crystal, Cheddar Crowns Cereal, 35mm Film, Argon Burger Meal and Big Bytes Pizza) are located as Syndicate-like medallions all around the Höllvania tileset, having a Warframe and/or companion with large loot detection capability (Loot Detector, Thief's Wit, Animal Instinct), using the Orokin Eye Air Support and infusing Golden Instinct will greatly help in recovering these items.
 The surface of all Hex Treasures has a bright green glow to it, making them easier to locate.
+
+### Wiki
+In-Game Description
+Cheddar Crowns Cereal is a Hex Treasure found within Höllvania. It can be exchanged for 750 Standing standing with The Hex. 1x Cheddar Crowns Cereal is required to advance to the Rank 3 - 2-For-1 with the Hex and 1x Cheddar Crowns Cereal is required to advance to Rank 5 - Pizza Party with the Hex.
 **Trivia:**
 The back of the box lists the "Calories", "Cheese", and "Uranium" content: "Yes", "Yes", and "Probably Not".
 It also states they are licensed as "Cheese Crowns" by "Cheese Group Limited", and that the batch number is "476577098" "706986996".
@@ -652,10 +636,7 @@ It also states they are licensed as "Cheese Crowns" by "Cheese Group Limited", a
 A set of liquid comfort perfect for anyone who deserves a moment to unwind. Ideal for someone carrying the weight of the world on their shoulders. Trade this Hex Treasure with Lettie to earn standing with The Hex.
 Location: 1999 (Höllvania)
 
-### Wiki
-In-Game Description
-Chuggin' Along Sixpack is a Hex Treasure found within Höllvania. It can be exchanged for 750 Standing standing with The Hex. 1x Chuggin' Along Sixpack is required to advance to the Rank 3 - 2-For-1 and 1x Chuggin' Along Sixpack is required to advance to Rank 5 - Pizza Party with the Hex.
-**Acquisition:**
+### Acquisition
 Chuggin' Along Sixpacks can be found scattered across any Höllvania missions as an interactable pickup.
 Tier 3 Bounties from the Bounty Board have a chance to award a Chuggin' Along Sixpack.
 Farming Locations
@@ -665,6 +646,10 @@ Click to view the Blueprints requiring Chuggin' Along Sixpack
 Gathering Tips
 As Hex Treasures (The Countessa Comic, On-lyne CD, Chuggin' Along Sixpack, Mood Crystal, Cheddar Crowns Cereal, 35mm Film, Argon Burger Meal and Big Bytes Pizza) are located as Syndicate-like medallions all around the Höllvania tileset, having a Warframe and/or companion with large loot detection capability (Loot Detector, Thief's Wit, Animal Instinct), using the Orokin Eye Air Support and infusing Golden Instinct will greatly help in recovering these items.
 The surface of all Hex Treasures has a bright green glow to it, making them easier to locate.
+
+### Wiki
+In-Game Description
+Chuggin' Along Sixpack is a Hex Treasure found within Höllvania. It can be exchanged for 750 Standing standing with The Hex. 1x Chuggin' Along Sixpack is required to advance to the Rank 3 - 2-For-1 and 1x Chuggin' Along Sixpack is required to advance to Rank 5 - Pizza Party with the Hex.
 **Type:** Resource
 
 ### Drop Sources
@@ -694,13 +679,14 @@ Master Teasonai and Nakak may also accept Condroc Wing as payment for their good
 The water that courses through Connla Sprouts tastes sweet and refreshing.
 Location: Duviri
 
-### Wiki
-Connla Sprout is a resource found within Duviri.
-**Acquisition:**
+### Acquisition
 Typically found near water sources and caves in Duviri but are most commonly found near the Lunaro Court.
 Connla Sprout may also sometimes be obtained from Teshin's Cave.
 Item Checklist for
 39.0
+
+### Wiki
+Connla Sprout is a resource found within Duviri.
 **Type:** Resource
 
 ### Drop Sources
@@ -739,7 +725,6 @@ Location: Plains of Eidolon (Earth) from Red Mining Veins
 ### Wiki
 In-Game DescriptionCoprun is a common resource acquired through mining red ore veins on the Plains of Eidolon. Its main use is in the creation of Coprite Alloy.
 Item Checklist for
-41
 **Trivia:**
 Based on its appearance and description as soft and malleable, Coprun appears to be the Orokin or Ostron name for raw copper. The name is based in the Latin word for copper, which is "cuprum".
 **Type:** Gem
@@ -869,36 +854,37 @@ Location: Effervo (Deimos) during Operation Gargoyle's Cry
 Rivulets of Exocrine fluid, hardened over passing centuries.
 Location: Cambion Drift (Deimos) from Blue Mining Lesions, Sagiant Entrati Casket, and Bonus Vaults in Isolation Vault Bounties.
 
-### Wiki
-In-game description
-Dagonic is a gem that can be found in the Cambion Drift. It can be refined into Purged Dagonic.
-**Acquisition:**
+### Acquisition
 Dagonic can be acquired from three different sources:
 Mining blue gem veins in the Cambion Drift
 Storage containers found in the Bonus vaults found during Isolation Vault bounties
 Sagiant Entrati Urns on the Cambion Drift
 Item Checklist for
 40.0.5.1
+
+### Wiki
+In-game description
+Dagonic is a gem that can be found in the Cambion Drift. It can be refined into Purged Dagonic.
 **Notes:**
 They can be traded at Otak in exchange for Otak Tokens in quantities of 4 to 25.
 **Trivia:**
 The name Dagonic is derived from Dagon, an ancient Mesopotamian and Canaanite deity associated with agriculture and fish.
-29
 **Type:** Gem
 
 ## Damaged Necramech Casing
 The damaged remains of a Necramech supporting frame.
 Location: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift, and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest
 
-### Wiki
-In-game description
-A Damaged Necramech Casing is a special component needed solely for the construction of player-controlled Necramechs.
-**Acquisition:**
+### Acquisition
 Damaged Necramech Casing can be found by killing Necramechs guarding Isolation Vaults of any tier (12.5%).
 Can be purchased from Father for 2,000 Standing Entrati Standing.
 They can also be obtained by trading with other players.
 Item Checklist for
 38.0.12
+
+### Wiki
+In-game description
+A Damaged Necramech Casing is a special component needed solely for the construction of player-controlled Necramechs.
 **Notes:**
 Blueprints utilizing this item can be purchased with Necraloid Standing from Loid in the Necralisk.
 **Type:** Resource | **Tradable**
@@ -910,15 +896,16 @@ Blueprints utilizing this item can be purchased with Necraloid Standing from Loi
 An engine designed for use in a Necramech. Unfortunately, it's damaged.
 Location: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest
 
-### Wiki
-In-game description
-A Damaged Necramech Engine is a special component needed solely for the construction of player-controlled Necramechs.
-**Acquisition:**
+### Acquisition
 Damaged Necramech Engine can be found by killing Necramechs guarding Isolation Vaults of any tier (12.5%).
 Can be purchased from Father for 2,000 Standing Entrati Standing.
 They can also be obtained by trading with other players.
 Item Checklist for
 38.0.12
+
+### Wiki
+In-game description
+A Damaged Necramech Engine is a special component needed solely for the construction of player-controlled Necramechs.
 **Notes:**
 Blueprints utilizing this item can be purchased with Necraloid Standing from Loid in the Necralisk.
 **Type:** Resource | **Tradable**
@@ -930,15 +917,16 @@ Blueprints utilizing this item can be purchased with Necraloid Standing from Loi
 A modular component for a Necramech. It's damaged and in need of repair.
 Location: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest
 
-### Wiki
-In-game description
-A Damaged Necramech Pod is a special component needed solely for the construction of player-controlled Necramechs.
-**Acquisition:**
+### Acquisition
 Damaged Necramech Pod can be found by killing Necramechs guarding Isolation Vaults of any tier.
 Can be purchased from Father for 2,000 Standing Entrati Standing.
 They can also be obtained by trading with other players.
 Item Checklist for
 38.0.12
+
+### Wiki
+In-game description
+A Damaged Necramech Pod is a special component needed solely for the construction of player-controlled Necramechs.
 **Notes:**
 Blueprints utilizing this item can be purchased with Necraloid Standing from Loid in the Necralisk.
 **Type:** Resource | **Tradable**
@@ -950,15 +938,16 @@ Blueprints utilizing this item can be purchased with Necraloid Standing from Loi
 The damaged barrel of a heavy-duty Necramech weapon.
 Location: Isolation Vault and Arcana Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest
 
-### Wiki
-In-game description
-A Damaged Necramech Weapon Barrel is a special component needed solely for the construction of Entrati Archguns that are designed to be used by Necramechs.
-**Acquisition:**
+### Acquisition
 Damaged Necramech Weapon Barrel are a possible reward for completing Isolation Vault and Arcana Isolation Vault Bounties of any tier. However, as of Update 29.5.9, it is only available during vault rotation A, requiring players to wait up to 6 hours if rotation B just started.
 Can be purchased from the Necraloid Syndicate's offerings for 2,500 Standing once players reach Rank 1 - Clearance: Agnesis.
 They can also be obtained by trading with other players.
 Item Checklist for
 38.0.12
+
+### Wiki
+In-game description
+A Damaged Necramech Weapon Barrel is a special component needed solely for the construction of Entrati Archguns that are designed to be used by Necramechs.
 **Notes:**
 Blueprints utilizing this item can be purchased with Necraloid Standing from Loid in the Necralisk.
 **Type:** Resource | **Tradable**
@@ -979,15 +968,16 @@ Blueprints utilizing this item can be purchased with Necraloid Standing from Loi
 A broken weapon system intended for a Necramech.
 Location: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest
 
-### Wiki
-In-game description
-A Damaged Necramech Weapon Pod is a special component needed solely for the construction of player-controlled Necramechs.
-**Acquisition:**
+### Acquisition
 Damaged Necramech Weapon Pod can be found by killing Necramechs guarding Isolation Vaults of any tier (12.5%).
 Can be purchased from Father for 2,000 Standing Entrati Standing.
 They can also be obtained by trading with other players.
 Item Checklist for
 38.0.12
+
+### Wiki
+In-game description
+A Damaged Necramech Weapon Pod is a special component needed solely for the construction of player-controlled Necramechs.
 **Notes:**
 Blueprints utilizing this item can be purchased with Necraloid Standing from Loid in the Necralisk.
 **Type:** Resource | **Tradable**
@@ -999,15 +989,16 @@ Blueprints utilizing this item can be purchased with Necraloid Standing from Loi
 A broken frame that can be used in the construction of a Necramech weapon.
 Location: Isolation Vault and Arcana Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest
 
-### Wiki
-In-game description
-A Damaged Necramech Weapon Receiver is a special component needed solely for the construction of Entrati Archguns that are designed to be used by Necramechs.
-**Acquisition:**
+### Acquisition
 Damaged Necramech Weapon Receiver are a possible reward for completing Isolation Vault and Arcana Isolation Vault Bounties of any tier. However, as of Update 29.5.9, it is only available during vault rotation B, requiring players to wait up to 6 hours if rotation C just started.
 Can be purchased from the Necraloid Syndicate's offerings for 2,500 Standing once players reach Rank 1 - Clearance: Agnesis.
 They can also be obtained by trading with other players.
 Item Checklist for
 38.0.12
+
+### Wiki
+In-game description
+A Damaged Necramech Weapon Receiver is a special component needed solely for the construction of Entrati Archguns that are designed to be used by Necramechs.
 **Notes:**
 Blueprints utilizing this item can be purchased with Necraloid Standing from Loid in the Necralisk.
 **Type:** Resource | **Tradable**
@@ -1028,15 +1019,16 @@ Blueprints utilizing this item can be purchased with Necraloid Standing from Loi
 The fractured back portion of a large Necramech weapon.
 Location: Isolation Vault and Arcana Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest
 
-### Wiki
-In-game description
-A Damaged Necramech Weapon Stock is a special component needed solely for the construction of Entrati Archguns that are designed to be used by Necramechs.
-**Acquisition:**
+### Acquisition
 Damaged Necramech Weapon Stock are a possible reward for completing Isolation Vault and Arcana Isolation Vault Bounties of any tier. However, as of Update 29.5.9, it is only available during vault rotation C, requiring players to wait up to 6 hours if rotation A just started.
 Can be purchased from the Necraloid Syndicate's offerings for 2,500 Standing once players reach Rank 1 - Clearance: Agnesis.
 They can also be obtained by trading with other players.
 Item Checklist for
 38.0.12
+
+### Wiki
+In-game description
+A Damaged Necramech Weapon Stock is a special component needed solely for the construction of Entrati Archguns that are designed to be used by Necramechs.
 **Notes:**
 Blueprints utilizing this item can be purchased with Necraloid Standing from Loid in the Necralisk.
 **Type:** Resource | **Tradable**
@@ -1057,16 +1049,17 @@ Blueprints utilizing this item can be purchased with Necraloid Standing from Loi
 A token of Daughter's gratitude.
 Obtained from Daughter in the Necralisk on Deimos.
 
-### Wiki
-In-game description
-A Daughter Token is one of the Entrati Family Tokens.
-**Acquisition:**
+### Acquisition
 There are currently 3 ways of obtaining Daughter Tokens:
 Trading Fish Products with Daughter.
 Finding them in the Cambion Drift.
 Trading random assortment of Cambion Drift resources under the Mend the Family option with Grandmother.
 Use
 Daughter Tokens, as well as other Family Tokens can be traded with Grandmother for 500 Standing Entrati Standing. They can also be traded into Grandmother Tokens.
+
+### Wiki
+In-game description
+A Daughter Token is one of the Entrati Family Tokens.
 **Type:** Resource
 
 ## Detonite Ampule
@@ -1094,10 +1087,7 @@ Detonite Ampule cannot be bought for Platinum at the Market.
 Detonite injectors are the basis for explosive and incendiary weapons.
 Location: Clan Research (Chem Lab in the Dojo) and Grineer Invasion Rewards
 
-### Wiki
-In-Game Description
-Detonite Injector is a component used in the crafting of weapons from the Dojo Chemical Lab.
-**Acquisition:**
+### Acquisition
 Its blueprint can be researched from the Chemical Lab in the Dojo.
 3 are offered as a reward for completing Grineer Invasion type missions.
 Can be found in Rare and Reinforced Grineer Storage Containers.
@@ -1106,6 +1096,10 @@ Item Checklist for
 General
 Research
 38.0.12
+
+### Wiki
+In-Game Description
+Detonite Injector is a component used in the crafting of weapons from the Dojo Chemical Lab.
 **Type:** Resource
 
 ## Devar
@@ -1133,14 +1127,14 @@ Item Checklist for
 Retrieved from its Infested state, restored to worth and utility.
 Blueprint sold by Otak in the Necralisk on Deimos.
 
-### Wiki
-In-game description
-Devolved Namalon is a resource crafted from Namalon. Each build yields 20 Namalon.
-**Acquisition:**
+### Acquisition
 The reusable blueprint can be purchased from Otak for 2,000 Standing, requiring Rank 1 - Stranger with the Entrati.
 Item Checklist for
 38.0.12
-29
+
+### Wiki
+In-game description
+Devolved Namalon is a resource crafted from Namalon. Each build yields 20 Namalon.
 **Type:** Gem
 
 ## Dominus Aureus
@@ -1152,12 +1146,13 @@ Obtained by completing Isleweaver missions in Duviri during Operation: Eight Cla
 Dracroot is a staple of the Wyrmling’s diet.
 Location: Duviri
 
-### Wiki
-Dracroot is a resource within Duviri.
-**Acquisition:**
+### Acquisition
 Dracroot can often be found near cliffs on the central island of Duviri, near Lonesome Outlook, Fair Shores Hamlet, Watershed Hamlet, Hermit Landing and Moirai Crossing. It can sometimes be found in the plants in Teshin's Cave.
 Item Checklist for
 38.0.12
+
+### Wiki
+Dracroot is a resource within Duviri.
 **Type:** Resource
 
 ### Drop Sources
@@ -1193,22 +1188,22 @@ Amaryn's hint about the location of this flower mentions it grows in "100% filth
 The quietest and most elusive of Voidtongue utterances. Sought after but never found by Albrecht.
 Location: Albrecht's Laboratories (Deimos)
 
-### Wiki
-In-Game Description
-Echo Voca is a rare resource found within Albrecht's Laboratories on Deimos. They can be exchanged for 2000 Standing standing with the Cavia. 1x Echo Voca are required to advance to the Rank 4 - Scholar and 10x for Rank 5 - Illuminate with the Cavia. It is also an important crafting material for Qorvex, Grimoire and the Helminth Coalescent Segment.
-**Acquisition:**
+### Acquisition
 Echo Voca can be found scattered across any Albrecht's Laboratories mission as an interactable pickup.
 Killing Gruzzlings have a chance to leave Echo Voca pickups.
 Tier 5 Bounties from Fibonacci have a chance to award an Echo Voca.
 Every 8 hours, one Echo Voca can be purchased from Loid using resources found in the Albrecht's Laboratories.
 Uses for Echo Voca
-41
 Farming Locations
 Effervo
 Non-endless missions in the Albrecht's Laboratories are recommended since players can explore the tileset after completing the objective. The Exterminate mission Nex is particularly effective as the player is naturally forced to maneuver a significant portion of the map.
 Gathering Tips
 As Voca (Shrill Voca, Bellow Voca and Echo Voca) are located as Syndicate-like medallions all around the Albrecht's Laboratories tileset, having a Warframe and/or companion with large loot detection capability (Loot Detector, Thief's Wit, Animal Instinct), using the Orokin Eye Air Support and infusing Golden Instinct will greatly help in recovering these items.
 All Voca emit a low bellowing sound, making them easier to locate.
+
+### Wiki
+In-Game Description
+Echo Voca is a rare resource found within Albrecht's Laboratories on Deimos. They can be exchanged for 2000 Standing standing with the Cavia. 1x Echo Voca are required to advance to the Rank 4 - Scholar and 10x for Rank 5 - Illuminate with the Cavia. It is also an important crafting material for Qorvex, Grimoire and the Helminth Coalescent Segment.
 **Type:** Resource
 
 ### Drop Sources
@@ -1218,15 +1213,16 @@ All Voca emit a low bellowing sound, making them easier to locate.
 Duviri citizens have been known to mash Eevani leaves into a paste that alleviates the discomfort caused by fresh wounds.
 Location: Duviri
 
-### Wiki
-In-Game Description
-Eevani is a resource found in Duviri.
-**Acquisition:**
+### Acquisition
 Eevani is found in the Amphitheater and Archarbor of Duviri. The Archarbor has a much higher quantity of Eevani than the Amphitheater; if specifically trying to get Eevani, it is best to wait for the Joy, Sorrow, or Envy spirals.
 Eevani may also sometimes be obtained from Teshin's Cave.
 Item Checklist for
 38.0.12
 Patch Notes
+
+### Wiki
+In-Game Description
+Eevani is a resource found in Duviri.
 **Type:** Resource
 
 ### Drop Sources
@@ -1265,17 +1261,17 @@ Major Neci Rusalka wears a gas mask that allows her to inhale an Efervon pipe li
 This rare gem forms in a clotted mass within the Infestation.
 Location: Cambion Drift (Deimos) from Blue Mining Lesions. This Rare Gem can only be mined by the Advanced Nosam Cutter or Sunpoint Plasma Drill.
 
-### Wiki
-In-game description
-Embolos is a gem that can be found in the Cambion Drift. It can be refined into Cabochon Embolos.
-**Acquisition:**
+### Acquisition
 Mining teal mineral veins in Cambion Drift, Or alternatively as rare bonus drops from yellow mineral veins.
 It can only be acquired using an Advanced Nosam Cutter or the Sunpoint Plasma Drill.
 Item Checklist for
 40.0.5.1
+
+### Wiki
+In-game description
+Embolos is a gem that can be found in the Cambion Drift. It can be refined into Cabochon Embolos.
 **Notes:**
 They can be traded at Otak in exchange for Otak Tokens in quantities of 2.
-29
 **Type:** Gem
 
 ## Enigma Gyrum
@@ -1297,10 +1293,7 @@ __forcetoc__
 A ceremonial beacon used to map Void locations on to real space.
 Location: Albrecht's Laboratories (Deimos) and Zariman
 
-### Wiki
-In-Game Description
-Entrati Lanthorn is a rare resource that can be found in the Zariman Ten Zero and Albrecht's Laboratories.
-**Acquisition:**
+### Acquisition
 Guaranteed drop from Netracell runs. Will still drop after the limit of 5 weekly runs is completed.
 Killing Gruzzlings has a chance to leave a pickup that yields three Entrati Lanthorn.
 Can be obtained from some Sanctum Anatomica endless missions as rotation rewards: Alchemy, Mirror Defense and Survival, with a 5% chance to award one each on the B rotation.
@@ -1320,6 +1313,10 @@ Gathering Tips
 Guaranteed drop from Netracell runs.
 Chroma's Elemental Ward, Limbo's Cataclysm, and Xaku's The Vast Untime modded for maximum range are effective at destroying storage containers. It is also advisable to bring weapons that deal AoE damage.
 Extractors have a chance to yield Entrati Lanthorns.
+
+### Wiki
+In-Game Description
+Entrati Lanthorn is a rare resource that can be found in the Zariman Ten Zero and Albrecht's Laboratories.
 **Trivia:**
 Lanthorn is an archaic form of the word lantern.
 Entrati Lanthorn is named after the Entrati, probably to honor Albrecht Entrati as the first person who successfully accessed the Void, or because it was invented by the Entrati.
@@ -1351,7 +1348,6 @@ Item Checklist for
 Warframes & Companions
 Weapons
 Cosmetics & Miscellaneous
-41
 Farming Locations
 These are based on opinions and may not be 100% true. These should be viewed as advice for finding the resource until better facts are proven.
 Cambire
@@ -1375,14 +1371,14 @@ Cambire
 Polished and cut to perfection.
 Blueprint sold by Old Man Suumbaat in Cetus on Earth.
 
-### Wiki
-In-Game Description
-Esher Devar is a resource crafted from Devar. Each build yields 10 Esher Devars.
-**Acquisition:**
+### Acquisition
 The reusable blueprint can be purchased from Old Man Suumbaat for 2,500 Standing, requiring the rank of Offworlder with the Ostron.
 Item Checklist for
 40.0.5.1
-22
+
+### Wiki
+In-Game Description
+Esher Devar is a resource crafted from Devar. Each build yields 10 Esher Devars.
 **Type:** Gem
 
 ## Exceptional Sentient Core
@@ -1449,10 +1445,7 @@ Obtained from Bounties in the Orb Vallis (Venus), or purchased from Ticker in Fo
 A symbol of Father's trust and confidence.
 Obtained from Father in the Necralisk on Deimos.
 
-### Wiki
-In-game description
-A Father Token is one of the Entrati Family Tokens.
-**Acquisition:**
+### Acquisition
 There are currently 3 ways of obtaining Father Tokens:
 Trading resources from the Cambion Drift with Father.
 Finding them in the Cambion Drift.
@@ -1461,6 +1454,10 @@ Use
 Father Tokens, as well as other Family Tokens can be traded with Grandmother for 500 Standing Entrati Standing. They can also be traded into Grandmother Tokens.
 25 Father Tokens are needed to gild Kitguns with Father.
 20 Father Tokens are also needed to progress from Neutral to Clearence: Agnesis with the Necraloid faction.
+
+### Wiki
+In-game description
+A Father Token is one of the Entrati Family Tokens.
 **Type:** Resource
 
 ## Ferros
@@ -1488,10 +1485,7 @@ Based on its appearance and description, this is almost certainly an iron ore. I
 ClanTech weaponized containment field to contain superheated substances.
 Location: Clan Research (Energy Lab in the Dojo) and Corpus Invasion Rewards
 
-### Wiki
-In-Game Description
-The Fieldron is a component used in the crafting of weapons from the Dojo Energy Lab.
-**Acquisition:**
+### Acquisition
 Its blueprint can be researched from the Energy Lab in the dojo.
 3 are offered as a reward for completing Corpus Invasion type missions.
 Can be found in Rare and Reinforced Corpus Storage Containers.
@@ -1500,6 +1494,10 @@ Item Checklist for
 General
 Research
 38.0.12
+
+### Wiki
+In-Game Description
+The Fieldron is a component used in the crafting of weapons from the Dojo Energy Lab.
 **Type:** Resource
 
 ## Fieldron Sample
@@ -1592,7 +1590,6 @@ Location: Cambion Drift on Deimos
 In-game description
 Ganglion is a resource that can be found in the Cambion Drift. They are found on Haptic Fronds, and may also be rewarded from Bounties.
 Item Checklist for
-41
 **Notes:**
 They can be traded at Father in exchange for Father Tokens in quantities of 8 to 48.
 **Trivia:**
@@ -1616,15 +1613,16 @@ Extracted from a Ghost Brush.
 A strange crystal that grows inside the veins of extracted ore.
 Location: Orb Vallis (Venus) from Blue Mining Veins
 
-### Wiki
-In-game Description
-Goblite is a resource that is obtainable by Mining the blue gem veins in Orb Vallis. Can be turned in to Solaris United's Standing by Smokefinger at Fortuna, Venus for 200 Standing each, or refined into Goblite Tears.
-**Acquisition:**
+### Acquisition
 Goblite can be acquired from three different sources:
 Mined from either red or blue mineral veins in Orb Vallis with the Sunpoint Plasma Drill.
 Dropped from storage containers found in Orb Vallis, yielding varying units.
 Item Checklist for
 40.0.5.1
+
+### Wiki
+In-game Description
+Goblite is a resource that is obtainable by Mining the blue gem veins in Orb Vallis. Can be turned in to Solaris United's Standing by Smokefinger at Fortuna, Venus for 200 Standing each, or refined into Goblite Tears.
 **Trivia:**
 The image used for Goblite is based on a geode, a cavity in a rock deposit with crystals growing inside.
 **Type:** Gem
@@ -1661,10 +1659,7 @@ The Gorgaricus' name is a portmanteau of gorge and Agaricus, a genus of mushroom
 A rare sign of Grandmother's favor.
 Obtained from Grandmother in the Necralisk on Deimos.
 
-### Wiki
-In-game description
-A Grandmother Token is one of the Entrati Family Tokens.
-**Acquisition:**
+### Acquisition
 There are currently 3 ways of obtaining Grandmother Tokens:
 Trading other Family member tokens with Grandmother. The Grandmother Token is always worth 50% more than the other tokens used to trade for it.
 Finding them in the Cambion Drift.
@@ -1674,6 +1669,10 @@ Grandmother Tokens can be traded with Grandmother for 3000 Standing Entrati Stan
 Other Family Tokens can also be traded for 100 Standing (Mother Token), 500 Standing (Father Token, Daughter Token, Otak Token), or 1000 Standing (Son Token).
 10 Grandmother Tokens can be traded with Grandmother for 1 Seriglass Shard, a component used in weapon crafting. Also 1 Seriglass Shard is required as a sacrifice to attain Family rank with the Entrati.
 Can be traded with Grandmother for different Decorations.
+
+### Wiki
+In-game description
+A Grandmother Token is one of the Entrati Family Tokens.
 **Type:** Resource
 
 ## Granum Crown
@@ -1736,6 +1735,9 @@ Location: Effervo (Deimos) during Operation Gargoyle's Cry
 A modular component that regulates latitude and altitude in various Corpus systems.
 Location: Obtained by completing Heists on the Orb Vallis (Venus)
 
+### Acquisition
+Can be purchased from Little Duck for 1,000 Standing at Rank 1 - Operative.
+
 ### Wiki
 In-Game Description
 The Gyromag Systems is a crafting component that can be acquired as rewards from Heist Bounties offered by Vox Solaris or purchased from Little Duck.
@@ -1744,8 +1746,6 @@ Item Checklist for
 General
 Research
 40.0.5.1
-**Acquisition:**
-Can be purchased from Little Duck for 1,000 Standing at Rank 1 - Operative.
 **Type:** Resource
 
 ### Drop Sources
@@ -1759,14 +1759,15 @@ Can be purchased from Little Duck for 1,000 Standing at Rank 1 - Operative.
 Polished and cut to perfection.
 Blueprint sold by Old Man Suumbaat in Cetus on Earth.
 
-### Wiki
-In-Game Description
-Heart Nyth is a resource crafted from Nyth. Each build yields 3 Heart Nyths.
-**Acquisition:**
+### Acquisition
 The reusable blueprint can be purchased from Old Man Suumbaat for 10,000 Standing, requiring the rank of Surah with the Ostron.
 Complete Heart Nyths are also available from Nakak in Cetus during Operation: Plague Star for 750 Standing Operational Supply Standing and 1,500 each.
 Item Checklist for
 40.0.5.1
+
+### Wiki
+In-Game Description
+Heart Nyth is a resource crafted from Nyth. Each build yields 3 Heart Nyths.
 **Notes:**
 The Ostron faction requires 1 regular Nyth to advance from Surah to Kin, not forged to Heart Nyth.
 22.2.4
@@ -1792,20 +1793,20 @@ Item Checklist for
 Heciphron can be traded at Otak in exchange for Otak Tokens in quantities of 4 to 25.
 **Trivia:**
 The name is probably derived from the Greek term "Hekaton" meaning "Hundred" and the suffix "-phron" meaning "Mind" or "Intellect", roughly translating to "Hundred-Minded", possibly referencing the hive minded nature of the Infested.
-29
 **Type:** Gem
 
 ## Hespazym Alloy
 A compound formed from Hesperon.
 Blueprint sold by Smokefinger in Fortuna on Venus.
 
-### Wiki
-In-game Description
-Hespazym Alloy is a refined alloy resource requiring Hesperon ore obtainable from Orb Vallis. Each build yields 20 Hespazym Alloy.
-**Acquisition:**
+### Acquisition
 The reusable blueprint can be purchased from Smokefinger for 4,000 Standing, requiring the Rank 2: Rapscallion with Solaris United.
 Item Checklist for
 40.0.5.1
+
+### Wiki
+In-game Description
+Hespazym Alloy is a refined alloy resource requiring Hesperon ore obtainable from Orb Vallis. Each build yields 20 Hespazym Alloy.
 **Type:** Gem
 
 ## Hesperon
@@ -1845,7 +1846,6 @@ Location: 1999 (Höllvania)
 In-game description
 Höllvanian Pitchweave Fragments are a common resource found in Höllvania. They can be acquired from enemies and loot containers.
 Item Checklist for
-42
 Farming Locations
 These are based on opinions and may not be 100% true. These should be viewed as advice for finding the resource until better facts are proven.
 **Type:** Resource
@@ -1859,10 +1859,7 @@ These are based on opinions and may not be 100% true. These should be viewed as 
 The passionate heat of flames fuels the path to redemption.
 Location: Obtained from crates and bosses in the Descendia (Dark Refractory).
 
-### Wiki
-In-Game Description
-Ignia is an uncommon special resource from The Descendia, used to buy the Descendia Arcane Collection from Roathe.
-**Acquisition:**
+### Acquisition
 The Descendia:
 Potentially awarded in quantities of 25 on Inferums 2, 4, 9, 11, 16, and 18.
 Potentially awarded in quantities of 75 on Infernums 2, 9, and 16 on The Steel Path.
@@ -1874,6 +1871,10 @@ Browse Surplus
 Roathe offers an Arcane Collection for The Descendia for 200 Ignia. Players will receive three random arcane enhancements from the collection upon purchase.
 Browse Honoria
 1,000
+
+### Wiki
+In-Game Description
+Ignia is an uncommon special resource from The Descendia, used to buy the Descendia Arcane Collection from Roathe.
 **Notes:**
 To purchase all of Roathe's offerings, players need at least 1,200 Ignia
 **Type:** Resource
@@ -1956,13 +1957,14 @@ This resource shares its name with Isos, a Capture mission node on Eris.
 ## Javlok Capacitor
 Used in the construction of Javloks
 
-### Wiki
-Used in the construction of Javloks.
-The Javlok Capacitor is a special resource that is used exclusively for crafting the Javlok. Javlok Capacitors can be sold for 2,500. Alternatively, Helminth may consume 7 to create 30% Bile.
-**Acquisition:**
+### Acquisition
 Javlok Capacitor can only be acquired as a drop from Prosecutors, commonly found in the Grineer Shipyard tileset, with a 100% drop chance.
 Item Checklist for
 38.0.12
+
+### Wiki
+Used in the construction of Javloks.
+The Javlok Capacitor is a special resource that is used exclusively for crafting the Javlok. Javlok Capacitors can be sold for 2,500. Alternatively, Helminth may consume 7 to create 30% Bile.
 **Trivia:**
 A Capacitor is a device used to store an electric charge, consisting of one or more pairs of conductors separated by an insulator.
 The model of the Javlok Capacitor looks like a sound speaker.
@@ -1999,14 +2001,15 @@ The name Komms is a mutation of comm, which is a clipping of 'communication'.
 Duviri citizens harvest Kovnik leaves to blend invigorating teas.
 Location: Duviri
 
-### Wiki
-In-Game Description
-Kovnik is a common component that can be obtained from Duviri.
-**Acquisition:**
+### Acquisition
 Kovnik plants found across Duviri.
 Occasionally found in Teshin's Cave
 Item Checklist for
 39.0
+
+### Wiki
+In-Game Description
+Kovnik is a common component that can be obtained from Duviri.
 **Type:** Resource
 
 ### Drop Sources
@@ -2045,15 +2048,15 @@ It is possible to get 2 Kuaka Spinal Claw from each Kuaka by using Ivara with Pr
 Kullervo's fury incarnate. Acrithis will trade this prized artifact for certain items from her collection.
 Location: Earned by confronting Kullervo and defeating the Orowyrm in the same Duviri mission during the Fear, Anger, or Sorrow spiral
 
-### Wiki
-Kullervo's Bane is a special resource from Duviri acquired from defeating Kullervo.
-**Acquisition:**
+### Acquisition
 In Duviri, players must travel to Kullervo's Hold which only appears in Anger, Fear, or Sorrow Spirals. They must talk to The Warden to engage in combat with the Warframe.
 After defeating the Spiral's Orowyrm, Banes are awarded: 4 (30%), 5 (40%), or 6 (30%) are gained normally, with 6 (30%), 7 (40%), or 8 (30%) gained in The Steel Path. These amounts are not affected by Resource Booster.
 Usage
 Acrithis#Kullervo's Archive
 Shop Checklist for
-41
+
+### Wiki
+Kullervo's Bane is a special resource from Duviri acquired from defeating Kullervo.
 **Type:** Resource
 
 ### Drop Sources
@@ -2067,15 +2070,15 @@ Shop Checklist for
 A whisper of the fallen.
 Location: Duviri
 
-### Wiki
-In-game description
-Lamentus is a resource that can be acquired in Duviri.
-**Acquisition:**
+### Acquisition
 Lamentus is dropped from Dax enemies the player will encounter during their time in Duviri.
 Note: This does not include Dax enemies encountered within the Undercroft.
 Item Checklist for
-41
 The name Lamentus may be based on the word lament, which is a passionate expression of grief or sorrow.
+
+### Wiki
+In-game description
+Lamentus is a resource that can be acquired in Duviri.
 **Type:** Resource
 
 ### Drop Sources
@@ -2134,7 +2137,6 @@ Access to this resource requires completion of The War Within quest.
 Guaranteed Rotation reward from Conjunction Survival.
 Dropped by Hollow Thrax Centurion, Eclipse Thrax Centurion, Hollow Thrax Legatus, and Lua Thrax Legatus that appear after each Rotation in Conjunction Survival at a 30% chance.
 Item Checklist
-41
 Usage
 Archimedean Yonta#Trade for Lua Thrax Plasm
 Gathering Tips
@@ -2203,10 +2205,7 @@ There can sometimes spawn a Lunar Pitcher in the extraction tile that is only ba
 A delicate paraneural interface allowing a duly evolved Sentient pilot to command the colossal Hunhullus as if it were a second skin.
 Obtained from Recall: Hunhullus missions in The Perita Rebellion (The Dark Refractory)
 
-### Wiki
-In-Game Description
-Lyroic Bridge is a special resource that can be obtained from the "Recall: Hunhullus" mission in The Perita Rebellion.
-**Acquisition:**
+### Acquisition
 75 Lyroic Bridge is awarded upon completion of The Old Peace quest.
 Awarded from The Perita Rebellion's Recall: Hunhullus:
 Every Order completed in the Recall: Hunhullus awards 1 Lyroic Bridge.
@@ -2221,6 +2220,10 @@ Usage
 Each special resource from The Perita Rebellion is also used to upgrade Tauron Focus Nodes unlocked when you obtain the weapon for each school, but the quantities differ per resource.
 Obtaining and upgrading all 5 weapons requires 864 Lyroic Bridge, 912 Ren Hypercore, and 839 Ascaris Prime for a total of 2615 The Perita Rebellion resources.
 Excluding the 750 of each resource it takes to obtain all 5 weapons, upgrading all 5 weapons to the max requires 114 Lyroic Bridge, 162 Ren Hypercore, and 89 Ascaris Prime for a total of 365 The Perita Rebellion resources.
+
+### Wiki
+In-Game Description
+Lyroic Bridge is a special resource that can be obtained from the "Recall: Hunhullus" mission in The Perita Rebellion.
 **Type:** Resource
 
 ### Drop Sources
@@ -2231,9 +2234,7 @@ Excluding the 750 of each resource it takes to obtain all 5 weapons, upgrading a
 A core of rage, jealously guarded in a burnished shell.
 Location: Obtained from crates and bosses in the Descendia (Dark Refractory).
 
-### Wiki
-In-Game DescriptionMaphica is a rare resource from The Descendia, used to buy wares from Roathe.
-**Acquisition:**
+### Acquisition
 The Descendia:
 Potentially awarded in quantities of 5 on Infernums 2, 4, 9, 11, 16, and 18.
 Potentially awarded in quantities of 15 on Infernums 2, 9, and 16 on The Steel Path.
@@ -2244,41 +2245,10 @@ Usage
 Maphica can be used to purchase Uriel, Vinquibus, Galariak Prime, and Sagek Prime blueprints and components, 4 Warframe, 3 Primary, 1 Secondary, and 1 Melee Arcanes, the Insign Bundle, and 8 Captura scenes as an alternative to Dark Refractory drops; only the Insign Bundle and Captura scenes are exclusive to Roathe's wares.
 Browse Surplus
 Maphica
-150
-75
-25
-25
-25
-35
-25
-25
-25
-25
-35
-25
-25
-35
-25
-25
-5
-5
-5
-5
-5
-5
-5
-5
-5
-100
-100
-100
-100
-100
-100
-100
-150
 Browse Honoria
-20
+
+### Wiki
+In-Game DescriptionMaphica is a rare resource from The Descendia, used to buy wares from Roathe.
 **Notes:**
 To purchase all of Roathe's offerings at least once, players need 2,420 Maphica.
 To purchase all Warframe and Weapon offerings from Roathe at least once, players need 455 Maphica.
@@ -2326,17 +2296,17 @@ Exchange with Roathe after completing The Old Peace Quest.
 Polished and cut to perfection.
 Blueprint sold by Old Man Suumbaat in Cetus on Earth.
 
-### Wiki
-In-Game Description
-Marquise Veridos is a resource crafted from Veridos. Each build yields 10 Marquise Veridos.
-**Acquisition:**
+### Acquisition
 The reusable blueprint can be purchased from Old Man Suumbaat for 5,000 Standing, requiring the rank of Visitor with the Ostron.
 Item Checklist for
 38.0.12
+
+### Wiki
+In-Game Description
+Marquise Veridos is a resource crafted from Veridos. Each build yields 10 Marquise Veridos.
 **Trivia:**
 Marquise Veridos seems to be the WARFRAME equivalent of Emerald.
 This would be in contrast, however, to the appearance of the unrefined crystal, which more closely resembles Fluorite.
-22
 **Type:** Gem
 
 ## Medical Debt-Bond
@@ -2359,10 +2329,7 @@ Obtained from Bounties in the Orb Vallis (Venus), or purchased from Ticker in Fo
 Sleek, stylish, and soothing, mood crystals are the perfect gift for anyone in need of a little calm. Trade this Hex Treasure with Lettie to earn standing with The Hex.
 Location: 1999 (Höllvania)
 
-### Wiki
-In-Game Description
-Mood Crystal is a Hex Treasure found within Höllvania. It can be exchanged for 750 Standing standing with The Hex. 1x Mood Crystal is required to advance to Rank 3 - 2-For-1 with The Hex and 1x Mood Crystal is required to advance to Rank 5 - Pizza Party with The Hex.
-**Acquisition:**
+### Acquisition
 Mood Crystals can be found scattered across any Höllvania missions as a Hex Treasure and make the associated noises.
 Tier 4 Bounties from the Bounty Board have a chance to award a Mood Crystal.
 Farming Locations
@@ -2372,6 +2339,10 @@ Click to view the Blueprints requiring Mood Crystal
 Gathering Tips
 As Hex Treasures (The Countessa Comic, On-lyne CD, Chuggin' Along Sixpack, Mood Crystal, Cheddar Crowns Cereal, 35mm Film, Argon Burger Meal and Big Bytes Pizza) are located as Syndicate-like medallions all around the Höllvania tileset, having a Warframe and/or companion with large loot detection capability (Loot Detector, Thief's Wit, Animal Instinct), using the Orokin Eye Air Support and infusing Golden Instinct will greatly help in recovering these items.
 The surface of all Hex Treasures has a bright green glow to it, making them easier to locate.
+
+### Wiki
+In-Game Description
+Mood Crystal is a Hex Treasure found within Höllvania. It can be exchanged for 750 Standing standing with The Hex. 1x Mood Crystal is required to advance to Rank 3 - 2-For-1 with The Hex and 1x Mood Crystal is required to advance to Rank 5 - Pizza Party with The Hex.
 **Type:** Resource
 
 ### Drop Sources
@@ -2447,10 +2418,7 @@ A Necramech weapon-crafting component.
 A mark of Mother's esteem.
 Obtained by completing Bounties in the Cambion Drift on Deimos.
 
-### Wiki
-In-game description
-A Mother Token is one of the Entrati Family Tokens.
-**Acquisition:**
+### Acquisition
 There are currently 3 ways of obtaining Mother Tokens:
 Completing Bounties given out by Mother.
 Finding them in the Cambion Drift.
@@ -2458,16 +2426,17 @@ Trading random assortment of Cambion Drift resources under the Mend the Family o
 Use
 Mother Tokens, as well as other Family Tokens, can be traded with Grandmother for 100 Standing Entrati Standing. They can also be traded into Grandmother Tokens.
 Mother Tokens are additionally used to purchase event-exclusive items from the yearly Nights of Naberus event.
+
+### Wiki
+In-game description
+A Mother Token is one of the Entrati Family Tokens.
 **Type:** Resource
 
 ## Mutagen Mass
 This living mass can produce weaponized toxins for weaponry.
 Location: Clan Research (Bio Lab in the Dojo) and Infested Outbreak Invasion Rewards
 
-### Wiki
-In-Game Description
-Mutagen Mass is a component used in the crafting of weapons from the Dojo Bio Lab.
-**Acquisition:**
+### Acquisition
 Its blueprint can be researched from the Bio Lab in the Dojo.
 Sometimes offered as a reward for completing Infested Invasion type missions.
 Sometimes available as Tier 4 Bounty rewards in Orb Vallis after completing a stage.
@@ -2475,6 +2444,10 @@ Item Checklist for
 General
 Research
 38.0.12
+
+### Wiki
+In-Game Description
+Mutagen Mass is a component used in the crafting of weapons from the Dojo Bio Lab.
 **Type:** Resource
 
 ## Mutagen Sample
@@ -2542,15 +2515,16 @@ Mysteriously the Mytocardia Sac has two Codex entries with only varying by the d
 Infested mineral deposits mimicking the form of living organs.
 Location: Cambion Drift (Deimos) from Yellow Mining Lesions and Bonus Vaults in Isolation Vault Bounties.
 
-### Wiki
-In-game description
-Namalon is an ore that can be found in the Cambion Drift. It can be refined into Devolved Namalon.
-**Acquisition:**
+### Acquisition
 Namalon can be acquired from two different sources:
 Mining yellow mineral veins in the Cambion Drift
 Storage containers found in the Bonus vaults found during Isolation Vault bounties
 Item Checklist for
 40.0.5.1
+
+### Wiki
+In-game description
+Namalon is an ore that can be found in the Cambion Drift. It can be refined into Devolved Namalon.
 **Notes:**
 They can be traded at Otak in exchange for Otak Tokens in quantities of 7 to 25.
 **Tips:**
@@ -2560,7 +2534,6 @@ Yellow veins are commonly found on vegetation in the Cambion Drift
 Appears commonly in The 'Actuary's Pride' and 'Infested Seraglio Cave' regions of the Cambion Drift.
 **Trivia:**
 The name Namalon might be derived from Naamah, a demon from Jewish myth, whose name means "pleasant".
-29
 **Type:** Gem
 
 ## Necracoil
@@ -2571,7 +2544,6 @@ Location: Albrecht's Laboratories (Deimos)
 In-game description
 Necracoil is an uncommon resource found in the Albrecht's Laboratories. It can be acquired from enemies and Storage Containers.
 Item Checklist for
-39
 Farming Locations
 Cambire
 **Type:** Resource
@@ -2588,18 +2560,18 @@ Cambire
 Impacted within Infested husks, preserved for millennia.
 Location: Cambion Drift (Deimos) from Blue Mining Lesions and Requiem Obelisks.
 
-### Wiki
-In-game description
-Necrathene is a gem that can be found in the Cambion Drift. It can be refined into Stellated Necrathene.
-**Acquisition:**
+### Acquisition
 Mining teal mineral veins in the Cambion Drift.
 Requiem Obelisks scattered throughout the Cambion Drift.
 Item Checklist for
 thumb|173x173px|Teal Mineral Vein
 40.0.5.1
+
+### Wiki
+In-game description
+Necrathene is a gem that can be found in the Cambion Drift. It can be refined into Stellated Necrathene.
 **Notes:**
 They can be traded at Otak in exchange for Otak Tokens in quantities of 4 to 25.
-29
 **Type:** Gem
 
 ## Nightmare Tatters
@@ -2642,15 +2614,16 @@ Item Checklist
 A black gemstone, with iridescent blue impurities.
 Location: Orb Vallis (Venus) from Blue Mining Veins and Resource Containers
 
-### Wiki
-In-game Description
-Noctrul is a resource that is obtainable by Mining the blue gem veins in Orb Vallis. Can be turned in to Solaris United's Standing by Smokefinger at Fortuna, Venus for 50 Standing each, or refined into Heart Noctrul.
-**Acquisition:**
+### Acquisition
 Noctrul can be acquired from two different sources:
 Mined from blue mineral veins in Orb Vallis with the Sunpoint Plasma Drill.
 Dropped from storage containers found in Orb Vallis, yielding varying units.
 Item Checklist for
 40.0.5.1
+
+### Wiki
+In-game Description
+Noctrul is a resource that is obtainable by Mining the blue gem veins in Orb Vallis. Can be turned in to Solaris United's Standing by Smokefinger at Fortuna, Venus for 50 Standing each, or refined into Heart Noctrul.
 **Type:** Gem
 
 ## Nullstones
@@ -2727,16 +2700,17 @@ Location: 1999 (Höllvania)
 A cognition matrix that enables mechs to be adaptable and efficient in the field.
 Location: Isolation Vault Bounty rewards on the Cambion Drift (Deimos), and from Enemy Necramechs found in Tier 3 Isolation Vault Bounties
 
-### Wiki
-In-game description
-Orokin Animus Matrix is a form of currency that can be earned through Isolation Vault bounties in the Cambion Drift and exchanged for Necraloid Standing.
-**Acquisition:**
+### Acquisition
 Orokin Animus Matrices are a rare reward in the Isolation Vault bounties offered by Mother.
 Guaranteed to drop from all 3 Necramechs guarding the Tier 3 Isolation Vaults.
 Resource Booster and loot abilities such as Nekros' Desecrate increase the amount of Orokin Matrices acquired from killed Necramechs.
 Use
 Orokin Animus Matrices can be turned in to Loid in the Necralisk for 5,000 Standing Necraloid Standing each.
 15 are needed for ranking up to Clearance: Odima (rank 3) with Necraloid.
+
+### Wiki
+In-game description
+Orokin Animus Matrix is a form of currency that can be earned through Isolation Vault bounties in the Cambion Drift and exchanged for Necraloid Standing.
 **Type:** Resource
 
 ### Drop Sources
@@ -2766,16 +2740,17 @@ Orokin Animus Matrices can be turned in to Loid in the Necralisk for 5,000 Stand
 A mech matrix that assists with the machine's weapon accuracy and control.
 Location: Isolation Vault Bounty rewards on the Cambion Drift (Deimos), and from Enemy Necramechs found in Tier 2 Isolation Vault Bounties
 
-### Wiki
-In-game description
-Orokin Ballistics Matrix is a form of currency that can be earned through Isolation Vault bounties in the Cambion Drift and exchanged for Necraloid Standing.
-**Acquisition:**
+### Acquisition
 Orokin Ballistics Matrices are an uncommon reward in the Tier 1, Tier 2, and Tier 3 Isolation Vault bounties offered by Mother. They are rewarded in quantities of x2, x3, and x4 respectively.
 Guaranteed to drop from killing Necramechs guarding the Tier 2 Isolation Vaults.
 Resource Booster and loot abilities such as Nekros' Desecrate increase the amount of Orokin Matrices acquired from killed Necramechs.
 Use
 Orokin Ballistics Matrices can be turned in to Loid in the Necralisk for 2,500 Standing Necraloid Standing each.
 15 are needed for ranking up to Clearance: Modus (rank 2) with Necraloid.
+
+### Wiki
+In-game description
+Orokin Ballistics Matrix is a form of currency that can be earned through Isolation Vault bounties in the Cambion Drift and exchanged for Necraloid Standing.
 **Type:** Resource
 
 ### Drop Sources
@@ -2809,15 +2784,16 @@ These Orokin devices emerge when the floating glaciers impact on the surface of 
 A spatial orientation matrix to aid with a mechs' guidance, balance and movement.
 Location: Isolation Vault Bounty rewards on the Cambion Drift (Deimos), and from Enemy Necramechs found in Tier 1 Isolation Vault Bounties
 
-### Wiki
-In-game description
-Orokin Orientation Matrix are a form of currency that can be earned through Isolation Vault bounties in the Cambion Drift and exchanged for Necraloid Standing.
-**Acquisition:**
+### Acquisition
 Orokin Orientation Matrix are a common reward in the Isolation Vault bounties offered by Mother. One is also guaranteed to drop by killing the Necramech guarding the Tier 1 Isolation Vault.
 Resource Booster and loot abilities such as Nekros' Desecrate increase the amount of Orokin Matrices acquired from killed Necramechs.
 Use
 Orokin Orientation Matrices can be turned in to Loid in the Necralisk for 1,000 Standing Necraloid each.
 10 are needed for ranking up to Clearance: Agnesis (rank 1) with Necraloid.
+
+### Wiki
+In-game description
+Orokin Orientation Matrix are a form of currency that can be earned through Isolation Vault bounties in the Cambion Drift and exchanged for Necraloid Standing.
 **Type:** Resource
 
 ### Drop Sources
@@ -2847,25 +2823,24 @@ Orokin Orientation Matrices can be turned in to Loid in the Necralisk for 1,000 
 Otak is grateful for your aid. This helps him to remember it.
 Obtained from Otak in the Necralisk on Deimos.
 
-### Wiki
-In-game description
-An Otak Token is one of the Entrati Family Tokens.
-**Acquisition:**
+### Acquisition
 There are currently 3 ways of obtaining Otak Tokens:
 Trading Gems and Ores from the Cambion Drift with Otak.
 Finding them in the Cambion Drift.
 Trading random assortment of Cambion Drift resources under the Mend the Family option with Grandmother.
 Use
 Otak Tokens, as well as other Family Tokens can be traded with Grandmother for 500 Standing Entrati Standing. They can also be traded into Grandmother Tokens.
+
+### Wiki
+In-game description
+An Otak Token is one of the Entrati Family Tokens.
 **Type:** Resource
 
 ## Pathos Clamp
 The manifestation of Thrax's malevolence that shapes the Orowyrms' outbursts.
 Location: Rewarded upon defeating the Orowyrm in Duviri
 
-### Wiki
-Pathos Clamp is a special resource from Duviri acquired from defeating Orowyrms.
-**Acquisition:**
+### Acquisition
 Looted from the chest reward after defeating an Orowyrm, the final boss in each Duviri cycle, in quantities of 10 (15 in The Steel Path).
 Looted from the chest reward in Isleweaver after defeating the Duet boss fight against The Fragmented, in quantities of 10 (15 in The Steel Path).
 Clearing The Undercroft side portals in The Duviri Experience, in quantities of 1 (3 in The Steel Path).
@@ -2876,6 +2851,9 @@ Acrithis, found in both the Dormizone and Duviri, also sells Orokin Reactors, Or
 Item Checklist for
 Pathos Clamp are required when installing an Incarnon Genesis Adapter.
 38.0.12
+
+### Wiki
+Pathos Clamp is a special resource from Duviri acquired from defeating Orowyrms.
 **Notes:**
 To acquire all current Drifter Melee weapons, Incarnon Genesis upgrades of every type, Kullervo, and Rauta, players will need 1680 Pathos Clamp. Totaling at least 168 (112 on Steel Path) Orowyrm kills.
 Not affected by Resource Booster.
@@ -2888,15 +2866,16 @@ Pathos is the Greek word (πάθος) for passion.
 An eerily green gem found encased in metallic shards.
 Location: Orb Vallis (Venus) from Blue Mining Veins and Resource Containers
 
-### Wiki
-In-game Description
-Phasmin is a resource that is obtainable by Mining the blue gem veins in Orb Vallis. Can be turned in to Solaris United's Standing bySmokefinger at Fortuna, Venus for 50 Standing each, or refined into Smooth Phasmin.
-**Acquisition:**
+### Acquisition
 Phasmin can be acquired from two different sources:
 Mined from blue mineral veins in Orb Vallis with the Sunpoint Plasma Drill.
 Dropped from storage containers found in Orb Vallis, yielding varying units.
 Item Checklist for
 40.0.5.1
+
+### Wiki
+In-game Description
+Phasmin is a resource that is obtainable by Mining the blue gem veins in Orb Vallis. Can be turned in to Solaris United's Standing bySmokefinger at Fortuna, Venus for 50 Standing each, or refined into Smooth Phasmin.
 **Type:** Gem
 
 ## Plantitem
@@ -2971,28 +2950,30 @@ It is possible that Pyrol is the Orokin or Ostron name for the mineral pyrite, a
 ## Pyrus Essence
 With a blazing orange hue and rigid material strength, this compound is prized by ship and station architects.
 
+### Acquisition
+Pyrus Essence can be gained on either Earth, Mercury, Ceres, or Saturn by knocking down and capturing Pyrus Essence Carrier, Eximus-like units that drop Pyrus Essence upon being captured.
+The amount of Pyrus Essence gained per capture depends on the planet, with Essence Carriers on Earth, Mercury, Ceres, and Saturn dropping 1, 2, 3, and 4 Pyrus Essence respectively.
+Players are required to obtain a total of 30 Pyrus Essence in the event.
+
 ### Wiki
 In-game description
 Pyrus Essence is a material used for the Relay Construction event, beginning on August 30th, 2018 on PC, October 4 on Xbox One and PS4, and August 7th, 2019 on Nintendo Switch.
 During the event, and after the event ends, this can be sold for 10.
-**Acquisition:**
-Pyrus Essence can be gained on either Earth, Mercury, Ceres, or Saturn by knocking down and capturing Pyrus Essence Carrier, Eximus-like units that drop Pyrus Essence upon being captured.
-The amount of Pyrus Essence gained per capture depends on the planet, with Essence Carriers on Earth, Mercury, Ceres, and Saturn dropping 1, 2, 3, and 4 Pyrus Essence respectively.
-Players are required to obtain a total of 30 Pyrus Essence in the event.
 **Type:** Resource
 
 ## Radian Sentirum
 Polished and cut to perfection.
 Blueprint sold by Old Man Suumbaat in Cetus on Earth.
 
-### Wiki
-In-Game Description
-Radian Sentirum is a resource crafted from Sentirum. Each build yields 3 Radian Sentirum.
-**Acquisition:**
+### Acquisition
 The reusable blueprint can be purchased from Old Man Suumbaat for 10,000 Standing, requiring the rank of Surah with the Ostron.
 Complete Radian Sentirums are also available from Nakak in Cetus during Operation: Plague Star for 750 Standing Operational Supply Standing and 1,500 each.
 Item Checklist for
 40.0.5.1
+
+### Wiki
+In-Game Description
+Radian Sentirum is a resource crafted from Sentirum. Each build yields 3 Radian Sentirum.
 **Notes:**
 The Ostron faction requires 1 regular Sentirum to advance from Surah to Kin, not forged to Radian Sentirum.
 22.20.9
@@ -3001,23 +2982,21 @@ The Ostron faction requires 1 regular Sentirum to advance from Surah to Kin, not
 ## Relay Strut Component
 An integral building block in the construction of Tenno relays.
 
-### Wiki
-In-game description
-Relay Strut Component was a material used for the Relay Construction event, beginning on August 30th, 2018 on PC, and October 4 on Xbox One and PS4.
-**Acquisition:**
+### Acquisition
 can be crafted from Trembera Essence.
 The Blueprint for the is attached in a message from Cressa Tal to the player in their inbox and is reusable.
 Players are required to craft 5, which will need a total of 75 Trembera Essence, for the event.
+
+### Wiki
+In-game description
+Relay Strut Component was a material used for the Relay Construction event, beginning on August 30th, 2018 on PC, and October 4 on Xbox One and PS4.
 **Type:** Resource
 
 ## Ren Hypercore
 The evolved core of a Dactolyst, bearing its true self-given name and identity. When deprived of Tau pollen, the core becomes susceptible to forcible reprogramming.
 Obtained from Recall: Dactolyst missions in The Perita Rebellion (The Dark Refractory).
 
-### Wiki
-In-Game Description
-Ren Hypercore is a special resource that can be obtained from the "Recall: Dactolyst" mission in The Perita Rebellion.
-**Acquisition:**
+### Acquisition
 75 Ren Hypercore is awarded upon completion of The Old Peace quest.
 Awarded from The Perita Rebellion's Recall: Dactolyst:
 Every Order completed in the Recall: Dactolyst awards 1 Ren Hypercore.
@@ -3031,6 +3010,10 @@ Usage
 Each special resource from The Perita Rebellion is also used to upgrade the new Tauron Focus Nodes unlocked when you craft the weapon for each school, but the quantities differ per resource.
 Obtaining and upgrading all 5 weapons requires 864 Lyroic Bridge, 912 Ren Hypercore, and 839 Ascaris Prime for a total of 2615 The Perita Rebellion resources.
 Excluding the 750 of each resource it takes to obtain all 5 weapons, upgrading all 5 weapons to the max requires 114 Lyroic Bridge, 162 Ren Hypercore, and 89 Ascaris Prime for a total of 365 The Perita Rebellion resources.
+
+### Wiki
+In-Game Description
+Ren Hypercore is a special resource that can be obtained from the "Recall: Dactolyst" mission in The Perita Rebellion.
 **Type:** Resource
 
 ### Drop Sources
@@ -3040,6 +3023,10 @@ Excluding the 750 of each resource it takes to obtain all 5 weapons, upgrading a
 Anti-gravity system that allows massively heavy objects to be manipulated by a single user.
 Location: Obtained by completing Heists on the Orb Vallis (Venus)
 
+### Acquisition
+Can be purchased from Little Duck for 5,000 Standing at Rank 3 - Hand.
+24.2.10
+
 ### Wiki
 In-Game Description
 The Repeller Systems is a crafting component that can be acquired as rewards from Heist Bounties offered by Vox Solaris or purchased from Little Duck.
@@ -3048,9 +3035,6 @@ Item Checklist for
 General
 Research
 38.0.12
-**Acquisition:**
-Can be purchased from Little Duck for 5,000 Standing at Rank 3 - Hand.
-24.2.10
 **Type:** Resource
 
 ### Drop Sources
@@ -3063,12 +3047,13 @@ Can be purchased from Little Duck for 5,000 Standing at Rank 3 - Hand.
 ## Riven Transmuter
 Combine multiple Rivens to create a new, different Riven.
 
-### Wiki
-Riven Transmuter is an item used in Riven Mod Transmutation. It allows players to sacrifice four Rivens in their inventory for a new, veiled Riven mod. Upon transmutation, the four selected Riven mods and the Riven Transmuter will be consumed. The new Riven will always be of the same type as one of the transmuted Rivens. As a consequence, if four of the same type are transmuted (e.g. only rifle Rivens), then the new mod will be of the same weapon class.
-**Acquisition:**
+### Acquisition
 Two transmuters are guaranteed to drop upon capturing an Eidolon Hydrolyst in the Plains of Eidolon at night. Killing the Hydrolyst will not drop Riven transmuters.
 Can be purchased for 180 Vessel Capillaries from Loid in Sanctum Anatomica.
 Can be purchased for 10 Riven Slivers from Palladino in Iron Wake on Earth with a purchase limit of 3 per week, requires completion of Chains of Harrow.
+
+### Wiki
+Riven Transmuter is an item used in Riven Mod Transmutation. It allows players to sacrifice four Rivens in their inventory for a new, veiled Riven mod. Upon transmutation, the four selected Riven mods and the Riven Transmuter will be consumed. The new Riven will always be of the same type as one of the transmuted Rivens. As a consequence, if four of the same type are transmuted (e.g. only rifle Rivens), then the new mod will be of the same weapon class.
 **Tips:**
 While the Riven Transmuter cannot be traded, it is possible to trade 4 Riven Mods, have them transmuted then trade back the veiled mod.
 __forcetoc__
@@ -3096,14 +3081,14 @@ Ruk's Claw is named after General Sargas Ruk.
 Rune Marrow erupts from Duviri’s core.
 Location: The Undercroft in Duviri
 
+### Acquisition
+Rune Marrow can be found in Runic Compact deposits that only appear in The Undercroft or The Circuit. They are also guaranteed to drop from Corrupted Vor and Corrupted Jackal in the same area.
+Item Checklist for
+Images
+
 ### Wiki
 In-game description
 Rune Marrow is a resource from Duviri.
-**Acquisition:**
-Rune Marrow can be found in Runic Compact deposits that only appear in The Undercroft or The Circuit. They are also guaranteed to drop from Corrupted Vor and Corrupted Jackal in the same area.
-Item Checklist for
-39
-Images
 **Tips:**
 Seven to eleven containers spawn per Undercroft tile.
 Missions like Defense or Excavation will start when players move to the objective, starting the mission can be delayed to allow an efficient squad to quickly search the tile in peace for maximum gain.
@@ -3140,10 +3125,7 @@ Item Checklist for
 These scarce, hovering relics of the Orokin era can still be found monitoring the isolation vaults deep beneath the surface of Deimos.
 Location: Cambion Drift on Deimos
 
-### Wiki
-In-Game Description
-Scintillant is a rare resource that is found in Isolation Vaults/ Bounties under the Cambion Drift. It is usually found in quantities of 1 to 2.
-**Acquisition:**
+### Acquisition
 Scintillant can be obtained in the following ways:
 Rare Reward from Tier 1 Bounties from Mother, and a common reward from Tier 2 Bounties.
 Drops from hostile Necramechs found during Isolation Vault Bounties.
@@ -3156,6 +3138,10 @@ Thief's Wit, Loot Detector, and Animal Instinct will display Scintillant on the 
 Scintillant are floating around, so having a high loot radar and watching the minimap for moving loot can be an indicator for Scintillant.
 Scintillant produce a unique sound that can be heard from a short distance.
 Scintillant found floating around in the Isolation Vault underground are affected by Resource Boosters.
+
+### Wiki
+In-Game Description
+Scintillant is a rare resource that is found in Isolation Vaults/ Bounties under the Cambion Drift. It is usually found in quantities of 1 to 2.
 **Type:** Resource
 
 ### Drop Sources
@@ -3185,17 +3171,16 @@ Scintillant found floating around in the Isolation Vault underground are affecte
 A remnant of battle with Oraxia, the spider that once wore this skin is gone… though it is not easy to tell where.
 Obtained by defeating Oraxia in Isleweaver missions (Duviri)
 
-### Wiki
-Scuttler Husk is a special resource from Duviri acquired from Isleweaver.
-**Acquisition:**
+### Acquisition
 Awarded from defeating The Fragmented in Isleweaver, 16-20 Scuttler Husk are awarded normally, with 20-24 awarded in The Steel Path. These amounts are not affected by Resource Booster.
 Usage
 Item Checklist for Scuttler Husks
-41
 Acrithis#Exchange Scuttler Husks
 Scuttler Husk Shop Buyout Calculator
 Check off "Total needed" and anything you have / don't want and the number at the bottom should be how many you need to buy everything else.
-39
+
+### Wiki
+Scuttler Husk is a special resource from Duviri acquired from Isleweaver.
 **Type:** Resource
 
 ### Drop Sources
@@ -3220,7 +3205,6 @@ Sentirum is a gem acquired through mining in the Plains of Eidolon that can be a
 It can be refined to make Radian Sentirum or traded for Ostron faction standing at Old Man Suumbaat for 400 Standing each.
 The Advanced Nosam Cutter or the Sunpoint Plasma Drill is required to mine this gem. The Cutters have a 7.5% and 10% chance respectively to give it from blue mining nodes or bonus brackets on any mining node.
 Item Checklist for
-42
 **Notes:**
 On death, the Tusk Thumper Bull and Tusk Thumper Doma in the Plains of Eidolon may drop Sentirum.
 1x Sentirum is required to achieve Kin with the Ostrons.
@@ -3237,16 +3221,16 @@ On death, the Tusk Thumper Bull and Tusk Thumper Doma in the Plains of Eidolon m
 Once part of an intricate Entrati apparatus, now shattered and bearing a sharp edge.
 Location: Grandmother in the Necralisk on Deimos
 
-### Wiki
-In-game description
-A Seriglass Shard is a resource that can be purchased from Grandmother in the Necralisk and is used to craft Entrati weapons. It is also required as a sacrifice to attain Family rank with the Entrati.
-**Acquisition:**
+### Acquisition
 Seriglass Shards can be purchased from Grandmother in the Necralisk for 10 Grandmother Tokens each.
 Lore
 Necraloid
 The Seriglass Shards appear to be the shattered pieces of Albrecht Entrati's Seriglass Bell, which shattered into fragments upon his first voyage into the Void. This is supported by the item's description stating it was once part of a larger apparatus. Upon waking on the floor of his laboratory, Albrecht himself used one of the broken pieces to write "Close it" (referring to the portal he had just opened) in his own blood. It seems that his heirs saved the pieces of the Seriglass Bell, as they can be obtained by the player from Grandmother, and Mother is mentioned by Father as keeping a shard for herself (and even using it as a weapon against him).
 Item Checklist for
-41
+
+### Wiki
+In-game description
+A Seriglass Shard is a resource that can be purchased from Grandmother in the Necralisk and is used to craft Entrati weapons. It is also required as a sacrifice to attain Family rank with the Entrati.
 **Type:** Resource
 
 ### Drop Sources
@@ -3292,10 +3276,7 @@ Obtained from Bounties in the Orb Vallis (Venus), or purchased from Ticker in Fo
 A Voidtongue cry, trapped in the stone. Crucial to unraveling the secrets of the Murmur.
 Location: Albrecht's Laboratories (Deimos)
 
-### Wiki
-In-Game Description
-Shrill Voca is a common resource found within Albrecht's Laboratories on Deimos. They can be exchanged for 500 Standing standing with the Cavia. 3x Shrill Voca are required to advance to the Rank 1 - Assistant, 5x for Rank 2 - Researcher and 8x for Rank 3 - Colleague with the Cavia. It is also an important crafting material for Ekhein.
-**Acquisition:**
+### Acquisition
 Shrill Voca can be found scattered across any Albrecht's Laboratories mission as an interactable pickup.
 Tier 1 and 2 Bounties from Fibonacci have a chance to award a Shrill Voca.
 Every 8 hours, one Shrill Voca can be purchased from Loid using resources found in the Albrecht's Laboratories.
@@ -3307,6 +3288,10 @@ Uses for Shrill Voca
 Gathering Tips
 As Voca (Shrill Voca, Bellow Voca and Echo Voca) are located as Syndicate-like medallions all around the Albrecht's Laboratories tileset, having a Warframe and/or companion with large loot detection capability (Loot Detector, Thief's Wit, Animal Instinct), using the Orokin Eye Air Support and infusing Golden Instinct will greatly help in recovering these items.
 All Voca emit a low bellowing sound, making them easier to locate.
+
+### Wiki
+In-Game Description
+Shrill Voca is a common resource found within Albrecht's Laboratories on Deimos. They can be exchanged for 500 Standing standing with the Cavia. 3x Shrill Voca are required to advance to the Rank 1 - Assistant, 5x for Rank 2 - Researcher and 8x for Rank 3 - Colleague with the Cavia. It is also an important crafting material for Ekhein.
 **Type:** Resource
 
 ### Drop Sources
@@ -3318,16 +3303,16 @@ All Voca emit a low bellowing sound, making them easier to locate.
 It is traditionally held that to see Silphsela floating in the air heralds an imminent change in the sky.
 Location: Duviri
 
-### Wiki
-Silphsela is a resource in Duviri.
-**Acquisition:**
+### Acquisition
 Silphsela are acquired from Sun Silphs that are typically found on hill slopes within Duviri. They have 4 seeds floating in the air around them, and 3 more burst when approaching one from 8 meters away.
 Silphsela may also sometimes be obtained from Teshin's Cave.
 Gathering Tips
 Many Silphsela flowers can be found within the snowy region of Duviri typically near Titan's Rest.
 They can appear as tiny fire-like objects during the Anger Spiral in the sky, even without a nearby Sun Silph. The easiest way to collect these are by riding the Kaithe.
 Item Checklist for
-39
+
+### Wiki
+Silphsela is a resource in Duviri.
 **Type:** Resource
 
 ## Sister Of Parvos Token
@@ -3368,10 +3353,7 @@ Toroid objects do not glow when viewed through a scanner.
 A mark of Son's respect for services rendered.
 Obtained from Son in the Necralisk on Deimos.
 
-### Wiki
-In-game description
-A Son Token is one of the Entrati Family Tokens.
-**Acquisition:**
+### Acquisition
 right|thumb|200px|A Son Token found in the Cambion Drift.
 There are currently 4 ways of obtaining Son Tokens:
 Trading Tags with Son under the Capture Deimos Wildlife option.
@@ -3381,29 +3363,30 @@ Trading random assortment of Cambion Drift resources under the Mend the Family o
 Use
 Son Tokens, as well as other Family Tokens, can be traded with Grandmother for 1000 Standing Entrati Standing. Alternatively, they can be traded for Grandmother Tokens.
 10 Son Tokens are needed for gilding Predasites and Vulpaphyla.
+
+### Wiki
+In-game description
+A Son Token is one of the Entrati Family Tokens.
 **Type:** Resource
 
 ## Star Crimzian
 Polished and cut to perfection.
 Blueprint sold by Old Man Suumbaat in Cetus on Earth.
 
-### Wiki
-In-Game Description
-Star Crimzian is a resource crafted from Crimzian. Each build yields 6 Star Crimzians.
-**Acquisition:**
+### Acquisition
 The reusable blueprint can be purchased from Old Man Suumbaat for 7,500 Standing, requiring the rank of Trusted with the Ostron.
 Item Checklist for
 40.0.5.1
-22
+
+### Wiki
+In-Game Description
+Star Crimzian is a resource crafted from Crimzian. Each build yields 6 Star Crimzians.
 **Type:** Gem
 
 ## Steel Essence
 Tokens of Teshin's Esteem earned from Incursion Alerts or Acolytes on The Steel Path. Can be exchanged for items that prove your warrior capabilities by visiting Teshin in any Relay.
 
-### Wiki
-In-game description
-Steel Essence is a special resource that only appears during The Steel Path mode.
-**Acquisition:**
+### Acquisition
 Steel Essence is primarily obtained from The Steel Path:
 Eidolon Teralyst, Eidolon Gantulyst, and Eidolon Hydrolyst guarantee 1 Steel Essence upon defeat, regardless of kill or capture.
 Acolytes that spawn in any Steel Path mission guarantee 2 Steel Essence upon defeat.
@@ -3419,6 +3402,10 @@ Every day, six Steel Path Incursion Alerts are available. Each rewards 5 Steel E
 Usage
 store
 Note: Click here and purge the page's cache if the above weekly item is wrong. You have to do this every week when the weekly reward changes, which is every Sunday midnight UTC time.
+
+### Wiki
+In-game description
+Steel Essence is a special resource that only appears during The Steel Path mode.
 **Type:** Resource
 
 ### Drop Sources
@@ -3518,17 +3505,17 @@ Oxylus' Botanist will automatically loot plants within range.
 Duviri citizens plagued by nightmares seek Tasoma, because its stalks can be crushed to create juice that invites pleasant dreams. Unfortunately, it is difficult to forage Tasoma as it only grows in caves.
 Location: Duviri
 
-### Wiki
-Missing interactive maps.
-Tasoma Extract is a resource from Duviri.
-**Acquisition:**
+### Acquisition
 Tasoma Extract is a rare resource that can be found in Duviri and only found inside caves. It is usually found in quantities of 2-4.
 Gathering tips
 thumb|Map of best caves for farming Tasoma. Provided by Kokotnikmatej2
 Riding Intrinsics Rank 5 - Smooth Path can be used to locate Tasoma Extract more easily in caves while mounted. Caves can be more easily located by flying underneath Duviri on a Kaithe and looking for cave entrances on the underside.
 Searching for Tasoma Extract while in a public squad can interfere with tasoma gathering, as there is a chance of joining a mission in progress in which the host has already gathered all of the deposits. Therefore it is best to farm tasoma while solo. Resources collected are saved when a Decree is earned, so if the player completes a Duviri side objective after gathering tasoma, they can safely abandon the mission and retain their resources.
 Item Checklist for
-39
+
+### Wiki
+Missing interactive maps.
+Tasoma Extract is a resource from Duviri.
 **Type:** Resource
 
 ## Tasoma Spore
@@ -3539,13 +3526,14 @@ A Tasoma fungal spore, suitable for growing in the Dormizone’s garden.
 Polished and cut to perfection.
 Blueprint sold by Old Man Suumbaat in Cetus on Earth.
 
-### Wiki
-In-Game Description
-Tear Azurite is a resource crafted from Azurite. Each build yields 10 Tear Azurites.
-**Acquisition:**
+### Acquisition
 The reusable blueprint can be purchased from Old Man Suumbaat for 500 Standing, requiring the rank of Neutral with the Ostron.
 Item Checklist for
 38.0.12
+
+### Wiki
+In-Game Description
+Tear Azurite is a resource crafted from Azurite. Each build yields 10 Tear Azurites.
 **Notes:**
 The Ostron faction requires 10 Tear Azurites to advance from Offworlder to Visitor.
 22.0.5
@@ -3588,8 +3576,6 @@ Item Checklist for
 38.5
 Farming Locations
 These are based on opinions and may not be 100% true. These should be viewed as advice for finding the resource until better facts are proven.
-**Wiki Drop Sources:**
-Underground sections of Höllvania with Techrot enemies spawning.
 **Type:** Resource
 
 ### Drop Sources
@@ -3602,28 +3588,28 @@ Underground sections of Höllvania with Techrot enemies spawning.
 Fused with its inert Infested tendrils into a durable alloy.
 Blueprint sold by Otak in the Necralisk on Deimos.
 
-### Wiki
-In-game description
-Tempered Bapholite is a resource crafted from Bapholite. Each build yields 20 Tempered Bapholite.
-**Acquisition:**
+### Acquisition
 The reusable blueprint can be purchased from Otak for 1,000 Standing, requiring Rank 0 - Neutral with the Entrati.
 Item Checklist for
 38.0.12
-29
+
+### Wiki
+In-game description
+Tempered Bapholite is a resource crafted from Bapholite. Each build yields 20 Tempered Bapholite.
 **Type:** Gem
 
 ## Temporal Dust
 The dust of decayed universes, rich in entropy. Entrati's research postulates it as the animating agent of the nightmarish Murmur.
 Obtained from Murmur in Isleweaver missions (Duviri)
 
+### Acquisition
+Temporal Dust can be acquired from Isleweaver as a possible end mission reward in quantities of 20 (25 in The Steel Path) or as an uncommon drop from The Murmur enemies and Entrati storage containers.
+Item Checklist for
+__forcetoc__
+
 ### Wiki
 In-Game Description
 Temporal Dust is an uncommon resource that can be obtained in the Isleweaver mission of Duviri.
-**Acquisition:**
-Temporal Dust can be acquired from Isleweaver as a possible end mission reward in quantities of 20 (25 in The Steel Path) or as an uncommon drop from The Murmur enemies and Entrati storage containers.
-Item Checklist for
-39
-__forcetoc__
 **Type:** Resource
 
 ### Drop Sources
@@ -3662,44 +3648,41 @@ Location: Duviri
 Thaumica reduced to its most durable, workable elements.
 Blueprint sold by Otak in the Necralisk on Deimos.
 
-### Wiki
-In-game Descriptions
-Thaumic Distillate is a resource crafted from Thaumica. Each build yields 20 Thaumic Distillate.
-**Acquisition:**
+### Acquisition
 The reusable blueprint can be purchased from Otak for 4,000 Standing, requiring Rank 2 - Acquaintance with the Entrati.
 Item Checklist for
 40.0.5.1
-29
+
+### Wiki
+In-game Descriptions
+Thaumic Distillate is a resource crafted from Thaumica. Each build yields 20 Thaumic Distillate.
 **Type:** Gem
 
 ## Thaumica
 Can be molded by the Infestation but remains resistant to it.
 Location: Cambion Drift (Deimos) from Yellow Mining Lesions, Requiem Obelisks, and Spitia Infested Cysts.
 
-### Wiki
-In-game Description
-Thaumica is a rare ore found in yellow mineral veins in the Cambion Drift. It's used to craft Thaumic Distillate.
-**Acquisition:**
+### Acquisition
 Mining yellow mineral veins in Cambion Drift. It is commonly found in Infested Seraglio cave system.
 Requiem Obelisks have a chance to drop Thaumica when the kill condition of the Obelisk is satisfied (usually killing with the operator or Necramech).
 Spitia Infested Cysts (rare) occasionally found on the Cambion Drift (seemingly one placed at Albrecht's Prospect region)
 Item Checklist for
 40.0.5.1
+
+### Wiki
+In-game Description
+Thaumica is a rare ore found in yellow mineral veins in the Cambion Drift. It's used to craft Thaumic Distillate.
 **Notes:**
 They can be traded at Otak in exchange for Otak Tokens in quantities of 4 to 30.
 **Trivia:**
 The word Thaumica could possibly be derived from the Greek word Thauma, which means "wonder" or "miracle" which is also the root of the word Thaumaturgy, the capability of magicians to perform magic or the capability of saints to perform miracles.
-29
 **Type:** Gem
 
 ## The Countessa Comic
 The Countessa isn’t just an icon—she’s a hero! Issues from this cult classic comic series are sought after by subculture enthusiasts who know the value of a strong and stylish protagonist. Trade this Hex Treasure with Lettie to earn standing with The Hex.
 Location: 1999 (Höllvania)
 
-### Wiki
-In-Game Description
-The Countessa Comic is a Hex Treasure found within Höllvania. It can be exchanged for 750 Standing standing with The Hex. 1x The Countessa Comic is required to advance to the Rank 3 - 2-For-1 and 1x The Countessa Comic is required to advance to Rank 5 - Pizza Party with the Hex.
-**Acquisition:**
+### Acquisition
 The Countessa Comics can be found scattered across any Höllvania missions as an interactable pickup.
 Tier 1 Bounties from the Bounty Board have a chance to award The Countessa Comic.
 Uses
@@ -3707,6 +3690,10 @@ Click to view the Blueprints requiring The Countessa Comic
 Gathering Tips
 As Hex Treasures (The Countessa Comic, On-lyne CD, Chuggin' Along Sixpack, Mood Crystal, Cheddar Crowns Cereal, 35mm Film, Argon Burger Meal and Big Bytes Pizza) are located as Syndicate-like medallions all around the Höllvania tileset, having a Warframe and/or companion with large loot detection capability (Loot Detector, Thief's Wit, Animal Instinct), using the Orokin Eye Air Support and infusing Golden Instinct will greatly help in recovering these items.
 The surface of all Hex Treasures has a bright green glow to it, making them easier to locate.
+
+### Wiki
+In-Game Description
+The Countessa Comic is a Hex Treasure found within Höllvania. It can be exchanged for 750 Standing standing with The Hex. 1x The Countessa Comic is required to advance to the Rank 3 - 2-For-1 and 1x The Countessa Comic is required to advance to Rank 5 - Pizza Party with the Hex.
 **Trivia:**
 The Countessa Comic is a reference to Vampirella #1, a 1969 vampire superheroine comic.
 **Type:** Resource
@@ -3724,7 +3711,6 @@ Thermal Sludge is resource that can be found in special containers located in Co
 Item Checklist for
 General
 Research
-41
 **Type:** Resource
 
 ### Drop Sources
@@ -3749,7 +3735,6 @@ Warframes & Companions
 Weapons
 Cosmetics
 Miscellaneous
-41
 The amount dropped by a Thrax Centurion or a Thrax Legatus is partially random and scales positively with their level, starting with 2 on level 50.
 Farming Locations
 The Greenway
@@ -3769,16 +3754,17 @@ The Greenway
 A beautiful and iridescent red shard.
 Location: Orb Vallis (Venus) from Blue Mining Veins and the Exploiter Orb. This Rare Gem can only be mined by the Advanced Nosam Cutter or Sunpoint Plasma Drill.
 
-### Wiki
-In-game Description
-Thyst is a special gem that is obtainable by Mining the blue gem veins in Orb Vallis. Can be turned in to Solaris United's Standing by Smokefinger at Fortuna, Venus for 1,000 Standing each, or refined into Marquise Thyst.
-**Acquisition:**
+### Acquisition
 Thyst can be acquired from two different sources:
 Mined from blue mineral veins in Orb Vallis with the Advanced Nosam Cutter or the Sunpoint Plasma Drill, each yielding 1 unit.
 Also available from red veins in Orb Vallis upon hitting the square bracket bonus spot.
 Dropped as a common loot of Exploiter Orb, each loot yielding 7-8 units. On rarer occasions, the grand boss may drop multiple instances of the loot, making it possible to get 14-16 or even 21-24 units per kill.
 Item Checklist for
 40.0.5.1
+
+### Wiki
+In-game Description
+Thyst is a special gem that is obtainable by Mining the blue gem veins in Orb Vallis. Can be turned in to Solaris United's Standing by Smokefinger at Fortuna, Venus for 1,000 Standing each, or refined into Marquise Thyst.
 **Type:** Gem
 
 ### Drop Sources
@@ -3788,21 +3774,21 @@ Item Checklist for
 Infested neurotransmitters condensed under pressure.
 Location: Cambion Drift (Deimos) from Blue Mining Lesions, Sagiant Entrati Caskets, and Bonus Vaults in Isolation Vault Bounties.
 
-### Wiki
-In-game description
-Tiametrite is a gem that can be found in the Cambion Drift. It can be refined into Faceted Tiametrite.
-**Acquisition:**
+### Acquisition
 Tiametrite can be acquired on three different ways:
 Mining teal gem veins in the Cambion Drift.
 Collect Storage containers found in the Bonus vaults found during Isolation Vault bounties.
 Destroy Sagiant Entrati Caskets scattered around on the Cambion Drift.
 Item Checklist for
 40.0.5.1
+
+### Wiki
+In-game description
+Tiametrite is a gem that can be found in the Cambion Drift. It can be refined into Faceted Tiametrite.
 **Notes:**
 They can be traded at Otak in exchange for Otak Tokens in quantities of 4 to 25.
 **Trivia:**
 This gem's name is derived from Tiamat, a primordial sea goddess in Babylonian mythology.
-29
 **Type:** Gem
 
 ## Ticor Plate
@@ -3918,15 +3904,16 @@ Obtained from Bounties in the Orb Vallis (Venus), or purchased from Ticker in Fo
 A compound formed from Travoride.
 Blueprint sold by Smokefinger in Fortuna on Venus.
 
-### Wiki
-In-game Description
-Travocyte Alloy is a resource crafted from Travoride. Each build yields 20 Travocyte Alloy.
-**Acquisition:**
+### Acquisition
 The reusable blueprint can be purchased from Smokefinger for 1,000 Standing, requiring the rank of Neutral with Solaris United.
 Item Checklist for
 General
 Research
 40.0.5.1
+
+### Wiki
+In-game Description
+Travocyte Alloy is a resource crafted from Travoride. Each build yields 20 Travocyte Alloy.
 **Type:** Gem
 
 ## Travoride
@@ -3944,25 +3931,27 @@ Item Checklist for
 ## Trembera Essence
 A highly purified mineral compound prized for its strength, resiliency, and resistance to heat. Widely used in the construction of Tenno relays.
 
+### Acquisition
+Trembera can be gained on either Earth, Mercury, Ceres, or Saturn by breaking open containers and killing enemies.
+A total of 75 Trembera Essence are required to craft the needed amount of 5 Relay Strut Components.
+
 ### Wiki
 In-game description
 Trembera Essence is a material used for the Relay Construction event, which began on August 30th, 2018 on PC and October 4, 2018 on Xbox One and PS4.
-**Acquisition:**
-Trembera can be gained on either Earth, Mercury, Ceres, or Saturn by breaking open containers and killing enemies.
-A total of 75 Trembera Essence are required to craft the needed amount of 5 Relay Strut Components.
 **Type:** Resource
 
 ## Ueymag
 Ueymag meat is said to be delicious. Just mind the barbs.
 Location: Duviri
 
-### Wiki
-In-game description
-Ueymag is a resource found within Duviri.
-**Acquisition:**
+### Acquisition
 This U-shaped cactus-looking plant is typically found within Kullervo's Hold (which appears during the Anger, Fear, and Sorrow spirals) and Chamber of the Muses.
 Item Checklist for
 38.0.12
+
+### Wiki
+In-game description
+Ueymag is a resource found within Duviri.
 **Type:** Resource
 
 ### Drop Sources
@@ -4004,15 +3993,16 @@ Loot Detector will show interactable Toroids on the mini-map.
 A compound formed from Venerol.
 Blueprint sold by Smokefinger in Fortuna on Venus.
 
-### Wiki
-In-game Description
-Venerdo Alloy is a resource crafted from Venerol. Each build yields 20 Venerdo Alloy.
-**Acquisition:**
+### Acquisition
 The reusable blueprint can be purchased from Smokefinger for 2,000 Standing, requiring the rank of Outworlder with Solaris United.
 Item Checklist for
 General
 Research
 40.0.5.1
+
+### Wiki
+In-game Description
+Venerdo Alloy is a resource crafted from Venerol. Each build yields 20 Venerdo Alloy.
 **Type:** Gem
 
 ## Venerol
@@ -4054,19 +4044,19 @@ This gemstone appears to be, judging from its crystal structure and coloration, 
 A crucial sub-component in the construction of Albrecht Entrati's vessels.
 Obtained from Disruption missions on Armatus, Deimos.
 
-### Wiki
-In-Game Description
-Vessel Capillaries is a resource found in Disruption in Albrecht's Laboratories. These are used to purchase Dante's components from Loid, along with other Rotation rewards.
-Access to this resource requires completion of Whispers in the Walls quest.
-**Acquisition:**
+### Acquisition
 Dropped by Demolisher Bonewidow, and Demolisher Voidrig that appear after activating a Conduit in Disruption; specifically in Armatus, Deimos.
 Normal: 2-4 Vessel Capillaries
 The Steel Path: 5-7 Vessel Capillaries
 Drops are not affected by Resource Booster or Resourceful Retriever.
 Item Checklist
-41
 Usage
 Loid (Original)#Research Dante
+
+### Wiki
+In-Game Description
+Vessel Capillaries is a resource found in Disruption in Albrecht's Laboratories. These are used to purchase Dante's components from Loid, along with other Rotation rewards.
+Access to this resource requires completion of Whispers in the Walls quest.
 **Type:** Resource
 
 ## Vestan Moss
@@ -4094,30 +4084,18 @@ The plant's name may be derived from Vesta, an asteroid which happens to be one 
 Remnants of Jade's light. Echoes of her power.
 Obtained from Ascension missions on Brutus, Uranus.
 
-### Wiki
-In-game description
-Vestigial Motes are a special resource introduced in the Jade Shadows update.
-**Acquisition:**
+### Acquisition
 Completing Ascension missions on Brutus, Uranus, awarded in quantities of 11-14 (16-18 on The Steel Path).
 Summoned Sisters of Parvos during Ascension mission will drop 5-7 Vestigial Motes (8-10 Motes on The Steel Path).
 Item Checklist
 Vendor Purchase
-41
 Usage
 Can be traded to Ordis in the Drifter's Camp for the blueprints for Jade, Harmony, Cantare, and Evensong, and the Arcane Enhancements Arcane Ice Storm, Arcane Battery, Secondary Surge, Secondary Fortifier, and Melee Afflictions.
 VestigialMotes
-450
-150
-150
-150
-300
-300
-300
-10
-10
-10
-10
-10
+
+### Wiki
+In-game description
+Vestigial Motes are a special resource introduced in the Jade Shadows update.
 **Type:** Resource
 
 ## Voidgel Orb
@@ -4150,10 +4128,7 @@ The Greenway
 The fine plumes from a Void Angel's crown.
 Location: Zariman
 
-### Wiki
-In-Game Description
-The Voidplume Crest is a rare resource found on the Zariman Tileset. They can be exchanged for 2,000 Standing standing with The Holdfasts. 10x Voidplume Crests are required to advance to the Rank 3 - Guardian with The Holdfasts.
-**Acquisition:**
+### Acquisition
 One Voidplume Crest can be found scattered across any Zariman Ten Zero mission as an interactable pickup.
 Tier 3 Bounty from Quinn has a chance to award a Voidplume Crest.
 Every 8 hours, one Voidplume Crest can be purchased from Archimedean Yonta using resources found on the Zariman.
@@ -4162,6 +4137,10 @@ The Greenway
 Non-endless missions in the Zariman are recommended since players can explore the tileset after completing the objective. The Exterminate mission Halako Perimeter is particularly effective as the player is naturally forced to maneuver a significant portion of the map.
 Gathering Tips
 As the lower tier plumes (Voidplume Down, Voidplume Vane and Voidplume Crest) and the Zarium Accolades are located as Syndicate-like medallions all around the Zariman tileset, having a Warframe and/or companion with large loot detection capability (Loot Detector, Thief's Wit, Animal Instinct) and infusing Golden Instinct will greatly help in recovering these items.
+
+### Wiki
+In-Game Description
+The Voidplume Crest is a rare resource found on the Zariman Tileset. They can be exchanged for 2,000 Standing standing with The Holdfasts. 10x Voidplume Crests are required to advance to the Rank 3 - Guardian with The Holdfasts.
 **Type:** Resource
 
 ### Drop Sources
@@ -4171,10 +4150,7 @@ As the lower tier plumes (Voidplume Down, Voidplume Vane and Voidplume Crest) an
 Barbed and half-real, shed by a Void Angel.
 Location: Zariman
 
-### Wiki
-In-Game Description
-The Voidplume Down is a common resource found on the Zariman Tileset. They can be exchanged for 500 Standing standing with The Holdfasts. 5x Voidplume Down are required to advance to the Rank 1: Fallen with The Holdfasts.
-**Acquisition:**
+### Acquisition
 Voidplume Downs can be found scattered across any Zariman Ten Zero mission as an interactable pickup. 5 of the Voidplumes have a 75% chance to be a Down.
 Tier 1 Bounty from Quinn has a chance to award a Voidplume Down.
 Every 8 hours, one Voidplume Down can be purchased from Archimedean Yonta using resources found on the Zariman.
@@ -4183,6 +4159,10 @@ The Greenway
 Non-endless missions in the Zariman are recommended since players can explore the tileset after completing the objective. The Exterminate mission Halako Perimeter is particularly effective as the player is naturally forced to maneuver a significant portion of the map.
 Gathering Tips
 As the lower tier plumes (Voidplume Down, Voidplume Vane and Voidplume Crest) and the Zarium Accolades are located as Syndicate-like medallions all around the Zariman tileset, having a Warframe and/or companion with large loot detection capability (Loot Detector, Thief's Wit, Animal Instinct) and infusing Golden Instinct will greatly help in recovering these items.
+
+### Wiki
+In-Game Description
+The Voidplume Down is a common resource found on the Zariman Tileset. They can be exchanged for 500 Standing standing with The Holdfasts. 5x Voidplume Down are required to advance to the Rank 1: Fallen with The Holdfasts.
 **Type:** Resource
 
 ### Drop Sources
@@ -4192,14 +4172,15 @@ As the lower tier plumes (Voidplume Down, Voidplume Vane and Voidplume Crest) an
 A Void Angel's living feather, ripped out in combat.
 Location: Zariman
 
-### Wiki
-In-Game Description
-The Voidplume Pinion is a resource that is dropped from defeated Dormant Void Angels, found in the Zariman tileset. They can be exchanged for 5,000 Standing standing with The Holdfasts. 5x Voidplume Pinions are required to advance to the Rank 5 - Angel with The Holdfasts, and is an important crafting material for Incarnon weapons.
-**Acquisition:**
+### Acquisition
 Void Angels found in a dormant state in any Zariman Ten Zero mission are guaranteed to drop a Voidplume Pinion upon death as an interactable pickup. Each mission always has one dormant Void Angel, appearing in large rooms of the tileset.
 Every 8 hours, one Voidplume Pinion can be purchased from Archimedean Yonta using resources found on the Zariman.
 Blueprint Checklist for Voidplume Pinion
 38.5
+
+### Wiki
+In-Game Description
+The Voidplume Pinion is a resource that is dropped from defeated Dormant Void Angels, found in the Zariman tileset. They can be exchanged for 5,000 Standing standing with The Holdfasts. 5x Voidplume Pinions are required to advance to the Rank 5 - Angel with The Holdfasts, and is an important crafting material for Incarnon weapons.
 **Notes:**
 Not affected by Resource Boosters.
 Loot abilities such as Nekros' Desecrate have no effect on Void Angels.
@@ -4209,10 +4190,7 @@ Loot abilities such as Nekros' Desecrate have no effect on Void Angels.
 A symbol of genius, fallen from Void Angels long ago.
 Location: Zariman
 
-### Wiki
-In-Game Description
-The Voidplume Quill is an uncommon resource that is given to you when you use a Zarium Accolade on a Cephalon Melica console or defeating a Ravenous Void Angel in the Zariman Tileset. They can be exchanged for 2,500 Standing standing with The Holdfasts. 15x Voidplume Quills are required to advance to the Rank 4 - Seraph with The Holdfasts, and is an important crafting material for Gyre's systems, Styanax's systems, Incarnon weapons, Hespar, Aeolak, Phenmor and Parallax.
-**Acquisition:**
+### Acquisition
 Bounties from Quinn award 1-5 Voidplume Quills depending on tier (2-8 in steel path).
 Finding a Zarium Accolade and delivering it to a Cephalon Melica Cache in any Zariman mission awards 1 Voidplume Quill. Missions generally have two caches to find and unlock.
 Ravenous Void Angels that appear in Void Armageddon are guaranteed to drop a Voidplume Quill upon death as an interactable pickup.
@@ -4221,6 +4199,10 @@ Blueprint Checklist for Voidplume Quill
 38.5
 Gathering Tips
 Zarium Accolades for Cephalon Melica's consoles can be detected with loot radars (Loot Detector, Thief's Wit, Animal Instinct) as well as infusing Golden Instinct.
+
+### Wiki
+In-Game Description
+The Voidplume Quill is an uncommon resource that is given to you when you use a Zarium Accolade on a Cephalon Melica console or defeating a Ravenous Void Angel in the Zariman Tileset. They can be exchanged for 2,500 Standing standing with The Holdfasts. 15x Voidplume Quills are required to advance to the Rank 4 - Seraph with The Holdfasts, and is an important crafting material for Gyre's systems, Styanax's systems, Incarnon weapons, Hespar, Aeolak, Phenmor and Parallax.
 **Notes:**
 Not affected by Resource Boosters.
 **Type:** Resource
@@ -4229,10 +4211,7 @@ Not affected by Resource Boosters.
 A metallic plume from a Void Angel's wing.
 Location: Zariman
 
-### Wiki
-In-Game Description
-The Voidplume Vane is a resource that is found on the Zariman Tileset. They can be exchanged for 1,000 Standing standing with The Holdfasts. 10x Voidplume Vanes are required to advance to the Rank 2 - Watcher with The Holdfasts.
-**Acquisition:**
+### Acquisition
 Voidplume Vanes can be found scattered across any Zariman Ten Zero mission as an interactable pickup. 2 are guaranteed to be Vanes, while an additional 5 have a 25% chance to be a Vane.
 Tier 2 Bounty from Quinn has a chance to award a Voidplume Vane.
 Every 8 hours, one Voidplume Vane can be purchased from Archimedean Yonta using resources found on the Zariman.
@@ -4241,6 +4220,10 @@ The Greenway
 Non-endless missions in the Zariman are recommended since players can explore the tileset after completing the objective. The Exterminate mission Halako Perimeter is particularly effective as the player is naturally forced to maneuver a significant portion of the map.
 Gathering Tips
 As the lower tier plumes (Voidplume Down, Voidplume Vane and Voidplume Crest) and the Zarium Accolades are located as Syndicate-like medallions all around the Zariman tileset, having a Warframe and/or companion with large loot detection capability (Loot Detector, Thief's Wit, Animal Instinct) and infusing Golden Instinct will greatly help in recovering these items.
+
+### Wiki
+In-Game Description
+The Voidplume Vane is a resource that is found on the Zariman Tileset. They can be exchanged for 1,000 Standing standing with The Holdfasts. 10x Voidplume Vanes are required to advance to the Rank 2 - Watcher with The Holdfasts.
 **Type:** Resource
 
 ### Drop Sources
@@ -4271,26 +4254,23 @@ Obtained from Operation Ascension missions (Brutus on Uranus) and special Operat
 A nodule of primordial matter, encysted within Infested flesh.
 Location: Cambion Drift (Deimos) from Blue Mining Lesions. This Rare Gem can only be mined by the Advanced Nosam Cutter or Sunpoint Plasma Drill.
 
-### Wiki
-In-game description
-Xenorhast is a gem that can be found in the Cambion Drift. It can be refined into Trapezium Xenorhast.
-**Acquisition:**
+### Acquisition
 Xenorhast can be acquired by mining teal gem veins in the Cambion Drift. Or alternatively as rare bonus drops from yellow mineral veins.
 It can only be acquired using an Advanced Nosam Cutter or the Sunpoint Plasma Drill.
 Item Checklist for
-42
+
+### Wiki
+In-game description
+Xenorhast is a gem that can be found in the Cambion Drift. It can be refined into Trapezium Xenorhast.
 **Notes:**
 They can be traded at Otak in exchange for Otak Tokens in quantities of 2.
-29
 **Type:** Gem
 
 ## Yao Shrub
 The warm light of the Yao Shrub glows even within cold dark places.
 Location: Duviri
 
-### Wiki
-Yao Shrub is a resource from Duviri.
-**Acquisition:**
+### Acquisition
 The Yao Shrub is found in colder areas of Duviri, specifically in snowy areas near the following map markers:
 Titan's Rest
 Soprano Springs
@@ -4303,7 +4283,9 @@ thumb|A Yao Shrub found near Soprano Springs
 Each plant drops between 3 to 5 Yao Shrubs upon breaking. Enigma Puzzles may also reward Yao Shrub.
 Yao Shrub may also sometimes be obtained from Teshin's Cave.
 Item Checklist for
-41
+
+### Wiki
+Yao Shrub is a resource from Duviri.
 **Type:** Resource
 
 ### Drop Sources
@@ -4329,16 +4311,17 @@ An ancient token of highest esteem from the Corpus Founder himself. The rarest o
 A blue gem that radiates astral energy.
 Location: Orb Vallis (Venus) from Blue Mining Veins and the Exploiter Orb. This Rare Gem can only be mined by the Advanced Nosam Cutter or Sunpoint Plasma Drill.
 
-### Wiki
-In-game Description
-Zodian is a special gem that is obtainable by Mining the blue gem veins in Orb Vallis. It can be turned in to Solaris United's Standing by Smokefinger at Fortuna, Venus for 1,000 Standing each, or refined into Radiant Zodian.
-**Acquisition:**
+### Acquisition
 Zodian can be acquired from two different sources:
 Mined from blue mineral veins in Orb Vallis with the Advanced Nosam Cutter or the Sunpoint Plasma Drill, each yielding 1 unit.
 Also available from red veins in Orb Vallis upon hitting the square bracket bonus spot.
 Dropped as a common loot of Exploiter Orb, each loot yielding 7-8 units. On rarer occasions, the grand boss may drop multiple instances of the loot, making it possible to get 14-16 or even 21-24 units per kill.
 Item Checklist for
 38.0.12
+
+### Wiki
+In-game Description
+Zodian is a special gem that is obtainable by Mining the blue gem veins in Orb Vallis. It can be turned in to Solaris United's Standing by Smokefinger at Fortuna, Venus for 1,000 Standing each, or refined into Radiant Zodian.
 **Type:** Gem
 
 ### Drop Sources
@@ -4533,10 +4516,7 @@ Caliber Chicks 2 Original Soundtrack to enjoy from the Somachord in your Orbiter
 A shard ripped from a Sentient Anomaly in the Veil Proxima. Little Duck is known to trade these for other exotic goods somewhere in Fortuna on Venus.
 Location: Murex ships found in Veil Proxima nodes marked with a special flashing icon (Railjack)
 
-### Wiki
-In-game Description
-Anomaly Shard is a special resource that can be obtained from completing a Murex ship in the Veil Proxima.
-**Acquisition:**
+### Acquisition
 1 Anomaly Shard is awarded for clearing a Murex ship by killing 20 Sentients aboard. The Murex appearance is marked as a red flashing node on Grineer-controlled Veil Proxima missions.
 Usage
 Anomaly Shard can be traded in at Little Duck to obtain the Tenebrous Ephemera for 15 shards, and five Sentient Anomaly Captura scenes for 10 Shards each.
@@ -4544,6 +4524,10 @@ A total of 16 more Anomaly Shards are also used to craft Caliban components (9 t
 Thus, the player would need 81 Anomaly Shards to complete and purchase all the mentioned items.
 Anomaly Shards fall under the Sentient Appetite category for Helminth, allowing them to be fed to Helminth in order to raise its appetite for its currently most disliked resource by 50% of the gauge.
 Item Checklist for
+
+### Wiki
+In-game Description
+Anomaly Shard is a special resource that can be obtained from completing a Murex ship in the Veil Proxima.
 **Notes:**
 Resource Booster and Beast Companion's Loyal Retriever/Resourceful Retriever affect the number of shard drops.
 **Type:** Misc
@@ -4588,6 +4572,9 @@ Antiserum Injector Fragment are a resource that was used to make the Antiserum I
 ## Archon Shard
 A source of anti-entropic radiation ideal for empowering synthetic lifeforms, most notably Archons and Warframes.
 
+### Acquisition
+Archon Shards are awarded from Archon Hunts: Crimson Archon Shard from Archon Amar, Amber Archon Shard from Archon Nira, and Azure Archon Shard from Archon Boreal. The Shard has an 80% chance of being a normal variant and 20% of being Tauforged.
+
 ### Wiki
 Archon Shard effects and its interaction with other game mechanics (i.e: Purple Shard equilibrium effect not confirmed with universal orb) is undocumented.
 In-game description
@@ -4597,8 +4584,6 @@ Archon Shards are used by Narmer's Archons, giving them immense energy and life.
 Types
 As of the Whispers in the Walls expansion, there are six types of Archon Shards:
 Archon Shards can also have Tauforged variants, which are more difficult to obtain but have 50% higher stat bonuses than their regular variants.
-**Acquisition:**
-Archon Shards are awarded from Archon Hunts: Crimson Archon Shard from Archon Amar, Amber Archon Shard from Archon Nira, and Azure Archon Shard from Archon Boreal. The Shard has an 80% chance of being a normal variant and 20% of being Tauforged.
 **Type:** Misc
 
 ### Drop Sources
@@ -4686,12 +4671,13 @@ On the right side of the screen, information about the currently equipped item i
 Auron that has been forged into a stronger metal.
 Blueprint sold by Old Man Suumbaat in Cetus on Earth.
 
-### Wiki
-Auroxium Alloy is a resource crafted from Auron. Each build yields 20 Auroxium Alloy.
-**Acquisition:**
+### Acquisition
 The reusable blueprint can be purchased from Old Man Suumbaat for 7,500 Standing, requiring the rank of Trusted with the Ostron.
 Item Checklist for
 38.0.12
+
+### Wiki
+Auroxium Alloy is a resource crafted from Auron. Each build yields 20 Auroxium Alloy.
 **Trivia:**
 Auroxium Alloy seems to be the WARFRAME equivalent of gold alloys. Aurum is the Latin word for Gold.
 24.2
@@ -4705,14 +4691,6 @@ Location: Void Missions and Bounties
 In-game description
 Varzia
 Aya is an in-game currency which can be used to purchase Void Relics and some cosmetics from Varzia's Prime Resurgence in Maroo's Bazaar. It can be earned through opening Relic Packs, missions in the Void, and bounties.
-**Wiki Drop Sources:**
-Aya can be acquired from Bounties and missions in the Void, and occasionally appears as a Relic Pack reward as well.
-For more details, please check the subpage of Aya/Drops for an automatically generated list.
-Usage
-All Faction Syndicates (Steel Meridian, Arbiters of Hexis, Cephalon Suda, The Perrin Sequence, Red Veil, and New Loka) require a sacrifice of 2 and 3 Aya to rank up to Rank 4 and Rank 5 respectively.
-Aya can be used to purchase the following Void Relics and other items from Varzia in Maroo's Bazaar.
-resurgence
-primevaultlist_relics
 **Trivia:**
 Starting on November 16th, 2021 2 p.m. ET, Aya could be used to purchase Void Relics of vaulted items from Varzia in Maroo's Bazaar.
 After January 25th, 2022 at 2 p.m. ET, Aya was made unavailable to be earned. However, Varzia still resides in Maroo's Bazaar for players to spend any unused Aya.
@@ -4901,12 +4879,7 @@ Caliber Chicks 2 Original Soundtrack to enjoy from the Somachord in your Orbiter
 This mushroom is always hot to the touch. Take it to Nightcap in the airlock for further information.
 Location: Deepmines Bounties on Venus
 
-### Wiki
-In-Game Description
-Blister Stalk is a Deepmines mushroom resource.
-Item Checklist for
-40
-**Acquisition:**
+### Acquisition
 can be harvested in the Deepmines Nutrient Plant of Weed The Garden Deepmines Bounty.
 May be awarded randomly as a bonus bounty reward at the end of the mission, appearing just beside the extraction elevator.
 Can be purchased for 10 Fergolyte from Nightcap, requiring Rank 1 - Unknowing.
@@ -4914,18 +4887,18 @@ Mechanics
 Upon pickup, weapons inflict Heat Damage. Spawns six false Syzygy Shockwave MOAs that surround and follow the player while dancing in place.
 Field Guide
 Picking up Blister Stalk will unlock Field Guide flavor text from Nightcap.
+
+### Wiki
+In-Game Description
+Blister Stalk is a Deepmines mushroom resource.
+Item Checklist for
 **Type:** Misc
 
 ## Borica
 This mushroom appears to continually excrete a highly acidic mucus. Take it to Nightcap in the airlock for further information.
 Location: Deepmines Bounties on Venus
 
-### Wiki
-In-Game Description
-Borica is a Deepmines mushroom resource.
-Item Checklist for
-40
-**Acquisition:**
+### Acquisition
 can be harvested in the Deepmines Forward Base of Corporate Restructuring Deepmines Bounty.
 May be awarded randomly as a bonus bounty reward at the end of the mission, appearing just beside the extraction elevator.
 Can be purchased for 10 Fergolyte from Nightcap, requiring Rank 2 - Curious.
@@ -4933,6 +4906,11 @@ Mechanics
 Upon pickup, weapons inflict Corrosive Damage.
 Field Guide
 Picking up Borica will unlock Field Guide flavor text from Nightcap.
+
+### Wiki
+In-Game Description
+Borica is a Deepmines mushroom resource.
+Item Checklist for
 **Type:** Misc
 
 ## Breath Of The Eidolon
@@ -4973,11 +4951,12 @@ Item Checklist
 ## Brilliant Eidolon Shard
 Rare shard gained from capturing the Sentients roaming the Plains of Eidolon on Earth at night. Use it to gain Focus or to unbind Way-bound focus nodes.
 
-### Wiki
-The Brilliant Eidolon Shard is a resource needed to unbind way-bound Focus nodes. They can also be converted into 25,000 Focus for any unlocked Focus School.
-**Acquisition:**
+### Acquisition
 Eidolon Teralysts and Eidolon Gantulysts will drop one Brilliant Shard when captured while Eidolon Hydrolysts will drop two Brilliant Shards if they are captured with charged Eidolon Lures at the final stage of the fight.
 While the Eidolon Gantulyst and the Eidolon Hydrolyst both require prior acquired Brilliant Shard(s) to summon, those Shards will be reimbursed if they are successfully captured.
+
+### Wiki
+The Brilliant Eidolon Shard is a resource needed to unbind way-bound Focus nodes. They can also be converted into 25,000 Focus for any unlocked Focus School.
 **Notes:**
 In order to unbind a way-bound node, the node must be maxed out beforehand, and players must spend (as of Update 31.5) 750,000 Focus points along with the Brilliant Eidolon Shard to unbind it.
 Unbinding a way-bound node allows the ability to be used regardless of what Focus school is set as the Primary school.
@@ -4991,14 +4970,15 @@ Necessary in order to summon the Eidolon Gantulyst.
 Convex and smooth, worked as a lens or for ornament.
 Blueprint sold by Otak in the Necralisk on Deimos.
 
-### Wiki
-In-game description
-Cabochon Embolos is a resource crafted from Embolos. Each build yields 3 Cabochon Embolos.
-**Acquisition:**
+### Acquisition
 The reusable blueprint can be purchased from Otak for 8,000 Standing, requiring Rank 3 - Associate with the Entrati.
 Item Checklist for
 40.0.5.1
 29.0.7
+
+### Wiki
+In-game description
+Cabochon Embolos is a resource crafted from Embolos. Each build yields 3 Cabochon Embolos.
 **Type:** Cut Gem | **Tradable**
 
 ## Calx
@@ -5128,17 +5108,17 @@ Beginning in Update 9 materials could be purchased directly from the market for.
 Coprun that has been forged into a stronger metal.
 Blueprint sold by Old Man Suumbaat in Cetus on Earth.
 
-### Wiki
-In-Game Description
-Coprite Alloy is a resource crafted from Coprun. Each build yields 20 Coprite Alloy.
-**Acquisition:**
+### Acquisition
 The reusable blueprint can be purchased from Old Man Suumbaat for 2,500 Standing, requiring the rank of Offworlder with the Ostron.
 Coprite Alloy can drop from the Tusk Thumper.
 Item Checklist for
 40.0.5.1
+
+### Wiki
+In-Game Description
+Coprite Alloy is a resource crafted from Coprun. Each build yields 20 Coprite Alloy.
 **Trivia:**
 Coprite Alloy seems to be the WARFRAME's universe equivalent of a Brass (Copper-Zinc alloy), despite Ferrite seeming to be the equivalent of Iron – from Latin Ferrum.
-22
 **Type:** Alloy
 
 ## Core Containment
@@ -5156,10 +5136,7 @@ This is currently the longest named soundtrack in Warframe, with a length of 8:0
 ## Corrupted Holokey
 A corrupted decryption key dating back to the founding of the city of Corposium. Millions of these Holokeys were lost to the Void when Parvos Granum's flagship was bombed. Strongly desired by Ergo Glast.
 
-### Wiki
-In-Game Description
-Corrupted Holokey is a special resource that drops from Void Storms and defeating Sisters of Parvos.
-**Acquisition:**
+### Acquisition
 Empyrean missions with an active Void Storm as an end of mission reward have a chance to reward a number of Corrupted Holokeys.
 Void Storms are also guaranteed to award 1 Corrupted Holokey, with the Veil Proxima awarding 2, separate from the drop tables.
 Defeating a Sister of Parvos in the Final Confrontation in Neptune Proxima guarantees 1 Corrupted Holokey for each squad member, with up to 4 keys being awarded in a full squad.
@@ -5168,11 +5145,10 @@ Usage
 Corrupted Holokey are used to purchase Tenet weapons from Ergo Glast in any Relay under the prompt "Browse Merchandise". Their availability and prices are not affected by the player's reputation with The Perrin Sequence syndicate. Each of these weapons is offered with a random bonus element that cycles every four days. The weapons are eligible for Valence Fusion.
 The minimum number of Corrupted Holokeys needed to purchase each Tenet weapon once is 200 (40*5).
 The absolute maximum number of Corrupted Holokeys to purchase each Tenet weapon and fully upgrade each via Valence Fusion is 2000 (40*10*5).
-40
-40
-40
-40
-40
+
+### Wiki
+In-Game Description
+Corrupted Holokey is a special resource that drops from Void Storms and defeating Sisters of Parvos.
 **Type:** Misc
 
 ### Drop Sources
@@ -5186,12 +5162,13 @@ The absolute maximum number of Corrupted Holokeys to purchase each Tenet weapon 
 ## Crash Course
 There's more than one band out there! Relive the events of 1999 with these tracks from the mean streets of Höllvania.
 
-### Wiki
-The Crash Course mod increases Impact damage of rifles by 20% per rank for a maximum of 120% at rank 5.
-**Acquisition:**
+### Acquisition
 This mod is acquired by getting 1000 Points in the Operation False Profit Event.
 It is now offered as a periodic item for sale by Baro Ki'Teer, costing 330 and 200,000 to purchase. Note that Baro Ki'Teer's stock changes with each appearance, and this modification may not be available on a succeeding appearance.
 After the addition of the Plains of Eidolon, the mod may also obtainable by killing Eidolon Teralyst.
+
+### Wiki
+The Crash Course mod increases Impact damage of rifles by 20% per rank for a maximum of 120% at rank 5.
 **Notes:**
 Can be combined with Rupture to provide a 210% increase to Impact damage.
 When calculating total raw damage, a weapon will require an Impact damage percentage equal to 75% of its total base damage to equal the raw damage increase provided by a standard elemental mod (which increases corresponding elemental damages by 90%). The higher the Impact damage percentage over 75%, the more viable this mod will be as opposed to an elemental mod, and vice versa for lower values. These calculations only pertain to raw damage, and do not take into consideration enemy armor/flesh/shield damage multipliers.
@@ -5327,12 +5304,7 @@ Locator beacon broadcasting on the delta frequency
 The spines on this mushroom appear to be extremely sharp. Take it to Nightcap in the airlock for further information.
 Location: Deepmines Bounties on Venus
 
-### Wiki
-In-Game Description
-Devil's Cap is a Deepmines mushroom resource.
-Item Checklist for
-40
-**Acquisition:**
+### Acquisition
 can be harvested in the Deepmines Labs of the Critter Liberation Deepmines Bounty.
 May be awarded randomly as a bonus bounty reward at the end of the mission, appearing just beside the extraction elevator.
 Can be purchased for 10 Fergolyte from Nightcap at Rank 0 - Neutral.
@@ -5340,22 +5312,28 @@ Mechanics
 Upon pickup, weapons inflict Slash Damage. The player's eyes glow bright red. Damaging enemies will cosmetically sever limbs and create additional blood and gore effects.
 Field Guide
 Picking up Devil's Cap will unlock Field Guide flavor text from Nightcap.
+
+### Wiki
+In-Game Description
+Devil's Cap is a Deepmines mushroom resource.
+Item Checklist for
 **Type:** Misc
 
 ## Diluted Thermia
 A magma like liquid that is diluted with coolant during the extraction process. Thermia can be found fracturing the surface of the Orb Vallis during thermal flare-ups. Could this be the key to weakening the Exploiter Orb's defenses?
 Location: Thermia Fractures event in the Orb Vallis on Venus
 
-### Wiki
-A magma like liquid that is diluted with coolant during the extraction process. Thermia can be found fracturing the surface of the Orb Vallis during thermal flare-ups. Could this be the key to weakening the Exploiter Orb's defenses?
-Diluted Thermia is a resource obtained by participating in the Thermia Fractures part of the Operation: Buried Debts event, or in the subsequent recurring Thermia Fractures events.
-It was first introduced on March the 8th of 2019 in Update 24.4 along with the said event.
-**Acquisition:**
+### Acquisition
 Diluted Thermia is obtained by successfully closing Thermia fractures in the Orb Vallis during the event. It is obtained every time a player or their squad close 4 Thermia fractures using the same coolant canister, or by using 4 coolant canisters at once in a single fracture, which will yield one Diluted Thermia, affected by resource boosters and double-resource events but not affected by resource drop chance boosters. Said canister will then disappear, and the players will have to search for a new one if they want to continue closing fractures.
 Usage
 It is used to trigger the Exploiter Orb boss fight in Deck 12. Upon interacting with the console with an orange glow (next to where the Ventkids entrance would be in Fortuna), it will consume 1 Diluted Thermia and the Exploiter Orb will drop from the ceiling.
 Diluted Thermia is only used from the player who triggers the fight. The other squad mates will keep their Diluted Thermia, but will need to have the Thermia in their inventory to take the bounty for the fight.
 During the Thermia Fractures event, a Resource Booster will not increase the total points from finishing a Canister and obtaining the boosted Diluted Thermia.
+
+### Wiki
+A magma like liquid that is diluted with coolant during the extraction process. Thermia can be found fracturing the surface of the Orb Vallis during thermal flare-ups. Could this be the key to weakening the Exploiter Orb's defenses?
+Diluted Thermia is a resource obtained by participating in the Thermia Fractures part of the Operation: Buried Debts event, or in the subsequent recurring Thermia Fractures events.
+It was first introduced on March the 8th of 2019 in Update 24.4 along with the said event.
 **Type:** Misc
 
 ## Dna Stabilizers
@@ -5428,12 +5406,7 @@ Looking away, looking away, cause I ain't the one for you
 This mushroom is as plain as plain can be. Take it to Nightcap in the airlock for further information.
 Location: Deepmines Bounties on Venus
 
-### Wiki
-In-Game Description
-Dull Button is a Deepmines mushroom resource.
-Item Checklist for
-40
-**Acquisition:**
+### Acquisition
 can be harvested in the entrance caves of all Deepmines Bounties.
 May be awarded randomly as a bonus bounty reward at the end of the mission, appearing just beside the extraction elevator.
 Can be purchased for 10 Fergolyte from Nightcap at Rank 0 - Neutral.
@@ -5441,6 +5414,11 @@ Mechanics
 Upon pickup, clears existing Mushroom effects.
 Field Guide
 Picking up Dull Button will unlock Field Guide flavor text from Nightcap.
+
+### Wiki
+In-Game Description
+Dull Button is a Deepmines mushroom resource.
+Item Checklist for
 **Type:** Misc
 
 ## Earthcommonavionicsendo
@@ -5459,11 +5437,12 @@ Injecting this fluid into a Warframe will imbue it with the ability to fight aut
 Sentient immunity to the Infestation is exploited with this refined phylaxis. Formulated specifically to combat Infested boils in Plague Star bounties.
 Location: Nakak's Operational Supply in Cetus
 
+### Acquisition
+The reusable blueprint is acquired from Nakak in Cetus for 2,000 Standing and 4,000 upon reaching Rank 1 - Collaborator with the Operational Supply Syndicate. Crafting in the Foundry will give 5 charges of the Phylaxis for use.
+
 ### Wiki
 In-Game Description
 The Eidolon Phylaxis is a consumable Gear item unique to the Operation: Plague Star Event. It, along with the Infested Catalyst, is required to access the Advanced and The Steel Path variants of the Plague Star Bounty and is consumed upon mission completion.
-**Acquisition:**
-The reusable blueprint is acquired from Nakak in Cetus for 2,000 Standing and 4,000 upon reaching Rank 1 - Collaborator with the Operational Supply Syndicate. Crafting in the Foundry will give 5 charges of the Phylaxis for use.
 **Trivia:**
 Phylaxis is a medical term that usually refers to defenses against infections. It is often used as a suffix to denote protection from various conditions, e.g. prophylaxis.
 Given the circumstances of its use, the Eidolon Phylaxis' name may be derived from the above term as well as Anaphylaxis, a severe allergic reaction characterized by rashes and swelling of the throat and mouth, among other symptoms. This gives some insight as to how the Phylaxis may work in-universe.
@@ -5473,16 +5452,17 @@ Prior to Update 34.0.7, the Eidolon Phylaxis had to be added manually during the
 ## Eidolon Shard
 Shard gained from the Sentients roaming the Plains of Eidolon on Earth at night.
 
+### Acquisition
+The Eidolon Teralyst, Gantulyst, and Hydrolyst will drop one, three, and five Eidolon Shards respectively regardless of whether they are killed or captured.
+Item Checklist
+38.0.12
+
 ### Wiki
 The Eidolon Shard is a crafting component introduced in the Plains of Eidolon update. They can be converted into 2,500 Focus for any school, and are used in the crafting of Paracesis.
 10, 20, and 30 Eidolon Shards are required as a sacrifice for Rank 3 (Adherent), Rank 4 (Instrument), and Rank 5 (Architect) of The Quills, respectively.
 A decorative replica of an Eidolon Shard (called the Eidolon Relic) can be purchased from the Quills at Rank 4 (Instrument) for 50,000 Standing standing.
 Lore
 Eidolon Shard may be the shattered and splintered Sentient Cores of the Eidolon Teralysts. Cephalon Simaris may have also managed to acquire one, as he has synthesized a Synthetic Eidolon Shard.
-**Acquisition:**
-The Eidolon Teralyst, Gantulyst, and Hydrolyst will drop one, three, and five Eidolon Shards respectively regardless of whether they are killed or captured.
-Item Checklist
-38.0.12
 **Trivia:**
 Capturing all three Eidolons in a single night rewards the player with 9 Eidolon Shards in total. Therefore, acquiring the 65 shards required for The Quills ranks and the Paracesis would take a total of 8 full hunts
 **Type:** Eidolon Shard
@@ -5495,16 +5475,17 @@ Capturing all three Eidolons in a single night rewards the player with 9 Eidolon
 ## Elemental Vice
 Use the Elemental Vice to change the Elemental Damage Type of an Adversary Weapon.
 
-### Wiki
-In-Game Description
-Elemental Vice is an item used as a supercharger to enable Valence Override on a Kuva, Tenet, or Coda weapon, making the bonus damage type (though not the percentage) customizable.
-**Acquisition:**
+### Acquisition
 Purchased from Eleanor of The Hex for 50,000 Standing at Rank 5 - Pizza Party.
 Occasionally awarded from Temporal Archimedea.
 Purchased from the Market for 20 after completion of The Hex (Quest).
 Using Elemental Vice on Equipment
 To apply an Elemental Vice, the desired Kuva, Tenet, or Coda weapon must be rank 40; the weapon gains 2 ranks per Forma and requires 5 Forma in total. Go to the Arsenal and access the desired item's Mod loadout, select Action at the bottom of the screen and select Valence Override.
 It is a permanent upgrade. Once installed, players can freely use Valence Override to switch the weapon's bonus damage type. Only Impact, Heat, Cold, Electricity, Toxin, Magnetic, and Radiation types can be selected.
+
+### Wiki
+In-Game Description
+Elemental Vice is an item used as a supercharger to enable Valence Override on a Kuva, Tenet, or Coda weapon, making the bonus damage type (though not the percentage) customizable.
 **Notes:**
 The total number of Elemental Vices needed to enhance one of each Kuva, Tenet and Coda weapons is currently 48, requiring 2,400,000 Standing for The Hex, or 960, to obtain them all.
 **Type:** Misc
@@ -5543,11 +5524,12 @@ Consumed in the fusion process to power up existing Mods.
 ## Enigma Sense
 Nearby Duviri Enigmas will be marked with a waypoint.
 
+### Acquisition
+Enigma Sense can be purchased from Achritis by spending 10 Pathos Clamp and 5 Enigma Gyrum.
+
 ### Wiki
 Shop Description
 Enigma Sense is a permanent upgrade to Drifter, which passively applies waypoint to a Duviri Puzzle nearby up to 150m away.
-**Acquisition:**
-Enigma Sense can be purchased from Achritis by spending 10 Pathos Clamp and 5 Enigma Gyrum.
 **Type:** Misc
 
 ## Evergreenloginrewardfusionbundle
@@ -5558,33 +5540,33 @@ Consumed in the fusion process to power up existing Mods.
 Refined purity freed from the Infested mass.
 Blueprint sold by Otak in the Necralisk on Deimos.
 
-### Wiki
-In-game description
-Faceted Tiametrite is a resource crafted from Tiametrite. Each build yields 10 Faceted Tiametrite.
-**Acquisition:**
+### Acquisition
 The reusable blueprint can be purchased from Otak for 1,000 Standing, requiring Rank 0 - Neutral with the Entrati.
 Item Checklist for
 38.0.12
-29
+
+### Wiki
+In-game description
+Faceted Tiametrite is a resource crafted from Tiametrite. Each build yields 10 Faceted Tiametrite.
 **Type:** Cut Gem | **Tradable**
 
 ## Fate Pearl
 Retrieved from the shores of a sacred fate dream.
 Location: Saya's Visions on Earth
 
-### Wiki
-In-Game Description
-Fate Pearl is a resource found in Shrine Defense. These are used to purchase and craft Koumei, Higasa, Amanata and related items from Koumei's Shrine in Cetus.
-Access to this resource requires completion of Saya's Vigil and Once Awake quests.
-**Acquisition:**
+### Acquisition
 Granted when killing the Infested Oni that appears at the end of Shrine Defense at Saya's Visions, Earth.
 Normal: 14-18 Fate Pearl
 The Steel Path: 20-24 Fate Pearl
 Unaffected by Resource Boosters and looting abilities, such as Desecrate and Retrieve.
 Item Checklist
-41
 Usage
 Koumei's Shrine#Offer Fate Pearls
+
+### Wiki
+In-Game Description
+Fate Pearl is a resource found in Shrine Defense. These are used to purchase and craft Koumei, Higasa, Amanata and related items from Koumei's Shrine in Cetus.
+Access to this resource requires completion of Saya's Vigil and Once Awake quests.
 **Notes:**
 1866 Fate Pearl are required to purchase and craft all dependent items once.Purchasing and crafting another copy of Koumei for subsuming requires an additional 432 Fate Pearl, bringing the total required to 2298.
 Assuming the player does not get any components from Shrine Defense, they would have to complete an average of 144 rounds of Shrine Defense in the normal Star Chart, or 105 rounds on Steel Path, to afford all purchases and construction requirements.
@@ -5594,17 +5576,18 @@ Assuming the player does not get any components from Shrine Defense, they would 
 This highly reactive mineral deposit is the only substance known to make The Prince grow.
 Location: The Deepmines below Fortuna, Venus.
 
-### Wiki
-In-Game Description
-Fergolyte is a resource found in Deepmines Bounties. These are used to purchase Nokko, Arbucep, Archgun Arcane Adapter, and Deepmines-themed floral Decorations and Captura from Nightcap. It is also used to unlock The Prince Stem Paths.
-Access to this resource requires completion of The New War quest.
-**Acquisition:**
+### Acquisition
 Completing a Deepmines Bounty, awarded in quantities of 11-15 (15-19 on The Steel Path).
 Fully analyzing a mushroom in Nightcap's Field Guide gives you the ability to compost said mushroom, giving you 1 Fergolyte for every mushroom that gets composted.
 Usage
 Nightcap#Offerings
 The Prince's Stem Paths
 Delivering Fergolyte to The Prince will cause it to grow, which unlocks a lore entry between Nightcap and Nokko. 20 Fergolyte unlocks the Purple Stem Path, 40 for the Blue Stem Path, and 60 for the Green Stem Path, for a total of 120 Fergolyte.
+
+### Wiki
+In-Game Description
+Fergolyte is a resource found in Deepmines Bounties. These are used to purchase Nokko, Arbucep, Archgun Arcane Adapter, and Deepmines-themed floral Decorations and Captura from Nightcap. It is also used to unlock The Prince Stem Paths.
+Access to this resource requires completion of The New War quest.
 **Type:** Misc
 
 ### Drop Sources
@@ -5668,12 +5651,7 @@ Ani, Void (Level 20-25, Survival) is also a good place to go to get Ferrite (~14
 An oddly shaped fungus that will latch itself onto metallic objects. Take it to Nightcap in the airlock for further information.
 Location: Deepmines Bounties on Venus
 
-### Wiki
-In-Game Description
-Ferrofungus is a Deepmines mushroom resource.
-Item Checklist for
-40
-**Acquisition:**
+### Acquisition
 can be harvested in the Deepmines Labs of the Critter Liberation Deepmines Bounty.
 May be awarded randomly as a bonus bounty reward at the end of the mission, appearing just beside the extraction elevator.
 Can be purchased for 10 Fergolyte from Nightcap, requiring Rank 2 - Curious.
@@ -5681,24 +5659,29 @@ Mechanics
 Upon pickup, weapons inflict Magnetic Damage. Player is followed by a group of Sprodlings that match their Warframe's colors.
 Field Guide
 Picking up Ferrofungus will unlock Field Guide flavor text from Nightcap.
+
+### Wiki
+In-Game Description
+Ferrofungus is a Deepmines mushroom resource.
+Item Checklist for
 **Type:** Misc
 
 ## Fersteel Alloy
 Ferros that has been forged into a stronger metal.
 Blueprint sold by Old Man Suumbaat in Cetus on Earth.
 
-### Wiki
-In-Game Description
-Fersteel Alloy is a resource crafted from Ferros. Each build yields 20 Fersteel Alloy.
-**Acquisition:**
+### Acquisition
 The reusable blueprint can be purchased from Old Man Suumbaat for 5,000 Standing, requiring the rank of Visitor with the Ostron.
 Item Checklist for
 38.0.12
+
+### Wiki
+In-Game Description
+Fersteel Alloy is a resource crafted from Ferros. Each build yields 20 Fersteel Alloy.
 **Notes:**
 The Ostron faction requires 40 Fersteel Alloy to advance from Trusted to Surah.
 **Trivia:**
 Fersteel is derived from "ferrous"/"ferrum" (Latin words for "iron", the root word of Ferrite and Ferros) and steel, a family of alloys made of iron.
-22
 **Type:** Alloy
 
 ## File-A-Style Binder
@@ -5801,10 +5784,7 @@ The song is associated with the Protoframe Kaya, and could therefore also be con
 Soft metal used in microelectronics and energy weapons.
 Location: Mars and Uranus
 
-### Wiki
-In-Game Description
-Gallium is a rare resource that can be found on Mars and Uranus. It is usually found in quantities of 2-4. Gallium can also be aquired from certain Assassination targets.
-**Acquisition:**
+### Acquisition
 Market
 In-Game DescriptionBeginning in Update 9 materials could be purchased directly from the market for Platinum.
 Item Checklist for
@@ -5812,6 +5792,10 @@ Item Checklist for
 42.0.1.1
 Farming Locations
 Titania
+
+### Wiki
+In-Game Description
+Gallium is a rare resource that can be found on Mars and Uranus. It is usually found in quantities of 2-4. Gallium can also be aquired from certain Assassination targets.
 **Trivia:**
 The Corpus letters stamped on the icon ga transcribe to Ga, the chemical symbol of Gallium.
 The icon for Ferrite reuses the graphic of Gallium, but with a different texture and coloring.
@@ -5829,12 +5813,7 @@ Locator beacon broadcasting on the gamma frequency
 A potentially radioactive mushroom. Take it to Nightcap in the airlock for further information.
 Location: Deepmines Bounties on Venus
 
-### Wiki
-In-Game Description
-Gamma Berry is a Deepmines mushroom resource.
-Item Checklist for
-40
-**Acquisition:**
+### Acquisition
 can be harvested in the Deepmines Nutrient Plant of Weed The Garden Deepmines Bounty.
 May be awarded randomly as a bonus bounty reward at the end of the mission, appearing just beside the extraction elevator.
 Can be purchased for 10 Fergolyte from Nightcap, requiring Rank 2 - Curious.
@@ -5842,17 +5821,23 @@ Mechanics
 Upon pickup, weapons inflict Radiation Damage. The player's head temporarily inflates.
 Field Guide
 Picking up Gamma Berry will unlock Field Guide flavor text from Nightcap.
+
+### Wiki
+In-Game Description
+Gamma Berry is a Deepmines mushroom resource.
+Item Checklist for
 **Type:** Misc
 
 ## Gara Prime Theme
 Gara Prime's signature theme music to enjoy from the Somachord in your Orbiter.
 
-### Wiki
-Gara Prime Theme is the soundtrack featured in Gara Prime's Prime Access Trailer.
-**Acquisition:**
+### Acquisition
 The Somachord version of the theme can be bought from Varzia for 5 Aya.
 Sample
 GaraPrimeTrailerCuePoviaMarket.ogg
+
+### Wiki
+Gara Prime Theme is the soundtrack featured in Gara Prime's Prime Access Trailer.
 **Type:** Misc | **Tradable**
 
 ## Garuda Prex
@@ -5887,13 +5872,14 @@ For details regarding which patterns and colors occur naturally, please refer to
 Polished and cut to perfection.
 Blueprint sold by Smokefinger in Fortuna on Venus.
 
-### Wiki
-In-game Description
-Goblite Tears is a resource crafted from Goblite. Each build yields 10 Goblite Tears.
-**Acquisition:**
+### Acquisition
 The reusable blueprint can be purchased from Smokefinger for 2,000 Standing, requiring the rank of Outworlder with Solaris United.
 Item Checklist for
 38.0.12
+
+### Wiki
+In-game Description
+Goblite Tears is a resource crafted from Goblite. Each build yields 10 Goblite Tears.
 **Type:** Cut Gem | **Tradable**
 
 ## Green Gorilla Propane Tank
@@ -5903,12 +5889,13 @@ Green Gorilla Propane is more than just propane. It's propane in a tank.
 ## Grendel Prime Theme
 Grendel Prime's signature theme music to enjoy from the Somachord in your Orbiter.
 
-### Wiki
-Grendel Prime Theme is the soundtrack featured in Grendel Prime's Prime Access Trailer.
-**Acquisition:**
+### Acquisition
 The Somachord version of the theme can be bought from Varzia for 5 Aya
 Sample
 GrendelPrime.ogg
+
+### Wiki
+Grendel Prime Theme is the soundtrack featured in Grendel Prime's Prime Access Trailer.
 **Trivia:**
 This theme is based on the music used for the Abyss of Dagath Login Music and Abyssal Zone missions.
 **Type:** Misc | **Tradable**
@@ -5917,13 +5904,13 @@ This theme is based on the music used for the Abyss of Dagath Login Music and Ab
 Polished and cut to perfection.
 Blueprint sold by Smokefinger in Fortuna on Venus.
 
+### Acquisition
+The reusable blueprint can be purchased from Smokefinger for 1,000 Standing, requiring the rank of Neutral with Solaris United.
+Item Checklist for
+
 ### Wiki
 In-game Description
 Heart Noctrul is a resource crafted from Noctrul. Each build yields 10 Heart Noctrul.
-**Acquisition:**
-The reusable blueprint can be purchased from Smokefinger for 1,000 Standing, requiring the rank of Neutral with Solaris United.
-Item Checklist for
-41
 **Type:** Cut Gem | **Tradable**
 
 ## Heart Of Deimos Login Music
@@ -5953,7 +5940,6 @@ Item Checklist for
 Warframes & Companions
 Weapons
 Cosmetics
-41
 Farming Locations
 These are based on opinions and may not be 100% true. These should be viewed as advice for finding the resource until better facts are proven.
 Sinai
@@ -6000,23 +5986,25 @@ Another possible origin for the name is it being a scientific-sounding composite
 ## Hildryn Prime Theme
 Hildryn Prime's signature theme music to enjoy from the Somachord in your Orbiter.
 
-### Wiki
-Hildryn Prime Theme is the soundtrack featured in Hildryn Prime's Prime Access Trailer.
-**Acquisition:**
+### Acquisition
 The Somachord version of the theme can be bought from Varzia for 5 Aya.
 Sample
 HildrynPrime.ogg
+
+### Wiki
+Hildryn Prime Theme is the soundtrack featured in Hildryn Prime's Prime Access Trailer.
 **Type:** Misc | **Tradable**
 
 ## Hydroid Prime Theme
 Hydroid Prime's signature theme music to enjoy from the Somachord in your Orbiter.
 
-### Wiki
-Hydroid Prime Theme is the soundtrack featured in Hydroid Prime's Prime Access Trailer.
-**Acquisition:**
+### Acquisition
 The Somachord version of the theme can be bought from Varzia for 5 Aya.
 Sample
 HydroidPrime.ogg
+
+### Wiki
+Hydroid Prime Theme is the soundtrack featured in Hydroid Prime's Prime Access Trailer.
 **Type:** Misc | **Tradable**
 
 ## I Wanna Be Your G.O.B.
@@ -6026,14 +6014,15 @@ Caliber Chicks 2 Original Soundtrack to enjoy from the Somachord in your Orbiter
 ## Incubator Power Core
 This device facilitates the growth of a Kubrow or Kavat clone, from birth to adolescence.
 
+### Acquisition
+Players may purchase a fully-built Power Core or a reusable blueprint from the Market. A single Incubator Core is given as a reward for completing the first task of the Venus > Mercury Junction.
+Blueprints Requiring Incubator Power Core
+29.9.1
+
 ### Wiki
 In-Game Description
 The Incubator Power Core is an item required for the incubation of a Kubrow or Kavat in the Incubator Segment of the Orbiter, providing sufficient energy to the Incubator to nurture a Companion all the way to maturity.
 The Power Core is consumed once a Companion has finished incubation and must be rebuilt to incubate a new one.
-**Acquisition:**
-Players may purchase a fully-built Power Core or a reusable blueprint from the Market. A single Incubator Core is given as a reward for completing the first task of the Venus > Mercury Junction.
-Blueprints Requiring Incubator Power Core
-29.9.1
 **Trivia:**
 The symbol image resembles a Nixie Tube.
 **Type:** Pet Resource
@@ -6122,11 +6111,12 @@ There’s infection inside, there’s infection inside
 This refined toxin catalyst has been formulated to reinforce the Thrax Toxin and maximize damage to the Infested boil in Plague Star bounties.
 Location: Bio Lab in Clan Dojo
 
+### Acquisition
+Infested Catalysts are acquired by completing the required Research project in a Clan Dojo's Bio Lab Research room, then buying the reusable blueprint for 5,000. Crafting in the Foundry will give 5 charges of the Catalyst for use.
+
 ### Wiki
 In-game Description
 The Infested Catalyst is a consumable Gear item unique to the Operation: Plague Star Event. It, along with the Eidolon Phylaxis, is required to access the Advanced and The Steel Path variants of the Plague Star Bounty and is consumed upon mission completion.
-**Acquisition:**
-Infested Catalysts are acquired by completing the required Research project in a Clan Dojo's Bio Lab Research room, then buying the reusable blueprint for 5,000. Crafting in the Foundry will give 5 charges of the Catalyst for use.
 **Trivia:**
 Update 31.5 introduced new Grineer-like units, Thrax Centurion and Thrax Legatus, who share a similar prefix to the Thrax Toxin.
 Prior to Update 34.0.7, the Infested Catalyst had to be added manually during the Stage 2 mixing phase. Each use of the Catalyst would summon up to four Hemocytes during Stage 4.
@@ -6148,12 +6138,7 @@ Used to purchase Nightwave's Cred Offerings. Nightwave Creds from past Series ca
 This mushroom is hard as an anvil and nearly as heavy. Take it to Nightcap in the airlock for further information.
 Location: Deepmines Bounties on Venus
 
-### Wiki
-In-Game Description
-Ironwood is a Deepmines mushroom resource.
-Item Checklist for
-40
-**Acquisition:**
+### Acquisition
 can be harvested in the Deepmines Forward Base of Corporate Restructuring Deepmines Bounty.
 May be awarded randomly as a bonus bounty reward at the end of the mission, appearing just beside the extraction elevator.
 Can be purchased for 10 Fergolyte from Nightcap at Rank 0 - Neutral.
@@ -6161,6 +6146,11 @@ Mechanics
 Upon pickup, weapons inflict Impact Damage. Player is surrounded by particle effects similar to those of Prism. Enemies hit will likewise produce said particle effects.
 Field Guide
 Picking up Ironwood will unlock Field Guide flavor text from Nightcap.
+
+### Wiki
+In-Game Description
+Ironwood is a Deepmines mushroom resource.
+Item Checklist for
 **Type:** Misc
 
 ## Jade Shadows Login Music
@@ -6214,10 +6204,7 @@ Locator beacon broadcasting on the kappa frequency
 Contains the genetic code sequence of a Kavat.
 Location: Obtained by using a Codex Scanner on Feral Kavats that roam the Orokin Derelict on Deimos
 
-### Wiki
-In-Game Description
-Kavat Genetic Code is a resource required for the incubation of a Kavat in the Orbiter's Incubator.
-**Acquisition:**
+### Acquisition
 Kavat Genetic Codes can be earned when scanning alive Feral Kavats at a 25.0% chance (while their corpses may be scanned too for Cephalon Simaris standing - yet this will not award any codes). Alternatively, one can be bought for 5 each in the Market or with the Kavat Starter Kit for 95. Bought separately, you will require 50 to purchase the 10 required to start the incubation process.
 Vasca Kavats on the Plains of Eidolon do not give Kavat Genetic Codes when scanned.
 Item Checklist
@@ -6238,6 +6225,10 @@ The Vector-Thread widget is also useful to scan more quickly.
 Ballistica Prime's passive creates specters that can be scanned like a normal feral kavat
 Ghosts made from unalerted Kavats are sometimes completely invisible, but still scannable in this state if you can find them.
 Consider farming in a group.
+
+### Wiki
+In-Game Description
+Kavat Genetic Code is a resource required for the incubation of a Kavat in the Orbiter's Incubator.
 **Type:** Pet Resource
 
 ### Drop Sources
@@ -6247,12 +6238,13 @@ Consider farming in a group.
 ## Khora Prime Theme
 Khora Prime's signature theme music to enjoy from the Somachord in your Orbiter.
 
-### Wiki
-Khora Prime Theme is the soundtrack featured in Khora Prime's Prime Access Trailer.
-**Acquisition:**
+### Acquisition
 The Somachord version of the theme can be bought from Varzia for 5 Aya.
 Sample
 KhoraPrime.ogg
+
+### Wiki
+Khora Prime Theme is the soundtrack featured in Khora Prime's Prime Access Trailer.
 **Type:** Misc | **Tradable**
 
 ## Kick Out The Guns
@@ -6487,23 +6479,21 @@ Consumed in the fusion process to power up existing Mods.
 Polished and cut to perfection.
 Blueprint sold by Smokefinger in Fortuna on Venus.
 
-### Wiki
-In-game Description
-Marquise Thyst is a resource crafted from Thyst. Each build yields 3 Marquise Thyst.
-**Acquisition:**
+### Acquisition
 The reusable blueprint can be purchased from Smokefinger for 12,000 Standing, requiring the rank of Rank 4 Cove with Solaris United.
 Item Checklist for
 40.0.5.1
+
+### Wiki
+In-game Description
+Marquise Thyst is a resource crafted from Thyst. Each build yields 3 Marquise Thyst.
 **Type:** Cut Gem | **Tradable**
 
 ## Morphics
 An amorphous solid. Possibly Orokin technology.
 Location: Mercury, Mars, Phobos, Europa, and Pluto
 
-### Wiki
-In-Game Description
-Morphics are a rare resource that can be found on Mercury, Mars, Phobos, Europa, and Pluto. It is usually found in quantities of 1. Morphics can also be acquired from certain Assassination targets. Morphics have a higher chance to drop on Mars.
-**Acquisition:**
+### Acquisition
 Market
 In-Game Description
 Beginning in Update 9 materials could be purchased directly from the market for Platinum.
@@ -6512,6 +6502,10 @@ checklist
 42.0.1.1
 Farming Locations
 Kadesh
+
+### Wiki
+In-Game Description
+Morphics are a rare resource that can be found on Mercury, Mars, Phobos, Europa, and Pluto. It is usually found in quantities of 1. Morphics can also be acquired from certain Assassination targets. Morphics have a higher chance to drop on Mars.
 **Notes:**
 Although labeled as rare, the drop rate of Morphics is rather high on Mars, making it one of the easiest rare components to obtain.
 **Trivia:**
@@ -6531,11 +6525,7 @@ Consumed in the fusion process to power up existing Mods.
 A snake-like mushroom that should be handled with caution. Take it to Nightcap in the airlock for further information.
 Location: Deepmines Bounties on Venus
 
-### Wiki
-In-Game Description
-Muck Bonnet is a Deepmines mushroom resource.
-Item Checklist for
-**Acquisition:**
+### Acquisition
 can be harvested in the entrance caves of all Deepmines Bounties.
 May be awarded randomly as a bonus bounty reward at the end of the mission, appearing just beside the extraction elevator.
 Can be purchased for 10 Fergolyte from Nightcap, requiring Rank 1 - Unknowing.
@@ -6543,6 +6533,11 @@ Mechanics
 Upon pickup, weapons inflict Toxin Damage.
 Field Guide
 Picking up Muck Bonnet will unlock Field Guide flavor text from Nightcap.
+
+### Wiki
+In-Game Description
+Muck Bonnet is a Deepmines mushroom resource.
+Item Checklist for
 **Type:** Misc
 
 ## Mutalist Alad V Nav Coordinate
@@ -6621,7 +6616,6 @@ Location: Narmer Bounties in the Plains of Eidolon (Earth) and Orb Vallis (Venus
 ### Wiki
 Narmer Isoplast is a Sentient resource that can be obtained through Narmer Bounties after completing The New War Quest. These are used for crafting, and can be traded to The Quills and Vox Solaris Syndicates for 2,000 Standing each.
 Item Checklist
-42
 **Type:** Misc
 
 ### Drop Sources
@@ -6656,7 +6650,6 @@ In-Game Description
 The Nav Coordinate is a resource appearing as spheres with a dark "space" effect inside. They are commonly found inside storage containers and lockers on every level, including the Orokin Void, and are rarely dropped by Eximus, Feral Kubrows, and Drahks.
 They are used in creating key items for The New Strange and Mutalist Alad V Assassinate Keys. They can also be sold for 25.
 Item Checklist
-41
 Gathering Tips
 It is highly recommended to equip Thief's Wit, Master Thief and/or Scavenge, as it will show you the location of containers and unlock more lockers.
 Playing low level missions with a high amount of containers like Caloris on Mercury will help in gathering Nav Coordinates.
@@ -6695,23 +6688,21 @@ Lephantis Nav Coordinates were retired and were automatically converted into 500
 ## Nekros Prime Theme
 Nekros Prime's signature theme music to enjoy from the Somachord in your Orbiter.
 
-### Wiki
-Nekros Prime Theme is the soundtrack featured in Nekros Prime's Prime Access Trailer.
-**Acquisition:**
+### Acquisition
 The Somachord version of the theme can be bought from Varzia for 5 Aya.
 Sample
 NekrosPrime.ogg
 This music is based on Our Disease.
+
+### Wiki
+Nekros Prime Theme is the soundtrack featured in Nekros Prime's Prime Access Trailer.
 **Type:** Misc | **Tradable**
 
 ## Neural Sensors
 Implanted neural-link for controlling augmentations. Grineer design.
 Location: Jupiter
 
-### Wiki
-In-Game Description
-Neural Sensors are a rare resource that can be found on Jupiter and in the Kuva Fortress. Neural Sensors can also be acquired from certain Assassination targets. It is usually found in quantities of 1 to 2.
-**Acquisition:**
+### Acquisition
 Market
 In-Game Description
 Neural Sensors be purchased directly from the market for 10, or as a reusable blueprint for 100.
@@ -6727,16 +6718,17 @@ Taveuni in the Kuva Fortress is also an effective place to farm them.
 Also a place for Kuva
 Distilling Extractors are also a good way to farm Neural Sensors with little effort, though it should be noted that Neural Sensors are not guaranteed.
 Io, Jupiter can net a few Neural Sensors with a Nekros using Desecrate, but it isn't effective.
+
+### Wiki
+In-Game Description
+Neural Sensors are a rare resource that can be found on Jupiter and in the Kuva Fortress. Neural Sensors can also be acquired from certain Assassination targets. It is usually found in quantities of 1 to 2.
 **Type:** Resource
 
 ## Neurodes
 Biotech sensor organ harvested from Infested entities.
 Location: Earth, Lua, Eris, and Deimos
 
-### Wiki
-In-Game Description
-Neurodes are a rare resource that can be found on Earth, Deimos, Eris and Lua.
-**Acquisition:**
+### Acquisition
 Market
 In-Game Description
 Neurodes can be purchased directly from the market for 10, or as a reusable blueprint for 100.
@@ -6751,6 +6743,10 @@ Plato (Lua) guarantees a spawn of Sentient within the first couple of minutes. T
 Playing the assassination node of Lephantis (Magnacidium on Deimos) is one of the easiest ways to acquire Neurodes (1-2 average every run).
 Newer players might find it helpful to search missions in Earth for Neuroptic Masses, the resource container for Neurodes. The chance for enemies to drop Neurodes is very low, making it worth spending time to search for the containers instead.
 Fortuna Bounty 40-60 has a chance to give a reward of Neurodes in the first mission.
+
+### Wiki
+In-Game Description
+Neurodes are a rare resource that can be found on Earth, Deimos, Eris and Lua.
 **Trivia:**
 The singular form of Neurodes is Neurodes, according to the game.
 The descriptions of Neural Sensors and Neurodes were swapped several times, at one point completely reversing what the components clearly were. This was finally reverted in Update 15.16.2 to properly fit their obvious designs.
@@ -6761,12 +6757,13 @@ Prior to the removal of Trials, a reusable Neurodes blueprint could be acquired 
 ## Nidus Prime Theme
 Nidus Prime's signature theme music to enjoy from the Somachord in your Orbiter.
 
-### Wiki
-Nidus Prime Theme is the soundtrack featured in Nidus Prime's Prime Access Trailer.
-**Acquisition:**
+### Acquisition
 The Somachord version of the theme can be bought from Varzia for 5 Aya.
 Sample
 NidusPrime.ogg
+
+### Wiki
+Nidus Prime Theme is the soundtrack featured in Nidus Prime's Prime Access Trailer.
 **Type:** Misc | **Tradable**
 
 ## Nightwatchfusionbundle
@@ -6777,10 +6774,7 @@ Consumed in the fusion process to power up existing Mods.
 Each vial is produced by the painstaking expression of billions of rare, ocean-vent dwelling microorganisms.
 Location: Nightwave Cred Offerings
 
-### Wiki
-In-Game Description
-Nitain Extract is a special resource that can be only obtained in few ways and is required to craft many Warframe components and helmets, and some other items (such as weapons, cosmetics, modules and enhancements).
-**Acquisition:**
+### Acquisition
 Primarily obtained from Nightwave Offerings for 15 per x5. This is an "evergreen" offering and is always available for purchase in unlimited quantities.
 Other possible sources:
 0.67-2% (planet-dependent) drop chance in Resource Cache Rotation C reward (i.e. finding all three caches) in Reactor Sabotage and Exterminate.
@@ -6791,6 +6785,10 @@ Rarely available from Gift from the Lotus alerts.
 Item Checklist for
 checklist
 42.0.6
+
+### Wiki
+In-Game Description
+Nitain Extract is a special resource that can be only obtained in few ways and is required to craft many Warframe components and helmets, and some other items (such as weapons, cosmetics, modules and enhancements).
 **Trivia:**
 Associated files in the game and the Warframe Companion app refer to Nitain Extract as Alertium.
 The description of harvesting Nitain is based from the method of recycling greenhouse compounds from germinated colonies underwater as another source of fuel, specifically Methane.
@@ -6824,12 +6822,7 @@ The description of harvesting Nitain is based from the method of recycling green
 A mushroom of unknown origin or effect. Take it to Nightcap in the airlock for further information.
 Location: Deepmines Bounties on Venus
 
-### Wiki
-In-Game Description
-Nonono is a Deepmines mushroom resource.
-Item Checklist for
-40
-**Acquisition:**
+### Acquisition
 can be harvested in the Deepmines Nutrient Plant of Weed The Garden Deepmines Bounty.
 May be awarded randomly as a bonus bounty reward at the end of the mission, appearing just beside the extraction elevator.
 Can be purchased for 10 Fergolyte from Nightcap, requiring Rank 2 - Curious.
@@ -6837,6 +6830,11 @@ Mechanics
 Upon pickup, weapons inflict Void Damage for 90 seconds. Player is surrounded by Void energy, an audible laugher plays on pickup, and buff description reads "Is someone watching?"
 Field Guide
 Picking up Nonono will unlock Field Guide flavor text from Nightcap.
+
+### Wiki
+In-Game Description
+Nonono is a Deepmines mushroom resource.
+Item Checklist for
 **Type:** Misc
 
 ## Nora's Choice Cred
@@ -6921,12 +6919,13 @@ Whenever I’m feeling numb
 ## Oberon Prime Theme
 Oberon Prime's signature theme music to enjoy from the Somachord in your Orbiter.
 
-### Wiki
-Oberon Prime Theme is the soundtrack featured in Oberon Prime's Prime Access Trailer.
-**Acquisition:**
+### Acquisition
 The Somachord version of the theme can be bought from Varzia for 5 Aya.
 Sample
 OberonPrime.ogg
+
+### Wiki
+Oberon Prime Theme is the soundtrack featured in Oberon Prime's Prime Access Trailer.
 **Trivia:**
 This music contains samples from Red Broth and This Is What You Are.
 **Type:** Misc | **Tradable**
@@ -6934,12 +6933,13 @@ This music contains samples from Red Broth and This Is What You Are.
 ## Octavia Prime Theme
 Octavia Prime's signature theme music to enjoy from the Somachord in your Orbiter.
 
-### Wiki
-Octavia Prime Theme is the soundtrack featured in Octavia Prime's Prime Access Trailer.
-**Acquisition:**
+### Acquisition
 The Somachord version of the theme can be bought from Varzia for 5 Aya.
 Sample
 OctaviaPrime.ogg
+
+### Wiki
+Octavia Prime Theme is the soundtrack featured in Octavia Prime's Prime Access Trailer.
 **Type:** Misc | **Tradable**
 
 ## Omega Beacon
@@ -6982,10 +6982,7 @@ Archive detailing the locations of hidden Archwing technology
 ## Orokin Catalyst
 Orokin modification technology used to super-charge weaponry. Doubles the available Mod Capacity on a Weapon.
 
-### Wiki
-In-Game Description
-Orokin Catalyst is an item used to supercharge all Weapons, including Archguns, Archmelee, or Sentinel Weapons, doubling their mod capacity.
-**Acquisition:**
+### Acquisition
 Completed
 Purchased from the Market for 20
 Nightwave Offerings for 75.
@@ -7011,17 +7008,17 @@ Using Orokin Catalyst on Equipment
 thumb|350px|How to install an Orokin Catalyst
 To apply an Orokin Catalyst, go to the Arsenal and access the desired item's Mod loadout. Select Action at the bottom of the screen and select Upgrade.
 An applied Orokin Catalyst will double the weapon's mod capacity. For an MR 10 player, an unranked weapon with a Catalyst installed will have a capacity of 20, which will increase to 60 at rank 30. Catalysts can only be applied once, and cannot be removed once installed.
+
+### Wiki
+In-Game Description
+Orokin Catalyst is an item used to supercharge all Weapons, including Archguns, Archmelee, or Sentinel Weapons, doubling their mod capacity.
 **Type:** Misc
 
 ## Orokin Cell
 Ancient energy cell from the Orokin era.
 Location: Ceres, Saturn, and Deimos
 
-### Wiki
-In-Game Description
-An Orokin Cell is a rare resource that can be found on Saturn, Ceres, and Deimos. It is usually found in quantities of 1-2.
-All bosses (including the Stalker) have a chance to drop an Orokin Cell after being defeated, as do Sentient enemies.
-**Acquisition:**
+### Acquisition
 Market
 In-Game Description
 Orokin Cells can be purchased directly from the market for 10, or as a reusable blueprint for 100.
@@ -7030,6 +7027,11 @@ checklist
 42.0.6
 Farming Locations
 Piscinas
+
+### Wiki
+In-Game Description
+An Orokin Cell is a rare resource that can be found on Saturn, Ceres, and Deimos. It is usually found in quantities of 1-2.
+All bosses (including the Stalker) have a chance to drop an Orokin Cell after being defeated, as do Sentient enemies.
 **Trivia:**
 Orokin Cell actually have the same icon as Orokin Catalyst and Orokin Reactor albeit flipped, resized and recolored, but looks different as a deposit and decoration.
 Sometimes referred to as a "Raw Potato" or "Potato Seed" by the community, referencing how Orokin Catalysts and Orokin Reactors are called 'Potatoes'.
@@ -7044,13 +7046,14 @@ Patch Notes
 This device is used to bypass Orokin encryptions.
 Location: Orokin Derelict Vaults on Deimos once opened with a Dragon Key
 
-### Wiki
-In-Game Description
-Orokin Cipher is a resource that can be used to feed the Helminth to gain Bile.
-**Acquisition:**
+### Acquisition
 One Orokin Cipher (along with a random Corrupted Mod) is obtained by opening an Orokin Vault in an Orokin Derelict tileset mission on Deimos.
 Item Checklist for
 Orokin Cipher is currently not used for anything. It is only used as a Bile food for Helminth.
+
+### Wiki
+In-Game Description
+Orokin Cipher is a resource that can be used to feed the Helminth to gain Bile.
 **Notes:**
 Ciphers are a guaranteed reward if players successfully open an Orokin Vault and deliver the Orokin Artifact to extraction. One Cipher per player is rewarded per run.
 **Trivia:**
@@ -7080,10 +7083,7 @@ In Update 15.8, Ducats were represented as Forma when seen in the inventory menu
 ## Orokin Reactor
 Reactor used to super-charge Warframes. Doubles the available Mod Capacity on a Warframe, Archwing, and Companions.
 
-### Wiki
-In-Game Description
-The Orokin Reactor is an item used to supercharge Warframes, Archwings, K-Drives, Necramechs, and Companions, doubling their mod capacity.
-**Acquisition:**
+### Acquisition
 Completed
 Purchased from the Market for 20
 Nightwave Offerings for 75.
@@ -7107,6 +7107,10 @@ Using Orokin Reactor on Equipment
 thumb|350px|How to install an Orokin Reactor
 To apply an Orokin Reactor, go to the Arsenal and access the desired item's Mod loadout. Select Action at the bottom of the screen and select Upgrade.
 An applied Orokin Reactor will double the equipment's mod capacity. A rank 1 equipment with a Reactor installed will have a capacity of 2, which will increase to 60 at rank 30. Reactors can only be applied once.
+
+### Wiki
+In-Game Description
+The Orokin Reactor is an item used to supercharge Warframes, Archwings, K-Drives, Necramechs, and Companions, doubling their mod capacity.
 **Type:** Misc
 
 ## Orokincatalystblueprint
@@ -7195,11 +7199,7 @@ There's more than one band out there! Relive the events of 1999 with these track
 Kaya Velasco in the Höllvania Mall accepts these Pix Chips in exchange for Peely Paks.
 Location: Elite Temporal Archimedea (Höllvania) and duplicate Peely Pix.
 
-### Wiki
-Kaya Velasco in the Höllvania Mall accepts these Pix Chips in exchange for Peely Paks.
-Pix Chip are a rare resource found in Höllvania. They can be earned by Temporal Archimedea.
-They are used to buy offerings from Kaya.
-**Acquisition:**
+### Acquisition
 Awarded from Temporal Archimedea with certain research points.
 28 Points (Elite): Pix Chip x 6
 37 Points (Elite): Pix Chip x 9
@@ -7212,13 +7212,12 @@ Usage
 Pix Chips can be traded to Kaya for Peely Paks, Vosfor Cache (200), Display - Peely Pix decoration, and Arcane Enhancements Arcane Universal Fallout, Arcane Hot Shot, and Arcane Escapist.
 Arcanes have a weekly purchase limit of 1.
 PixChip
-10
-6
-10
-5
-5
-5
 __forcetoc__
+
+### Wiki
+Kaya Velasco in the Höllvania Mall accepts these Pix Chips in exchange for Peely Paks.
+Pix Chip are a rare resource found in Höllvania. They can be earned by Temporal Archimedea.
+They are used to buy offerings from Kaya.
 **Type:** Misc
 
 ## Plastids
@@ -7319,15 +7318,16 @@ The metal plate on the front of the container reads cargo room 0 which translite
 ## Proof Fragment
 One part of a long lost mathematical proof.
 
-### Wiki
-thumb|220x220px|A Proof Fragment being collected in the Archwing mission in Mars.
-Proof Fragments are quest items required to construct the Limbo Theorem key (not to be confused with the quest key).
-**Acquisition:**
+### Acquisition
 They can be obtained by killing the enemies from the quest, where the fragments take up the form of Nav Coordinates. A total of 9 fragments are required to build all the keys needed to complete the quest.
 Characteristics
 Supposedly, these fragments transmit the signals all across the system and may be found by investigating the wavelength. It is described by Ordis that the frequency--while constant, is far too weak to be caught by the Orbiter's antenna and that it would require a sophisticated antenna to fully catch the wave such as the satellite found in the Archwing Interception mission.
 In a way, the Proof Fragments themselves can be interpreted as the remains and the relic of the original Limbo in the form similar to cosmic background radiation, as the fragments can be engineered into a theorem which leads into another Limbo piece.
 Proof Fragments can be sold from your inventory for 750 each. Any Fragments beyond the 3 needed to complete the quest can be safely sold.
+
+### Wiki
+thumb|220x220px|A Proof Fragment being collected in the Archwing mission in Mars.
+Proof Fragments are quest items required to construct the Limbo Theorem key (not to be confused with the quest key).
 **Type:** Misc | **Tradable**
 
 ## Protea Prex
@@ -7370,41 +7370,42 @@ Consumed in the fusion process to power up existing Mods.
 Crystalline symmetry, a far cry from its corrupt origin.
 Blueprint sold by Otak in the Necralisk on Deimos.
 
-### Wiki
-In-game description
-Purged Dagonic is a resource crafted from Dagonic. Each build yields 10 Purged Dagonic.
-**Acquisition:**
+### Acquisition
 The reusable blueprint can be purchased from Otak for 1,000 Standing, requiring Rank 0 - Neutral with the Entrati.
 Item Checklist for
 38.0.12
-29
+
+### Wiki
+In-game description
+Purged Dagonic is a resource crafted from Dagonic. Each build yields 10 Purged Dagonic.
 **Type:** Cut Gem | **Tradable**
 
 ## Purified Heciphron
 Extracted from the Infestation and cut into a prestigious gem.
 Blueprint sold by Otak in the Necralisk on Deimos.
 
-### Wiki
-In-game description
-Purified Heciphron is a resource crafted from Heciphron. Each build yields 10 Purified Heciphron.
-**Acquisition:**
+### Acquisition
 The reusable blueprint can be purchased from Otak for 2,000 Standing, requiring Rank 1 - Stranger with the Entrati.
 Item Checklist for
 38.0.12
-29
+
+### Wiki
+In-game description
+Purified Heciphron is a resource crafted from Heciphron. Each build yields 10 Purified Heciphron.
 **Type:** Cut Gem | **Tradable**
 
 ## Pyrotic Alloy
 Pyrol that has been forged into a stronger metal.
 Blueprint sold by Old Man Suumbaat in Cetus on Earth.
 
-### Wiki
-In-game description
-Pyrotic Alloy is a resource crafted from Pyrol. Each build yields 20 Pyrotic Alloy.
-**Acquisition:**
+### Acquisition
 The reusable blueprint can be purchased from Old Man Suumbaat for 500 Standing, requiring the rank of Neutral with the Ostron.
 Item Checklist for
 40.0.5.1
+
+### Wiki
+In-game description
+Pyrotic Alloy is a resource crafted from Pyrol. Each build yields 20 Pyrotic Alloy.
 **Trivia:**
 Pyrotic Alloy appears to be the WARFRAME equivalent of Pyrite, a pale gold colored iron sulfide mineral.
 **Type:** Alloy
@@ -7412,10 +7413,11 @@ Pyrotic Alloy appears to be the WARFRAME equivalent of Pyrite, a pale gold color
 ## Radiant Eidolon Shard
 Rare shard gained from capturing the Sentients roaming the Plains of Eidolon on Earth at night. Use it to gain Focus.
 
+### Acquisition
+Eidolon Gantulysts will drop one Radiant Shard while Eidolon Hydrolysts will drop two Radiant Shards if they are captured with charged Eidolon Lures at the final stage of the fight.
+
 ### Wiki
 The Radiant Eidolon Shard is a resource that can be converted into 40,000 Focus points for any unlocked Focus School.
-**Acquisition:**
-Eidolon Gantulysts will drop one Radiant Shard while Eidolon Hydrolysts will drop two Radiant Shards if they are captured with charged Eidolon Lures at the final stage of the fight.
 **Notes:**
 Necessary in order to summon the Hydrolyst at the Eidolon shrine, provided the Gantulyst was captured successfully.
 Radiant Eidolon Shards can be converted into 40,000 Focus in the respective Base of Operations transference interaction screen. To do so, players can go to Focus Conversion to the lower right corner of the screen when viewing an unlocked school's ability tree, then selecting how many Shards they want to redeem.
@@ -7427,13 +7429,14 @@ __forcetoc__
 Polished and cut to perfection.
 Blueprint sold by Smokefinger in Fortuna on Venus.
 
-### Wiki
-In-game Description
-Radiant Zodian is a resource crafted from Zodian. Each build yields 3 Radiant Zodian.
-**Acquisition:**
+### Acquisition
 The reusable blueprint can be purchased from Smokefinger for 8,000 Standing, requiring the rank of Rank 3 Doer with Solaris United.
 Item Checklist for
 38.0.12
+
+### Wiki
+In-game Description
+Radiant Zodian is a resource crafted from Zodian. Each build yields 3 Radiant Zodian.
 **Type:** Cut Gem | **Tradable**
 
 ## Railjack Retrofit Login Music
@@ -7487,22 +7490,20 @@ Location: Deepmines Bounties on Venus
 ## Revenant Prime Theme
 Revenant Prime's signature theme music to enjoy from the Somachord in your Orbiter.
 
-### Wiki
-Revenant Prime Theme is the soundtrack featured in Revenant Prime's Prime Access Trailer.
-**Acquisition:**
+### Acquisition
 The Somachord version of the theme can be bought from Varzia for 5 Aya.
 Sample
 RevenantPrime.ogg
+
+### Wiki
+Revenant Prime Theme is the soundtrack featured in Revenant Prime's Prime Access Trailer.
 **Type:** Misc | **Tradable**
 
 ## Riven Sliver
 A fragment of a sundered Riven. It is known that, with enough slivers, Palladino is capable of reforging a complete Riven. Find her in the Iron Wake (Earth) after completing The Chains of Harrow quest.
 Location: Eximus units and Requiem Relics
 
-### Wiki
-In-game Description
-Riven Sliver is a fragmented part of a Riven Mod.
-**Acquisition:**
+### Acquisition
 Opening Requiem Relics in Void Fissures
 Empyrean missions
 1 as a potential drop (5% chance) by a level 41 or higher Jackal (Sortie, The Steel Path)
@@ -7516,6 +7517,10 @@ In Abyssal Zone missions, Orokin Defixios with the "Eximus Stronghold" condition
 In Höllvania missions, Eximus units spawn at an increased rate, increasing your chances of getting Riven Slivers. This is further increased in Faceoff where opponents can spawn 5 Eximus units with Eximus Influx.
 Usage
 Riven Slivers can be traded to Palladino in Iron Wake on Earth after completion of Chains of Harrow. Many items have weekly purchase limits: Requiem Relics have a purchase limit of 10 per week, Riven Transmuter have a purchase limit of 3 per week, while the Credits, Endo, Kuva, Requiem Ultimatum, Rivens, and Veiled Riven Cipher can only be purchased once per week. Purchase limits reset on Monday 00:00 UTC.
+
+### Wiki
+In-game Description
+Riven Sliver is a fragmented part of a Riven Mod.
 **Type:** Resource
 
 ### Drop Sources
@@ -7633,12 +7638,13 @@ Orokin Void Survival and Defense missions will yield more than 1,000+ per 20 min
 ## Rush Repair Drone
 This single-use item instantly repairs a damaged component or armament in the Dry Dock.
 
-### Wiki
-Rush Repair Drone is a consumable item that instantly builds the selected Railjack component or armament, bypassing the repair time and resource cost.
-**Acquisition:**
+### Acquisition
 Can be earned as a reward at the end of Empyrean missions within the Veil Proxima with a 0.5% drop chance.
 One drone was awarded to players who have partially completed the Rising Tide quest prior to Update 27.2.
 Two drones were awarded to players who have fully completed the Rising Tide quest prior to Update 27.2.
+
+### Wiki
+Rush Repair Drone is a consumable item that instantly builds the selected Railjack component or armament, bypassing the repair time and resource cost.
 **Notes:**
 This will not speed up Railjack repairs during the Rising Tide quest.
 **Trivia:**
@@ -7757,13 +7763,14 @@ Sisters of Parvos login music to enjoy from the Somachord in your Orbiter.
 Polished and cut to perfection.
 Blueprint sold by Smokefinger in Fortuna on Venus.
 
-### Wiki
-In-game Description
-Smooth Phasmin is a resource crafted from Phasmin. Each build yields 10 Smooth Phasmin.
-**Acquisition:**
+### Acquisition
 The reusable blueprint can be purchased from Smokefinger for 1,000 Standing, requiring the rank of Neutral with Solaris United.
 Item Checklist for
 38.0.12
+
+### Wiki
+In-game Description
+Smooth Phasmin is a resource crafted from Phasmin. Each build yields 10 Smooth Phasmin.
 **Type:** Cut Gem | **Tradable**
 
 ## Sol-Battery Widget
@@ -7781,14 +7788,15 @@ Recharges Synthesis Scanner charges.
 Neural fibers sampled from an early Warframe prototype and preserved in a stabilized cerebral fluid.
 Location: Demolishers on Apollo (Lua), and Conjunction Survival Missions (Lua)
 
-### Wiki
-In-Game Description
-Somatic Fibers are a resource introduced in Update 25.7.
-**Acquisition:**
+### Acquisition
 Dropped by Demolisher enemies (Demolisher Anti MOA, Demolisher Hyena, Demolisher Machinist, and Demolisher Bursa) in Lua Disruption at a 15% chance.
 Rotation A reward from Conjunction Survival.
 Item Checklist for
 38.0.12
+
+### Wiki
+In-Game Description
+Somatic Fibers are a resource introduced in Update 25.7.
 **Trivia:**
 The term somatic comes from an Ancient Greek word 'σῶμα', pronounced soma, which means body.
 According to the Vitruvian found during The Sacrifice quest, all of the early Warframes were deemed a failure and destroyed by the Orokin.
@@ -7811,7 +7819,6 @@ Location: Errant Specters in the Granum Void (Corpus Ship Tileset)
 In-game Description
 Spectral Debris is a resource that can be obtained by defeating Errant Specters (5% chance) in Granum Void. They are used in building components for the modular Hound companions.
 Item Checklist for
-41
 **Type:** Resource
 
 ### Drop Sources
@@ -7821,12 +7828,7 @@ Item Checklist for
 A volatile mushroom with an acrid odor similar to freshly detonated explosives. Take it to Nightcap in the airlock for further information.
 Location: Deepmines Bounties on Venus
 
-### Wiki
-In-Game Description
-Spring Popper is a Deepmines mushroom resource.
-Item Checklist for
-40
-**Acquisition:**
+### Acquisition
 can be harvested in the Deepmines Forward Base of Corporate Restructuring Deepmines Bounty.
 May be awarded randomly as a bonus bounty reward at the end of the mission, appearing just beside the extraction elevator.
 Can be purchased for 10 Fergolyte from Nightcap, requiring Rank 2 - Curious.
@@ -7834,6 +7836,11 @@ Mechanics
 Upon pickup, weapons inflict Blast Damage. Enemies hit by weapons are thrown upwards with a Ragdoll effect.
 Field Guide
 Picking up Spring Popper will unlock Field Guide flavor text from Nightcap.
+
+### Wiki
+In-Game Description
+Spring Popper is a Deepmines mushroom resource.
+Item Checklist for
 **Type:** Misc
 
 ## Stable Corruptor
@@ -7856,39 +7863,42 @@ Producers: Erich Preston, Matthew Chalmers
 Polished and cut to perfection.
 Blueprint sold by Smokefinger in Fortuna on Venus.
 
-### Wiki
-In-game Description
-Star Amarast is a resource crafted from Amarast. Each build yields 6 Star Amarast.
-**Acquisition:**
+### Acquisition
 The reusable blueprint can be purchased from Smokefinger for 4,000 Standing, requiring the rank of Rapscallion with Solaris United.
 Item Checklist for
 40.0.5.1
+
+### Wiki
+In-game Description
+Star Amarast is a resource crafted from Amarast. Each build yields 6 Star Amarast.
 **Type:** Cut Gem | **Tradable**
 
 ## Stellated Necrathene
 A prismatic refinement of raw Necrathene, highly sought after.
 Blueprint sold by Otak in the Necralisk on Deimos.
 
-### Wiki
-In-game description
-Stellated Necrathene is a resource crafted from Necrathene. Each build yields 6 Stellated Necrathene.
-**Acquisition:**
+### Acquisition
 The reusable blueprint can be purchased from Otak for 4,000 Standing, requiring Rank 2 - Acquaintance with the Entrati.
 Item Checklist for
 38.0.12
+
+### Wiki
+In-game description
+Stellated Necrathene is a resource crafted from Necrathene. Each build yields 6 Stellated Necrathene.
 **Type:** Cut Gem | **Tradable**
 
 ## Stock
 Chipper's current Stock level. Raise his Stock level by completing Kahl's Break Narmer missions.
 
-### Wiki
-In-Game Description
-Stock is a special resource used to buy wares from Chipper.
-**Acquisition:**
+### Acquisition
 Stock is obtained from completing Break Narmer's bonus challenges. Rewards are one-time per week, resetting on Monday 00:00 UTC; a total of 105 Stock is obtainable per week.
 Stock can spawn in Break Narmer missions as a pickup, appearing as a blue crate each awarding 2 Stock. 8 to 12 boxes can spawn in a mission, but only 5 can be picked up before the rest vanish, awarding 10 Stock per mission, and requires the player to complete the mission to claim them. Stock boxes will respawn on replays.
 Usage
 Chipper#Offerings
+
+### Wiki
+In-Game Description
+Stock is a special resource used to buy wares from Chipper.
 **Notes:**
 To purchase all non-rotating offerings from Chipper at least once, players need 980 Stock (Kahl).
 Purchasing all rotating offerings at least once will require 270 Stock (Kahl), for a total of 1,250 Stock (Kahl).
@@ -7973,10 +7983,7 @@ Prior to Update 24.4, Synthula was a possible reward during Survival, Defense, a
 This rare metal is foreign to the Origin System and can only be found in asteroids that have made the long journey from other stars.
 Location: Archwing Missions on Uranus
 
-### Wiki
--In-Game Description
-Tellurium is a rare resource that can be found in Archwing missions. Tellurium can also be acquired from enemies encountered in any tileset that contain the tag Submersible, or as a Daily Tribute.
-**Acquisition:**
+### Acquisition
 Rare drop from enemy units in Empyrean (including warframe sections), Archwing, Grineer Sealab missions and Kuva Fortress Assault missions.
 Tellurium is available from Resource Caches in Grineer Reactor Sabotage missions, as well as the Kuva Fortress' Assault mission.
 Market
@@ -7987,6 +7994,10 @@ Item Checklist for
 Farming Locations
 Lu-yan
 Note: Steel Path grants much higher enemy density and +100% resource drop chance. Anecdotally this turns out to be around 4x higher drop rate on Ophelia.
+
+### Wiki
+-In-Game Description
+Tellurium is a rare resource that can be found in Archwing missions. Tellurium can also be acquired from enemies encountered in any tileset that contain the tag Submersible, or as a Daily Tribute.
 **Trivia:**
 Tellurium (symbol: Te) is the 52nd element in the periodic table. Its in-game description alludes to the fact that Tellurium is believed to be more common in the universe than it is on Earth.
 In real life, Tellurium is silver-white in color as opposed to red.
@@ -8024,10 +8035,11 @@ External Links
 ## Tethra Data Fragments
 Intercepted encrypted fragment of Grineer communications.
 
+### Acquisition
+Upon completing the Tethra's Doom Interception mission on Earth, players will be awarded two fragments regardless of how long they play per session.
+
 ### Wiki
 Tethra Data Fragment was a special resource introduced in the event Tethra's Doom. It is used for crafting the Tethra Cipher and Tethra Shield Cipher.
-**Acquisition:**
-Upon completing the Tethra's Doom Interception mission on Earth, players will be awarded two fragments regardless of how long they play per session.
 **Type:** Misc
 
 ## The Awakening
@@ -8142,12 +8154,7 @@ After advancing through the forest, the Tenno come across the Mod segment but ar
 Avoid stepping on this sharp, spear-like mushroom cap. Take it to Nightcap in the airlock for further information.
 Location: Deepmines Bounties on Venus
 
-### Wiki
-In-Game Description
-Thorn Tooth is a Deepmines mushroom resource.
-Item Checklist for
-40
-**Acquisition:**
+### Acquisition
 can be harvested in the Deepmines Nutrient Plant of Weed The Garden Deepmines Bounty.
 May be awarded randomly as a bonus bounty reward at the end of the mission, appearing just beside the extraction elevator.
 Can be purchased for 10 Fergolyte from Nightcap at Rank 0 - Neutral.
@@ -8155,18 +8162,18 @@ Mechanics
 Upon pickup, weapons inflict Puncture Damage. Both the player and any enemies they damage will be impaled with ethereal Skanas.
 Field Guide
 Picking up Thorn Tooth will unlock Field Guide flavor text from Nightcap.
+
+### Wiki
+In-Game Description
+Thorn Tooth is a Deepmines mushroom resource.
+Item Checklist for
 **Type:** Misc
 
 ## Thunder-Button
 This fungus appears to emit an electric charge. Take it to Nightcap in the airlock for further information.
 Location: Deepmines Bounties on Venus
 
-### Wiki
-In-Game Description
-Thunder-Button is a Deepmines mushroom resource.
-Item Checklist for
-40
-**Acquisition:**
+### Acquisition
 can be harvested in the Deepmines Labs of the Critter Liberation Deepmines Bounty.
 May be awarded randomly as a bonus bounty reward at the end of the mission, appearing just beside the extraction elevator.
 Can be purchased for 10 Fergolyte from Nightcap, requiring Rank 1 - Unknowing.
@@ -8174,6 +8181,11 @@ Mechanics
 Upon pickup, weapons inflict Electricity Damage. The player's movement speed and melee attack speed increases, as if under the effects of Speed.
 Field Guide
 Picking up Thunder-Button will unlock Field Guide flavor text from Nightcap.
+
+### Wiki
+In-Game Description
+Thunder-Button is a Deepmines mushroom resource.
+Item Checklist for
 **Type:** Misc
 
 ## Titania Prex
@@ -8186,14 +8198,14 @@ Picking up Thunder-Button will unlock Field Guide flavor text from Nightcap.
 Facets gleam with the un-light of the Void.
 Blueprint sold by Otak in the Necralisk on Deimos.
 
+### Acquisition
+The reusable blueprint can be purchased from Otak for 8,000 Standing, requiring Rank 3 - Associate with the Entrati.
+Item Checklist for
+29.0.7
+
 ### Wiki
 In-game description
 Trapezium Xenorhast is a resource crafted from Xenorhast. Each build yields 3 Trapezium Xenorhast.
-**Acquisition:**
-The reusable blueprint can be purchased from Otak for 8,000 Standing, requiring Rank 3 - Associate with the Entrati.
-Item Checklist for
-40
-29.0.7
 **Type:** Cut Gem | **Tradable**
 
 ## Uncommonfusionbundle
@@ -8209,15 +8221,15 @@ Arbitrations are challenging endless missions variants with greater rewards.
 The rare thorn of an extinct rose, and a vital component in Orokin Defixios and other technology. Last seen near the Abyssal Zone.
 Location: Abyssal Zone on Ceres (requires Abyssal Beacons to access)
 
-### Wiki
-In-game Description
-Vainthorn is a special resource from the Abyssal Zone used in Dagath's and Dorrclave's construction.
-**Acquisition:**
+### Acquisition
 Vainthorn are an award from the Abyssal Zone on Ceres. Access to the Abyssal Zone requires Abyssal Beacons, which can be purchased from any of the six main Syndicates (Steel Meridian, Arbiters of Hexis, Cephalon Suda, The Perrin Sequence,Red Veil, or New Loka) at Rank 2 for 5000 Standing.
 Upon mission completion, one Abyssal Beacon is consumed from the player who started the mission vote.
 Vainthorns are awarded upon mission completion: 6, 7, or 8 are gained normally, with 8, 11, or 12 gained in The Steel Path. These amounts are not affected by Resource Booster or the retrieval of multiple Defixio.
 Item Checklist
-41
+
+### Wiki
+In-game Description
+Vainthorn is a special resource from the Abyssal Zone used in Dagath's and Dorrclave's construction.
 **Type:** Misc
 
 ### Drop Sources
@@ -8239,12 +8251,13 @@ See Varzia to trade Aya and Regal Aya for exclusive Gear.
 ## Vauban Prime Theme
 Vauban Prime's signature theme music to enjoy from the Somachord in your Orbiter.
 
-### Wiki
-Vauban Prime Theme is the soundtrack featured in Vauban Prime's Prime Access Trailer.
-**Acquisition:**
+### Acquisition
 The Somachord version of the theme can be bought from Varzia for 5 Aya.
 Sample
 VaubanPrime.ogg
+
+### Wiki
+Vauban Prime Theme is the soundtrack featured in Vauban Prime's Prime Access Trailer.
 **Trivia:**
 This music contains samples from Corpus Greed and This Is What You Are.
 **Type:** Misc | **Tradable**
@@ -8268,25 +8281,22 @@ The Veilbreaker login music to enjoy from the Somachord in your Orbiter.
 ## Veiled Riven Cipher
 Use this cipher to instantly complete one Veiled Riven Challenge at the cost of consuming the cipher.
 
-### Wiki
-In-game Description
-The Veiled Riven Cipher is an item that can be used to bypass a Veiled Riven Challenge. Once used, the Riven Mod is unlocked and the Riven Cipher is consumed.
-**Acquisition:**
+### Acquisition
 Veiled Riven Ciphers can be purchased from Teshin's Steel Path Honors Shop for 20 Steel Essence and Palladino's Riven Sliver Wares for 10 Riven Sliver at any time, although only once per week for each vendor.
 Can be a reward from Gift from the Lotus alerts.
 Can be purchased from the Market for 20.
 __forcetoc__
+
+### Wiki
+In-game Description
+The Veiled Riven Cipher is an item that can be used to bypass a Veiled Riven Challenge. Once used, the Riven Mod is unlocked and the Riven Cipher is consumed.
 **Type:** Misc
 
 ## Violet's Bane
 This multi-capped mushroom should probably not be ingested. Take it to Nightcap in the airlock for further information.
 Location: Deepmines Bounties on Venus
 
-### Wiki
-In-Game Description
-Violet's Bane is a Deepmines mushroom resource.
-Item Checklist for
-**Acquisition:**
+### Acquisition
 can be harvested in the entrance caves of all Deepmines Bounties.
 May be awarded randomly as a bonus bounty reward at the end of the mission, appearing just beside the extraction elevator.
 Can be purchased for 10 Fergolyte from Nightcap, requiring Rank 2 - Curious.
@@ -8294,6 +8304,11 @@ Mechanics
 Upon pickup, weapons inflict Viral Damage. Spawns four Clems that follow the player, but their gunfire will harmlessly phase through enemies.
 Field Guide
 Picking up Violet's Bane will unlock Field Guide flavor text from Nightcap.
+
+### Wiki
+In-Game Description
+Violet's Bane is a Deepmines mushroom resource.
+Item Checklist for
 **Type:** Misc
 
 ## Vista Suite Key
@@ -8307,10 +8322,7 @@ Opens the Dormizone's luxurious Vista Suite where residents can enjoy Vistagraph
 Awarded by the Arbiters of Hexis to the few Tenno capable of surviving Arbitration.
 Location: Arbitration Missions
 
-### Wiki
-In-game description
-Vitus Essence is a special resource obtained from Arbitrations.
-**Acquisition:**
+### Acquisition
 Vitus Essence is primarily obtained from Arbitrations:
 1 Vitus is guaranteed from completing a rotation, separate from the reward table.
 Each rotation has a 10% chance to award 3 Vitus from the reward table.
@@ -8321,6 +8333,10 @@ Arbiters of Hexis#Arbitration Honors
 Ephemeras
 Vitus Essence is also used to craft Ephemeras of the Body and Step series.
 blueprint-list
+
+### Wiki
+In-game description
+Vitus Essence is a special resource obtained from Arbitrations.
 **Notes:**
 To buy all items at least once, players will need 1,125 Vitus Essence. frame|Vitus drop.
 For only store-exclusive items, players will need 905 Vitus Essence.
@@ -8350,10 +8366,7 @@ they cannot be hurt by any ability, even Exalted Weapons.
 A substance used to increase the power within Relics.
 Location: Void Fissure Missions
 
-### Wiki
-In-Game Description
-Void Traces are a resource found in Void Fissures, used to refine Void Relics or create Dragon Keys.
-**Acquisition:**
+### Acquisition
 Void Traces are primarily obtained by collecting Reactant in Void Fissure missions, which drops from Corrupted enemies, awarding 6-30 Void Traces upon collection of the 10th Reactant. Players are not required to have a Void Relic equipped to obtain Traces.
 When selecting opened Void Relic rewards, the player owning an opened relic gains 5 Void Traces per teammate (excluding self) who picks the reward that came out from that player's relic (thus up to a total of 15 Traces if the whole team picks the reward coming out from the same relic).
 Granum Void Rank 1 reward contains 5/10/15 Void Traces for Normal/Extended/Nightmare Tiers.
@@ -8366,6 +8379,10 @@ Necraloid standing requires a considerable amount of Void Traces (150, 250, and 
 Item Checklist
 38.0.12
 Gathering Tips
+
+### Wiki
+In-Game Description
+Void Traces are a resource found in Void Fissures, used to refine Void Relics or create Dragon Keys.
 **Type:** Resource
 
 ### Drop Sources
@@ -8377,12 +8394,7 @@ Gathering Tips
 A peculiar looking mushroom that seems not of this world. Take it to Nightcap in the airlock for further information.
 Location: Deepmines Bounties on Venus
 
-### Wiki
-In-Game Description
-Vomval Trumpet is a Deepmines mushroom resource.
-Item Checklist for
-40
-**Acquisition:**
+### Acquisition
 can be harvested in the Deepmines Labs of the Critter Liberation Deepmines Bounty.
 May be awarded randomly as a bonus bounty reward at the end of the mission, appearing just beside the extraction elevator.
 Can be purchased for 10 Fergolyte from Nightcap, requiring Rank 2 - Curious.
@@ -8390,16 +8402,17 @@ Mechanics
 Upon pickup, weapons inflict Tau Damage. Spawns a false Eidolon Vomvalyst that floats near the player.
 Field Guide
 Picking up Vomval Trumpet will unlock Field Guide flavor text from Nightcap.
+
+### Wiki
+In-Game Description
+Vomval Trumpet is a Deepmines mushroom resource.
+Item Checklist for
 **Type:** Misc
 
 ## Vosfor
 Loid uses devices in Albrecht's Laboratory to reduce Arcanes to Vosfor, a potent powder for alchemical processes. Speak to Loid in the Sanctum Anatomica on Deimos to trade Vosfor for Arcanes he has stored in the laboratory.
 
-### Wiki
-Not to be confused with Fosfor.
-In-game description
-Vosfor is a resource introduced in Update 35 that is used for Arcane Dissolution.
-**Acquisition:**
+### Acquisition
 Loid of Cavia dissolves Arcane into Vosfor. Amount of Vosfor varies depending on the Arcane.
 Elite Archimedea awards Vosfor when qualifying for Research Points: 20 Vosfor for 28 points and 50 Vosfor for 37 points.
 Faceoff missions in Höllvania award varying amounts of Vosfor.
@@ -8410,6 +8423,11 @@ DissolutionTable
 getDissolutionTable
 Usage
 Arcane Enhancement#Dissolution
+
+### Wiki
+Not to be confused with Fosfor.
+In-game description
+Vosfor is a resource introduced in Update 35 that is used for Arcane Dissolution.
 **Type:** Misc
 
 ### Drop Sources
@@ -8434,12 +8452,7 @@ The Whispers in the Walls login music to enjoy from the Somachord in your Orbite
 This bizarre mushroom appears to be permanently frozen. Take it to Nightcap in the airlock for further information.
 Location: Deepmines Bounties on Venus
 
-### Wiki
-In-Game Description
-Winter Spear is a Deepmines mushroom resource.
-Item Checklist for
-40
-**Acquisition:**
+### Acquisition
 can be harvested in the Deepmines Forward Base of Corporate Restructuring Deepmines Bounty.
 May be awarded randomly as a bonus bounty reward at the end of the mission, appearing just beside the extraction elevator.
 Can be purchased for 10 Fergolyte from Nightcap, requiring Rank 1 - Unknowing.
@@ -8447,17 +8460,23 @@ Mechanics
 Upon pickup, weapons inflict Cold Damage. Greatly increases Movement Speed and Parkour Velocity, and greatly reduces Friction.
 Field Guide
 Picking up Winter Spear will unlock Field Guide flavor text from Nightcap.
+
+### Wiki
+In-Game Description
+Winter Spear is a Deepmines mushroom resource.
+Item Checklist for
 **Type:** Misc
 
 ## Wisp Prime Theme
 Wisp Prime's signature theme music to enjoy from the Somachord in your Orbiter.
 
-### Wiki
-Wisp Prime Theme is the soundtrack featured in Wisp Prime's Prime Access Trailer.
-**Acquisition:**
+### Acquisition
 The Somachord version of the theme can be bought from Varzia for 5 Aya.
 Sample
 WispPrime.ogg
+
+### Wiki
+Wisp Prime Theme is the soundtrack featured in Wisp Prime's Prime Access Trailer.
 **Type:** Misc | **Tradable**
 
 ## Wolf Cred

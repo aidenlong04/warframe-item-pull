@@ -1,26 +1,30 @@
 # Mechanics — Damage, Status Effects & Game Systems
-Format: Each ## is a mechanic or damage type. Content explains formulas, multipliers, status effects, scaling, and interactions.
-Sections: Wiki — Game Mechanics (28 entries) | Wiki — Damage Types (16 entries)
+FORMAT: Each ## is a mechanic or damage type. Content explains formulas, multipliers, status effects, scaling, and interactions.
+INDEX: Wiki — Game Mechanics (28 entries) | Wiki — Damage Types (16 entries)
 
 # Wiki — Game Mechanics
 In-depth game mechanic explanations from the Warframe wiki.
 
 ## Damage
-Damage (version 3.0) is a system that determines the damage done to a certain target by a given attacker. Damage results are modified by several mechanics – damage type modifiers (main content of this article), armor, critical hit bonuses, stealth bonuses, Warframe ability debuffs, body part modifiers, faction modifiers, and other sources of damage reduction – which are discussed below and on their respective pages.
-All damage dealt by any weapon or ability belongs to a certain damage type, and every target has specific resistances and vulnerabilities to different damage types. In-game, enemy resistances and vulnerabilities can be seen in the player's Codex after scanning at least one enemy of a particular type or by aiming at an enemy using the Synthesis Scanner with the Data-Parse Widget. Exploiting enemy vulnerabilities and avoiding resistances by means of weapon selection and mod installation may significantly improve players' damage output.
-Since its predecessor Damage 2.0, all different Health, Armor, and Shield types have been simplified into one type for each (e.g. Grineer's Cloned Flesh and Machinery is now just "Health", Ferrite Armor and Alloy Armor is now just "Armor", and Shield and Proto Shield is now just "Shield"). Vulnerabilities and resistances have also been decoupled from health types and are now solely based on the enemy Faction (e.g. all Grineer are now exclusively vulnerable to Impact and Corrosive at all times, regardless of the presence of armor or shields, and no longer have any resistances).
+Damage (version 3.0) is a system that determines the damage done to a certain target by a given attacker. Damage results are modified by several mechanics - damage type modifiers (main content of this article), armor, critical hit bonuses, stealth bonuses, Warframe ability debuffs, body part modifiers, faction modifiers, and other sources of damage reduction - which are discussed below and on their respective pages.
+All damage dealt by any weapon or ability belongs to a certain damage type, and every target has specific resistances and vulnerabilities to different damage types.
+In-game, enemy resistances and vulnerabilities can be seen in the player's Codex after scanning at least one enemy of a particular type or by aiming at an enemy using the Synthesis Scanner with the Data-Parse Widget.
+Exploiting enemy vulnerabilities and avoiding resistances by means of weapon selection and mod installation may significantly improve players' damage output.
+Since its predecessor Damage 2.0, all different Health, Armor, and Shield types have been simplified into one type for each (e.g.
+Grineer's Cloned Flesh and Machinery is now just "Health", Ferrite Armor and Alloy Armor is now just "Armor", and Shield and Proto Shield is now just "Shield").
+Vulnerabilities and resistances have also been decoupled from health types and are now solely based on the enemy Faction (e.g. all Grineer are now exclusively vulnerable to Impact and Corrosive at all times, regardless of the presence of armor or shields, and no longer have any resistances).
 Damage Display
 thumb|Three different color tiers of critical hits along with normal damage color
 Damage dealt from players to enemies is displayed on the HUD as numbers near the point of impact on an enemy. Damage dealt from enemies to players is displayed on the HUD both as a bent strip to indicate its direction of origin and as a reduction in shield or health Hit Points to indicate its quantity.
 Each individual projectile or melee attack will display a single damage instance whose value is rounded to the nearest integer. Weapons with multiple projectiles like shotguns or rifles with Multishot will display a damage instance for each individual projectile. Weapons that fire continuously will display a damage instance at a constant rate depending on the fire rate of the weapon.
 Damage indicators are color-coded using the following system (default UI colors):
-Damage appears by default in white (◼).
-Ability damage appears by default in purple (◼).
-Critical hits, also called 'Base Critical Hits', and stealth attacks are in yellow (◼).
-Orange crits, also called 'Big Critical Hits', appear in orange (◼). These are stronger than yellow crits.
-Red crits, also called 'Super Critical Hits', as their name suggests, appear in red (◼). These are stronger than orange crits.
-Damage against shields and overshields appears in blue (◼), regardless of other factors such as critical hits.
-Attempts to damage an invulnerable enemy appear in grey (◼).
+Damage appears by default in white ().
+Ability damage appears by default in purple ().
+Critical hits, also called 'Base Critical Hits', and stealth attacks are in yellow ().
+Orange crits, also called 'Big Critical Hits', appear in orange (). These are stronger than yellow crits.
+Red crits, also called 'Super Critical Hits', as their name suggests, appear in red (). These are stronger than orange crits.
+Damage against shields and overshields appears in blue (), regardless of other factors such as critical hits.
+Attempts to damage an invulnerable enemy appear in grey ().
 Overview Table
 Damage/Overview Table
 Damage Types
@@ -42,17 +46,27 @@ Secondary Elemental Damage
 Creating these secondary elements requires mixing two primary elements together.
 center|width=465x465
 Modding
-Elemental Damage Combinations are made by following a mod placement hierarchy. This hierarchy is from closest to top left (first to be considered) to the bottom right (last to be considered) on the mod layout. Innate weapon elemental damages are considered the very last in any hierarchy, with one exception: some Kuva and Tenet weapons from Kuva Liches or Sisters of Parvos are capable of having two base elemental damages (one from the weapon, one from the Valence damage of the Progenitor Warframe that made the Lich/Sister). In these cases, whichever of the two primary elements comes first in this element order - Heat > Cold > Electricity > Toxin, or "HCET" for short - will be placed second to last in the element combine order, while the other primary element will be placed last in the combine order.
+Elemental Damage Combinations are made by following a mod placement hierarchy.
+This hierarchy is from closest to top left (first to be considered) to the bottom right (last to be considered) on the mod layout.
+Innate weapon elemental damages are considered the very last in any hierarchy, with one exception: some Kuva and Tenet weapons from Kuva Liches or Sisters of Parvos are capable of having two base elemental damages (one from the weapon, one from the Valence damage of the Progenitor Warframe that made the Lich/Sister).
+In these cases, whichever of the two primary elements comes first in this element order - Heat > Cold > Electricity > Toxin, or "HCET" for short - will be placed second to last in the element combine order, while the other primary element will be placed last in the combine order.
 However, a weapon's innate elemental damage can be forced into a different position in the hierarchy (and thus be combined into a secondary element earlier) if the player has equipped a mod of the same element as the innate element. As well, when using multiple mods with the same element, the first position that element is placed in establishes its hierarchy and where it's combined.
 For example, putting Stormbringer on the top left slot of an Amprex will change the position of its innate Electricity damage from last in hierarchy to first in hierarchy. Similarly, placing Thermite Rounds earlier in the hierarchy before placing Hellfire will still count the Heat damage where it was first placed.
 A weapon's innate elemental damage will contribute to elemental combinations, as long as the combination has been established earlier in the hierarchy. It can also combine with the last uncombined elemental mod in the hierarchy to form a secondary element.
 thumb|left|Load Order
 For example: when modding a weapon with Electricity such as the Prova or the Lecta, then adding Cold, Toxin, and Heat in 1, 2 and 3 respectively get: Viral (Cold + Toxin) and Radiation (Heat + Electricity).
-In the case of Riven Mods where there is more than one elemental stat present, the hierarchy priority will be given to the last elemental stat listed on the Riven mod. For example, a Riven mod with a bonus of +100% Electricity damage first and +90% Toxin damage last, will enable the Toxin damage to combine with an elemental mod higher up in the hierarchy, and the Electricity damage will combine with an elemental damage type lower in the hierarchy. If no other elemental damage mods are present, the elements on the Riven mod will combine with itself.
-Weapons with innate secondary elements such as Ogris (Blast), Penta (Blast), Stug (Corrosive), Nukor (Radiation) and Detron (Radiation) will always have that damage type, regardless of mods used. On weapons like these, basic elemental damage mods will combine and function independently of the innate secondary elements, as basic elements cannot combine with a weapon's already combined innate damage type. Kuva Weapons and Tenet Weapons will follow this behavior too. For example, a Tenet Detron (Radiation) can come with an additional Electricity Progenitor damage bonus that will not add onto the innate Radiation damage.
+In the case of Riven Mods where there is more than one elemental stat present, the hierarchy priority will be given to the last elemental stat listed on the Riven mod.
+For example, a Riven mod with a bonus of +100% Electricity damage first and +90% Toxin damage last, will enable the Toxin damage to combine with an elemental mod higher up in the hierarchy, and the Electricity damage will combine with an elemental damage type lower in the hierarchy.
+If no other elemental damage mods are present, the elements on the Riven mod will combine with itself.
+Weapons with innate secondary elements such as Ogris (Blast), Penta (Blast), Stug (Corrosive), Nukor (Radiation) and Detron (Radiation) will always have that damage type, regardless of mods used.
+On weapons like these, basic elemental damage mods will combine and function independently of the innate secondary elements, as basic elements cannot combine with a weapon's already combined innate damage type.
+Kuva Weapons and Tenet Weapons will follow this behavior too.
+For example, a Tenet Detron (Radiation) can come with an additional Electricity Progenitor damage bonus that will not add onto the innate Radiation damage.
 left|thumb|400px|This is an example of a secondary elemental with the combination elemental.
 Possible Combinations
-Except by using weapons with innate secondary elemental damage, or mods which give a secondary element such as Magnetic Might, it is impossible to add more than two elemental damage types on a single weapon. There are only four types of primary elemental damage and every two types of primary elemental damage will be automatically combined into a secondary type. Because of this mechanic, the following combinations of added elemental damage are possible on a single weapon using primary elemental mods (read as Cold is only possible with either Corrosive, Gas or Radiation ):
+Except by using weapons with innate secondary elemental damage, or mods which give a secondary element such as Magnetic Might, it is impossible to add more than two elemental damage types on a single weapon.
+There are only four types of primary elemental damage and every two types of primary elemental damage will be automatically combined into a secondary type.
+Because of this mechanic, the following combinations of added elemental damage are possible on a single weapon using primary elemental mods (read as Cold is only possible with either Corrosive, Gas or Radiation ):
 Unique Damage
 More research on unique damage types needed
 These damage types are unique as they are not available as base damage types for any typical weapons nor can they be added through mods.
@@ -83,7 +97,10 @@ Quantization
 Conflicting info:
 "Damage mods such as Hornet Strike, Faction Damage Bonus such as Bane of Grineer, and any other multipliers only multiply final quantized values and do not affect the scale or damage composition."
 "Applying Serration, Bane of Grineer or any other non-elemental bonus multiplies both the base value of rounding numerator and Scale of rounding denominator, and therefore is a simple multiplier to any quantized total."
-Dealing damage is quantized. Meaning, rather than the damage being applied smoothly, physical and elemental damages round to the nearest multiple of 1/32nd of their attack's base damage, before being multiplied further. By using this method of quantization, the precision of data is reduced, thereby saving storage space and improving the efficiency of computer operations. Rather than communicating a lengthy integer of each element's value, only one "Total" integer along with short representative multiples of 1/32nd need to be communicated.
+Dealing damage is quantized.
+Meaning, rather than the damage being applied smoothly, physical and elemental damages round to the nearest multiple of 1/32nd of their attack's base damage, before being multiplied further.
+By using this method of quantization, the precision of data is reduced, thereby saving storage space and improving the efficiency of computer operations.
+Rather than communicating a lengthy integer of each element's value, only one "Total" integer along with short representative multiples of 1/32nd need to be communicated.
 For each damage type that a weapon deals, the base damage for that damage type will first be divided by the scale, rounded to the nearest whole number, and finally multiplied by the scale. This quantized value will be used in the mission's damage calculations. The final damage seen by in-game damage pop-ups are further rounded to a whole number.
 For example, if you have a weapon with a listed damage distribution of 30 Impact, 30 Puncture, and 40 Slash, the total damage is 100.
 The value of a scale will then be 100 32.
@@ -121,8 +138,8 @@ Apply all other multipliers such as Damage Type Modifier
 Hitscan weapons do not quantize against Object health such as Nullifier Bubbles and Zephyr Tornado. Projectiles however will be quantized. This characteristic has been used to determine damage compositions not disclosed in-game, so they can be presented here in the wiki.
 Melee weapons with very low Impact damage relative to other damage types will not trigger Shattering Impact due to quantization of the Impact damage value to 0. Galatine for example has 2.5% Impact damage.
 Here is a comparison of space savings for using non-quantized vs. quantized values. As more damage types are present on the attack, the greater the space saving:
-If we use 64-bit floating-point values for each damage type (e.g. Impact = 30, Puncture = 30, Slash = 40), that's 3 × 64 bits = 192 bits
-If we use one 64-bit floating-point value for the total damage and a smaller 16-bit floating-point value for each damage type's scale (e.g. Total = 100, Impact = 9.6, Puncture = 9.6, Slash = 12.8), that's 64 bits + (3 × 16 bits) = 112 bits. Almost a 42% size reduction with the tradeoff of clients needing to recompute the damage and losing some precision!
+If we use 64-bit floating-point values for each damage type (e.g. Impact = 30, Puncture = 30, Slash = 40), that's 3 x 64 bits = 192 bits
+If we use one 64-bit floating-point value for the total damage and a smaller 16-bit floating-point value for each damage type's scale (e.g. Total = 100, Impact = 9.6, Puncture = 9.6, Slash = 12.8), that's 64 bits + (3 x 16 bits) = 112 bits. Almost a 42% size reduction with the tradeoff of clients needing to recompute the damage and losing some precision!
 Unarmored Enemies
 Against unarmored enemies or when applying True damage, the formula is simply:
 Inflicted Damage (ID) is the final damage result of a particular damage type.
@@ -261,13 +278,19 @@ Sources that armor strip based on the base armor value of an enemy will remove a
 ## Shield
 In-game Description
 Shields are invisible barriers that absorb incoming damage and protects the player from taking Health damage against enemy attacks. Unlike Health, shields regenerate after a few seconds of not taking damage, making them a naturally replenishing defense.
-All Warframes, except Inaros, Kullervo, and Nidus, possess shields, whose values can be seen in the upper right of the player's UI as a blue number, with each Warframe possessing different amounts of maximum shields. Corpus units also make extensive use of shielding, along with certain bosses. When a player's shields are depleted, the player's HUD will briefly flash with blue and red lines, and the player will be surrounded by a red aura. A pulsing blue outline will envelop the player once shields begin to recharge.
+All Warframes, except Inaros, Kullervo, and Nidus, possess shields, whose values can be seen in the upper right of the player's UI as a blue number, with each Warframe possessing different amounts of maximum shields.
+Corpus units also make extensive use of shielding, along with certain bosses.
+When a player's shields are depleted, the player's HUD will briefly flash with blue and red lines, and the player will be surrounded by a red aura.
+A pulsing blue outline will envelop the player once shields begin to recharge.
 Effects
 Shields recharge after a couple seconds when not being damaged. In addition, when shields are fully depleted, the user experiences a brief period of invulnerability known as shield gating.
 The shields of player's Warframes, Operators, Archwings, Railjacks and Necramechs (but not Companions) enjoy a 50% Damage Reduction. However, shields receive no damage mitigation from armor, making them less effective at taking damage for any warframe with over 300 total armor. On the other hand, their regeneration makes them more useful for frames with high potential maximum shields but below-average potential maximum health such as Hildryn.
 Magnetic Status Effect increases damage dealt towards shields, as well as preventing shield regeneration for its duration. Toxin damage completely ignores normal shields, dealing damage directly to the health points underneath.
 Increasing Maximum Shields
-A Warframe's maximum shield value increases after every few ranks until rank 30 is reached (see Warframes#Leveling Up for more details). Beyond this, shields can only be enhanced by installing mods like Redirection or Vigor, or both if larger shield amounts are desired. A similar mod exists for Sentinels to increase their maximum shields: Calculated Redirection. Kubrows can instead be equipped with Link Redirection, which increases their shields by a value based on the Warframe's maximum shields.
+A Warframe's maximum shield value increases after every few ranks until rank 30 is reached (see Warframes#Leveling Up for more details).
+Beyond this, shields can only be enhanced by installing mods like Redirection or Vigor, or both if larger shield amounts are desired.
+A similar mod exists for Sentinels to increase their maximum shields: Calculated Redirection.
+Kubrows can instead be equipped with Link Redirection, which increases their shields by a value based on the Warframe's maximum shields.
 Shields work broadly similar to additive damage mods for weapons (e.g. Serration) where effects like Chroma's Elemental Ward (electricity) simply add their %-value to the combined multiplier bonus that already exists:
 Where the Relative Mod Bonus and Relative Ability Bonus is the sum of all the applicable bonuses from mods and Warframe abilities respectively.
 Using Hildryn as an example who's equipped with Redirection, Primed Vigor, and has an unmodded, max rank Electricity Elemental Ward active:
@@ -277,11 +300,18 @@ Arcanes
 Abilities
 Regaining Shields
 Passive Restoration (Warframe)
-Shields naturally recharge, but there is a recharge delay imposed whenever struck. Partial Tenno shields begin to regenerate after 1 second of not taking damage. Fully depleted Tenno shields begin to regenerate 4 seconds after the last hit taken during Shield Gate. Restoring some shields after fully depleting them or during the 4-second shield recharge delay (e.g. with Augur Mods set bonus) will not lower the recharge delay. In addition, damage from Status Effects like Slash or Heat do not reset the delay timer.
+Shields naturally recharge, but there is a recharge delay imposed whenever struck.
+Partial Tenno shields begin to regenerate after 1 second of not taking damage.
+Fully depleted Tenno shields begin to regenerate 4 seconds after the last hit taken during Shield Gate.
+Restoring some shields after fully depleting them or during the 4-second shield recharge delay (e.g. with Augur Mods set bonus) will not lower the recharge delay.
+In addition, damage from Status Effects like Slash or Heat do not reset the delay timer.
 The delay timer is only reduced by Fast Deflection, Vigilante Vigor, Gauss's Passive, Jade's Symphony of Mercy, the Vazarin ability Guardian Break, and the Quick Charge mod. Recharge Delay reduction is capped at 80%. The delay is increased by Vital Systems Bypass and the Lethargic Shields personal modifier from Deep Archimedea and Temporal Archimedea. Both Quick Charge and Vital Systems Bypass can only be used in Conclave matches.
 Shields recharge at 15 units per second, plus 5% of the Warframe's maximum shields:
 To calculate the time needed for depleted shields to regenerate to max shields:
-This delayed full-recharge penalty is also less noticeable with higher shielding. Despite taking longer to fully recharge shields at higher values, the relative increase in recharge time begins to taper off after around 900 maximum shield capacity, where it takes 15 seconds to fully recharge. After this point, additional shield capacity will cause a less noticeable increase in the time it takes to fully recharge shields compared to lower values. Even with over 10,000 maximum shields, it will never take more than 20 seconds to fully restore shields.
+This delayed full-recharge penalty is also less noticeable with higher shielding.
+Despite taking longer to fully recharge shields at higher values, the relative increase in recharge time begins to taper off after around 900 maximum shield capacity, where it takes 15 seconds to fully recharge.
+After this point, additional shield capacity will cause a less noticeable increase in the time it takes to fully recharge shields compared to lower values.
+Even with over 10,000 maximum shields, it will never take more than 20 seconds to fully restore shields.
 Passive Restoration (Enemy)
 Enemy shields take a maximum of 3 seconds to begin regenerating, depending on depleted amount.
 Mods
@@ -346,7 +376,7 @@ Protea's Grenade Fan doubles minimum shield gating duration, lasting anywhere be
 Catalyzing Shields sets the invulnerability window to 1.33 seconds upon recovering any amount of shields, at the cost of reducing maximum shields by 80%.
 Equipping the Decaying Dragon Key caps the invulnerability window to 0.33 seconds regardless of maximum shield value. Completely overrides Catalyzing Shields effects.
 Restoring any amount of shields during the invulnerability period from any sources, including natural shield regeneration, will immediately end it.
-Enemies have a shield gate that lasts 0.1 seconds, during which only 5% of the damage dealt will damage their health. However, targeting weakspots will completely bypass their shield gate. Some area of effect attacks (like slam attacks) do not benefit from the damage bypass and instead will have the damage instance completely blocked. Additional damage instance associated with the attack such as status effects or Xata's Whisper can still damage the enemy.
+Enemies have a shield gate that lasts 0.1 seconds, during which only 5% of the damage dealt will damage their health. However, targeting weakspots will completely bypass their shield gate. Some area of effect attacks (like slam attacks) do not benefit from the damage bypass and instead will have the damage instance completely blocked. Additional damage instance associated with the attack such as status effects or Xata's Whisper can still damage the enemy.
 Shield Reduction
 right|x100px
 Equipping a Decaying Dragon Key reduces shields by 75%. During missions, this is indicated by a symbol to the left of the shield/health bar (shown on the right).
@@ -415,7 +445,9 @@ Empyrean
 Damage#Empyrean
 Status Chance
 Status Chance can be a key factor in deciding on a weapon as some status effects are very powerful against certain enemies, while others may be less beneficial. For example, Corrosive procs are valued highly against heavily armored foes, but Magnetic procs have no benefit to enemies that lack shields or overguard.
-The chance that a proc will occur can be directly increased with mods such as Rifle Aptitude. One can also increase the number of projectiles fired through multishot mods such as Split Chamber; this effectively increases the opportunities for an enemy to be procced per a given attack, and is reflected in the weapon's attributes box in the Arsenal screen, but does not change the status chance for each individual hit. Another indirect way of increasing the amount of procs is to increase fire rate, this also doesn't change the likelihood that a proc will occur per hit, but increases the number of possible procs in a given time frame.
+The chance that a proc will occur can be directly increased with mods such as Rifle Aptitude.
+One can also increase the number of projectiles fired through multishot mods such as Split Chamber; this effectively increases the opportunities for an enemy to be procced per a given attack, and is reflected in the weapon's attributes box in the Arsenal screen, but does not change the status chance for each individual hit.
+Another indirect way of increasing the amount of procs is to increase fire rate, this also doesn't change the likelihood that a proc will occur per hit, but increases the number of possible procs in a given time frame.
 When a weapon achieves a status chance higher than 100%, each hit may apply additional "unique" status effects. The type of each proc is independently drawn, so it is possible to apply the same status several times in one hit.
 If a single attack hits multiple enemies, each enemy gets their own status roll to determine if they will receive a status effect from the attack and which status effect they will receive.
 Status Vulnerability
@@ -557,7 +589,6 @@ The base critical damage multiplier of a weapon is quantized. This applies befor
 As an example, a Braton with Vital Sense excluding quantization for simplicity, has a critical damage multiplier of:
 1.6 (1 + Vital Sense)
 Another similar example, now including quantization, and now with the incarnon perk Critical Parallel yields a critical damage multiplier of:
-1
 (32 / 4095) (1 + Vital Sense)
 Sources of % Critical Damage Bonus
 Sources of Absolute (Flat) Critical Damage Bonus
@@ -577,7 +608,12 @@ thumb|This picture displays a headcrit dealing 4x (old : now, it would be 6x) re
 Certain body parts on enemies, most notably heads, will receive additional damage when struck. This location-based damage increase is usually a 3.0x multiplier, but if the strike is a critical hit, then it receives an additional damage bonus of 2.0x on top of the location multiplier and the critical damage multiplier:
 As an example, a Lanka with Vital Sense, and a headshot multiplier of 3.0 will have an orange critical damage multiplier of:
 3.0 (1 + 2 (2 2.0 (1 + Vital Sense) 1))
-The Headshot Multiplier is 3.0x in almost all cases. The bonus damage from headshot crits is specific to heads and not generalized to all special body parts. The MOA, for example, has a "fanny pack" which normally receives 3.0x damage, but does not receive any additional multipliers from a critical hit. The Jordas Golem, however, has a 1.0x multiplier on his engines, but still receives increase damage if critically hit. Corpus humanoids do not receive headcrits, instead only taking the normal 3.0x headshot damage even after their helmets are removed. If a weapon defaults to a 1x headshot multiplier it will not benefit from the critical bonus, this is true even if the headshot multiplier is raised.
+The Headshot Multiplier is 3.0x in almost all cases.
+The bonus damage from headshot crits is specific to heads and not generalized to all special body parts.
+The MOA, for example, has a "fanny pack" which normally receives 3.0x damage, but does not receive any additional multipliers from a critical hit.
+The Jordas Golem, however, has a 1.0x multiplier on his engines, but still receives increase damage if critically hit.
+Corpus humanoids do not receive headcrits, instead only taking the normal 3.0x headshot damage even after their helmets are removed.
+If a weapon defaults to a 1x headshot multiplier it will not benefit from the critical bonus, this is true even if the headshot multiplier is raised.
 Damage Calculation
 Average Damage
 When comparing builds it can be helpful to calculate how much damage the weapon will deal on average, which is affected by how often critical hits occur and at what critical damage multiplier. The following equation accounts for critical hits that are not headshots:
@@ -650,7 +686,10 @@ Scanning objects: 10 Affinity.
 Scanning enemies: Affinity equal to 1/3 of gain upon killing the enemy (rounded down).
 Stealth scan: Affinity equal to gain upon killing the enemy.
 Stealth Kill Affinity Bonus
-Killing unaware enemies will trigger a Stealth Kill Affinity Bonus, which increases the amount of affinity that a player gains from killing said enemy. A notification appears in a player's HUD to the left of the shield counter upon performing a stealth kill, which will display the bonus affinity value for that kill, as well as the time remaining for the combo. The default bonus affinity value is 100%, which can be increased by performing a subsequent stealth kill within 30 seconds of the previous one, which will add another 100% to the bonus value, e.g. killing a second enemy stealthily will grant a 200% affinity multiplier, the third granting 300%, and so forth until it caps out at 500%, whereupon any successive stealth kills will provide said bonus as long as they are made within the time limit. Stealth kill affinity bonuses can be initiated using any attack as long as the enemy is unaware of the player's presence, though melee weapons grant twice the amount of stealth kill affinity compared to ranged weapons or abilities.
+Killing unaware enemies will trigger a Stealth Kill Affinity Bonus, which increases the amount of affinity that a player gains from killing said enemy.
+A notification appears in a player's HUD to the left of the shield counter upon performing a stealth kill, which will display the bonus affinity value for that kill, as well as the time remaining for the combo.
+The default bonus affinity value is 100%, which can be increased by performing a subsequent stealth kill within 30 seconds of the previous one, which will add another 100% to the bonus value, e.g. killing a second enemy stealthily will grant a 200% affinity multiplier, the third granting 300%, and so forth until it caps out at 500%, whereupon any successive stealth kills will provide said bonus as long as they are made within the time limit.
+Stealth kill affinity bonuses can be initiated using any attack as long as the enemy is unaware of the player's presence, though melee weapons grant twice the amount of stealth kill affinity compared to ranged weapons or abilities.
 The stealth kill affinity bonus resets if a kill is made on an alert enemy, or upon being attacked by an alert enemy. Only enemy units will trigger these affinity bonuses. Environmental objects like Corpus Turrets, Security Cameras, Sensor Bars, and Storage Containers will not reset the multiplier nor do they count as a stealth kill. Certain units like Sensor Regulators are also considered objects, and thus will not initiate stealth affinity bonuses.
 Oddly enough, certain Warframe powers (like Paralysis) and Melee Combos that initiate stagger may initiate Stealth Kill Affinity Bonuses upon performing a Counterattack Finisher, even if the enemy was previously aware of the player.
 Killing an enemy that spawned within 5 seconds will not count towards the stealth affinity multiplier.
@@ -664,8 +703,8 @@ Affinity Range
 When playing with other players, Affinity will be shared among the squad if they are within a 50-meter radius. This can be increased with Fosfors to 200m or Vazarin's Mending Unity (+25m at max rank). Some Warframe Abilities and Warframe Augment Mods also have their ranges tied to this particular range.
 The range limit is increased to 200m in Archwing missions and 250m in Landscapes (Plains of Eidolon, Orb Vallis, and Cambion Drift). The range limit is ignored entirely in Empyrean missions due to their sheer scale.
 Level Requirements
-thumb|315x315px|Pie chart illustrating the proportion of each level of the total affinity required to rank any item from unranked to 30.To reach a given level from unranked, a Warframe or Sentinel needs 1000  level2 Affinity in total. A weapon needs half that amount.
-To reach the same level from the previous level, a Warframe or Sentinel needs 1000  (2 level − 1) Affinity. Again, a weapon needs half that amount.
+thumb|315x315px|Pie chart illustrating the proportion of each level of the total affinity required to rank any item from unranked to 30.To reach a given level from unranked, a Warframe or Sentinel needs 1000 level2 Affinity in total. A weapon needs half that amount.
+To reach the same level from the previous level, a Warframe or Sentinel needs 1000 (2 level − 1) Affinity. Again, a weapon needs half that amount.
 *Only for Paracesis, Kuva Weapons, Tenet Weapons, Coda Weapons, and Necramechs. Note that this chart does not accurately reflect on the total cumulative Affinity needed to rank up past 30 as you have to Forma the equipment in order to increase the max rank.
 The total cumulative Affinity to rank up equipment with the overleveling capability, including Forma cycles, is as follows:
 Enemy Affinity Scaling
@@ -730,8 +769,11 @@ Clearing the main objective of any Mission node for the first time and extractin
 Victory against the opponent specter in a Junction grants 1,000 mastery points.
 Each rank of a Railjack's and Drifter's Intrinsics grants 1,500 mastery points.
 Each individual equipment will only grant its mastery points once per variant; polarization or selling a Rank 30 equipment and then purchasing & reusing it will not grant mastery points again, including in the event that a copy of already max-ranked equipment is obtained and used. If equipment below max rank are sold, then purchased and reused, only the ranks previously not gained will grant mastery points.
-Variants of original equipment count as a different equipment for mastery ranking; MK1, Prime, Syndicate, Vandal, Wraith, Prisma, Dex, Kuva, Tenet, the Mara Detron, the Ceti Lacera, and the Carmine Penta. For example, Braton, Mk1-Braton, Braton Vandal, and Braton Prime are all considered different weapons, each with their own set of mastery points, with a total of 12,000 mastery points for fully ranking all four weapons. The same goes for different breeds of same-species Companion such as Chesa Kubrow, Raksa Kubrow, and Helminth Charger. Completing missions in The Steel Path also awards mastery that is separate from normal missions and Junctions.
-Excess mastery points are not lost if a player reaches the amount required to advance a rank – these will automatically fill the next mastery bar, displayed only once the player has succeeded on the rank-up test.
+Variants of original equipment count as a different equipment for mastery ranking; MK1, Prime, Syndicate, Vandal, Wraith, Prisma, Dex, Kuva, Tenet, the Mara Detron, the Ceti Lacera, and the Carmine Penta.
+For example, Braton, Mk1-Braton, Braton Vandal, and Braton Prime are all considered different weapons, each with their own set of mastery points, with a total of 12,000 mastery points for fully ranking all four weapons.
+The same goes for different breeds of same-species Companion such as Chesa Kubrow, Raksa Kubrow, and Helminth Charger.
+Completing missions in The Steel Path also awards mastery that is separate from normal missions and Junctions.
+Excess mastery points are not lost if a player reaches the amount required to advance a rank - these will automatically fill the next mastery bar, displayed only once the player has succeeded on the rank-up test.
 Mastery Rank Tests
 thumb|right|Mastery Test prompt
 In order to be promoted to the next Mastery Rank, a player must pass a test for each progressive rank they are trying to achieve. Mastery tests can only be accessed in solo play. Each test is different and usually harder between ranks.
@@ -776,7 +818,13 @@ You may use Ciphers, despite the test's purpose.
 m4yon6_dWVQ
 Target Tracking Test
 This test requires players to track targets quickly and accurately with their primary weapon.
-The player starts the test standing on a brightly lit circular platform in a dark room encircled with metallic spheres. The metallic spheres will act as targets during the test. The player's camera will be turned toward the first target at the beginning of each round. The sphere that is currently the target will glow red. Once the player shoots the first target, lines will connect unlit spheres in succession before stopping at another glowing red target. The player must follow the lines to find the new target to be shot. This process will repeat itself until the test has ended.
+The player starts the test standing on a brightly lit circular platform in a dark room encircled with metallic spheres.
+The metallic spheres will act as targets during the test.
+The player's camera will be turned toward the first target at the beginning of each round.
+The sphere that is currently the target will glow red.
+Once the player shoots the first target, lines will connect unlit spheres in succession before stopping at another glowing red target.
+The player must follow the lines to find the new target to be shot.
+This process will repeat itself until the test has ended.
 **Tips:**
 Upon missing the white sphere, the original red sphere will be voided, reverting into a normal sphere. A new red sphere will appear elsewhere, thus it is better to take your time aiming rather than attempting to rush your aim.
 If you take too long to hit the sphere, the test will move on to a new target. A 100% success rate is not necessary to pass the test, so again, take your time.
@@ -812,7 +860,12 @@ Players are allowed three tries. Alerting an enemy counts as a try and will rese
 At any point in time each enemy will be in one of 4 alert states: "Calm", "Investigative", "Suspicious" and "Alerted".
 "Calm" is the default state all enemies start in. They will be slowly patrolling along their predefined patrol routes, speaking random phrases in their language. They can be killed with a stealth finisher while in this state.
 "Investigative" is the state an enemy enters when they briefly see the player for a split second. E.g. showing to an enemy from behind the pillar then quickly hiding back in is what could cause this state to be activated from "Calm". They will pronounce a suspicion phrase that sounds like a question, and alter their patrol course to start moving to the point where they saw the player. The test does not yet fail if an enemy enters this state.
-"Suspicious" is when they see the player for longer still than what is required to enter "Investigative" state. E.g. falling off the platform in front of an enemy is an example of what could cause them to enter this state from "Calm". They will pronounce a suspicion phrase, then simply stop dead in their tracks and wait for a few seconds. In this state they cannot be killed with a stealth finisher. If they don't see a player within several seconds, they will fall back into "Calm" state and continue patrolling. The test does not yet fail if an enemy enters this state, and in fact it is quite possible to kill a nearby enemy that is transitioning from "Calm" into "Suspicious" state without failing the test.
+"Suspicious" is when they see the player for longer still than what is required to enter "Investigative" state.
+E.g. falling off the platform in front of an enemy is an example of what could cause them to enter this state from "Calm".
+They will pronounce a suspicion phrase, then simply stop dead in their tracks and wait for a few seconds.
+In this state they cannot be killed with a stealth finisher.
+If they don't see a player within several seconds, they will fall back into "Calm" state and continue patrolling.
+The test does not yet fail if an enemy enters this state, and in fact it is quite possible to kill a nearby enemy that is transitioning from "Calm" into "Suspicious" state without failing the test.
 "Alerted", is the state an enemy in "Suspicious" state enters when they only glance momentarily at a player. The test instantly fails, even if you subsequently kill the enemy that entered this state.
 **Tips:**
 Primary and secondary weapons, as well as abilities and companions, are disabled.
@@ -827,7 +880,11 @@ Hitting ESC will pause the test, which is very useful when following a video wal
 Walkthrough
 First stage: Three enemies. Kill the immobile enemy whose back is turned. Wait until one of the other two is hidden behind the pillars and the other has his back turned; run up to and kill that one. Then jump to the top of a pillar; the enemy can't see you there and you can jump down and kill him from behind at your leisure.
 Second stage: Four enemies, two at ground level and two on an elevated walkway. Run towards one of the pillars closest to you and jump up it; the lower two can't see you and you can jump down to kill them whenever it's convenient. Then move below the walkway, keeping the other two in view; they can't see you standing below them, so you can jump up behind them and kill them whenever they are far away from each other.
-Third stage: Six enemies, three in the courtyard enclosed by pillars nearer to you, and three towards the back. First, kill the nearer three: As soon as they appear, run towards the closest pillar on either side and hide. Wait until you are out of line of sight and kill the three enemies one at a time whenever convenient. Then, kill the two in the far corners: Move towards them, hiding behind pillars, and kill them when their back is turned. Finally, watch the last one on his small platform: when his back is turned, jump carefully up behind him and kill him.
+Third stage: Six enemies, three in the courtyard enclosed by pillars nearer to you, and three towards the back.
+First, kill the nearer three: As soon as they appear, run towards the closest pillar on either side and hide.
+Wait until you are out of line of sight and kill the three enemies one at a time whenever convenient.
+Then, kill the two in the far corners: Move towards them, hiding behind pillars, and kill them when their back is turned.
+Finally, watch the last one on his small platform: when his back is turned, jump carefully up behind him and kill him.
 XEva0Ivs4tc
 CXydNqfpm8c
 Disappearing Platform Test
@@ -926,7 +983,7 @@ FxMdsIZOGwM
 Xk6zDzwRIRs
 Advanced Defense Test
 This test requires the player to defend a Cryopod for 5 waves of level 25 to 30 Corpus.
-Enemies per wave – Wave 1: 8; Wave 2: 12; Wave 3: 16; Wave 4: 18; Wave 5: 20.
+Enemies per wave - Wave 1: 8; Wave 2: 12; Wave 3: 16; Wave 4: 18; Wave 5: 20.
 **Tips:**
 Taking Frost and using Snow Globe will help you complete this test easily.
 h0D-3X69Qkk
@@ -940,7 +997,12 @@ Active warframe abilities are disabled, however passive abilities (such as Bansh
 Glaives are ideal for taking out enemies from a safe distance.
 Whirlwind increases the throw range of glaives, letting you kill the enemies without being close enough to be seen.
 The Heavy Attacks of Gunblades create noise and cannot be silenced with any mods, although Banshee's Passive Ability can counter this.
-Bug: After falling off the map the Gunblade may become unusable, and players can no longer aim glide. The only complete solution is to retake the trial since even failing the attempt in progress doesn't fix the issue. Workaround: assuming one managed to kill all the enemies beforehand, or at least the majority, it is possible to destroy an orb using jump kicks. One has to take a good running start, aim at the orb, run, bullet jump and press and hold crouch (CTRL) while in the air until the orb is hit. This may not destroy it at first so it might take a few attempts. Moreover, the orb sometimes explodes spontaneously soon after hitting it.
+Bug: After falling off the map the Gunblade may become unusable, and players can no longer aim glide.
+The only complete solution is to retake the trial since even failing the attempt in progress doesn't fix the issue.
+Workaround: assuming one managed to kill all the enemies beforehand, or at least the majority, it is possible to destroy an orb using jump kicks.
+One has to take a good running start, aim at the orb, run, bullet jump and press and hold crouch (CTRL) while in the air until the orb is hit.
+This may not destroy it at first so it might take a few attempts.
+Moreover, the orb sometimes explodes spontaneously soon after hitting it.
 As of Update 28, equipment and gear items are disabled during the test.
 Archgun Deployer cannot be used.
 Ivara's passive as well as mods such as Enemy Radar, Enemy Sense and Vigilante Pursuit will allow you to see enemies on the minimap, making locating and avoiding them easier. Using Rush, Armored Agility, and Speed Drift will allow you to sneak up on enemies quicker, and Coaction Drift will increase the Enemy Radar further.
@@ -973,7 +1035,11 @@ Utilizing a Warframe with AoE abilities such as Ash, Ember, and Saryn, will allo
 SbaClSk9kAc
 JA68DiXbwjU
 Arena
-This test consists of three rounds requiring the player to kill 12 / 18 / 24 Executioners (level 40). The player is given 3 respawns before the mission will fail. Executioners will spawn in pairs, a maximum of 6 simultaneously. The first round has a speed boost modifier, the second round has a health drain modifier (drains 100 health periodically until you have 3 health, killing enemies restores all health) and the third round has a scaling enemies modifier. Falling out of the map uses one respawn.
+This test consists of three rounds requiring the player to kill 12 / 18 / 24 Executioners (level 40).
+The player is given 3 respawns before the mission will fail.
+Executioners will spawn in pairs, a maximum of 6 simultaneously.
+The first round has a speed boost modifier, the second round has a health drain modifier (drains 100 health periodically until you have 3 health, killing enemies restores all health) and the third round has a scaling enemies modifier.
+Falling out of the map uses one respawn.
 **Tips:**
 Falling off the arena counts as a death. Take extra precautions to avoid the edge of the platforms or being knocked over them.
 As gear use is not allowed, it is advisable to equip Energy Siphon, Streamline, or Fleeting Expertise for energy regen/ability efficiency.
@@ -1061,14 +1127,24 @@ Orbs are affected by Vacuum and Fetch. Utilizing in combination with Mag's Greed
 BXS2lf09yi0
 6ecLFNc_QyY
 Condensed Thermia Extermination Test
-This test requires the player to eliminate 60 enemies within certain time limits. The enemies are initially invulnerable and colored in red, requiring the player to pick up canisters of Condensed Thermia, at most 7 of which will spawn on a schedule in 7 specific different locations throughout the map. The order of the 7 spawn locations is always the same. These canisters must be thrown at enemies (default: MMB) to make them vulnerable, changing the enemy color from red to cyan. The first canister will spawn 5 seconds after the test starts, and each canister will expire 20 seconds after spawning in, with the expiration timer not stopping when the canister is picked up (however it is stopped once the player has thrown the canister and it is falling). Once a canister is thrown, the next one will spawn in 10 seconds (reduced to 5 seconds if the canister expires without being thrown). If 60 enemies are not killed within 15 seconds of throwing the 7th canister (or within 5 seconds of it expiring without being thrown) - the test will fail. This implies that the maximum possible time the test can run for is 3 minutes 40 seconds (but it will be shorter if canisters are thrown before their 20 second expiration timer, or if some canisters expire before being thrown). This test uses the canister throwing game mechanics first seen in the Exploiter Orb fight but adapted for extermination.
+This test requires the player to eliminate 60 enemies within certain time limits.
+The enemies are initially invulnerable and colored in red, requiring the player to pick up canisters of Condensed Thermia, at most 7 of which will spawn on a schedule in 7 specific different locations throughout the map.
+The order of the 7 spawn locations is always the same.
+These canisters must be thrown at enemies (default: MMB) to make them vulnerable, changing the enemy color from red to cyan.
+The first canister will spawn 5 seconds after the test starts, and each canister will expire 20 seconds after spawning in, with the expiration timer not stopping when the canister is picked up (however it is stopped once the player has thrown the canister and it is falling).
+Once a canister is thrown, the next one will spawn in 10 seconds (reduced to 5 seconds if the canister expires without being thrown).
+If 60 enemies are not killed within 15 seconds of throwing the 7th canister (or within 5 seconds of it expiring without being thrown) - the test will fail.
+This implies that the maximum possible time the test can run for is 3 minutes 40 seconds (but it will be shorter if canisters are thrown before their 20 second expiration timer, or if some canisters expire before being thrown).
+This test uses the canister throwing game mechanics first seen in the Exploiter Orb fight but adapted for extermination.
 **Tips:**
 Because the maximum number of canisters is limited to 7 - it is recommended to throw the canisters into clusters of enemies to maximize their effectiveness.
 Magus Anomaly and Magus Lockdown can be used to pull enemies into a cluster.
 Certain warframe abilities can also pull enemies into a cluster (Nidus's Larva, Vauban's Bastille in Vortex mode, Khora's Ensnare, Mag's short-tap Magnetize, or Yareli's Riptide), built with high Ability Range. Stay aware of your energy however as Parasitic Eximus units will spawn during this test.
 Enemies need to be killed quickly after throwing a canister as the next canister will always spawn 10 seconds after the current one is thrown with the 20 second canister expiration timer immediately starting upon spawning in even if the player is still busy killing the enemies from the previous canister.
 As the order of the 7 spawn location is always the same - memorising the order of canister spawn locations may be helpful in order to start moving closer towards the next canister spawn location a few seconds before a canister spawns in there.
-Gear items (except vehicles such as Archwing or K-Drive) may be used for this test. Summoning an On Call Crew and commanding them to "Hold position" (default: X while being close to the crew member) will cause the nearby enemies to attack the initially invulnerable crew member thus causing enemies to cluster in that spot (note that the crew member will become vulnerable to enemy damage if a canister is thrown closeby). Periodically dropping a Squad Energy Restore can help to supply energy for any warframe abilities needed.
+Gear items (except vehicles such as Archwing or K-Drive) may be used for this test.
+Summoning an On Call Crew and commanding them to "Hold position" (default: X while being close to the crew member) will cause the nearby enemies to attack the initially invulnerable crew member thus causing enemies to cluster in that spot (note that the crew member will become vulnerable to enemy damage if a canister is thrown closeby).
+Periodically dropping a Squad Energy Restore can help to supply energy for any warframe abilities needed.
 Operator Void Slings are a great way to get to the Thermia canisters quickly, especially with Magus Cadence and Far Sling, and the Operator can carry the canisters even while in void mode (but will drop it on transference in, although if the frame is holding holding a canister - this will continue to be held on transference out/in). Titania also works very well for rapidly reaching canisters with Razorwing (however if a canister is held - it will be dropped if Razorwing is activated).
 0_HoYy1D_y4
 Advanced Timed Extermination Test
@@ -1090,7 +1166,8 @@ Additionally, Loki's Radial Disarm will force ranged enemies to go in melee and 
 Ammo is not restored between attempts; the relatively low number of enemies combined with their buffs will make ammo efficient weapons and/or Ammo Restore gear important.
 MNTxIAENcQ4
 Advanced Survival Test
-This test requires the player to kill in each of 5 stages (or waves) a number of level 60-100 enemies (colored in cyan) from all different factions, then level 90-130 Arbitration Shield Drone together with 1-9 level 100-140 Eximus "bosses" (colored in red and highlighted with a globally visible red "target" icon), and finally interact with the Life Support Capsule (highlighted with a globally visible yellow "interact" icon) all while under Survival-style conditions (albeit with a much accelerated depletion timer and an instant failure upon depletion). After killing the bosses, the player must activate a single use Life Support Capsule to trigger the next stage - including one final capsule after killing stage 5 bosses to pass the test.
+This test requires the player to kill in each of 5 stages (or waves) a number of level 60-100 enemies (colored in cyan) from all different factions, then level 90-130 Arbitration Shield Drone together with 1-9 level 100-140 Eximus "bosses" (colored in red and highlighted with a globally visible red "target" icon), and finally interact with the Life Support Capsule (highlighted with a globally visible yellow "interact" icon) all while under Survival-style conditions (albeit with a much accelerated depletion timer and an instant failure upon depletion).
+After killing the bosses, the player must activate a single use Life Support Capsule to trigger the next stage - including one final capsule after killing stage 5 bosses to pass the test.
 Stage 1: 20 level 60 enemies, 2 bosses:
 Arbitration Shield Drone (level 90)
 Napalm (level 100 Eximus)
@@ -1126,7 +1203,9 @@ Protea's Blaze Artillery and Grenade Fans are powerful crowd control abilities t
 Saryn's Spores, combined with high Ability Range and good Ability Strength, can make short work of surrounding mobs, while Molt can help her move faster.
 Warframes built with high Ability Range and possessing abilities that pull enemies into a cluster (Nidus's Larva, Vauban's Bastille in Vortex mode, Khora's Ensnare, Mag's short-tap Magnetize, or Yareli's Riptide), will also help deal with the mobs and make Life Support Module pickups more convenient to pick up. Be aware of your energy reserves, however, as Parasitic Eximus units will spawn during this test.
 Garuda infused with Gloom can trivialize this test, as enemies around her are significantly slowed and leaving them extremely vulnerable to attacks. This is markedly better when combined with Bloodletting and high Ability Strength.
-Kullervo can very easily trivialize this test, as there are plenty of enemies around for him to build melee combo counter with before cutting them down with Wrathful Advance. They also tend to be grouped together enough for a single Collective Curse and Wrathful Advance combo and can easily be hit consistently by his daggers during Recompense, especially if you have the Volatile Recompense mod equipped. However, he can be very energy-hungry, and so if you're running this test with him, it's recommended to put Rage or Hunter Adrenaline on him to maximize any downtime on his overguard and build up energy, and to bring a Companion that can help top up his energy reserves.
+Kullervo can very easily trivialize this test, as there are plenty of enemies around for him to build melee combo counter with before cutting them down with Wrathful Advance.
+They also tend to be grouped together enough for a single Collective Curse and Wrathful Advance combo and can easily be hit consistently by his daggers during Recompense, especially if you have the Volatile Recompense mod equipped.
+However, he can be very energy-hungry, and so if you're running this test with him, it's recommended to put Rage or Hunter Adrenaline on him to maximize any downtime on his overguard and build up energy, and to bring a Companion that can help top up his energy reserves.
 Companions join the player during the test.
 Bringing Nautilus with the Cordon precept clusters enemies together for an easier clear, and Vacuum can help collecting Life Support modules (just note that it makes harder to kill bosses as they will be randomly shifted about the map just as any other enemy, however on the balance the benefit of faster enemy kills seems to be more important).
 For Warframes that are very energy-hungry, it's a very good idea to bring in energy-generating companions like a Sahasa Kubrow with Dig or a Dethcube with Energy Generator.
@@ -1171,7 +1250,13 @@ Failed hacks do not automatically fail the test, so long as they are completed b
 Ciphers and abilities (Perspicacity) cannot be used. Auto Breach can be employed, however.
 Legendary Target Tracking Test
 This test requires players to track targets quickly and accurately with their primary weapon.
-The player starts the test standing on a brightly lit circular platform in a dark room encircled with metallic spheres. The metallic spheres will act as targets during the test. The player's camera will be turned toward the first target at the beginning of each round. The sphere that is currently the target will glow red. Once the player shoots the first target, lines will connect unlit spheres in succession before stopping at another glowing red target. The player must follow the lines to find the new target to be shot. This process will repeat itself until the test has ended.
+The player starts the test standing on a brightly lit circular platform in a dark room encircled with metallic spheres.
+The metallic spheres will act as targets during the test.
+The player's camera will be turned toward the first target at the beginning of each round.
+The sphere that is currently the target will glow red.
+Once the player shoots the first target, lines will connect unlit spheres in succession before stopping at another glowing red target.
+The player must follow the lines to find the new target to be shot.
+This process will repeat itself until the test has ended.
 This test has three rounds.
 Mastery Ranks Allocation
 Experience needed for each level, up to MR 30, is calculated by the formula: 2,500 (Rank2)
@@ -1331,21 +1416,49 @@ Lotus
 When Warframes are not detected by enemies, they are in stealth, able to sneak past combat encounters or perform devastating attacks to unsuspecting targets. However, conspicuous activity will raise the alertness of observant enemies, which can increase the difficulty of the mission. At various levels of alert, enemies may become more careful, call for help from other nearby enemies, or trigger the alarm control panels to summon backup from other rooms. Alertness decreases over time.
 While most missions in WARFRAME do not require or explicitly reward stealthy play styles, the game provides an assortment of weapons, mods, and a different damage multiplier that enable an alternative gameplay option for advanced players who seek immersion or challenges.
 Alertness
-Enemies can only see things in a short, frontal cone and their view can be further restricted by the environment. They are bad at noticing threats at a distance or anyone somewhat above their heads. Crouching will hide a Warframe's silhouette well, and being invisible allows the Warframe to move past enemy eyesight without triggering any suspicion. Loud noise, however, can cause enemies to fire towards invisible Tenno–shooting most weapons while visually shrouded will still alert nearby enemies from all directions.
-Distant gunfire or suspicious activity (such as noticing the corpse of an ally or a silent weapon hitting the terrain) may temporarily put enemies in nearby map tiles into a minor alert. These enemies keep watch from behind cover or patrol with guns raised and are more sensitive to the Tenno presence. As they don't know exactly where their threats are, they are more cautious, looking down corners and expanding their vision. This can usually be heard by the player, as enemies talk to each other while in this state. From this state and above, enemies can no longer be Stealth Attacked until their alertness level lowers below a minor alert.
-Enemies in a tile enter full combat alert when they see or hear the Tenno directly, are directly shot at, or hear a loud weapon being fired. In this state, they will attempt to pursue the Tenno while getting backup by summoning nearby allies or activating alarms via control consoles. Enemies from other tiles will not enter this state if the enemy detecting the Tenno is killed quickly enough and the alarms are not triggered. Additionally, their range of vision expands and they will be able to spot Tenno and their companions from far away, even after the player disengages from combat. Note that backup troops arriving in nearby rooms may not know what the threat is, and will be put into minor alert instead. Players can infer an ongoing full combat alert from how enemies will notice and fire upon the player from much further away than before.
+Enemies can only see things in a short, frontal cone and their view can be further restricted by the environment.
+They are bad at noticing threats at a distance or anyone somewhat above their heads.
+Crouching will hide a Warframe's silhouette well, and being invisible allows the Warframe to move past enemy eyesight without triggering any suspicion.
+Loud noise, however, can cause enemies to fire towards invisible Tenno-shooting most weapons while visually shrouded will still alert nearby enemies from all directions.
+Distant gunfire or suspicious activity (such as noticing the corpse of an ally or a silent weapon hitting the terrain) may temporarily put enemies in nearby map tiles into a minor alert.
+These enemies keep watch from behind cover or patrol with guns raised and are more sensitive to the Tenno presence.
+As they don't know exactly where their threats are, they are more cautious, looking down corners and expanding their vision.
+This can usually be heard by the player, as enemies talk to each other while in this state.
+From this state and above, enemies can no longer be Stealth Attacked until their alertness level lowers below a minor alert.
+Enemies in a tile enter full combat alert when they see or hear the Tenno directly, are directly shot at, or hear a loud weapon being fired.
+In this state, they will attempt to pursue the Tenno while getting backup by summoning nearby allies or activating alarms via control consoles.
+Enemies from other tiles will not enter this state if the enemy detecting the Tenno is killed quickly enough and the alarms are not triggered.
+Additionally, their range of vision expands and they will be able to spot Tenno and their companions from far away, even after the player disengages from combat.
+Note that backup troops arriving in nearby rooms may not know what the threat is, and will be put into minor alert instead.
+Players can infer an ongoing full combat alert from how enemies will notice and fire upon the player from much further away than before.
 Infested and Corrupted enemies are exceptions because of their hive-mindedness. They will not use manually activated alarms, but once even one unit reaches full combat alert every other unit in a huge range will enter minor alert too. And, since there are no alarms, it is not possible to remove alerted states. New enemies may still spawn unalerted though, and minor alerts work as usual.
 The minimap will change color depending on the alertness of the room's occupants with White, Amber, and Red referring to enemies being unalerted, in a minor alert, or a full combat alert respectively.
 Control Panels
-Control consoles are liberally scattered around most tilesets. If activated by an enemy, it will alert the entire room and may spread the alert to the whole map. Killing the enemy before they finish using a control panel (they take about 1.5s to complete the alert) will prevent the alarm from sounding. Enemies will not consecutively run towards the same console to set off the alarm, but if the fight takes long enough, another enemy will likely attempt it. Note that if the enemy activating the alarm takes enough damage, they will abort activating the alarm and turn to attack the Tenno. If an alarm is set off, the alarm can be reset by going to another control terminal and hacking it without further spread of notice. While it is possible for stealth to be recovered in missions populated by the Grineer and Corpus, the Corrupted and Infested factions do not use control consoles to sound alarms and any open detection will result in these factions' enemies becoming alert in a very large radius.
-Even when the control panel has been accessed and an alarm has sounded, enemies will lose track of the Tenno when the last group of enemies killed is not close enough to set the next group of enemies on alert. They will wander as if they never heard an alarm. By sprinting through rooms quickly, one can sometimes avoid alarms being set off or escape to new rooms distant enough from the hostile room arming its alarm that these new enemies won't hear it. Equipping a sprint speed mod such as Rush on the Warframe can increase this chance of escape.
+Control consoles are liberally scattered around most tilesets.
+If activated by an enemy, it will alert the entire room and may spread the alert to the whole map.
+Killing the enemy before they finish using a control panel (they take about 1.5s to complete the alert) will prevent the alarm from sounding.
+Enemies will not consecutively run towards the same console to set off the alarm, but if the fight takes long enough, another enemy will likely attempt it.
+Note that if the enemy activating the alarm takes enough damage, they will abort activating the alarm and turn to attack the Tenno.
+If an alarm is set off, the alarm can be reset by going to another control terminal and hacking it without further spread of notice.
+While it is possible for stealth to be recovered in missions populated by the Grineer and Corpus, the Corrupted and Infested factions do not use control consoles to sound alarms and any open detection will result in these factions' enemies becoming alert in a very large radius.
+Even when the control panel has been accessed and an alarm has sounded, enemies will lose track of the Tenno when the last group of enemies killed is not close enough to set the next group of enemies on alert.
+They will wander as if they never heard an alarm.
+By sprinting through rooms quickly, one can sometimes avoid alarms being set off or escape to new rooms distant enough from the hostile room arming its alarm that these new enemies won't hear it.
+Equipping a sprint speed mod such as Rush on the Warframe can increase this chance of escape.
 Security Cameras and Turrets
-Cameras can detect Tenno and deploy any nearby Corpus Turrets to engage in combat. However, triggering a camera or shooting a turret will not trigger any kind of alertness for other enemies, nor will the general alarm state in the mission cause the security cameras to be alerted. The challenge reward for 10 stealth kills can easily be accomplished in high-alarm scenarios by destroying cameras that haven't personally witnessed the player. The turret, on the other hand, is hard to destroy if never activated but note that its shots are silent and do not alert the enemies in nearby rooms.
+Cameras can detect Tenno and deploy any nearby Corpus Turrets to engage in combat.
+However, triggering a camera or shooting a turret will not trigger any kind of alertness for other enemies, nor will the general alarm state in the mission cause the security cameras to be alerted.
+The challenge reward for 10 stealth kills can easily be accomplished in high-alarm scenarios by destroying cameras that haven't personally witnessed the player.
+The turret, on the other hand, is hard to destroy if never activated but note that its shots are silent and do not alert the enemies in nearby rooms.
 Stealth Damage Bonus
 Standard melee attacks are affected by a +700% Stealth Damage Bonus when attacking enemies that are unalerted, made vulnerable to front/back finishers by a stun, or that are otherwise unable to detect the attacking player due to being blinded or under the effect of Banshee's Silence, as well as if the player is cloaked by an ability (e.g. Invisibility). This damage increase changes the color of regular damage pop-ups from white to yellow (similar to critical hits).
 Stealth Melee Damage Weapon Damage (1 + Stealth Damage Bonus)
-Being revealed to an enemy will temporarily put the Stealth Damage Bonus on a 3s cooldown once stealth damage conditions have been re-established. When conditions are met by way of invisibility, physical contact by means such as a true melee attack (directly contacting an enemy with the weapon), brushing by an enemy, bullet jumping, or jump kicking counts as being revealed for a brief instant and will trigger the cooldown appropriately. However, if enemies are blinded, then physical contact does not count as being revealed and the Stealth Damage Bonus will persist in this case. This cooldown is tracked on a per-enemy basis, potentially allowing you to get the full effect for every weapon attack presuming you can kill every enemy with a single hit.
-No other interaction with an enemy will trigger the full Stealth Damage Bonus cooldown if you are otherwise undetectable, be it gunfire (damage or sound) from primaries and secondaries, companion damage of any kind, status damage from any source (including those inflicted by a true melee attack), ability damage, and ranged melee attacks of any kind (e.g. certain Gunblade attacks, Exalted Blade waves). However, certain instances of weapon damage seem to trigger a very short window where the Stealth Damage Bonus can not take effect - this is most notably the case with the neutral burst attack of the High Noon stance for Gunblades (excluding Stropha, which inexplicably does not suffer from this issue), where the first shot will benefit from the Stealth Damage Bonus normally but the immediate follow up shot will not.
+Being revealed to an enemy will temporarily put the Stealth Damage Bonus on a 3s cooldown once stealth damage conditions have been re-established.
+When conditions are met by way of invisibility, physical contact by means such as a true melee attack (directly contacting an enemy with the weapon), brushing by an enemy, bullet jumping, or jump kicking counts as being revealed for a brief instant and will trigger the cooldown appropriately.
+However, if enemies are blinded, then physical contact does not count as being revealed and the Stealth Damage Bonus will persist in this case.
+This cooldown is tracked on a per-enemy basis, potentially allowing you to get the full effect for every weapon attack presuming you can kill every enemy with a single hit.
+No other interaction with an enemy will trigger the full Stealth Damage Bonus cooldown if you are otherwise undetectable, be it gunfire (damage or sound) from primaries and secondaries, companion damage of any kind, status damage from any source (including those inflicted by a true melee attack), ability damage, and ranged melee attacks of any kind (e.g. certain Gunblade attacks, Exalted Blade waves).
+However, certain instances of weapon damage seem to trigger a very short window where the Stealth Damage Bonus can not take effect - this is most notably the case with the neutral burst attack of the High Noon stance for Gunblades (excluding Stropha, which inexplicably does not suffer from this issue), where the first shot will benefit from the Stealth Damage Bonus normally but the immediate follow up shot will not.
 The Stealth Damage Bonus is affected by the rank of the weapon. Rank 30 weapons deal 700% bonus damage, while unranked ones only gain 100%. In between that the bonus scales linearly as per the formula:
 Stealth Damage Bonus 1 + (6 30) Weapon Rank
 Stealth Damage Bonus 1 + 0.2 Weapon Rank
@@ -1354,10 +1467,16 @@ Critical hits while under these effects will still appear yellow or in their res
 Stealth Melee Crit Damage Weapon Damage (1 + Stealth Damage Bonus + Crit Tier x (Crit Multiplier - 1))
 Stealth Attack
 right|250px
-As long as an enemy is unaware of the Tenno presence, a stealth attack may be executed on them. To perform a stealth attack, the player must approach an enemy from behind and activate the stealth attack prompt. Successfully performing a stealth attack will deal a massive amount of damage during a special animation, during which the Warframe is immune to damage and will not be attacked by enemies. The attack's final damage depends on the melee weapon type used, on top of the 8.0x melee damage multiplier described in the preceding section.
+As long as an enemy is unaware of the Tenno presence, a stealth attack may be executed on them.
+To perform a stealth attack, the player must approach an enemy from behind and activate the stealth attack prompt.
+Successfully performing a stealth attack will deal a massive amount of damage during a special animation, during which the Warframe is immune to damage and will not be attacked by enemies.
+The attack's final damage depends on the melee weapon type used, on top of the 8.0x melee damage multiplier described in the preceding section.
 Stealth Attack Damage Weapon Damage Stealth Multiplier Weapon Multiplier
 As these multipliers factor total weapon damage, equipped mods (including critical chance and critical damage mods) will also affect the stealth attack's final damage. Stealth attacks inflict True Damage, which is unaffected by armor. Damage value pop-ups always appear yellow, identical to critical hit damage values (even if the stealth attack did not crit).
-A complete kill ensures your target cannot recuperate and bring attention to you. Performing an unsuccessful melee stealth kill (which happens often when in a high-level area) or failing to kill an enemy with a silent ranged attack or ability will alert the enemy after a short moment. Due to that short moment, though, it is possible to execute consecutive stealth attacks by pressing melee key quickly right after the previous stealth attack is finished. This is also noteworthy for eliminating pairs or groups of enemies, as enemies within 5 meters of the victim will become cautious (even without seeing the Warframe) for roughly 20 seconds due to the sound of their comrade's death.
+A complete kill ensures your target cannot recuperate and bring attention to you.
+Performing an unsuccessful melee stealth kill (which happens often when in a high-level area) or failing to kill an enemy with a silent ranged attack or ability will alert the enemy after a short moment.
+Due to that short moment, though, it is possible to execute consecutive stealth attacks by pressing melee key quickly right after the previous stealth attack is finished.
+This is also noteworthy for eliminating pairs or groups of enemies, as enemies within 5 meters of the victim will become cautious (even without seeing the Warframe) for roughly 20 seconds due to the sound of their comrade's death.
 Enemy Eligibility
 thumb|right|280px|Bosses can indeed be stealth attacked.
 Some enemies do not grant a stealth attack prompt. Many mechanical or robotic enemies are immune to stealth attacks, either completely or from specific weapon types.
@@ -1371,8 +1490,13 @@ Formerly MOAs would not grant a stealth attack prompt, but through updates this 
 Formerly, humanoid Bosses were vulnerable to stealth attacks. This has been phased out over time, and only The Sergeant can still be stealth attacked. Non-humanoid Bosses such as Phorid and Jackal have always been immune to stealth attacks.
 Special Warden enemies take bonus damage from stealth attacks, allowing a larger chance of instantly killing them, which is crucial in order to complete their host mission with the most points. This is especially useful since Wardens have very high health and will trigger the execution sequence if the player is spotted.
 Affinity Bonus
-Killing a target while they are completely unalerted (whether via melee or ranged attacks) will trigger a Stealth Kill Affinity Bonus, which increases the amount of affinity that a player gains from killing said enemy. A notification appears in a player's HUD to the left of the shield counter (like all other outside buffs) upon performing a stealth kill, which will display the bonus affinity value for that kill, as well as the time remaining for the combo duration of 30s. Each successive stealth kill will refresh the combo counter and grant 100% more affinity towards the next kill, stacking up to 500% bonus affinity after 5 stealth kills.
-The stealth kill affinity bonus resets if the Warframe kills an alert enemy or is attacked by an alerted enemy (Companions, Sentinels, and Operators do not reset the bonus). Only enemy units will trigger these affinity bonuses. Environmental objects like Corpus Turrets, Security Cameras, Sensor Bars, and Storage Containers will not reset the multiplier nor do they count as a stealth kill. Certain units like Sensor Regulators are also considered objects, and thus will not initiate stealth affinity bonuses.
+Killing a target while they are completely unalerted (whether via melee or ranged attacks) will trigger a Stealth Kill Affinity Bonus, which increases the amount of affinity that a player gains from killing said enemy.
+A notification appears in a player's HUD to the left of the shield counter (like all other outside buffs) upon performing a stealth kill, which will display the bonus affinity value for that kill, as well as the time remaining for the combo duration of 30s.
+Each successive stealth kill will refresh the combo counter and grant 100% more affinity towards the next kill, stacking up to 500% bonus affinity after 5 stealth kills.
+The stealth kill affinity bonus resets if the Warframe kills an alert enemy or is attacked by an alerted enemy (Companions, Sentinels, and Operators do not reset the bonus).
+Only enemy units will trigger these affinity bonuses.
+Environmental objects like Corpus Turrets, Security Cameras, Sensor Bars, and Storage Containers will not reset the multiplier nor do they count as a stealth kill.
+Certain units like Sensor Regulators are also considered objects, and thus will not initiate stealth affinity bonuses.
 Oddly enough, certain Warframe powers (like Paralysis) and Melee Combos that initiate stagger may initiate stealth kill affinity bonuses upon performing a Finisher, even if the enemy was previously aware of the player.
 Invisible
 Turning invisible will hide the character from sight, preventing enemies from directly seeing them and thus will not alert enemies from moving in their field of view. However, they can still be alerted by firing a noisy weapon or coming into physical contact.
@@ -1389,7 +1513,7 @@ Ghost allows the Shade sentinel to cloak itself and the Warframe when hostile en
 The casting of any of Vauban's abilities are silent—this does not mean all of the abilities' effects are.
 Silencing Mods
 **Tips:**
-It's not recommended to bring a companion when playing stealth without a way of cloaking (becoming invisible) yourself, as crouching may reduce enemy visibility for you, but it does not affect your companions and could still leave them in enemy sight.
+It's not recommended to bring a companion when playing stealth without a way of cloaking (becoming invisible) yourself, as crouching may reduce enemy visibility for you, but it does not affect your companions and could still leave them in enemy sight.
 Be patient and learn the behaviour of your enemies. Good timing means you can avoid patrols and position yourself to attack enemies from behind.
 Check your surroundings to sneak up on an unsuspecting enemy without interruption. Do not eliminate an enemy if it is being watched by another enemy. If enemies see a corpse that has not disappeared yet, they might be alert for a short period of time.
 In large rooms, look for exposed ceiling rafters or ventilation shafts that can be used to traverse areas without the risk of directly encountering enemy patrols.
@@ -1407,7 +1531,9 @@ Unalerted enemies that are sent to sleep by Equinox's Rest and Ivara's Sleep Arr
 The fiery battle damage environmental hazard will spawn extremely alert enemies at the start. To resume stealth, kill all alert enemies in the area quickly and hack the nearest panel to reset the alarm. They will revert to an unalert state after some time. If the alarm is not reset, all enemies will spawn in the alerted state.
 Sources of enemy radar, such as Enemy Sense, Enemy Radar and Animal Instinct, reveal enemies within range on your minimap as red arrows indicating position, general facing, and alertness level. Use this information when available to gauge the situation and plan how to proceed in a stealthy manner.
 For a long time, it was possible to notice enemy spawn points (usually in Survival missions) and continue to fire your weapon under stealth to gain continuous stealth bonus experience, allowing quick leveling and Focus affinity.
-To counter this, a mechanic was introduced wherein newly spawned enemies have a hidden timer active. This timer, which can be around 4–8 seconds or in rare cases indefinitely, causes killing this otherwise unalerted enemy to not count as a stealth kill and thus will reset any stealth bonus multiplier you have if this enemy is killed. This is why players may notice that despite all enemies being unaware of your presence, killing them all at once with an explosive weapon will often not give you any stealth affinity, or lose your current stealth multiplier.
+To counter this, a mechanic was introduced wherein newly spawned enemies have a hidden timer active.
+This timer, which can be around 4-8 seconds or in rare cases indefinitely, causes killing this otherwise unalerted enemy to not count as a stealth kill and thus will reset any stealth bonus multiplier you have if this enemy is killed.
+This is why players may notice that despite all enemies being unaware of your presence, killing them all at once with an explosive weapon will often not give you any stealth affinity, or lose your current stealth multiplier.
 
 ## Focus
 Lotus to the Operator during The Second Dream
@@ -1416,8 +1542,11 @@ Following its predecessor, Focus 2.0, each School gained two unique castable abi
 Activation
 Missing iOS controls
 right|thumb|250px|A Tenno Operator being projected through Transcendence as the Warframe lies inert on the ground.
-5
-Upon completion of The Second Dream quest, players become able to perform Transcendence. When activated, an invulnerable projection of the Operator (along with a powerful Void Beam attack) will appear and hover from the Warframe, able to be controlled through basic movement, and any learned Focus passives will take effect. During Transcendence, the player's Warframe is invulnerable but disabled, though any active channeled/cast Abilities will remain. This state lasts for 10 seconds unless the player manually deactivates it or falls off a platform. Activating Transcendence requires a filled gauge that automatically charges after 3 minutes.
+Upon completion of The Second Dream quest, players become able to perform Transcendence.
+When activated, an invulnerable projection of the Operator (along with a powerful Void Beam attack) will appear and hover from the Warframe, able to be controlled through basic movement, and any learned Focus passives will take effect.
+During Transcendence, the player's Warframe is invulnerable but disabled, though any active channeled/cast Abilities will remain.
+This state lasts for 10 seconds unless the player manually deactivates it or falls off a platform.
+Activating Transcendence requires a filled gauge that automatically charges after 3 minutes.
 Completing The War Within replaces Transcendence with Transference, which allows the Operator to physically join the battle with an entirely new set of Abilities, Amp and Arcanes. This upgrade also allows Focus passives to take effect immediately at the start of a mission, even if Transference isn't used at all.
 Acquiring both Transcendence and Transference are required to activate and take advantage of the passive and active Focus powers provided by each school.
 Tenno Schools
@@ -1527,7 +1656,10 @@ The Madurai School represents Fire 火. In Wu Xing this is associated with the h
 The Unairu School represents Earth 土. In Wu Xing this is associated with the flesh, stability, durability, and bearing.
 The Zenurik School represents Metal 金. Also interpreted as mineral or crystal, this is associated in Wu Xing with the lung, concentrating, reserving, and abundance.
 The Vazarin School represents Water 水. In Wu Xing this is associated with the bone, flexibility, supporting, adaptability, and sympathy.
-While the replies that the player chooses during the Operator's conversation with the Lotus has no gameplay effect, the choice of replies are used to reorder the choices of Tenno Schools. Once the selection screen appears, with the school most suited to the Operator appearing on the left, and choice to the right being the least suited. For example, choosing the conversation options relating to knowledge will put Naramon to the leftmost side as the most desirable choice. Players are still free to choose the Focus they wish to start with however.
+While the replies that the player chooses during the Operator's conversation with the Lotus has no gameplay effect, the choice of replies are used to reorder the choices of Tenno Schools.
+Once the selection screen appears, with the school most suited to the Operator appearing on the left, and choice to the right being the least suited.
+For example, choosing the conversation options relating to knowledge will put Naramon to the leftmost side as the most desirable choice.
+Players are still free to choose the Focus they wish to start with however.
 Sort
 24.1.5
 
@@ -1538,14 +1670,21 @@ The Helminth is a being residing in the Helminth Infirmary of the Orbiter, behin
 While the Infestation in the room as a whole is a part of the Helminth itself, the "main body" of the Helminth can be considered the big mouth attached to the back wall, which it uses to swallow resources. The Tenno can interact with the Helminth's core functions by having their Warframe sit down on the infested chair in the center of the room.
 Lore
 Ballas
-It is revealed during The Sacrifice by Executor Ballas that the Helminth was created by the Orokin to convert human subjects into Infested-hybrids, giving birth to Warframes to be used in The Old War against the Sentient. According to Ballas' Vitruvian, when a subject is exposed to a Helminth strain, it transforms their skin into sword-steel, as well as interlinking their internal organs with untold resilience, while at the same time preventing the same Infestation from completely destroying their mind, or so the Orokin thought. However, the Helminth-strain Warframes, like the Sentients before them, proved impossible to control by their Orokin creators until the Operators came to pacify them and Transference technology was developed.
+It is revealed during The Sacrifice by Executor Ballas that the Helminth was created by the Orokin to convert human subjects into Infested-hybrids, giving birth to Warframes to be used in The Old War against the Sentient.
+According to Ballas' Vitruvian, when a subject is exposed to a Helminth strain, it transforms their skin into sword-steel, as well as interlinking their internal organs with untold resilience, while at the same time preventing the same Infestation from completely destroying their mind, or so the Orokin thought.
+However, the Helminth-strain Warframes, like the Sentients before them, proved impossible to control by their Orokin creators until the Operators came to pacify them and Transference technology was developed.
 The Helminth seems to both fear and revere the "demon" Operator, showing both a determination to serve them and a happiness in their presence. The Helminth's ultimate goal, unsurprisingly as an Infested life form, seems to be to become one with the Operator.
 Flare possesses a sentient Infested guitar named Lizzie, who reveals herself to be connected to the Helminth and all other Techrot and Infested. Like the Helminth's relationship with the Operator, Lizzie claims to love Flare and refers to the Drifter as a demon.
 The Helminth appears to be mysteriously linked to time travel, with the Drifter and Roathe using it to reach 1999 and XX99 respectively. Lizzie is also fully aware of the Drifter's ability to loop time.
 Helminth Cyst
 thumb|Fully grown cyst (7 days from infection)
 The Helminth room becomes accessible for the first time after obtaining a Helminth Cyst from another infected player or by equipping Nidus or Nidus Prime.
-At the center of the Helminth Infirmary is a chair that Nidus can sit on. Should the player choose to sit on the chair (in spite of Ordis's protests), a needle will inject the left side of the Nidus' neck and will release it afterward. This will infect him with the Helminth virus, and also "awaken" Helminth in the Infirmary, triggering its communications to the Tenno. 24 hours after the injection, a small, pink, Infested cyst will start growing at the site of injection. The cyst will continue to grow in size until 6 more days have passed, at which point it will be fully matured, as seen by the small tendrils sprouting from its surface. The player may drain the mature cyst while incubating a Kubrow to breed a new type of Companion, the Helminth Charger, from the Orbiter's Incubator Segment; a new cyst will appear 24 hours after draining it.
+At the center of the Helminth Infirmary is a chair that Nidus can sit on.
+Should the player choose to sit on the chair (in spite of Ordis's protests), a needle will inject the left side of the Nidus' neck and will release it afterward.
+This will infect him with the Helminth virus, and also "awaken" Helminth in the Infirmary, triggering its communications to the Tenno.
+24 hours after the injection, a small, pink, Infested cyst will start growing at the site of injection.
+The cyst will continue to grow in size until 6 more days have passed, at which point it will be fully matured, as seen by the small tendrils sprouting from its surface.
+The player may drain the mature cyst while incubating a Kubrow to breed a new type of Companion, the Helminth Charger, from the Orbiter's Incubator Segment; a new cyst will appear 24 hours after draining it.
 The injection will only occur once, and will not happen again to additionally built Nidus. However, Nidus can still receive the cyst from another infected player.
 As long as Nidus is infected, any Warframes that come into contact with him will also contract the Helminth Virus. Players will know if they have been infected when they hear an 'injection' sound, and are briefly surrounded by a light, brown cloud. After 24 hours, the same cyst will appear on the newly infected Warframe. The now-infected Warframes can also spread the virus to other Warframes the same way as Nidus.
 However, the virus can only be spread during missions, in a Clan Dojo, or in a player's Orbiter, and cannot be spread in Relays. Infected players can also spread the virus to players who have yet to complete The Glast Gambit or any of its prerequisite quests (namely The War Within).
@@ -1567,13 +1706,29 @@ Ability Replacement
 The Helminth has the ability to replace Warframe Abilities with those of other Warframes or even unique ones. It can be accessed through the Helminth Infirmary on the Orbiter, requiring the Helminth Segment whose blueprint is purchased from Son in the Necralisk for 15000 Standing and requires Mastery Rank 8 and Rank 3 - Associate with the Entrati. Alternatively, a built Helminth Segment can be purchased from the Market as part of the Helminth Segments Bundle for 300.
 Once the segment has been built and installed, the Helminth Infirmary will be permanently open, even without the Cyst or Nidus, and the ability to Fast Travel to the Helminth becomes available. Upon sitting on the chair to install the segment, the player is prompted to name the Helminth. The Helminth can be freely renamed using the console to the left of the entrance.
 Subsuming Warframes
-In-game descriptionAfter unlocking Rank 1 Metamorphosis, any built non-Prime/non-Umbra Warframe can be sacrificed to the Helminth, freeing an inventory slot while doing so. After 23 hours, the sacrificed Warframe will have one predetermined subsumed ability, as listed in the chart below, available for use through the Helminth. This permanently unlocks the ability to replace another Warframe's ability with said subsumed ability. For example, sacrificing a single Mag Warframe will unlock her subsumed ability, Pull, to be used on any other Warframe. Passives are not affected by the system.
+In-game descriptionAfter unlocking Rank 1 Metamorphosis, any built non-Prime/non-Umbra Warframe can be sacrificed to the Helminth, freeing an inventory slot while doing so.
+After 23 hours, the sacrificed Warframe will have one predetermined subsumed ability, as listed in the chart below, available for use through the Helminth.
+This permanently unlocks the ability to replace another Warframe's ability with said subsumed ability.
+For example, sacrificing a single Mag Warframe will unlock her subsumed ability, Pull, to be used on any other Warframe.
+Passives are not affected by the system.
 Note that the Warframe does not have to be at max rank in order to be subsumed. Only one Warframe can be subsumed at a time, and the process can be rushed for 50. There is also a limited number of subsumed abilities the Helminth can hold, which can be increased with the Helminth's Metamorphosis rank. The same Warframe cannot be subsumed more than once.
-To subsume a Warframe, the currently equipped Warframe must be brought to the Helminth Infirmary. Sitting on the chair will prompt an option to "Subsume Warframe", with a note that the chosen Warframe will be consumed. Selecting this option will display the Warframe being sacrificed and their ability being taken, and prompts the player to type CONFIRM to confirm the subsuming. The sacrificed Warframe will then be rendered inert and held in the back of the room by the Helminth's tendrils to be slowly absorbed into its biomass, and the player will have their oldest Warframe auto-equipped.
+To subsume a Warframe, the currently equipped Warframe must be brought to the Helminth Infirmary.
+Sitting on the chair will prompt an option to "Subsume Warframe", with a note that the chosen Warframe will be consumed.
+Selecting this option will display the Warframe being sacrificed and their ability being taken, and prompts the player to type CONFIRM to confirm the subsuming.
+The sacrificed Warframe will then be rendered inert and held in the back of the room by the Helminth's tendrils to be slowly absorbed into its biomass, and the player will have their oldest Warframe auto-equipped.
 Once fully subsumed, a Lotus flower with its colors matching the sacrificed Warframe will appear in the infirmary. The petals will match the primary color, stamen the secondary color, and stem the tertiary color. There will also be a glow emitting from the center of the flower matching the Energy color and petal veins will use the energy accent color. If no colors have been modified, the flower will use the Warframe's default colors.
 Injecting and Replacing Abilities
-Once Helminth subsumes an ability, it can replace any chosen Warframe's ability, including those on Prime or Umbra variants, via an injection. However, each Warframe can only have one subsumed ability, from either a Warframe or Helminth, per mod configuration. Players can choose which mod configurations the injected ability can be used in. Additionally, separate mod configurations can have different injected abilities on them, and over different ability slots. For example, an Excalibur with 3 config slots could have Pull replace their Radial Javelin on their first mod config slot, have Shock replacing Slash Dash on another slot, and keep all abilities as normal on the final slot. Reordering mod configurations will also move the injected ability with it.
-Ability changes are reversible, but Secretions consumed from the injection are not returned and re-injecting the ability will still have costs. Furthermore, while an ability can be injected into multiple configurations, it will always occupy the same ability slot in all configurations if applied to multiple. For example, a Volt with Decoy injected over Speed cannot inject Decoy over Shock on other configurations. Modifying which ability slot or the number of configurations an ability is injected into will require removal and re-injection of the ability, paying the Secretion cost again. If one wishes to have multiple loadouts ready in which the same ability is injected into different slots, another copy of the Warframe is required.
+Once Helminth subsumes an ability, it can replace any chosen Warframe's ability, including those on Prime or Umbra variants, via an injection.
+However, each Warframe can only have one subsumed ability, from either a Warframe or Helminth, per mod configuration.
+Players can choose which mod configurations the injected ability can be used in.
+Additionally, separate mod configurations can have different injected abilities on them, and over different ability slots.
+For example, an Excalibur with 3 config slots could have Pull replace their Radial Javelin on their first mod config slot, have Shock replacing Slash Dash on another slot, and keep all abilities as normal on the final slot.
+Reordering mod configurations will also move the injected ability with it.
+Ability changes are reversible, but Secretions consumed from the injection are not returned and re-injecting the ability will still have costs.
+Furthermore, while an ability can be injected into multiple configurations, it will always occupy the same ability slot in all configurations if applied to multiple.
+For example, a Volt with Decoy injected over Speed cannot inject Decoy over Shock on other configurations.
+Modifying which ability slot or the number of configurations an ability is injected into will require removal and re-injection of the ability, paying the Secretion cost again.
+If one wishes to have multiple loadouts ready in which the same ability is injected into different slots, another copy of the Warframe is required.
 The appropriate Warframe Augment Mods can be installed on the Warframe with the injected ability. Note that some augments may not be fully functional on other Warframes, particularly if they require interaction from the original Warframe's other abilities.
 There is no warning when placing an ability on an already occupied mod config slot. The infusing process goes as usual.
 Damage buff restrictions
@@ -1600,13 +1755,20 @@ Base ability does not include hold-cast to imbue the next ability cast with Cold
 Non-Limbo Warframes remain unable to step into the Rift Plane themselves without another player's Banish, Cataclysm or portals from Limbo's passive.
 Movement Speed
 Helminth Abilities
-The Helminth possesses its own set of unique abilities unlocked by ranking up through Metamorphosis. These abilities have their own stats and functions, allowing the player to customize their loadout further. Only one Helminth ability may occupy one ability slot in a loadout configuration at a time. Helminth abilities also count as an ability replacement preventing other subsumed Warframe abilities from occupying the same ability loadout. Mods that affect Ability Duration, Ability Efficiency and Ability Strength all function normally on them.
+The Helminth possesses its own set of unique abilities unlocked by ranking up through Metamorphosis.
+These abilities have their own stats and functions, allowing the player to customize their loadout further.
+Only one Helminth ability may occupy one ability slot in a loadout configuration at a time.
+Helminth abilities also count as an ability replacement preventing other subsumed Warframe abilities from occupying the same ability loadout.
+Mods that affect Ability Duration, Ability Efficiency and Ability Strength all function normally on them.
 Helminth abilities can be cast with the hotkey assigned to the ability slot it occupies (e.g. default 1, 2, 3, 4).
 Helminth/Unique Abilities
 Invigoration
 In addition to injecting abilities, the Helminth can be further enhanced to Invigorate a Warframe, providing randomly selected temporary buffs. Invigorations require installing the Helminth Invigoration Segment, whose blueprint can be purchased from Son in the Necralisk for 30000 Standing and requires Mastery Rank 8 and Rank 5 - Family with the Entrati. Alternatively, a built Helminth Invigoration Segment can be purchased from the Market as part of the Helminth Segments Bundle for 300.
 Three random Warframes, each with their own random set of one offense and one utility buffs from the chart below, are chosen to receive Invigorations per week starting on Monday at 0:00 UTC. The buffs last for seven days.
-After ten Invigorations, the Invigoration counter is replaced by an "Override Warframe" button that allows the player to change one of the randomly generated Warframe options to their currently equipped Warframe, including into one that has already received Invigorations. However, Warframes cannot receive a second Invigoration when it already has a previous one active. Once this option is consumed, the Invigoration counter resets, and the player once again needs ten Invigorations to reactivate the override. The override allows four warframes to be invigorated that week (up to seven at the same time).
+After ten Invigorations, the Invigoration counter is replaced by an "Override Warframe" button that allows the player to change one of the randomly generated Warframe options to their currently equipped Warframe, including into one that has already received Invigorations.
+However, Warframes cannot receive a second Invigoration when it already has a previous one active.
+Once this option is consumed, the Invigoration counter resets, and the player once again needs ten Invigorations to reactivate the override.
+The override allows four warframes to be invigorated that week (up to seven at the same time).
 Possible Buffs
 † Affects Exalted Weapons of the appropriate class. For example, primary buffs will affect Artemis Bow and secondary buffs will affect Balefire Charger.
 ‡ Not eligible for Hildryn and Lavos
@@ -1653,7 +1815,8 @@ Subsumed abilities benefit from the Ability Efficiency bonus of Temple's Backbea
 Augments or abilities that boost the damage or add damage types to friendly units (such as Roar or augments like Shock Trooper) will be applied to Mind Control targets, significantly increasing the damage conversion during the invulnerability period and adding damage not originally possible with Nyx alone.
 To gain large amounts of Helminth experience use all the tricks at your disposal:
 Subsume instead of selling any standard Warframe you do not like after you have mastered it.
-Go through bursts of repeated infusion-then-removal of abilities on the same frame for abilities with a very "even" cost. Given how the Helminth gets tired of eating the same resource in rapid succession (and that resource giving much smaller boosts to the relevant secretion type), you want to spread out your secretion costs as much as possible to get as many infusions as possible between feedings instead of burning out one secretion type in a single shot; Nyx's Mind Control is an excellent example of this with a 32-32-30 spread.
+Go through bursts of repeated infusion-then-removal of abilities on the same frame for abilities with a very "even" cost.
+Given how the Helminth gets tired of eating the same resource in rapid succession (and that resource giving much smaller boosts to the relevant secretion type), you want to spread out your secretion costs as much as possible to get as many infusions as possible between feedings instead of burning out one secretion type in a single shot; Nyx's Mind Control is an excellent example of this with a 32-32-30 spread.
 Do not waste feed resources that would give more than enough of a secretion to get that type to 100%, the excess is completely lost but the Helminth will still get tired of the resource. You can easily Infuse then remove an ability to open up more capacity for feeding for XP.
 **Trivia:**
 The word helminth (from Greek: "intestinal worm") is a term used to superficially describe worm-like organisms, some of which are strictly parasitic or worms.
@@ -1679,7 +1842,6 @@ Reservoirs do not affect Mind Control targets.
 
 ## Endo
 Endo is a form of energy used in the process of Fusion to upgrade the effectiveness of Mods at the cost of increasing their drain. Appearing as a large blue and gold orb, it is commonly dropped by slain enemies, as well as rewarded by a variety of mission types. Endo can also be acquired by dissolving unused Mods in the Orbiter's Mods segment, converting the Mods into set quantities of Endo. Maroo can also extract Endo from Ayatan Treasures at her Bazaar.
-2
 Enemy Drop Quantities
 Fusion Costs
 Fusion costs to a final mod rank from both mod rank 0 and previous mod rank are show below. Expressing rarity as a number (such as common rarity being 1, uncommon 2 etc.) allows to derive convenient formulas for calculating fusion costs. Also note that these fusion costs apply to these additional mod rarities:
@@ -1694,7 +1856,9 @@ Incremental Fusion Cost from Previous Mod Rank
 Fusion Cost from previous rank 10 Rarity As A Number 2Rank - 1
 Fusion Cost from previous rank (Antique Mods) 160 3 2Rank - 1
 Farming Tips
-A fast way to farm is in the Rathuum Arena at Yam or Vodyanoi, Sedna in The Steel Path mode for 2x Mod and Endo drop chance. This may be attempted solo, however it is much faster to farm with a full squad of Tenno that may be formed via Recruiting or Clan/Alliance chat, especially if at least 1 team member has Mod Drop Chance Booster for another 2x increase in Mod and Endo drop chance. Useful frames to increase amount of Endo per minute include Nekros with Despoil for Desecrate, Nidus for Larva, and Khora with Pilfering Strangledome for Strangledome, yielding upwards of 18,000 per hour.
+A fast way to farm is in the Rathuum Arena at Yam or Vodyanoi, Sedna in The Steel Path mode for 2x Mod and Endo drop chance.
+This may be attempted solo, however it is much faster to farm with a full squad of Tenno that may be formed via Recruiting or Clan/Alliance chat, especially if at least 1 team member has Mod Drop Chance Booster for another 2x increase in Mod and Endo drop chance.
+Useful frames to increase amount of Endo per minute include Nekros with Despoil for Desecrate, Nidus for Larva, and Khora with Pilfering Strangledome for Strangledome, yielding upwards of 18,000 per hour.
 Doing Arbitrations is another way of acquiring large sums of Endo, including tradeable Ayatan Sculptures. With 1 hour of Arbitration and 1 reward every 5 minutes, a player could expect to average 11,796 per hour (including Ayatan Sculptures, after being filled with Ayatan Stars). Staying longer than one hour or playing a mission with a higher reward frequency than 5 minutes will yield even more Endo on average.
 The daily Sortie Mission is a possible source for Endo since it has a chance to either reward 4,000 Endo, a tradeable Anasa Ayatan Sculpture (3,450 Endo when filled), a tradeable Legendary Core (worth up to 40,920 Endo), or a 3 day Mod Drop Chance Booster giving 2x Mod and Endo drop chance.
 While Legendary Cores do not increase your Endo balance, they can be used to maximize any mod eliminating Endo and Credits cost, resulting in a maximum possible saving of 40,920 for fusing a rank 0 Primed/Umbra Mod.
@@ -1707,8 +1871,8 @@ The Daily Synthesis Task will reward you with 250-800 Endo for completion.
 Dissolving unneeded duplicate mods may yield sizeable amounts of Endo.
 **Notes:**
 Internally game considers Endo a form of "Mod drop" (and not a "Resource drop). Therefore, out of different boosters only the Mod Drop Chance Booster has an effect on the rate of Endo acquisition, and no relay blessing will have any effect.
-The total Endo gain from dissolving a Riven mod is equal to the following formula, rounded down:(100 × (Mastery Rank - 8) + 22.5 × 2Mod Rank + 200 × Rerolls) - 7.
-For example, the value for a max ranked riven rolled 5 times with a Mastery Rank requirement of 13 would be:(100 × (13 − 8) + 22.5 × 28 + 200 × 5) - 7.
+The total Endo gain from dissolving a Riven mod is equal to the following formula, rounded down:(100 x (Mastery Rank - 8) + 22.5 x 2Mod Rank + 200 x Rerolls) - 7.
+For example, the value for a max ranked riven rolled 5 times with a Mastery Rank requirement of 13 would be:(100 x (13 − 8) + 22.5 x 28 + 200 x 5) - 7.
 **Trivia:**
 Endo replaced the Fusion Core system as of Update The Silver Grove.
 
@@ -1717,7 +1881,11 @@ Stance Mods are special mods exclusive to Melee weapons that provide bonuses and
 Similar to Aura mods, Stances can be slotted into a special Stance slot on melee weapons, and they increase a weapon's mod capacity. Stance mods with a matching polarity to the stance slot will double their mod capacity bonus, while non-matching polarities will have reduced capacity bonus. Leveling up Stance mods increases the amount of additional mod capacity they provide, as well as unlocks additional Melee Combos for use.
 Melee Combos
 right|thumb|300px|The Melee Combo list on Crimson Dervish. Outdated as of Update 26.
-When equipped, Stances change a melee weapon's animation set and unlocks the ability to perform Melee Combos that initiate different attack patterns with the weapon. Many Melee Combos allow weapons to perform attacks they are incapable of doing without Stances, like giving single-target melee weapons like the Skana the ability to hit multiple enemies. They may also enhance a melee weapon's attacks with special effects, from increasing the weapon's damage per hit, to forcing Status Effect procs (i.e. 100% chance for a specific proc, like Slash), and enhancing mobility via lunges and jumps. Melee Combos are available when a melee weapon is drawn (holding F) and can also be performed via Quick Melee attacks when using a Primary or Secondary weapon.
+When equipped, Stances change a melee weapon's animation set and unlocks the ability to perform Melee Combos that initiate different attack patterns with the weapon.
+Many Melee Combos allow weapons to perform attacks they are incapable of doing without Stances, like giving single-target melee weapons like the Skana the ability to hit multiple enemies.
+They may also enhance a melee weapon's attacks with special effects, from increasing the weapon's damage per hit, to forcing Status Effect procs (i.e.
+100% chance for a specific proc, like Slash), and enhancing mobility via lunges and jumps.
+Melee Combos are available when a melee weapon is drawn (holding F) and can also be performed via Quick Melee attacks when using a Primary or Secondary weapon.
 Melee combos are initiated by inputting different inputs of the Melee key (PC default E, see also Key Bindings) and various other keys, for example Up + E Up + E Up + E, where the E key is tapped three times in succession, whiling holding down the Up key. As of Update 26, players can flawlessly switch between combos by changing the modifier key (i.e. forward Up or block key RMB) during a particular combo.
 An equipped Stance's Melee Combo list can be seen on the "Melee Combo" button underneath the weapon's Stance Slot in the Arsenal, or in "Melee Combos" under Options while in a mission. Many Stances have a single basic combo consisting of simply pressing the Melee Key E in sequence, and 1-3 more advanced combos requiring multiple inputs from different keys.
 Combo Types
@@ -1726,7 +1894,9 @@ Many Melee Combos deal varying amounts of damage from a single combo, for exampl
 Many Melee Combos perform multiple strikes from a single keypress, for example Swirling Tiger's Winding Claws combo hits up to six times on the first attack.
 Combos ignore crowd control effects during their animations, which helps in fighting units with powerful knockdown moves like Heavy Gunners or Shockwave MOAs or from grapples like Scorpions or Ancient Disruptors. Similar to blocking, hits by knockdown/grapple attacks while facing an enemy within the block angle during a combo animation will ignore the knockdown/grapple effect.
 In the event that a Warframe is knocked down in the middle of a melee combo chain, the combo can still be resumed once the Warframe initiates melee as its first move upon standing up.
-Some combos feature forced Status Effect procs on certain attacks, which have a 100% chance to initiate regardless of the weapon's actual status chance or availability of damage type. Many combos, like Iron Phoenix's Wings & Beak and Sundering Weave's Rapid Current feature forced Impact proc, while others like Tranquil Cleave's Breathless Lunge and Gnashing Payara's Pincer Strike have forced Slash proc. Sometimes, an attack may force proc both Impact and Slash at the same time like in Malicious Raptor's Jagged Gash combo.
+Some combos feature forced Status Effect procs on certain attacks, which have a 100% chance to initiate regardless of the weapon's actual status chance or availability of damage type.
+Many combos, like Iron Phoenix's Wings & Beak and Sundering Weave's Rapid Current feature forced Impact proc, while others like Tranquil Cleave's Breathless Lunge and Gnashing Payara's Pincer Strike have forced Slash proc.
+Sometimes, an attack may force proc both Impact and Slash at the same time like in Malicious Raptor's Jagged Gash combo.
 Attacks may force proc Impact, Slash, and Lifted, or have a crowd control effect like Knockdown or Ragdoll.
 Rarely, attacks may open enemies up to front/back or ground Finishers like in the case of Dagger heavy attacks.
 Some combos provide bonus Impact, Puncture, and/or Slash physical damage. These bonuses multiply base physical values similar to physical mods, however they stack multiplicatively rather than additively with those mods. They often come in +10%, +25%, +50%, or +100% values.
@@ -1772,7 +1942,11 @@ The remaining duration of an ability is displayed on the ability's icon in the b
 Energy Drain for Channeled Abilities
 Channeled Abilities#How Ability Duration Affects Energy Drain
 Cooldowns
-Most abilities do not have a "cooldown" period, which is a mechanic in many similar games that disallow a player from recasting the same ability too frequently. However, abilities in WARFRAME often prevent you from recasting them while the first instance is still active. Hence, if you have such an ability with a 5 second duration, you can only cast it once every five seconds. If you extend its duration to 8 seconds, you will not be able to cast it more frequently than once every 8 seconds. This increase in uptime can be undesirable for abilities that have both an on-cast effect and an ongoing effect, such as Silence, which can be used as an on-demand stun.
+Most abilities do not have a "cooldown" period, which is a mechanic in many similar games that disallow a player from recasting the same ability too frequently.
+However, abilities in WARFRAME often prevent you from recasting them while the first instance is still active.
+Hence, if you have such an ability with a 5 second duration, you can only cast it once every five seconds.
+If you extend its duration to 8 seconds, you will not be able to cast it more frequently than once every 8 seconds.
+This increase in uptime can be undesirable for abilities that have both an on-cast effect and an ongoing effect, such as Silence, which can be used as an on-demand stun.
 If a player casts an ability too frequently in Elite Sanctuary Onslaught, then the game will put an explicit cooldown by disabling that ability for 8-15 seconds, depending on the ability slot; second, third, and fourth abilities experience an increasingly long cooldown timer.
 Abilities With Casting Cooldown
 Abilities with casting cooldown timers:
@@ -1928,9 +2102,15 @@ Considering the same Ivara with full energy pool of 744 capacity, she can remain
 Restoring Energy
 right|thumb|120px|link=Energy Siphon
 right|thumb|120px|link=Equilibrium
-Energy does not regenerate over time unless Energy Nexus is equipped, or the Energy Siphon aura mod is equipped by at least one member of the squad. Otherwise, energy must be restored either by picking up Energy Orbs (and Health Orbs with Equilibrium) or by a few other means. Trinity and Harrow are the two Warframes with an inherent ability to explicitly restore energy to all Warframes within the squad, and Nekros can Desecrate nearby corpses for a chance to drop more Energy Orbs. Limbo has, and grants, access to the Rift Plane, a dimension in which Warframes regenerate energy over time consistently. The Zenurik Focus tree grants the Energy Pulse and Wellspring abilities; the former being a passive that restores additional energy over-time when picking up Energy Orbs, and the latter being an active ability that creates a dome that restores energy over-time to all Warframes that walk through it.
+Energy does not regenerate over time unless Energy Nexus is equipped, or the Energy Siphon aura mod is equipped by at least one member of the squad.
+Otherwise, energy must be restored either by picking up Energy Orbs (and Health Orbs with Equilibrium) or by a few other means.
+Trinity and Harrow are the two Warframes with an inherent ability to explicitly restore energy to all Warframes within the squad, and Nekros can Desecrate nearby corpses for a chance to drop more Energy Orbs.
+Limbo has, and grants, access to the Rift Plane, a dimension in which Warframes regenerate energy over time consistently.
+The Zenurik Focus tree grants the Energy Pulse and Wellspring abilities; the former being a passive that restores additional energy over-time when picking up Energy Orbs, and the latter being an active ability that creates a dome that restores energy over-time to all Warframes that walk through it.
 Two other mods can allow for what can be significant energy restoration by converting a portion of the damage received by enemy attacks on a Warframe's Health into energy: Hunter Adrenaline and Rage. However, these are obviously very risky for many frames and are only suitable for those that are rather "health-tough" with strong base Health, Armor and self-healing; frames that typically rely on constant Stealth or a Shield-Gating defense will not be able to benefit much from these mods.
-Besides the Entropy effect from Cephalon Suda, the Blight effect from Red Veil also restores 25% of the player's base energy, and provides a base movement speed boost of +10% for 30 seconds. Squad Energy Restores are consumables that can grant energy to nearby teammates in varying amounts, up to 400 total. When using a Prime Warframe, moving close to a Death Orb will cause it to release a radial wave that restores 250 energy to all nearby Warframes within a small radius, this effect can only occur once per orb.
+Besides the Entropy effect from Cephalon Suda, the Blight effect from Red Veil also restores 25% of the player's base energy, and provides a base movement speed boost of +10% for 30 seconds.
+Squad Energy Restores are consumables that can grant energy to nearby teammates in varying amounts, up to 400 total.
+When using a Prime Warframe, moving close to a Death Orb will cause it to release a radial wave that restores 250 energy to all nearby Warframes within a small radius, this effect can only occur once per orb.
 It is important to note that on most occasions, toggled abilities disable energy generation from team abilities, consumables, or passive regeneration methods. Some exceptions to this are Chroma (Spectral Scream and Effigy) and partially Equinox (Pacify & Provoke and Mend & Maim).
 ***Casting any abilities will temporary stop any passive energy regeneration methods from working, due to this, the "drain" needs to be accounted for, it is suspected that this draining is coded to be treated like any toggled/channeled abilities. Frames that casts frequently will benefit from passive energy regeneration far lesser than those who casts lesser due to this mechanic.
 Abilities
@@ -1983,12 +2163,12 @@ Attributes
 right
 Mods have several attributes:
 Name & Effect: The name of the mod and what it changes when installed. The name includes an identifier of the variant (The descriptors "Flawed", "Primed", and "Amalgam"), or set ("Umbral" in the right image), if applicable.
-Item Compatibility: What the mod can be equipped on and if it's part of a Mod Set. Individual mods are equippable either on any of a more general type of equipment (e.g. “MELEE”), or only on one of a subtype, (e.g. “SWORDS”), or only on a single piece of equipment and its closest variants (e.g. “SKANA”), or only exclusively on one specific variant (e.g. “BURSTON PRIME”).
+Item Compatibility: What the mod can be equipped on and if it's part of a Mod Set. Individual mods are equippable either on any of a more general type of equipment (e.g. "MELEE"), or only on one of a subtype, (e.g. "SWORDS"), or only on a single piece of equipment and its closest variants (e.g. "SKANA"), or only exclusively on one specific variant (e.g. "BURSTON PRIME").
 Special Indicator: Symbols that denote if the mod is an Aura, Stance, Exilus, Riven or part of a Set.
 Drain & Polarity: The number is the amount of Capacity points a mod uses up when installed ("drain", except Aura/Stance mods that "provide" Capacity points instead). The symbol denotes Polarity (described further below).
-Rank: The upgrade level of the mod, ranging from rank 0 to Maximum Rank, which varies according to mod, the highest being 10. When the level of a mod is greater than zero, it is indicated by blue pips on the bottom of the card. (A small black hexagon appears above the rank pips on mods that are slotted – not visible in the right image.)
+Rank: The upgrade level of the mod, ranging from rank 0 to Maximum Rank, which varies according to mod, the highest being 10. When the level of a mod is greater than zero, it is indicated by blue pips on the bottom of the card. (A small black hexagon appears above the rank pips on mods that are slotted - not visible in the right image.)
 Stack/Quantity: The quantity of a mod of the same rank that you own.
-Rarity: Determines the order of appearance of mods when sorted by rarity in the mod inventory view, and will also be printed in the trading confirmation prefixing mod's rank (e.g. “RARE RANK 5” or “REQUIEM RANK 0”). Mods vary in 9 tiers of rarity, with higher tier rarity mods displayed earlier (more to the left) in the sorting order.
+Rarity: Determines the order of appearance of mods when sorted by rarity in the mod inventory view, and will also be printed in the trading confirmation prefixing mod's rank (e.g. "RARE RANK 5" or "REQUIEM RANK 0"). Mods vary in 9 tiers of rarity, with higher tier rarity mods displayed earlier (more to the left) in the sorting order.
 Rarity
 For mods of the lowest 4 tiers (Common-Legendary), their rarity defines both increasing with rarity applicable fusion costs and trading taxes (being highest for Legendary out of all mods in game), while the 5 highest tiers (Riven-Requiem) share these with Rare mods (except Peculiar - sharing with Uncommon instead).
 Most mods have an increasing number of diamonds at the top of their mod cards depending on their rarity. In the order of increasing rarity these are:
@@ -2035,10 +2215,16 @@ Necramechs have 12 general slots.
 Tektolyst Artifacts have 5 general slots.
 The Parazon has 3 general slots and 3 special slots.
 The Plexus (the Railjack modding system) has 8 general slots and an Aura slot on one grid (Integrated), and 3 special slots on each of the other two grids (Battle and Tactical).
-Items have a limited Mod Capacity, that correlates to their Rank. The maximum rank is normally 30, but for some items it is 40. Warframes/Companions/Archwings/K-Drives/Necramechs and Weapons can be supercharged with an Orokin Reactor or Orokin Catalyst respectively, which doubles the available Mod capacity. Mod Capacity functions as a limit to what mods can be equipped depending on their drain. Mods can have a drain of 0 to as high as 20 depending on the mod and what rank it is. Items also have a minimum mod capacity, which adds mod points onto items that are a lower rank than a player's current Mastery Rank. The amount of minimum mod capacity is 15, plus 1 per 2 Mastery Ranks.
+Items have a limited Mod Capacity, that correlates to their Rank.
+The maximum rank is normally 30, but for some items it is 40.
+Warframes/Companions/Archwings/K-Drives/Necramechs and Weapons can be supercharged with an Orokin Reactor or Orokin Catalyst respectively, which doubles the available Mod capacity.
+Mod Capacity functions as a limit to what mods can be equipped depending on their drain.
+Mods can have a drain of 0 to as high as 20 depending on the mod and what rank it is.
+Items also have a minimum mod capacity, which adds mod points onto items that are a lower rank than a player's current Mastery Rank.
+The amount of minimum mod capacity is 15, plus 1 per 2 Mastery Ranks.
 As an example, a Mastery Rank 6 player would have a minimum mod capacity of 18.
 After Mastery Rank 30, minimum mod capacity increases by 1 per Legendary Rank.
-If the Mod Capacity drain is less or equal to the item’s remaining Mod Capacity it will install and Mod Capacity will be deducted.
+If the Mod Capacity drain is less or equal to the item's remaining Mod Capacity it will install and Mod Capacity will be deducted.
 Mod drain is modified by Polarity:
 Matching polarity reduces drain by half, rounded up: (e.g. Serration costs 14, but dropped into a MaduraiMadurai polarized slot costs only 7)
 Non-matching polarity increases drain by a quarter, rounded mathematically: drain of 0-1 will increase by 0, drain of 2-5 by 1, drain of 6-9 by 2, drain of 10-13 by 3, drain 14-16 by 4, etc.
@@ -2051,7 +2237,7 @@ Mods can have their overall power increased by the process called Fusion. Fusing
 Transmutation
 Transmutation is one of the ways of acquiring mods. Choosing this Mod Action, players can sacrifice four selected unranked mods to generate a random mod from a list of mods that can be acquired in this way. Alternatively, three selected mods and one Vazarin Transmute Core can be used to guarantee a random mod of a specific polarity. Transmutation of Riven Mods requires a Riven Transmuter. Mods that cannot be acquired by transmutation are conventionally called untransmutable mods.
 Selling
-Choosing this Mod Action, a player can convert a mod into an amount of Credits equal to 75% of the Credits invested in the mod. Any selection of single mods and/or stacks of mods can be sold, and players are prompted to review and confirm the action after clicking "Sell" (after a mod has been "sold" this way, it isn't physically found anywhere – it has been eliminated). Notably, Riven Mods cannot be sold.
+Choosing this Mod Action, a player can convert a mod into an amount of Credits equal to 75% of the Credits invested in the mod. Any selection of single mods and/or stacks of mods can be sold, and players are prompted to review and confirm the action after clicking "Sell" (after a mod has been "sold" this way, it isn't physically found anywhere - it has been eliminated). Notably, Riven Mods cannot be sold.
 Dissolution
 Choosing this Mod Action, a player can convert a mod into a set amount of Endo, equal to 75% of the Endo invested in the mod. Riven mods have a special calculation (see the table below). Any selection of single mods and/or stacks of mods can be sold, and players are prompted to review and confirm the action after clicking "Dissolve".
 Standard Mods and Variants
@@ -2060,7 +2246,11 @@ A standard mod may come in six variants: Normal, Flawed, Primed, Umbra, Amalgam,
 Rarity only somewhat corresponds to classes of mods: some standard mods are Rare, and some nonstandard mods are Common.
 Players cannot install duplicate mods onto a single piece of equipment. Likewise, different variants of the same mod cannot be equipped together. For example, a given pistol can only accept one Hornet Strike mod at a time, and Flow, Primed Flow, and Archon Flow can't be installed together on a single Warframe.
 Nonstandard Mods
-Nonstandard mods are all the other mods that provide bonuses to either the same stats as the standard mods or to certain other stats, or modify equipment in specific ways. They come in different classes and have a more varied design. Nonstandard mods stack with other mods providing the same type of bonus (certain exceptions exist). Therefore, Vitality (a standard Health mod) stacks with Vigor (a Nightmare mod, providing both a Health and Shield bonus). They generally do not have variants (a small number of Primed Nightmare mods are one exception).
+Nonstandard mods are all the other mods that provide bonuses to either the same stats as the standard mods or to certain other stats, or modify equipment in specific ways.
+They come in different classes and have a more varied design.
+Nonstandard mods stack with other mods providing the same type of bonus (certain exceptions exist).
+Therefore, Vitality (a standard Health mod) stacks with Vigor (a Nightmare mod, providing both a Health and Shield bonus).
+They generally do not have variants (a small number of Primed Nightmare mods are one exception).
 Special Slot Mods
 The following types of mods have a special, dedicated slot.
 Unique Mods
@@ -2068,7 +2258,10 @@ Mods that do not fit in the above categories:
 **Notes:**
 Despite most succinctly described as "upgrades", Mods are not the only upgrades; in tandem with Mods, a few other forms of upgrades exist: Arcane Enhancements (another type of extrinsic upgrades, not too dissimilar from Mods), Arcane Helmets (a legacy alternative to an Arcane Enhancement), Valence Fusion (a way to upgrade base stats of certain items), Focus, and Intrinsics (permanent intrinsic upgrades to the Operator and the Railjack, respectively; they also affect certain other equipment, to a lesser degree).
 For mods increasing shield, health, or energy, bonuses are calculated from a warframe's base value and stack additively with the Rank Bonuses. This prevents exponential increases with the passive leveling bonuses introduced in Update 7.6.
-Mods dropped on the ground will display a visual effect where white specks of energy converge on its position, making the mod more visible. If two or more players are in a mission, this visual effect will remain in place as long as any player has not collected the mod, and will only disappear if all players have picked up the mod. The visual effect itself can be marked using a waypoint to inform other players where the mod is, even if the player placing the waypoint has already picked up the mod. Waypointing a mod will also display its name even if a player hasn't picked it up.
+Mods dropped on the ground will display a visual effect where white specks of energy converge on its position, making the mod more visible.
+If two or more players are in a mission, this visual effect will remain in place as long as any player has not collected the mod, and will only disappear if all players have picked up the mod.
+The visual effect itself can be marked using a waypoint to inform other players where the mod is, even if the player placing the waypoint has already picked up the mod.
+Waypointing a mod will also display its name even if a player hasn't picked it up.
 Rare mods project a stronger, yellow-gold effect with a clear column of golden energy projecting into the air. Similarly, the orbs for components and blueprints dropped by special enemies create a distinctive purple energy column. Mods dropped by enemies in Rathuum and The Index display a projection of red energy.
 **Trivia:**
 There are around getModCount mods existing in the game including Flawed variants but excluding unveiled Riven Mods. This count includes:
@@ -2095,7 +2288,6 @@ After Update 16, when Cold based mods like Cryo Rounds increased their mod drain
 Lore
 Teshin during The Teacher
 Mod Components
-26
 
 ## Arcane Enhancement
 Arcane Enhancements are special items that can be installed on equipment to provide buffs, often activated through specific conditions within a mission.
@@ -2105,7 +2297,10 @@ thumb|right|An Arcane with refreshable duration icon
 Arcanes are activated by accomplishing its trigger condition (e.g. landing a Critical Hit, taking damage, etc.), which will then have a percentage chance to activate the stated effect. If an Arcane's effect has a limited duration and is refreshable, the duration can be renewed by triggering it again.
 Application
 thumb|Arcane upgrade interface.
-A total of two Arcanes can be equipped on each Warframe, Operator, and Operator Amps (however, in the case of Warframes when an Arcane Helmet is used, only a single Arcane can be equipped alongside). A maximum of one Arcane can be equipped on all weapons, while Zaw and Kitgun Arcanes occupy a unique slot separate from Primary/Secondary/Melee Arcanes. Arch-guns can equip two Arcanes, one for Primary and one for Secondary. Sentinel weapons cannot equip Primary/Secondary/Melee Arcanes, and Archwings, Archmelees, and Necramechs do not have associated Arcanes and slots.
+A total of two Arcanes can be equipped on each Warframe, Operator, and Operator Amps (however, in the case of Warframes when an Arcane Helmet is used, only a single Arcane can be equipped alongside).
+A maximum of one Arcane can be equipped on all weapons, while Zaw and Kitgun Arcanes occupy a unique slot separate from Primary/Secondary/Melee Arcanes.
+Arch-guns can equip two Arcanes, one for Primary and one for Secondary.
+Sentinel weapons cannot equip Primary/Secondary/Melee Arcanes, and Archwings, Archmelees, and Necramechs do not have associated Arcanes and slots.
 They can be installed through their respective upgrade screens for the item. Arcanes can be upgraded in the Orbiter's Arcane Segment located between the Mod and Incubator Segments, which becomes available after acquiring an Arcane, or while equipping one in the Arsenal. Rank insignia of an Arcane will be visible below its name, denoting how many upgrades it has undergone.
 Much like Mods, Arcanes can be equipped across multiple items, though they have a unique progress bar of their own to the right of the Foundry selection. Similarly, duplicate Arcanes cannot be equipped on the same item.
 Rank
@@ -2300,7 +2495,9 @@ One Void Relic per player can be equipped for use in a Void Fissure mission, wit
 Clicking on "Accept" when the fissure mission vote is started will bring up the relic selection menu, prompting the player to run the fissure with a relic of their choice. In endless missions, relics can be selected once for each rotation. This relic selection menu will offer only relics of the era that matches the selected mission (example being, Lith relics for Lith-era missions).
 If the mission node where the Void Fissure is has not been unlocked (completing the mission at least once), players will not be able to enter the mission and will not be prompted to equip a Void Relic.
 In order to open the relic, a player needs to collect ten reactant, which drop from Corrupted enemies affected by the Void Fissures.
-If the Void Relic is cracked and the mission successfully completed, each of the players' equipped relics will display one of the potential rewards from their relic's rewards table, with each player's reward being independent of their teammate's rewards depending on their equipped relic and drop chance. Relics can only be chosen by players who have equipped and successfully opened their relic, and can choose which of the up to four rewards on offer they want to keep — either from their own relic or from those of the other players. Players can also obtain blueprints from the relics, regardless of their Mastery Rank requirement.
+If the Void Relic is cracked and the mission successfully completed, each of the players' equipped relics will display one of the potential rewards from their relic's rewards table, with each player's reward being independent of their teammate's rewards depending on their equipped relic and drop chance.
+Relics can only be chosen by players who have equipped and successfully opened their relic, and can choose which of the up to four rewards on offer they want to keep — either from their own relic or from those of the other players.
+Players can also obtain blueprints from the relics, regardless of their Mastery Rank requirement.
 After the rewards are chosen, the relics equipped by all players are consumed. Relics that are not opened during the mission are not consumed.
 Corruption Buff
 Upon opening a relic after collecting 10 Reactant, the player receives a buff to one of their equipped gear for an amount of time based on the tier of the Void Fissure (time 30sec tier). The buffed gear will emit lightning bolts and sports a corrupted texture effect.
@@ -2314,10 +2511,19 @@ thumb|width=280x280|The Void Relic Refinement screen. It shows all owned Relics 
 thumb|280px|Process of refining
 When a Void Relic is successfully opened, exactly one of the six items in the relic is offered as a reward. Each item's chance of being chosen is represented as a blue bar in the Void Relic Refinement screen — the bar is not proportional to the item's probability of being chosen, but it does correctly rank items by probability and show decreases (for common items) and increases (for uncommon and rare items) as the player previews higher tiers of relic refinement.
 To perform refinement themselves, players must complete the Mars Junction mission on Earth and install the Void Relic Segment they receive in their Orbiter. They must then collect 10 Reactant in Void Fissure missions, which will coincide with a reward of Void Traces. Refinement can be done at the Void Relic Segment or in the Relic selection screen before a mission.
-With Void Traces, players can use the Orbiter's refinement function to upgrade a single relic from "Intact" to "Exceptional" (25 traces), "Flawless" (50 traces), or "Radiant" (100 traces). Previously refined relics can also be refined to a higher level, in which case the amount of traces spend refining the relic to its current level is subtracted from the cost. With each refinement tier, the chance for obtaining rarer items in the refined relic's reward table is raised while the more common ones' chance is lowered.
+With Void Traces, players can use the Orbiter's refinement function to upgrade a single relic from "Intact" to "Exceptional" (25 traces), "Flawless" (50 traces), or "Radiant" (100 traces).
+Previously refined relics can also be refined to a higher level, in which case the amount of traces spend refining the relic to its current level is subtracted from the cost.
+With each refinement tier, the chance for obtaining rarer items in the refined relic's reward table is raised while the more common ones' chance is lowered.
 After refinement, the newly refined relic will be separated from the stack of Intact relics.
 Drop Chances
-Items within the same rarity have the same chance of being dropped from a relic. Every relic has the same number of drops per rarity. Three common drops, two uncommon drops and one rare drop. The values in the table below account for the chance for a type of rarity and the chance of an individual item within that rarity in parenthesis. For instance as displayed in row 1 an intact void relic has a 76% chance to grant a common drop and 22% chance for an uncommon drop. Additionally there's a 25.33% chance for each of the common drops. When looking for the drop chance of an individual item look at the number in parenthesis. According to user datamining and official Drop Tables, refinement affects drop chances as follows:
+Items within the same rarity have the same chance of being dropped from a relic.
+Every relic has the same number of drops per rarity.
+Three common drops, two uncommon drops and one rare drop.
+The values in the table below account for the chance for a type of rarity and the chance of an individual item within that rarity in parenthesis.
+For instance as displayed in row 1 an intact void relic has a 76% chance to grant a common drop and 22% chance for an uncommon drop.
+Additionally there's a 25.33% chance for each of the common drops.
+When looking for the drop chance of an individual item look at the number in parenthesis.
+According to user datamining and official Drop Tables, refinement affects drop chances as follows:
 A group of 4 players with relics of the same refinement level has the following chances to obtain a rare item:
 Most players' relics, especially in public missions, will be either Radiant (from Elite Sanctuary Onslaught or self-refinement, best for finding specific uncommon or rare items) or, more likely, Intact (from almost every other source, best for Orokin Ducats farming). This variant of the above table gives drop chances for most real squads.
 "Expected" refers to expected value; 4-player groups opening very large numbers of relics can expect to receive a rare item for each of this many relics used.
@@ -2356,7 +2562,9 @@ Relics are named after Orokin periods of time:
 "Neo" is based off the the Greek word νέος (nèos) meaning new.
 "Meso" is based on the Greek word μέσο (méso) meaning middle.
 "Lith" is based off the Greek word λίθος (lithos) which refers to the stone age, explaining why it looks dusty and old.
-Ordis's description of how a relic functions is similar to quantum superposition, wherein a physical object (in this case, the items within a relic) exists in multiple states simultaneously, collapsing into a single defined state once observed or measured. This superposition is typically explained using the example of Schrödinger's cat, in which a cat is placed inside a box with poisonous gas that may or may not be released depending on the detection of radiation. The cat is considered both alive and dead until the box is opened and the cat or its corpse is observed, much as a Void Relic is considered to contain all six possible items until it is opened and the item is observed.
+Ordis's description of how a relic functions is similar to quantum superposition, wherein a physical object (in this case, the items within a relic) exists in multiple states simultaneously, collapsing into a single defined state once observed or measured.
+This superposition is typically explained using the example of Schrödinger's cat, in which a cat is placed inside a box with poisonous gas that may or may not be released depending on the detection of radiation.
+The cat is considered both alive and dead until the box is opened and the cat or its corpse is observed, much as a Void Relic is considered to contain all six possible items until it is opened and the item is observed.
 Void Fissures on the Kuva Fortress which only respond to Requiem Relics are said to have been created as a result of Kuva Lich experiments being conducted aboard.
 The Requiem words themselves, however, have existed since long before these experiments and the use of Requiem mods for ending the immortality of beings like Kuva Liches.
 Further Reading
@@ -2364,7 +2572,7 @@ VoiD_Glitch's WARFRAME - Rarity Weights and "Random" Number Generation
 RNG
 
 ## Forma
-In-Game Description
+
 Forma are items most commonly used as a supercharger to add, remove, or alter the Polarity of a Mod slot on equipment such as Warframes, Archwings, weapons, or Companions. This process is called Polarization and allows mod capacity to be used more efficiently.
 Forma do however have additional uses. Their second most notable use is as a component in the creation of certain items, including being used in weapon blueprints, the creation of the Exilus Warframe Adapter and other supercharger equipment, and adding Tiles to a Clan Dojo. Finally, Forma may be sacrificed to rise in Syndicate ranks.
 **Acquisition:**
@@ -2396,7 +2604,11 @@ blueprint-checklist
 38.0.12
 Using Forma on Equipment
 To apply a Forma, go to the Arsenal and access the desired item's Mod loadout. Select Action at the bottom of the screen, then choose Polarize, which will show all available types of Forma to choose from. Choose Forma, which will show a layout of the item's mod slots and polarities. Click on a slot to cycle through the possible polarities. A slot that already has a polarity (either by default or from a prior polarization) can also be changed.
-Forma can only be used on equipment that has already been ranked to 30 and, when used, said equipment is reset to rank 0 (unranked). However, Warframe, Archwing, and Necramech may retain abilities and/or their ranks depending on the player's Mastery Rank; for example, a player with a Mastery Rank of 30 or higher would have all abilities unlocked at rank 3. Forma can also be used again on already polarized equipment, provided that it is leveled to 30 again. Orokin Catalysts and Orokin Reactors are unaffected by the usage of Forma. Re-leveling equipment after using Forma on it does not grant mastery points.
+Forma can only be used on equipment that has already been ranked to 30 and, when used, said equipment is reset to rank 0 (unranked).
+However, Warframe, Archwing, and Necramech may retain abilities and/or their ranks depending on the player's Mastery Rank; for example, a player with a Mastery Rank of 30 or higher would have all abilities unlocked at rank 3.
+Forma can also be used again on already polarized equipment, provided that it is leveled to 30 again.
+Orokin Catalysts and Orokin Reactors are unaffected by the usage of Forma.
+Re-leveling equipment after using Forma on it does not grant mastery points.
 For each Forma used on equipment, said equipment will gain a star above the name of the equipment starting from the center.
 **Notes:**
 Making the most of Forma means remembering the Polarities of the mods the player wishes to use. For example, weapons almost always need damage mods, such as Serration; Serration has Madurai Madurai polarity. Therefore, it would be useful to add a Madurai Madurai polarity to any weapon that does not already have it. Consider reading the Polarization page for more information about this process.
@@ -2416,7 +2628,10 @@ The shape of Forma resembles that of a puzzle piece.
 
 ## Abilities
 Move all maximization notes to Maximization. Lots of of them are outdated after Update 32 with Archon Shards and new Archon mods
-Abilities are special skills that all Warframes, Archwings, and Necramechs possess, which are used to provide tactical advantages in battle by either affecting enemies directly or bolstering teammates in some manner. Every Warframe has a set of four unique Abilities that directly influence their gameplay and their role within a team. For example, Frost's Abilities are based around slowing down enemies and blocking damage, making him more suited to a defensive role. Nova, with her damage-oriented Ability set, is a good choice for offensive playstyles.
+Abilities are special skills that all Warframes, Archwings, and Necramechs possess, which are used to provide tactical advantages in battle by either affecting enemies directly or bolstering teammates in some manner.
+Every Warframe has a set of four unique Abilities that directly influence their gameplay and their role within a team.
+For example, Frost's Abilities are based around slowing down enemies and blocking damage, making him more suited to a defensive role.
+Nova, with her damage-oriented Ability set, is a good choice for offensive playstyles.
 Most Abilities require Energy, which is spent every time an Ability is used. Warframes have only a limited Energy capacity, so Ability use must be carefully managed to prevent running out of Energy at critical moments. Energy costs vary between Abilities; in general the more advanced/powerful the Ability, the greater its Energy cost.
 Controls
 Missing iOS controls
@@ -2533,7 +2748,10 @@ Enemy levels are normally capped at the limit of 9999, but can be exceeded in Vo
 Common Features of Stat Scaling
 How scaling of fundamental enemy stats works in general is identical for all the stats: Each enemy type has a base value for this fundamental stat and a base level, the current value of the stat at the current level of the enemy is then calculated after a formula of the following structure:
 Exponent and coefficient are determined by the specific stat in question and differ across enemy faction. The base level and base value of the stat are determined by the enemy type. The current level is then the independent variable and the current value of the stat is the dependent variable of the formula.
-At lower levels the coefficient is normally less than one, so growth is not easily noticed until mid-level ranges. For high levels, the exponent has the most impact when comparing different scaling stats against each other. If the exponent is 1, the scaling of the stat would be linear with level, which means the increase in value as level grows would be constant. For exponents higher than 1, each successive level-up grants a larger increase than the previous one, and for exponents lower than one, each successive level-up grants a smaller increase than the previous one.
+At lower levels the coefficient is normally less than one, so growth is not easily noticed until mid-level ranges.
+For high levels, the exponent has the most impact when comparing different scaling stats against each other.
+If the exponent is 1, the scaling of the stat would be linear with level, which means the increase in value as level grows would be constant.
+For exponents higher than 1, each successive level-up grants a larger increase than the previous one, and for exponents lower than one, each successive level-up grants a smaller increase than the previous one.
 The only exception of this common structure is Affinity scaling, where the current level is used instead of the difference between the current and base level.
 Scaling of Fundamental Stats
 As mentioned, all fundamental stats scale by the above formula structure and common features apply. A standardized graph is shown for each stat. When comparing the graphs, the different Y-axis scaling has to be considered. As of Update 27.2 health, shield, and armor scaling follow an "S"-like curve, where below a universal level range these stats grow quickly, and above this range, the stats grow slower and begin to plateau.
@@ -2610,11 +2828,15 @@ center|thumb|660px|Current affinity scaling.
 Scaling of Derived Stats
 From these fundamental stats, more meaningful stats can be derived.
 Effective Hitpoints
-Effective Hit-points is a stat that indicates how much gross damage must be dealt to a target until the net damage thereby inflicted depletes its entire health pool. Effective Hit-points is not a fixed stat for any given enemy, it is heavily dependent on the damage type used against the target, as well as the various buffs and debuffs in effect for both the attacker and the enemy in question. For the following considerations, however, these influences are disregarded, as they do not alter the course of the graphs except for clinching or stretching them as a whole, which manifests as a scaling of the Y-axis.
+Effective Hit-points is a stat that indicates how much gross damage must be dealt to a target until the net damage thereby inflicted depletes its entire health pool.
+Effective Hit-points is not a fixed stat for any given enemy, it is heavily dependent on the damage type used against the target, as well as the various buffs and debuffs in effect for both the attacker and the enemy in question.
+For the following considerations, however, these influences are disregarded, as they do not alter the course of the graphs except for clinching or stretching them as a whole, which manifests as a scaling of the Y-axis.
 For Enemies with Health only
 For targets without shields and armor, the standardized effective hit-point scaling is synonymous with standardized health scaling, the health graph and formula apply.
 For Enemies with Health and Shields
-The standardized effective hit-points of shielded enemies are simply the sum of their shields and health, except for the case when the Toxin damage portion of the gross damage depletes the target's health faster than the rest of the gross damage depletes its shield. Exact effective hit-point calculations considering damage types also become significantly more complex if Toxin damage is involved, but this is disregarded here. The level scaling of standardized effective hit-points of shielded enemies is influenced by the ratio of base shields to base health:
+The standardized effective hit-points of shielded enemies are simply the sum of their shields and health, except for the case when the Toxin damage portion of the gross damage depletes the target's health faster than the rest of the gross damage depletes its shield.
+Exact effective hit-point calculations considering damage types also become significantly more complex if Toxin damage is involved, but this is disregarded here.
+The level scaling of standardized effective hit-points of shielded enemies is influenced by the ratio of base shields to base health:
 In the cases where you are trying to one-shot shielded enemies without Toxin damage, their effective hit-points will actually be higher due to their shield gate mechanic. Only 5% of total damage dealt will only damage the enemy's health when their shield gate is active. However, attacking enemy weakpoints ignores the shield gate.
 center|thumb|660px|Current EHP scaling with only Health and Shields at Base Level = 1.
 For Enemies with Health and Armor
@@ -2623,10 +2845,18 @@ center|thumb|660px|Current EHP scaling with only Health and Armor at Base Level 
 For Enemies with Health, Shields, and Armor
 The standardized effective hit-points of enemies that are both armored and shielded are more complex than the simple EHP cases from the previous sections above. The level scaling of standardized effective hit-points of these enemies is influenced by the ratio of base shields to base health and base armor, making the formula at least 3 variable:
 Shielding Ratio
-The shielding ratio of shielded, unarmored enemies is the ratio of their shield to their health. Since health and shield scale at different rates, this ratio changes with level. Pre-Update 27.2 this ratio used to converge towards a 1:2 ratio, where the higher the level the enemies, the closer they were to having twice as much health as shields, regardless of base stats. Currently, the ratio follows this original trend up until level 70, where it suddenly dips below 1:2 then diverges off towards infinity. This is because unlike before when health and shield scaling had same exponents (2), the current shield scaling has an exponent 50% larger than health scaling (0.75 vs 0.5) once past level 80, so it will grow at a faster rate despite having a smaller coefficient. This means the shield ratio will also grow larger over levels rather than converging.
+The shielding ratio of shielded, unarmored enemies is the ratio of their shield to their health.
+Since health and shield scale at different rates, this ratio changes with level.
+Pre-Update 27.2 this ratio used to converge towards a 1:2 ratio, where the higher the level the enemies, the closer they were to having twice as much health as shields, regardless of base stats.
+Currently, the ratio follows this original trend up until level 70, where it suddenly dips below 1:2 then diverges off towards infinity.
+This is because unlike before when health and shield scaling had same exponents (2), the current shield scaling has an exponent 50% larger than health scaling (0.75 vs 0.5) once past level 80, so it will grow at a faster rate despite having a smaller coefficient.
+This means the shield ratio will also grow larger over levels rather than converging.
 The shielding ratio is relevant for evaluating and selecting damage types against shielded enemies, i.e. weighing benefits against shield types against benefits against health types. Eventually shielded enemies at high enough levels will have more shields than health, so assuming a lack of Toxin or True damage, effectiveness against shields may take more precedence in player builds than health effectiveness.
 center|thumb|660px|Current shield ratio scaling at Base Level = 1.
-The shielding ratio of shielded, armored enemies is the ratio of their shield to their armored EHP. Like before, since health and shield scale at different rates, this ratio changes with level, though more complexly since armor scaling will also make an impact. This ratio converges towards a 0:1 ratio, where, as long as the enemy has a base armor of at least one, the higher the level the enemies the closer they are to having a negligible amount of shields relative to their EHP due to armor. Though as seen above, if no armor is present then the ratio will diverge towards infinity.
+The shielding ratio of shielded, armored enemies is the ratio of their shield to their armored EHP.
+Like before, since health and shield scale at different rates, this ratio changes with level, though more complexly since armor scaling will also make an impact.
+This ratio converges towards a 0:1 ratio, where, as long as the enemy has a base armor of at least one, the higher the level the enemies the closer they are to having a negligible amount of shields relative to their EHP due to armor.
+Though as seen above, if no armor is present then the ratio will diverge towards infinity.
 center|thumb|660px|Current shield ratio scaling with Armor at Base Level = 1.
 Affinity Density
 The affinity density of an enemy is its affinity per effective hitpoints and a measure of its profitability for affinity farming.
@@ -2644,7 +2874,7 @@ During endless missions such as Survival and Defense, enemy spawn level will inc
 In Disruption missions, to calculate the approximate spawn level at a particular conduit number:
 Effects That Indirectly Scale Off Enemy Level
 See :Category:High Scalability.
-External Links
+
 Interactive calculator for most value multipliers
 
 ## Aura
@@ -2653,7 +2883,8 @@ They can only be equipped in the dedicated Aura slot and only one Aura mod can b
 Mechanics
 left|x200px|thumb|An Aura slot with a Naramon polarity, from top to bottom, without any Auras equipped, with an aura of the same polarity equipped (in this case, Energy Siphon) and an aura with a different polarity equipped (in this case, Steel Charge which has a Madurai polarity)
 Aura effects are map-wide, except specific auras that are explicitly limited on the effect within a player's range like Enemy Radar, Infested Impedance and Loot Detector.
-Furthermore, equipping an Aura with a matching polarity increases mod capacity even more, specifically by double of the Aura's "drain" parameter (e.g. an Aura with a drain of 5 equipped in a matching polarity slot generates an additional mod capacity of 10). In a slot without a polarity, the capacity is the same as the listed drain, and in a slot of a different polarity, the additional capacity is 80% of listed drain, rounded down (e.g. a drain of 5 generates a capacity of 4, a drain of 9 generates a capacity of 7, and so on).
+Furthermore, equipping an Aura with a matching polarity increases mod capacity even more, specifically by double of the Aura's "drain" parameter (e.g. an Aura with a drain of 5 equipped in a matching polarity slot generates an additional mod capacity of 10).
+In a slot without a polarity, the capacity is the same as the listed drain, and in a slot of a different polarity, the additional capacity is 80% of listed drain, rounded down (e.g. a drain of 5 generates a capacity of 4, a drain of 9 generates a capacity of 7, and so on).
 The Aura slot can be polarized, either (just as a regular mod slot) with a Forma for a specific polarity, or with a special Omni Forma to be universally compatible with any Aura Mod Polarity.
 Aura Effectiveness
 Aura Effectiveness is an upgrade that increases the effect of other players' Auras on the player themselves by a percent bonus. As of Update 32, it is only provided through Coaction Drift.
@@ -2724,7 +2955,10 @@ CCrKWyOAFFI
 
 ## Exalted Weapon
 Exalted Weapons are special weapons exclusive to certain Warframes that can only be summoned and used upon activating their corresponding Warframe's ability. Exalted Weapons will take the place of the weapon in the corresponding weapon slot when activated (e.g. Excalibur's Exalted Blade replacing his melee, Hildryn's Balefire replacing her secondary), with the exception of Jade's Glory on High, Mesa's Peacemaker, Titania's Razorwing, and Voidrig's Guard Mode which disables all other weapons.
-The stats and performances of these weapons are affected by mods equipped on the weapons themselves and also by certain mods equipped on the Warframe, such as Ability Duration mods, depending on the weapon. Certain mods, such as Weapon Augments, cannot be equipped on Exalted Weapons and Riven Mods are not generated for them. These weapons do not utilize ammunition and instead consume energy (with the exception of Cyte-09's Neutralize which uses both), either per shot or continuously, while active. To see which specific mods affect which weapon, visit their ability pages.
+The stats and performances of these weapons are affected by mods equipped on the weapons themselves and also by certain mods equipped on the Warframe, such as Ability Duration mods, depending on the weapon.
+Certain mods, such as Weapon Augments, cannot be equipped on Exalted Weapons and Riven Mods are not generated for them.
+These weapons do not utilize ammunition and instead consume energy (with the exception of Cyte-09's Neutralize which uses both), either per shot or continuously, while active.
+To see which specific mods affect which weapon, visit their ability pages.
 All Exalted Weapons come pre-built with an Orokin Catalyst, regardless of whether the Warframe has an equipped Orokin Reactor or not, and can be Polarized with Forma.
 List of Exalted Weapons
 Warframe
@@ -2771,7 +3005,7 @@ It causes enemies to flinch and recoil backwards. Subsequent procs increase the 
 Against heavy units (all humanoid Eximus, Heavy Gunner, Bombard, Scrambus and Comba, Nullifier Crewman, Ancient Disruptor, Ancient Healer, and Toxic Ancient), Impact additionally increases the health threshold at which they can be Parazon Mercy Killed by 8% per proc, allowing them to be vulnerable at up to 80% (100% on Corpus and Eximus with all their shields removed) of their total health.
 Enemies killed by an Impact proc will have their corpse ragdolled and flown away, regardless of the amount of force behind the weapon.
 Railjack
-In-Game Description
+
 The status effect of Impact damage against Railjack space enemies is Concuss, causing enemy crew within a gunship to have reduced aim and damage for 6 seconds, with subsequent procs refreshing the duration.
 Impact Sources
 Weapons
@@ -2798,7 +3032,7 @@ Weapon damage that the victim receives has 5% increased Critical Chance per proc
 Enemies killed by an attack that procs Puncture may have a large bloody hole on where they were hit by the killing blow.
 Railjack
 Railjack/Gameplay says proc stacks additively. Which one is correct? If additively stacking, is there a cap to Shield and Armor reduction?
-In-Game Description
+
 The status effect of Puncture damage against Railjack space enemies is Decompress, reducing the target ship's shields and armor for 20 seconds, with subsequent procs stacking multiplicatively.
 Puncture Sources
 Weapons
@@ -2835,11 +3069,20 @@ Unlike other DoT effects, enemy armor will have no effect on slash proc damage d
 Melee weapon types that force proc Bleeds on Heavy Attack
 Claws, Dual Daggers, Nikanas, Two-Handed Nikanas, Rapiers, Scythes, Tonfas, Warfans and Whips have guaranteed Bleed procs on their entire heavy attacks, regardless of stance used while Daggers and Machetes only on parts of their heavy attacks.
 Railjack
-In-Game Description
+
 The status effect of Slash damage against Railjack space enemies is Tear, increasing the damage the target ship takes by 7.5% for 20 seconds, with subsequent procs stacking multiplicatively with itself.
 Dismemberment
-Enemies killed by Slash damage to the torso can result in their corpse being bisected, which is considerably valuable for a Nekros using Desecrate, as each part of the body can spawn a Health Orb and some loot (note that individual limbs that have been removed from a corpse cannot be Desecrated, only large parts of the body). Corpses can also be quickly meleed to dismember them; however, an enemy's corpse can only ever be mutilated twice—if melee spam ended up lopping two limbs from a corpse, it will not be possible to then attempt to bisect it to get two desecrate rolls. Additionally, certain effects, such as petrification, can prevent enemies and corpses from being dismembered. Note that this characteristic may be disabled due to gore settings or regional locks: the Japanese version of WARFRAME, for example, does not allow for much corpse dismemberment.
-Bleed damage does not dismember a body if it is the cause of death, only direct Slash damage from weapons. Consequently, Hunter Munitions cannot be used on its own to cause dismemberment. Weapons must have over 50% of their physical (IPS) damage as Slash damage to dismember. Weapons with exactly 50%, such as the Soma, do not initially dismember, but for example can be modded with Sawtooth Clip to bump slash damage above 50%, and thus enable dismemberment. Elemental mods have no effect on this ratio and can therefore be included and still cause dismemberment. As an alternative, the "gore" attribute from Amalgam Ripkas True Steel mod also applies itself to the rest of the player's equipped weapons, companions, and Warframe abilities, and they will function identically to the dismemberment mechanic, whilst ignoring the weapon's IPS disposition. Tentacle Swarm will also consistently dismember bodies when they are killed by it, meaning that it will allow for 4 drops while running Pilfering Swarm alongside Nekros' Desecrate.
+Enemies killed by Slash damage to the torso can result in their corpse being bisected, which is considerably valuable for a Nekros using Desecrate, as each part of the body can spawn a Health Orb and some loot (note that individual limbs that have been removed from a corpse cannot be Desecrated, only large parts of the body).
+Corpses can also be quickly meleed to dismember them; however, an enemy's corpse can only ever be mutilated twice—if melee spam ended up lopping two limbs from a corpse, it will not be possible to then attempt to bisect it to get two desecrate rolls.
+Additionally, certain effects, such as petrification, can prevent enemies and corpses from being dismembered.
+Note that this characteristic may be disabled due to gore settings or regional locks: the Japanese version of WARFRAME, for example, does not allow for much corpse dismemberment.
+Bleed damage does not dismember a body if it is the cause of death, only direct Slash damage from weapons.
+Consequently, Hunter Munitions cannot be used on its own to cause dismemberment.
+Weapons must have over 50% of their physical (IPS) damage as Slash damage to dismember.
+Weapons with exactly 50%, such as the Soma, do not initially dismember, but for example can be modded with Sawtooth Clip to bump slash damage above 50%, and thus enable dismemberment.
+Elemental mods have no effect on this ratio and can therefore be included and still cause dismemberment.
+As an alternative, the "gore" attribute from Amalgam Ripkas True Steel mod also applies itself to the rest of the player's equipped weapons, companions, and Warframe abilities, and they will function identically to the dismemberment mechanic, whilst ignoring the weapon's IPS disposition.
+Tentacle Swarm will also consistently dismember bodies when they are killed by it, meaning that it will allow for 4 drops while running Pilfering Swarm alongside Nekros' Desecrate.
 Slash Sources
 Weapons
 These weapons deal the majority of their physical damage as Slash. The damage ratio is important for physical damage status effects, as the game weights the likelihood of which proc occurs according to physical damage ratio. Hence, these weapons proc Bleed more than Impact's Stagger or Puncture's Weakened.
@@ -2876,7 +3119,11 @@ As can be seen in the above calculations for tick damage, Faction Damage is appl
 Heat Inherit
 "Heat Inherit" is a community term
 Clarify Heat inherit mechanic. There is no mention of first application's modded Heat percentage bonus and Faction Damage applying to all subsequent procs.
-"Heat Inherit" is a community-created term that describes the interaction of Heat status application between various weapons. Repeated application of Heat procs do not stack tick damage in the same way other damage over time (DoT) status effects like Toxin, Electricity, or Slash do. Instead, a Heat proc both adds a stack and refreshes the duration of all currently active heat stacks on the target. This allows for ramping up Heat tick damage indefinitely (scaling up linearly) as long as heat status is kept refreshed within the 6 second effect duration (modified by Status Duration). Additionally, all Heat status stacks are automatically consolidated into one tick of damage per second, with new heat procs refreshing and further adding to this tick damage.
+"Heat Inherit" is a community-created term that describes the interaction of Heat status application between various weapons.
+Repeated application of Heat procs do not stack tick damage in the same way other damage over time (DoT) status effects like Toxin, Electricity, or Slash do.
+Instead, a Heat proc both adds a stack and refreshes the duration of all currently active heat stacks on the target.
+This allows for ramping up Heat tick damage indefinitely (scaling up linearly) as long as heat status is kept refreshed within the 6 second effect duration (modified by Status Duration).
+Additionally, all Heat status stacks are automatically consolidated into one tick of damage per second, with new heat procs refreshing and further adding to this tick damage.
 Modded bonuses that can apply to the damage of the Heat status, such as Hellfire and Faction Damage Mods, will be lost if the first Heat proc on the enemy is from a source without any such Heat modifiers, like Warframe abilities or Manifold Bond, hindering the performance of Weapons that rely on Heat status to deal damage.
 To avoid this, the first Heat proc on the enemy must always come from a Weapon that has those modifiers.
 Warframes that can widely apply Heat, such as Ember, can make this a difficult task.
@@ -2898,7 +3145,7 @@ An active Heat proc, and max stacked Corrosive proc without Corrosive Projection
 (1 - 50%) [1 - (20% + 6% 10)].
 Currently, the only non-ability method to completely remove armor is to use Shattering Impact, Sharpened Claws, or a Dagger with Amalgam Argonak Metal Auger.
 Railjack
-In-Game Description
+
 The status effect of Heat damage against Railjack space enemies is Sear, dealing 6 ticks of damage over 5 seconds. Against the Tenno's Railjack, it causes a Fire Hazard which causes ship armaments to overheat faster and cool down slower.
 Sear ticks deal 100% The innate Physical and/or Elemental damage of the weapon, including Vidar bonuses and Plexus bonuses to: Base damage, Critical damage, and bonuses on weak-spots (1 + Heat Damage bonuses) as Heat damage. Unlike standard heat, each proc has an independent duration and is not refreshed by additional heat procs.
 Elemental Combinations
@@ -2942,7 +3189,7 @@ On Players
 Getting afflicted by Cold status will slow players down by 10% and can stack up to 4 times, capping the player slow up to 40%.
 The only current exception to this is the Optimism Peely Pix, which can accumulate up to 10 stacks with progressively more extreme slowing along with the freezing effect at the stack cap.
 Railjack
-In-Game Description
+
 The status effect of Cold damage against Railjack space enemies is Immobilize, which disables the target ships' weapons and slows their movements to a complete stop for 6 seconds, refreshing the duration with subsequent procs. Against the Tenno's Railjack, it instead creates an Ice Hazard that disables interactive elements within the Railjack, such as the pilot seat, turrets, Archwing Slingshot, doors, and Resource Forge.
 Elemental Combinations
 Cold damage mods can be combined with other elemental mods to create a new elemental damage type.
@@ -2986,7 +3233,7 @@ As can be seen in the above calculations for tick damage, Faction Damage is appl
 Crowd Control
 Enemies affected by this status effect will also be standing up stunned, preventing them from taking any other action for about 3 seconds (Ospreys, Bosses, and Tenno are immune to this). Note that only the original target will be stunned, and others around it will only take damage, and Status Duration mods will not extend this stun effect.
 Railjack
-In-Game Description
+
 The status effect of Electricity damage against Railjack space enemies is Scramble, causing enemy ships to spiral erratically in a forward direction while being unable to use weaponry for 6 seconds, with subsequent procs refreshing the duration. Against the Tenno's Railjack, it causes an Electricity Hazard which scrambles the minimap and disables use of the Tactical Menu.
 Elemental Combinations
 Electricity damage mods can be combined with other elemental mods to create a new elemental damage type.
@@ -3027,7 +3274,7 @@ Tick Damage = 0.5 344.5 2.47 (1 + 0.9)
 As can be seen in the above calculations for tick damage, Faction Damage is applied twice, making their effective bonus = (1+Faction Bonus)^2. Which is +69% for the 30% Faction Damage mods and +140.25% for the 55% Primed Faction Damage mods.
 Enemies afflicted by a Toxin proc have a green sickly substance leaking from their bodies.
 Railjack
-In-Game Description
+
 The status effect of Toxin damage against Railjack space enemies is Intoxicate, changing the faction of the afflicted target for 12 seconds allowing for friendly fire between it and normally allied units, with subsequent procs refreshing the duration.
 Elemental Combinations
 Toxin + Heat = Gas
@@ -3076,7 +3323,9 @@ Damage multipliers from weakpoint hits, critical hits, and even "Headcrits" are 
 The AoE damage from 10-stack and on-kill detonations will also account for these damage multipliers, summing up the total damage from each individual blast stack. This makes critical headshot kills with a blast weapon incredibly strong for crowd clearing, due to their ability to apply the critical headshot multiplier in an AoE.
 Interaction with Xata's Whisper:
 When an enemy is afflicted with one or more Blast stacks, Xata's whisper will trigger off the detonation(s). Additionally, the Faction Damage Bonus will be applied again (effectively triple-dipping), and Elemental Bonuses will apply to Xata's Whisper damage (despite Blast not being affected by Elemental Damage Bonuses).
-Consider the following example: A gun deals 100 damage per bullet, and we have Thermite Rounds, Rime Rounds, Stormbringer, Primed Bane of Grineer, and Xata's whisper at base strength: The initial hit will deal 100 (1 + 0.6 + 0.6 + 0.9) (1 + 0.55) damage, and Xata's whisper will deal 0.26 480.5 (1 + 0.55) damage (the Faction Damage Bonus is applied again). If the hit proc'd Blast, then the detonation damage will be 0.3 100 (1 + 0.55)^2 (Elemental Damage doesn't apply to Blast detonations and the Faction Damage Bonus is applied again). Then, Xata's whisper will trigger off said detonation, dealing 0.26 72.075 (1 + 0.55) (1 + 0.6 + 0.6 + 0.9) damage (as you can see, the Faction Damage Bonus is applied yet again, and the Elemental Damage Bonus is applied even though Blast detonations don't scale off Elemental Damage Bonuses.
+Consider the following example: A gun deals 100 damage per bullet, and we have Thermite Rounds, Rime Rounds, Stormbringer, Primed Bane of Grineer, and Xata's whisper at base strength: The initial hit will deal 100 (1 + 0.6 + 0.6 + 0.9) (1 + 0.55) damage, and Xata's whisper will deal 0.26 480.5 (1 + 0.55) damage (the Faction Damage Bonus is applied again).
+If the hit proc'd Blast, then the detonation damage will be 0.3 100 (1 + 0.55)^2 (Elemental Damage doesn't apply to Blast detonations and the Faction Damage Bonus is applied again).
+Then, Xata's whisper will trigger off said detonation, dealing 0.26 72.075 (1 + 0.55) (1 + 0.6 + 0.6 + 0.9) damage (as you can see, the Faction Damage Bonus is applied yet again, and the Elemental Damage Bonus is applied even though Blast detonations don't scale off Elemental Damage Bonuses.
 Railjack
 Blast does not have a Railjack space counterpart and is thus not able to proc any status effect nor is it included in calculations for status proc weighting.
 Blast Sources
@@ -3100,7 +3349,10 @@ Status Effects
 General
 The status effect of Corrosive damage is Corrosion. It temporarily degrades the armor of the afflicted target by 26% for 8 seconds. Subsequent procs further reduce armor by 6%, culminating in a total armor reduction of 80% at 10 stacks, with each stack having its own duration. Any stacks applied after the 10th will replace the oldest stack.
 Emerald Archon Shard can increase the maximum Corrosive status procs by +2 (+3 for Tauforged Emerald Archon Shard). Applying 14 stacks can fully remove all armor for the duration of the status.
-Against an enemy with capped armor, giving 90% damage reduction (such as level 57 Heavy Gunner), one stack of Corrosion will give an effective damage increase of approximately x2.3 (or +130%). Each subsequent stack will give a ranging incremental effective damage increase, starting at approximately +32%, and ending at +56%. 10 stacks of Corrosion give an approximately x6 (or +500%) effective damage increase. In comparison to 10 stacks of Corrosion, 14 stacks would give ~x1.67 relative effective damage increase.
+Against an enemy with capped armor, giving 90% damage reduction (such as level 57 Heavy Gunner), one stack of Corrosion will give an effective damage increase of approximately x2.3 (or +130%).
+Each subsequent stack will give a ranging incremental effective damage increase, starting at approximately +32%, and ending at +56%.
+10 stacks of Corrosion give an approximately x6 (or +500%) effective damage increase.
+In comparison to 10 stacks of Corrosion, 14 stacks would give ~x1.67 relative effective damage increase.
 Hydroid's passive causes enemies damaged by him to be permanently more vulnerable to Corrosive status, with the first proc degrading 50% of armor, allowing him to have 100% armor reduction at 10 stacks. This vulnerability can come from any source of Corrosive procs, not just from Hydroid's weapons or abilities, as long as he has damaged the enemy.
 Enemies affected by a Corrosive proc will be covered in a faint green, electricity-like substance. Enemies killed while affected by a Corrosive proc will have their corpses partially corroded and dissolved.
 Corrosive status armor reduction is multiplicative with other armor reduction sources. This can be expressed as the following:
@@ -3199,7 +3451,12 @@ In-game Description
 Radiation Damage is one of the six secondary elemental damage types, composed of Heat and Electricity elements. Deals increased damage to Sentient and The Murmur, but reduced against Orokin and Anarchs. Its Status Effect causes the target to indiscriminately attack their own allies with increased damage to them.
 Status Effects
 General
-The status effect of Radiation damage is Confusion. A confused unit cannot tell friend from foe, fighting against all units and becoming a target of all units for 12 seconds. Additionally, confused units deal 100% bonus damage to enemies of the Tenno. Subsequent procs add 50% damage for up to 550% total after 10 stacks, while also enhancing slam attacks against former allies from Knockdown to Ragdoll, with each stack having its own duration. Any stacks applied after the 10th will replace the oldest stack. Once confusion ends, the affected unit will rejoin its faction.
+The status effect of Radiation damage is Confusion.
+A confused unit cannot tell friend from foe, fighting against all units and becoming a target of all units for 12 seconds.
+Additionally, confused units deal 100% bonus damage to enemies of the Tenno.
+Subsequent procs add 50% damage for up to 550% total after 10 stacks, while also enhancing slam attacks against former allies from Knockdown to Ragdoll, with each stack having its own duration.
+Any stacks applied after the 10th will replace the oldest stack.
+Once confusion ends, the affected unit will rejoin its faction.
 Auras from confused units (such as from Eximus or Ancient Healers) will stop affecting their allies. Likewise, confused enemies cannot benefit from enemy auras.
 Against a Tenno, confusion causes friendly fire between that Tenno and other players while also reducing weapon accuracy, lasting for 4 seconds. An irradiated Tenno cannot revive fallen allies, including Operatives in Rescue and Sortie Defense missions; receiving a proc during the revive process will interrupt the attempt. A confused Tenno can proc status effects on their allies as they would on enemies, including Radiation.
 For Kuva Liches, Acolytes, enemy Necramechs, Sisters of Parvos, and Hounds, Confusion will instead increase the damage they take from allied units by +100%, is limited to only 4 stacks (for a total of 250% increased damage taken from allies), and will not cause them to be attacked by their allies at all unless those allies are themselves afflicted with the Confusion effect. Enemies with Overguard are immune to Radiation status until the health buffer is removed.
@@ -3225,7 +3482,11 @@ Status Effect
 General
 The status effect of Viral damage is Virus. It amplifies damage to the health of the afflicted target by 100% for 6 seconds. Subsequent procs add 25% increased damage to health up to 325% in total after 10 stacks, with each stack having their own duration. Any stacks applied after the 10th will replace the oldest stack. This effect will work even when the health is protected by armor ("yellow health"); only shields and overguards are not affected.
 Calculating resultant damage if at least one Viral proc is on target. Damage Vulnerability provided by Viral procs are multiplicative with other damage bonuses.
-For status effects that apply damage over time (e.g. Slash, Toxin, Heat, Gas), the damage dealt by the proc throughout its duration is calculated based on whether or not a Viral proc is active when the DoT tick deals damage. For example, a weapon with 100 damage that applies a Slash proc, if the target has 1 Viral proc, will deal 200 damage, then 70 damage per second from Slash's Bleed until the Viral effect ends, when it will go down to 35 per second. If the target does not have a Viral proc initially, the Bleed damage will be 35 per second until the target takes a Viral proc, which will then multiply the DoT accordingly to 70 per second. This means that the multiplier is not applied twice to DoTs, unlike faction damage multipliers.
+For status effects that apply damage over time (e.g.
+Slash, Toxin, Heat, Gas), the damage dealt by the proc throughout its duration is calculated based on whether or not a Viral proc is active when the DoT tick deals damage.
+For example, a weapon with 100 damage that applies a Slash proc, if the target has 1 Viral proc, will deal 200 damage, then 70 damage per second from Slash's Bleed until the Viral effect ends, when it will go down to 35 per second.
+If the target does not have a Viral proc initially, the Bleed damage will be 35 per second until the target takes a Viral proc, which will then multiply the DoT accordingly to 70 per second.
+This means that the multiplier is not applied twice to DoTs, unlike faction damage multipliers.
 Enemies afflicted by a Viral proc are coated in a flowing, leaking miasma of the Energy color of the weapon that inflicted it.
 The following enemies are immune to Viral status:
 Ambulas
@@ -3261,7 +3522,7 @@ The icon for Viral damage more closely resembles the microscopic image of a bact
 Blight
 
 ## Void Damage
-In-Game Description
+
 Void Damage is a special damage type that is almost exclusive to Operators, their Amps, and Xaku. Deals increased damage to Overguard and Zariman Void manifestations, but is otherwise neutral to all other health types meaning its damage is neither increased or decreased against most targets. Its Status Effect creates a field on the target that attracts bullets.
 Void damage also provides unique advantages and uses, most notably against Sentient enemies (with the exception of Xaku's abilities):
 Guarantees a stun against drone-type Sentients like Battalysts and Conculysts.
@@ -3318,7 +3579,7 @@ The term "True Damage" is player-created and not used in the game.
 Previously, the term "Finishing Damage" was used, often leading to confusion with Finisher attacks.
 
 ## Tau Damage
-In-Game Description
+
 Tau Damage is a special damage type exclusive to only a few Sentient-related equipments. Similar to Void Damage, it is neutral to all health types, meaning its damage is neither increased or decreased against any target, though Warframes are able to gain Tau Resistance from the Umbral Mod Set. Its Status Effect applies Status Chance vulnerability.
 Status Effects
 The status effect of Tau damage is Status Chance Vulnerability. It increases Status Chance received from all other status effects by 10% per stack for up to 10 stacks for 100% status chance vulnerability and lasts for 8 seconds, with each stack having its own duration. Any stacks applied after the 10th will replace the oldest stack.

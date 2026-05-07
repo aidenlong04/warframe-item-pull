@@ -4,6 +4,9 @@ All secondary weapons including pistols, thrown weapons, and dual wielded sidear
 ## Acrid
 The Acrid fires an acidic-infused needle.
 
+### Acquisition
+The Acrid's blueprint can be researched from the Bio Lab in the dojo.
+
 ### Wiki
 Weapons
 Acrid fires an acidic-infused needle.
@@ -14,8 +17,6 @@ This weapon deals Toxin damage.
 Can use the Acrid-exclusive Toxic Sequence mod.
 Forced Toxin proc on hit.
 Additional projectiles from multishot begin to spread horizontally at 20 meters, spreading out considerably at longer ranges.
-**Acquisition:**
-The Acrid's blueprint can be researched from the Bio Lab in the dojo.
 **Notes:**
 The Acrid leaves a stackable damage over time effect due to its Toxin proc, which ticks 6 times over 6 seconds.
 Enemies disintegrate when killed, similar to Saryn's Miasma. This effect is unique to the Acrid and is not shared with other Toxin weapons like the Torid or the Embolist.
@@ -40,6 +41,9 @@ Crit Chance: 5.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 5
 
 ## Aegrit
 What the Aegrit lacks in quantity it makes up for in destructive power. Toss the Aegrit onto your enemy’s position then detonate remotely at the right moment for maximum destructive effect.
+
+### Acquisition
+Aegrit's blueprint is available from Chipper of Kahl's Garrison for 30 Stock (Kahl), requiring players to be at Rank 4 - Settlement to purchase.
 
 ### Wiki
 Weapons
@@ -66,8 +70,6 @@ Explosion has linear Damage Falloff from 100% to 30% from central impact.
 Extremely low magazine size of just 2 rounds; requires frequent reloading.
 Low ammo capacity size of 4.
 Only restores one unit of ammunition per ammo pickup.
-**Acquisition:**
-Aegrit's blueprint is available from Chipper of Kahl's Garrison for 30 Stock (Kahl), requiring players to be at Rank 4 - Settlement to purchase.
 **Type:** Throwing | **Mastery Req:** 11 | **Riven Disposition:** 3
 
 ### Direct Hit
@@ -90,6 +92,10 @@ Crit Chance: 37.00% | Crit Multiplier: 2x | Status Chance: 19.00% | Fire Rate: 2
 ## Afuris
 Furis pistols equipped in each hand. Twice the Magazine Capacity and slightly faster Fire Rate, but Accuracy and Reload Speed are lowered.
 
+### Acquisition
+The Afuris's blueprint can be purchased from the Market.
+This weapon can be sold for 5,000.
+
 ### Wiki
 Weapons
 Furis pistols equipped in each hand. Twice the clip size and slightly faster fire rate, but accuracy and reload speed are lowered.
@@ -101,9 +107,6 @@ Extremely ammo inefficient; requires exactly 3 reloads to consume all ammo reser
 Furis
 Dex Furis
 Afuris Prime
-**Acquisition:**
-The Afuris's blueprint can be purchased from the Market.
-This weapon can be sold for 5,000.
 **Tips:**
 Try to limit use according to the situation. Ammunition can be used quickly in a very short amount of time. Ammo pickups are even less effective than with the Furis due to the fixed ammo boost per pickup and the rate of fire.
 Although this weapon is not designed to be used with accuracy, if it is used as a semi-automatic weapon, the bullets always gets close to the center of the sight.
@@ -246,6 +249,9 @@ Crit Chance: 18.00% | Crit Multiplier: 2x | Status Chance: 34.00% | Fire Rate: 3
 ## Akbolto
 A Bolto equipped in each hand. Twice the Magazine Capacity and slightly faster Fire Rate, but reload time is doubled and accuracy is lowered.
 
+### Acquisition
+The Akbolto's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 A Bolto equipped in each hand. Twice the clip size and fire rate, but reload time is doubled and accuracy is lowered.
@@ -261,8 +267,6 @@ Projectiles have travel time.
 Bolto
 Telos Akbolto
 Akbolto Prime
-**Acquisition:**
-The Akbolto's blueprint can be purchased from the Market.
 **Notes:**
 The bolts pins targets to the walls upon death.
 Bolts can puncture through containers.
@@ -327,6 +331,10 @@ Crit Chance: 36.00% | Crit Multiplier: 2.8x | Status Chance: 14.00% | Fire Rate:
 ## Akbronco
 A Bronco equipped in each hand.
 
+### Acquisition
+The Akbronco's blueprint can be purchased from the Market.
+This weapon can be sold for 5,000.
+
 ### Wiki
 Weapons
 A Bronco equipped in each hand.
@@ -341,9 +349,6 @@ Has linear damage falloff from 100% to 75% from 7m to 14m target distance (dista
 Wide pellet spread cone makes the weapon ineffective beyond medium range.
 Bronco
 Akbronco Prime
-**Acquisition:**
-The Akbronco's blueprint can be purchased from the Market.
-This weapon can be sold for 5,000.
 **Notes:**
 Weapon will create six holes in scenery and objects such as walls, regardless of having multishot on, even though seven are actually registered on enemies, this includes multishot which shoots more pellets but only registers six holes regardless. Most likely to reduce lag.
 Listed firing rate does not reflect the actual firing rate. The actual fire rate is lower than 8.33 shots/seconds.
@@ -414,6 +419,9 @@ Crit Chance: 6.00% | Crit Multiplier: 2x | Status Chance: 12.86% | Fire Rate: 4.
 ## Akjagara
 The design of these hard-hitting dual pistols is a mix of organic and bladed elements.
 
+### Acquisition
+The Akjagara's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 The design of these hard-hitting dual pistols is a mix of organic and bladed elements.
@@ -427,8 +435,6 @@ Uniquely fires both shots simultaneously instead of consecutively, reducing the 
 Linearly less efficient – sometimes a target may only die with three bullets, which requires an entire second burst to be fired.
 Inefficient ammo economy.
 Akjagara Prime
-**Acquisition:**
-The Akjagara's blueprint can be purchased from the Market.
 **Notes:**
 A total of six fully crafted weapons are required to build the Akjagara, those being 2x Latos, 2x Boltos, 1x Akbolto, and 1x Dual Skanas. The total process of crafting the weapon will require at least two inventory slots.
 The total crafting cost of the Akjagara, including the blueprint and crafting costs of its prerequisites, is 210,000 Credits, 7 Orokin Cells, 4 Neurodes, 2 Morphics, 1,900 Polymer Bundles, 850 Ferrite, and 300 Alloy Plates, making it one of the weapons with the most numerous crafting materials required to build, and one of the most expensive in terms of Credit cost.
@@ -488,6 +494,9 @@ Crit Chance: 18.00% | Crit Multiplier: 2.2x | Status Chance: 32.00% | Fire Rate:
 ## Aklato
 A Lato equipped in each hand. Twice the Magazine Capacity and Fire Rate, but Reload time is doubled and Accuracy is lowered.
 
+### Acquisition
+A built Aklato can be purchased from the Market for 25,000.
+
 ### Wiki
 Weapons
 A Lato equipped in each hand. Twice the clip size and fire rate, but reload time is doubled and accuracy is lowered.
@@ -498,8 +507,6 @@ This weapon deals primarily Slash damage.
 Low recoil.
 Poor accuracy at mid-long range.
 Lato
-**Acquisition:**
-A built Aklato can be purchased from the Market for 25,000.
 **Trivia:**
 Previously, Aklato used the same icon and in-game model as Akbolto. It was changed several patches later.
 It can be noted that for some users Aklato appears to land shots near the top of the reticle.
@@ -518,6 +525,9 @@ Crit Chance: 10.00% | Crit Multiplier: 1.8x | Status Chance: 6.00% | Fire Rate: 
 ## Aklex
 Dual Lex pistols double the amount of high caliber lead you can throw at the enemy, but accuracy and reload time suffer.
 
+### Acquisition
+The Aklex's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 Dual Lex pistols double the amount of high caliber lead you can throw at the enemy, but accuracy and reload time suffer.
@@ -528,8 +538,6 @@ This weapon deals primarily Puncture damage.
 Very good ammunition efficiency.
 Lex
 Aklex Prime
-**Acquisition:**
-The Aklex's blueprint can be purchased from the Market.
 **Notes:**
 Despite the description of the Aklex saying that its reload time suffers, its actual reload time is quite efficient, spanning a mere 1.27 times its original reload duration, as most akimbo pistols have twice the reload time.
 Despite the accuracy mentioned in its statistics is poor, its actual accuracy is quite impressive, even when against long-ranged targets, leaving only the recoil to be held responsible for this.
@@ -557,6 +565,9 @@ Crit Chance: 20.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 1
 ## Aklex Prime
 Savage the enemy with a Lex Prime in each hand.
 
+### Acquisition
+The Void Relics containing the Aklex Prime components can be purchased from Baro Ki'Teer in the Concourse section of the Tenno Relay; the Axi A2 costs 45,000 and 50 each, while the Neo O1 costs 55,000 and 125 each. Note that Baro Ki'Teer's stock changes with each appearance and this relic may not be available on a succeeding appearance.
+
 ### Wiki
 Savage the enemy with a Lex Prime in each hand.
 Aklex Prime is the Primed version of Aklex, and consists of a pair of hard-hitting semi-automatic pistols. Functionally very similar to its single-handed counterpart, the Lex Prime, the Aklex Prime trades some accuracy and reload speed for an improved rate of fire and magazine capacity.
@@ -568,8 +579,6 @@ High recoil.
 Low accuracy at long ranges when fired quickly.
 Lex Prime
 Aklex
-**Acquisition:**
-The Void Relics containing the Aklex Prime components can be purchased from Baro Ki'Teer in the Concourse section of the Tenno Relay; the Axi A2 costs 45,000 and 50 each, while the Neo O1 costs 55,000 and 125 each. Note that Baro Ki'Teer's stock changes with each appearance and this relic may not be available on a succeeding appearance.
 **Tips:**
 Aklex Prime has more recoil and less accuracy than Lex Prime, making consistent headshots difficult. Using Steady Hands may make up for this, but will reduce overall DPS in favor of standard Lex Prime unless the Exilus slot is used.
 Aklex Prime can make use of Mesa's passive ability, giving it +15% fire rate.
@@ -597,6 +606,9 @@ Crit Chance: 25.00% | Crit Multiplier: 2x | Status Chance: 25.00% | Fire Rate: 2
 ## Akmagnus
 Twice the ammo and twice the stopping power of a single Magnus.
 
+### Acquisition
+The Akmagnus's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 Twice the ammo and twice the stopping power of a single Magnus.
@@ -606,8 +618,6 @@ Characteristics
 This weapon deals primarily Impact damage.
 Magnus
 Akmagnus Prime
-**Acquisition:**
-The Akmagnus's blueprint can be purchased from the Market.
 **Tips:**
 To shorten the reload time of 2.4 seconds, equipping Quickdraw/Primed Quickdraw may be preferred, or Stunning Speed to benefit both the reload time and status chance.
 The Akmagnus can achieve a high rate of fire by binding the fire command to the mousewheel. As the Akmagnus retains a manageable level of recoil even during rapid fire, this can be used to enhance the Akmagnus's firepower even up to medium range engagements.
@@ -631,6 +641,10 @@ Crit Chance: 22.00% | Crit Multiplier: 2x | Status Chance: 22.00% | Fire Rate: 5
 ## Akmagnus Prime
 Fill your fists with golden cannons of fury. This refined design unlocks quicker handling and higher critical chance.
 
+### Acquisition
+The Void Relics containing the Akmagnus Prime components can be purchased from Baro Ki'Teer in the Concourse section of the Tenno Relay for 55,000 and 125 each. Note that Baro Ki'Teer's stock changes with each appearance and this relic may not be available on a succeeding appearance.
+Crafting
+
 ### Wiki
 Fill your fists with golden cannons of fury. The refined design unlocks quicker handling and higher critical chance.
 The Akmagnus Prime is the Primed variant of the Akmagnus dual heavy pistols, with improvements to its critical chance, critical multiplier, and status chance, and slightly faster reload speed. Its shots also uniquely have a chance to grant it 100% Ammo Efficiency for a short duration.
@@ -640,9 +654,6 @@ Landing a successful hit (including from Multishot) or inflicting Status damage 
 Innate V and D polarities.
 Magnus Prime
 Akmagnus
-**Acquisition:**
-The Void Relics containing the Akmagnus Prime components can be purchased from Baro Ki'Teer in the Concourse section of the Tenno Relay for 55,000 and 125 each. Note that Baro Ki'Teer's stock changes with each appearance and this relic may not be available on a succeeding appearance.
-Crafting
 **Type:** Dual Pistols | **Mastery Req:** 15 | **Riven Disposition:** 3
 
 ### Normal Attack
@@ -660,6 +671,10 @@ Crit Chance: 28.00% | Crit Multiplier: 2.8x | Status Chance: 28.00% | Fire Rate:
 ## Aksomati
 The devastating power of the Soma rifle compacted into two elegant pistols.
 
+### Acquisition
+The Aksomati's blueprint can be purchased from the Market.
+This weapon can be sold for 5,000.
+
 ### Wiki
 Weapons
 The devastating power of the Soma rifle compacted into two elegant pistols.
@@ -673,9 +688,6 @@ Auto-Spool: Requires a spool-up of 6 shots before optimal fire rate is achieved.
 Fire rate starts at 25% of the listed value and increases by 15% per shot.
 Accuracy lowers as fire rate ramps up.
 Aksomati Prime
-**Acquisition:**
-The Aksomati's blueprint can be purchased from the Market.
-This weapon can be sold for 5,000.
 **Notes:**
 Like the Soma – their rifle counterpart – the Aksomati have a short spool-up time before reaching their maximum fire rate.
 **Type:** Pistol | **Mastery Req:** 9 | **Riven Disposition:** 4
@@ -725,6 +737,9 @@ Crit Chance: 24.00% | Crit Multiplier: 3x | Status Chance: 18.00% | Fire Rate: 1
 ## Akstiletto
 These diminutive rapid-fire Stiletto machine-pistols are just the right size to be akimbo style without sacrificing accuracy.
 
+### Acquisition
+The Akstiletto's blueprint can be researched from the Tenno Lab in the dojo.
+
 ### Wiki
 Weapons
 These diminutive rapid-fire Stiletto machine-pistols are just the right size to be akimbo style without sacrificing accuracy.
@@ -735,8 +750,6 @@ Akstiletto → Sarpa
 Characteristics
 This weapon deals primarily Impact damage.
 Akstiletto Prime
-**Acquisition:**
-The Akstiletto's blueprint can be researched from the Tenno Lab in the dojo.
 **Tips:**
 Tainted Clip is good for increasing the magazine capacity of Akstiletto because its short reload time is affected very little by the reload speed penalty.
 With the short reload, this is an excellent backup for fist and sparring weapons, which aren't always reliable due to extremely short range.
@@ -797,6 +810,9 @@ Crit Chance: 15.00% | Crit Multiplier: 2x | Status Chance: 30.00% | Fire Rate: 7
 ## Akvasto
 Vasto revolvers equipped in each hand.
 
+### Acquisition
+The Akvasto's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 Vasto revolvers equipped in each hand.
@@ -806,8 +822,6 @@ Characteristics
 This weapon deals primarily Slash damage.
 Vasto
 Akvasto Prime
-**Acquisition:**
-The Akvasto's blueprint can be purchased from the Market.
 **Tips:**
 The Akvasto has a high chance of cutting corpses into pieces, making it a prime candidate for a Desecrating Nekros to bring along, as the game considers the cut corpses as separate entities, essentially giving multiple corpses to desecrate from a single enemy and thus yielding more chances to create more drops.
 The reduced accuracy of the Akvasto is a byproduct of its faster firing rate. When pinpoint accuracy is required at a distance, consider pausing between shots to steady your weapon and allow for more consistent aiming.
@@ -830,6 +844,11 @@ Crit Chance: 16.00% | Crit Multiplier: 1.8x | Status Chance: 12.00% | Fire Rate:
 ## Akvasto Prime
 Orokin craftsmanship married with superior firepower. Dual Vastos, primed and ready to strike.
 
+### Acquisition
+The Void Relics containing the Akvasto Prime components can be purchased from Baro Ki'Teer in the Concourse section of the Tenno Relay for 55,000 and 125 each. Note that Baro Ki'Teer's stock changes with each appearance and this relic may not be available on a succeeding appearance.
+G4rQWLKYIwc
+24.1.5
+
 ### Wiki
 Orokin craftsmanship married with superior firepower. Dual Vastos, primed and ready to strike.
 The Akvasto Prime is the primed version of the Akvasto revolver, sporting higher offensive stats at some expense to fire rate.
@@ -837,10 +856,6 @@ Characteristics
 This weapon deals primarily Slash damage.
 Vasto Prime
 Akvasto
-**Acquisition:**
-The Void Relics containing the Akvasto Prime components can be purchased from Baro Ki'Teer in the Concourse section of the Tenno Relay for 55,000 and 125 each. Note that Baro Ki'Teer's stock changes with each appearance and this relic may not be available on a succeeding appearance.
-G4rQWLKYIwc
-24.1.5
 **Type:** Pistol | **Mastery Req:** 12 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -858,6 +873,9 @@ Crit Chance: 22.00% | Crit Multiplier: 2.4x | Status Chance: 22.00% | Fire Rate:
 ## Akzani
 The choice weapon of Mirage, these fast-firing dual pistols deliver a deadly performance.
 
+### Acquisition
+The Akzani's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 The choice weapon of Mirage, these fast-firing dual pistols deliver a deadly performance.
@@ -869,8 +887,6 @@ Innate Naramon polarity.
 Lowest base damage of all secondaries.
 Second lowest base damage per bullet of all secondaries, after Twin Grakatas.
 Very inefficient ammo economy.
-**Acquisition:**
-The Akzani's blueprint can be purchased from the Market.
 **Notes:**
 Currently, Akzani lacks a Signature Weapon bonus with Mirage/Mirage Prime.
 Currently, the Akzani holds the distinction of having the third largest reserve ammo capacity of all secondary weapons, having 400 rounds of ammo compared to the usual 210 for secondaries (only beaten by the Synoid Gammacor, with 450, and the Twin Grakatas, with 1200). With a maxed rank Trick Mag mod, the Akzani can increase its capacity to hold 760 rounds of ammo.
@@ -951,6 +967,9 @@ Crit Chance: 18.00% | Crit Multiplier: 1.8x | Status Chance: 18.00% | Fire Rate:
 ## Arca Scisco
 This scoped pistol analyzes strikes, learning how to damage its targets most effectively. Achieve maximum damage output after five successive hits.
 
+### Acquisition
+The Arca Scisco's blueprint can be researched from the Energy Lab in the dojo.
+
 ### Wiki
 Weapons
 This scoped pistol analyzes strikes, learning how to damage its targets most effectively. Achieve maximum damage output after five successive hits.
@@ -960,8 +979,6 @@ This weapon deals primarily Puncture damage.
 Shots trigger Target Analysis buff, increasing critical chance and status chance by 4% flat, stacking up to five times for 20%, and lasts 2 seconds. Buff can be refreshed on consecutive shots.
 Has 2x and 4x zoom options when zooming in with the weapon.
 Second highest magazine size of all semi-auto pistols, behind Akbolto Prime.
-**Acquisition:**
-The Arca Scisco's blueprint can be researched from the Energy Lab in the dojo.
 **Notes:**
 When a shot hits an enemy, the Arca Scisco gets the Target Analysis buff. A flat 4% critical chance and status chance bonus are added after mods, stacking up to five times on shots up to 20%. The buff lasts for 2 seconds and can be refreshed. When the buff times out, one stack is lost and the buff duration resets.
 Secondary sniper rifle, very useful if you happen to use a short range weapon like a shotgun as a primary.
@@ -1030,6 +1047,9 @@ Crit Chance: 18.00% | Crit Multiplier: 2x | Status Chance: 24.00% | Fire Rate: 1
 ## Atomos
 This particle cannon generates a condensed beam of super-heated plasma designed to melt rock to ore, and enemies to molten slag.
 
+### Acquisition
+The Atomos's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 This particle cannon generates a condensed beam of super-heated plasma designed to melt rock to ore, and enemies to molten slag.
@@ -1049,8 +1069,6 @@ Chain beam has a limited range of 7 meters.
 Chain beam range cannot be increased with Ruinous Extension.
 Ammo from Pickups is 3.5 times lower (20) than ammo in magazine (70), leading to poor ammo efficiency.
 Pistol Ammo Mutation (Primed Pistol Ammo Mutation) can be equipped to convert other ammo pickup types.
-**Acquisition:**
-The Atomos's blueprint can be purchased from the Market.
 **Type:** Pistol | **Mastery Req:** 5 | **Riven Disposition:** 3
 
 ### Normal Attack
@@ -1077,6 +1095,10 @@ Crit Chance: 18.00% | Crit Multiplier: 3x | Status Chance: 41.00% | Fire Rate: 1
 ## Azima
 This intricate automatic pistol is able to fire its magazine which then spins in the air for a short time, firing lasers at nearby enemies.
 
+### Acquisition
+The Azima is exclusive to the Daily Tribute system. It will become available every 200 days, beginning at day 100, until chosen as the Milestone reward. The Azima comes with its own weapon slot and a pre-installed Orokin Catalyst.
+Additional blueprints can be bought from Cephalon Simaris for 100,000 Standing.
+
 ### Wiki
 Weapons
 This intricate automatic pistol is able to fire its clip which then spins in the air for a short time, firing lasers at nearby enemies.
@@ -1092,9 +1114,6 @@ Very low recoil.
 High accuracy.
 Poor ammo efficiency, especially with alt-fire depleting entire magazines in a single shot.
 Alt-fire magazine ejection has travel time and travels in an arc.
-**Acquisition:**
-The Azima is exclusive to the Daily Tribute system. It will become available every 200 days, beginning at day 100, until chosen as the Milestone reward. The Azima comes with its own weapon slot and a pre-installed Orokin Catalyst.
-Additional blueprints can be bought from Cephalon Simaris for 100,000 Standing.
 **Type:** Pistol | **Mastery Req:** 6 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -1117,6 +1136,9 @@ Crit Chance: 16.00% | Crit Multiplier: 2x | Status Chance: 16.00% | Fire Rate: 1
 ## Ballistica
 The Ballistica crossbow features a unique dual firing mechanism. Choose between a four bolt volley or a deadly accurate charged shot.
 
+### Acquisition
+The Ballistica's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 The Ballistica crossbow features a unique dual firing mechanism, choose between a four bolt volley or a deadly accurate charged shot.
@@ -1134,8 +1156,6 @@ Burst shots have low accuracy and high horizontal recoil.
 Burst shots consume 4 ammo per shot, resulting in a 4-shot magazine. Linearly less efficient – sometimes a target may only die with five projectiles, which requires an entire second burst to be fired.
 Rakta Ballistica
 Ballistica Prime
-**Acquisition:**
-The Ballistica's blueprint can be purchased from the Market.
 **Type:** Pistol | **Mastery Req:** 2 | **Riven Disposition:** 4
 
 ### Charged Shot
@@ -1201,6 +1221,9 @@ Crit Chance: 20.00% | Crit Multiplier: 2x | Status Chance: 15.00% | Fire Rate: 3
 ## Bolto
 The Bolto fires slow, heavy bolts that are capable of impaling enemies to walls.
 
+### Acquisition
+The Bolto's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 The Bolto fires slow, heavy bolts that are capable of impaling enemies to walls.
@@ -1212,8 +1235,6 @@ Characteristics
 This weapon deals primarily Puncture damage.
 Can use the Bolto-exclusive Entropy Spike mod.
 Akbolto
-**Acquisition:**
-The Bolto's blueprint can be purchased from the Market.
 **Notes:**
 Bolts pin killed enemies to walls or floors.
 Bolto can puncture a container and has a 100% chance to destroy the container behind it. The Akbolto does not have this capability.
@@ -1282,6 +1303,9 @@ Crit Chance: 17.00% | Crit Multiplier: 2x | Status Chance: 5.10% | Fire Rate: 5
 ## Bronco
 The Bronco is a small-scale shotgun that can be wielded with one hand. Only effective at close range, it has a limited Magazine Capacity.
 
+### Acquisition
+The Bronco's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 The Bronco is a small-scale shotgun that can be wielded with one hand. Only effective at close range, it has a limited clip size.
@@ -1299,8 +1323,6 @@ Extremely small magazine size of just 2 rounds; requires frequent reloading.
 Wide pellet spread cone makes the weapon ineffective beyond short range.
 Akbronco
 Bronco Prime
-**Acquisition:**
-The Bronco's blueprint can be purchased from the Market.
 **Notes:**
 Incarnon Genesis
 Upon completion of The Duviri Paradox and Angels of the Zariman, and unlocking The Steel Path, players can earn Bronco Incarnon Genesis from The Circuit's Steel Path to place on their Bronco with the help of Cavalero in the Chrysalith. This Incarnon Genesis form grants it evolutions to a transformation and newfound strength.
@@ -1415,6 +1437,10 @@ Crit Chance: 18.00% | Crit Multiplier: 2x | Status Chance: 22.00% | Fire Rate: 3
 ## Castanas
 The remotely triggered Castanas quietly deliver a lethal dose of electricity to unsuspecting enemies.
 
+### Acquisition
+The Castana's blueprint can be researched from the Tenno Lab in the dojo.
+This weapon can be sold for 5,000 credits
+
 ### Wiki
 Weapons
 The remotely triggered Castanas quietly deliver a lethal dose of electricity to unsuspecting enemies.
@@ -1440,9 +1466,6 @@ Projectiles have very slow travel time with arcing.
 Semi-automatic fire, unlike other throwing weapons.
 Extremely low magazine size of just 2 rounds; requires frequent reloading.
 Sancti Castanas
-**Acquisition:**
-The Castana's blueprint can be researched from the Tenno Lab in the dojo.
-This weapon can be sold for 5,000 credits
 **Type:** Throwing | **Mastery Req:** 3 | **Riven Disposition:** 5
 
 ### Mid-Flight Detonation
@@ -1523,6 +1546,13 @@ Crit Chance: 31.00% | Crit Multiplier: 2.9x | Status Chance: 59.00% | Fire Rate:
 ## Cestra
 Compact and deadly, the Cestra discharges bolts of energy at an increasingly rapid rate.
 
+### Acquisition
+The Cestra's blueprint can be purchased from the Market for 20,000 credits, while the built version can be purchased for 175 platinum (catalyst installed). Alternatively, it can be acquired from completing the Jupiter to Europa Junction.
+Incarnon Genesis
+Upon completion of The Duviri Paradox and Angels of the Zariman, and unlocking The Steel Path, players can earn Cestra Incarnon Genesis from The Circuit's Steel Path to place on their Cestra with the help of Cavalero in the Chrysalith. This Incarnon Genesis form grants it evolutions to a transformation and newfound strength.
+Evolution
+Cestra Incarnon Genesis#Evolutions
+
 ### Wiki
 Weapons
 Compact and deadly, the Cestra discharges bolts of energy at an increasingly rapid rate.
@@ -1537,12 +1567,6 @@ Requires a spool-up of 6 shots before optimal fire rate is achieved. Fire rate s
 High recoil when fully spooled.
 Poor ammo economy.
 Dual Cestra
-**Acquisition:**
-The Cestra's blueprint can be purchased from the Market for 20,000 credits, while the built version can be purchased for 175 platinum (catalyst installed). Alternatively, it can be acquired from completing the Jupiter to Europa Junction.
-Incarnon Genesis
-Upon completion of The Duviri Paradox and Angels of the Zariman, and unlocking The Steel Path, players can earn Cestra Incarnon Genesis from The Circuit's Steel Path to place on their Cestra with the help of Cavalero in the Chrysalith. This Incarnon Genesis form grants it evolutions to a transformation and newfound strength.
-Evolution
-Cestra Incarnon Genesis#Evolutions
 **Tips:**
 Pistol Ammo Mutation (or its Primed Pistol Ammo Mutation), Trick Mag, Pistol Scavenger or Squad Ammo Restores can be used to counteract the Cestra's high rate of ammo consumption.
 While having good base accuracy, the Cestra has significant recoil that scatters its shots, making it ineffective for long range shooting. Steady Hands is a must if one plans to utilize the Cestra's high base accuracy effectively.
@@ -1617,6 +1641,9 @@ Crit Chance: 31.00% | Crit Multiplier: 2.9x | Status Chance: 59.00% | Fire Rate:
 ## Coda Pox
 These festering, writhing, throwable projectiles of pus and gas have been improved with a greater Magazine Size, Critical Chance, Critical Damage, Status Chance, and Damage.
 
+### Acquisition
+Adversary System/Weapons#Coda Acquisition
+
 ### Wiki
 Weapons
 These festering, writhing, throwable projectiles of pus and gas have been improved with a greater Magazine Size, Critical Chance, Critical Multiplier, Status Chance, and Damage.
@@ -1638,8 +1665,6 @@ Polarizing the weapon increases its max rank by 2, capping at rank 40 after 5 po
 Elemental Vice can be applied to the weapon after it has reached rank 40, allowing the bonus damage type to be swapped freely.
 Unlike Kuva and Tenet weapons directly acquired from a Kuva Lich or Sisters of Parvos, the listed Mastery Rank requirement is enforced.
 Pox
-**Acquisition:**
-Adversary System/Weapons#Coda Acquisition
 **Notes:**
 Adversary System#Notes
 **Type:** Pistol | **Mastery Req:** 17 | **Riven Disposition:** 3
@@ -1654,6 +1679,9 @@ Crit Chance: 10.00% | Crit Multiplier: 2.2x | Status Chance: 45.00% | Fire Rate:
 
 ## Coda Tysis
 The Technocyte virus has contorted this Tysis into a more lethal weapon. With increased Damage, Critical Chance, Critical Damage and Magazine Capacity.
+
+### Acquisition
+Lich System/Weapons#Coda Acquisition
 
 ### Wiki
 Weapons
@@ -1672,8 +1700,6 @@ Unlike Kuva and Tenet weapons directly acquired from a Kuva Lich or Sisters of P
 Projectiles have travel time.
 Fairly high recoil.
 Tysis
-**Acquisition:**
-Lich System/Weapons#Coda Acquisition
 **Type:** Pistol | **Mastery Req:** 17 | **Riven Disposition:** 3
 
 ### Normal Attack
@@ -1735,6 +1761,9 @@ Crit Chance: 8.00% | Crit Multiplier: 1.4x | Status Chance: 32.00% | Fire Rate: 
 ## Cycron
 Forgo ammunition with the regenerating energy disc in this plasma throwing pistol.
 
+### Acquisition
+The Cycron's blueprint can be researched from the Energy Lab in the dojo.
+
 ### Wiki
 Weapons
 Forgo ammunition with the regenerating energy disc in this plasma throwing pistol.
@@ -1755,8 +1784,6 @@ Magnum Force's accuracy penalty is minimal on this weapon.
 Consumes 0.5 ammo per tick of damage.
 Range limited to 24 meters.
 Tenet Cycron
-**Acquisition:**
-The Cycron's blueprint can be researched from the Energy Lab in the dojo.
 **Type:** Pistol | **Mastery Req:** 8 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -1866,6 +1893,9 @@ Crit Chance: 4.00% | Crit Multiplier: 1.5x | Status Chance: 12.86% | Fire Rate: 
 ## Dex Furis
 A gift from the Lotus to commemorate the anniversary of the first Tenno waking from Cryo stasis.
 
+### Acquisition
+The Dex Furis was released in commemoration of WARFRAME's 1st Year Anniversary. It is obtainable through yearly anniversaries in March via Alerts, complete with a free weapon slot and a pre-installed Orokin Catalyst.
+
 ### Wiki
 Weapons
 A gift from the Lotus to commemorate the anniversary of the first Tenno waking from Cryo stasis.
@@ -1874,8 +1904,6 @@ Characteristics
 This weapon primarily deals Puncture damage.
 Afuris
 Afuris Prime
-**Acquisition:**
-The Dex Furis was released in commemoration of WARFRAME's 1st Year Anniversary. It is obtainable through yearly anniversaries in March via Alerts, complete with a free weapon slot and a pre-installed Orokin Catalyst.
 **Notes:**
 This weapon cannot use the Winds of Purity Furis augment. Only the single Furis can use this augment.
 The Dex Furis is considered a variant of the Afuris, and thus can use Riven Mods for said weapon.
@@ -1892,6 +1920,9 @@ Crit Chance: 14.00% | Crit Multiplier: 2x | Status Chance: 28.00% | Fire Rate: 2
 ## Dual Cestra
 Wield two Cestras to unleash a dual torrent of high energy bolts.
 
+### Acquisition
+The Dual Cestra's blueprint can be researched from the Energy Lab in the dojo.
+
 ### Wiki
 Weapons
 Wield two Cestras to unleash a dual torrent of high energy bolts.
@@ -1906,8 +1937,6 @@ High recoil.
 Poor ammo economy.
 Cestra
 Secura Dual Cestra
-**Acquisition:**
-The Dual Cestra's blueprint can be researched from the Energy Lab in the dojo.
 **Tips:**
 Due to the high recoil of this weapon, Steady Hands is recommended for better accuracy.
 **Trivia:**
@@ -1936,6 +1965,9 @@ Crit Chance: 6.00% | Crit Multiplier: 1.6x | Status Chance: 20.00% | Fire Rate: 
 ## Dual Coda Torxica
 Get the job done right with a pair of spore flinging terror tools. Inflicts a spore that spreads to nearby enemies on death causing Cold Status Effect and increased vulnerability to damage from the Torxica.
 
+### Acquisition
+Adversary System/Weapons#Coda Acquisition
+
 ### Wiki
 Weapons
 Get the job done right with a pair of spore flinging terror tools. Inflicts a spore that spreads to nearby enemies on death causing Cold Status Effect and increased vulnerability to damage, especially from the Torxica.
@@ -1950,8 +1982,6 @@ Valence Fusion can optionally change the resulting output damage type, and can u
 Polarizing the weapon increases its max rank by 2, capping at rank 40 after 5 polarizations, granting the weapon additional mod capacity.
 Elemental Vice can be applied to the weapon after it has reached rank 40, allowing the bonus damage type to be swapped freely.
 Unlike Kuva and Tenet weapons directly acquired from a Kuva Lich or Sisters of Parvos, the listed Mastery Rank requirement is enforced.
-**Acquisition:**
-Adversary System/Weapons#Coda Acquisition
 **Type:** Pistol | **Mastery Req:** 17 | **Riven Disposition:** 1
 
 ### Normal Attack
@@ -1960,6 +1990,9 @@ Crit Chance: 25.00% | Crit Multiplier: 2.4x | Status Chance: 28.00% | Fire Rate:
 
 ## Dual Toxocyst
 Brain-strikes excite this bioweapon, causing it to rapidly release toxic munitions.
+
+### Acquisition
+The Dual Toxocyst's blueprint can be researched from the Bio Lab in the dojo.
 
 ### Wiki
 Weapons
@@ -1979,8 +2012,6 @@ Bonus is multiplicative to other sources of fire rate.
 Innate Madurai and Naramon polarities.
 Very good ammo efficiency.
 High recoil without the innate buff active.
-**Acquisition:**
-The Dual Toxocyst's blueprint can be researched from the Bio Lab in the dojo.
 **Type:** Pistol | **Mastery Req:** 11 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -2027,6 +2058,9 @@ Crit Chance: 27.00% | Crit Multiplier: 2.1x | Status Chance: 33.00% | Fire Rate:
 ## Embolist
 A living weapon, the infested Embolist pistol kills its victims with an acidic venomous gas.
 
+### Acquisition
+The Embolist's blueprint can be researched from the Bio Lab in the dojo.
+
 ### Wiki
 Weapons
 A living weapon, the infested Embolist pistol kills its victims with an acidic venomous gas.
@@ -2044,8 +2078,6 @@ Innate Naramon polarity.
 Pinpoint accuracy.
 Consumes 0.5 ammo per tick of damage.
 Limited range of 9 meters.
-**Acquisition:**
-The Embolist's blueprint can be researched from the Bio Lab in the dojo.
 **Notes:**
 The projectile creates a toxin cloud on whatever surface it hits, this is purely cosmetic and does no additional damage, staying for less than a second.
 **Tips:**
@@ -2235,6 +2267,9 @@ Crit Chance: 2.00% | Crit Multiplier: 2x | Status Chance: 9.00% | Fire Rate: 1.5
 ## Furis
 The Furis delivers a high damage output in a short time frame thanks to its high rate of fire.
 
+### Acquisition
+The Furis's blueprint can be purchased from the Market. Alternatively, it can be acquired from completing the Earth to Venus Junction.
+
 ### Wiki
 Weapons
 The Furis delivers a high damage output in a short time frame thanks to its high rate of fire.
@@ -2249,8 +2284,6 @@ Low recoil and very high accuracy, even at medium-far ranges.
 Extremely inefficient ammo economy.
 Mk1-Furis
 Afuris
-**Acquisition:**
-The Furis's blueprint can be purchased from the Market. Alternatively, it can be acquired from completing the Earth to Venus Junction.
 **Notes:**
 Incarnon Genesis
 Upon completion of The Duviri Paradox and Angels of the Zariman, and unlocking The Steel Path, players can earn Furis Incarnon Genesis from The Circuit's Steel Path to place on their Furis with the help of Cavalero in the Chrysalith. This Incarnon Genesis form grants it evolutions to a transformation and newfound strength.
@@ -2286,6 +2319,10 @@ Crit Chance: 26.00% | Crit Multiplier: 3.4x | Status Chance: 24.00% | Fire Rate:
 ## Fusilai
 Silently lacerate enemies with Gara's signature glass throwing knives. Increased Projectile Speed when wielded by Gara.
 
+### Acquisition
+The Fusilai's blueprint can be purchased from the Market.
+This weapon can be sold for 5,000.
+
 ### Wiki
 Tenno
 Silently lacerate enemies with Gara's signature glass throwing knives. Increased Projectile Speed when wielded by Gara.
@@ -2308,9 +2345,6 @@ Projectiles have travel time with arcing.
 Primary Fire has third lowest fire rate of all throwing-type secondaries, behind Pox and Spira.
 Alternate Fire has lowest fire rate of all throwing-type secondaries.
 Third smallest magazine size of all throwing-type secondaries, behind Pox/Talons and Castanas/Sancti Castanas.
-**Acquisition:**
-The Fusilai's blueprint can be purchased from the Market.
-This weapon can be sold for 5,000.
 **Type:** Throwing | **Mastery Req:** 7 | **Riven Disposition:** 5
 
 ### Full Auto Mode
@@ -2333,6 +2367,9 @@ Crit Chance: 3.00% | Crit Multiplier: 1.5x | Status Chance: 12.30% | Fire Rate: 
 ## Gammacor
 Designed to quickly vaporize minerals for content analysis, users discovered its powerful beam was equally efficient at dispatching hostiles.
 
+### Acquisition
+The Gammacor's blueprint can be purchased from the Market. Alternatively, it can be acquired from completing the Uranus to Neptune Junction.
+
 ### Wiki
 Weapons
 Designed to quickly vaporize minerals for content analysis, users discovered its powerful beam was equally efficient at dispatching hostiles.
@@ -2349,8 +2386,6 @@ Reduced Noise Level.
 Consumes 0.5 ammo per tick of damage.
 Limited range of 25 meters.
 Synoid Gammacor
-**Acquisition:**
-The Gammacor's blueprint can be purchased from the Market. Alternatively, it can be acquired from completing the Uranus to Neptune Junction.
 **Notes:**
 The Gammacor's beam when fired does not immediately hit at its maximum range, instead it takes around half a second to extend to its maximum range, and will maintain that range as long as the weapon is being fired. The beam retracts when the weapon stops firing.
 Incarnon Genesis
@@ -2412,6 +2447,9 @@ Ammo pickups from Pistol Ammo Mutation do not reduce recharge time.
 ## Hikou
 As an alternative to Kunai, these Tenno throwing stars do cause less Damage but they come with expanded Ammo Capacity and a higher Fire Rate.
 
+### Acquisition
+The Hikou's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 As an alternative to Kunai, these Tenno throwing stars do less damage but they come with expanded ammo capacity and a higher rate of fire.
@@ -2429,8 +2467,6 @@ Projectiles have travel time.
 Projectiles travel in an arc, making it hard to hit at longer ranges and achieve headshots.
 Very low ammo efficiency.
 Hikou Prime
-**Acquisition:**
-The Hikou's blueprint can be purchased from the Market.
 **Notes:**
 The Hikou are quite similar to the Kunai, the main difference being about half the damage for twice the fire rate. Regarding this, Hikou are slightly superior, dealing 5 more damage per two thrown, which would equal 1 Kunai in terms for rate of fire. In other words, the Hikou trades a slight DPS upgrade for ammo economy when compared to the Kunai. Note that they both share a 210 size spare ammo capacity, so the Hikou is slightly worse for wear.
 **Tips:**
@@ -2458,6 +2494,13 @@ Crit Chance: 4.00% | Crit Multiplier: 1.6x | Status Chance: 10.00% | Fire Rate: 
 ## Hikou Prime
 As deadly as any bullet without the associated noise or commotion.
 
+### Acquisition
+Unlike most Prime gear, Hikou Prime is permanently unvaulted, with relics being obtainable through Abandoned Derelict Caches in Corpus Railjack missions.
+Vaultings
+On August 9th, 2016, it was announced that Hikou Prime, alongside Nyx Prime and Scindo Prime, would enter the Prime Vault and be retired from the reward tables on August 23rd, 2016. Any preexisting components, relics or fully-built weapons will remain as is.
+Hikou Prime, along with Nyx Prime, Scindo Prime, Rhino Prime, Boltor Prime, and Ankyros Prime, was unvaulted on July 24, 2018 to September 25, 2018.
+The same line-up was unvaulted again from July 16th, 2019 to September 3rd, 2019.
+
 ### Wiki
 As deadly as any bullet without the associated noise or commotion.
 The Hikou Prime is the Primed variant of the Hikou throwing stars, featuring higher damage, status chance, magazine, and faster reload speed, at some expense to fire rate. It was released alongside Nyx Prime and Scindo Prime.
@@ -2474,12 +2517,6 @@ Second lowest base damage of all throwing-type secondaries, after Hikou.
 Projectiles have travel time with arcing.
 Very low ammo efficiency.
 Hikou
-**Acquisition:**
-Unlike most Prime gear, Hikou Prime is permanently unvaulted, with relics being obtainable through Abandoned Derelict Caches in Corpus Railjack missions.
-Vaultings
-On August 9th, 2016, it was announced that Hikou Prime, alongside Nyx Prime and Scindo Prime, would enter the Prime Vault and be retired from the reward tables on August 23rd, 2016. Any preexisting components, relics or fully-built weapons will remain as is.
-Hikou Prime, along with Nyx Prime, Scindo Prime, Rhino Prime, Boltor Prime, and Ankyros Prime, was unvaulted on July 24, 2018 to September 25, 2018.
-The same line-up was unvaulted again from July 16th, 2019 to September 3rd, 2019.
 **Type:** Throwing | **Mastery Req:** 4 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -2496,6 +2533,9 @@ Crit Chance: 6.00% | Crit Multiplier: 1.8x | Status Chance: 28.00% | Fire Rate: 
 
 ## Hystrix
 Heat, cold, electricity, or toxin: choose an element and launch a flurry of deadly quills. This versatile sidearm is Khora’s signature weapon and has a chance to instantly reload after headshots when she wields it.
+
+### Acquisition
+The Hystrix's blueprint can be purchased from the Market.
 
 ### Wiki
 Weapon
@@ -2518,8 +2558,6 @@ Small magazine size.
 Coupled with its high fire rate, results in frequent reloading.
 Projectiles have travel time.
 Hystrix Prime
-**Acquisition:**
-The Hystrix's blueprint can be purchased from the Market.
 **Type:** Pistol | **Mastery Req:** 7 | **Riven Disposition:** 4
 
 ### Poison Quill
@@ -2599,6 +2637,9 @@ Crit Chance: 28.00% | Crit Multiplier: 2.2x | Status Chance: 20.00% | Fire Rate:
 ## Knell
 Ring the death knell. Headshots briefly turn this scoped pistol into a rapid-fire, Critical Damage fiend that uses no ammo. When used by Harrow, Knell has a 2-round mag.
 
+### Acquisition
+The Knell's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 Ring the death knell. Headshots briefly turn this scoped pistol into a rapid-fire, Critical Damage fiend that uses no ammo. When used by Harrow, Knell has a 2-round mag.
@@ -2610,8 +2651,6 @@ Precise at long range due to the scope feature.
 Scope can be used even in Bleedout.
 Can only load one shot at a time (two when used by Harrow/Harrow Prime).
 Knell Prime
-**Acquisition:**
-The Knell's blueprint can be purchased from the Market.
 **Type:** Pistol | **Mastery Req:** 10 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -2664,6 +2703,9 @@ Crit Chance: 40.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 5
 ## Kohmak
 Like the larger Kohm, this hand-shotgun doubles its volley with each successive shot.
 
+### Acquisition
+The Kohmak's blueprint can be researched from the Chem Lab in the dojo.
+
 ### Wiki
 Weapons
 Like the larger Kohm, this hand-shotgun doubles its volley with each successive shot.
@@ -2684,8 +2726,6 @@ Requires a spool-up of 4 and 5 rounds before reaching optimal fire rate and mult
 Consumes 1.67 ammo per shot at full spool-up.
 Accuracy decreases during spool-up.
 Twin Kohmak
-**Acquisition:**
-The Kohmak's blueprint can be researched from the Chem Lab in the dojo.
 **Notes:**
 The Kohmak fires an increasing number of pellets the longer it is fired, until it reaches its maximum pellet count of five pellets per shot. It will also consume 1.6667(5/3) ammo per shot at maximum spool.
 With its base magazine size and fired from rest to full spool, the Kohmak can effectively fire 25 shots, with one round left in the magazine. The number of shots per magazine can be increased by firing the Kohmak slowly to prevent spool-up, allowing it to fire its maximum of 40 shots, but at the cost of effective damage.
@@ -2713,6 +2753,9 @@ Crit Chance: 11.00% | Crit Multiplier: 2x | Status Chance: 13.80% | Fire Rate: 5
 ## Kompressa
 Launch a volley of virulent, hyper-pressurized, water globules that envelope targets and explode with torrential force. Yareli's signature pistol.
 
+### Acquisition
+Roky sells the main blueprint and component blueprints to Tenno at Rank 5 - Logical with Ventkids. She will sell the blueprints for 25,000 Standing each, for a total of 75,000 Standing for all parts. A component is also offered as a rank-up reward upon reaching Rank 5 - Logical.
+
 ### Wiki
 Weapons
 Launch a volley of virulent, hyper-pressurized, water globules that envelope targets and explode with torrential force. Yareli's signature pistol.
@@ -2733,8 +2776,6 @@ Explosion inflicts self-stagger.
 Explosion has a headshot multiplier of 1x and cannot trigger headshot conditions.
 Explosion has linear Damage Falloff from 100% to 80% from central impact.
 Kompressa Prime
-**Acquisition:**
-Roky sells the main blueprint and component blueprints to Tenno at Rank 5 - Logical with Ventkids. She will sell the blueprints for 25,000 Standing each, for a total of 75,000 Standing for all parts. A component is also offered as a rank-up reward upon reaching Rank 5 - Logical.
 **Type:** Pistol | **Mastery Req:** 8 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -2800,6 +2841,9 @@ Crit Chance: 16.00% | Crit Multiplier: 1.8x | Status Chance: 36.00% | Fire Rate:
 ## Kraken
 The Kraken is a heavy pistol of Grineer design that fires two quick shots with a single pull of the trigger. Skilled marksmen will appreciate the value in this deadly accurate weapon.
 
+### Acquisition
+The Kraken's blueprint can be purchased from the Market. Alternatively, it can be acquired from completing the Mars to Phobos Junction.
+
 ### Wiki
 Weapons
 The Kraken is a heavy pistol of Grineer design that fires two quick shots with a single pull of the trigger. Skilled marksmen will appreciate the value in this deadly accurate weapon.
@@ -2812,8 +2856,6 @@ High accuracy.
 High ammo efficiency.
 Linearly less efficient – sometimes a target may only die with three bullets, which requires an entire second burst to be fired.
 Kuva Kraken
-**Acquisition:**
-The Kraken's blueprint can be purchased from the Market. Alternatively, it can be acquired from completing the Mars to Phobos Junction.
 **Notes:**
 The weapon's high Impact damage makes it effective against the Grineer.
 **Tips:**
@@ -2839,6 +2881,9 @@ Crit Chance: 5.00% | Crit Multiplier: 2x | Status Chance: 13.00% | Fire Rate: 2.
 ## Kulstar
 Rain hell on the enemy with this handheld cluster-rocket launcher.
 
+### Acquisition
+The Kulstar's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 Rain hell on the enemy with this handheld cluster-rocket launcher
@@ -2862,8 +2907,6 @@ Extremely low ammo capacity of just 15 rounds; requires just 5 reloads to fully 
 Explosions and cluster bombs inflicts self-stagger.
 Explosions and cluster bombs have a headshot multiplier of 1x and cannot trigger headshot conditions.
 Explosions and cluster bombs have linear Damage Falloff from 100% to 60% from central impact.
-**Acquisition:**
-The Kulstar's blueprint can be purchased from the Market.
 **Type:** Pistol | **Mastery Req:** 5 | **Riven Disposition:** 4
 
 ### Rocket Impact
@@ -2894,6 +2937,9 @@ Crit Chance: 17.00% | Crit Multiplier: 2.3x | Status Chance: 19.00% | Fire Rate:
 ## Kunai
 Kunai throwing daggers offer a silent alternative to the traditional side arm. Perfect for assassins.
 
+### Acquisition
+The Kunai's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 Kunai throwing daggers offer a silent alternative to the traditional sidearm. Perfect for assassins.
@@ -2911,8 +2957,6 @@ Below average critical multiplier.
 Has travel time, making it difficult to land an accurate shot at long distances.
 Shoots in an arc, making it difficult for use at long range.
 Mk1-Kunai
-**Acquisition:**
-The Kunai's blueprint can be purchased from the Market.
 **Notes:**
 The Kunai does not have the pinning properties of other projectile weapons, such as the Boltor or Paris, but will simply throw targets backwards upon death.
 Incarnon Genesis
@@ -2941,6 +2985,9 @@ Crit Chance: 18.00% | Crit Multiplier: 2x | Status Chance: 16.00% | Fire Rate: 3
 ## Kuva Brakk
 This Lich-variant semi-automatic hand cannon delivers a lot of punch in a small package. Higher fire rate, magazine capacity and reload speed.
 
+### Acquisition
+Adversary System/Weapons#Kuva Acquisition
+
 ### Wiki
 This Lich-variant semi-automatic hand cannon delivers a lot of punch in a small package. Higher fire rate, magazine capacity and reload speed.
 The Kuva Brakk is the Kuva variant of the Brakk shotgun pistol, featuring higher critical chance, status chance, fire rate, magazine capacity, and innate punch through, at the cost of reduced damage, closer falloff ranges, and massive damage falloff at long distances.
@@ -2961,8 +3008,6 @@ Has linear damage falloff from 100% to 4% from 10m to 20m target distance (dista
 Wide pellet spread cone makes the weapon ineffective beyond medium range.
 High recoil.
 Brakk
-**Acquisition:**
-Adversary System/Weapons#Kuva Acquisition
 **Notes:**
 Adversary System#Notes
 Adversary System/Progenitor
@@ -2980,6 +3025,9 @@ Crit Chance: 29.00% | Crit Multiplier: 2x | Status Chance: 11.10% | Fire Rate: 5
 ## Kuva Kraken
 A custom variant that fires three quick shots with a single pull of the trigger, or can alt-fire burst the remainder of its magazine. Higher Fire Rate, Magazine Capacity and Reload Speed.
 
+### Acquisition
+Adversary System/Weapons#Kuva Acquisition
+
 ### Wiki
 Weapons
 A custom variant that fires three shot bursts with a single pull of a trigger, or can alt-fire burst the remainder of the magazine. Higher Fire Rate, Magazine Capacity and Reload Speed.
@@ -2996,8 +3044,6 @@ Elemental Vice can be applied to the weapon after it has reached rank 40, allowi
 Listed Mastery Rank requirement is not enforced - the weapon may theoretically be obtained at any mastery rank by acquiring and vanquishing a Kuva Lich that has this weapon equipped.
 Linearly less efficient – sometimes a target may only die with four bullets, which requires an entire second burst to be fired.
 Kraken
-**Acquisition:**
-Adversary System/Weapons#Kuva Acquisition
 **Type:** Pistol | **Mastery Req:** 15 | **Riven Disposition:** 3
 
 ### Normal Attack
@@ -3015,6 +3061,9 @@ Crit Chance: 21.00% | Crit Multiplier: 2.3x | Status Chance: 29.00% | Fire Rate:
 
 ## Kuva Nukor
 A highly-optimized Nukor that allows for the weapon’s microwave field to hit up to two additional targets.
+
+### Acquisition
+Adversary System/Weapons#Kuva Acquisition
 
 ### Wiki
 Weapons
@@ -3038,8 +3087,6 @@ Elemental Vice can be applied to the weapon after it has reached rank 40, allowi
 Listed Mastery Rank requirement is not enforced - the weapon may theoretically be obtained at any mastery rank by acquiring and vanquishing a Kuva Lich that has this weapon equipped.
 Pinpoint accuracy.
 Nukor
-**Acquisition:**
-Adversary System/Weapons#Kuva Acquisition
 **Type:** Pistol | **Mastery Req:** 13 | **Riven Disposition:** 1
 
 ### Normal Attack
@@ -3090,6 +3137,9 @@ Crit Chance: 21.00% | Crit Multiplier: 1.9x | Status Chance: 33.00% | Fire Rate:
 ## Kuva Twin Stubbas
 Double-fist rapid-fire bursts of pain with these dual-wield variants of the Grineer submachine gun. Higher Fire Rate and Magazine Capacity.
 
+### Acquisition
+Adversary System/Weapons#Kuva Acquisition
+
 ### Wiki
 Weapons
 Double-fist rapid-fire bursts of pain with these dual-wield variants of the Grineer submachine gun. Higher Fire Rate and Magazine Capacity.
@@ -3105,8 +3155,6 @@ Listed Mastery Rank requirement is not enforced - the weapon may theoretically b
 High accuracy.
 Fairly low ammo economy.
 Stubba
-**Acquisition:**
-Adversary System/Weapons#Kuva Acquisition
 **Notes:**
 Adversary System#Notes
 Adversary System/Progenitor
@@ -3116,7 +3164,6 @@ The glowing, elemental parts of the weapon are animated to resemble flowing liqu
 This weapon is also commonly referred to as the "Akstubbak" or "Dubba Stubbas" by players.
 KaAXTbfFFkQ
 Kuva Twin Stubbas Skins
-26
 **Type:** Dual Pistols | **Mastery Req:** 13 | **Riven Disposition:** 3
 
 ### Normal Attack
@@ -3167,6 +3214,10 @@ Crit Chance: 22.00% | Crit Multiplier: 2.2x | Status Chance: 22.00% | Fire Rate:
 ## Lato
 The Lato is a highly accurate pistol used by the Tenno everywhere.
 
+### Acquisition
+During Awakening, the Lato is one of two secondary weapons offered to the player, the other being the Kunai.
+The weapon can also be purchased from the Market for 10,000.
+
 ### Wiki
 Weapons
 The Lato is a highly accurate pistol used by the Tenno everywhere.The Lato is a standard issue pistol for new Tenno recruits. While its damage suffers, its good accuracy and stability as well as fast reload allows easy handling of the weapon.
@@ -3178,9 +3229,6 @@ Characteristics
 This weapon deals primarily Slash damage.
 Lato Prime
 Lato Vandal
-**Acquisition:**
-During Awakening, the Lato is one of two secondary weapons offered to the player, the other being the Kunai.
-The weapon can also be purchased from the Market for 10,000.
 **Notes:**
 Incarnon Genesis
 Upon completion of The Duviri Paradox and Angels of the Zariman, and unlocking The Steel Path, players can earn Lato Incarnon Genesis from The Circuit's Steel Path to place on their Lato with the help of Cavalero in the Chrysalith. This Incarnon Genesis form grants it evolutions to a transformation and newfound strength.
@@ -3207,6 +3255,14 @@ Crit Chance: 16.00% | Crit Multiplier: 2.6x | Status Chance: 6.00% | Fire Rate: 
 ## Lato Prime
 The Lato is a highly accurate pistol used by the Tenno everywhere. Prime model offers slightly increased damage.
 
+### Acquisition
+In the global build of the game, the Lato Prime was only available to owners of the Grand Master Founders package that was offered between December 19, 2012 and November 1, 2013.
+In the Chinese build, anyone who purchased the 4,250 Platinum bundle during October 28, 2016 also received the Lato Prime. (See Trivia)
+Incarnon Genesis
+Upon completion of The Duviri Paradox and Angels of the Zariman, and unlocking The Steel Path, players can earn Lato Incarnon Genesis from The Circuit's Steel Path to place on their Lato with the help of Cavalero in the Chrysalith. This Incarnon Genesis form grants it evolutions to a transformation and newfound strength.
+Evolution
+Lato Incarnon Genesis#Evolutions
+
 ### Wiki
 The Lato is a highly accurate pistol used by the Tenno everywhere. Prime model offers slightly increased damage.
 The Lato Prime is the Prime version of the Lato, featuring higher base damage, critical stats, and status chance. The Lato Prime is a Founders-exclusive weapon released alongside Excalibur Prime and Skana Prime.
@@ -3215,13 +3271,6 @@ Characteristics
 This weapon deals primarily Slash damage.
 Lato
 Lato Vandal
-**Acquisition:**
-In the global build of the game, the Lato Prime was only available to owners of the Grand Master Founders package that was offered between December 19, 2012 and November 1, 2013.
-In the Chinese build, anyone who purchased the 4,250 Platinum bundle during October 28, 2016 also received the Lato Prime. (See Trivia)
-Incarnon Genesis
-Upon completion of The Duviri Paradox and Angels of the Zariman, and unlocking The Steel Path, players can earn Lato Incarnon Genesis from The Circuit's Steel Path to place on their Lato with the help of Cavalero in the Chrysalith. This Incarnon Genesis form grants it evolutions to a transformation and newfound strength.
-Evolution
-Lato Incarnon Genesis#Evolutions
 **Type:** Pistol | **Mastery Req:** 14 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -3271,6 +3320,9 @@ Crit Chance: 34.00% | Crit Multiplier: 3x | Status Chance: 10.00% | Fire Rate: 4
 ## Lex
 The Lex is a powerful, accurate pistol that has a low Fire Rate and Magazine Capacity. Very efficient at long range.
 
+### Acquisition
+A built Lex can be purchased from the Market for 50,000.
+
 ### Wiki
 Weapons
 The Lex is a powerful, accurate pistol that has a lower rate of fire and clip size. Very efficient at long range.The Lex is a pistol with high damage and very high accuracy. The weapon does not falter in long ranges, and is capable of dispatching most light armored enemies with a well-aimed headshot.
@@ -3284,8 +3336,6 @@ Very good ammunition efficiency.
 High recoil.
 Lex Prime
 Aklex
-**Acquisition:**
-A built Lex can be purchased from the Market for 50,000.
 **Notes:**
 Incarnon Genesis
 Upon completion of The Duviri Paradox and Angels of the Zariman, and unlocking The Steel Path, players can earn Lex Incarnon Genesis from The Circuit's Steel Path to place on their Lex with the help of Cavalero in the Chrysalith. This Incarnon Genesis form grants it evolutions to a transformation and newfound strength.
@@ -3349,6 +3399,9 @@ Crit Chance: 35.00% | Crit Multiplier: 3x | Status Chance: 44.00% | Fire Rate: 0
 ## Magnus
 The versatile Magnus revolver is a lethal sidearm for any Tenno.
 
+### Acquisition
+The Magnus's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 The versatile Magnus revolver is a lethal sidearm for any Tenno.
@@ -3360,8 +3413,6 @@ This weapon deals primarily Impact damage.
 Can use the Magnus-exclusive Deadly Maneuvers mod.
 Magnus Prime
 Akmagnus
-**Acquisition:**
-The Magnus's blueprint can be purchased from the Market.
 **Tips:**
 The Magnus works as a general-purpose version of the Sicarus, as it primarily deals Impact damage, while it deals such damage on semi-automatic. It also comes with higher Slash and Puncture values, plus a good status chance. The sacrificed characteristics are DPS, as the gun is not a burst-fire and it has a smaller magazine capacity.
 Though the Magnus's recoil is manageable, Steady Hands can still prove beneficial, especially at longer ranges or when firing rapidly.
@@ -3423,6 +3474,10 @@ Crit Chance: 28.00% | Crit Multiplier: 2.8x | Status Chance: 28.00% | Fire Rate:
 ## Mara Detron
 For Orokin-era smugglers, this fearsome handheld shotgun was a favored tool for 'dispute resolution'.
 
+### Acquisition
+The Mara Detron can be purchased from Baro Ki'Teer in the Concourse section of the Tenno Relay for 200,000 and 500. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
+Like Syndicate Weapons, unranked Mara Detrons without Forma and Orokin Catalysts can be traded between players.
+
 ### Wiki
 Weapons
 For Orokin-era smugglers, this fearsome handheld shotgun was a favored tool for 'dispute resolution'.
@@ -3440,9 +3495,6 @@ Has linear damage falloff from 100% to 37.5% from 16m to 30m target distance (di
 Projectiles have travel time.
 Detron
 Tenet Detron
-**Acquisition:**
-The Mara Detron can be purchased from Baro Ki'Teer in the Concourse section of the Tenno Relay for 200,000 and 500. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
-Like Syndicate Weapons, unranked Mara Detrons without Forma and Orokin Catalysts can be traded between players.
 **Tips:**
 The Mara Detron's increased fire rate means that mods like Lethal Torrent make it fire faster than can be clicked manually. Turning on the fire manual trigger weapons continuously setting can alleviate this.
 The Mara Detron is a secondary shotgun so Multishot mods Lethal Torrent and Barrel Diffusion will increase the pellet count.
@@ -3456,6 +3508,9 @@ Crit Chance: 8.00% | Crit Multiplier: 1.5x | Status Chance: 13.71% | Fire Rate: 
 ## Marelok
 The Marelok combines the stopping power of a rifle with the portability of a pistol.
 
+### Acquisition
+The Marelok's blueprint can be researched from the Chem Lab in the dojo.
+
 ### Wiki
 Weapons
 The Marelok combines the stopping power of a rifle with the portability of a pistol.
@@ -3468,8 +3523,6 @@ Very good ammunition efficiency.
 Inaccuracy is noticeable over long range.
 High recoil.
 Vaykor Marelok
-**Acquisition:**
-The Marelok's blueprint can be researched from the Chem Lab in the dojo.
 **Notes:**
 Due to the Marelok's low accuracy, additional bullets generated via Multishot will sometimes hit enemies behind or next to the main target, giving the illusion of Punch Through.
 For this reason, Magnum Force's accuracy penalty is very noticeable at higher ranks.
@@ -3495,6 +3548,9 @@ Crit Chance: 15.00% | Crit Multiplier: 1.5x | Status Chance: 30.00% | Fire Rate:
 ## Mk1-Furis
 The MK1-Furis are the standard issue automatic pistol for all Tenno.
 
+### Acquisition
+A built Mk1-Furis can be bought in the Market for 15,000.
+
 ### Wiki
 Weapons
 The Mk1-Furis are the standard issue automatic pistol for all Tenno.
@@ -3509,8 +3565,6 @@ Low recoil.
 Second lowest base damage of all secondaries, after Akzani.
 Inefficient ammo economy.
 Furis
-**Acquisition:**
-A built Mk1-Furis can be bought in the Market for 15,000.
 **Notes:**
 Incarnon Genesis
 Upon completion of The Duviri Paradox and Angels of the Zariman, and unlocking The Steel Path, players can earn Furis Incarnon Genesis from The Circuit's Steel Path to place on their Furis with the help of Cavalero in the Chrysalith. This Incarnon Genesis form grants it evolutions to a transformation and newfound strength.
@@ -3536,6 +3590,9 @@ Crit Chance: 20.00% | Crit Multiplier: 3x | Status Chance: 8.00% | Fire Rate: 12
 ## Mk1-Kunai
 The MK1-Kunai is the standard issue throwing knives for all Tenno.
 
+### Acquisition
+Mk1-Kunai can be purchased from the Market for 15,000.
+
 ### Wiki
 Weapons
 The Mk1-Kunai is the standard issue throwing knives for all Tenno.
@@ -3547,8 +3604,6 @@ Innate two Madurai polarities.
 Silent.
 Projectiles have travel time with arcing.
 Kunai
-**Acquisition:**
-Mk1-Kunai can be purchased from the Market for 15,000.
 **Notes:**
 The Mk1-Kunai does not have the pinning properties of other projectile weapons, such as the Boltor or Paris, but will simply throw targets backwards upon death.
 Incarnon Genesis
@@ -3579,6 +3634,9 @@ Crit Chance: 14.00% | Crit Multiplier: 2x | Status Chance: 5.00% | Fire Rate: 3.
 ## Nukor
 Creates and focuses a high-frequency field of microwaves, literally cooking the target from within.
 
+### Acquisition
+The Nukor's blueprint can be researched from the Chem Lab in the dojo.
+
 ### Wiki
 Weapons
 Creates and focuses a high-frequency field of microwaves, literally cooking the target from within.
@@ -3595,8 +3653,6 @@ Limited range of 25 meters.
 Pulsing weapon effect blocks the reticle, making it harder to make consistent headshots with the weapon shooting at moving targets.
 Kuva Nukor
 Lower range (25m vs 29m)
-**Acquisition:**
-The Nukor's blueprint can be researched from the Chem Lab in the dojo.
 **Notes:**
 Nukor can proc an invisible Status Effect called Microwave that causes the part of the enemy hit to become larger.
 Microwave procs have infinite duration, but the visual effect does not.
@@ -3620,6 +3676,9 @@ Crit Chance: 3.00% | Crit Multiplier: 4x | Status Chance: 29.00% | Fire Rate: 10
 ## Ocucor
 A weapon that reaches for its next victim even as it kills. With each takedown, this pistol spawns an energy tendril that reaches for a nearby target.
 
+### Acquisition
+The Ocucor's blueprint can be researched from the Energy Lab in the dojo.
+
 ### Wiki
 Weapons
 A weapon that reaches for its next victim even as it kills. With each takedown, this pistol spawns an energy tendril that reaches for a nearby target.
@@ -3635,8 +3694,6 @@ Pinpoint accuracy.
 Magnum Force's accuracy penalty is minimal on this weapon.
 Very inefficient ammo economy.
 Limited range of 20 meters for both the main beam and the tendrils.
-**Acquisition:**
-The Ocucor's blueprint can be researched from the Energy Lab in the dojo.
 **Notes:**
 Tendrils are generated by killing an enemy with direct damage of the primary beam, or through status effects dealing damage (e.g. Heat's burning effect). Status kills will generate a tendril regardless of if they originated from the primary beam or a tendril. Direct kills with tendrils will not generate an additional tendril.
 Tendril base damage is the same as the primary beam. Tendrils can score critical hits and status effects independent of the primary beam.
@@ -3706,6 +3763,10 @@ Crit Chance: 38.00% | Crit Multiplier: 3.2x | Status Chance: 26.00% | Fire Rate:
 ## Pandero
 Octavia's pistol hammers foes with single shots or a rapid volley of bullets. When wielded by Octavia, alt-fire Headshot Kills increase Reload Speed.
 
+### Acquisition
+The Pandero's blueprint can be purchased from the Market.
+This weapon can be sold for ‍5,000.
+
 ### Wiki
 Octavia's pistol hammers foes with single shots or a rapid volley of bullets. When wielded by Octavia, alt-fire Headshot Kills increase Reload Speed.
 The Pandero is Octavia's signature Pistol, firing semi-automatic shots with sheer power complimented by its high Critical Chance and Multiplier. The Alternate Fire bursts out all remaining rounds in the Magazine as a single full-automatic burst, but disables Aiming, has high recoil, and is wide spread to hinder its range. When wielded by Octavia or Octavia Prime, the Pandero will reload faster after a headshot Alternative Fire kill.
@@ -3719,9 +3780,6 @@ Has high Recoil and wide spread, making it inaccurate beyond short range.
 High ammo efficiency.
 Primary fire has noticeable recoil.
 Pandero Prime
-**Acquisition:**
-The Pandero's blueprint can be purchased from the Market.
-This weapon can be sold for ‍5,000.
 **Type:** Pistol | **Mastery Req:** 8 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -3781,6 +3839,9 @@ Crit Chance: 30.00% | Crit Multiplier: 2.8x | Status Chance: 24.00% | Fire Rate:
 ## Plinx
 Cultivate a meaningful relationship with this deceptively simple battery-powered pistol. The Plinx rewards attention and investment from the wise.
 
+### Acquisition
+The Plinx's blueprint can be purchased from the Market.
+
 ### Wiki
 Corpus
 Cultivate a meaningful relationship with this deceptively simple battery-powered pistol. The Plinx rewards attention and investment from the wise.
@@ -3796,8 +3857,6 @@ Shots have limited range of 100 meters.
 Does not benefit from mods that increase maximum ammo, due to lack of an ammo pool.
 Does not receive benefit from reload-triggered mods such as Pressurized Magazine.
 Tenet Plinx
-**Acquisition:**
-The Plinx's blueprint can be purchased from the Market.
 **Tips:**
 Because the 10 shots count as part of a single magazine rather than an ammo pool, mods like Trick Mag have no effect. Magazine increasing mods like Ice Storm, Slip Magazine, or Tainted Clip could be used instead but these mods have far less potency.
 In addition, the recharge rate is also fast enough to the point where increasing this recharge speed and delay has diminishing returns, offering little effect at the cost of a slot.
@@ -3819,6 +3878,9 @@ Crit Chance: 32.00% | Crit Multiplier: 3x | Status Chance: 4.00% | Fire Rate: 3.
 ## Pox
 These festering sacs of pus and gas burst violently on impact.
 
+### Acquisition
+The Pox's blueprint can be researched from the Bio Lab in the dojo.
+
 ### Wiki
 Weapons
 These festering sacs of pus and gas burst violently on impact.
@@ -3838,8 +3900,6 @@ Lowest fire rate of all throwing-type secondaries.
 Slow Projectile Speed, with heavy arcing.
 Explosion has a headshot multiplier of 1x and cannot trigger headshot conditions.
 Coda Pox
-**Acquisition:**
-The Pox's blueprint can be researched from the Bio Lab in the dojo.
 **Tips:**
 As the Pox explode on contact with surfaces instead of sticking to them, adding Heat or Electricity damage is recommended to keep enemies in the clouds for extended periods.
 The high status chance of the Pox, along with its innate Toxin damage makes it an effective tool to reduce enemy armor via Corrosive procs or amp other attacks with Viral procs.
@@ -3913,6 +3973,10 @@ Crit Chance: 26.00% | Crit Multiplier: 2.2x | Status Chance: 20.00% | Fire Rate:
 ## Prisma Twin Gremlins
 Fused with prisma crystals, these pristine Grineer sidearms are sure to intimidate any foe.
 
+### Acquisition
+The Prisma Twin Gremlins is sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 220,000 and 500. Note that Baro Ki'Teer's stock changes with each appearance and this weapon may not be available on a succeeding appearance.
+The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 11.
+
 ### Wiki
 Weapons
 Fused with prisma crystals, these pristine Grineer sidearms are sure to intimidate any foe.
@@ -3925,9 +3989,6 @@ High accuracy while aiming.
 Projectiles have travel time.
 Poor accuracy with hipfire.
 Twin Gremlins
-**Acquisition:**
-The Prisma Twin Gremlins is sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 220,000 and 500. Note that Baro Ki'Teer's stock changes with each appearance and this weapon may not be available on a succeeding appearance.
-The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 11.
 **Trivia:**
 The Prisma Twin Gremlins are the second secondary weapon to have a Prisma variant after the Prisma Angstrum.
 6A2sSa56RWI
@@ -3940,6 +4001,9 @@ Crit Chance: 23.00% | Crit Multiplier: 1.9x | Status Chance: 23.00% | Fire Rate:
 
 ## Pyrana
 Chew through the enemy with this vicious automatic hand shotgun.
+
+### Acquisition
+The Pyrana's blueprint can be researched from the Tenno Lab in the dojo.
 
 ### Wiki
 Weapons
@@ -3958,8 +4022,6 @@ High recoil, especially on full auto.
 Shots goes to the right and up. Horizontally it hits rightmost side of the reticle at 3m, worsening at longer distances.
 Pyrana Prime
 Higher multishot count (12 vs. 10)
-**Acquisition:**
-The Pyrana's blueprint can be researched from the Tenno Lab in the dojo.
 **Tips:**
 While more ammo-efficient than other full-auto secondaries like the Viper, Pistol Ammo Mutation, Pistol Scavenger or Squad Ammo Restores can still help counteract the Pyrana's heavy ammo expenditure if fired continuously in full auto.
 To reduce the massive amounts of recoil, use Steady Hands.
@@ -4017,6 +4079,9 @@ Crit Chance: 24.00% | Crit Multiplier: 2.2x | Status Chance: 3.60% | Fire Rate: 
 ## Quatz
 A compact four-barreled design packing a self-charging capacitor that discharges upon every reload from empty. Features auto hip-fire and aimed fire is semi-auto, four-shot instant burst.
 
+### Acquisition
+The Quatz's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 Compact four-barreled design packing a self-charging capacitor that discharges upon every reload from empty. Features auto hip-fire and aimed fire is semi-auto, four-shot instant burst.
@@ -4034,8 +4099,6 @@ Very high accuracy.
 Very high recoil in hip-fire full-auto mode
 Linearly less efficient in aimed fire burst mode – sometimes a target may only die with five bullets, which requires an entire second burst to be fired.
 Very poor ammo efficiency.
-**Acquisition:**
-The Quatz's blueprint can be purchased from the Market.
 **Type:** Pistol | **Mastery Req:** 9 | **Riven Disposition:** 4
 
 ### Auto
@@ -4058,6 +4121,11 @@ Crit Chance: 27.00% | Crit Multiplier: 2.5x | Status Chance: 19.00% | Fire Rate:
 ## Rakta Ballistica
 This modified ballistica is the weapon of choice used by Red Veil Assassins to take out high-priority marks.
 
+### Acquisition
+The Rakta Ballistica can be acquired by reaching the Rank of Exalted with the Red Veil, and spending 100,000 Standing to purchase. As with all Syndicate Weapons, the Rakta Ballistica cannot be chosen as the free offering upon ranking up to Exalted rank.
+Syndicate weapons can be also be acquired via Trading, but only for unranked copies without Forma and Orokin Catalyst installed.
+Players must have a Mastery Rank of at least 6 to acquire the Rakta Ballistica, either through trading or through the Syndicates themselves.
+
 ### Wiki
 Weapons
 This modified Ballistica is the weapon of choice used by Red Veil Assassins to take out high-priority marks.
@@ -4077,10 +4145,6 @@ Burst shots have low accuracy and high horizontal recoil.
 Burst shots consume 4 ammo per shot, resulting in a 5-shot magazine. Linearly less efficient – sometimes a target may only die with five projectiles, which requires an entire second burst to be fired.
 Ballistica
 Ballistica Prime
-**Acquisition:**
-The Rakta Ballistica can be acquired by reaching the Rank of Exalted with the Red Veil, and spending 100,000 Standing to purchase. As with all Syndicate Weapons, the Rakta Ballistica cannot be chosen as the free offering upon ranking up to Exalted rank.
-Syndicate weapons can be also be acquired via Trading, but only for unranked copies without Forma and Orokin Catalyst installed.
-Players must have a Mastery Rank of at least 6 to acquire the Rakta Ballistica, either through trading or through the Syndicates themselves.
 **Notes:**
 Rolling when a shot is charged will actually fire the weapon, rather than reset the charge.
 **Type:** Pistol | **Mastery Req:** 6 | **Riven Disposition:** 4
@@ -4095,6 +4159,10 @@ Crit Chance: 5.00% | Crit Multiplier: 1.5x | Status Chance: 5.00% | Fire Rate: 6
 
 ## Riot-848
 Never stop fighting, never run out of ammo. Temple’s signature machine pistol was modified by Albrecht Entrati to warp fired bullets back into the magazine when reloaded.
+
+### Acquisition
+Riot-848's main and component blueprints can be obtained from Stage Defense Solstice Square in Höllvania. Access requires completion of The Hex Quest being Rank 4 - Hot & Fresh with The Hex Syndicate.
+Alternatively Riot-848's blueprints can be purchased from Flare of The Hex, requiring Rank 4 - Hot & Fresh, using Beating Heartstrings awarded from Stage Defense. Each component blueprint requires 60 Resources and the main blueprint requires 120 Resources, totaling 300 Resources Beating Heartstrings for the whole set.
 
 ### Wiki
 Orokin
@@ -4111,9 +4179,6 @@ A maximum of 32 rounds can be embedded at any given time. Additional rounds will
 Does not use ammo pickups.
 Explosion has a headshot multiplier of 1x and cannot trigger headshot conditions.
 Explosion has linear Damage Falloff from 100% to 50% from central impact.
-**Acquisition:**
-Riot-848's main and component blueprints can be obtained from Stage Defense Solstice Square in Höllvania. Access requires completion of The Hex Quest being Rank 4 - Hot & Fresh with The Hex Syndicate.
-Alternatively Riot-848's blueprints can be purchased from Flare of The Hex, requiring Rank 4 - Hot & Fresh, using Beating Heartstrings awarded from Stage Defense. Each component blueprint requires 60 Resources and the main blueprint requires 120 Resources, totaling 300 Resources Beating Heartstrings for the whole set.
 **Type:** Pistol | **Mastery Req:** 14 | **Riven Disposition:** 3
 
 ### Normal Attack
@@ -4215,6 +4280,10 @@ Crit Chance: 24.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 3
 ## Scyotid
 Go on the hunt with Oraxia’s signature secondary. Fling a volley of toxin-laced barbs, or drop a cluster snare that scatters on impact, seizing nearby enemies and dragging them together.
 
+### Acquisition
+Scyotid's main and component blueprints can be obtained from Isleweaver in Duviri. Access requires completion of The Hex Quest.
+Alternatively, Scyotid's blueprints can be purchased from 30x30pxAcrithis or Dominus Thrax in the Dormizone, using Scuttler Husk awarded from Isleweaver. Each component blueprint requires 12 Resources and the main blueprint requires 48 Resources, totaling 96 Resources Scuttler Husks for the complete set.
+
 ### Wiki
 Orokin
 Go on the hunt with Oraxia's signature secondary. Fling a volley of toxin-laced barbs, or drop a cluster snare that scatters on impact, seizing nearby enemies and dragging them together.
@@ -4229,9 +4298,6 @@ Damage is not affected by mods, nor does it combine with or inflict modded eleme
 Consumes 4 ammo per shot.
 Innate Naramon polarity.
 Projectiles have travel time.
-**Acquisition:**
-Scyotid's main and component blueprints can be obtained from Isleweaver in Duviri. Access requires completion of The Hex Quest.
-Alternatively, Scyotid's blueprints can be purchased from 30x30pxAcrithis or Dominus Thrax in the Dormizone, using Scuttler Husk awarded from Isleweaver. Each component blueprint requires 12 Resources and the main blueprint requires 48 Resources, totaling 96 Resources Scuttler Husks for the complete set.
 **Notes:**
 As the alternate fire is unable to crit, repeated uses will build stacks of Secondary Enervate without consuming them.
 **Trivia:**
@@ -4258,6 +4324,11 @@ Crit Chance: 8.00% | Crit Multiplier: 2.4x | Status Chance: 32.00% | Fire Rate: 
 ## Secura Dual Cestra
 The favored side-arms of Perrin Sequence executives, these pistols have been modified to improve efficiency and killing potential.
 
+### Acquisition
+The Secura Dual Cestra can be acquired by reaching the Rank of Partner with The Perrin Sequence, and spending 100,000 Standing to purchase. As with all Syndicate Weapons, the Secura Dual Cestra cannot be chosen as the free offering upon ranking up to Partner rank.
+Syndicate weapons can be also be acquired via Trading, but only for unranked copies without Forma and Orokin Catalyst installed.
+Players must have a Mastery Rank of at least 10 to acquire the Secura Dual Cestra, either through trading or through the Syndicates themselves.
+
 ### Wiki
 Weapons
 The favored side-arms of Perrin Sequence executives, these pistols have been modified to improve efficiency and killing potential.
@@ -4275,10 +4346,6 @@ High recoil when fully spooled.
 Poor ammo economy.
 Tied with Dual Cestra for the slowest reload speed of all secondaries.
 Dual Cestra
-**Acquisition:**
-The Secura Dual Cestra can be acquired by reaching the Rank of Partner with The Perrin Sequence, and spending 100,000 Standing to purchase. As with all Syndicate Weapons, the Secura Dual Cestra cannot be chosen as the free offering upon ranking up to Partner rank.
-Syndicate weapons can be also be acquired via Trading, but only for unranked copies without Forma and Orokin Catalyst installed.
-Players must have a Mastery Rank of at least 10 to acquire the Secura Dual Cestra, either through trading or through the Syndicates themselves.
 **Tips:**
 Due to the high recoil of this weapon, Steady Hands is recommended for better accuracy.
 Without Steady Hands, move the reticle downwards while firing to mitigate the recoil.
@@ -4382,6 +4449,9 @@ Crit Chance: 38.00% | Crit Multiplier: 3x | Status Chance: 26.00% | Fire Rate: 1
 ## Sicarus
 The Sicarus fires 3-round bursts, which provides a balance between the lethality of auto-pistols and the accuracy of semi-automatic pistols.
 
+### Acquisition
+A built Sicarus can be bought from the Market for 20,000.
+
 ### Wiki
 Weapons
 The Sicarus fires 3-round bursts, which provides a balance between the lethality of auto-pistols and the accuracy of semi-automatic pistols.
@@ -4394,8 +4464,6 @@ Good accuracy.
 Small magazine; being a 3-round burst weapon carrying 15 bullets it only has 5 bursts per magazine.
 Linearly less efficient – sometimes a target may only die with four bullets, which requires an entire second burst to be fired.
 Sicarus Prime
-**Acquisition:**
-A built Sicarus can be bought from the Market for 20,000.
 **Notes:**
 Incarnon Genesis
 Upon completion of The Duviri Paradox and Angels of the Zariman, and unlocking The Steel Path, players can earn Sicarus Incarnon Genesis from The Circuit's Steel Path to place on their Sicarus with the help of Cavalero in the Chrysalith. This Incarnon Genesis form grants it evolutions to a transformation and newfound strength.
@@ -4465,6 +4533,9 @@ Crit Chance: 30.00% | Crit Multiplier: 3x | Status Chance: 20.00% | Fire Rate: 5
 ## Sonicor
 Blasts targets with a massive wave of sonic energy. Results reported to be: 'Very Satisfying'.
 
+### Acquisition
+The Sonicor's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 Blasts targets with a massive wave of sonic energy. Results reported to be: 'Very Satisfying'.
@@ -4487,8 +4558,6 @@ Projectile has a maximum range of 15 meters (affected by Projectile Speed).
 Explosion inflicts self-stagger.
 Minimum travel length of 15 meters before being explosive plus the surface reflection should prevent accidental self-stagger unless rapidly moving towards the projectile's impact area before it explodes or reflecting back toward the user.
 Explosion has a headshot multiplier of 1x and cannot trigger headshot conditions.
-**Acquisition:**
-The Sonicor's blueprint can be purchased from the Market.
 **Type:** Pistol | **Mastery Req:** 2 | **Riven Disposition:** 4
 
 ### Projectile Impact
@@ -4511,6 +4580,9 @@ Crit Chance: 10.00% | Crit Multiplier: 2x | Status Chance: 25.00% | Fire Rate: 1
 ## Spectra
 While its intended design is for deep space construction, the concentrated laser beam of the Spectra is highly effective against organic and synthetic enemies.
 
+### Acquisition
+The Spectra's blueprint can be researched from the Energy Lab in the dojo.
+
 ### Wiki
 Weapons
 While its intended design is for deep space construction, the concentrated laser beam of the Spectra is highly effective against organic and synthetic enemies.
@@ -4526,8 +4598,6 @@ Magnum Force's accuracy penalty is minimal on this weapon.
 Consumes 0.5 ammo per tick of damage.
 Limited range of 18 meters.
 Spectra Vandal
-**Acquisition:**
-The Spectra's blueprint can be researched from the Energy Lab in the dojo.
 **Tips:**
 As with the Flux Rifle, multishot mods (in this case Barrel Diffusion) are essential to maximize output. Lethal Torrent can be used to further increase damage.
 Increasing the fire rate with Lethal Torrent will drastically increase ammo consumption.
@@ -4584,6 +4654,10 @@ Crit Chance: 20.00% | Crit Multiplier: 2x | Status Chance: 28.00% | Fire Rate: 1
 ## Spira
 A flash of red ribbon is the last thing most victims of these throwing-daggers see.
 
+### Acquisition
+The Spira's blueprint can be purchased from the Market.
+This weapon can be sold for 5,000
+
 ### Wiki
 Weapons
 A flash of red ribbon is the last thing most victims of these throwing-daggers see.
@@ -4599,9 +4673,6 @@ Silent.
 Projectiles have travel time and travel in an arc, making it hard to hit at longer ranges and achieve headshots.
 Second lowest fire rate of all throwing-type secondaries, behind Pox.
 Spira Prime
-**Acquisition:**
-The Spira's blueprint can be purchased from the Market.
-This weapon can be sold for 5,000
 **Notes:**
 There is a slight delay after firing a knife before being able to reload, which requires pausing before trying to reload, or tapping the reload button several times.
 The right handed throw does not land at the same place as the left throw, landing lower and slightly to the right of your aim.
@@ -4666,6 +4737,9 @@ Crit Chance: 30.00% | Crit Multiplier: 3x | Status Chance: 14.00% | Fire Rate: 3
 ## Staticor
 Send a massive charge of potential energy hurling toward unfortunate targets.
 
+### Acquisition
+The Staticor's blueprint can be researched from the Energy Lab in the dojo.
+
 ### Wiki
 Weapons
 Send a massive charge of potential energy hurling toward unfortunate targets.
@@ -4688,8 +4762,6 @@ All explosions have a headshot multiplier of 1x and cannot trigger headshot cond
 Explosion has linear Damage Falloff from:
 100% to 70% from central impact on uncharged shots.
 100% to 10% from central impact on fully charged shots.
-**Acquisition:**
-The Staticor's blueprint can be researched from the Energy Lab in the dojo.
 **Type:** Pistol | **Mastery Req:** 10 | **Riven Disposition:** 3
 
 ### Uncharged Projectile
@@ -4755,6 +4827,9 @@ Crit Chance: 23.00% | Crit Multiplier: 1.9x | Status Chance: 13.00% | Fire Rate:
 ## Stug
 Firing a sticky, toxic, explosive compound, the Stug Gel Gun offers multiple ejection modes, delivering maximum damage in all situations.
 
+### Acquisition
+The Stug's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 Firing a sticky, toxic, explosive compound, the Stug Gel Gun offers multiple ejection modes, delivering maximum damage in all situations.
@@ -4778,8 +4853,6 @@ Blob impact and damage over time cannot proc status effects.
 Explosion has a headshot multiplier of 1x and cannot trigger headshot conditions.
 Explosion has linear Damage Falloff from 100% to 70% from central impact.
 Contact damage and damage over time have linear damage falloff from 100% to 10% from central impact.
-**Acquisition:**
-The Stug's blueprint can be purchased from the Market.
 **Type:** Pistol | **Mastery Req:** 2 | **Riven Disposition:** 5
 
 ### Blob Embed
@@ -4802,6 +4875,11 @@ Crit Chance: 5.00% | Crit Multiplier: 1.5x | Status Chance: 10.00% | Fire Rate: 
 ## Synoid Gammacor
 Deployed by the Cephalon Suda, once a data-analyzing instrument the Gammacor main focus is defense.
 
+### Acquisition
+The Synoid Gammacor can be acquired by reaching the Rank of Genius with Cephalon Suda, and spending 100,000 Standing to purchase. As with all Syndicate Weapons, the Synoid Gammacor cannot be chosen as the free offering upon ranking up to Genius rank.
+Syndicate weapons can be also be acquired via Trading, but only for unranked copies without Forma and Orokin Catalyst installed.
+Players must have a Mastery Rank of at least 7 to acquire the Synoid Gammacor, either through trading or through the Syndicates themselves.
+
 ### Wiki
 Weapons
 Deployed by the Cephalon Suda, once a data-analyzing instrument, the Gammacor's main focus is defense.
@@ -4816,10 +4894,6 @@ Magnum Force's accuracy penalty is minimal on this weapon.
 Consumes 0.5 ammo per tick of damage.
 Limited range of 40 meters, but Ruinous Extension can be equipped to extend the maximum range.
 Gammacor
-**Acquisition:**
-The Synoid Gammacor can be acquired by reaching the Rank of Genius with Cephalon Suda, and spending 100,000 Standing to purchase. As with all Syndicate Weapons, the Synoid Gammacor cannot be chosen as the free offering upon ranking up to Genius rank.
-Syndicate weapons can be also be acquired via Trading, but only for unranked copies without Forma and Orokin Catalyst installed.
-Players must have a Mastery Rank of at least 7 to acquire the Synoid Gammacor, either through trading or through the Syndicates themselves.
 **Notes:**
 The Synoid Gammacor's beam when fired does not immediately hit at its maximum range. Instead it takes around half a second to extend to its maximum range, and will maintain that range as long as the weapon is being fired. The beam retracts when the weapon stops firing.
 **Type:** Pistol | **Mastery Req:** 7 | **Riven Disposition:** 3
@@ -4838,6 +4912,10 @@ Crit Chance: 20.00% | Crit Multiplier: 2x | Status Chance: 28.00% | Fire Rate: 1
 
 ## Talons
 The claws of these tactical bombs dig into the target and detonate on command.
+
+### Acquisition
+The Talons's blueprint can be researched from the Tenno Lab in the dojo.
+6zY3TOlnq7k
 
 ### Wiki
 Weapons
@@ -4868,9 +4946,6 @@ Extremely low ammo capacity of 12; requires just 3 reloads to fully deplete all 
 Explosion inflicts self-stagger.
 Explosion has a headshot multiplier of 1x and cannot trigger headshot conditions.
 Explosion has linear Damage Falloff from 100% to 50% from central impact.
-**Acquisition:**
-The Talons's blueprint can be researched from the Tenno Lab in the dojo.
-6zY3TOlnq7k
 **Type:** Throwing | **Mastery Req:** 8 | **Riven Disposition:** 5
 
 ### Mid-Flight Detonation
@@ -4893,6 +4968,11 @@ Crit Chance: 22.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 3
 ## Telos Akbolto
 For the Arbiters of Hexis these pistols are more than simple weapons, they are symbols of truth and discipline.
 
+### Acquisition
+The Telos Akbolto can be acquired by reaching the Rank of Maxim with the Arbiters of Hexis, and spending 100,000 Standing to purchase. As with all Syndicate Weapons, the Telos Akbolto cannot be chosen as the free offering upon ranking up to Maxim rank.
+Syndicate weapons can be also be acquired via Trading, but only for unranked copies without Forma and Orokin Catalyst installed.
+Players must have a Mastery Rank of at least 11 to acquire the Telos Akbolto, either through trading or through the Syndicates themselves.
+
 ### Wiki
 Weapons
 For the Arbiters of Hexis these pistols are more than just simple weapons, they are symbols of truth and discipline.
@@ -4907,10 +4987,6 @@ No initial spread. Spread increases very slightly on subsequent shots.
 Projectiles have travel time.
 Akbolto
 Akbolto Prime
-**Acquisition:**
-The Telos Akbolto can be acquired by reaching the Rank of Maxim with the Arbiters of Hexis, and spending 100,000 Standing to purchase. As with all Syndicate Weapons, the Telos Akbolto cannot be chosen as the free offering upon ranking up to Maxim rank.
-Syndicate weapons can be also be acquired via Trading, but only for unranked copies without Forma and Orokin Catalyst installed.
-Players must have a Mastery Rank of at least 11 to acquire the Telos Akbolto, either through trading or through the Syndicates themselves.
 **Type:** Pistol | **Mastery Req:** 11 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -4947,6 +5023,9 @@ Crit Chance: 20.00% | Crit Multiplier: 1.8x | Status Chance: 40.00% | Fire Rate:
 ## Tenet Detron
 Parvos Granum's engineers have made this already ferocious hand cannon even more deadly with the addition of an alternate fire mode that empties an entire clip in one devastating burst.
 
+### Acquisition
+Adversary System/Weapons#Tenet Acquisition (Sister)
+
 ### Wiki
 Weapons
 Parvos Granum’s engineers have made this already ferocious hand-cannon even more deadly with the addition of an alternate fire mode that empties an entire clip in one devastating burst.
@@ -4969,8 +5048,6 @@ Has linear damage falloff from 100% to 55% from 26m to 52m target distance (dist
 Projectiles have travel time.
 Detron
 Mara Detron
-**Acquisition:**
-Adversary System/Weapons#Tenet Acquisition (Sister)
 **Type:** Pistol | **Mastery Req:** 16 | **Riven Disposition:** 3
 
 ### Normal Attack
@@ -5107,6 +5184,10 @@ Crit Chance: 26.00% | Crit Multiplier: 2.4x | Status Chance: 40.00% | Fire Rate:
 ## Twin Grakatas
 When one Grakata isn't enough, bring another for extra firepower.
 
+### Acquisition
+The Twin Grakata's blueprint can be purchased from the Market.
+This weapon can be sold for 5,000.
+
 ### Wiki
 Weapons
 When one Grakata isn't enough, bring another for extra firepower
@@ -5120,9 +5201,6 @@ Innate multishot provides doubled damage output and status output.
 Negligible recoil.
 Very low base damage, reliant on its high critical damage potential. Ill-suited against Object-based health as it nullifies any critical hits.
 Extremely poor ammo efficiency. Further reinforced by the double consumption of ammo.
-**Acquisition:**
-The Twin Grakata's blueprint can be purchased from the Market.
-This weapon can be sold for 5,000.
 **Notes:**
 The Twin Grakatas fire two bullets per shot. This means that the actual fire rate is double that of the listed fire rate.
 The total credit cost of crafting the Twin Grakatas, including the blueprint and the building costs of its two constituent Grakatas, is 195,000.
@@ -5226,6 +5304,10 @@ Crit Chance: 11.00% | Crit Multiplier: 2x | Status Chance: 13.80% | Fire Rate: 6
 ## Twin Rogga
 These twin barrels of destruction are the signature pistols of the Kuva Guardians.
 
+### Acquisition
+The Twin Rogga's blueprint can be purchased from the Market.
+This weapon can be sold for ‍5,000.
+
 ### Wiki
 Weapons
 These twin barrels of destruction are the signature pistols of the Kuva Guardians.
@@ -5241,9 +5323,6 @@ Efficient ammo economy.
 Has linear damage falloff from 100% to 21.28% from 10m to 20m target distance (distances are affected by Projectile Speed).
 Inefficient against groups, unless using Punch Through mods.
 Extremely low magazine size of just two rounds; requires frequent reloading.
-**Acquisition:**
-The Twin Rogga's blueprint can be purchased from the Market.
-This weapon can be sold for ‍5,000.
 **Type:** Pistol | **Mastery Req:** 9 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -5262,6 +5341,9 @@ Crit Chance: 10.00% | Crit Multiplier: 2x | Status Chance: 6.60% | Fire Rate: 2.
 ## Twin Vipers
 A Viper equipped in each hand.
 
+### Acquisition
+The Twin Vipers's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 A Viper pistol equipped in each hand.
@@ -5275,8 +5357,6 @@ Low accuracy at anything past close range.
 Extremely ammo inefficient. Very fast fire rate results in frequent reloading.
 Viper
 Twin Vipers Wraith
-**Acquisition:**
-The Twin Vipers's blueprint can be purchased from the Market.
 **Tips:**
 Using the Pistol Ammo Mutation mod can help regain lost ammo when needed. Alternatively, use Pistol Scavenger aura or bring along Squad Ammo Restore.
 Using short bursts of fire greatly improves accuracy and makes the weapon viable at medium medium-long distances, although it is still advised to be used at close quarters.
@@ -5301,6 +5381,11 @@ Crit Chance: 15.00% | Crit Multiplier: 1.5x | Status Chance: 11.00% | Fire Rate:
 ## Twin Vipers Wraith
 The uniquely styled Twin Vipers Wraith are a powerful variation on the standard akimbo machine-pistols.
 
+### Acquisition
+This weapon was first obtainable by scoring at least 100 points in The Cicero Crisis event, complete with a free weapon slot and pre-installed Orokin Catalyst.
+The Twin Vipers Wraith was awarded again from an alert in The Proxy Rebellion Bonus Weekend.
+The blueprint and parts were formerly a reward from the Ninth Season of Sorties; they can now be found as an Invasion reward. All components can be traded, although players must have a Mastery Rank of at least 7 to acquire the blueprint.
+
 ### Wiki
 Weapons
 The uniquely styled Wraith Twin Vipers are a powerful variation on the standard akimbo machine-pistols.
@@ -5313,10 +5398,6 @@ Low accuracy at anything past close range.
 Extremely ammo inefficient. Very fast fire rate results in frequent reloading.
 Viper Wraith
 Twin Vipers
-**Acquisition:**
-This weapon was first obtainable by scoring at least 100 points in The Cicero Crisis event, complete with a free weapon slot and pre-installed Orokin Catalyst.
-The Twin Vipers Wraith was awarded again from an alert in The Proxy Rebellion Bonus Weekend.
-The blueprint and parts were formerly a reward from the Ninth Season of Sorties; they can now be found as an Invasion reward. All components can be traded, although players must have a Mastery Rank of at least 7 to acquire the blueprint.
 **Notes:**
 When compared to the single Viper, the Twin and Wraith Twin Vipers have much less accuracy and ammo efficiency. Both variants are more efficient against close range targets, but the normal Viper has decent accuracy and can use the Stinging Truth mod, granting the Viper a similar magazine size.
 **Type:** Pistol | **Mastery Req:** 7 | **Riven Disposition:** 5
@@ -5336,6 +5417,10 @@ Crit Chance: 19.00% | Crit Multiplier: 2x | Status Chance: 9.00% | Fire Rate: 25
 ## Tysis
 The Tysis pistol spits out caustic darts that corrode their victims from within.
 
+### Acquisition
+The Tysis's blueprint can be purchased from the Market.
+This weapon can be sold for ‍2,500.
+
 ### Wiki
 Weapons
 The Tysis pistol spits out caustic darts that corrode their victims from within.
@@ -5348,9 +5433,6 @@ Pinpoint accuracy.
 Projectiles have travel time.
 Fairly high recoil.
 Coda Tysis
-**Acquisition:**
-The Tysis's blueprint can be purchased from the Market.
-This weapon can be sold for ‍2,500.
 **Notes:**
 The 81 Corrosive damage is dealt in 3 ticks of 27 damage, over the course of 2 seconds. This allows a single dart to proc multiple times.
 Each multishot creates DoT individually.
@@ -5380,6 +5462,9 @@ Crit Chance: 3.00% | Crit Multiplier: 1.5x | Status Chance: 50.00% | Fire Rate: 
 ## Vasto
 Steady and reliable, the Vasto revolver combines speed and power for a classic gunslinger feel.
 
+### Acquisition
+The Vasto blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 Steady and reliable, the Vasto revolver combines speed and power for a classic gunslinger feel.
@@ -5391,8 +5476,6 @@ Characteristics
 This weapon deals primarily Slash damage.
 Vasto Prime
 Akvasto
-**Acquisition:**
-The Vasto blueprint can be purchased from the Market.
 **Notes:**
 Although shown as being mostly silver colored, the pistol's default color is actually black.
 Incarnon Genesis
@@ -5463,6 +5546,11 @@ Crit Chance: 30.00% | Crit Multiplier: 3.2x | Status Chance: 6.67% | Fire Rate: 
 ## Vaykor Marelok
 Taken from defeated Grineer commanders and rebuilt to improve combat efficiency and reliability.
 
+### Acquisition
+The Vaykor Marelok can be acquired by reaching the Rank of General with Steel Meridian, and spending 100,000 Standing to purchase. As with all Syndicate Weapons, the Vaykor Marelok cannot be chosen as the free offering upon ranking up to General rank.
+Syndicate weapons can also be acquired via Trading, but only for unranked copies without Forma or Orokin Catalyst installed.
+Players must have a Mastery Rank of at least 10 to acquire the Vaykor Marelok, either through trading or through the Syndicates themselves.
+
 ### Wiki
 Weapons
 Taken from defeated Grineer commanders and rebuilt to improve combat efficiency and reliability.
@@ -5475,10 +5563,6 @@ Innate Madurai and Vazarin polarity.
 Very good ammunition efficiency.
 High recoil.
 Marelok
-**Acquisition:**
-The Vaykor Marelok can be acquired by reaching the Rank of General with Steel Meridian, and spending 100,000 Standing to purchase. As with all Syndicate Weapons, the Vaykor Marelok cannot be chosen as the free offering upon ranking up to General rank.
-Syndicate weapons can also be acquired via Trading, but only for unranked copies without Forma or Orokin Catalyst installed.
-Players must have a Mastery Rank of at least 10 to acquire the Vaykor Marelok, either through trading or through the Syndicates themselves.
 **Tips:**
 The Vaykor Marelok is a great side arm for dealing with enemies at short to mid range for players who have a sniper rifle or bow for their primary weapon. Vaykor Marelok's firepower is strong enough to be considered a sub-primary weapon.
 In order to reach the full fire-rate, one must fire the next shot just before the "lever-action" animation is completed.
@@ -5588,6 +5672,9 @@ Crit Chance: 24.00% | Crit Multiplier: 2.6x | Status Chance: 26.00% | Fire Rate:
 ## Viper
 A full-auto pistol known as the most compact and lightweight weapon of the Grineer arsenal. Though it has a small Magazine Capacity, the Viper has a very high Fire Rate and ultra-fast reload times thanks to a simplified magazine design.
 
+### Acquisition
+The Viper's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 A full-auto pistol known as the most compact and lightweight weapon of the Grineer arsenal. Though it has a small Magazine Capacity, the Viper has a very high Fire Rate and ultra-fast reload times thanks to a simplified magazine design.
@@ -5604,8 +5691,6 @@ Mediocre accuracy.
 Inefficient ammo economy.
 Twin Vipers
 Viper Wraith
-**Acquisition:**
-The Viper's blueprint can be purchased from the Market.
 **Tips:**
 Although it is not recommended for long range fighting, correctly aiming and tapping the trigger will expend 1-2 bullets at once, and you may get a decent critical or headshot rate by doing this.
 This may be done more comfortably by making a secondary keybind for firing on mouse wheel. It shall also allow to fire in a way Shield Lancers do.
@@ -5628,6 +5713,10 @@ Crit Chance: 15.00% | Crit Multiplier: 1.5x | Status Chance: 11.00% | Fire Rate:
 ## Viper Wraith
 The uniquely styled Viper Wraith is a powerful variation on the standard machine-pistol.
 
+### Acquisition
+The Viper Wraith can be potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 75,000 and 400. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
+The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 4.
+
 ### Wiki
 Weapons
 The uniquely styled Viper Wraith is a powerful variation on the standard machine-pistols.
@@ -5641,9 +5730,6 @@ Tied with Viper for highest fire rate of all single-handed pistols.
 Inefficient ammo economy.
 Viper
 Twin Vipers Wraith
-**Acquisition:**
-The Viper Wraith can be potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 75,000 and 400. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
-The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 4.
 **Trivia:**
 This is the first single-handed weapon that was added after its dual-wielding counterpart, Twin Vipers Wraith.
 **Type:** Pistol | **Mastery Req:** 4 | **Riven Disposition:** 5
@@ -5654,6 +5740,9 @@ Crit Chance: 19.00% | Crit Multiplier: 2x | Status Chance: 9.00% | Fire Rate: 14
 
 ## Zakti
 Fires razor-sharp darts that anchor themselves in their target before erupting in a plume of toxic gas.
+
+### Acquisition
+The Zakti's blueprint can be researched from the Tenno Lab in the dojo.
 
 ### Wiki
 Weapons
@@ -5679,8 +5768,6 @@ Explosion delay allows enemies to move out of explosion range if not directly hi
 Explosion inflicts self-stagger.
 Explosion has a headshot multiplier of 1x and cannot trigger headshot conditions.
 Zakti Prime
-**Acquisition:**
-The Zakti's blueprint can be researched from the Tenno Lab in the dojo.
 **Type:** Pistol | **Mastery Req:** 10 | **Riven Disposition:** 4
 
 ### Dart Impact
@@ -5750,6 +5837,10 @@ Crit Chance: 8.00% | Crit Multiplier: 1.8x | Status Chance: 42.00% | Fire Rate: 
 ## Zylok
 Hammer the enemy with this light-bodied heavy hitter. Featuring a double-action trigger that fires hard and fast.
 
+### Acquisition
+The Zylok is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 200,000 and 500. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
+The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 6.
+
 ### Wiki
 Hammer the enemy with this light-bodied heavy hitter. Featuring a double-action trigger that fires hard and fast.
 The Zylok is a duplex-fire, cut-down variant of the Sybaris, boasting high Slash damage and status chance at the cost of critical chance and fire rate. The weapon can fire one bullet at a time by first holding down the fire button, then releasing, allowing more precision shots and ammo conservation.
@@ -5759,9 +5850,6 @@ Can equip the Zylok-exclusive Eximus Advantage mod.
 Unique trigger type allows for two rapid shots against tough targets, or careful shot management against many weaker opponents. First shot on button press, the second on button release.
 Good accuracy.
 Zylok Prime
-**Acquisition:**
-The Zylok is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 200,000 and 500. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
-The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 6.
 **Notes:**
 Incarnon Genesis
 Upon completion of The Duviri Paradox and Angels of the Zariman, and unlocking The Steel Path, players can earn Zylok Incarnon Genesis from The Circuit's Steel Path to place on their Zylok with the help of Cavalero in the Chrysalith. This Incarnon Genesis form grants it evolutions to a transformation and newfound strength.

@@ -259,16 +259,17 @@ Give unto The Void 10,000 credits.
 A chunk of the wyrm Fass, collected after his explosive death in the Cambion Drift. Used to attract Glutinox on the surface during Vome, Ostimyr at surface hotspots during Fass, and Vitreospina in caves during Fass/Vome.
 Location: Cambion Drift on Deimos while Vome is active
 
+### Acquisition
+After Vome kills Fass to begin the Vome cycle on the Cambion Drift, small zones of orange energy will appear in various locations. Entering a zone will cover the edges of the screen in orange sludge. Multiple deposits of Fass Residue will spawn inside each zone and can be destroyed to acquire 1 Fass Residue each.
+Note that if one stays in the Cambion Drift for long enough, there may be Fass Residue on the map even though Fass is active.
+Item Checklist for
+38.0.12
+
 ### Wiki
 For Fass (Requiem Mod), see Requiem Mods.
 For Deimos creature, see Fass (Deimos).
 In-game description
 Fass Residue is a fishing bait for fish of the Cambion Drift, used to attract Glutinox, Ostimyr, and Vitreospina.
-**Acquisition:**
-After Vome kills Fass to begin the Vome cycle on the Cambion Drift, small zones of orange energy will appear in various locations. Entering a zone will cover the edges of the screen in orange sludge. Multiple deposits of Fass Residue will spawn inside each zone and can be destroyed to acquire 1 Fass Residue each.
-Note that if one stays in the Cambion Drift for long enough, there may be Fass Residue on the map even though Fass is active.
-Item Checklist for
-38.0.12
 **Notes:**
 Amount yielded is not affected by Resource Boosters, Loyal Retriever, or Prosperous Retriever.
 Resource deposits are not marked (e.g. Thief's Wit).

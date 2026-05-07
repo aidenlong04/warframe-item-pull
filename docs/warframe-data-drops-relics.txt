@@ -1,6 +1,6 @@
 # Relics & Item Drop Locations
-Format: Relics by ## Era Name, ### Refinement State with reward tables. Mod/Blueprint locations: ## Item Name with enemy tables showing drop %.
-Sections: Void Relics (756 entries) | Mod Drop Locations (648 entries) | Blueprint Drop Locations (179 entries)
+FORMAT: Relics by ## Era Name, ### Refinement State with reward tables. Mod/Blueprint locations: ## Item Name with enemy tables showing drop %.
+INDEX: Void Relics (756 entries) | Mod Drop Locations (648 entries) | Blueprint Drop Locations (179 entries)
 
 # Void Relics
 Complete relic drop table. Each relic lists its tier (Lith/Meso/Neo/Axi), refinement state, and all possible rewards with drop chances by rarity (Common, Uncommon, Rare).

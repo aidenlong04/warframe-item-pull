@@ -1,6 +1,6 @@
 # Enemy Drop Tables
-Format: Each ## is one enemy. Tables list what that enemy drops: mods, blueprints, resources, sigils with rarity and exact % chance.
-Sections: Enemy Mod Drop Tables (860 entries) | Enemy Blueprint Drop Tables (88 entries) | Resource Drops by Enemy (826 entries) | Sigil Drops by Enemy (57 entries) | Additional Item Drops by Enemy (37 entries)
+FORMAT: Each ## is one enemy. Tables list what that enemy drops: mods, blueprints, resources, sigils with rarity and exact % chance.
+INDEX: Enemy Mod Drop Tables (860 entries) | Enemy Blueprint Drop Tables (88 entries) | Resource Drops by Enemy (826 entries) | Sigil Drops by Enemy (57 entries) | Additional Item Drops by Enemy (37 entries)
 
 # Enemy Mod Drop Tables
 Every enemy and which mods they drop, organized by enemy name with base mod drop chances.

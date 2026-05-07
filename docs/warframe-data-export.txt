@@ -1,6 +1,6 @@
 # Official DE Export Data
-Format: Authoritative data from Digital Extremes public export. Warframes/Weapons have inline stats. Recipes: ## Item with Credits | Build Time | Rush cost and ingredient tables. Regions: ## Node with System | Type | MR | Level | Faction.
-Sections: Public Export — Warframes (Detailed) (122 entries) | Public Export — Weapons (Detailed) (821 entries) | Public Export — Mods & Upgrades (1364 entries) | Public Export — Crafting Recipes (1910 entries) | Public Export — Enemies (0 entries) | Public Export — Factions (11 entries) | Public Export — Star Chart Regions (350 entries)
+FORMAT: Authoritative data from Digital Extremes public export. Warframes/Weapons have inline stats. Recipes: ## Item with Credits | Build Time | Rush cost and ingredient tables. Regions: ## Node with System | Type | MR | Level | Faction.
+INDEX: Public Export — Warframes (Detailed) (122 entries) | Public Export — Weapons (Detailed) (821 entries) | Public Export — Mods & Upgrades (1364 entries) | Public Export — Crafting Recipes (1910 entries) | Public Export — Enemies (0 entries) | Public Export — Factions (11 entries) | Public Export — Star Chart Regions (350 entries)
 
 # Public Export — Warframes (Detailed)
 Official Digital Extremes Warframe data export with resolved English names. Includes precise stat numbers, ability energy costs, mastery requirements, and variant info.
@@ -119,7 +119,7 @@ Energy Cost: 75
 Energy Cost: 100
 
 ## Yareli
-The waverider can unleash a flood of destruction on the battlefield. Yareli’s aqueous attacks deal high damage. Surf’s up. Enemies down.
+The waverider can unleash a flood of destruction on the battlefield. Yareli's aqueous attacks deal high damage. Surf's up. Enemies down.
 Health: 270 | Shield: 455 | Armor: 105 | Energy: 200 | Mastery Req: 0
 
 ### Abilities
@@ -138,7 +138,7 @@ No longer adrift in the Void, Sevagoth has returned. He and his Shadow deal heav
 Health: 270 | Shield: 235 | Armor: 160 | Energy: 140 | Mastery Req: 0
 
 ### Abilities
-**Reap:** Sevagoth's Shadow flies outward ravaging enemies in his path. Survivors are damaged by Death’s Harvest over time. The souls of the dead fill the Death Well.
+**Reap:** Sevagoth's Shadow flies outward ravaging enemies in his path. Survivors are damaged by Death's Harvest over time. The souls of the dead fill the Death Well.
 Energy Cost: 25
 **Sow:** Plant a death seed in nearby targets to drain their lifeforce. Reap what has been sown to detonate afflicted enemies, dealing a percentage of their health as radial damage. The souls of the dead fill the Death Well.
 Energy Cost: 50
@@ -151,7 +151,7 @@ The gilded helmsman emerges from the tempest, his shadow a lure for doomed souls
 Health: 270 | Shield: 270 | Armor: 185 | Energy: 175 | Mastery Req: 0
 
 ### Abilities
-**Reap:** Sevagoth's Shadow flies outward ravaging enemies in his path. Survivors are damaged by Death’s Harvest over time. The souls of the dead fill the Death Well.
+**Reap:** Sevagoth's Shadow flies outward ravaging enemies in his path. Survivors are damaged by Death's Harvest over time. The souls of the dead fill the Death Well.
 Energy Cost: 25
 **Sow:** Plant a death seed in nearby targets to drain their lifeforce. Reap what has been sown to detonate afflicted enemies, dealing a percentage of their health as radial damage. The souls of the dead fill the Death Well.
 Energy Cost: 50
@@ -160,7 +160,7 @@ Energy Cost: 50
 **Exalted Shadow:** When the Death Well fills, Sevagoth's Shadow form is ready to be released. Tear the enemy asunder with a collection of melee-focused abilities.
 
 ## Wisp Prime
-Wisp Prime’s gilded splendor haunts the battlefield. Allies welcome her interdimensional beauty.
+Wisp Prime's gilded splendor haunts the battlefield. Allies welcome her interdimensional beauty.
 Health: 270 | Shield: 270 | Armor: 210 | Energy: 200 | Mastery Req: 0
 
 ### Abilities
@@ -198,7 +198,7 @@ Energy Cost: 25
 **Fangs of Raksh:** (TAP) Raksh's fangs tear into your enemies. 5 random Status Effects are applied at 10 Stacks each on an enemy. On target's death, spread the Status Effects to other nearby enemies.
 (HOLD) Raksh guards Voruna with Status Effect resistance.
 Energy Cost: 50
-**Lycath's Hunt:** (TAP) Lycath hunts to sustain the pack. Enemies killed by melee attacks drop health orbs and enemies killed by headshots drop energy orbs. Increase the duration of Lycath’s hunt by killing enemies affected by 5 or more Status Effects.
+**Lycath's Hunt:** (TAP) Lycath hunts to sustain the pack. Enemies killed by melee attacks drop health orbs and enemies killed by headshots drop energy orbs. Increase the duration of Lycath's hunt by killing enemies affected by 5 or more Status Effects.
 (HOLD) Lycath guards Voruna with increased Heavy Attack efficiency.
 Energy Cost: 75
 **Ulfrun's Descent:** (TAP) Voruna drops to all fours and prepares 5 brutal charges that lock onto enemies. Ulfrun, the most powerful wolf, leads the attack as Voruna dashes toward her target. The pack deals increased damage to targets and nearby enemies that are inflicted by Status Effects. Lethal attacks double the damage of Voruna's remaining charges.
@@ -216,7 +216,7 @@ Energy Cost: 25
 **Fangs of Raksh:** (TAP) Raksh's fangs tear into your enemies. 5 random Status Effects are applied at 10 Stacks each on an enemy. On target's death, spread the Status Effects to other nearby enemies.
 (HOLD) Raksh guards Voruna with Status Effect resistance.
 Energy Cost: 50
-**Lycath's Hunt:** (TAP) Lycath hunts to sustain the pack. Enemies killed by melee attacks drop health orbs and enemies killed by headshots drop energy orbs. Increase the duration of Lycath’s hunt by killing enemies affected by 5 or more Status Effects.
+**Lycath's Hunt:** (TAP) Lycath hunts to sustain the pack. Enemies killed by melee attacks drop health orbs and enemies killed by headshots drop energy orbs. Increase the duration of Lycath's hunt by killing enemies affected by 5 or more Status Effects.
 (HOLD) Lycath guards Voruna with increased Heavy Attack efficiency.
 Energy Cost: 75
 **Ulfrun's Descent:** (TAP) Voruna drops to all fours and prepares 5 brutal charges that lock onto enemies. Ulfrun, the most powerful wolf, leads the attack as Voruna dashes toward her target. The pack deals increased damage to targets and nearby enemies that are inflicted by Status Effects. Lethal attacks double the damage of Voruna's remaining charges.
@@ -326,7 +326,7 @@ Energy Cost: 75
 Energy Cost: 100
 
 ## Zephyr
-Command the power of the wind. Zephyr’s cyclonic abilities protect her, deal high damage, and provide crowd control. She swoops in from above and leaves a path of destruction.
+Command the power of the wind. Zephyr's cyclonic abilities protect her, deal high damage, and provide crowd control. She swoops in from above and leaves a path of destruction.
 Health: 455 | Shield: 455 | Armor: 105 | Energy: 100 | Mastery Req: 0
 
 ### Abilities
@@ -340,7 +340,7 @@ Energy Cost: 75
 Energy Cost: 100
 
 ## Temple
-Blazing with glamor and armed with an Infested guitar, Lizzie, Temple’s power chords light the flames of revolution.
+Blazing with glamor and armed with an Infested guitar, Lizzie, Temple's power chords light the flames of revolution.
 Health: 405 | Shield: 225 | Armor: 325 | Energy: 165 | Mastery Req: 0
 
 ### Abilities
@@ -348,9 +348,9 @@ Health: 405 | Shield: 225 | Armor: 325 | Energy: 165 | Mastery Req: 0
 Backbeat Timing: Ignite even more pillars. Increases the Duration and Heat Damage of Ripper's Wail when it deals damage.
 Energy Cost: 25
 **Overdrive:** Drive loudspeakers into epic distortion to create a damaging wave of Heat Damage while also increasing vulnerability to Critical Chance.
-Backbeat Timing: Doubles Critical Chance. Increases the Duration and Heat Damage of Ripper’s Wail when it deals damage.
+Backbeat Timing: Doubles Critical Chance. Increases the Duration and Heat Damage of Ripper's Wail when it deals damage.
 Energy Cost: 25
-**Ripper's Wail:** Rip on the guitar to make Temple briefly invulnerable while healing them. Ally’s weapons in Affinity Range are lit-up with extra Heat Damage each time an ability is used on the Backbeat and successfully hits enemies.
+**Ripper's Wail:** Rip on the guitar to make Temple briefly invulnerable while healing them. Ally's weapons in Affinity Range are lit-up with extra Heat Damage each time an ability is used on the Backbeat and successfully hits enemies.
 Backbeat Timing: Invulnerability lasts longer.
 Energy Cost: 50
 **Exalted Solo:** Once a charge has been built up on the Backbeat metronome, set Lizzie aflame and torch enemies with Heat. While aimed, Lizzie blasts enemies with thunderous elemental sound waves, use ability controls to change the Elemental Damage type.
@@ -397,7 +397,7 @@ Energy Cost: 50
 Energy Cost: 75
 
 ## Saryn
-Toxicity is Saryn’s strength. Her serpentine powers deal heavy damage. For Saryn, venom is a virtue.
+Toxicity is Saryn's strength. Her serpentine powers deal heavy damage. For Saryn, venom is a virtue.
 Health: 365 | Shield: 270 | Armor: 240 | Energy: 175 | Mastery Req: 0
 
 ### Abilities
@@ -492,7 +492,7 @@ Energy Cost: 75
 Energy Cost: 100
 
 ## Revenant Prime
-The lost one rises. Reify the essence of the Eidolon as you wield Revenant Prime’s power.
+The lost one rises. Reify the essence of the Eidolon as you wield Revenant Prime's power.
 Health: 270 | Shield: 825 | Armor: 135 | Energy: 175 | Mastery Req: 0
 
 ### Abilities
@@ -586,7 +586,7 @@ Energy Cost: 75
 Energy Cost: 50
 
 ## Hydroid Prime
-Command the ocean’s fury with this king of gold and silver. Featuring altered mod polarities for greater customization.
+Command the ocean's fury with this king of gold and silver. Featuring altered mod polarities for greater customization.
 Health: 270 | Shield: 550 | Armor: 290 | Energy: 175 | Mastery Req: 0
 
 ### Abilities
@@ -623,13 +623,13 @@ Health: 365 | Shield: 270 | Armor: 450 | Energy: 215 | Mastery Req: 0
 Energy Cost: 25
 **Hallowed Ground:** Sanctifies the ground around Oberon, inflicting Radiation Damage to all enemies within the radius. Also grants protection against Status Effects for Oberon and his allies.
 Energy Cost: 50
-**Renewal:** Generates a protective aura that grants bonus Armor to Oberon and his allies and restores allies’ Health over time. Healing is doubled while within the radius of Hallowed Ground.
+**Renewal:** Generates a protective aura that grants bonus Armor to Oberon and his allies and restores allies' Health over time. Healing is doubled while within the radius of Hallowed Ground.
 Energy Cost: 25
 **Reckoning:** Lifts enemies into the air and then hurls them down with conviction, removing their Armor. Enemies hit by this ability will grant Oberon additional Armor and have a chance to spawn a Health Orb when they die.
 Energy Cost: 100
 
 ## Oberon
-Healing and suffering do Oberon’s bidding. His command of the natural world supports allies. Boon to his friends, bane of his foes.
+Healing and suffering do Oberon's bidding. His command of the natural world supports allies. Boon to his friends, bane of his foes.
 Health: 365 | Shield: 270 | Armor: 385 | Energy: 175 | Mastery Req: 0
 
 ### Abilities
@@ -637,7 +637,7 @@ Health: 365 | Shield: 270 | Armor: 385 | Energy: 175 | Mastery Req: 0
 Energy Cost: 25
 **Hallowed Ground:** Sanctifies the ground around Oberon, inflicting Radiation Damage to all enemies within the radius. Also grants protection against Status Effects for Oberon and his allies.
 Energy Cost: 50
-**Renewal:** Generates a protective aura that grants bonus Armor to Oberon and his allies and restores allies’ Health over time. Healing is doubled while within the radius of Hallowed Ground.
+**Renewal:** Generates a protective aura that grants bonus Armor to Oberon and his allies and restores allies' Health over time. Healing is doubled while within the radius of Hallowed Ground.
 Energy Cost: 25
 **Reckoning:** Lifts enemies into the air and then hurls them down with conviction, removing their Armor. Enemies hit by this ability will grant Oberon additional Armor and have a chance to spawn a Health Orb when they die.
 Energy Cost: 100
@@ -647,7 +647,7 @@ Seeker of knowledge. Keeper of history. Daring researcher of Leverian lore. Dant
 Health: 300 | Shield: 150 | Armor: 145 | Energy: 200 | Mastery Req: 0
 
 ### Abilities
-**Noctua:** Open Noctua, Dante’s Exalted Tome, and unleash a tale of woe upon his enemies.
+**Noctua:** Open Noctua, Dante's Exalted Tome, and unleash a tale of woe upon his enemies.
 Energy Cost: 5
 **Light Verse:** Dante's vitalizing composition grants him and his allies Overguard and increases their Health.
 Energy Cost: 25
@@ -656,7 +656,7 @@ Energy Cost: 25
 **Final Verse:** Dante must compose two other Verses before his Final Verse.
 TRIUMPH: Two Light Verses cast in succession invigorate allies with a buff that increases Health and grants Overguard. Kills and assists briefly regenerate Overguard.Dante must compose two other Verses before his Final Verse.
 TRAGEDY: Two Dark Verses cast in succession attack enemies. Damage Over Time from Slash, Heat and Toxin Status Effects accumulates in a single blast.Dante must compose two other Verses before his Final Verse.
-WORDWARDEN: A Light Verse followed by a Dark Verse supports allies with copies of Noctua. Noctua copies synchronize their attacks with their designated ally’s attacks.Dante must compose two other Verses before his Final Verse.
+WORDWARDEN: A Light Verse followed by a Dark Verse supports allies with copies of Noctua. Noctua copies synchronize their attacks with their designated ally's attacks.Dante must compose two other Verses before his Final Verse.
 PAGEFLIGHT: A Dark Verse followed by a Light Verse summons Paragrimms that swoop at enemies, making them vulnerable to Status Chance and Status Damage, as well as drawing enemy attacks away from allies.
 Energy Cost: 50
 
@@ -691,7 +691,7 @@ Sinister grace interwoven with lethal versatility; the evolution of a perfect pr
 Health: 575 | Shield: 125 | Armor: 125 | Energy: 150 | Mastery Req: 0
 
 ### Abilities
-**Mercy's Kiss:** Leap onto an enemy and pierce them with Oraxia’s spider legs, dealing Toxin Damage. Enemies defeated by this attack have a chance to drop Health or Energy Orbs.
+**Mercy's Kiss:** Leap onto an enemy and pierce them with Oraxia's spider legs, dealing Toxin Damage. Enemies defeated by this attack have a chance to drop Health or Energy Orbs.
 Energy Cost: 25
 **Webbed Embrace:** Oraxia throws a creeping web to ensnare her prey. Enemies caught within the widening radius are trapped inside a cocoon that increases their Damage Vulnerability.
 Energy Cost: 50
@@ -746,11 +746,11 @@ Health: 150 | Shield: 300 | Armor: 135 | Energy: 130 | Mastery Req: 0
 ### Abilities
 **Stinkbrain:** Throw a mushroom that periodically sheds poisonous spores, inflicting Viral Damage and Status Effect upon nearby enemies while also lulling them to sleep.
 Energy Cost: 25
-**Brightbonnet:** Release a rejuvenating mushroom that emits a radial pulse, giving Nokko and his allies’ Energy and applying a buff to Ability Strength that lasts for a short time.
+**Brightbonnet:** Release a rejuvenating mushroom that emits a radial pulse, giving Nokko and his allies' Energy and applying a buff to Ability Strength that lasts for a short time.
 Energy Cost: 50
 **Reroot:** Revert to Sprodling form, spawning orbs that heal Nokko and grant a speed boost. While in this state, Nokko is untargetable and heals gradually.
 Energy Cost: 50
-**Sporespring:** Unleash a chaotic ballistic mushroom that seeks enemies and bounces explosively off whatever it touches. Contact with any of Nokko’s mushrooms invigorates them, doubling their pulse rate.
+**Sporespring:** Unleash a chaotic ballistic mushroom that seeks enemies and bounces explosively off whatever it touches. Contact with any of Nokko's mushrooms invigorates them, doubling their pulse rate.
 Energy Cost: 75
 
 ## Ash
@@ -794,7 +794,7 @@ Energy Cost: 75
 Energy Cost: 100
 
 ## Nezha
-The mercurial firemonger protects the innocent. Nezha’s multifaceted tactics give him high survivability as he inflicts damage and provides crowd control. His fire is the clarion of hope.
+The mercurial firemonger protects the innocent. Nezha's multifaceted tactics give him high survivability as he inflicts damage and provides crowd control. His fire is the clarion of hope.
 Health: 365 | Shield: 135 | Armor: 200 | Energy: 175 | Mastery Req: 0
 
 ### Abilities
@@ -964,10 +964,10 @@ Energy Cost: 25
 **Omikuji:** Koumei glimpses a favorable future and the precise steps needed to reach it. Complete the challenge to earn a Decree. Unlucky rolls add a debuff, but you can hold the ability to reject the Omikuji.
 A roll of triple sixes grants a Decree without a challenge.
 Energy Cost: 50
-**Omamori:** Surround yourself with Omamori Charms, each with a chance to have enemy attacks heal you instead of damage you. The number of charms is determined by Koumei’s dice roll.
+**Omamori:** Surround yourself with Omamori Charms, each with a chance to have enemy attacks heal you instead of damage you. The number of charms is determined by Koumei's dice roll.
 A roll of triple sixes grants invulnerability for the duration of your Omamori Charms.
 Energy Cost: 75
-**Bunraku:** Wield your foe’s fate threads like the strings of marionettes. Koumei’s dice determine how many Status Effects foes in front of Koumei will suffer.
+**Bunraku:** Wield your foe's fate threads like the strings of marionettes. Koumei's dice determine how many Status Effects foes in front of Koumei will suffer.
 A roll of triple sixes causes further Status Effects over time and extends Bunraku to enemies behind Koumei.
 Energy Cost: 100
 
@@ -1026,7 +1026,7 @@ Energy Cost: 75
 Energy Cost: 75
 
 ## Hildryn Prime
-Hildryn Prime proves that power is discipline’s reward.
+Hildryn Prime proves that power is discipline's reward.
 Health: 270 | Shield: 1380 | Armor: 315 | Energy: 0 | Mastery Req: 0
 
 ### Abilities
@@ -1036,7 +1036,7 @@ Health: 270 | Shield: 1380 | Armor: 315 | Energy: 0 | Mastery Req: 0
 **Aegis Storm:** Take the skies and rain Balefire rockets down on the enemy. Nearby enemies are blasted into the air where they will create an Energy Orb every few seconds. When shields run out the enemies are smashed into the ground.
 
 ## Hildryn
-Strength is Hildryn’s virtue. Her unique high-damage abilities are powered by her Shields, which can be recharged with Energy. Hildryn proves that a strong offense is a good defense.
+Strength is Hildryn's virtue. Her unique high-damage abilities are powered by her Shields, which can be recharged with Energy. Hildryn proves that a strong offense is a good defense.
 Health: 180 | Shield: 1280 | Armor: 315 | Energy: 0 | Mastery Req: 0
 
 ### Abilities
@@ -1113,7 +1113,7 @@ Energy Cost: 25
 Energy Cost: 50
 
 ## Mirage
-Mirage’s sleight of hand complements her might. Her dazzled foes take heavy damage. Doppelgangers, lasers, and traps are elements of her stagecraft.
+Mirage's sleight of hand complements her might. Her dazzled foes take heavy damage. Doppelgangers, lasers, and traps are elements of her stagecraft.
 Health: 200 | Shield: 200 | Armor: 105 | Energy: 175 | Mastery Req: 0
 
 ### Abilities
@@ -1138,11 +1138,11 @@ Energy Cost: 25
 Energy Cost: 50
 **Cathode Grace:** Gain a brief burst of increased Critical Chance and Energy Regen, with each kill extending duration of Cathode Grace. Casting is on a cooldown.
 Energy Cost: 75
-**Rotorswell:** Gyre’s mechanisms spin at incredible speeds, generating an Electric Field that shocks nearby enemies. When Gyre gets a critical hit, a large electrical discharge will chain from the enemy that was hit to nearby enemies.
+**Rotorswell:** Gyre's mechanisms spin at incredible speeds, generating an Electric Field that shocks nearby enemies. When Gyre gets a critical hit, a large electrical discharge will chain from the enemy that was hit to nearby enemies.
 Energy Cost: 100
 
 ## Gyre
-Annihilate enemies with the conductivity of coils and transmitters. Gyre’s electric attacks provide crowd control. She is the embodiment of elegant theory.
+Annihilate enemies with the conductivity of coils and transmitters. Gyre's electric attacks provide crowd control. She is the embodiment of elegant theory.
 Health: 270 | Shield: 550 | Armor: 105 | Energy: 190 | Mastery Req: 0
 
 ### Abilities
@@ -1152,11 +1152,11 @@ Energy Cost: 25
 Energy Cost: 50
 **Cathode Grace:** Gain a brief burst of increased Critical Chance and Energy Regen, with each kill extending duration of Cathode Grace. Casting is on a cooldown.
 Energy Cost: 75
-**Rotorswell:** Gyre’s mechanisms spin at incredible speeds, generating an Electric Field that shocks nearby enemies. When Gyre gets a critical hit, a large electrical discharge will chain from the enemy that was hit to nearby enemies.
+**Rotorswell:** Gyre's mechanisms spin at incredible speeds, generating an Electric Field that shocks nearby enemies. When Gyre gets a critical hit, a large electrical discharge will chain from the enemy that was hit to nearby enemies.
 Energy Cost: 100
 
 ## Gara
-Enemies are made fragile by Gara’s deadly touch. Gara’s vitric abilities provide her and her allies with survivability and deal high damage. Shatter the foe.
+Enemies are made fragile by Gara's deadly touch. Gara's vitric abilities provide her and her allies with survivability and deal high damage. Shatter the foe.
 Health: 270 | Shield: 270 | Armor: 160 | Energy: 175 | Mastery Req: 0
 
 ### Abilities
@@ -1211,7 +1211,7 @@ Energy Cost: 50
 Energy Cost: 100
 
 ## Garuda
-Death’s crimson maiden sharpens her talons. Garuda weaponizes the blood of her foes to deal high damage. Sanguine beauty complements her deadly power.
+Death's crimson maiden sharpens her talons. Garuda weaponizes the blood of her foes to deal high damage. Sanguine beauty complements her deadly power.
 Health: 270 | Shield: 270 | Armor: 315 | Energy: 140 | Mastery Req: 0
 
 ### Abilities
@@ -1230,12 +1230,12 @@ Health: 225 | Shield: 135 | Armor: 150 | Energy: 180 | Mastery Req: 0
 ### Abilities
 **Seek:** Plant an antenna that projects a forward wave scan. Detected enemies take increased Weak Point Damage, and become visible through walls. Weapons gain Punch through.
 Energy Cost: 25
-**Resupply:** Throw two Elemental Ammo Packs that instantly refill the active weapon’s magazine, while granting the weapon an additional instance of the selected Elemental Damage and Status Effect. Reload clears the effect. Sniper Rifles gain extra damage.
+**Resupply:** Throw two Elemental Ammo Packs that instantly refill the active weapon's magazine, while granting the weapon an additional instance of the selected Elemental Damage and Status Effect. Reload clears the effect. Sniper Rifles gain extra damage.
 Hold the ability to select the Elemental Damage type.
 Energy Cost: 50
 **Evade:** Jump backwards and become invisible for a short duration. Killing enemies on their Weak Points extends the duration and heals Cyte-09.
 Energy Cost: 75
-**Neutralize:** Summon the Neutralizer, Cyte-09’s exalted Sniper Rifle. Bullets ricochet off Weak Points to seek out other nearby Weak Points. Alt fire lobs a Cold grenade that completely freezes enemies.
+**Neutralize:** Summon the Neutralizer, Cyte-09's exalted Sniper Rifle. Bullets ricochet off Weak Points to seek out other nearby Weak Points. Alt fire lobs a Cold grenade that completely freezes enemies.
 Energy Cost: 5
 
 ## Frost Prime
@@ -1253,7 +1253,7 @@ Energy Cost: 50
 Energy Cost: 100
 
 ## Frost
-When Frost steps onto the battlefield, enemies experience a chill. Frost’s attacks control crowds, protect objectives, and increase survivability. Wield the biting cold.
+When Frost steps onto the battlefield, enemies experience a chill. Frost's attacks control crowds, protect objectives, and increase survivability. Wield the biting cold.
 Health: 270 | Shield: 455 | Armor: 315 | Energy: 100 | Mastery Req: 0
 
 ### Abilities
@@ -1280,7 +1280,7 @@ Energy Cost: 25
 Energy Cost: 25
 
 ## Titania
-Titania’s fairy-like appearance belies her formidable regal power. The enchantress deals high damage and provides crowd control. She forces opponents to pay homage or perish.
+Titania's fairy-like appearance belies her formidable regal power. The enchantress deals high damage and provides crowd control. She forces opponents to pay homage or perish.
 Health: 270 | Shield: 270 | Armor: 105 | Energy: 175 | Mastery Req: 0
 
 ### Abilities
@@ -1297,7 +1297,7 @@ From the shadow of the long night emerges a new Excalibur.
 Health: 270 | Shield: 270 | Armor: 315 | Energy: 175 | Mastery Req: 0
 
 ### Abilities
-**Slash Dash:** Slash and dash through enemies alongside a radial specter. The powerful Exalted Blade’s slashes inflict Slash Status.
+**Slash Dash:** Slash and dash through enemies alongside a radial specter. The powerful Exalted Blade's slashes inflict Slash Status.
 Energy Cost: 25
 **Radial Howl:** Let out ferocious howl that stuns nearby enemies and causes Sentients to shed any built up resistances.
 Energy Cost: 50
@@ -1311,7 +1311,7 @@ Excalibur Prime is the epitome of mobility and offense, and features the same ab
 Health: 270 | Shield: 270 | Armor: 315 | Energy: 175 | Mastery Req: 0
 
 ### Abilities
-**Slash Dash:** Slash and dash through enemies alongside a radial specter. The powerful Exalted Blade’s slashes inflict Slash Status.
+**Slash Dash:** Slash and dash through enemies alongside a radial specter. The powerful Exalted Blade's slashes inflict Slash Status.
 Energy Cost: 25
 **Radial Blind:** Emit a bright flash of light, blinding all nearby enemies.
 Energy Cost: 50
@@ -1325,7 +1325,7 @@ Excalibur epitomizes the warrior spirit. His master swordsmanship deals high dam
 Health: 270 | Shield: 270 | Armor: 240 | Energy: 100 | Mastery Req: 0
 
 ### Abilities
-**Slash Dash:** Slash and dash through enemies alongside a radial specter. The powerful Exalted Blade’s slashes inflict Slash Status.
+**Slash Dash:** Slash and dash through enemies alongside a radial specter. The powerful Exalted Blade's slashes inflict Slash Status.
 Energy Cost: 25
 **Radial Blind:** Emit a bright flash of light, blinding all nearby enemies.
 Energy Cost: 50
@@ -1348,7 +1348,7 @@ Energy Cost: 25
 **Inferno:** Command a flaming comet to crash down in front of Ember, engulfing enemies with a fire that can spread through their ranks.
 
 ## Ember
-Harness the power of fire. Ember’s heat deals high damage. She keeps a cool head when the battle is hot.
+Harness the power of fire. Ember's heat deals high damage. She keeps a cool head when the battle is hot.
 Health: 270 | Shield: 270 | Armor: 135 | Energy: 175 | Mastery Req: 0
 
 ### Abilities
@@ -1413,7 +1413,7 @@ Energy Cost: 50
 Energy Cost: 50
 
 ## Uriel
-To fight as the Heretic of Xata is to have demons at your back. Uriel incinerates foes with searing brimstone, and commands three fiendish summons to do his devil’s work.
+To fight as the Heretic of Xata is to have demons at your back. Uriel incinerates foes with searing brimstone, and commands three fiendish summons to do his devil's work.
 Health: 566 | Shield: 566 | Armor: 105 | Energy: 100 | Mastery Req: 0
 
 ### Abilities
@@ -1436,7 +1436,7 @@ Health: 566 | Shield: 150 | Armor: 125 | Energy: 175 | Mastery Req: 0
 Energy Cost: 25
 **Doom:** Condemn nearby enemies to their doom. A portion of the damage Dagath deals is revisited upon them by a Wyrd Scythe. They also suffer Viral Damage.
 Energy Cost: 50
-**Grave Spirit:** Supercharge Dagath’s weapons with extra Critical Damage. The effects are doubled on Doomed enemies. Escape fatal blows by briefly assuming a spectral form.
+**Grave Spirit:** Supercharge Dagath's weapons with extra Critical Damage. The effects are doubled on Doomed enemies. Escape fatal blows by briefly assuming a spectral form.
 Energy Cost: 75
 **Rakhali's Cavalry:** Phantom Kaithes charge forth, inflicting Viral Damage upon all in their path. Their attack strips the defenses of Doomed enemies.
 Energy Cost: 100
@@ -1593,7 +1593,7 @@ Energy Cost: 75
 Energy Cost: 100
 
 ## Octavia
-Octavia turns bass, beat, and melody into a symphony of devastation. The music of her Mandachord gives her high survivability and supports allies. Her composition means the enemy’s destruction.
+Octavia turns bass, beat, and melody into a symphony of devastation. The music of her Mandachord gives her high survivability and supports allies. Her composition means the enemy's destruction.
 Health: 270 | Shield: 180 | Armor: 160 | Energy: 175 | Mastery Req: 0
 
 ### Abilities
@@ -1621,7 +1621,7 @@ Energy Cost: 75
 Energy Cost: 25
 
 ## Banshee
-Banshee’s call heralds death. She maintains crowd control and identifies enemy weak points with sonic attacks. Few can hold their position when struck by her force.
+Banshee's call heralds death. She maintains crowd control and identifies enemy weak points with sonic attacks. Few can hold their position when struck by her force.
 Health: 270 | Shield: 270 | Armor: 105 | Energy: 175 | Mastery Req: 0
 
 ### Abilities
@@ -1830,7 +1830,7 @@ Accuracy: 100 | Magazine: 4 | Reload: 1s | Multishot: 1 | MR: 8
 **Damage Breakdown:** Blast: 120.0
 
 ## Scyotid
-Go on the hunt with Oraxia’s signature secondary. Fling a volley of toxin-laced barbs, or drop a cluster snare that scatters on impact, seizing nearby enemies and dragging them together.
+Go on the hunt with Oraxia's signature secondary. Fling a volley of toxin-laced barbs, or drop a cluster snare that scatters on impact, seizing nearby enemies and dragging them together.
 Total Damage: 40 | Crit Chance: 24.00% | Crit Mult: 2.4x | Status: 18.00% | Fire Rate: 2.4
 Accuracy: 50 | Magazine: 40 | Reload: 1.6s | Multishot: 4 | MR: 12
 **Damage Breakdown:** Slash: 8.0, Toxin: 32.0
@@ -2059,13 +2059,13 @@ Accuracy: 5 | Magazine: 10 | Reload: 2s | Multishot: 12 | MR: 12
 **Damage Breakdown:** Impact: 2.2, Slash: 2.2, Puncture: 17.6
 
 ## Akarius
-Bombard legions of enemies with target seeking rockets. These dual launchers reload faster while sprinting, even more so in Gauss’ hands. Rockets arm after reaching a safe distance.
+Bombard legions of enemies with target seeking rockets. These dual launchers reload faster while sprinting, even more so in Gauss' hands. Rockets arm after reaching a safe distance.
 Total Damage: 487 | Crit Chance: 6.00% | Crit Mult: 1.8x | Status: 28.00% | Fire Rate: 4.248366
 Accuracy: 26.666666 | Magazine: 10 | Reload: 3.4s | Multishot: 1 | MR: 8
 **Damage Breakdown:** Impact: 68.0, Blast: 419.0
 
 ## Hystrix
-Heat, cold, electricity, or toxin: choose an element and launch a flurry of deadly quills. This versatile sidearm is Khora’s signature weapon and has a chance to instantly reload after headshots when she wields it.
+Heat, cold, electricity, or toxin: choose an element and launch a flurry of deadly quills. This versatile sidearm is Khora's signature weapon and has a chance to instantly reload after headshots when she wields it.
 Total Damage: 36.000004 | Crit Chance: 24.00% | Crit Mult: 2.2x | Status: 10.00% | Fire Rate: 7
 Accuracy: 14.285714 | Magazine: 16 | Reload: 1.7s | Multishot: 1 | MR: 7
 **Damage Breakdown:** Impact: 2.2, Slash: 31.0, Puncture: 2.9
@@ -2083,7 +2083,7 @@ Accuracy: 26.666666 | Magazine: 8 | Reload: 1s | Multishot: 1 | MR: 14
 **Damage Breakdown:** Impact: 12.0, Slash: 18.0
 
 ## Velox Prime
-This sidearm’s circular design evokes Protea Prime’s perception of time.
+This sidearm's circular design evokes Protea Prime's perception of time.
 Total Damage: 27 | Crit Chance: 14.00% | Crit Mult: 2x | Status: 32.00% | Fire Rate: 17
 Accuracy: 25 | Magazine: 70 | Reload: 2.6s | Multishot: 1 | MR: 13
 **Damage Breakdown:** Impact: 6.5, Slash: 7.6, Puncture: 13.0
@@ -2131,7 +2131,7 @@ Accuracy: 16 | Magazine: 8 | Reload: 2.35s | Multishot: 1 | MR: 8
 **Damage Breakdown:** Impact: 18.0, Slash: 144.0, Puncture: 18.0
 
 ## Kompressa Prime
-Glinting like a golden dawn, Yareli Prime’s signature pistol engulfs foes in a cascade of virulent, explosive, water globules. None can escape the sea.
+Glinting like a golden dawn, Yareli Prime's signature pistol engulfs foes in a cascade of virulent, explosive, water globules. None can escape the sea.
 Total Damage: 2 | Crit Chance: 16.00% | Crit Mult: 1.8x | Status: 36.00% | Fire Rate: 3.333334
 Accuracy: 3.773585 | Magazine: 12 | Reload: 1.8s | Multishot: 4 | MR: 13
 **Damage Breakdown:** Gas: 2.0
@@ -2143,7 +2143,7 @@ Accuracy: 32 | Magazine: 1 | Reload: 2s | Multishot: 1 | MR: 14
 **Damage Breakdown:** Impact: 75.6, Slash: 82.8, Puncture: 21.6
 
 ## Hystrix Prime
-Versatile weapons complement deadly hunters. Khora Prime’s signature pistol rotates through hot, cold, electric, and toxic quills. When equipped on Khora, Hystrix Prime has a chance to instantly reload after headshots.
+Versatile weapons complement deadly hunters. Khora Prime's signature pistol rotates through hot, cold, electric, and toxic quills. When equipped on Khora, Hystrix Prime has a chance to instantly reload after headshots.
 Total Damage: 46 | Crit Chance: 28.00% | Crit Mult: 2.2x | Status: 20.00% | Fire Rate: 7
 Accuracy: 14.285714 | Magazine: 16 | Reload: 1.6s | Multishot: 1 | MR: 12
 **Damage Breakdown:** Impact: 2.8, Slash: 39.6, Puncture: 3.7
@@ -2233,7 +2233,7 @@ Accuracy: 100 | Magazine: 5 | Reload: 2s | Multishot: 1 | MR: 14
 **Damage Breakdown:** Impact: 292.5, Slash: 16.3, Puncture: 16.3
 
 ## Riot-848
-Never stop fighting, never run out of ammo. Temple’s signature machine pistol was modified by Albrecht Entrati to warp fired bullets back into the magazine when reloaded.
+Never stop fighting, never run out of ammo. Temple's signature machine pistol was modified by Albrecht Entrati to warp fired bullets back into the magazine when reloaded.
 Total Damage: 60 | Crit Chance: 26.00% | Crit Mult: 2.2x | Status: 26.00% | Fire Rate: 8
 Accuracy: 23.529411 | Magazine: 16 | Reload: 1.24s | Multishot: 1 | MR: 14
 **Damage Breakdown:** Slash: 12.0, Blast: 48.0
@@ -2323,7 +2323,7 @@ MR: 8
 **Damage Breakdown:** Impact: 27.6, Slash: 46.0, Puncture: 156.4
 
 ## Quassus Prime
-Wield Xaku Prime’s elegant fan, its gilded edges crafted for both precision and prestige.
+Wield Xaku Prime's elegant fan, its gilded edges crafted for both precision and prestige.
 Total Damage: 260 | Crit Chance: 35.00% | Crit Mult: 2.5x | Status: 18.00% | Fire Rate: 0.833333
 MR: 13
 **Damage Breakdown:** Impact: 26.0, Slash: 52.0, Puncture: 182.0
@@ -2335,7 +2335,7 @@ MR: 12
 **Damage Breakdown:** Impact: 9.0, Slash: 13.5, Puncture: 202.5
 
 ## Kronen Prime
-Ancient blades, perfected for today’s combat.
+Ancient blades, perfected for today's combat.
 Total Damage: 212 | Crit Chance: 22.00% | Crit Mult: 2x | Status: 34.00% | Fire Rate: 1.166667
 MR: 13
 **Damage Breakdown:** Impact: 21.2, Slash: 21.2, Puncture: 169.6
@@ -2467,7 +2467,7 @@ MR: 7
 **Damage Breakdown:** Impact: 13.8, Slash: 34.5, Puncture: 66.7
 
 ## Tatsu Prime
-Tatsu Prime glows with spectral splendor. It grows more powerful with each enemy’s demise, especially when wielded by Revenant.
+Tatsu Prime glows with spectral splendor. It grows more powerful with each enemy's demise, especially when wielded by Revenant.
 Total Damage: 230 | Crit Chance: 22.00% | Crit Mult: 2.4x | Status: 30.00% | Fire Rate: 1.166667
 MR: 14
 **Damage Breakdown:** Impact: 20.0, Slash: 54.0, Puncture: 76.0, Radiation: 80.0
@@ -2714,7 +2714,7 @@ MR: 10
 **Damage Breakdown:** Slash: 168.0, Puncture: 72.0
 
 ## Venato Prime
-Fashioned from the willingly donated bone of the Sentient Ur-Hatho and embellished by Orokin luxurator Sembik Vol, Venato Prime was to be wielded against “common enemies” of the united peoples – had any ever emerged from the darkness beyond Tau.
+Fashioned from the willingly donated bone of the Sentient Ur-Hatho and embellished by Orokin luxurator Sembik Vol, Venato Prime was to be wielded against "common enemies" of the united peoples - had any ever emerged from the darkness beyond Tau.
 Total Damage: 245 | Crit Chance: 34.00% | Crit Mult: 2.3x | Status: 32.00% | Fire Rate: 1.166667
 MR: 14
 **Damage Breakdown:** Impact: 36.8, Slash: 122.5, Puncture: 85.8
@@ -2726,7 +2726,7 @@ MR: 3
 **Damage Breakdown:** Impact: 25.5, Slash: 136.0, Puncture: 8.5
 
 ## Volnus Prime
-The glorious original Orokin casting of Gara’s signature glass hammer. Deceptively light and swift, while remaining lethally effective.
+The glorious original Orokin casting of Gara's signature glass hammer. Deceptively light and swift, while remaining lethally effective.
 Total Damage: 250 | Crit Chance: 20.00% | Crit Mult: 1.8x | Status: 34.00% | Fire Rate: 1.2
 MR: 14
 **Damage Breakdown:** Impact: 55.0, Slash: 80.0, Puncture: 115.0
@@ -2822,7 +2822,7 @@ MR: 0
 **Damage Breakdown:** Impact: 44.0, Slash: 66.0, Puncture: 110.0
 
 ## Gazal Machete
-Each kill with this swooping blade adds bonus damage to the Djinn Sentinel’s next Fatal Attraction ability. In turn, Fatal Attraction bestows the weapon with a period of Corrosive Damage.
+Each kill with this swooping blade adds bonus damage to the Djinn Sentinel's next Fatal Attraction ability. In turn, Fatal Attraction bestows the weapon with a period of Corrosive Damage.
 Total Damage: 178 | Crit Chance: 10.00% | Crit Mult: 2x | Status: 30.00% | Fire Rate: 1
 MR: 5
 **Damage Breakdown:** Impact: 17.8, Slash: 26.7, Puncture: 133.5
@@ -2858,7 +2858,7 @@ MR: 0
 **Damage Breakdown:** Impact: 18.0, Slash: 18.0, Puncture: 84.0
 
 ## Ether Sword
-A single blade for more precision. The Ether Sword cuts so cleanly that it was considered by the Tenno to be a more humane weapon for ‘cleansing’ infested allies.
+A single blade for more precision. The Ether Sword cuts so cleanly that it was considered by the Tenno to be a more humane weapon for 'cleansing' infested allies.
 Total Damage: 192 | Crit Chance: 10.00% | Crit Mult: 1.5x | Status: 34.00% | Fire Rate: 1
 MR: 7
 **Damage Breakdown:** Impact: 28.8, Slash: 28.8, Puncture: 134.4
@@ -2924,13 +2924,13 @@ MR: 2
 **Damage Breakdown:** Impact: 24.0, Slash: 24.0, Puncture: 112.0
 
 ## Orvius
-Turn foes into puppets with Teshin’s versatile throwing disc.
+Turn foes into puppets with Teshin's versatile throwing disc.
 Total Damage: 195 | Crit Chance: 18.00% | Crit Mult: 2x | Status: 18.00% | Fire Rate: 0.75
 MR: 5
 **Damage Breakdown:** Impact: 39.0, Slash: 9.8, Puncture: 146.3
 
 ## Kestrel Prime
-With heightened agility and power the Kestrel Prime’s heavy attacks easily knock down foes, ensuring none shall stand before it.
+With heightened agility and power the Kestrel Prime's heavy attacks easily knock down foes, ensuring none shall stand before it.
 Total Damage: 210 | Crit Chance: 20.00% | Crit Mult: 2.2x | Status: 40.00% | Fire Rate: 1.25
 MR: 11
 **Damage Breakdown:** Impact: 157.5, Slash: 21.0, Puncture: 31.5
@@ -2996,7 +2996,7 @@ MR: 3
 **Damage Breakdown:** Impact: 22.1, Slash: 22.1, Puncture: 102.9
 
 ## Dual Ether
-Fast and precise. The Dual Ether cuts so cleanly that it was considered by the Tenno to be a more humane weapon for ‘cleansing' infested allies. Capable of hitting multiple targets.
+Fast and precise. The Dual Ether cuts so cleanly that it was considered by the Tenno to be a more humane weapon for 'cleansing' infested allies. Capable of hitting multiple targets.
 Total Damage: 180 | Crit Chance: 20.00% | Crit Mult: 2x | Status: 28.00% | Fire Rate: 1
 MR: 8
 **Damage Breakdown:** Impact: 27.0, Slash: 27.0, Puncture: 126.0
@@ -3074,7 +3074,7 @@ MR: 2
 **Damage Breakdown:** Impact: 84.0, Slash: 18.0, Puncture: 18.0
 
 ## Sarofang
-Mete out the sharp pain of justice. Heavy Slam attacks create a vortex that pulls in lifted enemies when the Sarofang’s Combo Multiplier builds to 8x. In Voruna’s hands, the Sarofang only requires a 5x Combo Multiplier to summon the vortex.
+Mete out the sharp pain of justice. Heavy Slam attacks create a vortex that pulls in lifted enemies when the Sarofang's Combo Multiplier builds to 8x. In Voruna's hands, the Sarofang only requires a 5x Combo Multiplier to summon the vortex.
 Total Damage: 200 | Crit Chance: 20.00% | Crit Mult: 2x | Status: 20.00% | Fire Rate: 1.166667
 MR: 8
 **Damage Breakdown:** Impact: 80.0, Slash: 8.0, Puncture: 112.0
@@ -3170,7 +3170,7 @@ Accuracy: 33.333332 | Magazine: 300 | Reload: 4s | Multishot: 1 | MR: 12
 **Damage Breakdown:** Impact: 8.0, Slash: 22.0, Puncture: 12.0, Cold: 16.0
 
 ## Perigale
-Like a breath of wind, shots fired by this multi-barrel sniper are felt but never seen by its targets. Headshots in quick succession increase the Perigale’s ammo efficiency. When the Perigale is wielded by Voruna, its ammo pool increases.
+Like a breath of wind, shots fired by this multi-barrel sniper are felt but never seen by its targets. Headshots in quick succession increase the Perigale's ammo efficiency. When the Perigale is wielded by Voruna, its ammo pool increases.
 Total Damage: 172 | Crit Chance: 28.00% | Crit Mult: 2.6x | Status: 16.00% | Fire Rate: 6.060606
 Accuracy: 833.33331 | Magazine: 12 | Reload: 3s | Multishot: 1 | MR: 8
 **Damage Breakdown:** Impact: 20.6, Slash: 96.3, Puncture: 55.0
@@ -3194,7 +3194,7 @@ Accuracy: 100 | Magazine: 60 | Reload: 2.2s | Multishot: 1 | MR: 12
 **Damage Breakdown:** Slash: 8.0, Corrosive: 20.0
 
 ## Afentis
-Styanax’s speargun matches his might. Throw Afentis to pin an enemy and nearby enemies will also be stunned. Throw Afentis onto the ground to buff nearby allies with Ballistarii Might. The buff increases reload speed, fire rate, and ammo pools and reduces recoil. Allies who kill enemies with Ballistarii Might maintain the buff temporarily when they move away from Afentis.
+Styanax's speargun matches his might. Throw Afentis to pin an enemy and nearby enemies will also be stunned. Throw Afentis onto the ground to buff nearby allies with Ballistarii Might. The buff increases reload speed, fire rate, and ammo pools and reduces recoil. Allies who kill enemies with Ballistarii Might maintain the buff temporarily when they move away from Afentis.
 Total Damage: 100 | Crit Chance: 26.00% | Crit Mult: 2.2x | Status: 24.00% | Fire Rate: 0.833333
 Accuracy: 100 | Magazine: 4 | Reload: 1.8s | Multishot: 1 | MR: 8
 **Damage Breakdown:** Impact: 20.0, Slash: 60.0, Puncture: 20.0
@@ -3224,7 +3224,7 @@ Accuracy: 12.5 | Magazine: 150 | Reload: 2.5s | Multishot: 1 | MR: 10
 **Damage Breakdown:** Impact: 7.2, Slash: 9.6, Puncture: 7.2
 
 ## Cedo
-Launch a glaive that ricochets off surfaces in bursts of elemental damage, then perforate enemies with primary fire’s precision buck-shot. Damage increases with each Status Effect afflicting a target. Lavos will transmute a small portion of any ammo pickup to Primary Ammo when wielding his signature Cedo.
+Launch a glaive that ricochets off surfaces in bursts of elemental damage, then perforate enemies with primary fire's precision buck-shot. Damage increases with each Status Effect afflicting a target. Lavos will transmute a small portion of any ammo pickup to Primary Ammo when wielding his signature Cedo.
 Total Damage: 30 | Crit Chance: 20.00% | Crit Mult: 2.4x | Status: 0.33% | Fire Rate: 3.833334
 Accuracy: 20 | Magazine: 40 | Reload: 2.2s | Multishot: 6 | MR: 8
 **Damage Breakdown:** Slash: 30.0
@@ -3236,7 +3236,7 @@ Accuracy: 14.285714 | Magazine: 65 | Reload: 2s | Multishot: 1 | MR: 8
 **Damage Breakdown:** Impact: 9.8, Slash: 9.8, Puncture: 8.4
 
 ## Acceltra
-Using a barrage of rapid-fire plasma rockets, Gauss’ signature weapon lays down a path of destruction. Reloads are faster while sprinting, even more so in Gauss’ hands. For safety, rockets arm after traveling a safe distance.
+Using a barrage of rapid-fire plasma rockets, Gauss' signature weapon lays down a path of destruction. Reloads are faster while sprinting, even more so in Gauss' hands. For safety, rockets arm after traveling a safe distance.
 Total Damage: 70 | Crit Chance: 32.00% | Crit Mult: 2.8x | Status: 6.00% | Fire Rate: 12.000001
 Accuracy: 23.529411 | Magazine: 48 | Reload: 2s | Multishot: 1 | MR: 8
 **Damage Breakdown:** Impact: 26.0, Slash: 35.2, Puncture: 8.8
@@ -3326,7 +3326,7 @@ Accuracy: 100 | Magazine: 40 | Reload: 2.2s | Multishot: 1 | MR: 14
 **Damage Breakdown:** Corrosive: 140.0
 
 ## Phantasma Prime
-Phantasma Prime is burnished with deadly force. In Revenant’s hands, it has increased magazine capacity. The might of its irradiated plasma is reminiscent of the fearsome Eidolon.
+Phantasma Prime is burnished with deadly force. In Revenant's hands, it has increased magazine capacity. The might of its irradiated plasma is reminiscent of the fearsome Eidolon.
 Total Damage: 15 | Crit Chance: 11.00% | Crit Mult: 1.9x | Status: 22.20% | Fire Rate: 12.000001
 Accuracy: 100 | Magazine: 11 | Reload: 0.5s | Multishot: 6 | MR: 14
 **Damage Breakdown:** Impact: 5.0, Radiation: 10.0
@@ -3344,7 +3344,7 @@ Accuracy: 80 | Magazine: 40 | Reload: 2.4s | Multishot: 1 | MR: 14
 **Damage Breakdown:** Impact: 20.0, Slash: 10.0, Puncture: 90.0
 
 ## Nagantaka Prime
-A golden version of Garuda’s versatile crossbow, as fashioned by the Orokin’s finest weaponsmiths. Alt-fire to let loose a barrage of bolts. All bolts have a chance to cause Slash Status, and Headshot kills have a chance to increase Reload Speed. When wielded by Garuda the Nagantaka gains a slight Punch Through.
+A golden version of Garuda's versatile crossbow, as fashioned by the Orokin's finest weaponsmiths. Alt-fire to let loose a barrage of bolts. All bolts have a chance to cause Slash Status, and Headshot kills have a chance to increase Reload Speed. When wielded by Garuda the Nagantaka gains a slight Punch Through.
 Total Damage: 173 | Crit Chance: 25.00% | Crit Mult: 2.3x | Status: 39.00% | Fire Rate: 2.5
 Accuracy: 40 | Magazine: 11 | Reload: 2.3s | Multishot: 1 | MR: 12
 **Damage Breakdown:** Impact: 1.7, Slash: 15.6, Puncture: 155.7
@@ -3392,7 +3392,7 @@ Accuracy: 80 | Magazine: 60 | Reload: 1.1s | Multishot: 1 | MR: 10
 **Damage Breakdown:** Impact: 5.8, Slash: 6.7, Puncture: 3.5
 
 ## Astilla Prime
-Loose explosive glass slugs that tear through enemies with Gara’s signature shotgun, presented here in its spectacular Prime form.
+Loose explosive glass slugs that tear through enemies with Gara's signature shotgun, presented here in its spectacular Prime form.
 Total Damage: 240 | Crit Chance: 21.00% | Crit Mult: 1.9x | Status: 37.00% | Fire Rate: 4.333334
 Accuracy: 25 | Magazine: 24 | Reload: 2s | Multishot: 1 | MR: 14
 **Damage Breakdown:** Impact: 100.0, Slash: 49.0, Puncture: 91.0
@@ -3428,7 +3428,7 @@ Accuracy: 33.333332 | Magazine: 90 | Reload: 1.6s | Multishot: 1 | MR: 10
 **Damage Breakdown:** Impact: 4.5, Slash: 6.0, Puncture: 19.5
 
 ## Alternox
-Gyre’s signature weapon has two fire modes. Primary fire shocks enemies with electrical orbs. Alternate fire is a large ball of electricity that sticks to any surface and pulses Electricity before it explodes. In Gyre's hands, the weapon has a small amount of multishot.
+Gyre's signature weapon has two fire modes. Primary fire shocks enemies with electrical orbs. Alternate fire is a large ball of electricity that sticks to any surface and pulses Electricity before it explodes. In Gyre's hands, the weapon has a small amount of multishot.
 Total Damage: 62 | Crit Chance: 14.00% | Crit Mult: 2.2x | Status: 30.00% | Fire Rate: 4.333334
 Accuracy: 18.181818 | Magazine: 28 | Reload: 1.8s | Multishot: 1 | MR: 8
 **Damage Breakdown:** Electricity: 62.0
@@ -3519,7 +3519,7 @@ Accuracy: 16.666666 | Magazine: 1 | Reload: 0.65s | Multishot: 3 | MR: 12
 **Damage Breakdown:** Impact: 165.6, Slash: 9.2, Puncture: 9.2
 
 ## Nataruk
-Hunhow’s gift, carved from the bones of his kin. Shots can be charged and held; release them just before full charge for maximum effect.
+Hunhow's gift, carved from the bones of his kin. Shots can be charged and held; release them just before full charge for maximum effect.
 Total Damage: 900 | Crit Chance: 20.00% | Crit Mult: 1.8x | Status: 50.00% | Fire Rate: 0.666667
 Accuracy: 16.666666 | Reload: 0.05s | Multishot: 1 | MR: 0
 **Damage Breakdown:** Slash: 648.0, Puncture: 252.0
@@ -3609,7 +3609,7 @@ Accuracy: 100 | Magazine: 20 | Reload: 2s | Multishot: 1 | MR: 14
 **Damage Breakdown:** Impact: 430.0, Heat: 530.0
 
 ## Arbucep
-Nokko’s signature archgun fires six homing missiles, each bearing a payload of one of the six combined elements which detonate in an area upon impact.
+Nokko's signature archgun fires six homing missiles, each bearing a payload of one of the six combined elements which detonate in an area upon impact.
 Total Damage: 130 | Crit Chance: 10.00% | Crit Mult: 2.9x | Status: 34.90% | Fire Rate: 1.5
 Accuracy: 12.5 | Magazine: 6 | Reload: 1.72s | Multishot: 6 | MR: 0
 **Damage Breakdown:** Blast: 130.0
@@ -3657,7 +3657,7 @@ Accuracy: 25 | Magazine: 30 | Reload: 1.25s | Multishot: 1 | MR: 4
 **Damage Breakdown:** Impact: 39.6, Slash: 39.6, Puncture: 40.8
 
 ## Prisma Veritux
-A rare object of beauty, this Archwing sword has been sheathed in prisma crystal and baptized in the Void’s energy.
+A rare object of beauty, this Archwing sword has been sheathed in prisma crystal and baptized in the Void's energy.
 Total Damage: 394 | Crit Chance: 30.00% | Crit Mult: 2x | Status: 20.00% | Fire Rate: 1
 MR: 8
 **Damage Breakdown:** Impact: 59.1, Slash: 59.1, Puncture: 275.8
@@ -3669,7 +3669,7 @@ MR: 7
 **Damage Breakdown:** Impact: 400.5, Slash: 22.3, Puncture: 22.3
 
 ## Corufell
-Heavy attacks briefly transform the Corufell into a Gunblade. After the Gunblade fires, the Corufell returns to its Heavy Scythe state. Its transformation is fastest in Citrine’s hands.
+Heavy attacks briefly transform the Corufell into a Gunblade. After the Gunblade fires, the Corufell returns to its Heavy Scythe state. Its transformation is fastest in Citrine's hands.
 Total Damage: 200 | Crit Chance: 26.00% | Crit Mult: 2.4x | Status: 14.00% | Fire Rate: 1
 MR: 8
 **Damage Breakdown:** Impact: 96.0, Slash: 68.0, Puncture: 36.0
@@ -3837,7 +3837,7 @@ Accuracy: 100 | Magazine: 2 | Reload: 1s | Multishot: 1 | MR: 10
 **Damage Breakdown:** Electricity: 300.0
 
 ## Sancti Magistar
-Each charged attack turns the enemy’s pain into a healing pulse that washes over allies. Also, creates resistance to Status Effects when held.
+Each charged attack turns the enemy's pain into a healing pulse that washes over allies. Also, creates resistance to Status Effects when held.
 Total Damage: 239.99998 | Crit Chance: 30.00% | Crit Mult: 2x | Status: 20.00% | Fire Rate: 1
 MR: 8
 **Damage Breakdown:** Impact: 192.0, Slash: 36.0, Puncture: 12.0
@@ -3903,7 +3903,7 @@ Accuracy: 20 | Magazine: 21 | Reload: 0.7s | Multishot: 1 | MR: 11
 **Damage Breakdown:** Heat: 19.0, Electricity: 39.0
 
 ## Venato
-Caliban’s signature scythe, forged from a limb wrenched off a fallen Eidolon centuries ago. 50% increased Melee Combo Counter Chance when wielded by Caliban.
+Caliban's signature scythe, forged from a limb wrenched off a fallen Eidolon centuries ago. 50% increased Melee Combo Counter Chance when wielded by Caliban.
 Total Damage: 220 | Crit Chance: 27.00% | Crit Mult: 2.1x | Status: 24.00% | Fire Rate: 1.083333
 MR: 9
 **Damage Breakdown:** Impact: 33.0, Slash: 110.0, Puncture: 77.0
@@ -4029,7 +4029,7 @@ Accuracy: 100 | Magazine: 4 | Reload: 1s | Multishot: 1 | MR: 9
 **Damage Breakdown:** Toxin: 70.0
 
 ## Catabolyst
-Splatter enemies with a short-range stream of corrosive bile and then toss the ammo bladder as a grenade when reloading. The emptier the pistol’s ammo bladder, the more potent its damage. A fully empty bladder packs the biggest punch.
+Splatter enemies with a short-range stream of corrosive bile and then toss the ammo bladder as a grenade when reloading. The emptier the pistol's ammo bladder, the more potent its damage. A fully empty bladder packs the biggest punch.
 Total Damage: 53 | Crit Chance: 11.00% | Crit Mult: 2.9x | Status: 43.00% | Fire Rate: 12.000001
 Accuracy: 6.25 | Magazine: 31 | Reload: 1.7s | Multishot: 1 | MR: 11
 **Damage Breakdown:** Corrosive: 53.0
@@ -4215,7 +4215,7 @@ Accuracy: 100 | Magazine: 11 | Reload: 2.5s | Multishot: 1 | MR: 17
 **Damage Breakdown:** Impact: 101.5, Slash: 116.6, Puncture: 157.9
 
 ## Coda Hema
-The Technocyte virus did nothing but increase the Hema’s thirst for blood. With increased Fire Rate, Magazine Size, Critical Chance, Critical Damage, Status Chance, and Damage.
+The Technocyte virus did nothing but increase the Hema's thirst for blood. With increased Fire Rate, Magazine Size, Critical Chance, Critical Damage, Status Chance, and Damage.
 Total Damage: 52 | Crit Chance: 20.00% | Crit Mult: 2.3x | Status: 30.00% | Fire Rate: 6.153846
 Accuracy: 20 | Magazine: 72 | Reload: 2s | Multishot: 1 | MR: 17
 **Damage Breakdown:** Gas: 52.0
@@ -4239,7 +4239,7 @@ Accuracy: 16.666666 | Magazine: 1 | Reload: 0.6s | Multishot: 1 | MR: 7
 **Damage Breakdown:** Impact: 369.0, Slash: 20.5, Puncture: 20.5, Toxin: 5.0
 
 ## Aegrit
-What the Aegrit lacks in quantity it makes up for in destructive power. Toss the Aegrit onto your enemy’s position then detonate remotely at the right moment for maximum destructive effect.
+What the Aegrit lacks in quantity it makes up for in destructive power. Toss the Aegrit onto your enemy's position then detonate remotely at the right moment for maximum destructive effect.
 Total Damage: 806 | Crit Chance: 37.00% | Crit Mult: 1.9x | Status: 19.00% | Fire Rate: 2
 Accuracy: 100 | Magazine: 2 | Reload: 1.3s | Multishot: 1 | MR: 11
 **Damage Breakdown:** Impact: 4.5, Slash: 1.8, Puncture: 2.7, Blast: 797.0
@@ -4431,7 +4431,7 @@ MR: 5
 **Damage Breakdown:** Impact: 6.5, Slash: 6.5, Puncture: 116.1
 
 ## Ack & Brunt
-Tyl Regor's custom axe and shield are how he likes to eliminate ‘frustrations'.
+Tyl Regor's custom axe and shield are how he likes to eliminate 'frustrations'.
 Total Damage: 149 | Crit Chance: 20.00% | Crit Mult: 2x | Status: 10.00% | Fire Rate: 0.833333
 MR: 3
 **Damage Breakdown:** Impact: 14.9, Slash: 14.9, Puncture: 119.2
@@ -4557,7 +4557,7 @@ Accuracy: 100 | Magazine: 6 | Reload: 1.9s | Multishot: 1 | MR: 7
 **Damage Breakdown:** Heat: 280.0
 
 ## Zarr
-Unload a barrage of explosives or a huge shot of flak from this cannon’s enormous barrel.
+Unload a barrage of explosives or a huge shot of flak from this cannon's enormous barrel.
 Total Damage: 200 | Crit Chance: 17.00% | Crit Mult: 2.5x | Status: 29.00% | Fire Rate: 1.666667
 Accuracy: 100 | Magazine: 3 | Reload: 2.25s | Multishot: 1 | MR: 7
 **Damage Breakdown:** Impact: 25.0, Blast: 175.0
@@ -4641,7 +4641,7 @@ Accuracy: 16 | Magazine: 9 | Reload: 2.3s | Multishot: 1 | MR: 15
 **Damage Breakdown:** Impact: 26.2, Slash: 68.1, Puncture: 36.7, Corrosive: 69.0
 
 ## Kuva Nukor
-A highly-optimized Nukor that allows for the weapon’s microwave field to hit up to two additional targets.
+A highly-optimized Nukor that allows for the weapon's microwave field to hit up to two additional targets.
 Total Damage: 21 | Crit Chance: 7.00% | Crit Mult: 5x | Status: 50.00% | Fire Rate: 10.000001
 Accuracy: 100 | Magazine: 77 | Reload: 2s | Multishot: 1 | MR: 13
 **Damage Breakdown:** Radiation: 21.0
@@ -4677,7 +4677,7 @@ Accuracy: 100 | Magazine: 1 | Reload: 1.5s | Multishot: 1 | MR: 13
 **Damage Breakdown:** Slash: 227.0, Puncture: 204.0, Blast: 302.0
 
 ## Kuva Sobek
-The Kuva Sobek’s exceptional Reload Speed, Critical Chance, and Status Chance make it a natural fit for the Kuva Lich’s dominant spirit.
+The Kuva Sobek's exceptional Reload Speed, Critical Chance, and Status Chance make it a natural fit for the Kuva Lich's dominant spirit.
 Total Damage: 77 | Crit Chance: 21.00% | Crit Mult: 2.3x | Status: 21.00% | Fire Rate: 2.5
 Accuracy: 9.090909 | Magazine: 20 | Reload: 2.1s | Multishot: 5 | MR: 15
 **Damage Breakdown:** Impact: 57.8, Slash: 9.6, Puncture: 9.6
@@ -4791,7 +4791,7 @@ Accuracy: 1.818182 | Magazine: 11 | Reload: 2.2s | Multishot: 1 | MR: 8
 **Damage Breakdown:** Impact: 50.0, Viral: 41.0
 
 ## Tenet Spirex
-Dominate rivals with this pistol’s lightning fast rail-slugs. Head-shots speed up reload.
+Dominate rivals with this pistol's lightning fast rail-slugs. Head-shots speed up reload.
 Total Damage: 200 | Crit Chance: 26.00% | Crit Mult: 2.4x | Status: 40.00% | Fire Rate: 2.333334
 Accuracy: 12.5 | Magazine: 8 | Reload: 2.4s | Multishot: 1 | MR: 14
 **Damage Breakdown:** Impact: 40.0, Slash: 20.0, Heat: 140.0
@@ -5116,7 +5116,7 @@ Accuracy: 100 | Magazine: 100 | Reload: 2s | Multishot: 2 | MR: 16
 **Damage Breakdown:** Electricity: 18.0
 
 ## Tenet Glaxion
-Advances in microelectronics have improved a Corpus classic. Tenet Glaxion’s photon beam strikes up to four enemies at once. It also boasts superior Damage, Critical Chance, and Status Chance.
+Advances in microelectronics have improved a Corpus classic. Tenet Glaxion's photon beam strikes up to four enemies at once. It also boasts superior Damage, Critical Chance, and Status Chance.
 Total Damage: 34 | Crit Chance: 20.00% | Crit Mult: 2.2x | Status: 40.00% | Fire Rate: 12.000001
 Accuracy: 100 | Magazine: 90 | Reload: 2s | Multishot: 1 | MR: 16
 **Damage Breakdown:** Cold: 34.0
@@ -5128,7 +5128,7 @@ Accuracy: 200 | Magazine: 120 | Reload: 1.8s | Multishot: 1 | MR: 16
 **Damage Breakdown:** Slash: 4.8, Puncture: 17.2
 
 ## Tenet Ferrox
-The expert engineers in Parvos Granum’s division have optimized the Ferrox’s lethal power.
+The expert engineers in Parvos Granum's division have optimized the Ferrox's lethal power.
 Total Damage: 200 | Crit Chance: 34.00% | Crit Mult: 3x | Status: 26.00% | Fire Rate: 2.666667
 Accuracy: 16.666666 | Magazine: 20 | Reload: 1.8s | Multishot: 1 | MR: 16
 **Damage Breakdown:** Impact: 20.0, Slash: 140.0, Puncture: 40.0
@@ -5230,13 +5230,13 @@ MR: 9
 **Damage Breakdown:** Impact: 238.0, Slash: 28.0, Puncture: 14.0
 
 ## Verdilac
-Archon Nira’s spine-shattering whip. Has a unique Tactical Combo that whips out a wide wave of energy with each stroke.
+Archon Nira's spine-shattering whip. Has a unique Tactical Combo that whips out a wide wave of energy with each stroke.
 Total Damage: 213 | Crit Chance: 30.00% | Crit Mult: 2.5x | Status: 21.00% | Fire Rate: 1
 MR: 13
 **Damage Breakdown:** Impact: 21.3, Slash: 85.2, Puncture: 106.5
 
 ## Korumm
-Archon Boreal’s signature trident. Thrust Korumm into the ground with a Tactical Combo and then rip it out in a shower of electricity.
+Archon Boreal's signature trident. Thrust Korumm into the ground with a Tactical Combo and then rip it out in a shower of electricity.
 Total Damage: 260 | Crit Chance: 24.00% | Crit Mult: 2.2x | Status: 30.00% | Fire Rate: 1
 MR: 13
 **Damage Breakdown:** Impact: 52.0, Slash: 104.0, Puncture: 104.0
@@ -5314,7 +5314,7 @@ Accuracy: 100 | Magazine: 100 | Reload: 2s | Multishot: 1 | MR: 0
 **Damage Breakdown:** Impact: 2.0, Slash: 1.0, Puncture: 17.0
 
 ## Burst Laser Prime
-Shade Prime’s signature weapon fires laser bursts.
+Shade Prime's signature weapon fires laser bursts.
 Total Damage: 24.999998 | Crit Chance: 20.00% | Crit Mult: 2.3x | Status: 15.00% | Fire Rate: 3
 Accuracy: 100 | Magazine: 15 | Reload: 0.01s | Multishot: 1 | MR: 0
 **Damage Breakdown:** Impact: 2.5, Slash: 21.3, Puncture: 1.2
@@ -5491,7 +5491,7 @@ MR: 0
 **Damage Breakdown:** Impact: 19.8, Slash: 54.6, Puncture: 173.6
 
 ## Neutralizer
-Cyte-09’s exalted Sniper Rifle. Bullets ricochet off Weak Points to seek out other nearby Weak Points. Alt fire lobs a grenade that completely freezes enemies with a Cold Status Effect, leaving a freezing zone that continues to apply Cold Status for a duration.
+Cyte-09's exalted Sniper Rifle. Bullets ricochet off Weak Points to seek out other nearby Weak Points. Alt fire lobs a grenade that completely freezes enemies with a Cold Status Effect, leaving a freezing zone that continues to apply Cold Status for a duration.
 Total Damage: 254.99998 | Crit Chance: 45.00% | Crit Mult: 3x | Status: 10.00% | Fire Rate: 1
 Accuracy: 13.333333 | Magazine: 12 | Reload: 2.25s | Multishot: 1 | MR: 0
 **Damage Breakdown:** Impact: 12.8, Slash: 216.8, Puncture: 25.5

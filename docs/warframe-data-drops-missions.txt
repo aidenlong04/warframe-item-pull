@@ -1,6 +1,6 @@
 # Mission & Bounty Drop Tables
-Format: Mission rewards organized by ## Planet, ### Node — Mode. Rotation rewards in tables: Item | Rarity | Chance. Bounties show tier rewards with stage and % in tables.
-Sections: Mission Rewards (24 entries) | Sortie Rewards (1 entries) | Transient Rewards (51 entries) | Key Rewards (24 entries) | Cetus Bounty Rewards (10 entries) | Solaris Bounty Rewards (11 entries) | Deimos Bounty Rewards (12 entries) | Zariman Bounty Rewards (5 entries) | Entrati Lab Rewards (5 entries) | Hex Bounty Rewards (7 entries)
+FORMAT: Mission rewards organized by ## Planet, ### Node — Mode. Rotation rewards in tables: Item | Rarity | Chance. Bounties show tier rewards with stage and % in tables.
+INDEX: Mission Rewards (24 entries) | Sortie Rewards (1 entries) | Transient Rewards (51 entries) | Key Rewards (24 entries) | Cetus Bounty Rewards (10 entries) | Solaris Bounty Rewards (11 entries) | Deimos Bounty Rewards (12 entries) | Zariman Bounty Rewards (5 entries) | Entrati Lab Rewards (5 entries) | Hex Bounty Rewards (7 entries)
 
 # Mission Rewards
 All mission reward tables organized by planet and node. Shows game mode, rotation rewards (A/B/C), item names, rarity, and exact drop percentages.

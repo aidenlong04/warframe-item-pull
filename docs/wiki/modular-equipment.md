@@ -362,7 +362,6 @@ Though the Tenno adopt K-Drives from the Ventkids, K-Driving was originated from
 ## Necramech
 Father
 Necramechs are weapon platforms built by the Entrati that can be encountered among the ruins of the Cambion Drift, Deimos, or built by the player for their personal use. They are heavily armored bipedal war machines designed during The Old War, and were the predecessor to Warframes, though they were far less intelligent. The Tenno are capable of accessing these Old War relics using Transference, and can deploy their personal Necramechs in Landscapes, grounded Empyrean missions, Albrecht's Laboratories, and limited other venues.
-2
 Lore & History
 The Old War
 Necramechs are heavily armored, archaic war platforms that were designed by Father to fight against the encroaching Sentient forces. Thanks to their Void-shielding, Necramechs were immune to the tech-disabling pulses of the Orphix, and became a solid defense against the invading Sentients.

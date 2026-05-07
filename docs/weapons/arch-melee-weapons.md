@@ -4,6 +4,9 @@ All Archwing-mounted melee weapons. Includes damage types, critical stats, statu
 ## Agkuza
 Tear apart incoming enemies with this massive hooked blade.
 
+### Acquisition
+The Agkuza's blueprint can be purchased from the Market. Its parts can be purchased from various Syndicates. All parts, except for the blueprint, are tradeable.
+
 ### Wiki
 Tenno
 Tear apart incoming enemies with this massive hooked blade.
@@ -14,8 +17,6 @@ Characteristics
 This weapon deals primarily Puncture damage.
 No delay between combo looping, allowing for smoother attacks.
 Innate Vazarin polarity.
-**Acquisition:**
-The Agkuza's blueprint can be purchased from the Market. Its parts can be purchased from various Syndicates. All parts, except for the blueprint, are tradeable.
 **Trivia:**
 The Agkuza is the first hook-sword type weapon introduced into the game.
 Agkuza is derived from the Sanskrit aṅkuśá; a type of hook, particularity one used by an elephant-driver.
@@ -38,6 +39,9 @@ Crit Chance: 5.00% | Crit Multiplier: 1.5x | Status Chance: 15.00% | Fire Rate: 
 ## Centaur
 Part sword, part shield, the Centaur excels at charging headlong into enemy fire.
 
+### Acquisition
+The Centaur's blueprint can be purchased from the Market. Its parts can be purchased from various Syndicates. All parts, except for the blueprint, are tradeable.
+
 ### Wiki
 Weapons
 Part sword, part shield, the Centaur excels at charging headlong into enemy fire.
@@ -48,8 +52,6 @@ Characteristics
 This weapon deals primarily Slash damage.
 No delay between combo looping, allowing for smoother attacks.
 Innate Madurai polarity.
-**Acquisition:**
-The Centaur's blueprint can be purchased from the Market. Its parts can be purchased from various Syndicates. All parts, except for the blueprint, are tradeable.
 **Tips:**
 Centaur can utilize Tempered Blade to greatly increase its critical chance up to 62.5%, providing an additional 30% overall DPS.
 **Trivia:**
@@ -75,6 +77,9 @@ Crit Chance: 25.00% | Crit Multiplier: 2x | Status Chance: 20.00% | Fire Rate: 1
 ## Kaszas
 Become an angel of death, with this Archwing scythe.
 
+### Acquisition
+The Kaszas's blueprint can be purchased from the Market. Its parts can be purchased from various Syndicates. All parts, except for the blueprint, are tradeable.
+
 ### Wiki
 Archwing
 Become an angel of death, with this Archwing scythe.
@@ -82,8 +87,6 @@ The Kaszas is an Archmelee scythe released as a part of Update 17.5: The Jordas 
 Characteristics
 This weapon deals primarily Puncture damage.
 Innate Vazarin polarity.
-**Acquisition:**
-The Kaszas's blueprint can be purchased from the Market. Its parts can be purchased from various Syndicates. All parts, except for the blueprint, are tradeable.
 **Trivia:**
 The Kaszas' name is derived from kaszás, a Hungarian noun for the Grim Reaper. Kaszás in turn is derived from kasza, the Hungarian word for Scythe.
 Blocking with a melee will grant knockdown protection against obstacles, allowing for smoother flight. Alternatively, performing a slide/dash attack will allow passage through obstacles without slowing down.
@@ -104,6 +107,9 @@ Crit Chance: 15.00% | Crit Multiplier: 2x | Status Chance: 20.00% | Fire Rate: 1
 ## Knux
 Gallium-alloy gauntlets for close-range Archwing combat. Designed by the infamous Tyl Regor.
 
+### Acquisition
+The Knux's blueprint can be researched from the Chem Lab in the dojo.
+
 ### Wiki
 Weapons
 Gallium-alloy gauntlets for close-range Archwing combat. Designed by the infamous Tyl Regor.
@@ -111,8 +117,6 @@ The Knux are large Archmelee gauntlets based on Tyl Regor's fist weapons.
 Characteristics
 This weapon deals primarily Impact damage.
 Innate Vazarin polarity.
-**Acquisition:**
-The Knux's blueprint can be researched from the Chem Lab in the dojo.
 **Tips:**
 Blocking with a melee will grant knockdown protection against obstacles, allowing for smoother flight. Alternatively, performing a slide/dash attack will allow passage through obstacles without slowing down.
 **Trivia:**
@@ -137,6 +141,9 @@ Crit Chance: 13.00% | Crit Multiplier: 2x | Status Chance: 30.00% | Fire Rate: 1
 ## Onorix
 This laser bladed battle-axe easily hacks through a ship's defenses and the forces protecting it.
 
+### Acquisition
+The Onorix's blueprint can be purchased from the Market. Its parts can be purchased from various Syndicates. All parts, except for the blueprint, are tradeable.
+
 ### Wiki
 Weapons
 This laser-bladed battle axe easily hacks through a ship's defenses and the forces defending it.
@@ -151,8 +158,6 @@ Innate Madurai polarity.
 Disadvantages:
 Low Puncture damage – less effective against armor.
 Lowest critical multiplier and status chance of all Archmelees.
-**Acquisition:**
-The Onorix's blueprint can be purchased from the Market. Its parts can be purchased from various Syndicates. All parts, except for the blueprint, are tradeable.
 **Trivia:**
 The Agkuza hook-sword, Onorix axe, and Rathbone hammer all share an attack combo, making their gameplay extremely similar. Of them, the Onorix has the lowest base DPS, while the Rathbone has the highest base DPS, in line with their mastery ranks.
 zEf3J8e29bM
@@ -173,6 +178,10 @@ Crit Chance: 15.00% | Crit Multiplier: 1.3x | Status Chance: 5.00% | Fire Rate: 
 ## Prisma Veritux
 A rare object of beauty, this Archwing sword has been sheathed in prisma crystal and baptized in the Void’s energy.
 
+### Acquisition
+The Prisma Veritux is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 150,000 and 550. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
+The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed.
+
 ### Wiki
 Weapons
 A rare object of beauty, this Archwing sword has been sheathed in prisma crystal and baptized in the void's energy.
@@ -182,9 +191,6 @@ This weapon deals primarily Slash damage.
 Possesses delay between combo looping, hindering attack speed.
 Innate Vazarin polarity.
 Veritux
-**Acquisition:**
-The Prisma Veritux is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 150,000 and 550. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
-The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed.
 **Trivia:**
 The Prisma Veritux was visible as an entry in a player's Profile under Equipment before it was released.
 As a Prisma weapon, the Prisma Veritux has a modified attack sound from the normal Veritux.
@@ -196,6 +202,9 @@ Crit Chance: 30.00% | Crit Multiplier: 2x | Status Chance: 20.00% | Fire Rate: 1
 
 ## Rathbone
 Using Archwing's jets for thrust, this massive hammer crushes anything in its path.
+
+### Acquisition
+The Rathbone's blueprint can be purchased from the Market. Its parts can be purchased from various Syndicates. All parts, except for the blueprint, are tradeable.
 
 ### Wiki
 Weapons
@@ -215,8 +224,6 @@ Innate Madurai polarity.
 Disadvantages:
 Low Puncture and Slash damage – less effective against armor and health.
 Second lowest attack speed of all Archmelees, after Veritux.
-**Acquisition:**
-The Rathbone's blueprint can be purchased from the Market. Its parts can be purchased from various Syndicates. All parts, except for the blueprint, are tradeable.
 **Trivia:**
 The Agkuza hook-sword, Onorix axe, and Rathbone hammer all share an attack combo, making their gameplay extremely similar. Of them, the Onorix has the lowest base DPS, while the Rathbone has the highest base DPS, in line with their mastery ranks.
 2-L6DwptxlM
@@ -238,6 +245,11 @@ Crit Chance: 20.00% | Crit Multiplier: 2x | Status Chance: 12.00% | Fire Rate: 0
 ## Veritux
 Weightless space turns this impossibly massive sword into an agile instrument of destruction.
 
+### Acquisition
+A built Veritux is automatically acquired upon claiming the Odonata Archwing from the Foundry during The Archwing quest.
+Additional blueprints can be bought from Cephalon Simaris for 100,000 Standing.
+This weapon can be sold for 5,000.
+
 ### Wiki
 Weapons
 Weightless space turns this impossibly massive sword into an agile instrument of destruction.
@@ -247,10 +259,6 @@ This weapon deals primarily Slash damage.
 Innate Vazarin polarity.
 Possesses delay between combo looping, hindering attack speed.
 Prisma Veritux
-**Acquisition:**
-A built Veritux is automatically acquired upon claiming the Odonata Archwing from the Foundry during The Archwing quest.
-Additional blueprints can be bought from Cephalon Simaris for 100,000 Standing.
-This weapon can be sold for 5,000.
 **Trivia:**
 The Veritux was tentatively known as the Imspartacus in demo videos, referencing the line "I'm Spartacus" from the 1960 movie Spartacus.
 The name Veritux was most likely taken from the Latin word Veritus meaning "to revere or respect" or "to fear" depending on context.
