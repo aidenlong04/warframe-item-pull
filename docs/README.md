@@ -106,9 +106,9 @@ Pre-built text files combining all topics above, each ≤ 3 MB for easy upload t
 | [warframe-data-items.txt](warframe-data-items.txt) | Resources, Fish, Gear, Quests, Syndicates, Enemies, Star Chart |
 | [warframe-data-export.txt](warframe-data-export.txt) | Official DE Export: Warframes, Weapons, Mods, Recipes, Enemies, Factions, Regions |
 | [warframe-data-export-extended.txt](warframe-data-export-extended.txt) | Focus Schools, Dojo, Nightwave, Vendors, Achievements, Syndicates, Bounties |
-| [warframe-data-patchnotes-part1.txt](warframe-data-patchnotes-part1.txt) | Patch Notes (newest) |
-| [warframe-data-patchnotes-part2.txt](warframe-data-patchnotes-part2.txt) | Patch Notes (oldest) |
-| [warframe-data-wiki-lore.txt](warframe-data-wiki-lore.txt) | Wiki: Lore Characters, Factions |
-| [warframe-data-wiki-quests.txt](warframe-data-wiki-quests.txt) | Wiki: Quest Walkthroughs |
-| [warframe-data-wiki-mechanics.txt](warframe-data-wiki-mechanics.txt) | Wiki: Damage, Status Effects, Mechanics, Enemy Scaling |
-| [warframe-data-wiki-systems.txt](warframe-data-wiki-systems.txt) | Wiki: Open Worlds, Game Systems, Endgame, Companions, Modular Equipment |
+| [warframe-data-patchnotes.txt](warframe-data-patchnotes.txt) | Full Warframe patch note history |
+| [warframe-data-mastery-rank.txt](warframe-data-mastery-rank.txt) | Mastery Rank requirements and tests |
+| [warframe-data-lore.txt](warframe-data-lore.txt) | Wiki: Lore Characters, Factions |
+| [warframe-data-quests.txt](warframe-data-quests.txt) | Wiki: Quest Walkthroughs |
+| [warframe-data-mechanics.txt](warframe-data-mechanics.txt) | Wiki: Damage, Status Effects, Mechanics, Enemy Scaling |
+| [warframe-data-systems.txt](warframe-data-systems.txt) | Wiki: Open Worlds, Game Systems, Endgame, Companions, Modular Equipment |

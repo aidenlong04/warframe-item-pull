@@ -81,13 +81,14 @@ The Tenno are lead through the Reservoir and into the Chamber of the Lotus, wher
 ## Clan Key
 Unlocks access to your Clan's Dojo
 
-### Wiki
-The Clan Key grants a player access to a Clan's Dojo. Upon joining a clan, a player will need to construct the key in their Foundry before they will be permitted to enter the Dojo.
-Any player may be invited to a Clan's Dojo, up until the player in question joins the clan owning the Dojo. Once the player joins the clan, they will be forced to build the Clan Key before they will be permitted into the Dojo. Any attempts to join the Dojo (including being invited or using the Star Chart) will fail until the Clan Key is completed.
-**Acquisition:**
+### Acquisition
 Upon starting or joining a Clan, the blueprint for the Clan Key will be automatically added to the player's inventory and made available within the Foundry. The blueprint will be consumed during construction, but once claimed, the key remains present in the player's inventory, granting them Dojo access.
 If a player leaves or disbands the clan, the key will be automatically destroyed, but upon joining a new clan, a new blueprint will be provided, resulting in an identical process for gaining access to the new clan's Dojo.
 __forcetoc__
+
+### Wiki
+The Clan Key grants a player access to a Clan's Dojo. Upon joining a clan, a player will need to construct the key in their Foundry before they will be permitted to enter the Dojo.
+Any player may be invited to a Clan's Dojo, up until the player in question joins the clan owning the Dojo. Once the player joins the clan, they will be forced to build the Clan Key before they will be permitted into the Dojo. Any attempts to join the Dojo (including being invited or using the Star Chart) will fail until the Clan Key is completed.
 **Type:** Key
 
 ## Erra

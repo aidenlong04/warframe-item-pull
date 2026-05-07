@@ -4,11 +4,12 @@ All Archwing flight suits with stats, abilities, and crafting data.
 ## Amesha
 Transform into a winged guardian.
 
+### Acquisition
+The Amesha's main and component blueprints can be researched from the Tenno Lab in the dojo. The blueprints can only be purchased after completion of The Archwing quest.
+
 ### Wiki
 Transform into a winged guardian.
 The Amesha is a support-type Archwing that sacrifices offensive power in exchange for area-of-effect defensive abilities that can buff and heal allies and weaken enemies. Watchful Swarm renders it Invulnerable, protected by a number of drones. Benevolent Decoy summons a sphere that blocks enemy gunfire, healing allies while damaging enemies that wander within its radius. Warding Grace creates an aura that provides Status Effect immunity and Slow enemies. Vengeful Rush has all damage received converted into Energy, while enhancing ally Ability Range, Ability Strength, and Ability Duration.
-**Acquisition:**
-The Amesha's main and component blueprints can be researched from the Tenno Lab in the dojo. The blueprints can only be purchased after completion of The Archwing quest.
 **Trivia:**
 The Amesha is possibly named after the Amesha Spenta, divine entities in Zoroastrianism comparable to angels. The word "Hameshe" (همیشه) is Middle Persian for "always" or alternatively, "immortal".
 Health: 650 | Shield: 220 | Armor: 195 | Energy: 220
@@ -22,11 +23,12 @@ Health: 650 | Shield: 220 | Armor: 195 | Energy: 220
 ## Elytron
 This heavy duty Archwing was designed for one purpose, destruction.
 
+### Acquisition
+The Elytron's main and component blueprints can be researched from the Tenno Lab in the dojo. The blueprints can only be purchased after completion of The Archwing quest.
+
 ### Wiki
 This heavy duty Archwing was designed for one purpose, destruction.
 The Elytron is an offensive-type Archwing specializing in area bombardment, capable of dealing damage against multiple enemies with its selection of missiles, and boasting high durability among Archwings. Bloomer releases a tracking projectile that can be detonated. Core Vent releases a gaesous trail that negates enemy gunfire. Thumper launches a beacon that releases bombardments. Warhead fires a single deadly missile that creates a massive explosion.
-**Acquisition:**
-The Elytron's main and component blueprints can be researched from the Tenno Lab in the dojo. The blueprints can only be purchased after completion of The Archwing quest.
 **Trivia:**
 The Elytron refers to the protective wing-casing of certain insect orders, particularly beetles.
 This suits the fact that Elytron is the Archwing with the highest total health and shields rating.
@@ -42,11 +44,12 @@ Health: 765 | Shield: 745 | Armor: 145 | Energy: 120
 ## Itzal
 Designed for quick clandestine attacks, the Itzal Archwing excels at striking from the darkness of space.
 
+### Acquisition
+The Itzal's main and component blueprints can be researched from the Tenno Lab in the dojo. The blueprints can only be purchased after completion of The Archwing quest.
+
 ### Wiki
 Designed for quick clandestine attacks, the Itzal Archwing excels at striking from the darkness of space.
 The Itzal is a stealth and support Archwing utilizing technologies that can hide it from enemy attention while it attacks with powerful disruptive abilities. Arch Line fires a hook that pulls targets toward Itzal or latches onto surfaces to pull Itzal toward it. Penumbra deploys an Invisible field while stationary. Cosmic Crush violently pulls in nearby enemies and pickups before exploding. Fighter Escort summons drones that seek out and distract enemies before exploding.
-**Acquisition:**
-The Itzal's main and component blueprints can be researched from the Tenno Lab in the dojo. The blueprints can only be purchased after completion of The Archwing quest.
 **Trivia:**
 thumb|300px|The Itzal Leak during Update 15.6.1.
 Itzal is the Basque word for "shadow", appropriate given the Itzal's stealth capabilities.
@@ -63,12 +66,13 @@ Health: 200 | Shield: 220 | Armor: 50 | Energy: 220
 ## Odonata
 The systems built into this Archwing balance offensive capabilities with defensive countermeasures.
 
+### Acquisition
+The Odonata's main and component blueprints are obtainable during The Archwing quest.
+Additional blueprints can be bought from Cephalon Simaris; 50,000 Standing for component blueprints and 100,000 Standing for main blueprint.
+
 ### Wiki
 The systems built into this Archwing balance offensive capabilities with defensive countermeasures.
 The Odonata is an Archwing that possess both defensive powers that can ward off long-range enemy attack, as well as offensive powers capable of dealing damage against enemies at range. Energy Shell creates a barrier that blocks enemy gunfire while enhancing user bullets shot through it. Disarray releases flares to neutralize enemy missiles. Seeking Fire launches a barrage of homing missiles. Repel releases a massive pulse that violently pushes away enemies.
-**Acquisition:**
-The Odonata's main and component blueprints are obtainable during The Archwing quest.
-Additional blueprints can be bought from Cephalon Simaris; 50,000 Standing for component blueprints and 100,000 Standing for main blueprint.
 **Trivia:**
 Odonata is an order of carnivorous insects that encompasses dragonflies and damselflies.
 Odonata and its Prime counterpart are the only Archwings which aren't obtained from the Tenno Research Lab in the Clan Dojo.

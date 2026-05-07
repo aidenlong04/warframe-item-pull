@@ -1,6 +1,6 @@
 # Extended DE Export Data (Focus, Dojo, Nightwave, Vendors, Achievements, Syndicates, Bounties)
-Format: Focus Schools: ## School > ### Upgrade with meta + rank tables. Dojo: ## Category > ### Recipe with costs. Vendors: ## Vendor with item/price tables. Syndicates: ranks + standing thresholds.
-Sections: Focus Schools & Operator Upgrades (5 entries) | Dojo Recipes & Clan Research (3 entries) | Nightwave (2 entries) | Vendors & Shops (86 entries) | Achievements (0 entries) | Public Export — Syndicates (Detailed) (22 entries) | Public Export — Bounties (Detailed) (54 entries)
+FORMAT: Focus Schools: ## School > ### Upgrade with meta + rank tables. Dojo: ## Category > ### Recipe with costs. Vendors: ## Vendor with item/price tables. Syndicates: ranks + standing thresholds.
+INDEX: Focus Schools & Operator Upgrades (5 entries) | Dojo Recipes & Clan Research (3 entries) | Nightwave (2 entries) | Vendors & Shops (86 entries) | Achievements (0 entries) | Public Export — Syndicates (Detailed) (22 entries) | Public Export — Bounties (Detailed) (54 entries)
 
 # Focus Schools & Operator Upgrades
 All Operator Focus school upgrades including Madurai, Vazarin, Naramon, Zenurik, and Unairu. Shows name, description, polarity, rarity, drain, max rank, and stat progression.
@@ -677,7 +677,7 @@ Creates a wave while dashing, increasing the Damage by |DAMAGE|% and the area of
 | 4 | DAMAGE: 25, RADIUS: 10 |
 | 5 | DAMAGE: 30, RADIUS: 12 |
 
-### Killer’s Rush
+### Killer's Rush
 Initiating a finisher as Operator switches to Warframe, increasing melee Critical Chance by |PERCENT|% for |DURATION|s.
 **Rarity:** RARE | **Drain:** 4 | **Max Rank:** 3 | **Focus Cost:** 95,000
 | Rank | Stats |
@@ -903,7 +903,7 @@ Using Void Sling through an enemy will reduce their Damage by |PERCENT|%.
 | 3 | PERCENT: 50 |
 
 ### Reinforced Return
-Warframe is invulnerable for |DURATION|s after Operator is downed. Tap as Operator falls to bring the Warframe to the Operator’s location.
+Warframe is invulnerable for |DURATION|s after Operator is downed. Tap as Operator falls to bring the Warframe to the Operator's location.
 **Rarity:** UNCOMMON | **Drain:** 4 | **Max Rank:** 3 | **Focus Cost:** 60,000
 | Rank | Stats |
 |---|---|
@@ -4066,12 +4066,6 @@ All Dojo room, decoration, and research recipes. Includes credit costs, resource
 | Salvage | 100000 |
 | Plastids | 50000 |
 
-### DagathBlueprint
-
-### DagathChassisBlueprint
-
-### DagathHelmetBlueprint
-
 ### DagathSystemsBlueprint
 
 | Ingredient | Count |
@@ -4323,16 +4317,6 @@ All Dojo room, decoration, and research recipes. Includes credit costs, resource
 | Morphic | 3 |
 | Circuits | 11500 |
 | AlloyPlate | 162500 |
-
-### TnDagathBladeWhipBladeBlueprint
-
-### TnDagathBladeWhipBlueprint
-
-### TnDagathBladeWhipHiltBlueprint
-
-### TnDagathBladeWhipHookBlueprint
-
-### TnDagathBladeWhipStringBlueprint
 
 ### ArchRailgunBlueprint
 
@@ -5981,7 +5965,7 @@ Successfully defend an Excavator without allowing it to run out of power.
 Place 1 decoration in your Orbiter.
 **Standing:** 1000 | **Required:** 1
 
-### Builder’s Touch
+### Builder's Touch
 Claim an item from your Foundry.
 **Standing:** 1000 | **Required:** 1
 
@@ -10753,7 +10737,7 @@ Heirs to the legacy of Albrecht Entrati, his powerful Orokin family encountered 
 | 1 | STRANGER | 5000 |
 
 ## Necraloid
-While the Entrati family's cohort of lethal Necramechs succumbed to the corrupting influence of Deimos, Loid's shielding kept him sane, as well as preserving what was left of his ‘passenger', the Cephalon Otak. Together they maintain a proud tradition of loyal service.
+While the Entrati family's cohort of lethal Necramechs succumbed to the corrupting influence of Deimos, Loid's shielding kept him sane, as well as preserving what was left of his 'passenger', the Cephalon Otak. Together they maintain a proud tradition of loyal service.
 
 ### Ranks
 | Rank | Title | Standing |

@@ -1,16 +1,22 @@
 /**
- * transform.js — Converts all pulled Warframe JSON data into
- * Spark AI-readable Markdown documentation files.
+ * transform.js - Converts all pulled Warframe JSON data into
+ * Markdown documentation tuned for Google Gemma 4 ingestion.
  *
  * Run after pull.js:  npm run transform
  *
  * Output: docs/  (one .md per topic, structured for AI consumption)
  *
- * Design:
- *  - Each file has a front-matter header with title + description
- *  - Natural-language sentences + tables instead of raw JSON
- *  - Every item gets its name, description, and all relevant stats
- *  - Modular: each converter is a function; add new ones at the bottom
+ * Design (Gemma 4 targeted):
+ *  - ASCII only. No unicode bullets, no exotic glyphs.
+ *  - Each file opens with a single # heading + one-paragraph description so
+ *    Gemma's retriever can score the file against a query in one read.
+ *  - Each item is a ## heading; stats live on a single inline line of
+ *    `Key: value | Key: value` pairs (token-efficient and easy for a small
+ *    model to extract verbatim).
+ *  - Tables for repeated structure (drops, recipes, comparisons).
+ *  - Wiki narrative is cleaned aggressively (cleanWiki) to remove sections
+ *    Gemma cannot use: Patch History, Gallery, Maximization, See Also.
+ *  - Modular: each converter is a flat function; add new ones at the bottom.
  */
 
 const fs = require('fs');
@@ -223,6 +229,34 @@ function getWiki(name) {
   return cleanWiki(_wikiEnrich[name] || '', name);
 }
 
+// Split a cleaned wiki blob into { acquisition, drops, rest }.
+// Promotes `**Acquisition:**` and `**Wiki Drop Sources:**` blocks out of the
+// Wiki section so the AI sees them as structured top-level data, alongside
+// the items-JSON drop tables.
+function splitWikiSections(wiki) {
+  if (!wiki) { return { acquisition: '', drops: '', rest: '' }; }
+  var out = { acquisition: '', drops: '', rest: '' };
+  var lines = wiki.split('\n');
+  var current = 'rest';
+  var buckets = { rest: [], acquisition: [], drops: [] };
+  for (var i = 0; i < lines.length; i++) {
+    var ln = lines[i];
+    if (/^\*\*Acquisition:\*\*\s*$/.test(ln)) { current = 'acquisition'; continue; }
+    if (/^\*\*Wiki Drop Sources:\*\*\s*$/.test(ln)) { current = 'drops'; continue; }
+    // Any other bold-label header ends a special section
+    if (/^\*\*[A-Za-z][A-Za-z ]+:\*\*\s*$/.test(ln) && current !== 'rest') {
+      current = 'rest';
+      buckets.rest.push(ln);
+      continue;
+    }
+    buckets[current].push(ln);
+  }
+  out.acquisition = buckets.acquisition.join('\n').trim();
+  out.drops = buckets.drops.join('\n').trim();
+  out.rest = buckets.rest.join('\n').replace(/\n{3,}/g, '\n\n').trim();
+  return out;
+}
+
 function formatDrop(d) {
   return `${d.location} (${pct(d.chance)})`;
 }
@@ -272,7 +306,9 @@ function transformWarframes() {
     md += `## ${wf.name}\n`;
     if (wf.description) { md += `${stripTags(wf.description)}\n`; }
     var wikiWf = getWiki(wf.name);
-    if (wikiWf) { md += `\n### Wiki\n${wikiWf}\n`; }
+    var wfWikiParts = splitWikiSections(wikiWf);
+    if (wfWikiParts.acquisition) { md += `\n### Acquisition\n${wfWikiParts.acquisition}\n`; }
+    if (wfWikiParts.rest) { md += `\n### Wiki\n${wfWikiParts.rest}\n`; }
 
     // Stats (inline)
     var wfStats = [];
@@ -355,7 +391,9 @@ function transformWeapons() {
       md += `## ${w.name}\n`;
       if (w.description) { md += `${stripTags(w.description)}\n`; }
       var wikiW = getWiki(w.name);
-      if (wikiW) { md += `\n### Wiki\n${wikiW}\n`; }
+      var wWikiParts = splitWikiSections(wikiW);
+      if (wWikiParts.acquisition) { md += `\n### Acquisition\n${wWikiParts.acquisition}\n`; }
+      if (wWikiParts.rest) { md += `\n### Wiki\n${wWikiParts.rest}\n`; }
 
       // General info
       const meta = [];
@@ -421,8 +459,6 @@ function transformMods() {
     seenM.add(m.name);
     md += `## ${m.name}\n`;
     if (m.description) { md += `${stripTags(m.description)}\n`; }
-    var wikiM = getWiki(m.name);
-    if (wikiM) { md += `\n### Wiki\n${wikiM}\n`; }
 
     const meta = [];
     if (m.rarity) { meta.push(`**Rarity:** ${m.rarity}`); }
@@ -434,6 +470,12 @@ function transformMods() {
     if (m.fusionLimit != null) { meta.push(`**Max Rank:** ${m.fusionLimit}`); }
     if (meta.length) { md += meta.join(' | ') + '\n'; }
     md += '\n';
+
+    var wikiM = getWiki(m.name);
+    var wmParts = splitWikiSections(wikiM);
+    if (wmParts.acquisition) {
+      md += `### Acquisition\n${wmParts.acquisition}\n\n`;
+    }
 
     // Level stats
     if (m.levelStats && m.levelStats.length) {
@@ -452,6 +494,16 @@ function transformMods() {
         md += `- ${d.location} — ${d.rarity || ''} (${pct(d.chance)})\n`;
       }
       md += '\n';
+    }
+
+    // Wiki drop sources (extracted earlier) — when items-JSON drops are empty
+    if (wmParts.drops && (!m.drops || !m.drops.length)) {
+      md += `### Drop Locations (Wiki)\n${wmParts.drops}\n\n`;
+    }
+
+    // Remaining wiki content (notes, tips, trivia, mechanics)
+    if (wmParts.rest) {
+      md += `### Wiki\n${wmParts.rest}\n\n`;
     }
   }
 
@@ -476,9 +528,13 @@ function transformArcanes() {
     seenA.add(a.name);
     md += `## ${a.name}\n`;
     if (a.description) { md += `${stripTags(a.description)}\n`; }
-    var wikiA = getWiki(a.name);
-    if (wikiA) { md += `\n### Wiki\n${wikiA}\n`; }
     md += '\n';
+
+    var wikiA = getWiki(a.name);
+    var waParts = splitWikiSections(wikiA);
+    if (waParts.acquisition) {
+      md += `### Acquisition\n${waParts.acquisition}\n\n`;
+    }
 
     if (a.levelStats && a.levelStats.length) {
       md += '### Stats by Rank\n';
@@ -495,6 +551,14 @@ function transformArcanes() {
         md += `- ${d.location} — ${d.type || ''} (${pct(d.chance)})\n`;
       }
       md += '\n';
+    }
+
+    if (waParts.drops && (!a.drops || !a.drops.length)) {
+      md += `### Drop Sources (Wiki)\n${waParts.drops}\n\n`;
+    }
+
+    if (waParts.rest) {
+      md += `### Wiki\n${waParts.rest}\n\n`;
     }
   }
 
@@ -521,7 +585,9 @@ function transformCompanions() {
     md += `## ${c.name}\n`;
     if (c.description) { md += `${stripTags(c.description)}\n`; }
     var wikiC = getWiki(c.name);
-    if (wikiC) { md += `\n### Wiki\n${wikiC}\n`; }
+    var cWikiParts = splitWikiSections(wikiC);
+    if (cWikiParts.acquisition) { md += `\n### Acquisition\n${cWikiParts.acquisition}\n`; }
+    if (cWikiParts.rest) { md += `\n### Wiki\n${cWikiParts.rest}\n`; }
 
     var cStats = [];
     if (c.health != null) { cStats.push(`Health: ${c.health}`); }
@@ -560,7 +626,9 @@ function transformArchwings() {
     md += `## ${a.name}\n`;
     if (a.description) { md += `${stripTags(a.description)}\n`; }
     var wikiAw = getWiki(a.name);
-    if (wikiAw) { md += `\n### Wiki\n${wikiAw}\n`; }
+    var awWikiParts = splitWikiSections(wikiAw);
+    if (awWikiParts.acquisition) { md += `\n### Acquisition\n${awWikiParts.acquisition}\n`; }
+    if (awWikiParts.rest) { md += `\n### Wiki\n${awWikiParts.rest}\n`; }
 
     var aStats = [];
     if (a.health != null) { aStats.push(`Health: ${a.health}`); }
@@ -963,7 +1031,9 @@ function transformMiscItems() {
       md += `## ${item.name}\n`;
       if (item.description) { md += `${stripTags(item.description)}\n`; }
       var wikiItem = getWiki(item.name);
-      if (wikiItem) { md += `\n### Wiki\n${wikiItem}\n`; }
+      var itemWikiParts = splitWikiSections(wikiItem);
+      if (itemWikiParts.acquisition) { md += `\n### Acquisition\n${itemWikiParts.acquisition}\n`; }
+      if (itemWikiParts.rest) { md += `\n### Wiki\n${itemWikiParts.rest}\n`; }
 
       const meta = [];
       if (item.type) { meta.push(`**Type:** ${item.type}`); }
@@ -1429,7 +1499,9 @@ function transformEnemies() {
     md += `## ${e.name}\n`;
     if (e.description) { md += `${stripTags(e.description)}\n`; }
     var wikiE = getWiki(e.name);
-    if (wikiE) { md += `\n### Wiki\n${wikiE}\n`; }
+    var eWikiParts = splitWikiSections(wikiE);
+    if (eWikiParts.acquisition) { md += `\n### Acquisition\n${eWikiParts.acquisition}\n`; }
+    if (eWikiParts.rest) { md += `\n### Wiki\n${eWikiParts.rest}\n`; }
 
     var eStats = [];
     if (e.health != null) { eStats.push(`Health: ${e.health}`); }
@@ -2082,12 +2154,12 @@ Pre-built text files combining all topics above, each ≤ 3 MB for easy upload t
 | [warframe-data-items.txt](warframe-data-items.txt) | Resources, Fish, Gear, Quests, Syndicates, Enemies, Star Chart |
 | [warframe-data-export.txt](warframe-data-export.txt) | Official DE Export: Warframes, Weapons, Mods, Recipes, Enemies, Factions, Regions |
 | [warframe-data-export-extended.txt](warframe-data-export-extended.txt) | Focus Schools, Dojo, Nightwave, Vendors, Achievements, Syndicates, Bounties |
-| [warframe-data-patchnotes-part1.txt](warframe-data-patchnotes-part1.txt) | Patch Notes (newest) |
-| [warframe-data-patchnotes-part2.txt](warframe-data-patchnotes-part2.txt) | Patch Notes (oldest) |
-| [warframe-data-wiki-lore.txt](warframe-data-wiki-lore.txt) | Wiki: Lore Characters, Factions |
-| [warframe-data-wiki-quests.txt](warframe-data-wiki-quests.txt) | Wiki: Quest Walkthroughs |
-| [warframe-data-wiki-mechanics.txt](warframe-data-wiki-mechanics.txt) | Wiki: Damage, Status Effects, Mechanics, Enemy Scaling |
-| [warframe-data-wiki-systems.txt](warframe-data-wiki-systems.txt) | Wiki: Open Worlds, Game Systems, Endgame, Companions, Modular Equipment |
+| [warframe-data-patchnotes.txt](warframe-data-patchnotes.txt) | Full Warframe patch note history |
+| [warframe-data-mastery-rank.txt](warframe-data-mastery-rank.txt) | Mastery Rank requirements and tests |
+| [warframe-data-lore.txt](warframe-data-lore.txt) | Wiki: Lore Characters, Factions |
+| [warframe-data-quests.txt](warframe-data-quests.txt) | Wiki: Quest Walkthroughs |
+| [warframe-data-mechanics.txt](warframe-data-mechanics.txt) | Wiki: Damage, Status Effects, Mechanics, Enemy Scaling |
+| [warframe-data-systems.txt](warframe-data-systems.txt) | Wiki: Open Worlds, Game Systems, Endgame, Companions, Modular Equipment |
 `;
 
   writeMd('README.md', md);

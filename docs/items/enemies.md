@@ -1206,15 +1206,16 @@ Health: 750 | Shield: 150 | Armor: 0 | Faction: Grineer
 ## Carrier
 Launches several locust drones
 
-### Wiki
-With 'Assault Mode' and 'Ammo Case' as default Precepts, Carrier is a seeker Sentinel. Carrier also comes with a shotgun weapon.
-Carrier is a utility Sentinel with the ability to convert ammunition and increase ammo capacity through its Ammo Case precept, and is equipped with its unique Sweeper shotgun featuring high stopping power. Looter allows it to target environmental objects for extra loot.
-**Acquisition:**
+### Acquisition
 Carrier's blueprint can be purchased from the Market.
 Note that acquiring Carrier requires two open Companion slots: one for Carrier itself and one for the Sweeper robotic weapon it comes with.
 Exclusive Precept mods
 List of Sentinel Mods
 Sentinel Loadouts
+
+### Wiki
+With 'Assault Mode' and 'Ammo Case' as default Precepts, Carrier is a seeker Sentinel. Carrier also comes with a shotgun weapon.
+Carrier is a utility Sentinel with the ability to convert ammunition and increase ammo capacity through its Ammo Case precept, and is equipped with its unique Sweeper shotgun featuring high stopping power. Looter allows it to target environmental objects for extra loot.
 **Notes:**
 The Carrier exclusive precept mod Striker no longer drops as of Update 24. It was replaced with the non-exclusive Assault Mode precept mod.
 Striker cannot be simultaneously equipped with Assault Mode.
@@ -1282,16 +1283,17 @@ Health: 80 | Shield: 0 | Armor: 0 | Faction: Infestation
 
 ## Chroma
 
+### Acquisition
+Chroma's main blueprint is rewarded upon completion of the quest The New Strange. Component blueprints are awarded by completing Junctions: The Neuroptics from the Uranus Junction, the Chassis from the Neptune Junction, and the Systems from the Pluto Junction. Additional blueprints can be bought from Cephalon Simaris; 25,000 Standing for component blueprints and 50,000 Standing for main blueprint.
+Alternatively, upon completion of The Duviri Paradox, Chroma's main and component blueprints can be earned from The Circuit. By selecting him on the rotating week he is available, players can earn his blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Crafting
+
 ### Wiki
 Unleash the draconic. Chroma employs Heat, Electricity, Toxin, and Cold to deal high damage while maintaining survivability. Soar with winged fury.
 Lotus
 Release Date: March 19th, 2015
 Overwhelming his foes with fiery rage, shocking touch, venomous breath, or a cold embrace, the draconic hunter Chroma wields elemental caprice to reign supreme. Chroma awoke in Update 16.
 Chroma is a Warframe with draconic powers that commands Heat, Electricity, Toxin, and Cold both offensively and defensively. His Passive grants an additional double jump and bullet jump. Spectral Scream releases an elemental breath. Elemental Ward bestows an aura of elemental energy: Heat increases Health, Electricity increases Shields and discharges electric currents from received damage, Toxin increases Reload Speed and Holster Speed, and Cold increases Armor while reflecting damage. Vex Armor fortifies Chroma with Scorn from incoming shield damage or melee kill to increase armor and Fury from incoming health damage or ranged weapon kill to increase weapon damage. Effigy sheds his pelt to summon a sentry that autonomously releases elemental breath attacks while increasing Credits drop rate and yields.
-**Acquisition:**
-Chroma's main blueprint is rewarded upon completion of the quest The New Strange. Component blueprints are awarded by completing Junctions: The Neuroptics from the Uranus Junction, the Chassis from the Neptune Junction, and the Systems from the Pluto Junction. Additional blueprints can be bought from Cephalon Simaris; 25,000 Standing for component blueprints and 50,000 Standing for main blueprint.
-Alternatively, upon completion of The Duviri Paradox, Chroma's main and component blueprints can be earned from The Circuit. By selecting him on the rotating week he is available, players can earn his blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
-Crafting
 Health: 2000 | Shield: 1000 | Armor: 200 | Faction: Infestation
 
 ### Drops
@@ -4501,6 +4503,9 @@ Health: 4500 | Shield: 0 | Armor: 300 | Faction: Infestation
 ## Kavat
 Feral Kavat
 
+### Acquisition
+To begin, all Kavats will first need a Companion Slot (which can be bought for 12 for 2 slots) to grow and mature before being usable in missions and will permanently occupy one Companion Slot. In the event that a player wishes to permanently remove a Kavat from their possession, such as due to the lack of vacant Companion Slots, the Kavat can be consigned to the Lotus for 25,000, freeing up their Companion Slot.
+
 ### Wiki
 Kavats are terrain-restricted melee feline companions similar to Kubrows. They also have different breeds, color palettes, and patterns. There are currently 3 types of Kavats.
 Lore
@@ -4515,8 +4520,6 @@ While Venari is alive, Khora passively gains a movement speed boost. If Venari i
 intro
 intro
 intro
-**Acquisition:**
-To begin, all Kavats will first need a Companion Slot (which can be bought for 12 for 2 slots) to grow and mature before being usable in missions and will permanently occupy one Companion Slot. In the event that a player wishes to permanently remove a Kavat from their possession, such as due to the lack of vacant Companion Slots, the Kavat can be consigned to the Lotus for 25,000, freeing up their Companion Slot.
 Health: 300 | Shield: 0 | Armor: 175 | Faction: Neutral
 
 ### Drops
@@ -4642,6 +4645,9 @@ Health: 1000 | Shield: 0 | Armor: 50 | Faction: Neutral
 ## Kubrow
 Feral Kubrow
 
+### Acquisition
+To begin, all Kubrows will first need a Companion Slot (which can be bought for 12 for 2 slots) to grow and mature before being usable in missions and will permanently occupy one Companion Slot. In the event that a player wishes to permanently remove a Kubrow from their possession, such as due to the lack of vacant Companion Slots, the Kubrow can be consigned to the Lotus for 25,000, freeing up their Companion Slot.
+
 ### Wiki
 Kubrows are terrain-restricted melee canine companions. Kubrows behave similarly to NPC allies (i.e. specters) as they will stay within close proximity of the player while fighting alongside them and will enter bleedout states when they are downed, from which they can be revived. Incubated Kubrows have variable permanent traits such as species, height, and eye color, as well as customizable features like fur color and fur pattern. There are currently 6 species of ownable Kubrows, each with different stats and abilities.
 Lore
@@ -4659,8 +4665,6 @@ intro
 intro
 intro
 intro
-**Acquisition:**
-To begin, all Kubrows will first need a Companion Slot (which can be bought for 12 for 2 slots) to grow and mature before being usable in missions and will permanently occupy one Companion Slot. In the event that a player wishes to permanently remove a Kubrow from their possession, such as due to the lack of vacant Companion Slots, the Kubrow can be consigned to the Lotus for 25,000, freeing up their Companion Slot.
 Health: 200 | Shield: 0 | Armor: 50 | Faction: Neutral
 
 ### Drops
@@ -7380,7 +7384,6 @@ Alerted Shield Ospreys can link to nearby allies and cause them to become alerte
 Enemies shielded by the Ospreys become sources of radial damage for Mag's Polarize.
 A Shock Eximus Specter is one of the offerings from Cephalon Suda at 5 for 2,500 reputation. It offers the same shield effects with a bonus of emitted occasional pulses which instantly recharge shielding. They are also armed with a laser rifle that fires gold bolts, similar to those wielded by Scavenger Drones.
 Shield Ospreys, like all Ospreys save the Raptors, spill blood or a blood-like substance when shot at.
-24
 Health: 35 | Shield: 50 | Armor: 0 | Faction: Corpus
 
 ### Drops
@@ -7944,7 +7947,6 @@ Deploys a Lynx Turret when alerted.
 Two Terra Jailers will be guarding the prisoners when the players reach the objective.
 During the course of the bounty, these units will periodically be flown in by Condor Dropships and attempt to reach the console and reverse the hacking process.
 If killed, they will drop a Data Key that advances the hacking timer when picked up.
-24
 Health: 600 | Shield: 500 | Armor: 0 | Faction: Corpus
 
 ### Drops

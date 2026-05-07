@@ -123,6 +123,9 @@ Crit Chance: 30.00% | Crit Multiplier: 2.4x | Status Chance: 16.70% | Fire Rate:
 ## Corvas
 When fully charged, this flak cannon delivers a devastating shot. Perfect for taking down fast-moving interceptors.
 
+### Acquisition
+The Corvas's blueprint can be purchased from the Market. Its parts can be purchased from various Syndicates. All parts, except for the blueprint, are tradeable.
+
 ### Wiki
 Tenno
 When fully charged, this flak-cannon delivers a devastating shot. Perfect for taking down fast-moving interceptors.
@@ -145,8 +148,6 @@ Fully charged shots cause a heavy recoiling effect that breaks zoom and knockbac
 Low overall status chance.
 Short maximum effective range even with charged shot.
 Corvas Prime
-**Acquisition:**
-The Corvas's blueprint can be purchased from the Market. Its parts can be purchased from various Syndicates. All parts, except for the blueprint, are tradeable.
 **Notes:**
 In Archwing mode, Corvas fires a wide energy projectile, similar to the Arca Plasmor. In Atmospheric mode, it functions like a shotgun, and fires hit-scan pellets.
 **Tips:**
@@ -214,6 +215,9 @@ Crit Chance: 56.00% | Crit Multiplier: 3x | Status Chance: 20.00% | Fire Rate: 2
 ## Cyngas
 Unload deadly accurate bursts of mayhem.
 
+### Acquisition
+The Cyngas's blueprint can be purchased from the Market. Its parts can be purchased from various Syndicates. All parts, except for the blueprint, are tradeable.
+
 ### Wiki
 Tenno
 Unload deadly accurate bursts of mayhem.
@@ -223,8 +227,6 @@ This weapon deals an almost even amount of Slash, Puncture and Impact damage.
 Good ammo efficiency, generating relatively small cooldown for the Archgun Deployer for every second fired.
 Short reload delay of 0.25 seconds in Archwing.
 Fastest reload speed of all Archguns in Atmospheric mode.
-**Acquisition:**
-The Cyngas's blueprint can be purchased from the Market. Its parts can be purchased from various Syndicates. All parts, except for the blueprint, are tradeable.
 **Trivia:**
 Cyngas appears to be derived from Cygnus, a constellation visible in the Northern Hemisphere that resembles a swan. The "fins" near the Archgun's upper handle resemble the wings of the constellation in question. The word "cygnus" itself the Latin word for "swan".
 The Cyngas is the first Archwing Auto Burst-fire weapon, and the first Auto Burst trigger weapon in the game overall.
@@ -249,6 +251,9 @@ Crit Chance: 20.00% | Crit Multiplier: 2.2x | Status Chance: 30.00% | Fire Rate:
 ## Dual Decurion
 Delivering twin streams of highly accurate, rapid-fire ordnance, the Decurion are specifically designed for combat in the vacuum of space.
 
+### Acquisition
+The Dual Decurion's blueprint can be purchased from the Market. Its parts can be purchased from various Syndicates. All parts, except for the blueprint, are tradeable.
+
 ### Wiki
 Tenno
 Delivering twin streams of highly accurate, rapid-fire ordnance, the Decurion are specifically designed for combat in the vacuum of space.
@@ -260,8 +265,6 @@ Short reload delay of 0.25 seconds in Archwing mode.
 Tied with Prisma Dual Decurions for the second fastest reload speed of all Archguns in Atmospheric mode, behind Cyngas.
 Has notable recoil which throws off accuracy at medium-long range shooting.
 Prisma Dual Decurions
-**Acquisition:**
-The Dual Decurion's blueprint can be purchased from the Market. Its parts can be purchased from various Syndicates. All parts, except for the blueprint, are tradeable.
 **Notes:**
 Despite the appearance of its shots, the Dual Decurion is a hitscan weapon by default.
 Starting from Update 27, all hitscan Archwing weapons are converted to projectile when in space. Such weapons (Dual Decurion included) still retain their hitscan properties while deployed in ground missions with an Archgun Deployer.
@@ -290,6 +293,9 @@ Crit Chance: 28.00% | Crit Multiplier: 2.2x | Status Chance: 14.00% | Fire Rate:
 ## Fluctus
 An Archwing energy weapon that sends waves of deadly plasma crashing into enemies.
 
+### Acquisition
+The Fluctus's blueprint can be researched from the Tenno Lab in the dojo. Its parts can be purchased from various Syndicates. All parts, except for the blueprint, are tradeable.
+
 ### Wiki
 Weapons
 An Archwing energy weapon that sends waves of deadly plasma crashing into enemies.
@@ -303,8 +309,6 @@ Projectiles have travel time.
 Limited range of 450 meters in Archwing mode.
 Limited range of 55 meters in Atmospheric mode.
 Innate Naramon polarity.
-**Acquisition:**
-The Fluctus's blueprint can be researched from the Tenno Lab in the dojo. Its parts can be purchased from various Syndicates. All parts, except for the blueprint, are tradeable.
 **Notes:**
 The Fluctus' large projectile hitbox makes it a good mid-ranged crowd-control weapon especially when doing Archwing Interception and Defense missions as enemies come in in waves.
 The Fluctus' projectiles also bypass the barriers protecting Shield Dargyns (and their Hellion counterparts) from front attacks, giving the weapon an edge over most Archguns when dealing with such units.
@@ -329,6 +333,9 @@ Crit Chance: 22.00% | Crit Multiplier: 2x | Status Chance: 16.00% | Fire Rate: 5
 ## Grattler
 Shatter your targets with explosive shells from this devastating Archwing cannon.
 
+### Acquisition
+The Grattler's blueprint can be researched from the Chem Lab in the dojo.
+
 ### Wiki
 Grineer
 Shatter your targets with explosive shells from this devastating Archwing cannon.
@@ -350,8 +357,6 @@ Explosion inflict self-stagger.
 Explosion has a headshot multiplier of 1x and cannot trigger headshot conditions.
 Explosion has linear damage falloff from 100% to 30% from central impact.
 Kuva Grattler
-**Acquisition:**
-The Grattler's blueprint can be researched from the Chem Lab in the dojo.
 **Type:** Arch-Gun | **Mastery Req:** 4 | **Riven Disposition:** 3
 
 ### Projectile Impact
@@ -374,6 +379,10 @@ Crit Chance: 25.00% | Crit Multiplier: 2x | Status Chance: 25.00% | Fire Rate: 6
 ## Imperator
 A long range rifle capable of firing in space, the Imperator's versatility makes it an ideal weapon for space combat.
 
+### Acquisition
+A built Imperator is automatically acquired upon claiming the Odonata Archwing from the Foundry during The Archwing quest.
+Additional blueprints can be bought from Cephalon Simaris for 100,000 Standing.
+
 ### Wiki
 Tenno
 A long range rifle capable of firing in space,the Imperator's versatility makes it an ideal weapon for space combat.
@@ -388,9 +397,6 @@ Archwing:
 Has linear damage falloff from 100% to ?% from 100m to 350m target distance (distances are affected by Projectile Speed).
 Slow ammo regeneration rate relative to magazine size.
 Imperator Vandal
-**Acquisition:**
-A built Imperator is automatically acquired upon claiming the Odonata Archwing from the Foundry during The Archwing quest.
-Additional blueprints can be bought from Cephalon Simaris for 100,000 Standing.
 **Notes:**
 Unlike most primary weapons in the game, Archwing Guns do not have a reserve ammo pool, nor do they need to reload. The Imperator will automatically replenish its magazine's ammo at a fast rate when the weapon is not fired, making it the first weapon in the game that does not require ammo pickups.
 Despite its shots being shown as slow and even having bullet drift, the Imperator is a hit-scan weapon, and will immediately hit the enemy within its reticle regardless of distance or the appearance of the bullets it fires. As a side-effect, the Imperator can be used to snipe targets at distances of 2,000 meters or more. However, take note that the Imperator's damage falloff weakens it when attempting to engage enemies from beyond 2,000 meters to the point of dealing no damage per shot.
@@ -454,6 +460,9 @@ Crit Chance: 28.00% | Crit Multiplier: 2.4x | Status Chance: 12.00% | Fire Rate:
 ## Kuva Ayanga
 Sweep aside hordes of enemies with flaming fury of this powerful, automatic, grenade launching archgun.
 
+### Acquisition
+Adversary System/Weapons#Kuva Acquisition
+
 ### Wiki
 Grineer
 Sweep aside hordes of enemies with the flaming fury of this powerful automatic grenade launcher.
@@ -478,8 +487,6 @@ Explosion has a headshot multiplier of 1x and cannot trigger headshot conditions
 Explosion has linear Damage Falloff from:
 100% to 70% from central impact in Archwing mode.
 100% to 50% from central impact in Atmospheric mode.
-**Acquisition:**
-Adversary System/Weapons#Kuva Acquisition
 **Notes:**
 Adversary System#Notes
 Adversary System/Progenitor
@@ -755,6 +762,9 @@ Crit Chance: 40.00% | Crit Multiplier: 3x | Status Chance: 50.00% | Fire Rate: 0
 ## Phaedra
 Devastate free-space enemies with Phaedra, the Soma's big-sister.
 
+### Acquisition
+The Phaedra's blueprint can be purchased from the Market. Its parts can be purchased from various Syndicates, with the receiver also being rare drop from Archwing Exterminate on Montes, Venus and Syrtis, Mars. All parts, except for the blueprint, are tradeable.
+
 ### Wiki
 Tenno
 Devastate free-space enemies with Phaedra, the Soma's big-sister.
@@ -770,8 +780,6 @@ Has linear damage falloff from 100% to ?% from 100m to 350m target distance (dis
 Slow ammo regeneration rate relative to magazine size.
 Requires a spool-up of 11 shots before optimal fire rate is achieved.
 Fire rate starts at 50% of the listed value, and increases by 5% per shot.
-**Acquisition:**
-The Phaedra's blueprint can be purchased from the Market. Its parts can be purchased from various Syndicates, with the receiver also being rare drop from Archwing Exterminate on Montes, Venus and Syrtis, Mars. All parts, except for the blueprint, are tradeable.
 **Notes:**
 In contrast to the Soma, Phaedra has stats that favor status chance, instead of utilizing critical chance and critical multiplier, a trait the Soma is known for.
 **Trivia:**
@@ -794,6 +802,10 @@ Crit Chance: 14.00% | Crit Multiplier: 2x | Status Chance: 30.00% | Fire Rate: 1
 ## Prisma Dual Decurions
 Colder than space and less forgiving, Prisma crystals bring elite efficiency to the already sleek Dual Decurion. Requiring the lightest of touches to reload, these twin archguns prove that heavy weaponry can still possess elegance.
 
+### Acquisition
+The Prisma Dual Decurions is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 175,000 and 525. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
+The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed.
+
 ### Wiki
 Tenno
 Colder than space and less forgiving, Prisma crystals bring elite efficiency to the already sleek Dual Decurion. Requiring the lightest of touches to reload, these twin archguns prove that heavy weaponry can still possess elegance.
@@ -806,9 +818,6 @@ Short reload delay of 0.25 seconds in Archwing mode.
 Tied with Dual Decurion for the second fastest reload speed of all Archguns in Atmospheric mode, behind Cyngas.
 Has notable recoil which throws off accuracy at medium-long range shooting.
 Dual Decurion
-**Acquisition:**
-The Prisma Dual Decurions is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 175,000 and 525. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
-The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed.
 **Trivia:**
 When used by Necramechs, instead of dual wielding it only uses a single Decurion.
 **Type:** Arch-Gun | **Mastery Req:** 1 | **Riven Disposition:** 4
@@ -819,6 +828,9 @@ Crit Chance: 30.00% | Crit Multiplier: 2.2x | Status Chance: 24.00% | Fire Rate:
 
 ## Velocitus
 When fully charged, the magnetized barrel of the Velocitus accelerates a metal slug to tremendous speeds, piercing hulls and obliterating armor.
+
+### Acquisition
+The Velocitus's blueprint can be researched from the Tenno Lab in the dojo. Its parts can be purchased from various Syndicates. All parts, except for the blueprint, are tradeable.
 
 ### Wiki
 Weapons
@@ -840,8 +852,6 @@ Shots that are not fully charged will always deal the same damage no matter how 
 Atmosphere:
 Fully charged shots cause a heavy recoiling effect that breaks zoom.
 Terrible ammo efficiency when spammed uncharged, generating very high cooldown for the Archgun Deployer for every second fired.
-**Acquisition:**
-The Velocitus's blueprint can be researched from the Tenno Lab in the dojo. Its parts can be purchased from various Syndicates. All parts, except for the blueprint, are tradeable.
 **Type:** Arch-Gun | **Riven Disposition:** 3
 
 ### Uncharged Shot

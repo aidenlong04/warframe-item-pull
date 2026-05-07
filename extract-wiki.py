@@ -203,18 +203,6 @@ def _resolve_templates(wikicode, page_title=""):
             pass
 
 
-def _strip_tables(wikicode):
-    """Remove MediaWiki tables (|...|) entirely. Wiki stat tables are noise
-    when AI-readable; structured data comes from items-Mods.json."""
-    for tag in list(wikicode.ifilter_tags(recursive=True)):
-        try:
-            tag_name = str(tag.tag).strip().lower()
-            if tag_name in ("gallery", "ref", "references"):
-                wikicode.remove(tag)
-        except (ValueError, AttributeError):
-            pass
-
-
 def clean_wikitext(raw, page_title=""):
     """Convert MediaWiki wikitext to clean plaintext for AI consumption."""
     # Pre-strip onlyinclude/noinclude/includeonly wrapper tags
@@ -311,6 +299,11 @@ def clean_wikitext(raw, page_title=""):
     text = re.sub(r" \.", ".", text)
     # Fix orphan "''" italics markers that survived
     text = text.replace("''", "")
+
+    # Drop orphan numeric-only lines (stranded image thumbnail widths like "220",
+    # "150", or page-numbers from collapsed wiki tables/galleries). A line that
+    # is nothing but digits carries no retrievable fact for the model.
+    text = re.sub(r"^\s*\d{1,4}(?:px)?\s*$", "", text, flags=re.MULTILINE)
 
     # Collapse excessive whitespace
     text = re.sub(r"[ \t]+", " ", text)

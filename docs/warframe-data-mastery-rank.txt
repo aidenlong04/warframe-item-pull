@@ -1,4 +1,7 @@
 # Mastery Rank
+FORMAT: Reference doc. ## sections cover earning rules, XP formula, and the full rank table (rank | name | XP req | total XP | test).
+INDEX: Earning Mastery Points | XP Formula | Mastery Rank Table
+
 Mastery Ranking (MR) tracks total content experienced. Points come from ranking equipment with Affinity, clearing nodes, Junctions, and Intrinsics. Ranks after MR30 are Legendary Ranks (LR).
 
 ## Earning Mastery Points
@@ -16,8 +19,8 @@ Variants (MK1, Prime, Vandal, Wraith, Prisma, Kuva, Tenet, etc.) count separatel
 Steel Path nodes/Junctions award mastery separately from normal mode.
 
 ## XP Formula
-Ranks 1-30: 2,500 × Rank² total XP required
-Legendary ranks: 2,250,000 + (147,500 × LR number)
+Ranks 1-30: 2,500 x Rank^2 total XP required
+Legendary ranks: 2,250,000 + (147,500 x LR number)
 
 ## Mastery Rank Table
 | Rank Name | Rank | Next Rank Req | Total XP | Test |

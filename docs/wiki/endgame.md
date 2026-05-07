@@ -87,40 +87,8 @@ Steel Essence
 Steel Essence is used to buy items in The Steel Path Honors shop from Teshin in any Relay.
 Some evergreen offerings have weekly purchase limits: the Veiled Riven Cipher can only be purchased once per week, while Kuva and the Void Relic Pack have a purchase limit of 25 per week.
 Teshin's Steel Path Honors shop - Evergreen Items
-20
-15
-25
-20
-25
-15
-15
-15
-15
-10
-3
-85
-35
-35
-15
-15
-50
-50
-50
-50
-25
-15
-15
-15
 Teshin's Steel Path Honors shop - Weekly Rotating Offer
 Only one reward is available per week and it can only be bought once that week. Every week, the 8 offerings will rotate from left to right, which takes 8 weeks for a full loop.
-150
-55
-75
-75
-75
-150
-75
-75
 Note: Click here and purge the page's cache if the above weekly item is wrong. You have to do this every week when the weekly reward changes, which is every Sunday midnight UTC time or when the countdown timer above reaches zero.
 The Circuit
 The Circuit has its own set of Steel Path rewards, most notably Incarnon Genesis adapters. Two out of five adapters are selectable per week and are awarded of The Circuit's 5th and 10th award tiers, one time per week.

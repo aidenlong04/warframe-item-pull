@@ -185,15 +185,16 @@ Aura: madurai
 ## Banshee
 Banshee’s call heralds death. She maintains crowd control and identifies enemy weak points with sonic attacks. Few can hold their position when struck by her force.
 
+### Acquisition
+Banshee's blueprints can be researched from the Tenno Lab in the Dojo.
+Crafting
+
 ### Wiki
 Banshee
 Lotus
 Release Date: March 18th, 2013
 Sophisticated acoustic powers enable Banshee to pinpoint enemy positions and weak spots, suppress gunfire sounds in her surrounding environment, and even emit trembling vibrations to topple her foes. Banshee debuted in Update 7.
 Banshee is a Warframe that relies on sound to control the battlefield. Her Passive silences all weapons. Sonic Boom releases a sonic shockwave. Sonar applies an enemy Radar and debuffs them with a highlighted spot that receives increased damage, while Silence releases a sound dampening aura that stuns enemies briefly, deaf to noise, and disables special abilities. Sound Quake has Banshee plant her hands on the ground to stagger enemies with ultrasonic reverberations.
-**Acquisition:**
-Banshee's blueprints can be researched from the Tenno Lab in the Dojo.
-Crafting
 **Trivia:**
 The name Banshee comes from the Irish mythological creature which wails loudly if someone is about to die. This corresponds to the Warframe's powers as she is based on sound.
 Banshee was originally developed under the name Decree and is still referred to as as such internally in the game files.
@@ -280,16 +281,17 @@ Aura: madurai
 ## Baruuk
 Beware the fury of the truly patient. Baruuk boasts survivability and crowd control. Pushed beyond his restraint, he unleashes the storm within.
 
+### Acquisition
+Baruuk's blueprints can be purchased from Little Duck of Vox Solaris. The main blueprint requires players to be at Rank 2 - Agent, while component blueprints require Rank 3 - Hand. Each blueprint costs 5,000 Standing Standing, totaling to 20,000 Standing.
+Alternatively, upon completion of The Duviri Paradox, Baruuk's main and component blueprints can be earned from The Circuit. By selecting him on the rotating week he is available, players can earn his blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Crafting
+
 ### Wiki
 Beware the fury of the truly patient. Baruuk boasts survivability and crowd control. Pushed beyond restraint, he unleashes the storm within.
 Lotus
 Release Date: December 18th, 2018
 Virtuously guided by his noble discipline, the pacifist monk Baruuk invokes sacred runes to evade conflict and bring blissful calm to endless strife. Reach beyond the brink of his patience, for foes to seek eternal rest within the storm unleashed. Baruuk reached enlightenment in Update 24.2.
 Baruuk is a pacifistic Warframe with incredible Damage Reduction and can distort enemies peacefully, yet his affinity for violence grows as his restraint wanes. His Passive builds Restraint from abilities that increases Damage Reduction. Elude enters a stance that has enemy attacks harmlessly pass through him as long as Baruuk does not attack. Lull releases a calming wave that puts enemies to sleep. Desolate Hands summons daggers that provide Damage Reduction and seek enemies to Disarmed their weapons. When his Restraint is eroded, Baruuk can summon the Serene Storm to unveil the Desert Wind fists while also further increasing Damage Reduction.
-**Acquisition:**
-Baruuk's blueprints can be purchased from Little Duck of Vox Solaris. The main blueprint requires players to be at Rank 2 - Agent, while component blueprints require Rank 3 - Hand. Each blueprint costs 5,000 Standing Standing, totaling to 20,000 Standing.
-Alternatively, upon completion of The Duviri Paradox, Baruuk's main and component blueprints can be earned from The Circuit. By selecting him on the rotating week he is available, players can earn his blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
-Crafting
 Health: 180 | Shield: 270 | Armor: 185 | Energy: 200 | Sprint: 1.2
 Aura: naramon
 
@@ -360,13 +362,7 @@ Aura: naramon
 ## Bonewidow
 This fearsome Necramech, fashioned in honor of the Entrati matriarch, is a robust front-line fighter. Favoring armor and health over shield strength, Bonewidow can grab and hurl enemies, deploy a heavy shield for personal defense, and cleave through opposing ranks with a massive warblade.
 
-### Wiki
-Health class of shield? Similar to Rhino's Iron Skin?
-This fearsome Necramech, fashioned in honor of the Entrati matriarch, is a robust front-line fighter. Favoring armor and health over shield strength, Bonewidow can grab and hurl enemies, deploy a heavy shield for personal defense, and cleave through opposing ranks with a massive warblade.
-Father
-The Bonewidow is a heavily armored, melee-oriented Necramech, armed with its signature tower shield and exalted heavy sword to engage enemies in close quarters combat.
-Bonewidow is a shield warrior designed for defense. Meathook skewers an enemy to damage it over time while providing Life Steal and can be thrown as a living projectile. Shield Maiden raises her shield to block and reflect damage. Firing Line emits two beams that converge to group enemies while applying Lifted and Damage Vulnerability. Exalted Ironbride summons her Ironbride Archmelee to cleave the battlefield.
-**Acquisition:**
+### Acquisition
 Component blueprints for the Bonewidow are available for 3,500 Standing from the Necraloid Syndicate at Rank 2 - Clearance: Modus, while the main Bonewidow blueprint is available for 10,000 Standing at Rank 3 Clearance - Odima rank.
 Crafting the components additionally requires:
 Rank 1 - Outworlder with Solaris United to acquire Goblite Tears
@@ -375,6 +371,13 @@ Rank 2 - Acquaintance with the Entrati to acquire Thaumic Distillate, Adramal Al
 (Optional) Rank 4 - Friend with the Entrati to be able to buy the Processed Vome Residue bait needed to fish for the Myxostomata for its Cranial Foremount
 Cranial Foremount can also be randomly dropped from Requiem Obelisks on the Cambion Drift
 Damaged Necramech components are dropped by enemy Necramechs that appear in Isolation Vault Bounties or purchased from Father.
+
+### Wiki
+Health class of shield? Similar to Rhino's Iron Skin?
+This fearsome Necramech, fashioned in honor of the Entrati matriarch, is a robust front-line fighter. Favoring armor and health over shield strength, Bonewidow can grab and hurl enemies, deploy a heavy shield for personal defense, and cleave through opposing ranks with a massive warblade.
+Father
+The Bonewidow is a heavily armored, melee-oriented Necramech, armed with its signature tower shield and exalted heavy sword to engage enemies in close quarters combat.
+Bonewidow is a shield warrior designed for defense. Meathook skewers an enemy to damage it over time while providing Life Steal and can be thrown as a living projectile. Shield Maiden raises her shield to block and reflect damage. Firing Line emits two beams that converge to group enemies while applying Lifted and Damage Vulnerability. Exalted Ironbride summons her Ironbride Archmelee to cleave the battlefield.
 Health: 1880 | Shield: 430 | Armor: 480 | Energy: 175
 
 ### Abilities
@@ -478,16 +481,17 @@ Aura: naramon
 ## Chroma
 Unleash the draconic. Chroma employs Heat, Electricity, Toxin, and Cold to deal high damage while maintaining survivability. Soar with winged fury.
 
+### Acquisition
+Chroma's main blueprint is rewarded upon completion of the quest The New Strange. Component blueprints are awarded by completing Junctions: The Neuroptics from the Uranus Junction, the Chassis from the Neptune Junction, and the Systems from the Pluto Junction. Additional blueprints can be bought from Cephalon Simaris; 25,000 Standing for component blueprints and 50,000 Standing for main blueprint.
+Alternatively, upon completion of The Duviri Paradox, Chroma's main and component blueprints can be earned from The Circuit. By selecting him on the rotating week he is available, players can earn his blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Crafting
+
 ### Wiki
 Unleash the draconic. Chroma employs Heat, Electricity, Toxin, and Cold to deal high damage while maintaining survivability. Soar with winged fury.
 Lotus
 Release Date: March 19th, 2015
 Overwhelming his foes with fiery rage, shocking touch, venomous breath, or a cold embrace, the draconic hunter Chroma wields elemental caprice to reign supreme. Chroma awoke in Update 16.
 Chroma is a Warframe with draconic powers that commands Heat, Electricity, Toxin, and Cold both offensively and defensively. His Passive grants an additional double jump and bullet jump. Spectral Scream releases an elemental breath. Elemental Ward bestows an aura of elemental energy: Heat increases Health, Electricity increases Shields and discharges electric currents from received damage, Toxin increases Reload Speed and Holster Speed, and Cold increases Armor while reflecting damage. Vex Armor fortifies Chroma with Scorn from incoming shield damage or melee kill to increase armor and Fury from incoming health damage or ranged weapon kill to increase weapon damage. Effigy sheds his pelt to summon a sentry that autonomously releases elemental breath attacks while increasing Credits drop rate and yields.
-**Acquisition:**
-Chroma's main blueprint is rewarded upon completion of the quest The New Strange. Component blueprints are awarded by completing Junctions: The Neuroptics from the Uranus Junction, the Chassis from the Neptune Junction, and the Systems from the Pluto Junction. Additional blueprints can be bought from Cephalon Simaris; 25,000 Standing for component blueprints and 50,000 Standing for main blueprint.
-Alternatively, upon completion of The Duviri Paradox, Chroma's main and component blueprints can be earned from The Circuit. By selecting him on the rotating week he is available, players can earn his blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
-Crafting
 Health: 270 | Shield: 270 | Armor: 370 | Energy: 175 | Sprint: 1
 Aura: madurai
 
@@ -626,13 +630,14 @@ Hold the ability to select the Elemental Damage type.
 ## Dagath
 Never underestimate the power and wrath of sullen sadness. Dagath's malice deals high damage.
 
+### Acquisition
+Dagath's main and component blueprints are acquired from Dagath's Hollow within the Clan Dojo. Unlike most Clan Dojo rooms, Dagath does not require Research and can be acquired immediately following the room's construction.
+
 ### Wiki
 Never underestimate the power and wrath of sullen sadness. Dagath’s malice deals high damage.
 Release Date: October 18th, 2023
 By twilight crepuscule on Naberus Eve, when the damned revel in ritual while the bereaved beseech for seance, an autumn draught rattles these wretched bones. Unseal the haunted crypt of Dagath at your peril, lest her night mares plague the living. Awaken, oh mighty Hollow Rider, to bestride ye ghastly steeds. Ne'er do they dare forget the whirl of splintered spines, the vendetta of her untaken soul, and the vestige of Rakhali's spectral stampede. Dagath and her loyal steed rode into service in Update 34: Abyss of Dagath.
 The Warframe who had lost her face, Dagath roams to reap the souls of the living and deals significant damage. Her Passive has a chance to strengthen the recovery of Health Orbs and Energy Orbs. Wyrd Scythes launches projectiles that apply Viral status and Slow, while Doom curses enemies with a spectral sickle that stores damage received to be inflicted as an additional damage instance. Grave Spirit strengthens weapon Critical Damage and allows Dagath to negate death, during which slain enemies are guaranteed to drop Health Orbs. Rakhali's Cavalry summons phantom Kaithes that charge forward to remove enemy shields and armor.
-**Acquisition:**
-Dagath's main and component blueprints are acquired from Dagath's Hollow within the Clan Dojo. Unlike most Clan Dojo rooms, Dagath does not require Research and can be acquired immediately following the room's construction.
 Health: 566 | Shield: 150 | Armor: 125 | Energy: 175 | Sprint: 1.1
 Aura: zenurik
 
@@ -888,14 +893,15 @@ Health: 270 | Shield: 270 | Armor: 240 | Energy: 100 | Sprint: 1
 ## Excalibur Prime
 Excalibur Prime is the epitome of mobility and offense, and features the same abilities as Excalibur, but has unique mod polarities installed allowing for greater customization.
 
+### Acquisition
+Excalibur Prime was only obtainable by upgrading a Warframe account to Founders status of Hunter or greater, which is no longer available. He came with his own Warframe slot and was already augmented with an Orokin Reactor.
+The Founders' program closed on the 1st of November, 2013, as announced on the Warframe Forums. This closure is inclusive of pack upgrades.
+
 ### Wiki
 Excalibur Prime
 In-game Description
 Release Date: December 18th, 2012
 Excalibur Prime is the Primed variant of Excalibur, possessing higher armor and energy, as well as an additional Madurai polarity and a Madurai Aura polarity. Excalibur Prime is a Founders-exclusive Warframe released alongside Lato Prime and Skana Prime.
-**Acquisition:**
-Excalibur Prime was only obtainable by upgrading a Warframe account to Founders status of Hunter or greater, which is no longer available. He came with his own Warframe slot and was already augmented with an Orokin Reactor.
-The Founders' program closed on the 1st of November, 2013, as announced on the Warframe Forums. This closure is inclusive of pack upgrades.
 **Notes:**
 Excalibur Prime, compared to Excalibur:
 Higher Armor (315 vs. 240)
@@ -950,15 +956,16 @@ Aura: madurai
 ## Follie
 Follie, the merry, macabre Shadowgrapher, brings ink to life. Support her squad and control enemy crowds with a myriad of versatile sketches and tricks.
 
+### Acquisition
+Follie's main and component blueprints can be obtained from Rotation A of Follie's Hunt on Vesper Relay, Venus. Access requires completion of Chains of Harrow.
+Alternatively they can be purchased from Aspirant Zorba in any relay in exchange for Atramentum, awarded from Follie's Hunt. Each component blueprint requires 400 Resources and the main blueprint requires 1200 Resources, totaling 2400 Atramentum for the whole set.
+Crafting
+
 ### Wiki
 Follie, the merry, macabre Shadowgrapher, brings ink to life. Support her squad and control enemy crowds with a myriad of versatile sketches and tricks.
 Release Date: March 25th, 2026
 Visualize the cosmic canvas of existence in pitch-black viscosity. Paint opaque silhouettes from peculiar vignettes, depicted by the Shadowgrapher, Follie, with every brushstroke and blob. Ooze and daub the foolhardy in bloody inkblots, baffled by the buffoons dangled below bulbous balloons. Portray a lighthearted parody of reality, shaded in sombre melancholy, to inspire a tinge of madness through a viscid flood of effervescent sludge. Follie emerged from her illustrious painting in Update 42: The Shadowgrapher.
 Follie is an inkblots and painter-themed Warframe with a sad clown aesthetic. Her Passive has her abilities splash ink onto enemies, causing them to be Slow as well as create Health Orbs and Energy Orbs when slain. Forced Perspective repositions Follie with an inkblot pool while also becoming Invulnerable and cleanses Status Effects. Shadowgraph picturizes a variety of tools and equipment, often including mission-exclusive items. Self Portrait creates an inky clone of herself, granting Damage Reduction. Plein Air attaches enemies to balloons, causing them to harmlessly float upward while stripping their Armor and Shields, and popping the balloon drops them to the ground to inflict deadly fall damage.
-**Acquisition:**
-Follie's main and component blueprints can be obtained from Rotation A of Follie's Hunt on Vesper Relay, Venus. Access requires completion of Chains of Harrow.
-Alternatively they can be purchased from Aspirant Zorba in any relay in exchange for Atramentum, awarded from Follie's Hunt. Each component blueprint requires 400 Resources and the main blueprint requires 1200 Resources, totaling 2400 Atramentum for the whole set.
-Crafting
 **Notes:**
 When Follie wields her Signature Enkaus, its Alternate Fire applies Inkblot.
 Health: 485 | Shield: 225 | Armor: 325 | Energy: 175 | Sprint: 0.95
@@ -1331,14 +1338,15 @@ Aura: naramon
 ## Grendel
 Grendel sees every battlefield as a smorgasbord. His insatiable appetite rewards him with high survivability. Enemies will be eaten. And regurgitated.
 
+### Acquisition
+Grendel's main blueprint can be purchased from the Market. Grendel's component blueprints are awarded by completing certain missions on Europa using Locators, which can be purchased from the Arbitration Honors vendor found in any Relay for 25 Vitus Essence each.
+
 ### Wiki
 Grendel sees every battlefield as a smorgasbord. His insatiable appetite rewards him with high survivability. Enemies will be eaten. And regurgitated.
 Lotus
 Release Date: October 31st, 2019
 Indulge amid the stench of battle as Grendel the voracious gourmand, greedily swallowing armies whole into his fathomless maw. Corpulent and courageous, he consumes prey to invigorate kindred warriors, or disgorges the eaten out drenched in putrid acidic bile. Stampede through strongholds as a spherical menace, leaving cadavers in the wake crushed by his thunderous quake. Grendel's feeding frenzy began in Update 26: The Old Blood.
 Grendel is a Warframe that devours his foes to increase his survivability. His Passive increases his Armor while enemies are engorged in his stomach. Feast inhales enemies into his mass and can hurl them out as Toxin bile. Nourish digests victims in his stomach to recover Health and buffs him and his allies with extra Energy from all sources, Viral weapon damage, and a protective shroud that triggers an explosive Viral pulse when receiving damage. Pulverize transforms Grendel into a roving sphere that recovers health while moving while trampling over enemies and removing their armor. Regurgitate pukes out an enemy in his stomach as a Toxin projectile which inflicts Slow and armor removal.
-**Acquisition:**
-Grendel's main blueprint can be purchased from the Market. Grendel's component blueprints are awarded by completing certain missions on Europa using Locators, which can be purchased from the Arbitration Honors vendor found in any Relay for 25 Vitus Essence each.
 Health: 1095 | Shield: 95 | Armor: 370 | Energy: 175 | Sprint: 0.95
 Aura: naramon
 
@@ -1752,17 +1760,18 @@ Aura: naramon
 ## Inaros
 Inaros commands the fearsome desert. He survives like the ever-shifting sands that empower him. Legend recalls Inaros as the Fear-Eater.
 
+### Acquisition
+Inaros's main and component blueprints are obtained from the Sands of Inaros quest. The quest blueprint is tradeable from another player, or purchasable from Baro Ki'Teer for 100 + 25,000. Additional blueprints can be bought from Cephalon Simaris; 25,000 Standing for component blueprints and 50,000 Standing for main blueprint.
+Alternatively, upon completion of The Duviri Paradox, Inaros's main and component blueprints can be earned from The Circuit. By selecting him on the rotating week he is available, players can earn his blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Crafting
+Lore
+
 ### Wiki
 Inaros commands the fearsome desert. He survives like the ever-shifting sands that empower him. Legend recalls Inaros as the Fear-Eater.
 Lotus
 Release Date: March 4th, 2016
 Entombed in his sarcophagus, as shifting sand pours through the hourglass, resurrect the Cursed Pharaoh Inaros to consume and conquer all life in his sandstorm burial. Engulf the outlanders in barren desert, where his sacred scarabs and Kavats thrive. Inaros arose in Update 18.5.
 Inaros is a mummy-like Warframe that calls forth the sands to bolster his survivability and crowd control. His Passive has him cheat death by retreating into a sarcophagus and emerging into his sandy form to draw the life force of enemies with punches, while Finishers restore large amounts of Health. Desiccation throws sand to Stagger enemies, recover health, and open them to finishers. Sandstorm transforms him into an Invulnerable sandstorm that sweeps in enemies and leaves them with Knockdown for ground finishers. Scarab Shell sacrifices health to encase Inaros in a shell that increases Armor and Status Effect immunity. Scarab Swarm releases a swarm that deals Corrosive damage based on Inaros' maximum health and causes afflicted enemies to panic; an enemy that dies spawns a Swarm Kavat that propagates the swarm.
-**Acquisition:**
-Inaros's main and component blueprints are obtained from the Sands of Inaros quest. The quest blueprint is tradeable from another player, or purchasable from Baro Ki'Teer for 100 + 25,000. Additional blueprints can be bought from Cephalon Simaris; 25,000 Standing for component blueprints and 50,000 Standing for main blueprint.
-Alternatively, upon completion of The Duviri Paradox, Inaros's main and component blueprints can be earned from The Circuit. By selecting him on the rotating week he is available, players can earn his blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
-Crafting
-Lore
 Health: 2110 | Shield: 0 | Armor: 240 | Energy: 100 | Sprint: 1
 Aura: naramon
 
@@ -2082,14 +2091,15 @@ A roll of triple sixes causes further Status Effects over time and extends Bunra
 ## Kullervo
 Kullervo answers for his sins and the sins of others. His daggers and melee prowess deal high damage. Seize the power of treachery to slake his thirst for revenge.
 
+### Acquisition
+Kullervo's main and component blueprints are purchased from 30x30pxAcrithis in the Dormizone for Kullervo's Bane; the main blueprint requires 15 Banes, while the parts require 9, to a total of 42 Kullervo's Banes.
+
 ### Wiki
 Kullervo answers for his sins and the sins of others. His daggers and melee prowess deal high damage. Seize the power of treachery to slake his thirst for revenge.
 The Warden in Official Gameplay Trailer
 Release Date: June 21st, 2023
 Sentenced to suffer eternally for rebellion against Orokin reign, his salvation spirals forth as the fabled kingdom returns. Imprisoned high above perilous skies, since exiled in an infinite dungeon, escape its labyrinth and exact righteous vengeance as the Crimson Renegade, Kullervo. Clad in hollowed steel of malleable memory, battle-scarred with gashes deep, where the torturous blades still dwell. Punish the foolish, rain down his agony, and flaunt the despised daggers in bittersweet betrayal. Kullervo served his sentence and was released from his prison in Update 33.5: The Seven Crimes of Kullervo.
 The betrayed Warframe Kullervo boasts strengthened melee prowess. His Passive grants increased Heavy Attack Efficiency and Heavy Attack Wind Up speed, and most abilities grant melee Combo Counter. Wrathful Advance has him prepare a Heavy Attack before teleporting to an enemy while strengthening his melee Critical Chance. Recompense surrounds him with daggers that recover Health and generate Overguard. Collective Curse links enemies with chains that causes damage inflicted to apply to all chained enemies. Storm of Ukko summons a storm of daggers at a location to rapidly apply Slash and Stagger.
-**Acquisition:**
-Kullervo's main and component blueprints are purchased from 30x30pxAcrithis in the Dormizone for Kullervo's Bane; the main blueprint requires 15 Banes, while the parts require 9, to a total of 42 Kullervo's Banes.
 Health: 1005 | Shield: 0 | Armor: 550 | Energy: 175 | Sprint: 1.1
 Aura: naramon
 
@@ -2112,13 +2122,7 @@ Aura: naramon
 ## Lavos
 The serpents of Lavos encourage him as he transmutes the battlefield. He uses Toxin, Cold, Electricity, and Heat to deal elemental damage. Harness the power of the dark alchemist.
 
-### Wiki
-The serpents of Lavos encourage him as he transmutes the battlefield. He uses Toxin, Cold, Electricity, and Heat to deal elemental damage. Harness the power of the dark alchemist.
-Lotus
-Release Date: December 18, 2020
-Concoct volatile brews of recombinant elements to dissolve, evaporate, and transmute hostile forces. Equalize the System through alchemical warfare as the eccentric scientist, Lavos, to dose his foes with serpentine venom and alter the state of combat conditions through his unorthodox experiments. Lavos's transmutation began in Update 29.6: Orphix Venom.
-The alchemist Warframe Lavos commands the elements to deal damage while utilizing cooldowns instead of Energy. His Passive grants Energy Orb and Universal Orbs temporary Status Effect immunity, and can mix elements to apply them to all abilities. Ophidian Bite stikes with a Toxin serpentine strike that recovers Health. Vial Rush has him dash forward while dropping numerous Cold vials. Transmutation Probe launches an Electricity probe that converts orbs and ammo pickups into their universal forms while reducing ability cooldown. Catalyze releases Heat probes outward that deals increased damage on enemies afflicted by different status effects.
-**Acquisition:**
+### Acquisition
 Lavos's main and component blueprints are available from Father with Entrati standing. The main blueprint requires players to be at Rank 2 - Acquaintance, while component blueprints require Rank 3 - Associate. Each blueprint costs 5,000 Standing Standing, totaling to 20,000 Standing.
 Crafting
 Lore & History
@@ -2129,6 +2133,13 @@ Lavos Cordatus Helmet:
 Transmutation Probe:
 Cedo Shotgun:
 Lavos:
+
+### Wiki
+The serpents of Lavos encourage him as he transmutes the battlefield. He uses Toxin, Cold, Electricity, and Heat to deal elemental damage. Harness the power of the dark alchemist.
+Lotus
+Release Date: December 18, 2020
+Concoct volatile brews of recombinant elements to dissolve, evaporate, and transmute hostile forces. Equalize the System through alchemical warfare as the eccentric scientist, Lavos, to dose his foes with serpentine venom and alter the state of combat conditions through his unorthodox experiments. Lavos's transmutation began in Update 29.6: Orphix Venom.
+The alchemist Warframe Lavos commands the elements to deal damage while utilizing cooldowns instead of Energy. His Passive grants Energy Orb and Universal Orbs temporary Status Effect immunity, and can mix elements to apply them to all abilities. Ophidian Bite stikes with a Toxin serpentine strike that recovers Health. Vial Rush has him dash forward while dropping numerous Cold vials. Transmutation Probe launches an Electricity probe that converts orbs and ammo pickups into their universal forms while reducing ability cooldown. Catalyze releases Heat probes outward that deals increased damage on enemies afflicted by different status effects.
 Health: 540 | Shield: 270 | Armor: 575 | Energy: 0 | Sprint: 1.15
 Aura: naramon
 
@@ -2201,19 +2212,20 @@ Hold to imbue the next ability cast with Heat.
 ## Limbo
 Master the rift between shadow and substance. Limbo disrupts time-space to provide crowd control. He is at home where others struggle with what is real.
 
-### Wiki
-Master the rift between shadow and substance. Limbo disrupts time-space to provide crowd control. He is at home where others struggle with what is real.
-Lotus
-Release Date: October 24th, 2014
-Tapping into the Rift, Limbo demonstrates his art of dimensional travel that disrupts the space-time continuum, blurring the borders between realms and reality. Limbo arrived from the Rift Plane in Update 15.
-Limbo is a Warframe that commands the dimensional rifts for crowd control. His Passive has rolling leave behind a portal for allies to enter the Rift Plane, providing Energy restore over time while entities in different planes cannot interact with each other. Banish creates a wave that forces the target into the other dimension. Stasis freezes enemies and gunfire that are in the Rift. Rift Surge produces a surge on enemies that performs a radial banish when they leave the Rift. Cataclysm creates a large dome that bridges the material and Rift planes to all entities that enter it.
-**Acquisition:**
+### Acquisition
 Limbo's main blueprint can be purchased from the Market. Component blueprints are awarded from The Limbo Theorem quest, obtainable by completing the Europa Junction on Jupiter. Additional component blueprints can be bought from Cephalon Simaris for 25,000 Standing.
 Alternatively, upon completion of The Duviri Paradox, Limbo's main and component blueprints can be earned from The Circuit. By selecting him on the rotating week he is available, players can earn his blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
 Crafting
 Lore
 Ordis at the end of the quest
 Limbo's component blueprints were discovered by the player during the The Limbo Theorem quest, scattered across the Origin System as a result of the Warframe's miscalculations when crossing between the normal plane and the Void.
+
+### Wiki
+Master the rift between shadow and substance. Limbo disrupts time-space to provide crowd control. He is at home where others struggle with what is real.
+Lotus
+Release Date: October 24th, 2014
+Tapping into the Rift, Limbo demonstrates his art of dimensional travel that disrupts the space-time continuum, blurring the borders between realms and reality. Limbo arrived from the Rift Plane in Update 15.
+Limbo is a Warframe that commands the dimensional rifts for crowd control. His Passive has rolling leave behind a portal for allies to enter the Rift Plane, providing Energy restore over time while entities in different planes cannot interact with each other. Banish creates a wave that forces the target into the other dimension. Stasis freezes enemies and gunfire that are in the Rift. Rift Surge produces a surge on enemies that performs a radial banish when they leave the Rift. Cataclysm creates a large dome that bridges the material and Rift planes to all entities that enter it.
 Health: 270 | Shield: 180 | Armor: 105 | Energy: 175 | Sprint: 1.15
 Aura: naramon
 
@@ -2528,16 +2540,17 @@ Aura: madurai
 ## Mirage
 Mirage’s sleight of hand complements her might. Her dazzled foes take heavy damage. Doppelgangers, lasers, and traps are elements of her stagecraft.
 
+### Acquisition
+Mirage's main blueprint can be purchased from the Market. Component blueprints are awarded at the end of each mission for the Hidden Messages quest. Additional blueprints can be bought from Cephalon Simaris for 25,000 Standing.
+Alternatively, upon completion of The Duviri Paradox, Mirage's main and component blueprints can be earned from The Circuit. By selecting her on the rotating week she is available, players can earn her blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Crafting
+
 ### Wiki
 Mirage's sleight of hand complements her might. Her dazzled foes take heavy damage. Doppelgangers, lasers, and traps are elements of her stagecraft.
 Lotus
 Release Date: July 18th, 2014
 Mysterious and mischievous, Mirage manipulates the spectrum of light to dazzle her foes. With deceitful mirror images, colorful photokinetic displays and explosive pranks up her sleeves, every battlefield becomes the stage for her next performance. Mirage was unveiled in Update 14.
 Mirage is a Warframe with manipulative arts to deal damage. Her Passive increases Slide duration and all other Maneuvers are executed faster. Hall of Mirrors creates holographic doppelgangers that distract enemies while dealing a portion of Mirage's damage. Sleight of Hand booby traps various objects while creating a jewel that charms enemies into approaching it before exploding. Eclipse wreathes her in darkness for Damage Reduction or in light for weapon damage. Prism throws a prism of light beams before exploding to Blind enemies.
-**Acquisition:**
-Mirage's main blueprint can be purchased from the Market. Component blueprints are awarded at the end of each mission for the Hidden Messages quest. Additional blueprints can be bought from Cephalon Simaris for 25,000 Standing.
-Alternatively, upon completion of The Duviri Paradox, Mirage's main and component blueprints can be earned from The Circuit. By selecting her on the rotating week she is available, players can earn her blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
-Crafting
 **Notes:**
 Currently, Akzani lacks a Signature Weapon bonus with Mirage.
 Mirage is the first Warframe that requires an Argon Crystal to construct the entire Warframe instead of a single Orokin Cell.
@@ -2708,19 +2721,20 @@ Health: 270 | Shield: 455 | Armor: 135 | Energy: 140 | Sprint: 1.1
 ## Nezha
 The mercurial firemonger protects the innocent. Nezha’s multifaceted tactics give him high survivability as he inflicts damage and provides crowd control. His fire is the clarion of hope.
 
-### Wiki
-The mercurial firemonger protects the innocent. Nezha's multifaceted tactics give him high survivability as he inflicts damage and provides crowd control. His fire is the clarion of hope.
-Lotus
-Release Date: December 16th, 2015
-Blazing across the crimson skies, the empyreal vanguard Nezha invokes sacred fire through his Universe Ring. Invigorate and protect friends by bestowing life and energy. Ignite and impale foes upon inferno pyres, to purge the System with his divine flames. Nezha forged a path of flame in Update 18.1.
-Nezha is a Warframe who commands protective Heat. His Passive grants increased Slide speed and distance. Fire Walker ignites his feet to increase Movement Speed while leaving behind a trail of fire whereever he walks which damages enemies and cleanses ally Status Effects. Blazing Chakram hurls a flaming ring that applies Damage Vulnerability and increased Health Orb and Energy Orb drop chance. Warding Halo creates a protective ring that grants Status Effect immunity and Damage Redirection. Divine Spears imaples nearby enemies and incapacitates them with spears of light.
-**Acquisition:**
+### Acquisition
 Nezha's blueprints can be researched from the Tenno Lab in the dojo.
 Prior to Update 19, Nezha's main blueprint could be purchased from the Market for 100,000 and its component blueprints were obtained from Sorties, and component blueprints could previously be traded between players.
 Crafting
 Lore & History
 General
 The Warframe Nezha has been known far before the Orokin Fall. A swift warrior, his tales have reached the farthest reaches of the Origin System, sparking hope in any who hear them.
+
+### Wiki
+The mercurial firemonger protects the innocent. Nezha's multifaceted tactics give him high survivability as he inflicts damage and provides crowd control. His fire is the clarion of hope.
+Lotus
+Release Date: December 16th, 2015
+Blazing across the crimson skies, the empyreal vanguard Nezha invokes sacred fire through his Universe Ring. Invigorate and protect friends by bestowing life and energy. Ignite and impale foes upon inferno pyres, to purge the System with his divine flames. Nezha forged a path of flame in Update 18.1.
+Nezha is a Warframe who commands protective Heat. His Passive grants increased Slide speed and distance. Fire Walker ignites his feet to increase Movement Speed while leaving behind a trail of fire whereever he walks which damages enemies and cleanses ally Status Effects. Blazing Chakram hurls a flaming ring that applies Damage Vulnerability and increased Health Orb and Energy Orb drop chance. Warding Halo creates a protective ring that grants Status Effect immunity and Damage Redirection. Divine Spears imaples nearby enemies and incapacitates them with spears of light.
 Health: 365 | Shield: 135 | Armor: 200 | Energy: 175 | Sprint: 1.15
 Aura: naramon
 
@@ -3031,11 +3045,7 @@ Aura: naramon
 ## Nyx Prime
 Infiltrate the minds of your enemies with Nyx Prime. Featuring altered mod polarities for greater customization.
 
-### Wiki
-Infiltrate the minds of your enemies with Nyx Prime. Featuring altered mod polarities for greater customization.
-Release Date: September 23rd, 2014
-Nyx Prime is the Primed variant of Nyx, possessing higher shield, armor, sprint speed, as well as an additional Vazarin polarity. Nyx Prime was released alongside Hikou Prime and Scindo Prime.
-**Acquisition:**
+### Acquisition
 Unlike most Prime gear, Nyx Prime is permanently unvaulted, with relics being obtainable through Abandoned Derelict Caches in Corpus Railjack missions.
 Vaultings
 On August 9th, 2016, it was announced that Nyx Prime, alongside Hikou Prime and Scindo Prime, would enter the Prime Vault and be retired from the reward tables on August 23rd, 2016. Any preexisting components, relics or fully-built frames will remain as is.
@@ -3043,6 +3053,11 @@ Nyx Prime, alongside Hikou Prime, Scindo Prime, Rhino Prime, Boltor Prime, and A
 Nyx Prime resurfaced again together with the same line-up from July 16th, 2019 to September 3rd, 2019.
 Nyx Prime resurfaced again together with the same line-up from August 12th, 2021 to November 16th, 2021 and January 11th, 2022 to February, 15th, 2022 (gap was due to Prime Resurgence).
 Crafting
+
+### Wiki
+Infiltrate the minds of your enemies with Nyx Prime. Featuring altered mod polarities for greater customization.
+Release Date: September 23rd, 2014
+Nyx Prime is the Primed variant of Nyx, possessing higher shield, armor, sprint speed, as well as an additional Vazarin polarity. Nyx Prime was released alongside Hikou Prime and Scindo Prime.
 **Notes:**
 Nyx Prime, compared to Nyx:
 Higher Shields (365/465 vs. 270/370)
@@ -3249,15 +3264,16 @@ Aura: naramon
 ## Oraxia
 Sinister grace interwoven with lethal versatility; the evolution of a perfect predator. Fear's name is Oraxia.
 
+### Acquisition
+Oraxia's main and component blueprints can be obtained from Isleweaver in Duviri. Access requires completion of The Hex Quest.
+Alternatively, Oraxia's blueprints can be purchased from 30x30pxAcrithis (or Dominus Thrax during Operation: Eight Claw) in the Dormizone, using Scuttler Husk awarded from Isleweaver. Each component blueprint requires 20 Scuttler Husk and the main blueprint requires 60 Scuttler Husk, totaling 120 Scuttler Husk for the complete set.
+Crafting
+
 ### Wiki
 Sinister grace interwoven with lethal versatility; the evolution of a perfect predator. Fear's name is Oraxia.
 Release Date: June 25th, 2025
 Weave silken threads upon the fabled ancient isle, for into her newfound lair, dare naive trespassers venture. Slinging silently between cobwebbed walls, a prowling broodmother hunts with her famished spiderlings. Sealed are the fates of wary prey, destined for coffins of woven cocoons. Savor the flavors of the widow's venomous kiss, as none survives to spin anew a cautionary tale, to beware the Lady of Webs, Oraxia. Oraxia wove a new story in Update 39: Isleweaver.
 Oraxia is a spider Warframe with lethal Toxin abilities and stealth. Her Passive renders her Invisible on Wall Latch. Mercy's Kiss lunges at enemies and instantly kills them when their health is below a certain threshold, spawning Health and Energy Orbs. Webbed Embrace snares enemies and applies Damage Vulnerability, while Widow's Brood embeds darts onto enemies that upon their death spawns friendly Scuttlers. Silken Stride unfurls Oraxia's spider legs to go on the prowl as she gains immunity to Status Effects, increased Health, imbues her primary and secondary weapons with Toxin damage while causing enemies hit by her laced weapons to explode upon death, and gains an altered roll that launches silk to pull her toward a direction.
-**Acquisition:**
-Oraxia's main and component blueprints can be obtained from Isleweaver in Duviri. Access requires completion of The Hex Quest.
-Alternatively, Oraxia's blueprints can be purchased from 30x30pxAcrithis (or Dominus Thrax during Operation: Eight Claw) in the Dormizone, using Scuttler Husk awarded from Isleweaver. Each component blueprint requires 20 Scuttler Husk and the main blueprint requires 60 Scuttler Husk, totaling 120 Scuttler Husk for the complete set.
-Crafting
 Health: 575 | Shield: 125 | Armor: 125 | Energy: 150 | Sprint: 1
 Aura: madurai
 
@@ -3725,13 +3741,14 @@ Health: 270 | Shield: 270 | Armor: 185 | Energy: 175 | Sprint: 0.95
 ## Styanax
 Styanax never wonders how many enemies he will face, only where he can find them. The hoplite deals high damage. Enemies tremble before his spear and shield.
 
+### Acquisition
+Styanax's main and component blueprints are available from Chipper of Kahl's Garrison with Stock (Kahl) earned from Break Narmer weekly missions, available after completing the Veilbreaker quest. The Systems requires players to be at Rank 2 - Encampment, Neuroptics at Rank 3 - Fort, Chassis at Rank 4 - Settlement, and main blueprint at Rank 5 - Home. Each component blueprint costs 60 Stock, while the main blueprint costs 90, totaling to 270 Stock.
+
 ### Wiki
 Styanax never wonders how many enemies he will face, only where he can find them. The hoplite deals high damage. Enemies tremble before his spear and shield.
 Release Date: September 7th, 2022
 Embody the valiant pride of ancient champions past, brandishing shield and spear zealously honed by ageless strife. Relive the legendary mythos of Styanax, the indomitable peltast. Impale the enemy upon Axios, his unstoppable javelin thrown with Olympian might. Repel their advance and sunder their defenses, through a swing of his unbreakable shield, Tharros. Bellow true a call to arms and rally war-torn souls, our spirits and power thus renewed. Ascend, steadfast and heroic, to spearhead the wicked's passage onto the River Styx. Styanax and his army marched into Origin in Update 32.
 Styanax is the hoplite Warframe that brandishes his shield and spear to deal damage. His Passive provides Critical Chance while in possession of Shields, which is strengthened for Spearguns. Axios Javelin throws a single javelin that, upon striking an enemy, imaples them to a surface while creating a vortex that pulls in other enemies. Tharros Strike hurls a wall of shields that removes enemy Shields and Armor, while recovering Health. Rally Point creates an uplifting resolve for allies that recovers Energy over time while restoring Shields on kill, but increases his Threat Level. Final Stand rises into the air with an army of spectral warriors as they throw a barrage of javelins.
-**Acquisition:**
-Styanax's main and component blueprints are available from Chipper of Kahl's Garrison with Stock (Kahl) earned from Break Narmer weekly missions, available after completing the Veilbreaker quest. The Systems requires players to be at Rank 2 - Encampment, Neuroptics at Rank 3 - Fort, Chassis at Rank 4 - Settlement, and main blueprint at Rank 5 - Home. Each component blueprint costs 60 Stock, while the main blueprint costs 90, totaling to 270 Stock.
 Health: 270 | Shield: 825 | Armor: 265 | Energy: 175 | Sprint: 1
 Aura: naramon
 
@@ -3759,12 +3776,7 @@ Aura: naramon
 ## Temple
 Blazing with glamor and armed with an Infested guitar, Lizzie, Temple’s power chords light the flames of revolution.
 
-### Wiki
-Blazing with glamor and armed with an Infested guitar, Lizzie. Temple's power chords light the flames of revolution.
-Release Date: March 19, 2025
-Hear them scream aloud 'neath the midnight sun, betwixt stardust glamour and ephemeral flames. Raze the Höllvanian underground for fame and glory, then steal the spotlight from the Techrot menace. Rock whole damned worlds with scorching chords, blasting hellish harmonies ad nauseam... their last concert gone global, shredding duo at center stage: the Devil's Guitar, Temple and Lizzie! Temple brought the stage down in Update 38.5: Techrot Encore.
-Temple, the rockstar Warframe, ignites the flames of revolution with Heat attacks and supportive abilities. Their Passive involves a timed metronome that grants Ability Efficiency and enhanced effects on abilities. Pyrotechnics erupts pillars of Heat. Overdrive blasts enemies with Critical Chance Vulnerability, while Ripper's Wail has Temple rock out briefly to become Invulnerable and recover Health and Shields while buffing them and their allies with Heat weapon damage. Exalted Solo demands their flamethrower Lizzie take the stage.
-**Acquisition:**
+### Acquisition
 Temple's main and component blueprints can be obtained from the Stage Defense at Solstice Square in Höllvania. Access requires completion of The Hex Quest and Rank 4 - Hot & Fresh with The Hex Syndicate.
 Alternatively, Temple's blueprints can be purchased from Flare of The Hex. They require Rank 4 - Hot & Fresh and are purchased with the Beating Heartstrings awarded from Stage Defense. Each component blueprint requires 65 Resources and the main blueprint requires 195 Resources, totaling 390 Resources Beating Heartstrings for the complete set.
 Crafting
@@ -3772,6 +3784,12 @@ Lore & History
 View hidden content
 I Figured It Out
 Something's been nagging at me for a while. It started as a little thing, but it just wouldn't go away. How come the Temple Warframe has my name? How come they have a guitar called Lizzie, too?
+
+### Wiki
+Blazing with glamor and armed with an Infested guitar, Lizzie. Temple's power chords light the flames of revolution.
+Release Date: March 19, 2025
+Hear them scream aloud 'neath the midnight sun, betwixt stardust glamour and ephemeral flames. Raze the Höllvanian underground for fame and glory, then steal the spotlight from the Techrot menace. Rock whole damned worlds with scorching chords, blasting hellish harmonies ad nauseam... their last concert gone global, shredding duo at center stage: the Devil's Guitar, Temple and Lizzie! Temple brought the stage down in Update 38.5: Techrot Encore.
+Temple, the rockstar Warframe, ignites the flames of revolution with Heat attacks and supportive abilities. Their Passive involves a timed metronome that grants Ability Efficiency and enhanced effects on abilities. Pyrotechnics erupts pillars of Heat. Overdrive blasts enemies with Critical Chance Vulnerability, while Ripper's Wail has Temple rock out briefly to become Invulnerable and recover Health and Shields while buffing them and their allies with Heat weapon damage. Exalted Solo demands their flamethrower Lizzie take the stage.
 Health: 405 | Shield: 225 | Armor: 325 | Energy: 165 | Sprint: 1
 Aura: naramon
 
@@ -3797,18 +3815,19 @@ Backbeat Timing: No Energy consumed.
 ## Titania
 Titania’s fairy-like appearance belies her formidable regal power. The enchantress deals high damage and provides crowd control. She forces opponents to pay homage or perish.
 
+### Acquisition
+Titania's main and component blueprints are obtained from The Silver Grove quest. Additional blueprints can be bought from Cephalon Simaris; 25,000 Standing for component blueprints and 50,000 Standing for main blueprint.
+Alternatively, upon completion of The Duviri Paradox, Titania's main and component blueprints can be earned from The Circuit. By selecting her on the rotating week she is available, players can earn her blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Crafting
+Lore
+Silvana
+
 ### Wiki
 Titania's fairy-like appearance belies her formidable regal power. The enchantress deals high damage and provides crowd control. She forces opponents to pay homage or perish.
 Lotus
 Release Date: August 19th, 2016
 The diminutive temptress Titania and her entourage of bladed butterflies scatter their dust to disorient, enchant and beckon foes to their doom. She fluttered in on August 19th, 2016 with Update The Silver Grove.
 Titania is a fairy Warframe whose spells inflict damage and crowd control. Her Passive increases her bullet jump and rolling distance, while casting her abilities grant Health restore over time. Spellbind scatters dust over an area which Disarmed and Ragdoll enemies while rendering Titania and her allies immune to Status Effects. Tribute smites an enemy as they leave behind one of four cyclable offerings: Thorns provides Damage Reduction and reflection, Dust reduces enemy Accuracy, Full Moon increases Companion's damage, Health, and Armor, and Entangle applies Slow to nearby enemies. Lantern transforms an enemy into a floating mesmerizing light that charms other enemies to follow it. Razorwing has Titania shrink down, armed with Dex Pixia dual pistols and Diwata heavy sword, and commands Razorflies that pierces enemies with Damage Vulnerability.
-**Acquisition:**
-Titania's main and component blueprints are obtained from The Silver Grove quest. Additional blueprints can be bought from Cephalon Simaris; 25,000 Standing for component blueprints and 50,000 Standing for main blueprint.
-Alternatively, upon completion of The Duviri Paradox, Titania's main and component blueprints can be earned from The Circuit. By selecting her on the rotating week she is available, players can earn her blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
-Crafting
-Lore
-Silvana
 Health: 270 | Shield: 270 | Armor: 105 | Energy: 175 | Sprint: 1
 Aura: madurai
 
@@ -4039,18 +4058,19 @@ Aura: madurai
 ## Valkyr Prime
 A proud fighter emerges unscarred by time or malice. Featuring altered mod polarities allow for greater customization.
 
-### Wiki
-A proud fighter emerges unscarred by time or malice.
-Ballas
-Release date: November 22nd, 2016
-Valkyr Prime is the Primed variant of Valkyr possessing higher Armor and Energy capacity, as well as an additional Madurai polarity. Valkyr Prime was released alongside Cernos Prime and Venka Prime.
-**Acquisition:**
+### Acquisition
 Unlike most Prime gear, Valkyr Prime is permanently unvaulted, with relics being obtainable through Abandoned Derelict Caches in Corpus Railjack missions.
 Vaultings
 On September 11th, 2018, it was announced that Valkyr Prime, alongside Cernos Prime and Venka Prime, would enter the Prime Vault and be retired from the reward tables on September 25th, 2018. Any preexisting components or fully-built frames will remain as is.
 Valkyr Prime, alongside Cernos Prime, Venka Prime, Saryn Prime, Spira Prime, and Nikana Prime, were again available from September 3rd, 2019 to November 19th, 2019.
 Valkyr Prime was also available from Prime Resurgence which ran from November 16, 2021 to January 25, 2022.
 Crafting
+
+### Wiki
+A proud fighter emerges unscarred by time or malice.
+Ballas
+Release date: November 22nd, 2016
+Valkyr Prime is the Primed variant of Valkyr possessing higher Armor and Energy capacity, as well as an additional Madurai polarity. Valkyr Prime was released alongside Cernos Prime and Venka Prime.
 **Notes:**
 Valkyr Prime, compared to Valkyr:
 Higher Armor (1000 vs. 855)
@@ -4176,15 +4196,16 @@ HOLD to collapse all Bastilles into a single damaging vortex.
 ## Voidrig
 Nothing fancy but gets the job done and then some. With its electrified armor, this rough and ready mech can make the battlefield treacherous for the enemy with an arsenal of explosives.
 
-### Wiki
-Nothing fancy but gets the job done and then some. With its electrified armor, this rough and ready mech can make the battlefield treacherous for the enemy with an arsenal of explosives.
-The Voidrig is a frontline-purpose Necramech design, capable of handling both offensive and defensive actions with ease with its heavy armor using explosive weaponry and potent defensive abilities. It comes with the Mausolon Archgun as its default armament.
-Voidrig's armaments are designed for damage. Necraweb deploys a throwable canister that explodes and inflicts Slow. Storm Shroud creates a barrier that absorbs and reflects damage. Gravemines scatters numerous mines around. Guard Mode has Voidrig hunker down to deploy the Arquebex twin mortars.
-**Acquisition:**
+### Acquisition
 Completion of Heart of Deimos will reward all main and component blueprints for free. Alternatively, Component blueprints for the Voidrig are available for 2,000 Standing from the Necraloid Syndicate at Rank 1 - Clearance: Agnesis, while the main Voidrig blueprint is available for 5,000 Standing at Rank 2 - Clearance: Modus. When levelling the Syndicate, one Voidrig blueprint is offered for free.
 Crafting the components additionally requires Rank 1 - Stranger with the Entrati in order to acquire Purified Heciphron required in its construction.
 Damaged Necramech components are dropped by enemy Necramechs that appear in Isolation Vault Bounties or purchased from Father for 2,000 Standing Entrati standing.
 Damaged Necramech components, built Voidrig components, Faceted Tiametrite, Purified Heciphron, Purged Dagonic, and fish yielding components used here (Lobotriscid for Parasitic Tethermaw, and Vitreospina and Chondricord for Spinal Core Section) can be traded between players. Trading for gems or fully built components will bypass the Syndicate rank requirements. However, Voidrig component blueprints and the main blueprint cannot be traded.
+
+### Wiki
+Nothing fancy but gets the job done and then some. With its electrified armor, this rough and ready mech can make the battlefield treacherous for the enemy with an arsenal of explosives.
+The Voidrig is a frontline-purpose Necramech design, capable of handling both offensive and defensive actions with ease with its heavy armor using explosive weaponry and potent defensive abilities. It comes with the Mausolon Archgun as its default armament.
+Voidrig's armaments are designed for damage. Necraweb deploys a throwable canister that explodes and inflicts Slow. Storm Shroud creates a barrier that absorbs and reflects damage. Gravemines scatters numerous mines around. Guard Mode has Voidrig hunker down to deploy the Arquebex twin mortars.
 Health: 1400 | Shield: 850 | Armor: 385 | Energy: 175
 
 ### Abilities
@@ -4211,13 +4232,7 @@ Health: 1400 | Shield: 850 | Armor: 385 | Energy: 175
 ## Volt
 Electricity flows through Volt. His attacks deal high damage. Enemies will be shocked.
 
-### Wiki
-Electricity flows through Volt. His attacks deal high damage. Enemies will be shocked.
-Lotus
-Release Date: October 25th, 2012
-Electrical currents surge wildly through his veins, generating lethal sparks and chain lightning in his wake. Ready to race against time with his fellow Tenno, short-circuit robotics and overload organics as the Live Wire, Volt. Bend his electricity into an impenetrable barrier, or convert the shocked masses into deadly Tesla coils. Choose wisely, Tenno. Start your new journey with Volt as one of three beginner Warframes.
-Volt is a Warframe with Electricity powers to deal damage. His Passive builds electricity and discharges it in his next attack. Shock releases an electric projectile. Speed energizes his and his allies with enhanced Movement Speed, Attack Speed, and Reload Speed. Electric Shield projects a barrier that blocks incoming fire while strengthening allied gunfire that passes through it and can be carried around. Discharge releases a powerful pulse that emits arcs of electricity on afflicted enemies.
-**Acquisition:**
+### Acquisition
 Volt is one of the three starter Warframes, alongside Excalibur and Mag, during Awakening.
 Volt's blueprints can be researched from the Tenno Lab in the dojo.
 Volt can also be bought complete from Teshin for 60,000 Standing once players have achieved Typhoon rank in the Conclave.
@@ -4225,6 +4240,13 @@ Historical
 Prior to Update 12, Volt's component blueprints dropped from Survival missions.
 Prior to Update 11, Volt's component blueprints dropped from J3-Golem on Themisto, Jupiter.
 Crafting
+
+### Wiki
+Electricity flows through Volt. His attacks deal high damage. Enemies will be shocked.
+Lotus
+Release Date: October 25th, 2012
+Electrical currents surge wildly through his veins, generating lethal sparks and chain lightning in his wake. Ready to race against time with his fellow Tenno, short-circuit robotics and overload organics as the Live Wire, Volt. Bend his electricity into an impenetrable barrier, or convert the shocked masses into deadly Tesla coils. Choose wisely, Tenno. Start your new journey with Volt as one of three beginner Warframes.
+Volt is a Warframe with Electricity powers to deal damage. His Passive builds electricity and discharges it in his next attack. Shock releases an electric projectile. Speed energizes his and his allies with enhanced Movement Speed, Attack Speed, and Reload Speed. Electric Shield projects a barrier that blocks incoming fire while strengthening allied gunfire that passes through it and can be carried around. Discharge releases a powerful pulse that emits arcs of electricity on afflicted enemies.
 Health: 270 | Shield: 455 | Armor: 105 | Energy: 100 | Sprint: 1
 Aura: madurai
 
@@ -4463,15 +4485,16 @@ Wisp may also target a Reservoir to teleport to it and double the range of the s
 ## Wukong
 The simian warrior is a mountain of strength. Wukong deals heavy damage and has high survivability. His quick trickster tactics are unforgettable.
 
+### Acquisition
+Wukong's blueprints can be researched from the Tenno Lab in the dojo.
+Crafting
+
 ### Wiki
 The simian warrior is a mountain of strength. Wukong deals heavy damage and has high survivability. His quick trickster tactics are unforgettable.
 Lotus
 Release Date: November 25th, 2015
 Descending from the empyrean eternal, the unruly primal saint Wukong wreaks havoc in the System with his immortal trickery and savage beatings. Divide and conquer with twice yourselves, then journey unseen under a cloak of clouds. Endure through any assault with arrogant poise, donning the legendary staff to tip the balance in his favor, and his opponents off their feet. Wukong embarked on a new journey in Update 17.12 and was joined by his twin in Update 25.2.
 Wukong is a Warframe with mythical powers that grant him damage and survivability. His Passive lets him cheat death up to three times, with each prevention temporarily granting him increased elemental damage, Invisible, Invulnerability, extra resource drop chance, or increased Health Orb and Energy Orb effectiveness. Celestial Twin sheds a clone that fights alongside Wukong. Cloud Walker transforms into a mobile cloud that grants Health restore, invisibility, and invulnerability, while Defy engages an invulnerable stance that absorbs and reflects damage while granting increased Armor. Primal Fury summons the legendary Iron Staff melee.
-**Acquisition:**
-Wukong's blueprints can be researched from the Tenno Lab in the dojo.
-Crafting
 **Notes:**
 Wukong's research requires 11 Nitain Extract. This will require 45 worth of Nightwave offerings. Furthermore, crafting Wukong requires 6 Nitain Extract for an additional 30.
 Although Reactor Sabotage caches have a chance to reward Nitain Extracts (and thus, cut down on ​ costs), it should not be wholly relied on due to the low chance of Nitain being rewarded.
@@ -4560,18 +4583,19 @@ Bonus Armor is then granted relative to the damage captured.
 ## Xaku
 Broken Warframes adrift in the Void converged to create Xaku. Together, they deal high damage. Xaku proves that the sum of the whole is greater than its parts.
 
+### Acquisition
+Xaku's main blueprint is awarded upon completion of the Heart of Deimos quest. Xaku's component blueprints are acquired from Cambion Drift Bounties: the Neuroptics are obtained from Bounties lvl 15-25, Systems from lvl 30-40 and Chassis - from either lvl 40-60 or Steel Path lvl 100; each of those can be acquired from any stage beyond the first one.
+droptable
+Additional main blueprints can be bought from Cephalon Simaris for 50,000 Standing.
+Additionally requires either Rank 5 - Old Mate with Solaris United or Rank 1 - Operative with Vox Solaris in order to acquire Gyromag Systems required in its construction.
+Crafting
+
 ### Wiki
 Broken Warframes adrift in the Void converged to create Xaku. Together, they deal high damage. Xaku proves that the sum of the whole is greater than its parts.
 Lotus
 Release Date: August 25th, 2020
 Of the Void ethereal, yet coalesced into corporeal shape, the fractured anomaly Xaku exists as an entity thrice entwined. Fused from the shattered remnants of three warriors, they bridge reality to the horrors from beyond the fold. Xaku reassembled in Update 29.
 Xaku is an amalgamation of Warframes fused by the mysterious powers of the Void, blessed with high damage output. Their Passive grants Dodge chance to allow enemy attacks to harmlessly phase through them. Xata's Whisper imbues their weapons with Void damage. Grasp of Lohk seizes and Disarmed enemy weapons to create armaments that hover around Xaku and auto-target nearby enemies. The Lost cycles through three abilities: Accuse forces enemies to become briefly allied, Gaze binds an enemy to project a field that removes enemy shields and armor, and Deny releases a beam that lifts enemies into aerial stasis. The Vast Untime sheds Xaku's fragments to emerge in their skeletal form, releasing a blast that applies Slow and Void Damage Vulnerability, increasing their movement speed and passive dodge chance, and pauses the duration of all other abilities.
-**Acquisition:**
-Xaku's main blueprint is awarded upon completion of the Heart of Deimos quest. Xaku's component blueprints are acquired from Cambion Drift Bounties: the Neuroptics are obtained from Bounties lvl 15-25, Systems from lvl 30-40 and Chassis - from either lvl 40-60 or Steel Path lvl 100; each of those can be acquired from any stage beyond the first one.
-droptable
-Additional main blueprints can be bought from Cephalon Simaris for 50,000 Standing.
-Additionally requires either Rank 5 - Old Mate with Solaris United or Rank 1 - Operative with Vox Solaris in order to acquire Gyromag Systems required in its construction.
-Crafting
 Health: 269 | Shield: 239 | Armor: 146 | Energy: 160 | Sprint: 1.02
 Aura: naramon
 
@@ -4641,13 +4665,7 @@ Aura: naramon
 ## Yareli
 The waverider can unleash a flood of destruction on the battlefield. Yareli’s aqueous attacks deal high damage. Surf’s up. Enemies down.
 
-### Wiki
-The waverider can unleash a flood of destruction on the battlefield. Yareli’s aqueous attacks deal high damage. Surf’s up. Enemies down.
-Lotus
-Release Date: July 6th, 2021
-Rise from the cold depths below and brave the waves above, across an azure expanse basked in starlight's gleam. Submerse into the deep marine with Yareli, the nymphean sailor. Fluid as tidal ebb and flow, surf swiftly and ripple through her foes, as slender teardrops cascade into a sanguine ocean. Yareli and Merulina splashed into battle on Update 30.5.
-Yareli is an aquatic rider Warframe that deals damage and battlefield control. Her Passive increases secondary weapon Critical Chance while she is mobile. Sea Snares forms water globules that seek enemies to place them in aerial stasis while increasing Damage Vulnerability. Merulina summons her trusty K-Drive which possesses Damage Redirection. Aquablades summons a trio of orbiting blades. Riptide summons a water cyclone that pulls enemies into its spiral before exploding.
-**Acquisition:**
+### Acquisition
 Yareli's main blueprint is acquired by completing The Waverider quest. Component blueprints are acquired through Research inside the Ventkids' Bash Lab within the Clan Dojo.
 Additional main blueprints can be bought from Cephalon Simaris for 50,000 Standing.
 Crafting
@@ -4656,6 +4674,13 @@ Creation
 Ballas
 The person that became Yareli was formerly a Yuvan, who was originally noticed by Ballas in a Yuvan Theater, drawing his attention as a candidate for the Continuity, but he became frustrated with her thinly-veiled disrespect for Orokin customs and beliefs, which went so far as to "dishonor the sacred Kuva." As retribution, he had her turned into a Warframe, so that her body would be "worn" (through Transference) by many individuals.
 The Waverider
+
+### Wiki
+The waverider can unleash a flood of destruction on the battlefield. Yareli’s aqueous attacks deal high damage. Surf’s up. Enemies down.
+Lotus
+Release Date: July 6th, 2021
+Rise from the cold depths below and brave the waves above, across an azure expanse basked in starlight's gleam. Submerse into the deep marine with Yareli, the nymphean sailor. Fluid as tidal ebb and flow, surf swiftly and ripple through her foes, as slender teardrops cascade into a sanguine ocean. Yareli and Merulina splashed into battle on Update 30.5.
+Yareli is an aquatic rider Warframe that deals damage and battlefield control. Her Passive increases secondary weapon Critical Chance while she is mobile. Sea Snares forms water globules that seek enemies to place them in aerial stasis while increasing Damage Vulnerability. Merulina summons her trusty K-Drive which possesses Damage Redirection. Aquablades summons a trio of orbiting blades. Riptide summons a water cyclone that pulls enemies into its spiral before exploding.
 Health: 270 | Shield: 455 | Armor: 105 | Energy: 200 | Sprint: 1
 Aura: madurai
 
@@ -4726,15 +4751,16 @@ Enemies hit by the globules take increased damage from all sources.
 ## Zephyr
 Command the power of the wind. Zephyr’s cyclonic abilities protect her, deal high damage, and provide crowd control. She swoops in from above and leaves a path of destruction.
 
+### Acquisition
+Zephyr's blueprints can be researched from the Tenno Lab in the dojo.
+Crafting
+
 ### Wiki
 Command the power of the wind. Zephyr's cyclonic abilities protect her, deal high damage, and provide crowd control. She swoops in from above and leaves a path of destruction.
 Lotus
 Release Date: February 5th, 2014
 Light-footed and graceful, the beautiful and deadly Zephyr is in her element while airborne. With the power to bend air currents, she is an agile skyterror who delivers swift judgement from above. Zephyr soared to the skies in Update 12.
 Zephyr is a Warframe that commands wind which grants her damage and crowd control. Her Passive reduces her falling speed while increasing Critical Chance while airborne. Tail Wind launches Zephyr in a direction, or sustains her altitude to hover. Airburst launches a blast of wind that forcefully pushes or groups enemies. Turbulence summons a shield that deflects enemy projectiles. Tornado summons deadly tornados that roam, hovering enemies in ragdoll while absorbing elemental damage.
-**Acquisition:**
-Zephyr's blueprints can be researched from the Tenno Lab in the dojo.
-Crafting
 **Notes:**
 Zephyr has reduced friction against air and increased resistance to gravity.
 Zephyr jumps higher and has longer hang time than other Warframes.

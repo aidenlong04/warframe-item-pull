@@ -4,6 +4,9 @@ All melee weapons including swords, polearms, whips, and heavy blades. Includes 
 ## Ack & Brunt
 Tyl Regor's custom axe and shield are how he likes to eliminate ‘frustrations'.
 
+### Acquisition
+The Ack & Brunt's blueprint can be researched from the Chem Lab in the dojo.
+
 ### Wiki
 Weapons
 Tyl Regor's custom axe and shield are how he likes to eliminate 'frustrations'.
@@ -13,8 +16,6 @@ This weapon deals primarily Slash damage.
 Blocking elemental damage attacks stores a charge that grants +17.5% of the absorbed elemental damage to the next attack. The charge can stack up to 4 times before being consumed.
 Can use the Ack & Brunt-exclusive Electromagnetic Shielding mod.
 Stance slot has Madurai polarity, matching Eleventh Storm, Final Harbinger and Last Herald stance.
-**Acquisition:**
-The Ack & Brunt's blueprint can be researched from the Chem Lab in the dojo.
 **Notes:**
 Blocking elemental damage attacks creates a stack that increases the damage of the next attack by 17.5% stacks. The effect can stack up to 4 times before being consumed, increasing the damage up to 70%.
 The damage bonus increases additively with elemental mods, which can also combine with elemental mods from the weapon to became a combined elements. For example, if your Ack & Brunt is modded with Electricity damage (e.g. Shocking Touch), blocking Heat damage from a Flameblade's Twin Basolk will combine it into Radiation damage on the next attack.
@@ -57,6 +58,12 @@ Crit Chance: 20.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 0
 ## Amanata
 Roll Koumei's die with every 30 hits from Amanata to empower yourself with 1 of 5 Koumei blessings. Roll a 6 to receive all blessings at once.
 
+### Acquisition
+Amanata's blueprint and components can be obtained from Shrine Defense on Saya's Visions, Earth. Access requires completion of Saya's Vigil and Once Awake.
+Alternatively they can be purchased from Koumei's Shrine in Cetus with Fate Pearl, which are dropped by the Infested Oni at the end of Shrine Defense in quantities of 14-18 (20-24 on The Steel Path). Each component blueprint require 45 and the main blueprint requires 135, totaling 270 Fate Pearls for the whole set.
+Crafting
+Amanata also requires Fate Pearl to craft; 14 per component (requires two Blades) and 5 for the main blueprint, to a total of 47 Fate Pearls. Assuming that one acquired all of the components and the blueprint by spending Fate Pearls in Koumei's Shrine, the total amount required for purchase and crafting is 317 Fate Pearls.
+
 ### Wiki
 Weapon
 Roll Koumei's dice with every 30 hits from Amanata to empower yourself with 1 of 5 Koumei's blessings. Roll a 6 to receive all blessings at once.
@@ -72,11 +79,6 @@ Grants Amanata's Rolls at the start of a mission, rolling a six-sided dice to ap
 6: All blessings at once.
 Can use the Amanata-exclusive Amanata Pressure mod.
 Innate V polarity.
-**Acquisition:**
-Amanata's blueprint and components can be obtained from Shrine Defense on Saya's Visions, Earth. Access requires completion of Saya's Vigil and Once Awake.
-Alternatively they can be purchased from Koumei's Shrine in Cetus with Fate Pearl, which are dropped by the Infested Oni at the end of Shrine Defense in quantities of 14-18 (20-24 on The Steel Path). Each component blueprint require 45 and the main blueprint requires 135, totaling 270 Fate Pearls for the whole set.
-Crafting
-Amanata also requires Fate Pearl to craft; 14 per component (requires two Blades) and 5 for the main blueprint, to a total of 47 Fate Pearls. Assuming that one acquired all of the components and the blueprint by spending Fate Pearls in Koumei's Shrine, the total amount required for purchase and crafting is 317 Fate Pearls.
 **Notes:**
 Currently, Slam Attacks count towards the 30 hits even if the player didn't hit any enemies. (Bug?)
 **Type:** Melee | **Mastery Req:** 2 | **Riven Disposition:** 2
@@ -104,6 +106,9 @@ Crit Chance: 24.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 1
 ## Amphis
 Fashioned with Grineer materials and balanced for marine infantry use, the Amphis is a traditional staff weapon that has received a monstrous makeover that enables shock damage on jump attacks. Connects with multiple enemies with each strike.
 
+### Acquisition
+The Amphis's blueprint can be purchased from the Market. Alternatively, it can be acquired from completing the Deimos to Jupiter Junction.
+
 ### Wiki
 Weapons
 Fashioned with Grineer materials and balanced for marine infantry use, the Amphis is a traditional staff weapon that has received a monstrous makeover that enables shock damage on jump attacks. Connects with multiple enemies with each strike.
@@ -118,14 +123,11 @@ Innate Naramon polarity.
 Tied with Broken Scepter for the second fastest attack speed of all staves, behind Tipedo.
 Third lowest base damage of all staves, after Tipedo and Mk1-Bo.
 Lowest critical multiplier of all staves.
-**Acquisition:**
-The Amphis's blueprint can be purchased from the Market. Alternatively, it can be acquired from completing the Deimos to Jupiter Junction.
 **Trivia:**
 Until Update 13, the Amphis was not used by any Grineer unit. This would be a little over 1 year between the Amphis's introduction (February 22, 2013) and Guardsmen being added into the game (April 10, 2014).
 On Jump attacks, the Amphis releases six small streams of electricity that each travel outwards lead by a sparking orb. This cosmetic effect is shared with the Prova.
 This weapon's name is probably a reference to the Amphisbaena, a two-headed serpent from Greek legend.
 zQdo0eHKT0o
-26
 **Type:** Melee | **Mastery Req:** 5 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -152,6 +154,10 @@ Crit Chance: 24.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 1
 ## Anku
 Reap havoc with this full sized Tenno-crafted scythe.
 
+### Acquisition
+The Anku's blueprint can be researched from the Tenno Lab in the dojo.
+This weapon can be sold for 5,000.
+
 ### Wiki
 Weapons
 Reap havoc with this full sized Tenno-crafted scythe.
@@ -163,9 +169,6 @@ Innate Madurai polarity.
 Tied with Ether Reaper, Reaper Prime, and Tenet Grigori for the fastest attack speed of all scythes.
 Lowest base damage of all scythes.
 Lowest status chance of all scythes.
-**Acquisition:**
-The Anku's blueprint can be researched from the Tenno Lab in the dojo.
-This weapon can be sold for 5,000.
 **Notes:**
 Incarnon Genesis
 Upon completion of The Duviri Paradox and Angels of the Zariman, and unlocking The Steel Path, players can earn Anku Incarnon Genesis from The Circuit's Steel Path to place on their Anku with the help of Cavalero in the Chrysalith. This Incarnon Genesis form grants it evolutions to a transformation and newfound strength.
@@ -198,6 +201,9 @@ Crit Chance: 20.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 1
 ## Ankyros
 A pair of mighty gauntlets, the Ankyros were designed by the Tenno for close quarters combat. What they lack in range they make up for in speed.
 
+### Acquisition
+The Ankyros's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 A pair of mighty gauntlets, the Ankyros were designed by the Tenno for close quarters combat. What they lack in range they make up for in speed.
@@ -210,13 +216,10 @@ This weapon deals primarily Impact damage.
 Stance slot has a Vazarin polarity, matches Seismic Palm and Gaia's Tragedy stance.
 Second fastest attack speed of all fists, behind Ankyros Prime.
 Ankyros Prime
-**Acquisition:**
-The Ankyros's blueprint can be purchased from the Market.
 **Trivia:**
 The Ankyros was released on April 19, 2013 with Update 7.8.
 One of the phased skins released during the Steam Winter Sale of 2013 was for the Ankyros. This was the rarest one available, with only 10 known copies crafted.
 The Ankyros appears to take inspiration from a concept design of the Colossus from Dark Sector, as seen in the picture here.
-26
 **Type:** Melee | **Mastery Req:** 2 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -260,7 +263,6 @@ The same line-up resurfaced from July 16th, 2019 to September 3rd, 2019.
 Ankyros Prime is the first Gauntlet melee weapon to be primed.
 Compared to previous Prime weapons, the Ankyros and the Ankyros Prime have a much closer resemblance to each other – their model geometry is nearly identical.
 14fCkPrYnFc
-26
 **Type:** Melee | **Mastery Req:** 8 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -286,6 +288,9 @@ Crit Chance: 28.00% | Crit Multiplier: 2.4x | Status Chance: 10.00% | Fire Rate:
 ## Arca Titron
 Each successive kill from this massive electron hammer builds an electron charge that is unleashed on slam attacks.
 
+### Acquisition
+The Arca Titron's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 Each successive kill from this massive electron hammer builds an electron charge that is unleashed on with slam attacks.
@@ -304,8 +309,6 @@ Innate Madurai and Naramon polarities.
 Highest base damage of all melee weapons, tied with Innodem.
 Second highest status chance of all hammers, behind Synoid Heliocor.
 Slowest attack speed of all hammers.
-**Acquisition:**
-The Arca Titron's blueprint can be purchased from the Market.
 **Notes:**
 Slam Capacitor charges have infinite duration and are only consumed on a slam attack.
 Up to 5 charges can be collected. (Currently, Visual UI bug)
@@ -314,7 +317,6 @@ Visually can be seen with the electricity charged in the hammer
 Melee combos in both stances for Hammers have built-in slam attacks which neither consume Slam Capacitor charges nor benefit from them.
 Kills made with slam attacks do not grant Slam Capacitor charges, even on slams with no charges.
 Kills from status effects will however grant charges, including procs from slam attacks.
-26
 **Type:** Melee | **Mastery Req:** 10 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -341,6 +343,10 @@ Crit Chance: 24.00% | Crit Multiplier: 2x | Status Chance: 38.00% | Fire Rate: 0
 ## Argo & Vel
 Argo & Vel bolster the warrior who stands fast. Its Heavy Attack sends forth a glaive that ricochets off enemies.
 
+### Acquisition
+The Blueprint for Argo & Vel can be purchased in Teshin's Cave for 60 Pathos Clamp or 225. Purchasing using the former will unlock the Drifter-compatible version and the blueprint for a Warframe-compatible version; purchasing using the latter will unlock both versions.
+Additional copies can be purchased from Cephalon Simaris for 100,000 Standing.
+
 ### Wiki
 Weapons
 Argo & Vel bolster the warrior who stands fast. Its Heavy Attack sends forth a glaive that ricochets off enemies.
@@ -354,9 +360,6 @@ If the glaive hits an enemy, it will ricochet towards 1 other nearby enemy.
 As a Warframe, blocking ranged attacks has a chance to stagger the attacker, and blocking melee attacks has a much higher counter chance
 Drifter Combat
 Power Strike (blocking + heavy attack, default RMB + MMB) performs a charged swing that inflicts Slash. Perfect parrying resets Power Strike cooldown.
-**Acquisition:**
-The Blueprint for Argo & Vel can be purchased in Teshin's Cave for 60 Pathos Clamp or 225. Purchasing using the former will unlock the Drifter-compatible version and the blueprint for a Warframe-compatible version; purchasing using the latter will unlock both versions.
-Additional copies can be purchased from Cephalon Simaris for 100,000 Standing.
 **Type:** Melee | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -449,6 +452,10 @@ Crit Chance: 9.00% | Crit Multiplier: 1.9x | Status Chance: 28.00% | Fire Rate: 
 ## Atterax
 A multi-bladed whip that is adept at flaying skin from bone. In extreme cases, disobedient Grineer are sentenced to death by Atterax.
 
+### Acquisition
+The Atterax's blueprint can be purchased from the Market.
+This weapon can be sold for 5,000.
+
 ### Wiki
 Weapons
 A multi-bladed whip that is adept at flaying skin from bone. In extreme cases, disobedient Grineer are sentenced to death by Atterax.
@@ -457,16 +464,12 @@ Characteristics
 This weapon deals primarily Slash damage.
 Stance slot has Vazarin polarity, matching Burning Wasp stance.
 Lowest status chance of all whips.
-**Acquisition:**
-The Atterax's blueprint can be purchased from the Market.
-This weapon can be sold for 5,000.
 **Trivia:**
 Bears a close resemblance to medieval Flails.
 The head's blades open up if the blocking button is pressed while the Atterax is equipped, and fold inside again after one strike. It is unknown if this is beneficial to its stats in any way.
 The Grineer writing on both the handguard and hilt, while very hard to make out, seems to say "MEAT BLENDER" which translates to "MEAT BLENDER".
 This weapon seems to share a base color scheme with Executioner Harkonar, which implies that this is one of the weapons produced in the Harkonar Production Zone as stated in Executioner Harkonar's Codex Entry.
 Darvo uses the Atterax for plumbing.
-26
 **Type:** Melee | **Mastery Req:** 5 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -493,6 +496,10 @@ Crit Chance: 25.00% | Crit Multiplier: 3x | Status Chance: 10.00% | Fire Rate: 0
 ## Azothane
 Azothane calls the visionary warrior to turn the tides of battle. Block and melee attack at the same time to plunge Azothane into the ground, damaging nearby enemies with a shockwave and adding to the combo counter.
 
+### Acquisition
+The Blueprint for Azothane can be purchased in Teshin's Cave for 50 Pathos Clamp or 250. Purchasing using the former will unlock the Drifter-compatible version and the blueprint for a Warframe-compatible version; purchasing using the latter will unlock both versions.
+Additional Warframe-compatible blueprint copies can be purchased from Cephalon Simaris for 100,000 Standing.
+
 ### Wiki
 Weapons
 Azothane calls the visionary warrior to turn the tides of battle. Block and melee attack at the same time to plunge Azothane into the ground, damaging nearby enemies with a shockwave and adding to the combo counter.
@@ -505,9 +512,6 @@ Drifter Combat
 Power Strike (blocking + heavy attack, default RMB + MMB) plunges the blade into the ground to release five energy waves forward in a cone, dealing Cold damage with guaranteed procs.
 This indirectly increases the subsequent coming crit damage as Cold status enhances the critical multipliers received on the enemies.
 Tied with War for the longest reach of all non-exalted melee weapons.
-**Acquisition:**
-The Blueprint for Azothane can be purchased in Teshin's Cave for 50 Pathos Clamp or 250. Purchasing using the former will unlock the Drifter-compatible version and the blueprint for a Warframe-compatible version; purchasing using the latter will unlock both versions.
-Additional Warframe-compatible blueprint copies can be purchased from Cephalon Simaris for 100,000 Standing.
 **Notes:**
 Shockwave
 For each enemy hit, the shockwave will add 4 hits to the Melee Combo
@@ -542,10 +546,7 @@ Crit Chance: 34.00% | Crit Multiplier: 3x | Status Chance: 10.00% | Fire Rate: 1
 
 ## Balla
 
-### Wiki
-In game description
-The Balla is a Puncture-focused bladed Strike used in Zaw construction.
-**Acquisition:**
+### Acquisition
 The Balla blueprint can be acquired after reaching the Rank of Neutral with the Ostrons and buying it from Hok for 1,000 Standing.
 Characteristics
 This Strike primarily deals Puncture damage.
@@ -555,12 +556,20 @@ This Strike primarily deals Puncture damage.
 Compatible weapon types:
 Dagger
 Staff
+
+### Wiki
+In game description
+The Balla is a Puncture-focused bladed Strike used in Zaw construction.
 **Trivia:**
 Should the player wish to name their weapon with the word 'Balla', as per the strike's name, the game will not let the player do so as it is considered profanity. Zaws created shortly after the release of Update 22.0 can have that name before the game's profanity filters were updated.
 **Type:** Zaw Component
 
 ## Bo
 A two-handed, reinforced staff that can send multiple enemies airborne.
+
+### Acquisition
+During Awakening, the Bo is one of two weapons offered to the player, the other being Skana.
+The blueprint can be purchased from the Market.
 
 ### Wiki
 Weapons
@@ -575,9 +584,6 @@ Stance mod has Unairu polarity, matches Flailing Branch stance.
 Innate Vazarin polarity.
 Mk1-Bo
 Bo Prime
-**Acquisition:**
-During Awakening, the Bo is one of two weapons offered to the player, the other being Skana.
-The blueprint can be purchased from the Market.
 **Notes:**
 Acquiring Bo will also come with the Flailing Branch stance mod pre-installed.
 Incarnon Genesis
@@ -588,7 +594,6 @@ Bo Incarnon Genesis#Evolutions
 Bō (棒:ぼう) is the Japanese word for stick/rod/staff. Used in various forms and styles of martial arts around the world, the staff is a highly versatile weapon. Its composition is usually made of hard wood, and can vary from light to heavy, flexible to rigid, and from simple shaft to decorated ornaments. A bō staff is typically 6 feet long, with other staves of various lengths possessing different names.
 Despite the blue energy depicted in the Bo's portrait, the default energy color of the Bo is red.
 The Bo had a significantly different model in the past, it was updated in Update 19.10
-26
 **Type:** Melee | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -641,7 +646,6 @@ The Bo Prime was first seen as an accidentally leaked Codex entry in Update 13, 
 Bo Prime's ornaments protract when in use.
 The Bo Prime briefly appeared on the Market for 65 following Update 17.1.0. This error was quickly corrected with Update 17.1.1.
 UTyfEG7SSsw
-26
 **Type:** Melee | **Mastery Req:** 5 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -667,6 +671,11 @@ Crit Chance: 24.00% | Crit Multiplier: 2.6x | Status Chance: 10.00% | Fire Rate:
 ## Boltace
 An intimidating Tonfa set designed to match the briary design of the Boltor.
 
+### Acquisition
+The Boltace's blueprint can be purchased from the Market.
+This weapon can be sold for.
+vqQCszhBdhA
+
 ### Wiki
 Weapons
 An intimidating Tonfa set designed to match the briary design of the Boltor.
@@ -676,11 +685,6 @@ This weapon deals primarily Puncture damage.
 Stance slot has Madurai polarity, matching Gemini Cross and Star Divide (Conclave only) stance.
 Tied with Ohma for the slowest attack speed of all tonfas.
 Telos Boltace
-**Acquisition:**
-The Boltace's blueprint can be purchased from the Market.
-This weapon can be sold for.
-vqQCszhBdhA
-26
 **Type:** Melee | **Mastery Req:** 4 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -706,6 +710,10 @@ Crit Chance: 6.00% | Crit Multiplier: 1.5x | Status Chance: 10.00% | Fire Rate: 
 ## Broken Scepter
 A shattered talisman of the Grineer Elder Queen. It pulls health orbs from deceased enemies and energy orbs from destroyed robots.
 
+### Acquisition
+A built Broken Scepter is given on completion of The War Within, complete with a free weapon slot and a pre-installed Orokin Catalyst. A second Broken Scepter will not be given on a replay.
+Additional blueprints can be bought from Cephalon Simaris for 100,000 Standing.
+
 ### Wiki
 Weapons
 A shattered talisman of the Grineer Elder Queen. It pulls health orbs from deceased enemies and energy orbs from destroyed robots.
@@ -720,9 +728,6 @@ Highest base damage of all staves.
 Second highest status chance of all staves, behind Bo Prime.
 Tied with Amphis for the second fastest attack speed of all staves, behind Tipedo.
 Lowest critical chance of all staves.
-**Acquisition:**
-A built Broken Scepter is given on completion of The War Within, complete with a free weapon slot and a pre-installed Orokin Catalyst. A second Broken Scepter will not be given on a replay.
-Additional blueprints can be bought from Cephalon Simaris for 100,000 Standing.
 **Type:** Melee | **Mastery Req:** 7 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -794,6 +799,9 @@ Crit Chance: 35.00% | Crit Multiplier: 2.2x | Status Chance: 10.00% | Fire Rate:
 ## Cadus
 A lone Tenno once used this staff to fight back a horde of Infested.
 
+### Acquisition
+The Cadus's blueprint can be purchased from the market for 50,000.
+
 ### Wiki
 Weapons
 A lone Tenno once used this staff to fight back a horde of Infested.
@@ -802,8 +810,6 @@ Characteristics
 This weapon deals Electricity damage.
 Unairu stance polarity matches Flailing Branch.
 Innate Vazarin polarity.
-**Acquisition:**
-The Cadus's blueprint can be purchased from the market for 50,000.
 **Notes:**
 When combining elements, the innate Electricity damage is added last.
 The Mk1-Bo cannot be used to craft the Cadus.
@@ -836,6 +842,10 @@ Crit Chance: 15.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 1
 ## Cassowar
 Light and nimble, the twin blades of this polearm will swoop and slice through throngs of hardened foes.
 
+### Acquisition
+The Cassowar's blueprint can be researched from the Tenno Lab in the dojo.
+Can be sold for 5,000.
+
 ### Wiki
 Weapons
 Light and nimble, the twin blades of this polearm will swoop and slice through throngs of hardened foes.
@@ -847,9 +857,6 @@ Innate Madurai and Vazarin polarities.
 Tied with the Orthos Prime for the fastest attack speed of all polearms.
 Third lowest base damage of all polearms, after Orthos and Tonbo.
 Lowest critical chance and critical multiplier of all polearms.
-**Acquisition:**
-The Cassowar's blueprint can be researched from the Tenno Lab in the dojo.
-Can be sold for 5,000.
 **Tips:**
 Can be built for status and Condition Overload to boost its damage output.
 Cassowar's high attack speed allows it to proc statuses quickly.
@@ -857,7 +864,6 @@ Cassowar's high attack speed allows it to proc statuses quickly.
 The name Cassowar could be based on the Cassowary, a large flightless bird native to the tropical forests of New Guinea (Papua New Guinea and Indonesia), nearby islands, and northeastern Australia. Cassowary is considered as one of the most dangerous birds in the world as it can be quite aggressive if provoked and can inflict serious or even fatal wounds to humans.
 The Cassowar's high attack speed ties in to the Cassowary's high running speed.
 The Cassowar's blades slightly resemble the shape of the Cassowary's head.
-26
 **Type:** Melee | **Mastery Req:** 5 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -884,6 +890,9 @@ Crit Chance: 6.00% | Crit Multiplier: 1.4x | Status Chance: 10.00% | Fire Rate: 
 ## Caustacyst
 Heavy attacks from this scythe unleash a wave of acid that mutilates enemies and leaves a trail of corrosive sludge.
 
+### Acquisition
+The Caustacyst's blueprint can be researched from the Bio Lab in the dojo.
+
 ### Wiki
 Actual stats of heavy attack projectile + trail
 Weapons
@@ -896,8 +905,6 @@ Zenurik stance polarity matches Stalking Fan.
 Innate Madurai polarity.
 Lowest critical chance of all scythes.
 Coda Caustacyst
-**Acquisition:**
-The Caustacyst's blueprint can be researched from the Bio Lab in the dojo.
 **Notes:**
 When performing a heavy attack, the Caustacyst throws a 3m wide toxic wave in the direction of the player's aim.
 Wave flies at a constant speed of 15 m/s until it dissipates after 2.5s, which corresponds to a maximum distance of 37.5m
@@ -944,6 +951,9 @@ Crit Chance: 9.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 1
 ## Ceramic Dagger
 This short blade weapon was built using ceramic. It has limited range but comes out fast.
 
+### Acquisition
+The Ceramic Dagger's blueprint can be bought from Nightwave Offerings. Note that the offerings are on a 7-day rotation, and this weapon may not be available on a succeeding appearance.
+
 ### Wiki
 Weapons
 This short blade weapon was built using ceramic. It has limited range but comes out fast.
@@ -953,8 +963,6 @@ Characteristics
 This weapon deals primarily Puncture damage.
 Stance slot has Madurai polarity, matching Stinging Thorn and Pointed Wind stance.
 Grants a 10% Movement Speed bonus when held (i.e. melee mode or quick melee).
-**Acquisition:**
-The Ceramic Dagger's blueprint can be bought from Nightwave Offerings. Note that the offerings are on a 7-day rotation, and this weapon may not be available on a succeeding appearance.
 **Notes:**
 When equipped without a Stance mod, the Ceramic Dagger adds a 4th lunging stab to its normal attack combo, which propels the Warframe a good distance forward, which is useful in catching up to moving enemies. It also has a 100% chance of inflicting Slash bleed proc. This effect is lost if one uses the Pointed Wind stance, which replaces the lunge with a sweeping slash.
 If the lunge lands behind an unalerted enemy, a stealth attack will be performed instead.
@@ -996,6 +1004,9 @@ Crit Chance: 10.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 1
 ## Cerata
 Twisted and tortured from exposure to the Infestation, this glaive becomes an absolute predator in the hands of the right Tenno.
 
+### Acquisition
+The Cerata's blueprint can be researched from the Bio Lab in the dojo.
+
 ### Wiki
 Twisted and tortured from exposure to the Infestation, this glaive becomes an absolute predator in the hands of the right Tenno.
 The Cerata is an Infested Glaive that primarily deals Toxin damage on melee and thrown attacks.
@@ -1016,8 +1027,6 @@ Cannot use melee attacks or block while the glaive is in mid-flight.
 Can use the Glaive-exclusive mods Combo Fury, Power Throw, Quick Return (Volatile Quick Return), Rebound (Volatile Rebound), and Whirlwind.
 Stance slot has Naramon polarity, matching Gleaming Talon, Astral Twilight and Celestial Nightfall (Conclave only) stance.
 Innate Madurai and Vazarin polarities.
-**Acquisition:**
-The Cerata's blueprint can be researched from the Bio Lab in the dojo.
 **Type:** Melee | **Mastery Req:** 7 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -1068,6 +1077,17 @@ Crit Chance: 15.00% | Crit Multiplier: 2x | Status Chance: 30.00% | Fire Rate: 1
 ## Ceti Lacera
 Forged for veterans of the Scarlet Spear conflict, this Lacera has been modified to enhance nimbleness and lethality.
 
+### Acquisition
+Ceti Lacera's blueprint is obtainable from limited-time events:
+Ceti Lacera was first introduced in Operation: Scarlet Spear, purchasable from Little Duck for 20,000 Scarlet Credits.
+Operation: Orphix Venom sold Ceti Lacera's blueprint from Father for 2,000 Phasic Cells.
+Operation: Gargoyle's Cry sold Ceti Lacera's blueprint from Vigil Jahu Gargoyle for 3 Grotesque Splinter.
+The October 2021, 2022, 2023, 2024, and 2025 Nights of Naberus sold Ceti Lacera's blueprint from Daughter for 125 Mother Token.
+Operation: Belly of the Beast sold Ceti Lacera's blueprint from Ordis for 15 Volatile Motes. Has a purchase limit of 1.
+Operation: Eight Claw sold Ceti Lacera's blueprint from Dominus Thrax for 9 Dominus Aureus. Has a purchase limit of 1.
+Operation: Blood of Perita sold Ceti Lacera's blueprint from Roathe for 20 Marks of Valiance. Has a purchase limit of 1.
+The blueprint can be traded between players.
+
 ### Wiki
 Weapons
 Forged for veterans of the Scarlet Spear conflict, this Lacera has been modified to enhance nimbleness and lethality.
@@ -1078,16 +1098,6 @@ Slam Attack deals Electricity damage.
 Innate Naramon polarity.
 Stance slot has Madurai polarity, matching Defiled Snapdragon and Tainted Hydra (Conclave only) stance.
 Lacera
-**Acquisition:**
-Ceti Lacera's blueprint is obtainable from limited-time events:
-Ceti Lacera was first introduced in Operation: Scarlet Spear, purchasable from Little Duck for 20,000 Scarlet Credits.
-Operation: Orphix Venom sold Ceti Lacera's blueprint from Father for 2,000 Phasic Cells.
-Operation: Gargoyle's Cry sold Ceti Lacera's blueprint from Vigil Jahu Gargoyle for 3 Grotesque Splinter.
-The October 2021, 2022, 2023, 2024, and 2025 Nights of Naberus sold Ceti Lacera's blueprint from Daughter for 125 Mother Token.
-Operation: Belly of the Beast sold Ceti Lacera's blueprint from Ordis for 15 Volatile Motes. Has a purchase limit of 1.
-Operation: Eight Claw sold Ceti Lacera's blueprint from Dominus Thrax for 9 Dominus Aureus. Has a purchase limit of 1.
-Operation: Blood of Perita sold Ceti Lacera's blueprint from Roathe for 20 Marks of Valiance. Has a purchase limit of 1.
-The blueprint can be traded between players.
 **Notes:**
 When combining elements the innate Electricity damage is added last, unless another mod adds this type.
 The fourth attack of the stanceless/Claws of the Drake combo as well as the Heavy Attack use the whip to ragdoll and pull enemies towards the player.
@@ -1122,6 +1132,9 @@ Crit Chance: 20.00% | Crit Multiplier: 2x | Status Chance: 45.00% | Fire Rate: 1
 ## Cobra & Crane
 Baruuk's signature weapons: a sword for retribution, a shield for restraint. In Baruuk's hands, and his hands only, Cobra's first strike in a combo renders his foe unconscious.
 
+### Acquisition
+The Cobra & Crane's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 Baruuk's signature weapons: a sword of retribution, a shield of restraint. In Baruuk's hands, and his hands only, Cobra's first strike in a combo renders his foe unconscious.
@@ -1137,8 +1150,6 @@ Status Chance Bonus is additive to Melee Prowess, Weeping Wounds, and other simi
 When used by Baruuk/Baruuk Prime, the first strike of a combo will put the enemy to sleep for 2 seconds.
 Hitting a Nullifier bubble will put the respective Nullifier or Corrupted Nullifier to sleep, regardless of weapon range.
 Cobra & Crane Prime
-**Acquisition:**
-The Cobra & Crane's blueprint can be purchased from the Market.
 **Type:** Melee | **Mastery Req:** 10 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -1245,6 +1256,9 @@ Crit Chance: 19.00% | Crit Multiplier: 2.3x | Status Chance: 10.00% | Fire Rate:
 ## Coda Hirudo
 Rip and shred your enemies to pieces with the Coda Hirudo. With improved Damage, Status Chance, Critical Chance, and Critical Damage.
 
+### Acquisition
+Lich System/Weapons#Coda Acquisition
+
 ### Wiki
 Weapons
 Rip and shred your enemies to pieces with the Technocyte Coda Hirudo. With improved Damage, Status Chance, and Critical Chance and Critical Multiplier.
@@ -1262,8 +1276,6 @@ Polarizing the weapon increases its max rank by 2, capping at rank 40 after 5 po
 Elemental Vice can be applied to the weapon after it has reached rank 40, allowing the bonus damage type to be swapped freely.
 Unlike Kuva and Tenet weapons directly acquired from a Kuva Lich or Sisters of Parvos, the listed Mastery Rank requirement is enforced.
 Hirudo
-**Acquisition:**
-Lich System/Weapons#Coda Acquisition
 **Notes:**
 Adversary System#Notes
 **Type:** Melee | **Mastery Req:** 17 | **Riven Disposition:** 1
@@ -1283,6 +1295,10 @@ Crit Chance: 34.00% | Crit Multiplier: 3.1x | Status Chance: 10.00% | Fire Rate:
 ## Coda Mire
 The Plague Year of 1999 will never be the same. With improved Critical Multipler, Critical Chance, and Status Chance, the Technocyte virus has turned the Coda Mire into a truly horrifying blade.
 
+### Acquisition
+Lich System/Weapons#Coda Acquisition
+Adversary System#Notes
+
 ### Wiki
 Weapons
 The Plague Year of 1999 will never be the same. With improved Critical Multiplier, Critical Chance and Status Chance, the Technocyte virus has turned the Coda Mire into a truly horrifying blade.
@@ -1300,9 +1316,6 @@ Polarizing the weapon increases its max rank by 2, capping at rank 40 after 5 po
 Elemental Vice can be applied to the weapon after it has reached rank 40, allowing the bonus damage type to be swapped freely.
 Unlike Kuva and Tenet weapons directly acquired from a Kuva Lich or Sisters of Parvos, the listed Mastery Rank requirement is enforced.
 Mire
-**Acquisition:**
-Lich System/Weapons#Coda Acquisition
-Adversary System#Notes
 **Trivia:**
 Coda Mire is one of five Coda weapons and one of two Coda melee weapons with speakers.
 **Type:** Melee | **Mastery Req:** 17 | **Riven Disposition:** 1
@@ -1321,6 +1334,9 @@ Crit Chance: 18.00% | Crit Multiplier: 2.4x | Status Chance: 31.00% | Fire Rate:
 
 ## Coda Motovore
 Drive home the pain with this hammer evolved from a scooter assembly. The wheel shapeshifts and gains a unique buff to match whatever type of physical damage it has been modded for.
+
+### Acquisition
+Adversary System/Weapons#Coda Acquisition
 
 ### Wiki
 Weapons
@@ -1341,8 +1357,6 @@ Valence Fusion can optionally change the resulting output damage type, and can u
 Polarizing the weapon increases its max rank by 2, capping at rank 40 after 5 polarizations, granting the weapon additional mod capacity.
 Elemental Vice can be applied to the weapon after it has reached rank 40, allowing the bonus damage type to be swapped freely.
 Unlike Kuva and Tenet weapons directly acquired from a Kuva Lich or Sisters of Parvos, the listed Mastery Rank requirement is enforced.
-**Acquisition:**
-Adversary System/Weapons#Coda Acquisition
 **Type:** Melee | **Mastery Req:** 17 | **Riven Disposition:** 1
 
 ### Normal Attack
@@ -1509,10 +1523,7 @@ Crit Chance: 6.00% | Crit Multiplier: 1.5x | Status Chance: 10.00% | Fire Rate: 
 
 ## Cyath
 
-### Wiki
-In-game description
-The Cyath is a Slash-focused bladed Strike used in Zaw construction.
-**Acquisition:**
+### Acquisition
 The Cyath blueprint can be acquired after reaching the Rank of Neutral with the Ostrons and buying it from Hok for 1,000 Standing.
 Characteristics
 This Strike primarily deals Slash damage.
@@ -1522,6 +1533,10 @@ This Strike primarily deals Slash damage.
 Compatible weapon types:
 Machete
 Polearm
+
+### Wiki
+In-game description
+The Cyath is a Slash-focused bladed Strike used in Zaw construction.
 **Type:** Zaw Component
 
 ## Dakra Prime
@@ -1567,6 +1582,9 @@ Crit Chance: 36.00% | Crit Multiplier: 2.4x | Status Chance: 10.00% | Fire Rate:
 ## Dark Dagger
 This short blade weapon forged using dark metals has limited range but comes out fast.
 
+### Acquisition
+The Dark Dagger's blueprint can be bought from Nightwave Offerings. Note that the offerings are on a 7-day rotation, and this weapon may not be available on a succeeding appearance.
+
 ### Wiki
 Tenno
 This short blade weapon forged using dark metals has limited range but comes out fast.
@@ -1579,8 +1597,6 @@ Can use the Dark Dagger-exclusive Gleaming Blight mod.
 Can use the dagger-exclusive Covert Lethality mod.
 Grants a 10% Movement Speed bonus when held (i.e. melee mode or quick melee).
 Rakta Dark Dagger
-**Acquisition:**
-The Dark Dagger's blueprint can be bought from Nightwave Offerings. Note that the offerings are on a 7-day rotation, and this weapon may not be available on a succeeding appearance.
 **Notes:**
 When equipped without a Stance mod, the Dark Dagger adds a 4th lunging stab on its normal attack combo that propels the Warframe a good distance forward, which is useful for catching up to moving enemies. It also has a 100% chance of inflicting Slash bleed proc, despite the fact that the Dark Dagger has no physical damage element. This effect is lost if one uses the Pointed Wind stance, which replaces the lunge with a sweeping slash.
 If the lunge lands behind an unalerted enemy, a stealth attack will be performed instead.
@@ -1588,7 +1604,6 @@ If the lunge lands behind an unalerted enemy, a stealth attack will be performed
 The Dark Dagger and its longer version the Dark Sword were previously physical damage weapons. Update 13 changed them to deal purely Radiation damage on their normal attacks, making them the first melee weapons to do so.
 Prior to Update 19, the Dark Dagger and the Dark Sword used exactly the same image for the Arsenal and Codex.
 Prior to Update 40, the Dark Dagger was the only melee weapon whose built-in stance polarity (Unairu) did not match with any available stance mods.
-40
 **Type:** Melee | **Mastery Req:** 2 | **Riven Disposition:** 3
 
 ### Normal Attack
@@ -1615,6 +1630,9 @@ Crit Chance: 8.00% | Crit Multiplier: 1.5x | Status Chance: 22.00% | Fire Rate: 
 ## Dark Split-Sword
 Use as a devastating heavy sword or apply a Dual Melee stance and split the weapon into two ferocious blades.
 
+### Acquisition
+The Dark Split-Sword's blueprint can be researched from the Tenno Lab in the dojo.
+
 ### Wiki
 Weapons
 Use as a devastating heavy sword or apply a Dual Melee stance and split the weapon into two ferocious blades.
@@ -1628,8 +1646,6 @@ Heavy Blade
 Dual Swords
 Grants a 5% Movement Speed bonus when held (i.e. melee mode or quick melee).
 Dark Split-Sword (Dual Swords)
-**Acquisition:**
-The Dark Split-Sword's blueprint can be researched from the Tenno Lab in the dojo.
 **Notes:**
 Without any stance equipped, the Dark Split-Sword is used as a Heavy Blade weapon by default.
 Dual Sword form grants a 5% Movement Speed bonus when held (i.e. melee mode or quick melee).
@@ -1650,6 +1666,9 @@ Players can use a Stance Forma in order to add either Heavy Blade or Dual Sword 
 ## Dark Sword
 A blade forged using dark metals, capable of delivering innate Radiation Damage with attacks.
 
+### Acquisition
+The Dark Sword's blueprint can be bought from Nightwave Offerings. Note that the offerings are on a 7-day rotation, and this weapon may not be available on a succeeding appearance.
+
 ### Wiki
 Weapons
 A blade forged using dark metals, capable of delivering high-damage charge attacks.
@@ -1661,8 +1680,6 @@ Slam Radial Damage deals Toxin damage.
 Stance slot has Unairu polarity, matching Iron Phoenix and Rising Steel (Conclave only) stance.
 Highest base damage of all swords.
 Highest status chance of all swords.
-**Acquisition:**
-The Dark Sword's blueprint can be bought from Nightwave Offerings. Note that the offerings are on a 7-day rotation, and this weapon may not be available on a succeeding appearance.
 **Notes:**
 Slam attacks deal Toxin damage.
 **Trivia:**
@@ -1670,7 +1687,6 @@ The Dark Sword and its shorter counterpart the Dark Dagger were previously physi
 Prior to Update 19, the Dark Dagger and the Dark Sword used exactly the same image for the Arsenal and Codex.
 Due to its black color and Radiation damage, it may be an homage to Kanajana, which is a notably radioactive "manifestation" of the Black Sword (Stormbringer), from the works of science fiction author Michael Moorcock.
 AHUE9hwe4qg
-26
 **Type:** Melee | **Mastery Req:** 8 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -1696,10 +1712,7 @@ Crit Chance: 5.00% | Crit Multiplier: 1.5x | Status Chance: 40.00% | Fire Rate: 
 
 ## Dehtat
 
-### Wiki
-In-game description
-The Dehtat is a Puncture-focused Strike used in Zaw construction.
-**Acquisition:**
+### Acquisition
 The Dehtat blueprint can be acquired after reaching the Rank of Neutral with the Ostrons and buying it from Hok for 1,000 Standing.
 Characteristics
 This strike primarily deals Puncture damage
@@ -1709,10 +1722,17 @@ This strike primarily deals Puncture damage
 Compatible weapon types:
 Rapier
 Polearm
+
+### Wiki
+In-game description
+The Dehtat is a Puncture-focused Strike used in Zaw construction.
 **Type:** Zaw Component
 
 ## Destreza
 Elevate martial combat into an art form with this Tenno rapier.
+
+### Acquisition
+The Destreza's blueprint can be purchased from the Market.
 
 ### Wiki
 Weapon
@@ -1725,8 +1745,6 @@ Stance slot has Naramon polarity, matching Vulpine Mask and Cunning Aspect (Conc
 Innate Madurai polarity.
 Lowest status chance of all rapiers.
 Destreza Prime
-**Acquisition:**
-The Destreza's blueprint can be purchased from the Market.
 **Notes:**
 Due to the innate ability to apply a slash proc on the first strike, in combination with the high critical chance and ability for a Blood Rush/Body Count build, this weapon works very well with Relentless Combination.
 **Trivia:**
@@ -1734,7 +1752,6 @@ The rapier's name is derived from La Verdadera Destreza, an Iberian system of fe
 The weapon's shape greatly resembles the letter "J" of the Orokin Language.
 Before Update 18.5, the Destreza was one of the few weapons capable of performing stealth attacks on MOAs and their variants, the others being nunchaku and blade-whips.
 yZDC01c4aBA
-26
 **Type:** Melee | **Mastery Req:** 7 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -1773,7 +1790,6 @@ Highest critical chance and critical multiplier of all rapiers.
 Destreza
 **Trivia:**
 Destreza Prime is the first Prime Rapier to be introduced to the game.
-26
 **Type:** Melee | **Mastery Req:** 10 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -1799,6 +1815,9 @@ Crit Chance: 32.00% | Crit Multiplier: 3x | Status Chance: 10.00% | Fire Rate: 0
 ## Dex Dakra
 A gift from the Lotus to commemorate the anniversary of the first Tenno waking from Cryo stasis.
 
+### Acquisition
+The Dex Dakra was released in commemoration of WARFRAME's 2nd Year Anniversary. It is obtainable through yearly anniversaries in March via Alerts, complete with a free weapon slot and a pre-installed Orokin Catalyst.
+
 ### Wiki
 Weapons
 A gift from the Lotus to commemorate the awakening of the first Tenno from Cryo stasis.
@@ -1808,8 +1827,6 @@ This weapon deals primarily Slash damage.
 Stance slot has Zenurik polarity, matches Swirling Tiger stance.
 Innate Naramon polarity.
 Tied with Dual Cleavers and Dual Skana for the slowest attack speed of all dual swords.
-**Acquisition:**
-The Dex Dakra was released in commemoration of WARFRAME's 2nd Year Anniversary. It is obtainable through yearly anniversaries in March via Alerts, complete with a free weapon slot and a pre-installed Orokin Catalyst.
 **Notes:**
 Despite being a (hypothetical) variant of the Dakra Prime, the two weapons do not share Riven Mods; they both have their dedicated Rivens.
 **Trivia:**
@@ -1820,7 +1837,6 @@ When performing a ground slam, the Dex Dakra features a unique animation where e
 For a short period of time following its release, the Dex Dakra had no Stance polarity before it was fixed in an undocumented hotfix.
 The Dex Dakra was first given to all players who logged in from March 25 to April 1, 2015. They were re-released from March 22 to March 29, 2016 alongside the Dex Furis and Dex Sybaris, March 24 to March 27, 2017. There was a re-release of the 3 weapons and a Dex Nouchali Syandana occurred during March 14 to March 28, 2018. These rewards were again given to players from March 27 to April 10, 2019 via Gift from the Lotus alerts.
 KG0WruqeIFY
-26
 **Type:** Melee | **Mastery Req:** 6 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -1838,6 +1854,9 @@ Crit Chance: 16.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 0
 ## Dex Nikana
 A gift from the Lotus to commemorate the eleventh anniversary of the first Tenno waking from Cryo stasis.
 
+### Acquisition
+The Dex Nikana was released in commemoration of WARFRAME's 11th Year Anniversary. It is obtainable through yearly anniversaries in March via Alerts, complete with a free weapon slot and a pre-installed Orokin Catalyst.
+
 ### Wiki
 Weapons
 A gift from the Lotus to commemorate the eleventh anniversary of the first Tenno waking from Cryo stasis.
@@ -1848,8 +1867,6 @@ Gains 1x Melee Combo every 11 hits (down from 20), but max multiplier is reduced
 Nikana
 Dragon Nikana
 Nikana Prime
-**Acquisition:**
-The Dex Nikana was released in commemoration of WARFRAME's 11th Year Anniversary. It is obtainable through yearly anniversaries in March via Alerts, complete with a free weapon slot and a pre-installed Orokin Catalyst.
 **Type:** Melee | **Mastery Req:** 8 | **Riven Disposition:** 3
 
 ### Normal Attack
@@ -1866,10 +1883,7 @@ Crit Chance: 24.00% | Crit Multiplier: 2.6x | Status Chance: 10.00% | Fire Rate:
 
 ## Dokrahm
 
-### Wiki
-In game description
-The Dokrahm is a Slash-focused Strike used in Zaw construction.
-**Acquisition:**
+### Acquisition
 The Dokrahm blueprint can be acquired after reaching the Rank of Neutral with the Ostrons and buying it from Hok for 1,000 Standing.
 Characteristics
 This Strike primarily deals Slash damage.
@@ -1879,6 +1893,10 @@ This Strike primarily deals Slash damage.
 Compatible weapon types:
 Scythe
 Heavy Blade
+
+### Wiki
+In game description
+The Dokrahm is a Slash-focused Strike used in Zaw construction.
 **Type:** Zaw Component | **Riven Disposition:** 1
 
 ### Dokrahm Strike
@@ -1897,6 +1915,11 @@ Crit Chance: 18.00% | Crit Multiplier: 2x | Status Chance: 18.00% | Fire Rate: 1
 ## Dorrclave
 After 10 kills or assists, Dorrclave enters a spectral state that doubles weapon Follow Through and guarantees Status Effects for the next 10 attacks. In Dagath's hands, each active Status Effect heals her slightly.
 
+### Acquisition
+Dorrclave's main and component blueprints are acquired from Dagath's Hollow within the Clan Dojo. Unlike most Clan Dojo rooms, Dorrclave does not require Research and can be acquired immediately following the room's construction.
+Component blueprints require a total of 80 Vainthorn, obtained from the Abyssal Zone, a unique Exterminate mission on Ceres. Access requires Abyssal Beacons, purchased from Faction Syndicate (Steel Meridian, Arbiters of Hexis, Cephalon Suda, The Perrin Sequence, Red Veil, or New Loka) at Rank 2 and 5000 Standing, consuming only the host's beacon upon mission completion. Each clear awards 6, 7, or 8 Vainthorns (8, 11, or 12 on The Steel Path).
+Crafting
+
 ### Wiki
 Weapon
 After 10 kills or assists, Dorrclave enters a spectral state that doubles weapon Follow Through and guarantees Status Effects for the next 10 attacks. In Dagath's hands, each active Status Effect heals her slightly.
@@ -1907,10 +1930,6 @@ This weapon deals pure Slash damage.
 Charges are indicated by 10 blips that appear on the reticle brackets. When the buff activates, the reticle changes color.
 Charges are only consumed when they strike an enemy.
 When used by Dagath, she heals 6 health per active Status Effect on an enemy she strikes.
-**Acquisition:**
-Dorrclave's main and component blueprints are acquired from Dagath's Hollow within the Clan Dojo. Unlike most Clan Dojo rooms, Dorrclave does not require Research and can be acquired immediately following the room's construction.
-Component blueprints require a total of 80 Vainthorn, obtained from the Abyssal Zone, a unique Exterminate mission on Ceres. Access requires Abyssal Beacons, purchased from Faction Syndicate (Steel Meridian, Arbiters of Hexis, Cephalon Suda, The Perrin Sequence, Red Veil, or New Loka) at Rank 2 and 5000 Standing, consuming only the host's beacon upon mission completion. Each clear awards 6, 7, or 8 Vainthorns (8, 11, or 12 on The Steel Path).
-Crafting
 **Trivia:**
 Many of the damage values on this weapon are sets of repeating numbers: normal and slide attacks are 222, slam attack is 666, and Heavy Attack is 888. These numbers may relate to the Number of the Beast, similarly to Dagath's Health when max rank.
 **Type:** Melee | **Mastery Req:** 8 | **Riven Disposition:** 3
@@ -1939,6 +1958,10 @@ Crit Chance: 26.00% | Crit Multiplier: 2.2x | Status Chance: 14.00% | Fire Rate:
 ## Dragon Nikana
 The Dragon Nikana is forged from ancient Tenno steel. This is a master's weapon, only the most worthy of Tenno may wield it.
 
+### Acquisition
+The Dragon Nikana's blueprint can be purchased from the Market.
+This weapon can be sold for 5,000.
+
 ### Wiki
 Weapons
 The Dragon Nikana is forged from ancient Tenno steel. This is a master's weapon, only the most worthy of Tenno may wield it.
@@ -1950,9 +1973,6 @@ Innate Madurai and Vazarin polarities.
 Second highest base damage of all nikanas, behind Nikana Prime.
 Nikana
 Nikana Prime
-**Acquisition:**
-The Dragon Nikana's blueprint can be purchased from the Market.
-This weapon can be sold for 5,000.
 **Notes:**
 Despite what its name suggests, Dragon Nikana is not a variant of the Nikana, so its considered its own weapon in regards to Riven Mods. In other words, Nikana Riven Mods cannot be equipped on the Dragon Nikana and vice versa.
 The default strikes of the Nikanas lash out quickly, but have noticeably longer delay before the next swing. This should be noted if you are particular about hit timing.
@@ -1983,6 +2003,9 @@ Crit Chance: 22.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 1
 ## Dual Cleavers
 Butcher your foes with brutal blades in each hand.
 
+### Acquisition
+The Dual Cleavers's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 Butcher your foes with brutal blades in each hand.
@@ -1996,11 +2019,8 @@ Stance slot has Naramon polarity, matching Carving Mantis, Crossing Snakes and D
 Innate Madurai polarity.
 Tied with Dual Skana and Dex Dakra for the slowest attack speed of all dual swords.
 Prisma Dual Cleavers
-**Acquisition:**
-The Dual Cleavers's blueprint can be purchased from the Market.
 **Trivia:**
 The Dual Cleavers' glowing blade is believed to stem from a super-heated element in the blade, a trait shared with two other Grineer melee weapons: the Machete and the Sheev.
-26
 **Type:** Melee | **Mastery Req:** 5 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -2027,6 +2047,9 @@ Crit Chance: 25.00% | Crit Multiplier: 3x | Status Chance: 10.00% | Fire Rate: 0
 ## Dual Ether
 Fast and precise. The Dual Ether cuts so cleanly that it was considered by the Tenno to be a more humane weapon for ‘cleansing' infested allies. Capable of hitting multiple targets.
 
+### Acquisition
+The Dual Ether's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 Fast and precise. The Dual Ether cuts so cleanly that it was considered by the Tenno to be a more humane weapon for 'cleansing' infested allies. Capable of hitting multiple targets.
@@ -2036,12 +2059,9 @@ Characteristics
 This weapon deals primarily Slash damage.
 Stance slot has Zenurik polarity, matches Swirling Tiger.
 Tied with Nami Skyla Prime for the third highest base damage of all dual swords, behind Twin Basolk and Twin Krohkur.
-**Acquisition:**
-The Dual Ether's blueprint can be purchased from the Market.
 **Trivia:**
 Used to have an innate armor ignoring attribute. This was removed with the introduction of Melee 2.0.
 yNqwoh6hvIs
-26
 **Type:** Melee | **Mastery Req:** 8 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -2068,6 +2088,9 @@ Crit Chance: 20.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 1
 ## Dual Heat Swords
 With a Heat Sword in each hand, enemies reach their fiery demise twice as fast. Can connect with multiple targets at once.
 
+### Acquisition
+The Dual Heat Sword's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 With a Heat Sword in each hand, enemies reach their fiery demise twice as fast. Can connect with multiple targets at once.
@@ -2077,14 +2100,11 @@ Characteristics
 This weapon deals primarily Slash damage.
 Normal slam attacks have a forced Heat proc.
 Innate Naramon polarity.
-**Acquisition:**
-The Dual Heat Sword's blueprint can be purchased from the Market.
 **Trivia:**
 Before Update 26, the Dual Heat Swords used to emit a visible ring of fire from slam attacks. This visual effect was also shared with the Heat Sword and Heat Dagger. Since then, all melee weapons make the same effect when doing slam attacks.
 The Dual Heat Swords received a visual change in Update 16.5, giving it a faded color scheme with texture animations similar to those found in Prisma weapons.
 A Red Veil member at the back of the room in the Relay can be seen torturing what seems to be a Grineer Butcher with this weapon, probably for interrogation. They hold theHeat Dagger in one hand while theHeat Sword is holstered on the lower back.
 Dual Heat Swords is the only melee weapon without a stance polarity.
-26
 Heat Sword, the single counterpart.
 Heat Dagger, the dagger version of the Heat Sword.
 **Type:** Melee | **Mastery Req:** 3 | **Riven Disposition:** 5
@@ -2113,6 +2133,9 @@ Crit Chance: 5.00% | Crit Multiplier: 1.5x | Status Chance: 10.00% | Fire Rate: 
 ## Dual Ichor
 The fast and brutal Dual Ichor axes will quickly tear through enemies with a high probability of inflicting Critical Damage.
 
+### Acquisition
+The Dual Ichor's blueprint can be researched from the Bio Lab in the dojo.
+
 ### Wiki
 Weapons
 The fast and brutal Dual Ichor axes will quickly tear through enemies with a high probability of inflicting critical damage.
@@ -2122,8 +2145,6 @@ Characteristics
 This weapon deals primarily Toxin damage.
 Stance slot has a Zenurik polarity, matching Swirling Tiger stance.
 Innate Vazarin polarity.
-**Acquisition:**
-The Dual Ichor's blueprint can be researched from the Bio Lab in the dojo.
 **Notes:**
 Incarnon Genesis
 Upon completion of The Duviri Paradox and Angels of the Zariman, and unlocking The Steel Path, players can earn Dual Ichor Incarnon Genesis from The Circuit's Steel Path to place on their Dual Ichor with the help of Cavalero in the Chrysalith. This Incarnon Genesis form grants it evolutions to a transformation and newfound strength.
@@ -2137,7 +2158,6 @@ In Greek mythology, Ichor was the blood of the gods.
 The bulb-like structures on the handle of the Dual Ichors beat like a heart, suggesting they are made of living Infested tissue.
 The Dual Ichor are the second melee Clan Tech weapons released, the first being the Prova, and the first to be made specifically by Clan Tech. 
 This is the first Infested-themed Dual weapon ever released.
-26
 **Type:** Melee | **Mastery Req:** 6 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -2164,18 +2184,7 @@ Crit Chance: 25.00% | Crit Multiplier: 3x | Status Chance: 10.00% | Fire Rate: 1
 ## Dual Kamas
 Wielding a Kama in each hand brings a savage amount of Slash Damage to bear against your enemies.
 
-### Wiki
-Weapons
-Wielding a Kama in each hand brings a savage amount of slash damage to bear against your enemies.
-The Dual Kamas are the dual wield version of the Kama.
-This weapon can be sold for 5,000; it is also a weapon crafting ingredient for Dual Raza.
-Dual Kamas → Dual Raza
-Characteristics
-This weapon deals primarily Slash damage.
-Stance slot has Naramon polarity, matching Carving Mantis, Crossing Snakes and Dividing Blades (Conclave only) stance.
-Second lowest base damage of all dual swords, after Dual Zoren.
-Dual Kamas Prime
-**Acquisition:**
+### Acquisition
 The Dual Kamas's blueprint can be purchased from the Market.
 Leverian Entry
 Ash methodically met and disassembled each and every guard, mezzanine to mezzanine:
@@ -2187,13 +2196,24 @@ Pilio forced himself to stand and face his assessor.
 He could not look at the bodies. Truthfully, he expected to die where he stood.
 If the Warframe approved or disapproved, he gave no sign.
 Rather, Ash opened an arm, showing the way toward Pilio's final trial.
+
+### Wiki
+Weapons
+Wielding a Kama in each hand brings a savage amount of slash damage to bear against your enemies.
+The Dual Kamas are the dual wield version of the Kama.
+This weapon can be sold for 5,000; it is also a weapon crafting ingredient for Dual Raza.
+Dual Kamas → Dual Raza
+Characteristics
+This weapon deals primarily Slash damage.
+Stance slot has Naramon polarity, matching Carving Mantis, Crossing Snakes and Dividing Blades (Conclave only) stance.
+Second lowest base damage of all dual swords, after Dual Zoren.
+Dual Kamas Prime
 **Trivia:**
 The Dual Kamas are the first dual melee weapon to require two of the single variants to craft.
 Before they were officially released, the Dual Kamas could be seen in the Codex entry diorama of Saryn.
 Similarly to the Dual Raza, which the Dual Kama are a prerequisite of, both are hatchet-type weapons that use Dual Sword stances.
 Both weapons also have a default polarity compatible with the Crossing Snakes stance.
 SNI9agn2SW4
-26
 **Type:** Melee | **Mastery Req:** 1 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -2236,7 +2256,6 @@ The Dual Kamas Prime are the first Prime dual swords to be introduced.
 The Dual Kamas Prime, alongside Afuris Prime, Akbolto Prime, Aksomati Prime, Akstiletto Prime, Ballistica Prime, Cernos Prime, Dual Keres Prime, Fang Prime, Gunsen Prime, Paris Prime and Zhuge Prime are the only Prime weapons that do not require Orokin Cells as crafting ingredients.
 The Dual Kamas Prime was accidentally revealed in-game upon the release of Update 17.5, with its parts temporarily being made available as drops in the Orokin Void. This was later removed in Update 17.5.1.
 Similar to the Dual Raza, the Dual Kamas Prime's blades are normally folded into the weapon when not in use, deploying only when attacking. If sufficient time has passed after the last attack, the Warframe will perform an animation where it flicks the weapons across its chest, stowing the blades away.
-26
 **Type:** Melee | **Mastery Req:** 8 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -2261,6 +2280,9 @@ Crit Chance: 20.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 1
 ## Dual Keres
 Tear through any target with these vicious, claw-like blades. The signature swords of Khora.
 
+### Acquisition
+The Dual Keres's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 Tear through any target with these vicious, claw-like blades. The signature swords of Khora.
@@ -2271,12 +2293,9 @@ Has a 20% Heavy Attack Efficiency when wielded by Khora/Khora Prime.
 Stance slot has Naramon polarity, matching Carving Mantis, Crossing Snakes and Dividing Blades (Conclave only) stance.
 Second fastest attack speed of all dual swords, behind Nami Skyla Prime.
 Dual Keres Prime
-**Acquisition:**
-The Dual Keres's blueprint can be purchased from the Market.
 **Trivia:**
 In Greek mythology, Keres were female death spirits.
 hxC1uoJhiDA
-26
 **Type:** Melee | **Mastery Req:** 7 | **Riven Disposition:** 3
 
 ### Normal Attack
@@ -2339,6 +2358,10 @@ Crit Chance: 32.00% | Crit Multiplier: 2.6x | Status Chance: 10.00% | Fire Rate:
 ## Dual Raza
 Razor sharp battle-hatchets, designed to compliment the Soma.
 
+### Acquisition
+The Dual Raza's blueprint can be researched from the Tenno Lab in the dojo.
+This weapon can be sold for 5,000.
+
 ### Wiki
 Weapons
 Razor sharp battle-hatchets, designed to compliment the Soma
@@ -2347,14 +2370,10 @@ Characteristics
 This weapon deals primarily Slash damage.
 Stance slot has Naramon polarity, matching Carving Mantis, Crossing Snakes and Dividing Blades (Conclave only) stance.
 Third lowest base damage of all dual swords, after Dual Kamas and Dual Zoren.
-**Acquisition:**
-The Dual Raza's blueprint can be researched from the Tenno Lab in the dojo.
-This weapon can be sold for 5,000.
 **Trivia:**
 The blades share a similar design aesthetic to the Soma's magazine, from which the Dual Raza are said to be based off.
 The Dual Raza's blades are normally folded into the weapon, and will not deploy until they are used to attack. If the Dual Raza is wielded and idle for a few moments after attacking, the Tenno will perform a unique animation where they will flick the weapons towards their chest to fold the blades in.
 ajooOajKiAQ
-26
 **Type:** Melee | **Mastery Req:** 6 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -2381,6 +2400,10 @@ Crit Chance: 25.00% | Crit Multiplier: 3x | Status Chance: 10.00% | Fire Rate: 0
 ## Dual Skana
 A shorter Skana in each hand. Can hit multiple targets.
 
+### Acquisition
+The Dual Skana's blueprint can be purchased from the Market.
+NDP-exPrX98
+
 ### Wiki
 Weapons
 A shorter Skana in each hand. Can hit multiple targets.
@@ -2393,10 +2416,6 @@ Characteristics
 This weapon deals primarily Slash damage.
 Stance slot has Naramon polarity, matching Carving Mantis, Crossing Snakes and Dividing Blades (Conclave only) stance.
 Tied with Dual Cleavers and Dex Dakra for the slowest attack speed of all dual swords.
-**Acquisition:**
-The Dual Skana's blueprint can be purchased from the Market.
-NDP-exPrX98
-26
 **Type:** Melee | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -2423,6 +2442,10 @@ Crit Chance: 5.00% | Crit Multiplier: 1.5x | Status Chance: 10.00% | Fire Rate: 
 ## Dual Viciss
 Reap what the Techrot have sown with this vicious pair of Scaldra hand-scythes.
 
+### Acquisition
+Dual Viciss's blueprints can be purchased from Minerva of The Hex for Standing Standing; component blueprints for 5,000 Standing and the main blueprint for 15,000 Standing to a total of 35,000 Standing, all requiring Rank 5 - Pizza Party.
+This weapon is also part of the Scaldra Dominance Pack for 655.
+
 ### Wiki
 Weapons
 Reap what the Techrot have sown with this vicious pair of Scaldra hand-scythes.
@@ -2432,9 +2455,6 @@ This weapon deals primarily Gas damage.
 Inflicting Gas status effect with this weapon grants a buff that increases Movement Speed by 8% and Attack Speed by 7% for 10 seconds and stacks 5 times.
 Stance slot has Naramon polarity, matching Carving Mantis, Crossing Snakes and Dividing Blades (Conclave only) stance.
 Innate Madurai polarity.
-**Acquisition:**
-Dual Viciss's blueprints can be purchased from Minerva of The Hex for Standing Standing; component blueprints for 5,000 Standing and the main blueprint for 15,000 Standing to a total of 35,000 Standing, all requiring Rank 5 - Pizza Party.
-This weapon is also part of the Scaldra Dominance Pack for 655.
 **Notes:**
 Bonus Movement Speed and Attack Speed buffs stack additively to weapon mods like Fury and Dispatch Overdrive.
 Buff refreshes its duration upon gaining a new stack.
@@ -2464,6 +2484,9 @@ Crit Chance: 23.00% | Crit Multiplier: 2.1x | Status Chance: 29.00% | Fire Rate:
 ## Dual Zoren
 Short axes held in each hand. High attack speed and can hit multiple targets. Delivers a high percentage of critical strikes.
 
+### Acquisition
+The Dual Zoren's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 Short axes held in each hand. High attack speed and can hit multiple targets. Delivers a high percentage of critical strikes.
@@ -2476,14 +2499,11 @@ Stance slot has Zenurik polarity, matches Swirling Tiger stance.
 Innate Vazarin polarity.
 Lowest base damage of all melee weapons.
 Dual Zoren Prime
-**Acquisition:**
-The Dual Zoren's blueprint can be purchased from the Market.
 **Trivia:**
 Dual Zoren is included in the Stay Frosty Pack.
 Dual Zoren were once used as a movement technique known as "Zorencoptering". This was removed with the introduction of Parkour 2.0 during Update 17, August 2015.
 This weapon shares the look of the Scindo heavy axe, with the latter looking like an enlarged, merged version of the Dual Zoren.
 Obsus75E2_o
-26
 **Type:** Melee | **Mastery Req:** 2 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -2547,6 +2567,10 @@ Crit Chance: 30.00% | Crit Multiplier: 3.2x | Status Chance: 10.00% | Fire Rate:
 ## Edun
 Edun befits a dextrous warrior. Heavy Attack to throw Edun. Edun explodes after it is embedded in an enemy.
 
+### Acquisition
+The Blueprint for Edun can be purchased in Teshin's Cave for 50 Pathos Clamp or 250. Purchasing using the former will unlock the Drifter-compatible version and the blueprint for a Warframe-compatible version; purchasing using the latter will unlock both versions.
+Additional Warframe blueprint copies can be purchased from Cephalon Simaris for 100,000 Standing.
+
 ### Wiki
 Weapons
 Edun befits a dexterous warrior. Heavy Attack to throw Edun. Edun explodes after it is embedded in an enemy.
@@ -2557,9 +2581,6 @@ Stance slot has Zenurik polarity, matching Shimmering Blight stance.
 Unique Heavy Attack throws an Edun in an arc, dealing 480 physical damage on contact, then exploding for 400 Blast damage in a 5 meter radius.
 Drifter Combat
 Power Strike (blocking + heavy attack, default RMB + MMB) quickly slashes upward in a short range to Knockdown the foe, opening them to ground finishers.
-**Acquisition:**
-The Blueprint for Edun can be purchased in Teshin's Cave for 50 Pathos Clamp or 250. Purchasing using the former will unlock the Drifter-compatible version and the blueprint for a Warframe-compatible version; purchasing using the latter will unlock both versions.
-Additional Warframe blueprint copies can be purchased from Cephalon Simaris for 100,000 Standing.
 **Notes:**
 Normal polearm Heavy Attacks can be performed by executing Heavy Attacks during a slide.
 The Edun is not able to be thrown in the Duviri overworld. See Drifter Combat
@@ -2597,6 +2618,10 @@ Crit Chance: 34.00% | Crit Multiplier: 2.6x | Status Chance: 10.00% | Fire Rate:
 ## Ekhein
 Wield the timeless power of this mighty hammer. Heavy Attacks performed with Ekhein temporarily increase its Damage and Attack Speed.
 
+### Acquisition
+Ekhein's blueprint is sold by Bird 3 of Cavia for 15,000 Standing, requiring Rank 3 - Colleague.
+In the Whispers in the Walls Quest, Loid can be seen using the Ekhein to smash Albrecht Entrati's casket.
+
 ### Wiki
 Weapons
 Wield the timeless power of this mighty hammer. Heavy Attacks performed with Ekhein temporarily increase its Damage and Attack Speed.
@@ -2604,9 +2629,6 @@ The Ekhein is an Entrati Hammer. Its Heavy Attacks increase its damage and Attac
 Characteristics
 This weapon deals pure Impact damage.
 Landing a Heavy Attack grants the Heavy Insight buff for 8 seconds, increasing Damage by 80% and Attack Speed by 20%.
-**Acquisition:**
-Ekhein's blueprint is sold by Bird 3 of Cavia for 15,000 Standing, requiring Rank 3 - Colleague.
-In the Whispers in the Walls Quest, Loid can be seen using the Ekhein to smash Albrecht Entrati's casket.
 **Type:** Rifle | **Mastery Req:** 10 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -2705,6 +2727,10 @@ Crit Chance: 30.00% | Crit Multiplier: 2.4x | Status Chance: 15.00% | Fire Rate:
 ## Endura
 The delicate form of this Tenno rapier conceals its ferocious and resilient force.
 
+### Acquisition
+The Endura's blueprint can be researched from the Tenno Lab in the dojo.
+It can be sold for 7,500.
+
 ### Wiki
 Weapon
 The delicate form of this Tenno rapier conceals its ferocious and resilient force.
@@ -2715,16 +2741,12 @@ Stance slot has Naramon polarity, matching Vulpine Mask and Cunning Aspect (Conc
 Innate Madurai polarity.
 Highest base damage of all rapiers.
 Highest status chance of all rapiers.
-**Acquisition:**
-The Endura's blueprint can be researched from the Tenno Lab in the dojo.
-It can be sold for 7,500.
 **Notes:**
 The weapon's high status chance, combined with the forced Bleed procs from Vulpine Mask and its decent Slash damage, makes it work well with Condition Overload, Relentless Combination, Body Count and Drifting Contact mods.
 **Trivia:**
 Endura is a fast or series of privations undertaken to purify the soul, often resulting in death.
 During the idle wield animation, Endura will leave a small trail of leaf holograms in its energy color as the Warframe poses with it.
 MZz7-VjOL_c
-26
 **Type:** Melee | **Mastery Req:** 7 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -2751,6 +2773,10 @@ Crit Chance: 10.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 0
 ## Ether Daggers
 A shorter version of the Ether blade that allows for a more focused attack on a single target.
 
+### Acquisition
+The Ether Daggers' blueprint is rewarded by completing the Stolen Dreams quest. Additional blueprints can be bought from Cephalon Simaris for 100,000 Standing.
+Alternatively, its blueprint can be bought from Nakak (as Operational Supply) in Cetus during the Operation: Plague Star event for 3,000 Standing + 5,000.
+
 ### Wiki
 Weapons
 A shorter version of the Ether blade that allows for a more focused attack on a single target.
@@ -2761,16 +2787,12 @@ This weapon deals primarily Slash damage.
 Stance slot has a Zenurik polarity, matches Sinking Talon stance.
 Innate Vazarin polarity.
 Grants a 5% Movement Speed bonus when held (i.e. melee mode or quick melee).
-**Acquisition:**
-The Ether Daggers' blueprint is rewarded by completing the Stolen Dreams quest. Additional blueprints can be bought from Cephalon Simaris for 100,000 Standing.
-Alternatively, its blueprint can be bought from Nakak (as Operational Supply) in Cetus during the Operation: Plague Star event for 3,000 Standing + 5,000.
 **Notes:**
 Stealth attacks do +900% damage instead of the normal bonus of +700% damage.
 **Trivia:**
 The Ether Daggers were released on April 12, 2013 with Update 7.7.3.
 This weapon was removed from the Market in Update 10.3, though it was temporarily re-released for PS4 from Saturday, August 9, 12pm EDT to Sunday, August 10th, 12pm EDT as part of a special alert event prior to Update 14's introduction. The Ether Daggers have since made its return as a reward in the Stolen Dreams quest added in Update 15.13.
 x4NqmYqsOBk
-26
 **Type:** Melee | **Mastery Req:** 6 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -2797,6 +2819,9 @@ Crit Chance: 10.00% | Crit Multiplier: 1.8x | Status Chance: 10.00% | Fire Rate:
 ## Ether Reaper
 With a blade forged from the same material as the Ether Sword, the Ether Reaper delivers quick death to its victims.
 
+### Acquisition
+The Ether Reaper's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 With a blade forged from the same material as the Ether Sword, the Ether Reaper delivers quick death to its victims.
@@ -2808,8 +2833,6 @@ Zenurik stance polarity matches Stalking Fan.
 Innate Madurai polarity.
 Tied with Anku, Reaper Prime, and Tenet Grigori for the fastest attack speed of all scythes.
 Second lowest base damage of all scythes, after Anku.
-**Acquisition:**
-The Ether Reaper's blueprint can be purchased from the Market.
 **Notes:**
 Statistically, this weapon has the attack speed of the Reaper Prime and the proc chance of the Hate at the cost of doing the least damage out of all four scythes.
 Though implied by the description, this weapon lacks the Ether Sword's guaranteed radiation proc on slam attacks.
@@ -2817,7 +2840,6 @@ Though implied by the description, this weapon lacks the Ether Sword's guarantee
 The default color scheme of Nekros is the same as the Ether Reaper's default color scheme.
 Both the name and the shaft of the Ether Reaper are similar to the Reaper Prime, a stand-alone primed scythe.
 Nekros is shown wielding the weapon in his ingame icon.
-26
 **Type:** Melee | **Mastery Req:** 4 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -2844,6 +2866,9 @@ Crit Chance: 20.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 1
 ## Ether Sword
 A single blade for more precision. The Ether Sword cuts so cleanly that it was considered by the Tenno to be a more humane weapon for ‘cleansing’ infested allies.
 
+### Acquisition
+The Ether Sword's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 A single blade for more precision. The Ether Sword cuts so cleanly that it was considered by the Tenno to be a more humane weapon for 'cleansing' infested allies.
@@ -2855,11 +2880,8 @@ Slam Radial Damage deals Radiation damage.
 Slam Attacks have a guaranteed Radiation proc in addition to the Impact proc.
 Stance slot has Unairu polarity, matching Iron Phoenix and Rising Steel (Conclave only) stance.
 Second highest status chance of all swords, behind Dark Sword.
-**Acquisition:**
-The Ether Sword's blueprint can be purchased from the Market.
 **Notes:**
 While both the normal Slam Radial Damage as well as the Heavy Slam Radial Damage deal 100% Radiation damage, only the normal Slam guarantees a Radiation proc.
-26
 **Type:** Melee | **Mastery Req:** 7 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -2962,6 +2984,9 @@ Crit Chance: 12.00% | Crit Multiplier: 1.6x | Status Chance: 34.00% | Fire Rate:
 ## Fang
 These matching stilettos have increased attack speed and can unleash a flurry of multi-hit attacks.
 
+### Acquisition
+The Fang's blueprint can be purchased from the Market. Alternatively, it can be acquired from completing the Pluto to Sedna Junction.
+
 ### Wiki
 Weapons
 These matching stilettos have increased attack speed and can unleash a flurry of multi-hit attacks.
@@ -2973,8 +2998,6 @@ Stance slot has Unairu polarity, matching Gnashing Payara and Biting Piranha (Co
 Innate Vazarin polarity.
 Grants a 5% Movement Speed bonus when held (i.e. melee mode or quick melee).
 Fang Prime
-**Acquisition:**
-The Fang's blueprint can be purchased from the Market. Alternatively, it can be acquired from completing the Pluto to Sedna Junction.
 **Trivia:**
 right|150px
 In a hidden room within the Corpus Outpost tileset, a dead Grineer can be found on medical table, and beside the body is a cart with a bloody Fang. It is speculated that this weapon may be a torture/medical tool used by Corpus, though a Prime version was released. The reason for the daggers on the table is unknown.
@@ -2984,7 +3007,6 @@ The weapon itself holds a similar design to the Pangolin Sword.
 As of Update 19.4.2, the Codex displays this weapon with a magazine size of 6.
 Despite being referred to as Stilettos, the Fang bears no resemblance to actual Stilettos, which are daggers that are defined by a straight blade and needle-like point, being dedicated thrusting weapons.
 9RzbrczPWlU
-26
 **Type:** Melee | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -3026,7 +3048,6 @@ Crafting
 **Trivia:**
 The Fang Prime, alongside Afuris Prime, Akbolto Prime, Aksomati Prime, Akstiletto Prime, Ballistica Prime, Cernos Prime, Dual Kamas Prime, Dual Keres Prime, Gunsen Prime, Paris Prime and Zhuge Prime are the only Prime weapons that do not require Orokin Cells as crafting ingredients.
 9yFeMtzcsEA
-26
 **Type:** Melee | **Mastery Req:** 10 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -3051,6 +3072,9 @@ Crit Chance: 26.00% | Crit Multiplier: 2.6x | Status Chance: 10.00% | Fire Rate:
 ## Fragor
 A large two-handed hammer, the Fragor requires great strength to wield, but impacts with enough force to send groups of enemies tumbling.
 
+### Acquisition
+The Fragor's blueprint can be purchased from the Market. Alternatively, a built Fragor is awarded upon completing the Earth to Mars Junction, complete with a free weapon slot and pre-installed Orokin Catalyst.
+
 ### Wiki
 Weapons
 A large two-handed hammer, the Fragor requires great strength to wield, but impacts with enough force to send groups of enemies tumbling.
@@ -3062,8 +3086,6 @@ Stance slot has Madurai polarity, matches Crushing Ruin stance.
 Can equip the Brokk skin, which provides +5% attack speed, but -1s combo duration.
 Tied with Jat Kittag for the lowest base damage of all hammers.
 Fragor Prime
-**Acquisition:**
-The Fragor's blueprint can be purchased from the Market. Alternatively, a built Fragor is awarded upon completing the Earth to Mars Junction, complete with a free weapon slot and pre-installed Orokin Catalyst.
 **Notes:**
 Sometimes enemies killed by Fragor will be severely rag-dolled and fly out of the map.
 **Tips:**
@@ -3120,7 +3142,6 @@ Thanks to its passive ability, Blood Rush will always be active, guaranteeing at
 **Trivia:**
 Prior to Update 26, this is the second melee weapon to have a boosted channeling damage base of 1.8x, only coming after Furax Wraith.
 Y5PvDQKjNu4
-26
 **Type:** Melee | **Mastery Req:** 12 | **Riven Disposition:** 3
 
 ### Normal Attack
@@ -3146,6 +3167,9 @@ Crit Chance: 40.00% | Crit Multiplier: 2.5x | Status Chance: 10.00% | Fire Rate:
 ## Furax
 These power gauntlets lack the range of most Melee Weapons, but Furax is far more devastating when you strike an enemy in close combat.
 
+### Acquisition
+The Furax's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 These power gauntlets lack the range of most melee weapons, but FURAX is far more devastating when you strike an enemy in close combat.
@@ -3158,8 +3182,6 @@ Stance slot has Vazarin polarity, matching Seismic Palm and Gaia's Tragedy stanc
 Can use the Furax-exclusive Amalgam Furax Body Count mod.
 Mk1-Furax
 Furax Wraith
-**Acquisition:**
-The Furax's blueprint can be purchased from the Market.
 **Notes:**
 Incarnon Genesis
 Upon completion of The Duviri Paradox and Angels of the Zariman, and unlocking The Steel Path, players can earn Furax Incarnon Genesis from The Circuit's Steel Path to place on their Furax with the help of Cavalero in the Chrysalith. This Incarnon Genesis form grants it evolutions to a transformation and newfound strength.
@@ -3172,7 +3194,6 @@ The ground slam attack knocks enemies down in a small area.
 Furax (fūrax) in Latin means "thieving."
 Furax is used in many Latin names for living things.
 LLJ3IV7qV5o
-26
 **Type:** Melee | **Mastery Req:** 5 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -3286,6 +3307,9 @@ Crit Chance: 19.00% | Crit Multiplier: 2.5x | Status Chance: 32.00% | Fire Rate:
 ## Galatine
 With massive charged power and the ability to hit up to five foes in a single swing, the Galatine sword is the heavy artillery of Melee Weapons.
 
+### Acquisition
+The Galatine's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 With massive charged power and the ability to hit up to five foes in a single swing, the Galatine sword is the heavy artillery of melee weapons.
@@ -3299,8 +3323,6 @@ Innate Naramon polarity.
 Tied with the Galatine Prime and Masseter for the fastest attack speed of all heavy blades.
 Second lowest base damage of all heavy blades, after Gram.
 Galatine Prime
-**Acquisition:**
-The Galatine's blueprint can be purchased from the Market.
 **Notes:**
 The Galatine can be used to stun-lock enemies (a characteristic of heavy melee weapons), as well as land easy headshots with its overhead chops.
 As with other heavies, the overhead chops cause small AoE damage.
@@ -3317,7 +3339,6 @@ Post Update 15 Videos
 sOqO5VitYBw
 Pre-Update 13 Videos
 GEADZ8DUlVE
-26
 **Type:** Melee | **Mastery Req:** 3 | **Riven Disposition:** 3
 
 ### Normal Attack
@@ -3365,7 +3386,6 @@ Due to its Slash damage, the Galatine Prime is well suited for use with a Desecr
 The Galatine Prime's slam attack features more particle effects compared to its unprimed counterpart, though not as extreme as the Jat Kittag.
 "Galatine" is the name of the sword gifted to Sir Gawain (most well known for the chivalrous tale, "Sir Gawain and the Green Knight") by the Lady of the Lake in the Arthurian Legends.
 O6GaMnH7UEU
-26
 **Type:** Melee | **Mastery Req:** 13 | **Riven Disposition:** 3
 
 ### Normal Attack
@@ -3391,6 +3411,9 @@ Crit Chance: 26.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 1
 ## Galvacord
 Shock and maim with this heavyweight retractable whip.
 
+### Acquisition
+The Galvacord's blueprint can be purchased from the Market.
+
 ### Wiki
 Corpus
 Shock and maim with this heavyweight retractable whip.
@@ -3399,9 +3422,6 @@ Characteristics
 This weapon deals primarily Electricity damage.
 Stance slot has a Vazarin polarity, matching the Burning Wasp stance.
 Tied with Secura Lecta for the highest status chance of all whips.
-**Acquisition:**
-The Galvacord's blueprint can be purchased from the Market.
-26
 **Type:** Melee | **Mastery Req:** 6 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -3428,6 +3448,9 @@ Crit Chance: 12.00% | Crit Multiplier: 1.8x | Status Chance: 10.00% | Fire Rate:
 ## Gazal Machete
 Each kill with this swooping blade adds bonus damage to the Djinn Sentinel’s next Fatal Attraction ability. In turn, Fatal Attraction bestows the weapon with a period of Corrosive Damage.
 
+### Acquisition
+The Gazal Machete's blueprint can be researched from the Tenno Lab in the dojo.
+
 ### Wiki
 Weapons
 Each kill with this swooping blade adds bonus corrosive damage to the Djinn Sentinel’s next Fatal Attraction cast. In turn, each Fatal Attraction cast by the sentinel bestows the weapon with a period of corrosive damage.
@@ -3439,8 +3462,6 @@ Synergizes with the Djinn:
 Kills with this weapon will add additional Corrosive damage to Fatal Attraction's radial blast.
 Any time Djinn casts Fatal Attraction, the Gazal Machete gains additional Corrosive damage for a period of time.
 Innate Madurai polarity.
-**Acquisition:**
-The Gazal Machete's blueprint can be researched from the Tenno Lab in the dojo.
 **Notes:**
 When the Gazal Machete kills an enemy, the Djinn sentinel will gain 50 bonus Corrosive damage on its next successful cast of Fatal Attraction's radial blast. This bonus can stack up to a maximum of 10 times, for a maximum of 500 bonus damage after 10 kills. These stacks reset once Fatal Attraction has performed a radial blast or when Djinn dies.
 Upon Fatal Attraction activating, the Gazal Machete will receive 25% additional bonus damage as Corrosive for 30 seconds (Reportedly bugged, bonus is not always applied correctly).
@@ -3470,6 +3491,11 @@ Crit Chance: 10.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 1
 ## Ghoulsaw
 The cruelest of weapons built for the crudest of Grineer soldiers. Rips through metal like flesh, and through flesh like day-old pudding.
 
+### Acquisition
+The Ghoulsaw's main and component blueprints could be acquired after reaching Rank 3 - Champion with Operational Supply during Operation: Plague Star and buying it from Nakak. The main blueprint costs 4,000 Standing + 1,500, while the component blueprints costs 4,000 Standing + 3,500, totaling to 20,000 Standing + 15,500. All parts can be traded between players.
+The main and component blueprints are now available through Research inside the Ventkids' Bash Lab within the Clan Dojo.
+In the Foundry, the Ghoulsaw's component blueprints are found in the MISCELLANEOUS tab, and not in the MELEE tab.
+
 ### Wiki
 Weapons
 The cruelest of weapons built for the crudest of Grineer soldiers. Rips through metal like flesh, and through flesh like day-old pudding.
@@ -3481,10 +3507,6 @@ Perfect Follow Through; does not lose damage when hitting multiple targets.
 Very large Block Angle.
 Low Stance Combo damage per second.
 Kuva Ghoulsaw
-**Acquisition:**
-The Ghoulsaw's main and component blueprints could be acquired after reaching Rank 3 - Champion with Operational Supply during Operation: Plague Star and buying it from Nakak. The main blueprint costs 4,000 Standing + 1,500, while the component blueprints costs 4,000 Standing + 3,500, totaling to 20,000 Standing + 15,500. All parts can be traded between players.
-The main and component blueprints are now available through Research inside the Ventkids' Bash Lab within the Clan Dojo.
-In the Foundry, the Ghoulsaw's component blueprints are found in the MISCELLANEOUS tab, and not in the MELEE tab.
 **Type:** Melee | **Mastery Req:** 7 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -3658,6 +3680,9 @@ Crit Chance: 22.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 1
 ## Gram
 The heavy two-handed sword known as Gram requires great strength to wield, but it is notorious for its splitting power. Can hit multiple targets with each strike.
 
+### Acquisition
+The Gram's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 The heavy two-handed sword known as Gram requires great strength to wield, but is notorious for its splitting power. Can hit multiple targets with each strike.
@@ -3668,8 +3693,6 @@ This weapon deals primarily Slash damage.
 Stance slot has Madurai polarity, matching Rending Crane and Noble Cadence (Conclave only) stance.
 Lowest base damage of all heavy blades.
 Gram Prime
-**Acquisition:**
-The Gram's blueprint can be purchased from the Market.
 **Trivia:**
 This sword was named after the sword of Sigurd (sometimes known as Siegfried) from Norse Mythology.
 Gram is a word in the old Germanic language, which roughly translates to depression.
@@ -3677,7 +3700,6 @@ The wheel by the Gram's guard spins during attacks, making the Gram one of the f
 Prior to Update 11, the Gram was visually an enlarged Plasma Sword.
 The old appearance of the Gram is still used for the "Heavy Weapon Proficiency" challenge icons.
 The newer model retains some characteristics from its previous model, particularly the cords and glowing blades.
-26
 **Type:** Melee | **Mastery Req:** 2 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -3723,7 +3745,6 @@ On June 30th, 2020, it was announced that Gram Prime, alongside Chroma Prime and
 **Trivia:**
 Gram Prime was first revealed in TennoCon 2018's Art Panel on July 7th.
 aoQrpi4QftQ
-26
 **Type:** Melee | **Mastery Req:** 14 | **Riven Disposition:** 1
 
 ### Normal Attack
@@ -3749,6 +3770,9 @@ Crit Chance: 32.00% | Crit Multiplier: 2.6x | Status Chance: 10.00% | Fire Rate:
 ## Guandao
 Harvest the enemy with this towering polearm.
 
+### Acquisition
+The Guandao's blueprint can be researched from the Tenno Lab in the dojo.
+
 ### Wiki
 Weapons
 Harvest the enemy with this towering polearm.
@@ -3758,8 +3782,6 @@ Characteristics
 This weapon deals primarily Slash damage.
 Stance slot has Zenurik polarity, matching Shimmering Blight and Argent Scourge (Conclave only) stance.
 Guandao Prime
-**Acquisition:**
-The Guandao's blueprint can be researched from the Tenno Lab in the dojo.
 **Notes:**
 The Guandao is included in the Guandao Collection, along with the Zakti and Mozi Syandana, for 345.
 **Tips:**
@@ -3767,7 +3789,6 @@ When going up against armored opponents, one should consider building for Corros
 **Trivia:**
 A Guandao (more properly referred to a yanyuedao (偃月刀) – "reclining moon blade") is a type of Chinese pole weapon used in some forms of Chinese martial arts, most notably Shaolin Kung Fu. The name is derived from Guan Yu (關羽), a famed general from the Three Kingdoms period of China who is said to have invented and wielded the guandao.
 Fs5LbDqR99Y
-26
 **Type:** Melee | **Mastery Req:** 4 | **Riven Disposition:** 3
 
 ### Normal Attack
@@ -3833,6 +3854,10 @@ Crit Chance: 32.00% | Crit Multiplier: 2.4x | Status Chance: 10.00% | Fire Rate:
 ## Gunsen
 Lacerate attackers with two razor sharp warfans.
 
+### Acquisition
+The Gunsen's blueprint can be researched from the Tenno Lab in the dojo.
+This weapon can be sold for 5,000.
+
 ### Wiki
 Weapons
 Lacerate attackers with two razorsharp warfans.
@@ -3841,9 +3866,6 @@ Characteristics
 This weapon deals primarily Slash damage.
 Stance slot has Naramon polarity, matching Slicing Feathers and Votive Onslaught stance.
 Gunsen Prime
-**Acquisition:**
-The Gunsen's blueprint can be researched from the Tenno Lab in the dojo.
-This weapon can be sold for 5,000.
 **Notes:**
 Warfan slams hit twice.
 Second hit of a heavy slam will use the stats of a normal slam.
@@ -3854,7 +3876,6 @@ The Gunsen (軍扇) is a type of Japanese war fan used by the common soldiery fo
 The Gunsen was the first Warfan type melee weapon avaliable.
 Similarly, Gunsen Prime was the first Warfan type melee weapon to be Primed.
 tk4oD_9rj-k
-26
 **Type:** Melee | **Mastery Req:** 8 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -4130,7 +4151,6 @@ Hate Incarnon Genesis#Evolutions
 **Trivia:**
 When holding a datamass, your character will swing Hate with one hand.
 Despite the Hate being the weapon featured in the Stalking Fan card, the Hate's stance polarity matches Reaping Spiral's instead.
-26
 **Type:** Melee | **Mastery Req:** 8 | **Riven Disposition:** 3
 
 ### Normal Attack
@@ -4165,6 +4185,9 @@ Crit Chance: 30.00% | Crit Multiplier: 2.5x | Status Chance: 10.00% | Fire Rate:
 ## Heat Dagger
 This short blade weapon has limited range but comes out fast and can inflict fire damage.
 
+### Acquisition
+The Heat Dagger's blueprint can be bought from Nightwave Offerings. Note that the offerings are on a 7-day rotation, and this weapon may not be available on a succeeding appearance.
+
 ### Wiki
 Weapons
 This short blade weapon has limited range but comes out fast and can inflict fire damage.
@@ -4178,8 +4201,6 @@ Innate Naramon polarity.
 Can use the dagger-exclusive Covert Lethality mod.
 4th strike of the normal combo procs Slash if equipped without a Stance.
 Grants a 10% Movement Speed bonus when held (i.e. melee mode or quick melee).
-**Acquisition:**
-The Heat Dagger's blueprint can be bought from Nightwave Offerings. Note that the offerings are on a 7-day rotation, and this weapon may not be available on a succeeding appearance.
 **Notes:**
 When equipped without a Stance mod, the Heat Dagger adds a 4th lunging stab on its normal attack combo, which propels the Warframe a good distance forward, which is useful for catching up to moving enemies. It also has a 100% chance of inflicting a Slash proc on contact. This effect is lost if one uses the Pointed Wind stance, which replaces the lunge with a sweeping slash.
 Slam attacks always apply a Heat proc, even if the weapon is modded to not deal Heat damage.
@@ -4209,6 +4230,10 @@ Crit Chance: 14.00% | Crit Multiplier: 1.6x | Status Chance: 10.00% | Fire Rate:
 ## Heat Sword
 A strong blade capable of inflicting Slash Damage to its foes.
 
+### Acquisition
+The Heat Sword blueprint is rewarded upon completion of the Once Awake Quest.
+The blueprint can also be bought from Nightwave Offerings. Note that the offerings are on a 7-day rotation, and this weapon may not be available on a succeeding appearance.
+
 ### Wiki
 Weapons
 A strong blade capable of inflicting fire damage to its foes.
@@ -4219,15 +4244,11 @@ This weapon deals primarily Slash damage.
 Normal Slam Attack has a forced Heat proc.
 Stance slot has a Madurai polarity, which matches Crimson Dervish, Swooping Falcon and Vengeful Revenant.
 Innate Naramon polarity.
-**Acquisition:**
-The Heat Sword blueprint is rewarded upon completion of the Once Awake Quest.
-The blueprint can also be bought from Nightwave Offerings. Note that the offerings are on a 7-day rotation, and this weapon may not be available on a succeeding appearance.
 **Trivia:**
 Before Update 26, the Heat Sword used to emit a visible ring of fire from slam attacks. This visual effect was also shared with the Heat Dagger and Dual Heat Swords. Since then, all melee weapons make the same effect when doing slam attacks.
 The Heat Sword received a visual change in Update 16.5, giving it a faded color scheme with texture animations similar to those found in Prisma weapons.
 The Ember statue in the Strata Relay is holding a Heat Sword on its right hand.
 pf5XqCViYv8
-26
 **Type:** Melee | **Mastery Req:** 3 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -4254,6 +4275,9 @@ Crit Chance: 5.00% | Crit Multiplier: 1.5x | Status Chance: 20.00% | Fire Rate: 
 ## Heliocor
 Obtain enlightenment with this massive hammer that performs a Codex scan on each fatal strike. Scans require an equipped Codex Scanner and an available charge.
 
+### Acquisition
+The Heliocor's blueprint can be purchased from Cephalon Simaris for 75,000 Standing.
+
 ### Wiki
 Weapons
 Obtain enlightenment with this massive hammer that performs a Codex scan on each fatal strike. Scans require equipped Codex Scanner and an available charge.
@@ -4264,8 +4288,6 @@ Stance slot has Madurai polarity, matches Crushing Ruin stance.
 Tied with Synoid Heliocor for the second highest base damage of all hammers, behind Arca Titron.
 Second highest critical chance of all hammers, behind Fragor Prime.
 Synoid Heliocor
-**Acquisition:**
-The Heliocor's blueprint can be purchased from Cephalon Simaris for 75,000 Standing.
 **Notes:**
 The Heliocor will not grant Standing for Cephalon Simaris even if players are carrying Synthesis Scanners in their Gear, though the weapon will still perform Codex scans as normal.
 If the equipped Synthesis Scanner is enhanced with the Sol-Battery Widget, scans through melee kills will not use up scanner charges.
@@ -4338,6 +4360,9 @@ Crit Chance: 24.00% | Crit Multiplier: 2.2x | Status Chance: 10.00% | Fire Rate:
 ## Hirudo
 Rip into the enemy with fists of razor sharp cartilage. Steals health with each critical hit.
 
+### Acquisition
+The Hirudo's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 Rip into the enemy with fists of razor sharp cartilage. Steals health with each critical hit.
@@ -4349,8 +4374,6 @@ Grants a 5% movement speed bonus when held (i.e. melee mode or quick melee).
 Stance slot has Naramon polarity, matching Brutal Tide and Vicious Approach (Conclave only) stance.
 Innate Madurai polarity.
 Coda Hirudo
-**Acquisition:**
-The Hirudo's blueprint can be purchased from the Market.
 **Notes:**
 Every successful critical hit with the has 5% life steal, healing the player for 5% of damage dealt.
 Each successful critical hit also increases the player's max health by 5%, referred to as Invigorated buff.
@@ -4508,6 +4531,9 @@ Ekwana Jai II
 ## Jat Kittag
 Deliver crushing blows with this Grineer built, jet powered mace.
 
+### Acquisition
+The Jat Kittag's blueprint can be researched from the Chem Lab in the dojo.
+
 ### Wiki
 Weapons
 Deliver crushing blows with this Grineer built, jet powered mace.
@@ -4520,8 +4546,6 @@ Stance slot has Madurai polarity, matches Crushing Ruin stance.
 Innate Naramon and Madurai polarities.
 Can use the Jat Kittag-exclusive Vulcan Blitz mod.
 Tied with Fragor for the lowest base damage of all hammers.
-**Acquisition:**
-The Jat Kittag's blueprint can be researched from the Chem Lab in the dojo.
 **Tips:**
 When built for Blast and Impact, the Jat Kittag is more than capable of sending enemies into or through the ceiling with a well placed slam attack, or to the map boundaries if there is no ceiling present. This can instantly kill some enemies; such as by launching into the walls in Captain Vor's boss room on Mercury.
 **Trivia:**
@@ -4532,7 +4556,6 @@ Prior to Update 12.3, the sparks were affected by the wielding Warframe's energy
 The exhaust of the Jat Kittag flares up during attacks and cools down shortly afterwards. This is particularly noticeable during Jump attacks.
 When performing the Shattered Village combo of the Crushing Ruin stance, the Jat Kittag's spins result in bright trails of light streaming behind the weapon along with its engines flaring up. The Jat Kittag is thus the only weapon that has a unique attack animation when using a stance combo.
 This animation was once used as the Jat Kittag's charged attack animation, before the removal of charged attacks in Update 13.
-26
 **Type:** Melee | **Mastery Req:** 5 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -4559,6 +4582,10 @@ Crit Chance: 15.00% | Crit Multiplier: 2x | Status Chance: 100.00% | Fire Rate: 
 ## Jat Kusar
 Overwhelm hostiles with this jet-powered sickle and razor-chain weapon. Charged strikes ignite an explosive blast at range.
 
+### Acquisition
+The Jat Kusar's blueprint can be researched from the Chem Lab in the dojo.
+This weapon can be sold for 5,000.
+
 ### Wiki
 Weapons
 Overwhelm hostiles with this jet-powered sickle and razor-chain weapon. Charged strikes ignite an explosive blast at range.
@@ -4570,9 +4597,6 @@ This explosion is treated as Slam Radial Damage and its damage can only be incre
 Slam Radial Damage deals Heat damage.
 Two innate Madurai polarities.
 Stance slot has Madurai polarity, matching Defiled Snapdragon and Tainted Hydra (Conclave only) stance.
-**Acquisition:**
-The Jat Kusar's blueprint can be researched from the Chem Lab in the dojo.
-This weapon can be sold for 5,000.
 **Notes:**
 The Jat Kusar, unlike other Blade and Whips, does not ragdoll and pull enemies towards the player upon landing the fourth attack of the stanceless/Claws of the Drake combo or Heavy Attacks.
 Instead, Heavy Attack direct hits only knock enemies down, while the explosions ragdoll and throw the enemy a small distance straight up into the air.
@@ -4607,6 +4631,9 @@ Crit Chance: 35.00% | Crit Multiplier: 2.5x | Status Chance: 19.00% | Fire Rate:
 ## Jaw Sword
 A blade with a serrated edge that delivers strong quick attacks.
 
+### Acquisition
+The Jaw Sword's blueprint can be bought from Nightwave Offerings. Note that the offerings are on a 7-day rotation, and this weapon may not be available on a succeeding appearance.
+
 ### Wiki
 Weapons
 A blade with a serrated edge that delivers strong quick attacks.
@@ -4618,12 +4645,9 @@ Can use the Jaw Sword-exclusive Blade of Truth mod.
 Stance slot has Unairu polarity, matching Iron Phoenix and Rising Steel (Conclave only) stance.
 Innate Madurai polarity.
 Tied with Skana for the second lowest base damage of all swords, after Cronus.
-**Acquisition:**
-The Jaw Sword's blueprint can be bought from Nightwave Offerings. Note that the offerings are on a 7-day rotation, and this weapon may not be available on a succeeding appearance.
 **Trivia:**
 Previously, the Jaw Sword was the only longsword that dealt Puncture as its primary physical damage type. Update 13 changed a majority of its damage to Slash, in line with other longswords.
 gP_8UQ2doZs
-26
 **Type:** Melee | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -4669,6 +4693,9 @@ Polearm
 ## Kama
 The Kama is a Tenno style hatchet, capable of making short work of any foe.
 
+### Acquisition
+The Kama's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 The Kama is a Tenno style hatchet, capable of making short work of any foe.
@@ -4681,12 +4708,9 @@ Stance slot has Zenurik polarity, matching Sundering Weave, Cyclone Kraken and R
 Innate two Madurai polarities.
 Fastest attack speed of all machetes.
 Lowest base damage of all machetes.
-**Acquisition:**
-The Kama's blueprint can be purchased from the Market.
 **Trivia:**
 Kama refers to a farming tool. Much like the sickle, it is made for cutting crops and farming rice, but can also be used as an improvised and easily hidden weapon, making it an excellent ninja tool. It is still in use today in the form of Taekwondo, as a form of art and defense.
 UBQN5YkmlhE
-26
 **Type:** Melee | **Mastery Req:** 1 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -4713,6 +4737,9 @@ Crit Chance: 12.00% | Crit Multiplier: 1.8x | Status Chance: 10.00% | Fire Rate:
 ## Karyst
 Once the blade weapon of choice for an exclusive order of Tenno assassins, the Karyst dagger grew to become a symbol of honor and duty for all Tenno.
 
+### Acquisition
+The Karyst's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 Once the blade weapon of choice for an exclusive order of Tenno assassins, the Karyst dagger grew to become a symbol of honor and duty for all Tenno
@@ -4724,8 +4751,6 @@ Stance slot has a Madurai polarity, matching Pointed Wind and Stinging Thorn sta
 Can use the dagger-exclusive Covert Lethality mod.
 Grants a 10% Movement Speed bonus when held (i.e. melee mode or quick melee).
 Karyst
-**Acquisition:**
-The Karyst's blueprint can be purchased from the Market.
 **Notes:**
 When combining elemental mods, the Karyst's innate Toxin damage is added last.
 Jump attacks will always inflict the Toxin proc, regardless of the weapon's current elemental mods.
@@ -4796,6 +4821,11 @@ Crit Chance: 24.00% | Crit Multiplier: 2.2x | Status Chance: 26.00% | Fire Rate:
 ## Keratinos
 Leave your mark with these infected claws with increased heavy attack range. Heavy attack at max combo to keep the extended range and slam radius for 3 minutes.
 
+### Acquisition
+Keratinos are acquired by reaching Rank 0 - Neutral with the Entrati. Father sells the main blueprint for 1,000 Standing and component blueprints for 500 Standing; a total of 3,000 Standing is needed for all parts.
+Keratinos Blades
+Keratinos Gauntlet
+
 ### Wiki
 Weapons
 Leave your mark with these infected claws with increased heavy attack range. Heavy attack at max combo to keep the extended range and slam radius for three minutes.
@@ -4809,10 +4839,6 @@ The second attack is a lunge with one hit that does 500% damage and has a forced
 Heavy Attacking with 12x combo grants +2.8m range to all melee attacks for 180 seconds.
 Third highest base damage of all claws, behind Garuda Talons and Garuda Prime Talons.
 Second highest status chance of all claws, behind Garuda Talons and Garuda Prime Talons.
-**Acquisition:**
-Keratinos are acquired by reaching Rank 0 - Neutral with the Entrati. Father sells the main blueprint for 1,000 Standing and component blueprints for 500 Standing; a total of 3,000 Standing is needed for all parts.
-Keratinos Blades
-Keratinos Gauntlet
 **Notes:**
 One gauntlet and blades blueprints are required to reach Rank 2 - Acquaintance with the Entrati.
 **Trivia:**
@@ -4841,6 +4867,9 @@ Crit Chance: 13.00% | Crit Multiplier: 2.1x | Status Chance: 10.00% | Fire Rate:
 ## Kesheg
 Slice through mobs of unruly enemies with this fierce halberd; the signature weapon of the Kuva Guardians.
 
+### Acquisition
+The Kesheg's blueprint can be researched from the Chem Lab in the dojo.
+
 ### Wiki
 Weapons
 Slice through mobs of unruly enemies with this fierce halberd; the signature weapon of the Kuva Guardians.
@@ -4852,8 +4881,6 @@ Innate Madurai polarity.
 Second highest base damage of all polearms behind Pupacyst.
 Tied with Vaykor Sydon for the highest critical multiplier of all polearms.
 Tied with Guandao and Pupacyst for the slowest attack speed of all polearms.
-**Acquisition:**
-The Kesheg's blueprint can be researched from the Chem Lab in the dojo.
 **Trivia:**
 This weapon may be named after the Kheshig, the imperial guard for the Mongol royal family. The name translates to "favored" or "blessed". The Kheshig are thought to be the basis for similar institutions that existed in many of the societies that succeeded the Mongol Empire in the regions that it used to control.
 The Keshegs wielded by Kuva Guardians in cinematics all have a glowing vial of Kuva attached near the blade (similar to the one on the Broken Scepter). This is not seen during gameplay, however, and may be a bug or an oversight.
@@ -5038,6 +5065,9 @@ Crit Chance: 10.00% | Crit Multiplier: 2x | Status Chance: 40.00% | Fire Rate: 1
 ## Kogake
 These coverings for the hands and feet allow devastating high flying hand-to-hand combat attacks without risking harm to the user.
 
+### Acquisition
+The Kogake's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 These coverings for the hands and feet allow devastating high flying hand-to-hand combat attacks without risking harm to the user.
@@ -5051,8 +5081,6 @@ Grants a 5% Movement Speed bonus when held (i.e. melee mode or quick melee).
 Tied with Obex for the lowest base damage of all sparring weapons.
 Tied with Kogake Prime for the second slowest attack speed of all sparring weapons, after Korrudo.
 Kogake Prime
-**Acquisition:**
-The Kogake's blueprint can be purchased from the Market.
 **Notes:**
 With the Kogake equipped, Tenno will utilize kicks in their melee attacks.
 Ground Finisher will hit the downed enemy six times, each hit dealing 17 Impact, 20.6 Puncture, and 0.6 Slashing (total 38.2, grand total 229.2). This is also able to hit multiple enemies. The damage of this is increased by Pressure Point, Spoiled Strike, and Finishing Touch.
@@ -5060,7 +5088,6 @@ Wall attacks with the deal Magnetic damage.
 **Trivia:**
 The Kogake is possibly named after the Japanese kōgake, a type of armored tabi (Japanese socks) mainly used by samurai.
 _-_-llp4vW4
-26
 **Type:** Melee | **Mastery Req:** 2 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -5103,7 +5130,6 @@ On September 17th, 2019, it was announced that Kogake Prime, alongside Mirage Pr
 Kogake Prime is the first Sparring weapon to receive a primed variant.
 Kogake Prime is the first melee weapon to come with three innate Madurai polarities.
 MjDGL2DVnbA
-26
 **Type:** Melee | **Mastery Req:** 10 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -5168,7 +5194,6 @@ Korrudo's main blueprint can be obtained from defeating a Tusk Thumper Bull or T
 The Grineer characters written on the Korrudo translate roughly to "DEATH IS REAL".
 Prior to Update 27.0.1, Korrudo unintentionally shared the same life steal mechanics of the Hirudo.
 6uaDO3m-Fko
-26
 **Type:** Melee | **Mastery Req:** 9 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -5247,6 +5272,9 @@ Crit Chance: 24.00% | Crit Multiplier: 2.2x | Status Chance: 10.00% | Fire Rate:
 ## Kreska
 This unsophisticated Corpus survival tool does what it was designed for: hacking and splitting whatever it strikes.
 
+### Acquisition
+The Kreska's blueprint can be researched from the Energy Lab in the dojo.
+
 ### Wiki
 Weapons
 This unsophisticated Corpus survival tool does what it was designed for: hacking and splitting whatever it strikes
@@ -5256,9 +5284,6 @@ Characteristics
 This weapon deals primarily Heat and Slash damage.
 Stance slot has Zenurik polarity, matching Sundering Weave, Cyclone Kraken and Rending Wind (Conclave only) stance.
 Innate Madurai polarity.
-**Acquisition:**
-The Kreska's blueprint can be researched from the Energy Lab in the dojo.
-26
 **Type:** Melee | **Mastery Req:** 6 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -5285,6 +5310,9 @@ Crit Chance: 14.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 0
 ## Krohkur
 This hooked blade rewards critical hits to those skilled enough to strike with finesse.
 
+### Acquisition
+The Krohkur's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapon
 This hooked blade rewards critical hits to those skilled enough to strike with finesse.
@@ -5295,14 +5323,11 @@ Characteristics
 This weapon deals primarily Slash damage.
 Stance slot has Madurai polarity, matches Crimson Dervish, Swooping Falcon and Vengeful Revenant.
 Third highest base damage of all swords, behind Dark Sword and Pangolin Prime.
-**Acquisition:**
-The Krohkur's blueprint can be purchased from the Market.
 **Trivia:**
 The Krohkur was first revealed during Warframe Partners Shul's and InexpensiveGamer's Twitch stream on October 4th, 2017, ahead of the update's release.
 'Krohkur' is likely derived from the Old Norse and Icelandic word for 'hook', written as 'Krókur'.
 The Krohkur has "Head Splitter" written on it in Grineer language near the base of the blade.
 The Krohkur's seems to be inspired by the khopesh, an ancient egyptian sword.
-26
 **Type:** Melee | **Mastery Req:** 9 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -5329,6 +5354,9 @@ Crit Chance: 29.00% | Crit Multiplier: 2.3x | Status Chance: 10.00% | Fire Rate:
 ## Kronen
 The Kronen resurrects a lethal fighting style once thought lost to the ages.
 
+### Acquisition
+The Kronen's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 The Kronen resurrects a lethal fighting style once thought lost to the ages.
@@ -5341,8 +5369,6 @@ Stance slot has Madurai polarity, matching Gemini Cross and Star Divide (Conclav
 Tied with Telos Boltace for the second fastest attack speed of all tonfas, behind Kronen Prime.
 Lowest base damage of all tonfas.
 Kronen Prime
-**Acquisition:**
-The Kronen's blueprint can be purchased from the Market.
 **Notes:**
 The last attack of the Kronen's basic combo can hit enemies behind the player.
 The Kronen counts towards the "Dagger Proficiency" achievements.
@@ -5354,7 +5380,6 @@ Kronen is German for "crowns" or "coins".
 When the Kronen was first released, it was unable to do wall attacks due to a bug. This was fixed in Update 14.8.
 Likely named after the character Karl Ruprect Kroenen from the comics, and movie, Hellboy. In the movie, Kroenen wields swords that are essentially bladed tonfas.
 MZgNnoRTNcY
-26
 **Type:** Melee | **Mastery Req:** 3 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -5401,7 +5426,6 @@ On December 4th, 2019, it was announced that Kronen Prime, alongside Zephyr Prim
 The Kronen Prime is the second of DE's Community Melee Weapons Contest designs, which are comprised of fan-submitted weapons, to receive a Prime version.
 The Kronen Prime is the first, and so far the only, Tonfa melee weapon to receive a primed variant.
 u0eAbUCdhp4
-26
 **Type:** Melee | **Mastery Req:** 13 | **Riven Disposition:** 1
 
 ### Normal Attack
@@ -5426,10 +5450,7 @@ Crit Chance: 22.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 1
 
 ## Kronsh
 
-### Wiki
-In game description
-The Kronsh is an Impact-focused Strike used in Zaw construction.
-**Acquisition:**
+### Acquisition
 The Kronsh blueprint can be acquired after reaching the Rank of Neutral with the Ostrons and buying it from Hok for 1,000 Standing.
 Characteristics
 This Strike primarily deals Impact damage.
@@ -5438,6 +5459,10 @@ This Strike primarily deals Impact damage.
 Compatible weapon types:
 Machete
 Polearm
+
+### Wiki
+In game description
+The Kronsh is an Impact-focused Strike used in Zaw construction.
 **Type:** Zaw Component
 
 ## Kroostra
@@ -5463,6 +5488,9 @@ Polearm
 ## Kuva Ghoulsaw
 The addition of Kuva has forged the savage Ghoulsaw into an even more brutal weapon, allowing for faster attacks.
 
+### Acquisition
+Adversary System/Weapons#Kuva Acquisition
+
 ### Wiki
 Weapons
 The addition of Kuva has forged the savage Ghoulsaw into an even more brutal weapon, allowing for faster attacks.
@@ -5480,8 +5508,6 @@ Perfect Follow Through; does not lose damage when hitting multiple targets.
 Very large Block Angle.
 Low Stance Combo damage per second.
 Ghoulsaw
-**Acquisition:**
-Adversary System/Weapons#Kuva Acquisition
 **Notes:**
 Adversary System#Notes
 Adversary System/Progenitor
@@ -5494,6 +5520,9 @@ Adversary System/Progenitor
 
 ## Kuva Shildeg
 A crushing, killing, rocket-powered stab-hammer. Grineer, naturally.
+
+### Acquisition
+Adversary System/Weapons#Kuva Acquisition
 
 ### Wiki
 Weapons
@@ -5510,8 +5539,6 @@ Polarizing the weapon increases its max rank by 2, capping at rank 40 after 5 po
 Elemental Vice can be applied to the weapon after it has reached rank 40, allowing the bonus damage type to be swapped freely.
 Listed Mastery Rank requirement is not enforced - the weapon may theoretically be obtained at any mastery rank by acquiring and vanquishing a Kuva Lich that has this weapon equipped.
 Second highest critical multiplier of all hammers, behind Sampotes.
-**Acquisition:**
-Adversary System/Weapons#Kuva Acquisition
 **Notes:**
 Unlike most other melee weapons, the Kuva Shildeg's Slam Radial Damage does not proc Impact, despite dealing Impact damage. It instead knocks enemies down and subsequent Slams ragdoll and throw enemies straight into the air.
 Unlike all other melee weapons, the Kuva Shildeg's Slam Radial Damage is not comprised of a single damage type, instead dealing the Base Damage as Impact with the Kuva bonus dealing its appropriate damage type.
@@ -5563,6 +5590,10 @@ Scythe
 ## Lacera
 In the practiced hands of a master, this blade and whip becomes exceedingly devastating.
 
+### Acquisition
+The Lacera's blueprint can be researched from the Tenno Lab in the dojo.
+This weapon can be sold for 5,000.
+
 ### Wiki
 Weapons
 In the practiced hands of a master, this blade and whip becomes exceedingly devastating.
@@ -5573,9 +5604,6 @@ Slam Radial Damage deals Electricity damage.
 Innate Naramon polarity.
 Stance slot has Madurai polarity, matching Defiled Snapdragon and Tainted Hydra (Conclave only) stance.
 Ceti Lacera
-**Acquisition:**
-The Lacera's blueprint can be researched from the Tenno Lab in the dojo.
-This weapon can be sold for 5,000.
 **Notes:**
 The Lacera is one of the Clan Tech weapons that does not require a Forma to build, nor does it require any Clan Research materials.
 ​When combining elements the innate Electricity damage is added last, unless another mod adds this type.
@@ -5583,7 +5611,6 @@ The fourth attack of the stanceless/Claws of the Drake combo as well as the Heav
 The Slam Radial Damage has a good chance to inflict the Electricity status effect, but is unaffected by status chance mods.
 Its original color scheme is similar to Loki's Immortal skin.
 77q8_FwXxC0
-26
 **Type:** Melee | **Mastery Req:** 7 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -5633,6 +5660,10 @@ Scythe
 ## Lecta
 Half taser, half whip. The Corpus Lecta delivers a deadly shock to anything it touches.
 
+### Acquisition
+The Lecta's blueprint can be purchased from the Market. Alternatively, it can be acquired from completing the Saturn to Uranus Junction.
+This weapon can be sold for 5,000.
+
 ### Wiki
 Weapons
 Half taser, half whip. The Corpus Lecta, delivers a deadly shock to anything it touches.
@@ -5641,16 +5672,12 @@ Characteristics
 This weapon deals primarily Electricity damage.
 Stance slot has a Vazarin polarity, matching the Burning Wasp.
 Secura Lecta
-**Acquisition:**
-The Lecta's blueprint can be purchased from the Market. Alternatively, it can be acquired from completing the Saturn to Uranus Junction.
-This weapon can be sold for 5,000.
 **Notes:**
 With maxed rank dual-stat event mods Virulent Scourge, Voltaic Strike, Volcanic Edge and Vicious Frost the Lecta can achieve a status chance of 85%. Adding Melee Prowess increases this to 107.5%.
 **Trivia:**
 This is the first Whip-type weapon ever released, as of Update 11.
 It would seem that this weapon is deemed the successor to the Prova electric baton.
 Hg8rZINfPew
-26
 **Type:** Melee | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -5677,6 +5704,10 @@ Crit Chance: 5.00% | Crit Multiplier: 1.5x | Status Chance: 10.00% | Fire Rate: 
 ## Lesion
 An instrument of unrelenting harm. If Lesion tastes blood, it becomes invigorated with faster Attack Speed and increased Toxin Damage.
 
+### Acquisition
+The Lesion's blueprint can be purchased from the Market.
+This weapon can be sold for 6,000.
+
 ### Wiki
 Weapons
 An instrument of unrelenting harm. If Lesion tastes blood, it becomes invigorated with faster Attack Speed and increased Toxin Damage.
@@ -5693,9 +5724,6 @@ Bonus is multiplicative to other sources of attack speed.
 Bonus is a flat amount applied after mods.
 Stance slot has Zenurik polarity, matching Shimmering Blight and Argent Scourge (Conclave only) stance.
 Has a Madurai polarity.
-**Acquisition:**
-The Lesion's blueprint can be purchased from the Market.
-This weapon can be sold for 6,000.
 **Notes:**
 On dealing status procs on an enemy, the Lesion has a unique feature whereby it gains +15% attack speed for 6 seconds, +100% Toxin damage, and +25% status chance.
 Attack speed buff is multiplicative to attack speed buffs.
@@ -5729,6 +5757,9 @@ Crit Chance: 15.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 1
 ## Machete
 A ferocious Melee Weapon crafted by the Grineer and carried by their elite melee forces.
 
+### Acquisition
+The Machete's blueprint can be bought from Cephalon Simaris offerings for 100,000 Standing.
+
 ### Wiki
 Weapons
 A ferocious melee weapon crafted by the Grineer and carried by their elite melee forces.
@@ -5740,8 +5771,6 @@ Stance slot has Zenurik polarity, matching Sundering Weave, Cyclone Kraken and R
 Second lowest base damage of all machetes, after Kama.
 Machete Wraith
 Prisma Machete
-**Acquisition:**
-The Machete's blueprint can be bought from Cephalon Simaris offerings for 100,000 Standing.
 **Notes:**
 The weapon was removed from the Market in Update 10.4.
 PC and PS4 players who logged in between July 9, 2014 and July 16, 2014 received a Machete blueprint as a free gift.
@@ -5751,7 +5780,6 @@ As of Update 20.6, Machete is available as a random login reward, in the form of
 **Trivia:**
 Though the Machete was removed from the market in Update 10.3, its blueprint was temporarily awarded to players who logged into Warframe between July 9 and July 16, 2014 as a special gift for the delay in completing Update 14. It was also released as a reward for the Tactical Alert "One Thousand Cuts".
 The Machete's glowing blade is believed to stem from a super-heated surface. This is true of some other Grineer melee weapons, including the Dual Cleavers.
-26
 **Type:** Melee | **Mastery Req:** 1 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -5778,6 +5806,10 @@ Crit Chance: 10.00% | Crit Multiplier: 1.5x | Status Chance: 10.00% | Fire Rate:
 ## Machete Wraith
 A different take on a familiar combat knife, the Machete Wraith features unique styling.
 
+### Acquisition
+The Machete Wraith is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 250,000 and 410. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
+The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 11.
+
 ### Wiki
 Weapons
 A different take on a familiar combat knife, the Machete Wraith features a unique styling.
@@ -5790,16 +5822,12 @@ Second highest base damage of all machetes, behind Slaytra
 Second highest status chance of all machetes behind Slaytra.
 Machete
 Prisma Machete
-**Acquisition:**
-The Machete Wraith is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 250,000 and 410. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
-The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 11.
 **Trivia:**
 The Machete Wraith is the second Wraith weapon (after Strun Wraith) and also the first event-exclusive melee weapon.
 As with many other old Wraith and Vandal weapons, only the energy color could be changed. Other colors may be selected, but would not show on the weapon, unless said weapon possessed a skin.
 As of Update 22, all default skins of Vandal and Wraith weapons can be fully coloured.
 The Machete Wraith is the second Wraith weapon to be re-released, after the Strun Wraith.
 NSY6sAj1ExM
-26
 **Type:** Melee | **Mastery Req:** 11 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -5817,6 +5845,9 @@ Crit Chance: 19.00% | Crit Multiplier: 2.1x | Status Chance: 10.00% | Fire Rate:
 ## Magistar
 The Magistar mace wields justice and truth in the form of bone-crushing blows.
 
+### Acquisition
+The Magistar's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 The Magistar Mace wields justice and truth in the form of bone crushing blows.
@@ -5828,8 +5859,6 @@ This weapon deals primarily Impact damage.
 Stance slot has Vazarin polarity, matching Shattering Storm and Crashing Havoc (Conclave only) stance.
 Third lowest base damage of all hammers, after Kuva Shildeg and Fragor/Jat Kittag.
 Sancti Magistar
-**Acquisition:**
-The Magistar's blueprint can be purchased from the Market.
 **Notes:**
 As with other heavy weapons, the Magistar's wall attack is a horizontal circular swing that slowly swings the weapon around the Warframe, allowing it to hit enemies more easily compared to other wall attacks that require pinpoint precision. Unfortunately, this prevents the Magistar from using its wall attack to launch itself upwards, as it will perform the maneuver horizontally regardless of where the Warframe is looking, making it fall instead.
 The Magistar also shares another unusual property with other heavy weapons, namely its tendency to shake the screen violently while blocking attacks.
@@ -5840,7 +5869,6 @@ Magistar Incarnon Genesis#Evolutions
 **Trivia:**
 The name "Magistar" is based off a combination of the Latin magister, which means master or teacher, and morning star, a type of mace.
 In Update 15.1, the heavy melee weapon family received linear buffs across the board. The Magistar was notably the only one among the affected weapons (Magistar, Jat Kittag, Fragor, Gram, Galatine and Scindo (Prime) to also receive a nerf, having its attack rate lowered from 1.1 to 0.8.
-26
 **Type:** Melee | **Mastery Req:** 1 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -5867,6 +5895,9 @@ Crit Chance: 20.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 0
 ## Masseter
 Tear and chew through enemies with this unusual crankshaft-style greatsword. When wielded by Grendel he is immune to staggers and knockdowns during heavy attacks.
 
+### Acquisition
+The Masseter's blueprint can be researched from the Tenno Lab in the dojo.
+
 ### Wiki
 Tear and chew through enemies with this unusual crankshaft-style greatsword.
 There remains a shallow trench through the ruins. As if some colossal boulder had crashed from the manse and rolled down the hill... but what if it had rolled... up?
@@ -5879,8 +5910,6 @@ Third highest status chance of all heavy blades, behind Gram Prime and Masseter 
 Tied with the Galatine and Galatine Prime for the second fastest attack speed of all heavy blades, behind Masseter Prime.
 Highest slam attack radius of all weapons.
 Masseter Prime
-**Acquisition:**
-The Masseter's blueprint can be researched from the Tenno Lab in the dojo.
 **Notes:**
 When wielded by Grendel, he is immune to crowd control procs during Heavy Attacks.
 Has a uniquely large slam radius compared to other weapons of the same class.
@@ -5954,9 +5983,7 @@ Crit Chance: 26.00% | Crit Multiplier: 2.2x | Status Chance: 10.00% | Fire Rate:
 
 ## Mewan
 
-### Wiki
-In-game descriptionThe Mewan is a Slash-focused large bladed Strike used in Zaw construction.
-**Acquisition:**
+### Acquisition
 The Mewan blueprint can be acquired after reaching the Rank of Neutral with the Ostrons and buying it from Hok for 1,000 Standing.
 Characteristics
 This Strike primarily deals Slash damage.
@@ -5966,12 +5993,18 @@ This Strike primarily deals Slash damage.
 Compatible weapon types:
 Sword
 Polearm
+
+### Wiki
+In-game descriptionThe Mewan is a Slash-focused large bladed Strike used in Zaw construction.
 **Trivia:**
 Mewan's shape appears to be based on an old-fashioned bone saw.
 **Type:** Zaw Component
 
 ## Mios
 This bone-forged sword includes a tendon-whip to distract and maim the enemy.
+
+### Acquisition
+The Mios's blueprint can be researched from the Bio Lab in the dojo.
 
 ### Wiki
 Weapons
@@ -5982,8 +6015,6 @@ This weapon deals primarily Slash damage.
 Slam Radial Damage deals Toxin damage, bypassing Shield.
 Innate Madurai polarity.
 Stance slot has Madurai polarity, matching Defiled Snapdragon and Tainted Hydra (Conclave only) stance.
-**Acquisition:**
-The Mios's blueprint can be researched from the Bio Lab in the dojo.
 **Notes:**
 The fourth attack of the stanceless/Claws of the Drake combo as well as the Heavy Attack use the whip to ragdoll and pull enemies towards the player.
 The Slam Radial Damage has a 25% chance to inflict the Toxin status effect, but is unaffected by status chance mods.
@@ -5993,7 +6024,6 @@ The Mios took more than an entire year to be fully developed, being one of the l
 The Blade and Whip weapon type as a whole is somewhat similar to a Kusarigama or its predecessor the Kyoketsu-shoge, both of which were bladed weapons with a chain attached to the other end of the handle. In both cases however the chain was typically used to immobilize or disarm an enemy rather than directly attack the target.
 The entire weapon is comprised of 2 different blades. The top has a socket that fits into the main bladed part, which increases the visual reach of the weapon.
 Py9Ga2d3wPY
-26
 **Type:** Melee | **Mastery Req:** 8 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -6020,6 +6050,9 @@ Crit Chance: 19.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 1
 ## Mire
 A relic from the Great Plague, the Mire Infested Sword is a brutal weapon. It not only cuts into the enemy, it infects the wounds of its victim with a toxic nerve poison. Deals Toxin Damage on Ground Slam attacks.
 
+### Acquisition
+The Mire's blueprint can be purchased from the Market. Alternatively, it can be acquired from completing the Pluto to Eris Junction.
+
 ### Wiki
 Weapons
 A relic from the Great Plague, the Mire Infested sword is a brutal weapon. It not only cuts into the enemy but it infects the wounds of its victim with a toxic nerve poison. Deals Toxin damage on ground slam attacks.
@@ -6032,11 +6065,8 @@ Can use the Mire-exclusive Toxic Blight mod.
 Stance slot has Madurai polarity, matches Crimson Dervish, Swooping Falcon, and Vengeful Revenant.
 Fastest attack speed of all swords.
 Coda Mire
-**Acquisition:**
-The Mire's blueprint can be purchased from the Market. Alternatively, it can be acquired from completing the Pluto to Eris Junction.
 **Trivia:**
 If there's something being built in the Foundry that has a physical model but hasn't loaded in yet, the Mire's model is used as a placeholder.
-26
 **Type:** Melee | **Mastery Req:** 5 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -6063,6 +6093,9 @@ Crit Chance: 9.00% | Crit Multiplier: 1.5x | Status Chance: 31.00% | Fire Rate: 
 ## Mk1-Bo
 The MK1-Bo is the standard issue staff weapon for all Tenno.
 
+### Acquisition
+Mk1-Bo can be purchased from the Market for 15,000.
+
 ### Wiki
 Weapons
 The Mk1-Bo is the standard issue staff weapon for all Tenno.
@@ -6075,8 +6108,6 @@ Innate Vazarin polarity.
 Lowest base damage of all staves.
 Bo
 Bo Prime
-**Acquisition:**
-Mk1-Bo can be purchased from the Market for 15,000.
 **Notes:**
 Acquiring Mk1-Bo will also come with the Flailing Branch stance mod pre-installed.
 Incarnon Genesis
@@ -6104,6 +6135,9 @@ Crit Chance: 10.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 1
 ## Mk1-Furax
 The MK1-Furax is the standard issue fist weapon for all Tenno.
 
+### Acquisition
+A built Mk1-Furax can be bought from the Market for 15,000.
+
 ### Wiki
 Weapons
 The Mk1-Furax is the standard issue fist weapon for all Tenno.
@@ -6114,8 +6148,6 @@ This weapon deals primarily Impact damage.
 Stance slot has Vazarin polarity, matching Seismic Palm and Gaia's Tragedy stances.
 Furax
 Furax Wraith
-**Acquisition:**
-A built Mk1-Furax can be bought from the Market for 15,000.
 **Notes:**
 Incarnon Genesis
 Upon completion of The Duviri Paradox and Angels of the Zariman, and unlocking The Steel Path, players can earn Furax Incarnon Genesis from The Circuit's Steel Path to place on their Furax with the help of Cavalero in the Chrysalith. This Incarnon Genesis form grants it evolutions to a transformation and newfound strength.
@@ -6129,7 +6161,6 @@ Furax (fūrax) in Latin means "thieving".
 Furax is used in many Latin names for living things.
 This weapon is used by Grineer Powerfist.
 LLJ3IV7qV5o
-26
 **Type:** Rifle | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -6147,6 +6178,9 @@ Crit Chance: 20.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 1
 ## Nami Skyla
 Like the surge and crash of storm waves, a master of the Nami cutlass and Skyla dagger turns these two separate weapons into one fluid attack.
 
+### Acquisition
+The Nami Skyla's blueprint can be researched from the Tenno Lab in the dojo.
+
 ### Wiki
 Weapons
 Like the surge and crash of storm waves, a master of the Nami cutlass and Skyla dagger turns these two separate weapons into one fluid attack.
@@ -6156,8 +6190,6 @@ Characteristics
 This weapon deals primarily Slash damage.
 Stance slot has Naramon polarity, matching Carving Mantis, Crossing Snakes and Dividing Blades (Conclave only) stance.
 Nami Skyla Prime
-**Acquisition:**
-The Nami Skyla's blueprint can be researched from the Tenno Lab in the dojo.
 **Trivia:**
 The Skyla dagger closely resembles a Kris, an Indonesian dagger. This trait is shared with the Karyst.
 Its name may be a reference to Scylla, a sea monster in Greek mythology.
@@ -6166,7 +6198,6 @@ The Nami Solo and Nami Skyla were both released in the same update as Hydroid, a
 The word Nami (波) means "wave" in Japanese.
 The combination of Cutlass and Dagger is a common weapon in Historical European Martial Arts
 yNqwoh6hvIs
-26
 **Type:** Melee | **Mastery Req:** 2 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -6208,7 +6239,6 @@ Nami Skyla
 Vaultings
 On June 28, 2019, it was announced that Nami Skyla Prime, alongside Hydroid Prime and Ballistica Prime, would enter the Prime Vault and be retired from the reward tables on July 6, 2019. Any preexisting components or fully-built weapons will remain as is.
 From November 30, 2021 to December 7, 2021, Nami Skyla Prime was available during Prime Resurgence
-26
 **Type:** Melee | **Mastery Req:** 11 | **Riven Disposition:** 3
 
 ### Normal Attack
@@ -6234,6 +6264,9 @@ Crit Chance: 22.00% | Crit Multiplier: 2.2x | Status Chance: 10.00% | Fire Rate:
 ## Nami Solo
 Evoking the oceans of earth, this exquisite cutlass is a deadly work of art.
 
+### Acquisition
+The Nami Solo's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 Evoking the oceans of Earth, this exquisite cutlass is a deadly work of art.
@@ -6243,8 +6276,6 @@ Characteristics
 This weapon deals primarily Slash damage.
 Stance slot has Zenurik polarity, matching Sundering Weave, Cyclone Kraken and Rending Wind (Conclave only) stance.
 Innate Madurai polarity.
-**Acquisition:**
-The Nami Solo's blueprint can be purchased from the Market.
 **Notes:**
 The jump attack for the Nami Solo does not knock down enemies, instead it deals an Impact proc against them, stunning them momentarily.
 Incarnon Genesis
@@ -6256,7 +6287,6 @@ Historically the cutlass was normally used much like a machete, hacking throug
 The Codex entry of the Nami Solo uses the stance used to showcase most one-handed weaponry, but its short hilt results in your Warframe's left hand grasping at nothing.
 The word Nami (波) means "wave" in Japanese.
 tt0qWZF2Rjw
-26
 **Type:** Melee | **Mastery Req:** 6 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -6338,6 +6368,9 @@ Crit Chance: 21.00% | Crit Multiplier: 2.3x | Status Chance: 10.00% | Fire Rate:
 ## Nikana
 The Nikana reintroduces a lost Tenno blade and with it another fragment of the old ways.
 
+### Acquisition
+The Nikana's blueprint can be researched from the Tenno Lab in the dojo.
+
 ### Wiki
 Weapons
 The Nikana reintroduces a lost Tenno blade and with it another fragment of the old ways.
@@ -6353,13 +6386,10 @@ Lowest critical chance, status chance, and attack speed of all nikanas.
 Dragon Nikana
 Nikana Prime
 Dex Nikana
-**Acquisition:**
-The Nikana's blueprint can be researched from the Tenno Lab in the dojo.
 **Trivia:**
 The Nikana is the first melee weapon released that is used as a component to craft its more powerful version, the Dragon Nikana.
 The Nikana is wielded by Excalibur in many of the recent trailers for Warframe along with appearing in Loki's hands in the layout of warframe.com, making the Nikana currently one of the most iconic weapons of Warframe.
 c5muw66L29o
-26
 **Type:** Melee | **Mastery Req:** 4 | **Riven Disposition:** 3
 
 ### Normal Attack
@@ -6425,6 +6455,9 @@ Crit Chance: 28.00% | Crit Multiplier: 2.4x | Status Chance: 10.00% | Fire Rate:
 ## Ninkondi
 With its lightning-fast strikes, the Ninkondi pays respect to the old ways.
 
+### Acquisition
+The Ninkondi's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 With its lightning-fast strikes, the Ninkondi pays respect to the old ways.
@@ -6435,12 +6468,9 @@ Characteristics
 This weapon deals primarily Electricity damage.
 Stance slot has Vazarin polarity, matching Atlantis Vulcan and Mafic Rain (Conclave only) stance.
 Ninkondi Prime
-**Acquisition:**
-The Ninkondi's blueprint can be purchased from the Market.
 **Trivia:**
 The Ninkondi was one of the items, along with the Spira and the Zhuge, initially offered as a timed exclusive to Warframe China.
 9siHHKBVD6o
-26
 **Type:** Melee | **Mastery Req:** 8 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -6481,7 +6511,6 @@ Vaultings
 On May 11th, 2021, it was announced that Ninkondi Prime, along with Wukong Prime and Zhuge Prime, would enter the Prime Vault and be retired from the reward tables on May 25th, 2021. Any preexisting components or fully-built items will remain as is.
 MPdQR6ffTmU
 VEiRLog7QTQ
-26
 **Type:** Melee | **Mastery Req:** 14 | **Riven Disposition:** 3
 
 ### Normal Attack
@@ -6507,6 +6536,9 @@ Crit Chance: 22.00% | Crit Multiplier: 2.4x | Status Chance: 36.00% | Fire Rate:
 ## Obex
 The Obex system multiplies the kinetic energy of a Tenno's kicks and punches, delivering devastating blows to any target.
 
+### Acquisition
+The Obex's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 The Obex system multiplies the kinetic energy of a Tenno's kicks and punches, delivering deadly blows to any target.
@@ -6521,8 +6553,6 @@ Tied with Prisma Obex for the third highest critical chance of all sparring weap
 Grants a 5% movement speed bonus when held (i.e. melee mode or quick melee).
 Tied with Kogake for the lowest base damage of all sparring weapons.
 Prisma Obex
-**Acquisition:**
-The Obex's blueprint can be purchased from the Market.
 **Notes:**
 Slide attack does not involve spinning, but rather causes the Warframe to perform a handspring, finishing with a kick that sends enemies flying, ragdolling them.
 **Trivia:**
@@ -6530,7 +6560,6 @@ Obex is Latin for "Barrier".
 If the Melee button is pressed repeatedly as the Obex is being used in a long succession, this generates two spheres of energy around that can last about 5 seconds, depending on how long the user attacks. This process also produces flames in each hand.
 Unlike the Kogake, when equipped on Vauban the weapon does not clip the mesh on his feet. Instead, it fits his boxy figure flawlessly.
 tvFvjV1MRJQ
-26
 **Type:** Melee | **Mastery Req:** 4 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -6557,6 +6586,9 @@ Crit Chance: 25.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 1
 ## Ohma
 Bring the enemy to its knees with these twin electrified tonfas.
 
+### Acquisition
+The Ohma's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 Bring the enemy to its knees with these twin electrified tonfas.
@@ -6565,8 +6597,6 @@ Characteristics
 This weapon deals primarily Electricity damage.
 Stance slot has Naramon polarity, matching Sovereign Outcast stance.
 Prisma Ohma
-**Acquisition:**
-The Ohma's blueprint can be purchased from the Market.
 **Notes:**
 Damage caused by the Ohma (including damage over time effects from status effects) will cause an arc of lightning to emit from the Ohma striking the target, this arc has no additional effects and deals no damage.
 **Trivia:**
@@ -6600,6 +6630,9 @@ Crit Chance: 15.00% | Crit Multiplier: 2x | Status Chance: 30.00% | Fire Rate: 0
 ## Okina
 Perforate enemies with these two needle-sharp sai.
 
+### Acquisition
+The Okina's blueprint can be researched from the Tenno Lab in the dojo.
+
 ### Wiki
 Weapons
 Perforate enemies with these two needle-sharp sai.
@@ -6611,8 +6644,6 @@ Stance slot has Vazarin polarity, matches Spinning Needle.
 Innate Madurai polarity.
 Grants a 5% Movement Speed bonus when held (i.e. melee mode or quick melee).
 Okina Prime
-**Acquisition:**
-The Okina's blueprint can be researched from the Tenno Lab in the dojo.
 **Notes:**
 Incarnon Genesis
 Upon completion of The Duviri Paradox and Angels of the Zariman, and unlocking The Steel Path, players can earn Okina Incarnon Genesis from The Circuit's Steel Path to place on their Okina with the help of Cavalero in the Chrysalith. This Incarnon Genesis form grants it evolutions to a transformation and newfound strength.
@@ -6622,7 +6653,6 @@ Okina Incarnon Genesis#Evolutions
 The Okina's name is likely derived from Okinawa, a prefecture in Japan traditionally associated with the sai.
 The Okina is based on the Japanese Sai. The game however does not support traditional Sai fighting style and does not convey the damage types a Sai would inflict. If compared to a Sai the weapon should predominently deal Impact and Puncture damage and should not deal Slash damage.
 FQ5ecGg_Zp8
-26
 **Type:** Melee | **Mastery Req:** 5 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -6704,10 +6734,7 @@ Crit Chance: 30.00% | Crit Multiplier: 2.6x | Status Chance: 10.00% | Fire Rate:
 
 ## Ooltha
 
-### Wiki
-In-game description
-The Ooltha is a Slash-focused Strike used in Zaw construction.
-**Acquisition:**
+### Acquisition
 The Ooltha blueprint can be acquired after reaching the Rank of Neutral with the Ostrons and buying it from Hok for 1,000 Standing.
 Characteristics
 This Strike deals primarily Slash damage.
@@ -6717,10 +6744,17 @@ This Strike deals primarily Slash damage.
 Compatible weapon types:
 Sword
 Staff
+
+### Wiki
+In-game description
+The Ooltha is a Slash-focused Strike used in Zaw construction.
 **Type:** Zaw Component
 
 ## Orthos
 The Tenno forged Orthos is a rare double bladed polearm. Those who take the time to master it speak of its impressive striking distance and ability to hit multiple targets.
+
+### Acquisition
+The Orthos's blueprint can be purchased from the Market.
 
 ### Wiki
 Weapons
@@ -6734,8 +6768,6 @@ Second lowest base damage of all polearms, after Tonbo.
 Tied with Cassowar for the second lowest critical chance of all polearms, after Tonbo.
 Tied with Pupacyst and Serro for the second lowest critical multiplier of all polearms, after Cassowar.
 Orthos Prime
-**Acquisition:**
-The Orthos's blueprint can be purchased from the Market.
 **Notes:**
 The Orthos will extend slightly when drawn, and retract back after "sheathing".
 **Tips:**
@@ -6744,7 +6776,6 @@ The average range of this weapon with a maxed Reach is 4.1 meters.
 **Trivia:**
 In Greek mythology, Orthos (also known as Orthrus) is the name of a two headed dog, brother of Cerberus, which probably relates to the Orthos' two blades.
 Ortho- is a prefix in Greek which meant "straight", “upright”, “right”, or “correct”.
-26
 **Type:** Melee | **Mastery Req:** 2 | **Riven Disposition:** 3
 
 ### Normal Attack
@@ -6791,7 +6822,6 @@ The Orthos Prime's immense range (especially with Primed Reach) on top of having
 Prior to Update 9.5.2, this weapon used to have the same stats as normal Orthos.
 Note that the end-blades are not mirrors of each other and seem to have shapes that could fit together. The blades are asymmetrical.
 Along the blade reads the text "The longest arm is the law," written in the Tenno alphabet. This might be a hidden joke, referring to the Orthos Prime Handle being substantially longer than the Orthos' handle.
-26
 **Type:** Melee | **Mastery Req:** 12 | **Riven Disposition:** 1
 
 ### Normal Attack
@@ -6930,6 +6960,9 @@ Crit Chance: 26.00% | Crit Multiplier: 2.2x | Status Chance: 10.00% | Fire Rate:
 ## Pangolin Sword
 A unique blade used by an old Tenno clan.
 
+### Acquisition
+The Pangolin Sword's blueprint can be bought from Nightwave Offerings. Note that the offerings are on a 7-day rotation, and this weapon may not be available on a succeeding appearance.
+
 ### Wiki
 Weapons
 A unique blade used by an old Tenno clan.
@@ -6942,8 +6975,6 @@ Slam Radial Damage has a guaranteed Slash proc in addition to the Impact proc.
 Stance slot has Madurai polarity, matches Crimson Dervish, Vengeful Revenant and Swooping Falcon.
 Innate Madurai polarity.
 Pangolin Prime
-**Acquisition:**
-The Pangolin Sword's blueprint can be bought from Nightwave Offerings. Note that the offerings are on a 7-day rotation, and this weapon may not be available on a succeeding appearance.
 **Notes:**
 Guaranteed Slash proc on slam radial damage.
 Slam radial damage is only affected by Seismic Wave.
@@ -6952,7 +6983,6 @@ The slam radial damage has a 22% chance to inflict the Puncture status effect in
 **Trivia:**
 The sword is likely named after the Pangolin, a mammal found in Asia and Africa whose protective scales resemble the blade's scaly texture.
 This weapon may be related to the Fang daggers, judging by their shared aesthetics – gently curved grips, and blades with scale designs.
-26
 **Type:** Melee | **Mastery Req:** 3 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -6979,6 +7009,9 @@ Crit Chance: 8.00% | Crit Multiplier: 1.5x | Status Chance: 10.00% | Fire Rate: 
 ## Paracesis
 The Sentient slayer. An offering from Ballas.
 
+### Acquisition
+The weapon blueprint is given to the player upon completing the Chimera Prologue quest.
+
 ### Wiki
 Weapons
 The Sentient slayer. An offering from Ballas.
@@ -6992,8 +7025,6 @@ This weapon has the Overleveling trait
 Additionally, each rank above 30 gives the Paracesis bonus damage to Sentients. At rank 40, the Paracesis gains Void damage properties against Sentients.
 Third highest critical chance of all heavy blades, behind Gram Prime and Tenet Exec.
 Tied with Gram Prime and War for the highest critical multiplier of all heavy blades.
-**Acquisition:**
-The weapon blueprint is given to the player upon completing the Chimera Prologue quest.
 **Type:** Rifle | **Mastery Req:** 10 | **Riven Disposition:** 1
 
 ### Normal Attack
@@ -7155,14 +7186,15 @@ Scythe
 
 ## Plague Akwin
 
-### Wiki
-In-game Description
-The is an Infested Grip for Zaws.
-**Acquisition:**
+### Acquisition
 Plague Akwin is obtainable from limited-time events:
 Operation: Plague Star sold Plague Akwin from Nakak for 2,000 Standing + 3,500, requiring Rank 3 - Champion with Operational Supply.
 The October 2020, 2022, and 2024 Nights of Naberus event sold Plague Akwin from Daughter for 25 Mother Token each.
 While the actual Grip itself cannot usually be acquired outside of events, it can still appear as part of a complete Zaw in Hok's Daily Specials.
+
+### Wiki
+In-game Description
+The is an Infested Grip for Zaws.
 **Notes:**
 The Plague Akwin creates the following weapon types:
 Sword
@@ -7184,14 +7216,15 @@ Scythe
 
 ## Plague Bokwin
 
-### Wiki
-In-game Description
-The is an Infested Grip for Zaws.
-**Acquisition:**
+### Acquisition
 Plague Bokwin is obtainable from limited-time events:
 Operation: Plague Star sold Plague Bokwin from Nakak for 2,000 Standing + 3,500, requiring Rank 3 - Champion with Operational Supply.
 The October 2020, 2022, and 2024 Nights of Naberus event sold Plague Bokwin from Daughter for 25 Mother Token each.
 While the actual Grip itself cannot usually be acquired outside of events, it can still appear as part of a complete Zaw in Hok's Daily Specials.
+
+### Wiki
+In-game Description
+The is an Infested Grip for Zaws.
 **Notes:**
 The Plague Bokwin creates the following weapons:
 Hammer
@@ -7211,10 +7244,7 @@ Polearms
 
 ## Plague Keewar
 
-### Wiki
-In-game Description
-The Plague Keewar is an Infested Strike for Zaws that grants Viral damage.
-**Acquisition:**
+### Acquisition
 Plague Keewar is obtainable from limited-time events:
 Operation: Plague Star sold Plague Keewar from Nakak for 2,000 Standing + 3,500, requiring Rank 3 - Champion with Operational Supply.
 The October 2020, 2022 and 2024 Nights of Naberus event sold Plague Keewar from Daughter for 25 Mother Token each.
@@ -7229,6 +7259,10 @@ This Strike also has a flat +4% status chance bonus.
 Compatible weapon types:
 Scythe
 Staff
+
+### Wiki
+In-game Description
+The Plague Keewar is an Infested Strike for Zaws that grants Viral damage.
 **Type:** Zaw Component | **Riven Disposition:** 2
 
 ### Plague Keewar Strike
@@ -7246,10 +7280,7 @@ Crit Chance: 18.00% | Crit Multiplier: 2x | Status Chance: 22.00% | Fire Rate: 0
 
 ## Plague Kripath
 
-### Wiki
-In-game Description
-The Plague Kripath is an Infested Strike for Zaws that grants Viral damage.
-**Acquisition:**
+### Acquisition
 Plague Kripath is obtainable from limited-time events:
 Operation: Plague Star sold Plague Kripath from Nakak for 2,000 Standing + 3,500, requiring Rank 3 - Champion with Operational Supply.
 The October 2020, 2022 and 2024 Nights of Naberus event sold Plague Kripath from Daughter for 25 Mother Token each.
@@ -7265,6 +7296,10 @@ Compatible weapon types:
 Rapier
 Polearm
 TV2QHg7Oo5g
+
+### Wiki
+In-game Description
+The Plague Kripath is an Infested Strike for Zaws that grants Viral damage.
 **Type:** Zaw Component | **Riven Disposition:** 1
 
 ### Plague Kripath Strike
@@ -7283,6 +7318,9 @@ Crit Chance: 22.00% | Crit Multiplier: 2.2x | Status Chance: 18.00% | Fire Rate:
 ## Plasma Sword
 An advanced blade that delivers high-damage attacks. Delivers a high percentage of critical strikes.
 
+### Acquisition
+The Plasma Sword's blueprint can be bought from Nightwave Offerings. Note that the offerings are on a 7-day rotation, and this weapon may not be available on a succeeding appearance.
+
 ### Wiki
 Weapons
 An advanced blade that delivers high-damage attacks. Delivers a high percentage of critical strikes.
@@ -7292,13 +7330,10 @@ Characteristics
 This weapon deals primarily Slash damage.
 Stance slot has Unairu polarity, matching Iron Phoenix and Rising Steel (Conclave only) stance.
 Slowest attack speed of all swords; tied with Karyst Prime, Sheev and Pathocyst for the slowest attack speed of all melees.
-**Acquisition:**
-The Plasma Sword's blueprint can be bought from Nightwave Offerings. Note that the offerings are on a 7-day rotation, and this weapon may not be available on a succeeding appearance.
 **Trivia:**
 The plasma sword uses the smaller model of the pre-update 11 Gram but with a different color scheme.
 Before Update 13, the Plasma Sword dealt Physical damage like most melee weapons. It now deals Electricity damage, making it the fourth melee weapon to do so after the Amphis, Prova, and Lecta.
 pBNofYYHOHA
-26
 **Type:** Melee | **Mastery Req:** 4 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -7325,6 +7360,9 @@ Crit Chance: 18.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 0
 ## Praedos
 Orokin elites admired farmers in conquered regions, because they had learned to fight with modified farming tools despite being forbidden to own weapons. For their voyage, the Zariman were presented with Praedos in recognition of Zariman tenacity. The Void reinforces the strength of the spirited individual by fortifying the Praedos.
 
+### Acquisition
+Praedos' main blueprint is purchased from Cavalero of The Holdfasts at Rank 4 - Seraph for 9,000 Standing Standing. The blueprint can be traded.
+
 ### Wiki
 Weapons
 Orokin elites admired farmers in conquered regions, because they had learned to fight with modified farming tools despite being forbidden to own weapons. For their voyage, the Zariman were presented with Praedos in recognition of Zariman tenacity. The Void reinforces the strength of the spirited individual by fortifying the Praedos.
@@ -7339,8 +7377,6 @@ Incarnon form lasts for 90 seconds and behaves as follows:
 +3 Range
 +40% Attack Speed.
 The transformation persists through all states such as holstering, bleedout and disarm, but is removed upon death.
-**Acquisition:**
-Praedos' main blueprint is purchased from Cavalero of The Holdfasts at Rank 4 - Seraph for 9,000 Standing Standing. The blueprint can be traded.
 **Notes:**
 If an Incarnon Form is successfully achieved, Praedos will depict itself exuding a turquoise aura. The skin in this state is shared across all tonfas skins.
 Evolutions
@@ -7373,6 +7409,11 @@ Crit Chance: 20.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 1
 ## Prisma Dual Cleavers
 Blades of energized prisma crystal make these ornamental cleavers cut as sharply as they look.
 
+### Acquisition
+The Prisma Dual Cleavers is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 200,000 and 490. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
+The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 9.
+G3FQVgP3QTo
+
 ### Wiki
 Weapons
 Blades of energized prisma-crystal make these ornamental cleavers cut as sharply as they look.
@@ -7383,11 +7424,6 @@ Can use the Dual Cleavers-exclusive Justice Blades mod.
 Stance slot has Naramon polarity, matching Carving Mantis, Crossing Snakes and Dividing Blades (Conclave only) stance.
 Innate Madurai polarity.
 Dual Cleavers
-**Acquisition:**
-The Prisma Dual Cleavers is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 200,000 and 490. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
-The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 9.
-G3FQVgP3QTo
-26
 **Type:** Melee | **Mastery Req:** 9 | **Riven Disposition:** 3
 
 ### Normal Attack
@@ -7405,6 +7441,9 @@ Crit Chance: 25.00% | Crit Multiplier: 3x | Status Chance: 10.00% | Fire Rate: 1
 ## Prisma Machete
 The addition of Prisma Crystal allows this otherwise barbaric weapon to elegantly hack through any foe.
 
+### Acquisition
+The Prisma Machete can be purchased from Baro Ki'Teer in the Concourse section of the Tenno Relay for 200,000 and 400. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
+
 ### Wiki
 Weapons
 The addition of Prisma Crystal allows this otherwise barbaric weapon to elegantly hack through any foe.
@@ -7414,8 +7453,6 @@ This weapon deals primarily Slash damage.
 Stance slot has Zenurik polarity, matching Sundering Weave, Cyclone Kraken and Rending Wind (Conclave only) stance.
 Machete
 Machete Wraith
-**Acquisition:**
-The Prisma Machete can be purchased from Baro Ki'Teer in the Concourse section of the Tenno Relay for 200,000 and 400. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
 **Trivia:**
 Prisma Machete used to be exclusive to WARFRAME (China).
 Despite Prisma weapons typically having improved attributes, the Prisma Machete's stats were identical to that of the regular Machete. In Update 26.0, over two years after WARFRAME China was discontinued on the PS4, the Prisma Machete was included in the patch notes where it was updated with unique stats. However, another 20 months passed after the aforementioned patch before the weapon was first available in the global build.
@@ -7440,6 +7477,10 @@ Crit Chance: 19.00% | Crit Multiplier: 1.9x | Status Chance: 10.00% | Fire Rate:
 ## Prisma Obex
 Dazzle, distract and destroy with these sparring weapons of impossibly hard prisma crystal.
 
+### Acquisition
+The Prisma Obex is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 175,000 and 500. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
+The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 10.
+
 ### Wiki
 Weapons
 Dazzle, distract and destroy with fists of impossibly hard prisma crystal.
@@ -7454,9 +7495,6 @@ Tied with Obex for the third highest critical chance of all sparring weapons, be
 Second highest status chance of all sparring weapons, behind Kogake Prime.
 Grants +5% Movement Speed when held (i.e. melee mode or quick melee).
 Obex
-**Acquisition:**
-The Prisma Obex is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 175,000 and 500. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
-The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 10.
 **Notes:**
 Slide attack does not involve spinning, but rather causes the Warframe to perform a handspring, finishing with a kick that sends enemies flying, ragdolling them.
 Most quick attacks with this weapon will count as headshots, even while not aiming for the head. This substantially increases damage over what would be expected from just the stats of the weapon.
@@ -7481,6 +7519,10 @@ Crit Chance: 25.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 1
 ## Prisma Ohma
 Prisma crystals glisten in these electrified tonfas.
 
+### Acquisition
+The Prisma Ohma is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 175,000 and 450. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
+The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 12.
+
 ### Wiki
 WeaponsPrisma crystals glisten in these electrified tonfas.
 The Prisma Ohma are the Prisma variant of the Ohma, featuring enhanced damage, critical chance, critical damage, and attack speed, but with reduced status chance.
@@ -7488,9 +7530,6 @@ Characteristics
 This weapon deals primarily Electricity damage.
 Stance slot has Naramon polarity, matching Sovereign Outcast stance.
 Ohma
-**Acquisition:**
-The Prisma Ohma is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 175,000 and 450. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
-The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 12.
 **Notes:**
 Damage caused by the Prisma Ohma (including damage over time effects from status effects) will cause an arc of lightning to emit from the Prisma Ohma striking the target. This arc has no additional effects and deals no damage.
 **Type:** Melee | **Mastery Req:** 12 | **Riven Disposition:** 3
@@ -7510,6 +7549,10 @@ Crit Chance: 30.00% | Crit Multiplier: 2.2x | Status Chance: 30.00% | Fire Rate:
 ## Prisma Skana
 Forged from raw prisma crystals and infused with Void energy, this blade's pristine edge is honed razor-sharp to eviscerate even the most deadly of foes.
 
+### Acquisition
+The Prisma Skana is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 175,000 and 510. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
+The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed.
+
 ### Wiki
 Weapons
 Forged from raw Prisma crystals and infused with void energy, this blade's pristine edge is honed razor-sharp to eviscerate even the most deadly of foes.
@@ -7520,9 +7563,6 @@ Can use the Skana-exclusive Bright Purity mod.
 Stance slot has Madurai polarity, matches Crimson Dervish, Swooping Falcon and Vengeful Revenant stances.
 Skana
 Skana Prime
-**Acquisition:**
-The Prisma Skana is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 175,000 and 510. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
-The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed.
 **Notes:**
 Incarnon Genesis
 Upon completion of The Duviri Paradox and Angels of the Zariman, and unlocking The Steel Path, players can earn Skana Incarnon Genesis from The Circuit's Steel Path to place on their Skana with the help of Cavalero in the Chrysalith. This Incarnon Genesis form grants it evolutions to a transformation and newfound strength.
@@ -7548,6 +7588,9 @@ Crit Chance: 28.00% | Crit Multiplier: 2.2x | Status Chance: 10.00% | Fire Rate:
 ## Prova
 The Prova is a Melee Weapon that delivers a high-intensity shock to its target.
 
+### Acquisition
+The Prova can be researched from the Energy Lab in the dojo.
+
 ### Wiki
 Weapons
 The PROVA is a melee weapon that delivers a high-intensity shock to its target.
@@ -7559,8 +7602,6 @@ Stance slot has Zenurik polarity, matching Sundering Weave, Cyclone Kraken and R
 Can use the Prova-exclusive Static Discharge mod.
 Third lowest base damage of all machetes, after Machete and Kama.
 Prova Vandal
-**Acquisition:**
-The Prova can be researched from the Energy Lab in the dojo.
 **Notes:**
 Unlike the Prova Vandal, the regular Prova does not have a guaranteed Electricity procs on its slam attack.
 **Trivia:**
@@ -7568,7 +7609,6 @@ On Jump attacks, the Prova releases six small streams of electricity that each t
 Prova is Italian for "evidence" or "proof", which in turn is derived from its Latin equivalent proba.
 John Prodman in The Index wields a Prova as his signature weapon.
 tB8W_Idwxqw
-26
 **Type:** Rifle | **Mastery Req:** 3 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -7595,6 +7635,10 @@ Crit Chance: 14.00% | Crit Multiplier: 2x | Status Chance: 16.00% | Fire Rate: 1
 ## Prova Vandal
 A customized version of the vicious Prova, with metallic finish and Lotus decal.
 
+### Acquisition
+The Prova Vandal is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 250,000 and 410. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
+The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 3.
+
 ### Wiki
 Weapons
 A customized version of the vicious Prova, with metallic finish and Lotus decal.
@@ -7606,15 +7650,11 @@ Normal slam attacks have a forced Electricity proc.
 Stance slot has Zenurik polarity, matching Sundering Weave, Cyclone Kraken and Rending Wind (Conclave only) stance.
 Can use the Prova-exclusive Static Discharge mod.
 Prova
-**Acquisition:**
-The Prova Vandal is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 250,000 and 410. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
-The weapon can be traded, but only for unranked copies without Forma and Orokin Catalyst installed. The trading recipient must also have a Mastery Rank of at least 3.
 **Trivia:**
 The Prova Vandal was first introduced as a potential reward from The Gradivus Dilemma event if the conflict favored the Corpus. However, the Grineer won the event, and as such the Prova Vandal was not rewarded.
 Although it was never distributed in the game at the time, information about it existed in the Codex.
 The Prova Vandal was a reward again during the Operation Breeding Grounds event if players could obtain 48 points in a single mission, complete with a free weapon slot and a pre-installed Orokin Catalyst.
 Prova Vandal is the first Vandal melee weapon to be released.
-26
 **Type:** Rifle | **Mastery Req:** 8 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -7632,6 +7672,9 @@ Crit Chance: 14.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 1
 ## Pulmonars
 Pummel and infect with these two pulsating hunks of flesh connected by a ligament. Take-hold of the malignant evolution of an ancient martial weapon.
 
+### Acquisition
+The Pulmonars' blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 Pummel and infect with these two pulsating hunks of flesh connected by a ligament. Take-hold of the malignant evolution of an ancient martial weapon.
@@ -7641,8 +7684,6 @@ This weapon deals Impact and Viral damage.
 Has a 9-second combo duration.
 Stance slot has Vazarin polarity, matching Atlantis Vulcan and Mafic Rain (Conclave only) stance.
 Innate two Madurai polarities.
-**Acquisition:**
-The Pulmonars' blueprint can be purchased from the Market.
 **Trivia:**
 Its name is based on the word pulmonar, an adjective that describes anything to do with the lungs.
 pRYdgtf15gU
@@ -7672,6 +7713,9 @@ Crit Chance: 19.00% | Crit Multiplier: 2.3x | Status Chance: 50.00% | Fire Rate:
 ## Pupacyst
 A two-pronged attack; the bone-grafted cocoon at the tip of this polearm rends flesh, while the viral mass living within spreads itself into the wounds of each new victim.
 
+### Acquisition
+The Pupacyst's blueprint can be researched from the Bio Lab in the dojo.
+
 ### Wiki
 Weapons
 A two-pronged attack; the bone-grafted cocoon at the tip of this polearm rends flesh, while the viral mass living within spreads itself into the wounds of each new victim.
@@ -7682,11 +7726,8 @@ Stance slot has Zenurik polarity, matching Shimmering Blight and Argent Scourge 
 Innate Madurai polarity.
 Tied with Orthos and Serro for the second lowest critical multiplier of all polearms, after Cassowar.
 Tied with Kesheg and Guandao for the slowest attack speed of all polearms.
-**Acquisition:**
-The Pupacyst's blueprint can be researched from the Bio Lab in the dojo.
 **Trivia:**
 Although the Pupacyst's description claims that its tip "rends flesh", it has no Slash damage whatsoever.
-26
 **Type:** Melee | **Mastery Req:** 7 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -7803,10 +7844,7 @@ Crafting
 
 ## Rabvee
 
-### Wiki
-In game description
-The Rabvee is an Impact-focused Strike used in Zaw construction.
-**Acquisition:**
+### Acquisition
 The Rabvee blueprint can be acquired after reaching the Rank of Neutral with the Ostrons and buying it from Hok for 1,000 Standing.
 Characteristics
 This Strike primarily deals Impact damage.
@@ -7817,6 +7855,10 @@ Compatible weapon types:
 Machete
 Hammer
 When built with onehanded grip (Machete), it is not holstered properly, staying in hand when equipping primary or secondary weapon. It is also impossible to change holster style, which is set to "Nikana Standard Holster".
+
+### Wiki
+In game description
+The Rabvee is an Impact-focused Strike used in Zaw construction.
 **Type:** Zaw Component | **Riven Disposition:** 4
 
 ### Rabvee Strike
@@ -7835,6 +7877,11 @@ Crit Chance: 18.00% | Crit Multiplier: 2x | Status Chance: 18.00% | Fire Rate: 0
 ## Rakta Dark Dagger
 Infiltrate undetected; reduced visibility when held. Then strike with confidence; hits to irradiated targets restores shields and creates overshields.
 
+### Acquisition
+The Rakta Dark Dagger can be acquired by reaching the Rank of Exalted with Red Veil, and spending 125,000 Standing to purchase. As with all Syndicate Weapons, the Rakta Dark Dagger cannot be chosen as the free offering upon ranking up to Exalted rank.
+Syndicate weapons can also be acquired via Trading, but only for unranked copies without Forma and Orokin Catalyst installed.
+Players must have a Mastery Rank of at least 8 to acquire the Rakta Dark Dagger, either through trading or through the Syndicates themselves.
+
 ### Wiki
 Tenno
 Infiltrate undetected; reduced visibility when held. Then strike with confidence; hits to irradiated targets restores shields and creates overshields.
@@ -7850,10 +7897,6 @@ Stance slot has Naramon polarity, matching Homing Fang and Piercing Fury (Concla
 Can use the dagger-exclusive Covert Lethality and Dark Dagger-exclusive Gleaming Blight mods.
 Innate Madurai polarity.
 Dark Dagger
-**Acquisition:**
-The Rakta Dark Dagger can be acquired by reaching the Rank of Exalted with Red Veil, and spending 125,000 Standing to purchase. As with all Syndicate Weapons, the Rakta Dark Dagger cannot be chosen as the free offering upon ranking up to Exalted rank.
-Syndicate weapons can also be acquired via Trading, but only for unranked copies without Forma and Orokin Catalyst installed.
-Players must have a Mastery Rank of at least 8 to acquire the Rakta Dark Dagger, either through trading or through the Syndicates themselves.
 **Type:** Melee | **Mastery Req:** 8 | **Riven Disposition:** 3
 
 ### Normal Attack
@@ -7892,7 +7935,6 @@ Reaper Prime was the first primed melee weapon obtainable from the Void, as well
 Along with Latron Prime, this was the first craftable prime weapon.
 Originally, the Reaper Prime's codex description described the blade as "forged from tempered Rubidium", an alkali metal that's too soft and too light to be used for melee weapons. It has since been changed to mention Rubedo.
 JNB1x-qEwtE
-26
 **Type:** Melee | **Mastery Req:** 10 | **Riven Disposition:** 2
 
 ### Normal Attack
@@ -7918,6 +7960,10 @@ Crit Chance: 35.00% | Crit Multiplier: 2.5x | Status Chance: 10.00% | Fire Rate:
 ## Redeemer
 Striking with massive twin blades, the Redeemer fires the killing blow with its built-in shotgun.
 
+### Acquisition
+The Redeemer's blueprint can be purchased from the Market.
+This weapon can be sold for 5,000.
+
 ### Wiki
 Weapons
 Striking with massive twin blades, the Redeemer fires the killing blow with its built-in shotgun.
@@ -7936,9 +7982,6 @@ Zero Impact damage - cannot benefit from Shattering Impact.
 Alarming.
 Lowest critical chance, critical multiplier, status chance, and attack speed of all gunblades.
 Redeemer Prime
-**Acquisition:**
-The Redeemer's blueprint can be purchased from the Market.
-This weapon can be sold for 5,000.
 **Type:** Melee | **Mastery Req:** 4 | **Riven Disposition:** 3
 
 ### Normal Attack
@@ -8021,6 +8064,9 @@ Crit Chance: 24.00% | Crit Multiplier: 2.2x | Status Chance: 10.00% | Fire Rate:
 ## Ripkas
 Motorized saw claw weapon.
 
+### Acquisition
+The Ripkas's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 Motorized saw claw weapon.
@@ -8031,8 +8077,6 @@ Characteristics
 This weapon deals primarily Slash damage.
 Stance slot has Madurai polarity, matching Vermillion Storm, Four Riders, Malicious Raptor and Scarlet Hurricane minor (Conclave only) stance.
 Can use the Ripkas-exclusive mods, Hunter's Bonesaw and Amalgam Ripkas True Steel.
-**Acquisition:**
-The Ripkas's blueprint can be purchased from the Market.
 **Notes:**
 The Ripkas requires Tellurium for construction, which is a resource only found on Archwing missions, Empyrean (both in space and on foot), submersible missions on Uranus, or Alerts.
 The Ripkas require the Ankyros and Dual Cleavers weapons to build. The total materials required to fully build this weapon include: 700 Nano Spores, 1,900 Salvage, 1,400 Ferrite, 1,350 Alloy Plate, 2 Tellurium, 1 Forma and 150,000.
@@ -8136,6 +8180,10 @@ Vargeet Ruhang II
 ## Rumblejack
 An electrified jolter for quick melee takedowns, assembled from scavenged scrap. Ideal for use on unsuspecting opponents.
 
+### Acquisition
+Rumblejack is given upon completion of The New War, complete with a free weapon slot and a pre-installed Orokin Catalyst.
+Additional copies of Rumblejack can be bought from Cephalon Simaris for 100,000 Standing.
+
 ### Wiki
 Add Template:StanceTable to this article and add unique finisher animation to Module:Stances/data
 Weapons
@@ -8146,9 +8194,6 @@ This weapon deals primarily Electricity damage.
 Two innate V polarities.
 Stance slot has Madurai polarity, matching Stinging Thorn and Pointed Wind stance.
 Grants a 10% Movement Speed bonus when held (i.e. melee mode or quick melee).
-**Acquisition:**
-Rumblejack is given upon completion of The New War, complete with a free weapon slot and a pre-installed Orokin Catalyst.
-Additional copies of Rumblejack can be bought from Cephalon Simaris for 100,000 Standing.
 **Notes:**
 The Rumblejack sports a unique Finisher animation where the player jabs the opponent, dealing a guaranteed Electricity proc before the actual finisher damage takes place.
 The Electricity proc cannot be converted to a secondary damage type.
@@ -8216,6 +8261,10 @@ Crit Chance: 26.00% | Crit Multiplier: 2.2x | Status Chance: 10.00% | Fire Rate:
 ## Sampotes
 A warrior who prefers brute force will make the most of Sampotes. Its Slams and Heavy Slams have an extended area of effect.
 
+### Acquisition
+The Blueprint for Sampotes can be purchased in Teshin's Cave for 60 Pathos Clamp or 275. Purchasing using the former will unlock the Drifter-compatible version and the blueprint for a Warframe-compatible version; purchasing using the latter will unlock both versions.
+Additional Warframe blueprint copies can be purchased from Cephalon Simaris for 100,000 Standing.
+
 ### Wiki
 Weapons
 A warrior who prefers brute force will make the most of Sampotes. Its Slams and Heavy Slams have an extended area of effect.
@@ -8229,9 +8278,6 @@ Unique Heavy Slam Attack unleashes 3 lines of 4 explosions in a fan, each dealin
 Drifter Combat
 Power Strike (blocking + heavy attack, default RMB + MMB) slams the ground to release a shockwave that travels forward in a line, inflicting Heat damage with guaranteed procs.
 Ground slam can hit the same target multiple times.
-**Acquisition:**
-The Blueprint for Sampotes can be purchased in Teshin's Cave for 60 Pathos Clamp or 275. Purchasing using the former will unlock the Drifter-compatible version and the blueprint for a Warframe-compatible version; purchasing using the latter will unlock both versions.
-Additional Warframe blueprint copies can be purchased from Cephalon Simaris for 100,000 Standing.
 **Notes:**
 Sampotes can apply multiple instances of Lifted, resulting in enemies being Ragdolled.
 Shockwaves
@@ -8265,6 +8311,11 @@ Crit Chance: 30.00% | Crit Multiplier: 3x | Status Chance: 10.00% | Fire Rate: 0
 ## Sancti Magistar
 Each charged attack turns the enemy’s pain into a healing pulse that washes over allies. Also, creates resistance to Status Effects when held.
 
+### Acquisition
+The Sancti Magistar can be acquired by reaching the Rank of Flawless with New Loka and purchasing from its offerings with 125,000 Standing. As with all Syndicate weapon offerings, the Sancti Magistar is not included as a free offering option for reaching its respective access rank.
+Syndicate weapons can also be acquired by trading with other players. Note that in order to be tradable, a weapon must be unranked, unused, with no Forma or Orokin Catalyst installed.
+Players must reach Mastery Rank 8 or higher to acquire the Sancti Magistar, either by trading or through the Syndicates themselves.
+
 ### Wiki
 Tenno
 Each charged attack turns the enemy's pain into a healing pulse that washes over allies. Also, creates resistance to status effects when held.
@@ -8276,10 +8327,6 @@ When held, the wielder receives 20% chance to resist a Status Effect.
 Stance slot has Vazarin polarity, matching Shattering Storm and Crashing Havoc (Conclave only) stance.
 Innate Madurai polarity.
 Magistar
-**Acquisition:**
-The Sancti Magistar can be acquired by reaching the Rank of Flawless with New Loka and purchasing from its offerings with 125,000 Standing. As with all Syndicate weapon offerings, the Sancti Magistar is not included as a free offering option for reaching its respective access rank.
-Syndicate weapons can also be acquired by trading with other players. Note that in order to be tradable, a weapon must be unranked, unused, with no Forma or Orokin Catalyst installed.
-Players must reach Mastery Rank 8 or higher to acquire the Sancti Magistar, either by trading or through the Syndicates themselves.
 **Type:** Melee | **Mastery Req:** 8 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -8374,6 +8421,9 @@ Crit Chance: 30.00% | Crit Multiplier: 3x | Status Chance: 10.00% | Fire Rate: 1
 ## Sarpa
 Makes sweeping cuts punctuated by bursts of heavy gunfire.
 
+### Acquisition
+The Sarpa's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 Makes sweeping cuts punctuated by bursts of heavy gunfire.
@@ -8392,8 +8442,6 @@ Has linear damage falloff from 100% to 14.29% from 20m to 40m target distance (d
 Has a very large spread.
 Alarming.
 Lowest base damage of all gunblades.
-**Acquisition:**
-The Sarpa's blueprint can be purchased from the Market.
 **Type:** Melee | **Mastery Req:** 8 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -8424,6 +8472,9 @@ Crit Chance: 14.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 1
 ## Scindo
 The Scindo is a heavy war axe crafted by the Tenno. Reduced speed and agility is balanced by heavy, devastating strikes capable of connecting with multiple targets at once.
 
+### Acquisition
+The Scindo' blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 The Scindo is a heavy war axe crafted by the Tenno. Reduced speed and agility is balanced by heavy, devastating strikes capable of connecting with multiple targets at once.
@@ -8435,15 +8486,12 @@ Stance slot has Madurai polarity, matching Rending Crane and Noble Cadence (Conc
 Can equip the Manticore skin, which provides +15% damage, but -15% attack speed.
 Lowest critical multiplier and status chance of all heavy blades.
 Scindo Prime
-**Acquisition:**
-The Scindo' blueprint can be purchased from the Market.
 **Notes:**
 When performing a normal attack, while in the middle of a swing, you are not affected by knockback, e.g. Infested Volatile Runner explosions.
 **Trivia:**
 Scindo is a Latin verb, meaning to separate, divide, rend, or slice.
 The Scindo was used by the Stalker as a placeholder weapon before the Hate was introduced.
 If the Scindo is equipped with the Manticore skin and Spoiled Strike alone, it becomes the second slowest melee weapon in the game; second only to the Fragor.
-26
 **Type:** Melee | **Mastery Req:** 2 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -8470,6 +8518,13 @@ Crit Chance: 15.00% | Crit Multiplier: 1.5x | Status Chance: 10.00% | Fire Rate:
 ## Scindo Prime
 An ancient executioners weapon, the honor of decapitation by the Scindo Prime was reserved for the Orokin's most respected enemies.
 
+### Acquisition
+Unlike most Prime gear, Scindo Prime is permanently unvaulted, with relics being obtainable through Abandoned Derelict Caches in Corpus Railjack missions.
+Vaultings
+On August 9th, 2016, it was announced that Scindo Prime, alongside Nyx Prime and Hikou Prime, would enter the Prime Vault and be retired from the reward tables on August 23, 2016. Any preexisting components, relics or fully-built weapons will remain as is.
+Scindo Prime, along with Nyx Prime, Hikou Prime, Rhino Prime, Ankyros Prime, and Boltor Prime, was unvaulted on July 24, 2018 to September 25, 2018.
+The same line-up was unvaulted again from July 16th, 2019 to September 3rd, 2019.
+
 ### Wiki
 An ancient executioners weapon, the honor of decapitation by the Scindo Prime was reserved for the Orokin's most respected enemies.
 Scindo Prime is the Prime version of the Scindo, acting as a direct upgrade. It was released alongside Nyx Prime and Hikou Prime.
@@ -8481,18 +8536,11 @@ Can equip the Manticore skin, which gives +15% damage, but decreases attack spee
 Tied with Galatine Prime and War for the third highest critical chance of all heavy blades, behind Paracesis and Gram Prime.
 Second highest critical multiplier of all heavy blades, behind War, Gram Prime and Paracesis.
 Scindo
-**Acquisition:**
-Unlike most Prime gear, Scindo Prime is permanently unvaulted, with relics being obtainable through Abandoned Derelict Caches in Corpus Railjack missions.
-Vaultings
-On August 9th, 2016, it was announced that Scindo Prime, alongside Nyx Prime and Hikou Prime, would enter the Prime Vault and be retired from the reward tables on August 23, 2016. Any preexisting components, relics or fully-built weapons will remain as is.
-Scindo Prime, along with Nyx Prime, Hikou Prime, Rhino Prime, Ankyros Prime, and Boltor Prime, was unvaulted on July 24, 2018 to September 25, 2018.
-The same line-up was unvaulted again from July 16th, 2019 to September 3rd, 2019.
 **Trivia:**
 Scindo is a Latin verb, meaning to separate, divide, rend, or slice.
 Described as an executioner's weapon, being held as a great honor to be beheaded by, it could have been initially made as an ornamental weapon, reserved for the most worthy of adversaries.
 The Scindo Prime's gold parts can be recolored as of Update 15.13.
 4jEEKi5zb38
-26
 **Type:** Melee | **Mastery Req:** 8 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -8518,6 +8566,9 @@ Crit Chance: 26.00% | Crit Multiplier: 2.4x | Status Chance: 10.00% | Fire Rate:
 ## Scoliac
 The Scoliac Whip is a nasty parasitic growth of sinew and bone that can inflict heart stopping Toxin Damage with attacks.
 
+### Acquisition
+The Scoliac's blueprint can be researched from the Bio Lab in the dojo.
+
 ### Wiki
 Weapons
 The Scoliac Whip is a nasty parasitic growth of sinew and bone that inflicts heart stopping Toxin damage with attacks.
@@ -8527,14 +8578,11 @@ This weapon deals primarily Slash damage.
 Slam attack deals Toxin damage, bypassing Shields.
 Stance slot has Zenurik polarity, matching Coiling Viper and Lashing Coil (Conclave only) stance.
 Innate Madurai polarity.
-**Acquisition:**
-The Scoliac's blueprint can be researched from the Bio Lab in the dojo.
 **Trivia:**
 The Scoliac's name may be derived from Scoliosis (derived from Ancient Greek σκολίωσις skoliosis “obliquity, bending”), a medical condition in which a person's spine is curved unnaturally.
 The Scoliac was the first whip revealed, shown in Livestream 14. However it was introduced after the Lecta.
 When the Infested lab was revamped the Scoliac's model could be seen in a container, along with the Embolist, shortly before the Scoliac was actually added into the game.
 This is the second whip to be added to the game (following the Lecta), and the third research melee weapon available (following the Prova and the Dual Ichor).
-26
 **Type:** Melee | **Mastery Req:** 6 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -8561,6 +8609,11 @@ Crit Chance: 13.00% | Crit Multiplier: 1.5x | Status Chance: 10.00% | Fire Rate:
 ## Secura Lecta
 Whip the enemy out of their ill-gotten gains; double credit drops on kills.
 
+### Acquisition
+The Secura Lecta can be acquired by reaching the Rank of Partner with The Perrin Sequence, and spending 125,000 Standing to purchase. As with all Syndicate Weapons, the Secura Lecta cannot be chosen as the free offering upon ranking up to Partner rank.
+Syndicate weapons can also be acquired via Trading, but only for unranked copies without Forma or Orokin Catalyst installed.
+Players must reach Mastery Rank 8 or higher to acquire the Secura Lecta, either by trading or through the Syndicates themselves.
+
 ### Wiki
 Weapons
 Whip the enemy out of their ill-gotten gains; double credit drops on kills.
@@ -8574,10 +8627,6 @@ Innate Vazarin polarity.
 Tied with Galvacord for the highest status chance of all whips.
 Tied with Scoliac for the fastest attack speed of all whips.
 Lecta
-**Acquisition:**
-The Secura Lecta can be acquired by reaching the Rank of Partner with The Perrin Sequence, and spending 125,000 Standing to purchase. As with all Syndicate Weapons, the Secura Lecta cannot be chosen as the free offering upon ranking up to Partner rank.
-Syndicate weapons can also be acquired via Trading, but only for unranked copies without Forma or Orokin Catalyst installed.
-Players must reach Mastery Rank 8 or higher to acquire the Secura Lecta, either by trading or through the Syndicates themselves.
 **Type:** Melee | **Mastery Req:** 8 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -8613,10 +8662,7 @@ Polearm
 
 ## Sepfahn
 
-### Wiki
-In game description
-The Sepfahn is a Slash-focused Strike used in Zaw construction, and is currently the only Strike able to make a Nikana.
-**Acquisition:**
+### Acquisition
 The Sepfahn blueprint can be acquired after reaching the Rank of Neutral with the Ostrons and buying it from Hok for 1,000 Standing.
 Characteristics
 This Strike primarily deals Slash damage.
@@ -8628,6 +8674,10 @@ Compatible weapon types:
 Nikana
 Staff
 Gives a Madurai stance polarity.
+
+### Wiki
+In game description
+The Sepfahn is a Slash-focused Strike used in Zaw construction, and is currently the only Strike able to make a Nikana.
 **Notes:**
 Has 10% base critical chance and status chance, while other Zaw strikes, excluding Plague Keewar and Plague Kripath, have 8%.
 Increases to 20% when gilded.
@@ -8652,6 +8702,9 @@ Crit Chance: 20.00% | Crit Multiplier: 2x | Status Chance: 20.00% | Fire Rate: 0
 ## Serro
 Developed as an energy saw to scrap obsolete ships, this tool was quickly banned when rebels in the Sedna region discovered it also made an excellent weapon.
 
+### Acquisition
+The Serro's blueprint can be researched from the Energy Lab in the dojo.
+
 ### Wiki
 Weapon
 Developed as an energy saw to scrap obsolete ships, this tool was quickly banned when rebels in the Sedna region discovered it also made an excellent weapon.
@@ -8662,8 +8715,6 @@ Stance slot has Naramon polarity, matches Bleeding Willow and Twirling Spire sta
 Innate Madurai polarity.
 Third lowest critical chance of all polearms, after Orthos/Cassowar and Tonbo.
 Tied with Orthos and Pupacyst for the second lowest critical multiplier of all polearms, after Cassowar.
-**Acquisition:**
-The Serro's blueprint can be researched from the Energy Lab in the dojo.
 **Notes:**
 When combining elements, the innate Electricity damage is added last.
 The Serro has a chance to inflict Blast status effect on its jump attacks.
@@ -8695,6 +8746,9 @@ Crit Chance: 8.00% | Crit Multiplier: 1.5x | Status Chance: 10.00% | Fire Rate: 
 ## Shaku
 With these blazing fast nunchaku, the enemy will never know what hit them.
 
+### Acquisition
+The Shaku's blueprint can be researched from the Tenno Lab in the dojo.
+
 ### Wiki
 Weapons
 With these blazing fast nunchaku, the enemy will never know what hit them.
@@ -8703,15 +8757,12 @@ Characteristics
 This weapon deals Impact damage.
 Stance slot has Vazarin polarity, matching Atlantis Vulcan and Mafic Rain (Conclave only) stance.
 Fastest attack speed of all nunchaku.
-**Acquisition:**
-The Shaku's blueprint can be researched from the Tenno Lab in the dojo.
 **Trivia:**
 Between Update 18 and Update 18.0.6.1, the Shaku was unintentionally leaked through the Tenno Research Lab before being retrieved.
 The Shaku is the second weapon in game after the Sonicor to possess only a single physical damage type as its innate damage type.
 A shaku (尺) is a Japanese unit of measurement originally referring to the length of the forearm, which in modern usage is commonly standardized as being 30.3 cm long, and is the traditional length with which the branches of a nunchaku are made.
 The term is also used to refer to a ritual baton used by Shinto priests, and is so named due to its length.
 00_vqgqsxuY
-26
 **Type:** Melee | **Mastery Req:** 10 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -8738,6 +8789,11 @@ Crit Chance: 18.00% | Crit Multiplier: 2x | Status Chance: 35.00% | Fire Rate: 1
 ## Sheev
 Built for close combat, the Sheev's plasma blade slices through flesh and armor with equal ease.
 
+### Acquisition
+The blueprint and parts were formerly a reward from the Fifth Season of Sorties; they can now be found as an Invasion reward.
+All components are tradeable.
+After the Operation: Gate Crash event, Sheev's blueprint and components were seasonal offerings exclusive to the October Nights of Naberus event, during which they could be purchased from Daughter for Mother Token; the blueprint cost 125 tokens while the components cost 25, totaling 200 tokens.
+
 ### Wiki
 Weapons
 Built for close combat, the Sheev's plasma blade slices through flesh and armor with equal ease.
@@ -8749,10 +8805,6 @@ Can use the dagger-exclusive Covert Lethality mod.
 Stance slot has Madurai polarity, matching Stinging Thorn and Pointed Wind stance.
 Innate Naramon polarity.
 Tied with Karyst Prime for the slowest attack speed of all single daggers; additionally tied with Pathocyst and Plasma Sword for the slowest attack speed of all melees.
-**Acquisition:**
-The blueprint and parts were formerly a reward from the Fifth Season of Sorties; they can now be found as an Invasion reward.
-All components are tradeable.
-After the Operation: Gate Crash event, Sheev's blueprint and components were seasonal offerings exclusive to the October Nights of Naberus event, during which they could be purchased from Daughter for Mother Token; the blueprint cost 125 tokens while the components cost 25, totaling 200 tokens.
 **Type:** Melee | **Mastery Req:** 5 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -8799,6 +8851,9 @@ Staves
 ## Sibear
 Ice in motion can crush mountains, this frozen hammer is no different.
 
+### Acquisition
+The Sibear's blueprint can be purchased from the Market.
+
 ### Wiki
 Ice in motion can crush mountains, this frozen hammer is no different.
 The Sibear is a large hammer featuring a head composed entirely of Cryotic that deals Cold damage on attacks. Performing a heavy attack increases its Status Chance, making it ideal for inflicting status effects on enemies.
@@ -8809,8 +8864,6 @@ Bonus is a flat amount applied after other status chance bonuses.
 Only triggered by Heavy Attacks; Heavy Slams will not trigger the status chance bonus.
 Stance has a Madurai polarity, matches Crushing Ruin.
 Innate Vazarin polarity.
-**Acquisition:**
-The Sibear's blueprint can be purchased from the Market.
 **Notes:**
 On a heavy attack, Sibear gains +50% status chance for 4 seconds. This bonus is a flat amount applied after mods.
 For example, when equipped with Vicious Frost, the Sibear will have: 30% (1 + 60%) + 50% status chance after a heavy attack.
@@ -8844,6 +8897,10 @@ Crit Chance: 15.00% | Crit Multiplier: 2x | Status Chance: 30.00% | Fire Rate: 1
 ## Sigma & Octantis
 Deadly slashes from the Sigma sword are matched only by the force of the Octantis shield when thrown from the air.
 
+### Acquisition
+Sigma & Octantis is exclusive to the Daily Tribute system. It will become available every 200 days, beginning at day 300, until chosen as the Milestone reward. It comes with a free weapon slot and pre-installed Orokin Catalyst.
+Additional blueprints can be bought from Cephalon Simaris for 100,000 Standing.
+
 ### Wiki
 Deadly slashes from the Sigma sword are matched only by the force of the Octantis shield when thrown from the air.
 The Sigma & Octantis is a sword and shield combo, available through the Daily Tribute system. This weapon features a special shield throw attack, staggering enemies and opening them to finisher attacks for a brief period.
@@ -8855,9 +8912,6 @@ Blocking attacks stores a charge that increases critical and status chance by 15
 Critical Chance bonus is additive to True Steel, Blood Rush, and other similar buffs.
 Status Chance Bonus is additive to Melee Prowess, Weeping Wounds, and other similar buffs.
 Aerial attacks throw the shield, staggering enemies hit and opening them up to finishers.
-**Acquisition:**
-Sigma & Octantis is exclusive to the Daily Tribute system. It will become available every 200 days, beginning at day 300, until chosen as the Milestone reward. It comes with a free weapon slot and pre-installed Orokin Catalyst.
-Additional blueprints can be bought from Cephalon Simaris for 100,000 Standing.
 **Type:** Melee | **Mastery Req:** 10 | **Riven Disposition:** 3
 
 ### Normal Attack
@@ -8892,6 +8946,9 @@ Crit Chance: 28.00% | Crit Multiplier: 2.2x | Status Chance: 10.00% | Fire Rate:
 ## Silva & Aegis
 This fiery sword and shield combination perfects the balance of Tenno offense and defense prowess. In the hands of a Master, even a defensive tool like a shield can be used as a weapon.
 
+### Acquisition
+The Silva & Aegis's blueprint can be researched from the Tenno Lab in the dojo.
+
 ### Wiki
 Weapons
 This fiery sword and shield combination perfects the balance of Tenno offense and defense prowess. In the hands of a Master, even a defensive tool like a shield can be used as a weapon.
@@ -8906,8 +8963,6 @@ Status Chance Bonus is additive to Melee Prowess, Weeping Wounds, and other simi
 Shield bashes have a guaranteed Impact proc.
 Can use the Silva & Aegis-exclusive Avenging Truth mod.
 Silva & Aegis Prime
-**Acquisition:**
-The Silva & Aegis's blueprint can be researched from the Tenno Lab in the dojo.
 **Notes:**
 When adding elemental mods for combination, this weapon's Heat element is added last.
 The weapon, like all Sword and Shields, features a very high blocking range, allowing the player to shield themselves from enemy attacks more efficiently than most other melee weapons.
@@ -8986,6 +9041,10 @@ Crit Chance: 25.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 0
 ## Skana
 Before all other weapons, Tenno master the Skana. This simple blade becomes immensely powerful in the hands of a master. For Tenno, it is the foundation of their fighting style and a pillar of their culture.
 
+### Acquisition
+During Awakening, the Skana is one of two melee weapons offered to the player, the other being the Bo.
+The blueprint can also be purchased from the Market for 15,000.
+
 ### Wiki
 Weapons
 Before all other weapons, Tenno master the Skana. This simple blade becomes immensely powerful in the hands of a master. For Tenno, it is the foundation of their fighting style and a pillar of their culture.
@@ -8998,9 +9057,6 @@ Stance slot has Madurai polarity, matches Crimson Dervish, Swooping Falcon and 
 Tied with Jaw Sword for the second lowest damage of all swords, after Cronus.
 Prisma Skana
 Skana Prime
-**Acquisition:**
-During Awakening, the Skana is one of two melee weapons offered to the player, the other being the Bo.
-The blueprint can also be purchased from the Market for 15,000.
 **Notes:**
 Acquiring a Skana will also come with the Swooping Falcon stance mod pre-installed.
 Of all the starter weapons available during the Awakening Quest, the Skana is the only one that cannot be bought pre-built, but instead has to be crafted with a blueprint acquired through the Market.
@@ -9013,7 +9069,6 @@ Skana Incarnon Genesis#Evolutions
 The Skana was the very first Melee weapon available to new players prior to Update 14.
 The Skana resembles the Russian Shashka, mirroring the curve of the blade and lack of crossguard.
 Prior to Update 17, the Skana was used by Tyl Regor, the final boss of Uranus, before being replaced by the Ack & Brunt.
-26
 **Type:** Melee | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -9040,6 +9095,9 @@ Crit Chance: 5.00% | Crit Multiplier: 1.5x | Status Chance: 10.00% | Fire Rate: 
 ## Skana Prime
 A basic blade known as a Skana. It is widely used by the Tenno. Prime model offers slightly increased damage.
 
+### Acquisition
+Skana Prime was only available to owners of the Master or Grand Master Founders package that was offered between December 19th, 2012 and November 1st, 2013.
+
 ### Wiki
 A basic blade known as a Skana. It is widely used by the Tenno. Prime model offers slightly increased damage.
 The Skana Prime is the Prime version of the Skana, acting as a direct upgrade. The Skana Prime is a Founders-exclusive weapon released alongside Excalibur Prime and Lato Prime.
@@ -9052,8 +9110,6 @@ Innate Madurai and Naramon polarities.
 Highest critical multiplier of all swords.
 Skana
 Prisma Skana
-**Acquisition:**
-Skana Prime was only available to owners of the Master or Grand Master Founders package that was offered between December 19th, 2012 and November 1st, 2013.
 **Notes:**
 Incarnon Genesis
 Upon completion of The Duviri Paradox and Angels of the Zariman, and unlocking The Steel Path, players can earn Skana Incarnon Genesis from The Circuit's Steel Path to place on their Skana with the help of Cavalero in the Chrysalith. This Incarnon Genesis form grants it evolutions to a transformation and newfound strength.
@@ -9067,7 +9123,6 @@ Prime Warframes including Excalibur Prime using Radial Blind will be holding an 
 In "The Profit", Volt can be seen using a dual version of the Skana Prime.
 The Skana Prime is shown in the icon when a Tennokai mod is installed and the opportunity to perform a Tennokai appears.
 1RJ2OK_Htog
-26
 **Type:** Melee | **Mastery Req:** 12 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -9085,6 +9140,9 @@ Crit Chance: 26.00% | Crit Multiplier: 2.6x | Status Chance: 10.00% | Fire Rate:
 ## Skiajati
 Forged of steel grafted from Umbra's flesh, this elegant Nikana unites with its Warframe to form a single being of seething purpose.
 
+### Acquisition
+This weapon, along with Excalibur Umbra, is given during the penultimate mission of The Sacrifice at max rank, complete with its own free weapon slot, a pre-installed Orokin Catalyst, and the mods Sacrificial Steel and Sacrificial Pressure fused to rank 5. A second Skiajati will not be given after replaying the quest.
+
 ### Wiki
 Weapons
 Forged of steel grafted from Umbra's flesh, this elegant nikana unites with its Warframe to form a single being of seething purpose.
@@ -9097,8 +9155,6 @@ Finishers temporarily turn the user invisible for 6 seconds.
 Two innate Umbra polarities.
 Highest attack speed of all nikanas.
 Second lowest base damage of all nikanas, after Nikana.
-**Acquisition:**
-This weapon, along with Excalibur Umbra, is given during the penultimate mission of The Sacrifice at max rank, complete with its own free weapon slot, a pre-installed Orokin Catalyst, and the mods Sacrificial Steel and Sacrificial Pressure fused to rank 5. A second Skiajati will not be given after replaying the quest.
 **Type:** Melee | **Mastery Req:** 11 | **Riven Disposition:** 3
 
 ### Normal Attack
@@ -9125,6 +9181,9 @@ Crit Chance: 19.00% | Crit Multiplier: 2.1x | Status Chance: 10.00% | Fire Rate:
 ## Slaytra
 The Slaytra is a powerful reiteration of the traditional Grineer Machete that doubles the duration of Slash Status Effects.
 
+### Acquisition
+Slaytra's blueprint is available from Chipper of Kahl's Garrison for 30 Stock (Kahl), requiring players to be at Rank 2 - Encampment to purchase.
+
 ### Wiki
 Weapons
 The Slaytra is a powerful reiteration of the Grineer Machete that doubles the duration of bleed from slash damage.
@@ -9134,8 +9193,6 @@ This weapon deals primarily Slash damage.
 Innate +100% Slash proc duration.
 Bonus is additive other status duration buffs, such as Lasting Sting.
 Stance slot has Zenurik polarity, matching Sundering Weave, Cyclone Kraken and Rending Wind (Conclave only) stance.
-**Acquisition:**
-Slaytra's blueprint is available from Chipper of Kahl's Garrison for 30 Stock (Kahl), requiring players to be at Rank 2 - Encampment to purchase.
 **Trivia:**
 The Slaytra is simply named "Machete" in Break Narmer missions, rather than its own name.
 **Type:** Melee | **Mastery Req:** 13 | **Riven Disposition:** 3
@@ -9164,6 +9221,10 @@ Crit Chance: 21.00% | Crit Multiplier: 1.9x | Status Chance: 10.00% | Fire Rate:
 ## Spinnerex
 Each lash of Oraxia's whip injects its victim with a dose of deadly toxin. Upon death, afflicted enemies have a chance to burst, damaging nearby enemies and spreading the poison.
 
+### Acquisition
+Spinnerex's main and component blueprints can be obtained from Isleweaver in Duviri. Access requires completion of The Hex Quest.
+Alternatively, Spinnerex's blueprints can be purchased from 30x30pxAcrithis or Dominus Thrax in the Dormizone, using Scuttler Husk awarded from Isleweaver. Each component blueprint requires 16 Resources and the main blueprint requires 48 Resources, totaling 96 Resources Scuttler Husks for the complete set.
+
 ### Wiki
 Orokin
 Each lash of Oraxia’s whip injects its victim with a dose of deadly toxin. Upon death, afflicted enemies have a chance to burst, damaging nearby enemies and spreading the poison.
@@ -9173,9 +9234,6 @@ This weapon deals Toxin damage.
 Stance slot has Zenurik polarity, matching Coiling Viper and Lashing Coil (Conclave only) stance.
 Enemies hit by Spinnerex and then killed from any source have a 10% chance to explode for each stack of Toxin status, spreading Toxin damage.
 Innate Madurai polarity.
-**Acquisition:**
-Spinnerex's main and component blueprints can be obtained from Isleweaver in Duviri. Access requires completion of The Hex Quest.
-Alternatively, Spinnerex's blueprints can be purchased from 30x30pxAcrithis or Dominus Thrax in the Dormizone, using Scuttler Husk awarded from Isleweaver. Each component blueprint requires 16 Resources and the main blueprint requires 48 Resources, totaling 96 Resources Scuttler Husks for the complete set.
 **Type:** Melee | **Mastery Req:** 12 | **Riven Disposition:** 1
 
 ### Normal Attack
@@ -9254,6 +9312,12 @@ Crit Chance: 30.00% | Crit Multiplier: 2.4x | Status Chance: 10.00% | Fire Rate:
 ## Sun & Moon
 Teshin's twin blades.
 
+### Acquisition
+The blueprint is rewarded on completion of The Duviri Paradox Quest. Additional copies can be purchased from Cephalon Simaris for 100,000 Standing.
+Sun & Moon has an unique combo when no stance is equipped, which is not found in the Mountain's Edge stance.
+This combo consists of 4 attacks, with the first two being individual weapon strikes, and the second two being hits with both weapons.
+The final hit in the combo applies a forced Impact and Slash status.
+
 ### Wiki
 Not to be confused with the Alignment system.
 Weapons
@@ -9264,11 +9328,6 @@ This weapon primarily deals Slash damage.
 Stance slot has Naramon polarity, matching Mountain's Edge stance.
 Drifter Combat
 Power Strike (blocking + heavy attack, default RMB + MMB) sends forth two arcs of explosive energy that deal Electricity damage with guaranteed procs.
-**Acquisition:**
-The blueprint is rewarded on completion of The Duviri Paradox Quest. Additional copies can be purchased from Cephalon Simaris for 100,000 Standing.
-Sun & Moon has an unique combo when no stance is equipped, which is not found in the Mountain's Edge stance.
-This combo consists of 4 attacks, with the first two being individual weapon strikes, and the second two being hits with both weapons.
-The final hit in the combo applies a forced Impact and Slash status.
 **Trivia:**
 Sun & Moon are heavily inspired by the Daishō (大小), a combination of Katana and Wakizashi exclusively wielded by Samurai warriors during feudal Japan.
 If the player has no melee weapon equipped during the climactic battle of The War Within, the player's Warframe will automatically wield Sun; in this form it is identical to an unmodded Nikana and is dubbed the "Teshin Nikana."
@@ -9301,6 +9360,10 @@ Crit Chance: 20.00% | Crit Multiplier: 2.4x | Status Chance: 10.00% | Fire Rate:
 ## Syam
 Syam is at home in the hands of a focused warrior. Its Heavy Attacks send forth shockwaves.
 
+### Acquisition
+The Blueprint for Syam can be purchased in Teshin's Cave for 50 Pathos Clamp or 250. Purchasing using the former will unlock the Drifter-compatible version and the blueprint for a Warframe-compatible version; purchasing using the latter will unlock both versions.
+Additional Warframe blueprint copies can be purchased from Cephalon Simaris for 100,000 Standing.
+
 ### Wiki
 Weapons
 Syam is at home in the hands of a focused warrior. Its Heavy Attacks send forth shockwaves.
@@ -9319,9 +9382,6 @@ The shockwave only occurs when the Syam is wielded by Warframes, not the Drifter
 Blocking can reflect projectiles back to the enemy firing them.
 Drifter Combat
 Power Strike (blocking + heavy attack, default RMB + MMB) releases two spinning slashes in quick succession, inflicting Lifted.
-**Acquisition:**
-The Blueprint for Syam can be purchased in Teshin's Cave for 50 Pathos Clamp or 250. Purchasing using the former will unlock the Drifter-compatible version and the blueprint for a Warframe-compatible version; purchasing using the latter will unlock both versions.
-Additional Warframe blueprint copies can be purchased from Cephalon Simaris for 100,000 Standing.
 **Notes:**
 Unlike other Nikanas, the Syam does not force proc Slash on a heavy attack. Slide heavy attacks function as per normal and will proc slash.
 **Type:** Melee | **Riven Disposition:** 1
@@ -9358,6 +9418,9 @@ Crit Chance: 20.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 1
 ## Sydon
 Inflict maximum devastation with this massive Grineer trident.
 
+### Acquisition
+The Sydon's blueprint can be researched from the Chem Lab in the dojo.
+
 ### Wiki
 Weapons
 Inflict maximum devastation with this massive Grineer trident.
@@ -9369,13 +9432,10 @@ Slam Attacks have innate Blast damage.
 Stance slot has Zenurik polarity, matching Shimmering Blight and Argent Scourge (Conclave only) stance.
 Third highest Puncture damage of all melee weapons – effective against armor.
 Vaykor Sydon
-**Acquisition:**
-The Sydon's blueprint can be researched from the Chem Lab in the dojo.
 **Trivia:**
 The Sydon's name is most likely derived from Poseidon, a Greek ocean deity well known for his powerful trident.
 Alternatively, the Sydon's name may be derived from Sidon, an ancient port city.
 The Sydon was used by Shock Dragas long before its official release, and could even be found within WARFRAME's game files.
-26
 **Type:** Melee | **Mastery Req:** 5 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -9402,6 +9462,11 @@ Crit Chance: 10.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 0
 ## Synoid Heliocor
 This intelligent hammer takes an enemy killed by a Heavy Attack and recomposes them as an ally. Any fatal strike with this weapon also performs a Codex scan.
 
+### Acquisition
+Synoid Heliocor can be bought for 125,000 Standing from Cephalon Suda. As with all Syndicate Weapons, the Synoid Heliocor cannot be chosen as the free offering upon ranking up to Rank 5: Genius rank.
+Syndicate weapons can also be acquired via Trading, but only for unranked copies without Forma and Orokin Catalyst installed.
+Players must reach Mastery Rank 11 or higher to acquire Synoid Heliocor, either by trading or through the Syndicates themselves.
+
 ### Wiki
 Weapons
 This intelligent hammer takes an enemy killed by a Heavy Attack and recomposes them as an ally. Any fatal strike with this weapon also performs a Codex scan.
@@ -9418,10 +9483,6 @@ Highest status chance of all hammers.
 Second fastest attack speed of all hammers, behind Volnus.
 Has an initial Combo Count of 20 (2.0x heavy attack multiplier).
 Heliocor
-**Acquisition:**
-Synoid Heliocor can be bought for 125,000 Standing from Cephalon Suda. As with all Syndicate Weapons, the Synoid Heliocor cannot be chosen as the free offering upon ranking up to Rank 5: Genius rank.
-Syndicate weapons can also be acquired via Trading, but only for unranked copies without Forma and Orokin Catalyst installed.
-Players must reach Mastery Rank 11 or higher to acquire Synoid Heliocor, either by trading or through the Syndicates themselves.
 **Type:** Melee | **Mastery Req:** 11 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -9478,6 +9539,9 @@ Crit Chance: 21.00% | Crit Multiplier: 1.9x | Status Chance: 10.00% | Fire Rate:
 ## Tatsu
 Fearsome and noble, the elegant two-handed Nikana is the pride of any Arsenal. Kills build charges and seeking projectiles are unleashed with a Slide Attack to find and stun unwitting enemies. When Revenant wields this blade, Tatsu's charge cap is increased.
 
+### Acquisition
+Tatsu's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 Fearsome and noble, the elegant two-handed Nikana is the pride of any Arsenal. Kills build charges and seeking projectiles are unleashed with a Slide Attack to find and stun unwitting enemies. When Revenant wields this blade, Tatsu's charge cap is increased.
@@ -9487,8 +9551,6 @@ This weapon deals primarily Radiation and Slash damage.
 Stance slot has Madurai polarity, matching Wise Razor stance.
 On kills, the Tatsu gains charges, storing up to maximum of 5 (9 if used by Revenant/Revenant Prime). All charges are released on Slide Attacks in the form of seeking projectiles that stun enemies.
 Tatsu Prime
-**Acquisition:**
-Tatsu's blueprint can be purchased from the Market.
 **Notes:**
 thumb|300px|right|Soul Swarm projectiles
 Killing an enemy with the Tatsu will add a Soul Swarm charge. Up to 5 charges can be stored. Performing a slide attack will consume all charges and release seeking projectiles that home in on enemies within 30 meters, dealing 96 Radiation damage.
@@ -9573,6 +9635,10 @@ Crit Chance: 22.00% | Crit Multiplier: 2.4x | Status Chance: 10.00% | Fire Rate:
 ## Tekko
 These iron fists that rip through foes are Atlas' signature weapons. When wielded by Atlas they receive a Status Chance increase.
 
+### Acquisition
+The Tekko's blueprint can be purchased from the Market.
+This weapon can be sold for 5,000
+
 ### Wiki
 Weapons
 These iron fists that rip through foes are Atlas' signature weapons. When wielded by Atlas they receive a Status Chance increase.
@@ -9586,9 +9652,6 @@ Stance polarity has Vazarin polarity, matches Seismic Palm and Gaia's Tragedy st
 Innate Madurai polarity.
 Slowest attack speed of all fists.
 Tekko Prime
-**Acquisition:**
-The Tekko's blueprint can be purchased from the Market.
-This weapon can be sold for 5,000
 **Notes:**
 As a Signature Weapon, Tekko gains a bonus effect with Atlas or Atlas Prime, gaining an additional 6% base Status Chance, for a total of 16%.
 **Tips:**
@@ -9596,7 +9659,6 @@ With a rank-10 Blood Rush, the Tekko can achieve over 100% critical chance at a 
 **Trivia:**
 Tekkō (鉄甲), derived from the Japanese word for "iron" and "armor", refers to a type of fist weapon that is designed to increase the mass of the wielder's hand, and by extension the amount of force generated in a single punch.
 LXP0lPoosc8
-26
 **Type:** Melee | **Mastery Req:** 6 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -9638,7 +9700,6 @@ On August 31st, 2021, it was announced that Tekko Prime, along with Atlas Prime 
 As a Signature Weapon, Tekko Prime gains a bonus effect with Atlas or Atlas Prime, gaining an additional 6% base status chance, for a total of 32%.
 **Trivia:**
 Tekko Prime is the first Signature Weapon with a signature benefit to be primed.
-26
 **Type:** Melee | **Mastery Req:** 12 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -9664,6 +9725,11 @@ Crit Chance: 30.00% | Crit Multiplier: 2.4x | Status Chance: 10.00% | Fire Rate:
 ## Telos Boltace
 Spinning attacks unleash the Stormpath, a tempest of mayhem that hurls any foes in its way.
 
+### Acquisition
+The Telos Boltace can be acquired by reaching the Rank of Maxim with the Arbiters of Hexis, and spending 125,000 Standing to purchase. As with all Syndicate Weapons, the Telos Boltace cannot be chosen as the free offering upon ranking up to Maxim rank.
+Syndicate weapons can also be acquired via Trading, but only for unranked copies without Forma or Orokin Catalyst installed.
+Players must have a Mastery Rank of at least 11 to acquire the Telos Boltace, either through trading or through the Syndicates themselves.
+
 ### Wiki
 Tenno
 Spinning attacks unleash the Stormpath, a tempest of mayhem that hurls any foes in its way
@@ -9675,10 +9741,6 @@ Provides a 20% passive boost to Bullet Jump velocity, Rolling distance, Aim Glid
 Slide Attacks trigger Stormpath, creating a 14 meter vortex that pulls in and staggers enemies. A second slide attack shortly after the vortex will launch and suspend nearby enemies in a Lifted status.
 Innate Naramon polarity.
 Boltace
-**Acquisition:**
-The Telos Boltace can be acquired by reaching the Rank of Maxim with the Arbiters of Hexis, and spending 125,000 Standing to purchase. As with all Syndicate Weapons, the Telos Boltace cannot be chosen as the free offering upon ranking up to Maxim rank.
-Syndicate weapons can also be acquired via Trading, but only for unranked copies without Forma or Orokin Catalyst installed.
-Players must have a Mastery Rank of at least 11 to acquire the Telos Boltace, either through trading or through the Syndicates themselves.
 **Notes:**
 Slide attacks trigger Stormpath, creating a 14 meter vortex that pulls in and staggers enemies.
 Performing another slide attack within 8 seconds of triggering Stormpath will launch and suspend nearby enemies in a Lifted status. This triggers a cooldown of 6 seconds, during which slide attacks will behave as normal.
@@ -9706,6 +9768,9 @@ Crit Chance: 20.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 1
 ## Tenet Agendus
 Drive the agenda with this massive impact hammer. Heavy attacks launch devastating energy disks.
 
+### Acquisition
+Adversary System/Weapons#Tenet Acquisition (Ergo Glast)
+
 ### Wiki
 Weapons
 Drive the agenda with this massive impact hammer. Heavy attacks launch devastating energy disks.
@@ -9730,8 +9795,6 @@ Tied with Iron Staff for highest blocking angle of all melees.
 Below average attack speed.
 Heavy attack projectile has linear damage falloff from 100% to 5% from 10m to 20m target distance.
 Ranged Heavy Attack Wind-up is 1.0s instead of 0.7s.
-**Acquisition:**
-Adversary System/Weapons#Tenet Acquisition (Ergo Glast)
 **Notes:**
 Adversary System#Notes
 **Type:** Melee | **Mastery Req:** 14 | **Riven Disposition:** 3
@@ -9761,6 +9824,9 @@ Crit Chance: 24.00% | Crit Multiplier: 2x | Status Chance: 30.00% | Fire Rate: 0
 ## Tenet Exec
 Leverage bleeding-edge Granum tech with this massive heavy blade. Slam sends forth a cascading set of three shockwaves, while Heavy Slam unleashes a swath of shockwaves.
 
+### Acquisition
+Adversary System/Weapons#Tenet Acquisition (Ergo Glast)
+
 ### Wiki
 Weapons
 Leverage bleeding-edge Granum tech with this massive heavy blade. Slam sends forth a cascading set of three shockwaves, while Heavy Slam unleashes a swath of shockwaves.
@@ -9776,8 +9842,6 @@ Valence Fusion can optionally change the resulting output damage type, and can u
 Polarizing the weapon increases its max rank by 2, capping at rank 40 after 5 polarizations, granting the weapon additional mod capacity.
 Elemental Vice can be applied to the weapon after it has reached rank 40, allowing the bonus damage type to be swapped freely.
 Unlike Tenet weapons directly acquired from Sisters, the listed Mastery Rank requirement is enforced.
-**Acquisition:**
-Adversary System/Weapons#Tenet Acquisition (Ergo Glast)
 **Type:** Melee | **Mastery Req:** 16 | **Riven Disposition:** 2
 
 ### Normal Attack
@@ -9800,6 +9864,9 @@ Crit Chance: 38.00% | Crit Multiplier: 2.4x | Status Chance: 0.00% | Fire Rate: 
 ## Tenet Grigori
 On Heavy Slide Attack, this Corpus scythe launches a spinning energy disk that ricochets throughout the battlefield. Its lifetime is derived from the size of the Combo Counter. Note: The Granum Attaché system pauses the combo timer when holstered.
 
+### Acquisition
+Adversary System/Weapons#Tenet Acquisition (Ergo Glast)
+
 ### Wiki
 Weapons
 On Heavy Slide Attack this Corpus scythe launches a spinning energy disk that ricochets throughout the battlefield. Its lifetime is derived from the size of the Combo Counter. Note: The Granum Attaché system pauses the combo timer when holstered.
@@ -9819,8 +9886,6 @@ Elemental Vice can be applied to the weapon after it has reached rank 40, allowi
 Unlike Tenet weapons directly acquired from Sisters, the listed Mastery Rank requirement is enforced.
 Tied with Anku, Ether Reaper, and Reaper Prime for the fastest attack speed of all scythes.
 Highest blocking angle of all scythes.
-**Acquisition:**
-Adversary System/Weapons#Tenet Acquisition (Ergo Glast)
 **Notes:**
 Adversary System#Notes
 **Type:** Melee | **Mastery Req:** 14 | **Riven Disposition:** 3
@@ -9849,6 +9914,9 @@ Crit Chance: 24.00% | Crit Multiplier: 1.6x | Status Chance: 10.00% | Fire Rate:
 ## Tenet Livia
 The sleek lines of the Granum Attaché case conceal an infinitely sharp two-handed blade. Blocked attacks have a chance to increase the blocking angle. Note: The Granum Attaché system pauses the combo timer when holstered.
 
+### Acquisition
+Adversary System/Weapons#Tenet Acquisition (Ergo Glast)
+
 ### Wiki
 Weapons
 The sleek lines of the Granum Attaché case conceal an infinitely sharp two-handed blade. Blocked attacks have a chance to increase the blocking angle. Note: The Granum Attaché system pauses the combo timer when holstered.
@@ -9866,8 +9934,6 @@ Polarizing the weapon increases its max rank by 2, capping at rank 40 after 5 po
 Elemental Vice can be applied to the weapon after it has reached rank 40, allowing the bonus damage type to be swapped freely.
 Unlike Tenet weapons directly acquired from Sisters, the listed Mastery Rank requirement is enforced.
 Below average range when compared to other Two-Handed Nikanas.
-**Acquisition:**
-Adversary System/Weapons#Tenet Acquisition (Ergo Glast)
 **Notes:**
 Adversary System#Notes
 **Tips:**
@@ -9897,6 +9963,12 @@ Crit Chance: 28.00% | Crit Multiplier: 2.2x | Status Chance: 10.00% | Fire Rate:
 ## Thalys
 The Thalys played a ceremonial role in the Zariman harvest festival, and was intended to reap the first fruits of Tau. Now twisted from this purpose, it plants Void shards in enemy flesh instead. Each new shard planted causes existing shards to inflict damage on their hosts.
 
+### Acquisition
+Thalys' blueprint is purchased from 30x30pxAcrithis or Dominus Thrax in the Dormizone for 96 Scuttler Husk awarded from Isleweaver in Duviri. Access requires completion of The Hex Quest.
+Evolutions
+When newly acquired from the Foundry, players must acquire 100 kills with the Thalys in order to gain access to its Incarnon transformation. The following Evolution tiers, their requirements for unlocking them, and their related perks, are shown below.
+Each challenge additionally grants 5,000 affinity to the weapon, affected by Affinity Boosters.
+
 ### Wiki
 Orokin
 The Thalys played a ceremonial role in the Zariman harvest festival, and was intended to reap the first fruits of Tau. Now twisted from this purpose, it plants Void shards in enemy flesh instead. Each new shard planted causes existing shards to inflict damage on their hosts.
@@ -9911,11 +9983,6 @@ Attacks embed a damaging shard in enemies.
 +3 Range
 +40% Attack Speed
 Innate Madurai polarity.
-**Acquisition:**
-Thalys' blueprint is purchased from 30x30pxAcrithis or Dominus Thrax in the Dormizone for 96 Scuttler Husk awarded from Isleweaver in Duviri. Access requires completion of The Hex Quest.
-Evolutions
-When newly acquired from the Foundry, players must acquire 100 kills with the Thalys in order to gain access to its Incarnon transformation. The following Evolution tiers, their requirements for unlocking them, and their related perks, are shown below.
-Each challenge additionally grants 5,000 affinity to the weapon, affected by Affinity Boosters.
 **Type:** Melee | **Mastery Req:** 12 | **Riven Disposition:** 1
 
 ### Normal Attack
@@ -9942,6 +10009,9 @@ Crit Chance: 30.00% | Crit Multiplier: 2.2x | Status Chance: 10.00% | Fire Rate:
 ## Tipedo
 With its crescent shaped blades flying in sweeping arcs and striking at tremendous speed, the Tipedo demands focus from those wishing to unlock its true power.
 
+### Acquisition
+The Tipedo's blueprint can be purchased from the Market for 20,000.
+
 ### Wiki
 Weapons
 With its crescent shaped blades flying in sweeping arcs and striking at tremendous speed, the Tipedo demands focus from those wishing to unlock its true power.
@@ -9955,8 +10025,6 @@ Innate Vazarin polarity.
 Fastest attack speed of all staves.
 Second lowest base damage of all staves, after Mk1-Bo.
 Tipedo Prime
-**Acquisition:**
-The Tipedo's blueprint can be purchased from the Market for 20,000.
 **Trivia:**
 The Tipedo is the first Staff-type weapon to deal Slash as its primary damage type instead of Impact.
 This is the second weapon that requires two different pre-made weapons in order to craft, the first being the Redeemer.
@@ -10004,7 +10072,6 @@ Second highest critical multiplier of all staves, behind Bo Prime.
 Third fastest attack speed of all staves, behind Amphis/Broken Scepter and Tipedo.
 Tipedo
 wxojdqfv_hE
-26
 **Type:** Melee | **Mastery Req:** 10 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -10030,6 +10097,9 @@ Crit Chance: 24.00% | Crit Multiplier: 2.4x | Status Chance: 10.00% | Fire Rate:
 ## Tonbo
 During the darkest days of the Old War many a Tenno relied solely on the Tonbo to keep them alive.
 
+### Acquisition
+The Tonbo's blueprint can be researched from the Tenno Lab in the dojo.
+
 ### Wiki
 Weapons
 During the darkest days of the Old War many a Tenno relied solely on the Tonbo to keep them alive.
@@ -10042,8 +10112,6 @@ Stance slot has Zenurik polarity, matching Shimmering Blight and Argent Scourge 
 Innate Madurai polarity.
 Lowest base damage of all polearms.
 Lowest critical chance of all polearms.
-**Acquisition:**
-The Tonbo's blueprint can be researched from the Tenno Lab in the dojo.
 **Notes:**
 Even though the weapon requires Oxium to construct, the Tonbo is quite inexpensive for a weapon exclusive to Clan Research, as most Clan Research-exclusive weapons typically require Forma or other rare resources such as Argon Crystal.
 The ground slam has a chance to inflict a Blast proc.
@@ -10053,7 +10121,6 @@ The weapon's name is likely derived from the Tonbogiri (蜻蛉切), a spear also
 The blade itself resembles those found on Bill polearms, though with significantly larger proportions.
 At its initial release this weapon could not be researched in the Clan Dojo, this was fixed in Update 15.15.0.1.
 Listed as FlowerPowerPolearm in the game files.
-26
 **Type:** Melee | **Mastery Req:** 3 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -10125,6 +10192,9 @@ Crit Chance: 23.00% | Crit Multiplier: 2.1x | Status Chance: 10.00% | Fire Rate:
 ## Twin Basolk
 These nasty, little hatchets slice through steel as if it were flesh.
 
+### Acquisition
+The Twin Basolk's blueprint can be purchased from the Market.
+
 ### Wiki
 Weapons
 These nasty, little hatchets slice through steel as if it were flesh.
@@ -10137,8 +10207,6 @@ Stance slot has Zenurik polarity, matches Swirling Tiger stance.
 Innate Madurai polarity.
 Second highest base damage of all dual swords, behind Twin Krohkur.
 Highest status chance of all dual swords.
-**Acquisition:**
-The Twin Basolk's blueprint can be purchased from the Market.
 **Notes:**
 Due to the crafting requirements including Atomos and Dual Zoren, without spending platinum, Twin Basolk costs 180,000, 4 Morphics, 2 Argon Crystal, 2,400 Salvage, 1,300 Polymer Bundle, 1,100 Ferrite, 800 Alloy Plate and 800 Rubedo. The lowest possible time spent crafting the Twin Basolk is 36 hours, assuming the Atomos and Dual Zoren are finished at the same time (although the Dual Zoren can be started any time within 12 hours of starting Atomos, and still retain the 36 hour total build time).
 **Trivia:**
@@ -10146,7 +10214,6 @@ When attacking, the weapons' discs seem to light up and spin, indicating some ki
 Basolk appears to be a corruption of Basalt, a type of volcanic rock.
 The Twin Basolk is the first dual melee weapon to use the 'Twin' prefix instead of 'Dual'.
 The Twin Basolk is the sixth weapon after the Redeemer, Tipedo, Panthera, Boltace and Akjagara to require multiple different weapons as crafting requirements.
-26
 **Type:** Melee | **Mastery Req:** 7 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -10172,6 +10239,9 @@ Crit Chance: 5.00% | Crit Multiplier: 2x | Status Chance: 40.00% | Fire Rate: 1
 ## Twin Krohkur
 Battlefield butchery becomes all too easy with a Krohkur blade in each hand.
 
+### Acquisition
+The Twin Krohkur's blueprint can be researched from the Chem Lab in the dojo.
+
 ### Wiki
 Battlefield butchery becomes all too easy with a Krohkur blade in each hand.
 The Twin Krohkur are the dual variant of the Krohkur.
@@ -10181,14 +10251,11 @@ This weapon deals primarily Slash damage.
 Stance slot has Naramon polarity, matching Carving Mantis, Crossing Snakes and Dividing Blades (Conclave only) stance.
 Highest base damage of all dual swords.
 Third highest status chance of all dual swords, behind Nami Skyla Prime and Twin Basolk.
-**Acquisition:**
-The Twin Krohkur's blueprint can be researched from the Chem Lab in the dojo.
 **Trivia:**
 The Twin Krohkur was first revealed during Warframe Partners Shul's and InexpensiveGamer's Twitch stream on October 4th, 2017, ahead of the update's release.
 Prior to Update 22.0.4, the Twin Krohkur were uncraftable and the codex entry contained the misspelling "Korhkur".
 Upon release, the weapon was named Dual Krohkur. This was changed to Twin Krohkur in Update 22.0.5.
 Similarly to the Dex Dakra, the Twin Krohkur actually consists of two swords instead of a sword and a knife or a pair of hatchets. As thus, clipping problems often arise when the weapons are stowed.
-26
 **Type:** Melee | **Mastery Req:** 10 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -10331,6 +10398,11 @@ Crit Chance: 19.00% | Crit Multiplier: 1.7x | Status Chance: 10.00% | Fire Rate:
 ## Vaykor Sydon
 Justice blinds. Block hits to charge a Radial Blind, when fully charged Block+Heavy Attack to unleash it.
 
+### Acquisition
+The Vaykor Sydon can be acquired by reaching the Rank of General with Steel Meridian, and spending 125,000 Standing to purchase. As with all Syndicate Weapons, the Vaykor Sydon cannot be chosen as the free offering upon ranking up to General rank.
+Syndicate weapons can be also be acquired via Trading, but only for unranked copies without Forma and Orokin Catalyst installed.
+Players must have a Mastery Rank of at least 11 to acquire the Vaykor Sydon, either through trading or through the Syndicates themselves.
+
 ### Wiki
 Weapons
 Justice blinds. Block hits to charge a Radial Blind, when fully charged Block+Heavy Attack to unleash it.
@@ -10345,10 +10417,6 @@ Tied with Kesheg for the second highest critical multiplier of all polearms behi
 Third highest status chance of all polearms, behind Orthos Prime and Lesion.
 Second fastest attack speed of all polearms, behind Cassowar and Orthos Prime.
 Sydon
-**Acquisition:**
-The Vaykor Sydon can be acquired by reaching the Rank of General with Steel Meridian, and spending 125,000 Standing to purchase. As with all Syndicate Weapons, the Vaykor Sydon cannot be chosen as the free offering upon ranking up to General rank.
-Syndicate weapons can be also be acquired via Trading, but only for unranked copies without Forma and Orokin Catalyst installed.
-Players must have a Mastery Rank of at least 11 to acquire the Vaykor Sydon, either through trading or through the Syndicates themselves.
 **Type:** Melee | **Mastery Req:** 11 | **Riven Disposition:** 4
 
 ### Normal Attack
@@ -10366,6 +10434,9 @@ Crit Chance: 21.00% | Crit Multiplier: 2.5x | Status Chance: 10.00% | Fire Rate:
 ## Venato
 Caliban’s signature scythe, forged from a limb wrenched off a fallen Eidolon centuries ago. 50% increased Melee Combo Counter Chance when wielded by Caliban.
 
+### Acquisition
+The Venato's blueprint can be researched from the Tenno Lab in the dojo.
+
 ### Wiki
 Weapons
 Caliban's signature scythe, forged from a limb wrenched off a fallen Eidolon centuries ago. 50% increased Melee Combo Counter Chance when wielded by Caliban.
@@ -10376,8 +10447,6 @@ Stance slot has Zenurik polarity, matching Stalking Fan stance.
 When wielded by Caliban/Caliban Prime, attacks have a 50% chance to generate an additional Melee Combo point.
 Highest innate block angle of all melee weapons, tied with Tenet Grigori of scythes, and tied with Ghoulsaw, Vastilok, and Tenet Agendus.
 Venato Prime
-**Acquisition:**
-The Venato's blueprint can be researched from the Tenno Lab in the dojo.
 **Notes:**
 Beginning melee attacks will emit a single flash of light several meters in front of the Warframe.
 This light has no apparent function.
@@ -10444,6 +10513,9 @@ Crit Chance: 34.00% | Crit Multiplier: 2.3x | Status Chance: 10.00% | Fire Rate:
 ## Venka
 Utilizing a new fighting stance, this Tenno weapon turns fists into claws and enemies into messy piles of meat and scrap metal.
 
+### Acquisition
+The Venka's blueprint can be researched from the Tenno Lab in the dojo.
+
 ### Wiki
 Weapons
 Utilizing a new fighting stance, this Tenno weapon turns fists into claws and enemies into messy piles of meat and scrap metal.
@@ -10454,8 +10526,6 @@ This weapon deals primarily Slash damage.
 Stance slot has Madurai polarity, matching Vermillion Storm, Four Riders, Malicious Raptor and Scarlet Hurricane minor (Conclave only) stance.
 Lowest base damage of all claws.
 Venka Prime
-**Acquisition:**
-The Venka's blueprint can be researched from the Tenno Lab in the dojo.
 **Trivia:**
 Venka translates roughly to "victorious" or "to win" in Esperanto.
 The claws retract up to the hands until used or equipped. 
@@ -10491,6 +10561,11 @@ Crit Chance: 15.00% | Crit Multiplier: 2x | Status Chance: 10.00% | Fire Rate: 1
 ## Venka Prime
 Gleaming blades of white draw blood of the deepest red.
 
+### Acquisition
+Unlike most Prime gear, Venka Prime is permanently unvaulted, with relics being obtainable through Abandoned Derelict Caches in Corpus Railjack missions.
+Vaultings
+On September 11th, 2018, it was announced that Venka Prime would enter the Prime Vault and be retired from the reward tables on September 25th, 2018. Any preexisting components or fully-built weapons will remain as is.
+
 ### Wiki
 Gleaming blades of white draw blood of the deepest red.
 The Venka Prime are the Prime variant of the Venka, sporting higher damage, critical chance, critical multiplier, status chance, and attack speed. It also uniquely has a higher Melee Combo Multiplier than all other melee weapons. It was released alongside Valkyr Prime and Cernos Prime.
@@ -10502,10 +10577,6 @@ Only weapon with a 13.0x melee combo multiplier after 240 hits.
 Innate Naramon and Madurai polarities.
 Fourth highest base damage of all claws, behind Keratinos, Garuda Talons and Garuda Prime Talons.
 Venka
-**Acquisition:**
-Unlike most Prime gear, Venka Prime is permanently unvaulted, with relics being obtainable through Abandoned Derelict Caches in Corpus Railjack missions.
-Vaultings
-On September 11th, 2018, it was announced that Venka Prime would enter the Prime Vault and be retired from the reward tables on September 25th, 2018. Any preexisting components or fully-built weapons will remain as is.
 **Notes:**
 The Venka Prime has a modified melee combo multiplier that can reach 13.0x combo at 240 consecutive hits instead of the usual 12.0x combo at 220 hits.
 **Tips:**
@@ -10590,6 +10661,9 @@ Crit Chance: 30.00% | Crit Multiplier: 2.5x | Status Chance: 10.00% | Fire Rate:
 ## Vericres
 Unfurl this warfan like a rapidly waxing moon.
 
+### Acquisition
+The Vericres is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 200,000 and 410. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
+
 ### Wiki
 Unfurl this warfan like a rapidly waxing moon.
 Vericres is a Tenno Warfan.
@@ -10597,8 +10671,6 @@ This weapon can be sold for 5,000.
 Characteristics
 This weapon deals primarily Slash.
 Stance slot has Naramon polarity, matching Slicing Feathers and Votive Onslaught stance.
-**Acquisition:**
-The Vericres is potentially sold by Baro Ki'Teer in the Concourse section of the Tenno Relay for 200,000 and 410. Note that Baro Ki'Teer's stock changes with each appearance, and this weapon may not be available on a succeeding appearance.
 **Notes:**
 Warfan slam attacks hit twice.
 The second hit of a heavy slam will use the stats of a normal slam.
@@ -10621,6 +10693,9 @@ Crit Chance: 22.00% | Crit Multiplier: 2x | Status Chance: 28.00% | Fire Rate: 1
 ## Vitrica
 The sword the fabled Orokin executioner Nihil used to glass the condemned. Swing while Aim Gliding to glass enemies. A Ground Slam will smash nearby glassed foes, while sending forward a narrow shockwave to shatter distant ones. A Heavy Slam sends forth a wider shockwave with greater force.
 
+### Acquisition
+The Vitrica's blueprint was obtained after defeating Nihil in Nightwave: Series 3, Episode 5.
+
 ### Wiki
 Weapons
 The sword the fabled Orokin executioner Nihil used to glass the condemned. Swing while Aim Gliding to glass enemies. A Ground Slam will smash nearby glassed foes, while sending forward a narrow shockwave to shatter distant ones. A Heavy Slam sends forth a wider shockwave with greater force.
@@ -10639,8 +10714,6 @@ Innate two Madurai polarities.
 Highest base damage of all heavy blades.
 Highest status chance of all heavy blades.
 Tied with Zenistar for the second slowest attack speed of all heavy blades, after Gram Prime.
-**Acquisition:**
-The Vitrica's blueprint was obtained after defeating Nihil in Nightwave: Series 3, Episode 5.
 **Type:** Melee | **Mastery Req:** 13 | **Riven Disposition:** 3
 
 ### Normal Attack
@@ -10671,6 +10744,10 @@ Crit Chance: 23.00% | Crit Multiplier: 2.3x | Status Chance: 50.00% | Fire Rate:
 ## Volnus
 Tear and maim with this agile, lightweight glass hammer. When Gara's wields her signature melee weapon, it gains additional Slam Radial Damage.
 
+### Acquisition
+The Volnus's blueprint can be purchased from the Market.
+This weapon can be sold for 5,000.
+
 ### Wiki
 Tear and maim with this agile, lightweight glass hammer. When Gara wields her signature melee weapon, it gains additional Slam Radial Damage.
 The Volnus is Gara's signature glass-themed hammer, boasting a high attack speed and status chance but low critical chance and critical multiplier. Radial slam attacks are much stronger when wielded by Gara.
@@ -10679,16 +10756,12 @@ This weapon deals primarily Slash damage.
 Innate Madurai polarity.
 Tied with Volnus Prime for the fastest attack speed of all hammers.
 Volnus Prime
-**Acquisition:**
-The Volnus's blueprint can be purchased from the Market.
-This weapon can be sold for 5,000.
 **Notes:**
 As a Signature Weapon, Volnus gains a bonus effect with Gara or Gara Prime, gaining 100% additional radial slam attack damage.
 **Trivia:**
 Volnus is derived from the Latin word vulnus, which means "wound" and is the origin of the word vulnerable.
 This may be a reference to the weapon's high proportion of Slash damage.
 Upon performing a slam attack, glass shards will fly out from the point of impact. This is purely a visual effect.
-26
 **Type:** Melee | **Mastery Req:** 9 | **Riven Disposition:** 5
 
 ### Normal Attack
@@ -10932,6 +11005,10 @@ Crit Chance: 20.00% | Crit Multiplier: 2.4x | Status Chance: 34.00% | Fire Rate:
 ## Zenistar
 Scorch enemies with blistering blows, or set them ablaze with the flying fire disc.
 
+### Acquisition
+The Zenistar is exclusive to the Daily Tribute system. It will become available every 200 days, beginning at day 100, until chosen as the Milestone reward. It comes with a free weapon slot and pre-installed Orokin Catalyst.
+Additional blueprints can be bought from Cephalon Simaris for 100,000 Standing.
+
 ### Wiki
 Weapons
 Scorch enemies with blistering blows, or set them ablaze with the flying fire disc.
@@ -10944,9 +11021,6 @@ Stance slot has Madurai polarity, matching Rending Crane and Noble Cadence (Conc
 Innate Madurai polarity.
 Third highest status chance of all heavy blades, behind Vitrica and Gram Prime.
 Tied with Vitrica for the second slowest attack speed of all heavy blades, after Gram Prime.
-**Acquisition:**
-The Zenistar is exclusive to the Daily Tribute system. It will become available every 200 days, beginning at day 100, until chosen as the Milestone reward. It comes with a free weapon slot and pre-installed Orokin Catalyst.
-Additional blueprints can be bought from Cephalon Simaris for 100,000 Standing.
 **Type:** Melee | **Mastery Req:** 6 | **Riven Disposition:** 4
 
 ### Normal Attack

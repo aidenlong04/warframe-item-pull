@@ -18,11 +18,13 @@ function fetch(url) {
       if (res.statusCode < 200 || res.statusCode >= 300) {
         return reject(new Error(`HTTP ${res.statusCode} from ${url}`));
       }
-      let body = '';
-      res.on('data', (chunk) => (body += chunk));
+      // Buffer chunks then decode once, so multi-byte UTF-8 characters
+      // that straddle chunk boundaries are not corrupted.
+      const chunks = [];
+      res.on('data', (chunk) => chunks.push(chunk));
       res.on('end', () => {
         try {
-          resolve(JSON.parse(body));
+          resolve(JSON.parse(Buffer.concat(chunks).toString('utf8')));
         } catch (e) {
           reject(e);
         }
@@ -52,9 +54,11 @@ function fetchText(url) {
       if (res.statusCode < 200 || res.statusCode >= 300) {
         return reject(new Error(`HTTP ${res.statusCode} from ${url}`));
       }
-      let body = '';
-      res.on('data', (chunk) => (body += chunk));
-      res.on('end', () => resolve(body));
+      // Buffer then decode to avoid corrupting multi-byte UTF-8 sequences
+      // split across chunk boundaries (em-dash, smart quotes, ellipsis, etc.).
+      const chunks = [];
+      res.on('data', (chunk) => chunks.push(chunk));
+      res.on('end', () => resolve(Buffer.concat(chunks).toString('utf8')));
     }).on('error', reject);
   });
 }
