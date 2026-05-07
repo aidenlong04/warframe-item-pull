@@ -1,11 +1,8 @@
 # Solaris Bounty Rewards
-
 Orb Vallis bounty reward tables from Eudico. Includes rotation rewards and drop percentages.
 
 ## Level 5 - 15 Orb Vallis Bounty
-
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 100X Oxium | Uncommon | 25.00% |
@@ -31,9 +28,7 @@ Orb Vallis bounty reward tables from Eudico. Includes rotation rewards and drop 
 | Garuda Chassis Blueprint | Uncommon | 27.60% |
 | 5X Tepa Nodule | Uncommon | 18.40% |
 | Aya | Rare | 8.00% |
-
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 100X Cryotic | Uncommon | 25.00% |
@@ -59,9 +54,7 @@ Orb Vallis bounty reward tables from Eudico. Includes rotation rewards and drop 
 | Garuda Chassis Blueprint | Uncommon | 27.60% |
 | 5X Tepa Nodule | Uncommon | 18.40% |
 | Aya | Rare | 8.00% |
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 100X Plastids | Uncommon | 25.00% |
@@ -87,11 +80,8 @@ Orb Vallis bounty reward tables from Eudico. Includes rotation rewards and drop 
 | Garuda Chassis Blueprint | Uncommon | 27.60% |
 | 5X Tepa Nodule | Uncommon | 18.40% |
 | Aya | Rare | 8.00% |
-
 ## Level 10 - 30 Orb Vallis Bounty
-
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 15X Mytocardia Spore | Uncommon | 25.00% |
@@ -117,9 +107,7 @@ Orb Vallis bounty reward tables from Eudico. Includes rotation rewards and drop 
 | Garuda Systems Blueprint | Uncommon | 22.50% |
 | Aya | Uncommon | 15.00% |
 | Synth Charge | Uncommon | 25.00% |
-
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 15X Thermal Sludge | Uncommon | 25.00% |
@@ -145,9 +133,7 @@ Orb Vallis bounty reward tables from Eudico. Includes rotation rewards and drop 
 | Garuda Systems Blueprint | Uncommon | 22.50% |
 | Aya | Uncommon | 15.00% |
 | Mecha Overdrive | Uncommon | 25.00% |
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 15X Gorgaricus Spore | Uncommon | 25.00% |
@@ -173,11 +159,8 @@ Orb Vallis bounty reward tables from Eudico. Includes rotation rewards and drop 
 | Garuda Systems Blueprint | Uncommon | 22.50% |
 | Aya | Uncommon | 15.00% |
 | Tek Assault | Uncommon | 25.00% |
-
 ## Level 20 - 40 Orb Vallis Bounty
-
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 200 Endo | Common | 50.00% |
@@ -200,9 +183,7 @@ Orb Vallis bounty reward tables from Eudico. Includes rotation rewards and drop 
 | Garuda Neuroptics Blueprint | Uncommon | 22.50% |
 | Aya | Uncommon | 15.00% |
 | Synth Deconstruct | Uncommon | 25.00% |
-
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 200 Endo | Common | 50.00% |
@@ -225,9 +206,7 @@ Orb Vallis bounty reward tables from Eudico. Includes rotation rewards and drop 
 | Garuda Neuroptics Blueprint | Uncommon | 22.50% |
 | Aya | Uncommon | 15.00% |
 | Mecha Recharge | Uncommon | 25.00% |
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 200 Endo | Common | 50.00% |
@@ -250,11 +229,8 @@ Orb Vallis bounty reward tables from Eudico. Includes rotation rewards and drop 
 | Garuda Neuroptics Blueprint | Uncommon | 22.50% |
 | Aya | Uncommon | 15.00% |
 | Tek Enhance | Uncommon | 25.00% |
-
 ## Level 30 - 50 Orb Vallis Bounty
-
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Vazarin Lens | Common | 33.33% |
@@ -274,9 +250,7 @@ Orb Vallis bounty reward tables from Eudico. Includes rotation rewards and drop 
 | 2X Advances Debt-Bond | Common | 33.33% |
 | Aya | Common | 33.33% |
 | Synth Fiber | Common | 33.33% |
-
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Zenurik Lens | Common | 33.33% |
@@ -296,9 +270,7 @@ Orb Vallis bounty reward tables from Eudico. Includes rotation rewards and drop 
 | 2X Advances Debt-Bond | Common | 33.33% |
 | Aya | Common | 33.33% |
 | Mecha Empowered | Common | 33.33% |
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 200X Kuva | Common | 33.33% |
@@ -318,11 +290,8 @@ Orb Vallis bounty reward tables from Eudico. Includes rotation rewards and drop 
 | 2X Advances Debt-Bond | Common | 33.33% |
 | Aya | Common | 33.33% |
 | Tek Gravity | Common | 33.33% |
-
 ## Level 40 - 60 Orb Vallis Bounty
-
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 400 Endo | Common | 33.33% |
@@ -342,9 +311,7 @@ Orb Vallis bounty reward tables from Eudico. Includes rotation rewards and drop 
 | 2X Familial Debt-Bond | Common | 33.33% |
 | Aya | Common | 33.33% |
 | Synth Reflex | Common | 33.33% |
-
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 400 Endo | Common | 33.33% |
@@ -364,9 +331,7 @@ Orb Vallis bounty reward tables from Eudico. Includes rotation rewards and drop 
 | 2X Familial Debt-Bond | Common | 33.33% |
 | Aya | Common | 33.33% |
 | Mecha Pulse | Common | 33.33% |
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 400 Endo | Common | 33.33% |
@@ -386,11 +351,8 @@ Orb Vallis bounty reward tables from Eudico. Includes rotation rewards and drop 
 | 2X Familial Debt-Bond | Common | 33.33% |
 | Aya | Common | 33.33% |
 | Tek Collateral | Common | 33.33% |
-
 ## Level 100 - 100 Orb Vallis Bounty
-
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 400 Endo | Common | 33.33% |
@@ -410,9 +372,7 @@ Orb Vallis bounty reward tables from Eudico. Includes rotation rewards and drop 
 | 2X Familial Debt-Bond | Common | 33.33% |
 | Aya | Common | 33.33% |
 | Synth Reflex | Common | 33.33% |
-
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 400 Endo | Common | 33.33% |
@@ -432,9 +392,7 @@ Orb Vallis bounty reward tables from Eudico. Includes rotation rewards and drop 
 | 2X Familial Debt-Bond | Common | 33.33% |
 | Aya | Common | 33.33% |
 | Mecha Pulse | Common | 33.33% |
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 400 Endo | Common | 33.33% |
@@ -454,11 +412,8 @@ Orb Vallis bounty reward tables from Eudico. Includes rotation rewards and drop 
 | 2X Familial Debt-Bond | Common | 33.33% |
 | Aya | Common | 33.33% |
 | Tek Collateral | Common | 33.33% |
-
 ## Level 50 - 70 Orb Vallis Bounty
-
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Amar's Anguish | Uncommon | 20.00% |
@@ -490,9 +445,7 @@ Orb Vallis bounty reward tables from Eudico. Includes rotation rewards and drop 
 | Verdilac Blueprint | Rare | 7.50% |
 | 3X Narmer Isoplast | Uncommon | 12.50% |
 | 1200 Endo | Uncommon | 17.50% |
-
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Boreal's Anguish | Uncommon | 20.00% |
@@ -524,9 +477,7 @@ Orb Vallis bounty reward tables from Eudico. Includes rotation rewards and drop 
 | Nepheri Blueprint | Rare | 7.50% |
 | 3X Narmer Isoplast | Uncommon | 12.50% |
 | 1200 Endo | Uncommon | 17.50% |
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Nira's Anguish | Uncommon | 20.00% |
@@ -558,25 +509,18 @@ Orb Vallis bounty reward tables from Eudico. Includes rotation rewards and drop 
 | Korumm Blueprint | Rare | 7.50% |
 | 3X Narmer Isoplast | Uncommon | 12.50% |
 | 1200 Endo | Uncommon | 17.50% |
-
 ## Level 40 - 60 PROFIT-TAKER - PHASE 1
-
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
-
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 5X Gyromag Systems | Uncommon | 25.00% |
-| Lith D7 Relic (Radiant) | Uncommon | 15.00% |
+| Lith C14 Relic (Radiant) | Uncommon | 15.00% |
 | Quick Reload | Uncommon | 15.00% |
 | 5X Atmo Systems | Uncommon | 10.00% |
 | 3X Vega Toroid | Uncommon | 12.50% |
@@ -584,21 +528,14 @@ Orb Vallis bounty reward tables from Eudico. Includes rotation rewards and drop 
 | 3X Repeller Systems | Rare | 7.50% |
 | Deadly Efficiency | Rare | 1.25% |
 | Strain Eruption | Rare | 1.25% |
-
 ## Level 40 - 60 PROFIT-TAKER - PHASE 2
-
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
-
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 5X Gyromag Systems | Uncommon | 25.00% |
@@ -606,30 +543,23 @@ Orb Vallis bounty reward tables from Eudico. Includes rotation rewards and drop 
 | Resolute Focus | Uncommon | 15.00% |
 | 5X Atmo Systems | Uncommon | 10.00% |
 | 3X Calda Toroid | Uncommon | 12.50% |
-| Meso P17 Relic (Radiant) | Uncommon | 12.50% |
+| Meso L4 Relic (Radiant) | Uncommon | 12.50% |
 | 3X Repeller Systems | Rare | 7.50% |
 | Archgun Ace | Rare | 1.25% |
 | Strain Fever | Rare | 1.25% |
-
 ## Level 40 - 60 PROFIT-TAKER - PHASE 3
-
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
-
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Gravimag | Common | 100.00% |
 | 5X Gyromag Systems | Uncommon | 25.00% |
-| Meso V11 Relic (Radiant) | Uncommon | 15.00% |
+| Meso D8 Relic (Radiant) | Uncommon | 15.00% |
 | Marked Target | Uncommon | 15.00% |
 | 5X Atmo Systems | Uncommon | 10.00% |
 | 3X Sola Toroid | Uncommon | 12.50% |
@@ -637,29 +567,21 @@ Orb Vallis bounty reward tables from Eudico. Includes rotation rewards and drop 
 | 3X Repeller Systems | Rare | 7.50% |
 | Sabot Rounds | Rare | 1.25% |
 | Strain Infection | Rare | 1.25% |
-
 ## Level 50 - 60 PROFIT-TAKER - PHASE 4
-
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
-
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 5X Gyromag Systems | Uncommon | 28.57% |
-| Neo P9 Relic (Radiant) | Uncommon | 17.14% |
+| Neo S20 Relic (Radiant) | Uncommon | 17.14% |
 | Ammo Chain | Uncommon | 17.14% |
 | 5X Atmo Systems | Uncommon | 11.43% |
-| Axi S18 Relic (Radiant) | Uncommon | 14.29% |
+| Axi S20 Relic (Radiant) | Uncommon | 14.29% |
 | 3X Repeller Systems | Rare | 8.57% |
 | Critical Focus | Rare | 1.43% |
 | Strain Consume | Rare | 1.43% |
-

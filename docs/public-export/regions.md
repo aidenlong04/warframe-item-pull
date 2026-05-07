@@ -1,1396 +1,1052 @@
 # Public Export — Star Chart Regions
-
 All Star Chart regions/nodes with mission types and requirements.
 
 ## Apollodorus
-
-System: 0 | Type: 0 | Level: 6-11 | Faction: 2
+System: Mercury | Type: Hub | Level: 6-11 | Faction: Infested
 
 ## Lares
-
-System: 0 | Type: 0 | Level: 6-11 | Faction: 2
+System: Mercury | Type: Hub | Level: 6-11 | Faction: Infested
 
 ## Caloris
-
-System: 0 | Type: 0 | Level: 6-8 | Faction: 0
+System: Mercury | Type: Hub | Level: 6-8 | Faction: Grineer
 
 ## Elion
-
-System: 0 | Type: 0 | Level: 7-9 | Faction: 0
+System: Mercury | Type: Hub | Level: 7-9 | Faction: Grineer
 
 ## M Prime
-
-System: 0 | Type: 0 | Level: 7-9 | Faction: 2
+System: Mercury | Type: Hub | Level: 7-9 | Faction: Infested
 
 ## Terminus
-
-System: 0 | Type: 0 | Level: 8-10 | Faction: 2
+System: Mercury | Type: Hub | Level: 8-10 | Faction: Infested
 
 ## Tolstoj
-
-System: 0 | Type: 0 | Level: 8-10 | Faction: 0
+System: Mercury | Type: Hub | Level: 8-10 | Faction: Grineer
 
 ## Boethius
-
-System: 0 | Type: 0 | Level: 8-10 | Faction: 2
+System: Mercury | Type: Hub | Level: 8-10 | Faction: Infested
 
 ## Odin
-
-System: 0 | Type: 0 | Level: 6-11 | Faction: 0
+System: Mercury | Type: Hub | Level: 6-11 | Faction: Grineer
 
 ## Suisei
-
-System: 0 | Type: 0 | Level: 8-10 | Faction: 0
+System: Mercury | Type: Hub | Level: 8-10 | Faction: Grineer
 
 ## Pantheon
-
-System: 0 | Type: 0 | Level: 6-8 | Faction: 0
+System: Mercury | Type: Hub | Level: 6-8 | Faction: Grineer
 
 ## Orb Vallis
-
-System: 1 | Type: 0 | Level: 10-30 | Faction: 1
+System: Venus | Type: Hub | Level: 10-30 | Faction: Corpus
 
 ## V Prime
-
-System: 1 | Type: 0 | Level: 6-8 | Faction: 1
+System: Venus | Type: Hub | Level: 6-8 | Faction: Corpus
 
 ## Ishtar
-
-System: 1 | Type: 0 | Level: 6-8 | Faction: 1
+System: Venus | Type: Hub | Level: 6-8 | Faction: Corpus
 
 ## Aphrodite
-
-System: 1 | Type: 0 | Level: 5-8 | Faction: 1
+System: Venus | Type: Hub | Level: 5-8 | Faction: Corpus
 
 ## Cytherean
-
-System: 1 | Type: 0 | Level: 6-8 | Faction: 1
+System: Venus | Type: Hub | Level: 6-8 | Faction: Corpus
 
 ## E Gate
-
-System: 1 | Type: 0 | Level: 3-5 | Faction: 1
+System: Venus | Type: Hub | Level: 3-5 | Faction: Corpus
 
 ## Linea
-
-System: 1 | Type: 0 | Level: 5-7 | Faction: 1
+System: Venus | Type: Hub | Level: 5-7 | Faction: Corpus
 
 ## Fossa
-
-System: 1 | Type: 0 | Level: 6-8 | Faction: 1
+System: Venus | Type: Hub | Level: 6-8 | Faction: Corpus
 
 ## Unda
-
-System: 1 | Type: 0 | Level: 6-8 | Faction: 1
+System: Venus | Type: Hub | Level: 6-8 | Faction: Corpus
 
 ## Malva
-
-System: 1 | Type: 4 | Level: 8-18 | Faction: 2
+System: Venus | Type: Exterminate | Level: 8-18 | Faction: Infested
 
 ## Venera
-
-System: 1 | Type: 0 | Level: 5-7 | Faction: 1
+System: Venus | Type: Hub | Level: 5-7 | Faction: Corpus
 
 ## Tessera
-
-System: 1 | Type: 0 | Level: 3-7 | Faction: 1
+System: Venus | Type: Hub | Level: 3-7 | Faction: Corpus
 
 ## Kiliken
-
-System: 1 | Type: 0 | Level: 3-7 | Faction: 1
+System: Venus | Type: Hub | Level: 3-7 | Faction: Corpus
 
 ## Romula
+System: Venus | Type: Exterminate | Level: 8-18 | Faction: Infested
 
-System: 1 | Type: 4 | Level: 8-18 | Faction: 2
+## Vesper Relay
+System: Venus | Type: Hub | Level: 35-45 | Faction: Scaldra
 
 ## Montes
-
-System: 1 | Type: 0 | Level: 3-8 | Faction: 1
+System: Venus | Type: Hub | Level: 3-8 | Faction: Corpus
 
 ## Mantle
-
-System: 2 | Type: 0 | Level: 2-4 | Faction: 0
+System: Earth | Type: Hub | Level: 2-4 | Faction: Grineer
 
 ## E Prime
-
-System: 2 | Type: 0 | Level: 1-3 | Faction: 0
+System: Earth | Type: Hub | Level: 1-3 | Faction: Grineer
 
 ## Cambria
-
-System: 2 | Type: 0 | Level: 3-6 | Faction: 0
+System: Earth | Type: Hub | Level: 3-6 | Faction: Grineer
 
 ## Everest
-
-System: 2 | Type: 0 | Level: 1-6 | Faction: 0
+System: Earth | Type: Hub | Level: 1-6 | Faction: Grineer
 
 ## Pacific
-
-System: 2 | Type: 0 | Level: 3-6 | Faction: 0
+System: Earth | Type: Hub | Level: 3-6 | Faction: Grineer
 
 ## Lith
-
-System: 2 | Type: 0 | Level: 2-5 | Faction: 0
+System: Earth | Type: Hub | Level: 2-5 | Faction: Grineer
 
 ## Mariana
-
-System: 2 | Type: 0 | Level: 1-3 | Faction: 0
+System: Earth | Type: Hub | Level: 1-3 | Faction: Grineer
 
 ## Gaia
-
-System: 2 | Type: 0 | Level: 1-6 | Faction: 0
+System: Earth | Type: Hub | Level: 1-6 | Faction: Grineer
 
 ## Eurasia
-
-System: 2 | Type: 0 | Level: 3-6 | Faction: 0
+System: Earth | Type: Hub | Level: 3-6 | Faction: Grineer
 
 ## Cervantes
-
-System: 2 | Type: 0 | Level: 4-6 | Faction: 0
+System: Earth | Type: Hub | Level: 4-6 | Faction: Grineer
 
 ## Oro
-
-System: 2 | Type: 0 | MR: 5 | Level: 20-25 | Faction: 0
+System: Earth | Type: Hub | MR: 5 | Level: 20-25 | Faction: Grineer
 
 ## Coba
-
-System: 2 | Type: 4 | Level: 6-16 | Faction: 2
+System: Earth | Type: Exterminate | Level: 6-16 | Faction: Infested
 
 ## Erpo
-
-System: 2 | Type: 0 | Level: 1-6 | Faction: 0
+System: Earth | Type: Hub | Level: 1-6 | Faction: Grineer
 
 ## Tikal
-
-System: 2 | Type: 4 | Level: 6-16 | Faction: 2
+System: Earth | Type: Exterminate | Level: 6-16 | Faction: Infested
 
 ## Plains of Eidolon
-
-System: 2 | Type: 0 | Level: 10-30 | Faction: 0
+System: Earth | Type: Hub | Level: 10-30 | Faction: Grineer
 
 ## Saya's Visions
-
-System: 2 | Type: 0 | Level: 5-15 | Faction: 2
+System: Earth | Type: Hub | Level: 5-15 | Faction: Infested
 
 ## Olympus
-
-System: 3 | Type: 0 | Level: 15-20 | Faction: 0
+System: Mars | Type: Hub | Level: 15-20 | Faction: Grineer
 
 ## Ares
-
-System: 3 | Type: 0 | Level: 8-10 | Faction: 0
+System: Mars | Type: Hub | Level: 8-10 | Faction: Grineer
 
 ## Spear
-
-System: 3 | Type: 0 | Level: 8-12 | Faction: 0
+System: Mars | Type: Hub | Level: 8-12 | Faction: Grineer
 
 ## Vallis
-
-System: 3 | Type: 0 | Level: 11-13 | Faction: 0
+System: Mars | Type: Hub | Level: 11-13 | Faction: Grineer
 
 ## Hellas
-
-System: 3 | Type: 0 | Level: 8-12 | Faction: 0
+System: Mars | Type: Hub | Level: 8-12 | Faction: Grineer
 
 ## Alator
-
-System: 3 | Type: 0 | Level: 8-13 | Faction: 0
+System: Mars | Type: Hub | Level: 8-13 | Faction: Grineer
 
 ## Arval
-
-System: 3 | Type: 0 | Level: 9-11 | Faction: 0
+System: Mars | Type: Hub | Level: 9-11 | Faction: Grineer
 
 ## Ultor
-
-System: 3 | Type: 0 | Level: 11-13 | Faction: 1
+System: Mars | Type: Hub | Level: 11-13 | Faction: Corpus
 
 ## Augustus
-
-System: 3 | Type: 0 | Level: 9-11 | Faction: 0
+System: Mars | Type: Hub | Level: 9-11 | Faction: Grineer
 
 ## Ara
-
-System: 3 | Type: 0 | Level: 10-12 | Faction: 0
+System: Mars | Type: Hub | Level: 10-12 | Faction: Grineer
 
 ## Martialis
-
-System: 3 | Type: 0 | Level: 10-12 | Faction: 0
+System: Mars | Type: Hub | Level: 10-12 | Faction: Grineer
 
 ## Kadesh
-
-System: 3 | Type: 4 | Level: 10-20 | Faction: 2
+System: Mars | Type: Exterminate | Level: 10-20 | Faction: Infested
 
 ## War
-
-System: 3 | Type: 0 | Level: 11-13 | Faction: 0
+System: Mars | Type: Hub | Level: 11-13 | Faction: Grineer
 
 ## Gradivus
-
-System: 3 | Type: 0 | Level: 9-12 | Faction: 1
+System: Mars | Type: Hub | Level: 9-12 | Faction: Corpus
 
 ## Wahiba
-
-System: 3 | Type: 4 | Level: 10-20 | Faction: 2
+System: Mars | Type: Exterminate | Level: 10-20 | Faction: Infested
 
 ## Tharsis
-
-System: 3 | Type: 0 | Level: 9-11 | Faction: 0
+System: Mars | Type: Hub | Level: 9-11 | Faction: Grineer
 
 ## Syrtis
-
-System: 3 | Type: 0 | Level: 8-13 | Faction: 0
+System: Mars | Type: Hub | Level: 8-13 | Faction: Grineer
 
 ## Tyana Pass
-
-System: 3 | Type: 0 | MR: 3 | Level: 25-30 | Faction: 1
+System: Mars | Type: Hub | MR: 3 | Level: 25-30 | Faction: Corpus
 
 ## Ganymede
-
-System: 4 | Type: 0 | Level: 30-35 | Faction: 1
+System: Phobos | Type: Hub | Level: 30-35 | Faction: Corpus
 
 ## Adrastea
-
-System: 4 | Type: 0 | Level: 18-20 | Faction: 1
+System: Phobos | Type: Hub | Level: 18-20 | Faction: Corpus
 
 ## Amalthea
-
-System: 4 | Type: 0 | Level: 17-19 | Faction: 1
+System: Phobos | Type: Hub | Level: 17-19 | Faction: Corpus
 
 ## Metis
-
-System: 4 | Type: 0 | Level: 15-17 | Faction: 1
+System: Phobos | Type: Hub | Level: 15-17 | Faction: Corpus
 
 ## Io
-
-System: 4 | Type: 0 | Level: 15-20 | Faction: 1
+System: Phobos | Type: Hub | Level: 15-20 | Faction: Corpus
 
 ## Elara
-
-System: 4 | Type: 0 | Level: 15-20 | Faction: 1
+System: Phobos | Type: Hub | Level: 15-20 | Faction: Corpus
 
 ## Thebe
-
-System: 4 | Type: 0 | Level: 18-20 | Faction: 1
+System: Phobos | Type: Hub | Level: 18-20 | Faction: Corpus
 
 ## Callisto
-
-System: 4 | Type: 0 | Level: 15-20 | Faction: 1
+System: Phobos | Type: Hub | Level: 15-20 | Faction: Corpus
 
 ## Carpo
-
-System: 4 | Type: 0 | Level: 17-19 | Faction: 1
+System: Phobos | Type: Hub | Level: 17-19 | Faction: Corpus
 
 ## Themisto
-
-System: 4 | Type: 0 | Level: 18-20 | Faction: 1
+System: Phobos | Type: Hub | Level: 18-20 | Faction: Corpus
 
 ## Carme
-
-System: 4 | Type: 0 | Level: 16-18 | Faction: 1
+System: Phobos | Type: Hub | Level: 16-18 | Faction: Corpus
 
 ## The Ropalolyst
-
-System: 4 | Type: 0 | Level: 40-40 | Faction: 5
+System: Phobos | Type: Hub | Level: 40-40 | Faction: Stalker
 
 ## Sinai
-
-System: 4 | Type: 4 | Level: 20-30 | Faction: 2
+System: Phobos | Type: Exterminate | Level: 20-30 | Faction: Infested
 
 ## Ananke
-
-System: 4 | Type: 0 | Level: 16-18 | Faction: 1
+System: Phobos | Type: Hub | Level: 16-18 | Faction: Corpus
 
 ## Galilea
-
-System: 4 | Type: 0 | Level: 15-20 | Faction: 1
+System: Phobos | Type: Hub | Level: 15-20 | Faction: Corpus
 
 ## Cameria
-
-System: 4 | Type: 4 | Level: 20-30 | Faction: 2
+System: Phobos | Type: Exterminate | Level: 20-30 | Faction: Infested
 
 ## Helene
-
-System: 5 | Type: 0 | Level: 21-26 | Faction: 0
+System: Deimos | Type: Hub | Level: 21-26 | Faction: Grineer
 
 ## Enceladus
-
-System: 5 | Type: 0 | Level: 23-25 | Faction: 0
+System: Deimos | Type: Hub | Level: 23-25 | Faction: Grineer
 
 ## Titan
-
-System: 5 | Type: 0 | Level: 21-26 | Faction: 0
+System: Deimos | Type: Hub | Level: 21-26 | Faction: Grineer
 
 ## Dione
-
-System: 5 | Type: 0 | Level: 21-23 | Faction: 0
+System: Deimos | Type: Hub | Level: 21-23 | Faction: Grineer
 
 ## Keeler
-
-System: 5 | Type: 0 | Level: 23-25 | Faction: 0
+System: Deimos | Type: Hub | Level: 23-25 | Faction: Grineer
 
 ## Tethys
-
-System: 5 | Type: 0 | Level: 24-26 | Faction: 0
+System: Deimos | Type: Hub | Level: 24-26 | Faction: Grineer
 
 ## Rhea
-
-System: 5 | Type: 0 | Level: 21-26 | Faction: 0
+System: Deimos | Type: Hub | Level: 21-26 | Faction: Grineer
 
 ## Telesto
-
-System: 5 | Type: 0 | Level: 22-24 | Faction: 0
+System: Deimos | Type: Hub | Level: 22-24 | Faction: Grineer
 
 ## Cassini
-
-System: 5 | Type: 0 | Level: 21-23 | Faction: 0
+System: Deimos | Type: Hub | Level: 21-23 | Faction: Grineer
 
 ## Anthe
-
-System: 5 | Type: 0 | Level: 22-24 | Faction: 0
+System: Deimos | Type: Hub | Level: 22-24 | Faction: Grineer
 
 ## Numa
-
-System: 5 | Type: 0 | Level: 22-24 | Faction: 0
+System: Deimos | Type: Hub | Level: 22-24 | Faction: Grineer
 
 ## Calypso
-
-System: 5 | Type: 0 | Level: 24-26 | Faction: 0
+System: Deimos | Type: Hub | Level: 24-26 | Faction: Grineer
 
 ## Pandora
-
-System: 5 | Type: 0 | Level: 21-23 | Faction: 0
+System: Deimos | Type: Hub | Level: 21-23 | Faction: Grineer
 
 ## Piscinas
-
-System: 5 | Type: 4 | Level: 26-36 | Faction: 2
+System: Deimos | Type: Exterminate | Level: 26-36 | Faction: Infested
 
 ## Caracol
-
-System: 5 | Type: 4 | Level: 26-36 | Faction: 2
+System: Deimos | Type: Exterminate | Level: 26-36 | Faction: Infested
 
 ## Ariel
-
-System: 6 | Type: 0 | Level: 25-27 | Faction: 0
+System: Ceres | Type: Hub | Level: 25-27 | Faction: Grineer
 
 ## Titania
-
-System: 6 | Type: 0 | Level: 27-29 | Faction: 0
+System: Ceres | Type: Hub | Level: 27-29 | Faction: Grineer
 
 ## Umbriel
-
-System: 6 | Type: 0 | Level: 24-29 | Faction: 0
+System: Ceres | Type: Hub | Level: 24-29 | Faction: Grineer
 
 ## Ophelia
-
-System: 6 | Type: 0 | Level: 24-29 | Faction: 0
+System: Ceres | Type: Hub | Level: 24-29 | Faction: Grineer
 
 ## Cressida
-
-System: 6 | Type: 0 | Level: 27-29 | Faction: 0
+System: Ceres | Type: Hub | Level: 27-29 | Faction: Grineer
 
 ## Desdemona
-
-System: 6 | Type: 0 | Level: 26-28 | Faction: 0
+System: Ceres | Type: Hub | Level: 26-28 | Faction: Grineer
 
 ## Rosalind
-
-System: 6 | Type: 0 | Level: 27-29 | Faction: 0
+System: Ceres | Type: Hub | Level: 27-29 | Faction: Grineer
 
 ## Caliban
-
-System: 6 | Type: 0 | Level: 25-27 | Faction: 0
+System: Ceres | Type: Hub | Level: 25-27 | Faction: Grineer
 
 ## Puck
-
-System: 6 | Type: 0 | Level: 27-29 | Faction: 0
+System: Ceres | Type: Hub | Level: 27-29 | Faction: Grineer
 
 ## Ur
-
-System: 6 | Type: 4 | Level: 30-35 | Faction: 2
+System: Ceres | Type: Exterminate | Level: 30-35 | Faction: Infested
 
 ## Sycorax
-
-System: 6 | Type: 0 | Level: 24-26 | Faction: 0
+System: Ceres | Type: Hub | Level: 24-26 | Faction: Grineer
 
 ## Stephano
-
-System: 6 | Type: 0 | Level: 24-29 | Faction: 0
+System: Ceres | Type: Hub | Level: 24-29 | Faction: Grineer
 
 ## Caelus
-
-System: 6 | Type: 0 | Level: 24-29 | Faction: 0
+System: Ceres | Type: Hub | Level: 24-29 | Faction: Grineer
 
 ## Assur
-
-System: 6 | Type: 4 | Level: 25-35 | Faction: 2
+System: Ceres | Type: Exterminate | Level: 25-35 | Faction: Infested
 
 ## Larissa
-
-System: 7 | Type: 0 | Level: 29-31 | Faction: 1
+System: Jupiter | Type: Hub | Level: 29-31 | Faction: Corpus
 
 ## Galatea
-
-System: 7 | Type: 0 | Level: 27-29 | Faction: 1
+System: Jupiter | Type: Hub | Level: 27-29 | Faction: Corpus
 
 ## Proteus
-
-System: 7 | Type: 0 | Level: 27-32 | Faction: 1
+System: Jupiter | Type: Hub | Level: 27-32 | Faction: Corpus
 
 ## Triton
-
-System: 7 | Type: 0 | Level: 28-30 | Faction: 1
+System: Jupiter | Type: Hub | Level: 28-30 | Faction: Corpus
 
 ## Despina
-
-System: 7 | Type: 0 | Level: 27-32 | Faction: 1
+System: Jupiter | Type: Hub | Level: 27-32 | Faction: Corpus
 
 ## Sao
-
-System: 7 | Type: 0 | Level: 30-32 | Faction: 1
+System: Jupiter | Type: Hub | Level: 30-32 | Faction: Corpus
 
 ## Neso
-
-System: 7 | Type: 0 | Level: 29-31 | Faction: 1
+System: Jupiter | Type: Hub | Level: 29-31 | Faction: Corpus
 
 ## Salacia
-
-System: 7 | Type: 0 | Level: 27-32 | Faction: 1
+System: Jupiter | Type: Hub | Level: 27-32 | Faction: Corpus
 
 ## Psamathe
-
-System: 7 | Type: 0 | Level: 30-32 | Faction: 1
+System: Jupiter | Type: Hub | Level: 30-32 | Faction: Corpus
 
 ## Laomedeia
-
-System: 7 | Type: 0 | Level: 25-30 | Faction: 1
+System: Jupiter | Type: Hub | Level: 25-30 | Faction: Corpus
 
 ## Nereid
-
-System: 7 | Type: 0 | Level: 30-32 | Faction: 1
+System: Jupiter | Type: Hub | Level: 30-32 | Faction: Corpus
 
 ## Yursa
-
-System: 7 | Type: 4 | Level: 30-40 | Faction: 2
+System: Jupiter | Type: Exterminate | Level: 30-40 | Faction: Infested
 
 ## Kelashin
-
-System: 7 | Type: 4 | Level: 30-40 | Faction: 2
+System: Jupiter | Type: Exterminate | Level: 30-40 | Faction: Infested
 
 ## Acheron
-
-System: 8 | Type: 0 | Level: 34-38 | Faction: 1
+System: Europa | Type: Hub | Level: 34-38 | Faction: Corpus
 
 ## Outer Terminus
-
-System: 8 | Type: 0 | Level: 30-40 | Faction: 1
+System: Europa | Type: Hub | Level: 30-40 | Faction: Corpus
 
 ## Regna
-
-System: 8 | Type: 0 | Level: 34-38 | Faction: 1
+System: Europa | Type: Hub | Level: 34-38 | Faction: Corpus
 
 ## Narcissus
-
-System: 8 | Type: 0 | Level: 32-36 | Faction: 1
+System: Europa | Type: Hub | Level: 32-36 | Faction: Corpus
 
 ## Hydra
-
-System: 8 | Type: 0 | Level: 30-34 | Faction: 1
+System: Europa | Type: Hub | Level: 30-34 | Faction: Corpus
 
 ## Hades
-
-System: 8 | Type: 0 | Level: 35-45 | Faction: 1
+System: Europa | Type: Hub | Level: 35-45 | Faction: Corpus
 
 ## Minthe
-
-System: 8 | Type: 0 | Level: 30-34 | Faction: 1
+System: Europa | Type: Hub | Level: 30-34 | Faction: Corpus
 
 ## Cypress
-
-System: 8 | Type: 0 | Level: 34-38 | Faction: 1
+System: Europa | Type: Hub | Level: 34-38 | Faction: Corpus
 
 ## Cerberus
-
-System: 8 | Type: 0 | Level: 30-40 | Faction: 1
+System: Europa | Type: Hub | Level: 30-40 | Faction: Corpus
 
 ## Palus
-
-System: 8 | Type: 0 | Level: 30-40 | Faction: 1
+System: Europa | Type: Hub | Level: 30-40 | Faction: Corpus
 
 ## Sechura
-
-System: 8 | Type: 4 | Level: 35-45 | Faction: 2
+System: Europa | Type: Exterminate | Level: 35-45 | Faction: Infested
 
 ## Oceanum
-
-System: 8 | Type: 0 | Level: 32-36 | Faction: 1
+System: Europa | Type: Hub | Level: 32-36 | Faction: Corpus
 
 ## Hieracon
-
-System: 8 | Type: 4 | Level: 35-45 | Faction: 2
+System: Europa | Type: Exterminate | Level: 35-45 | Faction: Infested
 
 ## Pallas
-
-System: 9 | Type: 0 | Level: 12-14 | Faction: 0
+System: Saturn | Type: Hub | Level: 12-14 | Faction: Grineer
 
 ## Thon
-
-System: 9 | Type: 0 | Level: 15-17 | Faction: 0
+System: Saturn | Type: Hub | Level: 15-17 | Faction: Grineer
 
 ## Bode
-
-System: 9 | Type: 0 | Level: 12-14 | Faction: 0
+System: Saturn | Type: Hub | Level: 12-14 | Faction: Grineer
 
 ## Lex
-
-System: 9 | Type: 0 | Level: 14-16 | Faction: 0
+System: Saturn | Type: Hub | Level: 14-16 | Faction: Grineer
 
 ## Ker
-
-System: 9 | Type: 0 | Level: 14-16 | Faction: 0
+System: Saturn | Type: Hub | Level: 14-16 | Faction: Grineer
 
 ## Nuovo
-
-System: 9 | Type: 0 | Level: 13-15 | Faction: 0
+System: Saturn | Type: Hub | Level: 13-15 | Faction: Grineer
 
 ## Kiste
-
-System: 9 | Type: 0 | Level: 13-15 | Faction: 0
+System: Saturn | Type: Hub | Level: 13-15 | Faction: Grineer
 
 ## Ludi
-
-System: 9 | Type: 0 | Level: 15-17 | Faction: 0
+System: Saturn | Type: Hub | Level: 15-17 | Faction: Grineer
 
 ## Exta
-
-System: 9 | Type: 0 | Level: 14-16 | Faction: 0
+System: Saturn | Type: Hub | Level: 14-16 | Faction: Grineer
 
 ## Casta
-
-System: 9 | Type: 0 | Level: 12-17 | Faction: 0
+System: Saturn | Type: Hub | Level: 12-17 | Faction: Grineer
 
 ## Cinxia
-
-System: 9 | Type: 0 | Level: 12-17 | Faction: 0
+System: Saturn | Type: Hub | Level: 12-17 | Faction: Grineer
 
 ## Draco
-
-System: 9 | Type: 0 | Level: 12-17 | Faction: 0
+System: Saturn | Type: Hub | Level: 12-17 | Faction: Grineer
 
 ## Gabii
-
-System: 9 | Type: 4 | Level: 15-25 | Faction: 2
+System: Saturn | Type: Exterminate | Level: 15-25 | Faction: Infested
 
 ## Seimeni
-
-System: 9 | Type: 4 | Level: 15-25 | Faction: 2
+System: Saturn | Type: Exterminate | Level: 15-25 | Faction: Infested
 
 ## Brugia
-
-System: 10 | Type: 0 | Level: 32-36 | Faction: 2
+System: Uranus | Type: Hub | Level: 32-36 | Faction: Infested
 
 ## Kala-azar
-
-System: 10 | Type: 0 | Level: 30-40 | Faction: 2
+System: Uranus | Type: Hub | Level: 30-40 | Faction: Infested
 
 ## Isos
-
-System: 10 | Type: 0 | Level: 32-36 | Faction: 2
+System: Uranus | Type: Hub | Level: 32-36 | Faction: Infested
 
 ## Saxis
-
-System: 10 | Type: 0 | Level: 34-38 | Faction: 2
+System: Uranus | Type: Hub | Level: 34-38 | Faction: Infested
 
 ## Oestrus
-
-System: 10 | Type: 0 | Level: 34-38 | Faction: 2
+System: Uranus | Type: Hub | Level: 34-38 | Faction: Infested
 
 ## Nimus
-
-System: 10 | Type: 0 | Level: 30-40 | Faction: 2
+System: Uranus | Type: Hub | Level: 30-40 | Faction: Infested
 
 ## Solium
-
-System: 10 | Type: 0 | Level: 34-38 | Faction: 2
+System: Uranus | Type: Hub | Level: 34-38 | Faction: Infested
 
 ## Akkad
-
-System: 10 | Type: 4 | Level: 35-45 | Faction: 2
+System: Uranus | Type: Exterminate | Level: 35-45 | Faction: Infested
 
 ## Xini
-
-System: 10 | Type: 0 | Level: 30-40 | Faction: 2
+System: Uranus | Type: Hub | Level: 30-40 | Faction: Infested
 
 ## Zabala
-
-System: 10 | Type: 4 | Level: 35-45 | Faction: 2
+System: Uranus | Type: Exterminate | Level: 35-45 | Faction: Infested
 
 ## Naeglar
-
-System: 10 | Type: 0 | Level: 30-34 | Faction: 2
+System: Uranus | Type: Hub | Level: 30-34 | Faction: Infested
 
 ## Kappa
-
-System: 11 | Type: 0 | Level: 34-38 | Faction: 0
+System: Neptune | Type: Hub | Level: 34-38 | Faction: Grineer
 
 ## Rusalka
-
-System: 11 | Type: 0 | Level: 32-36 | Faction: 0
+System: Neptune | Type: Hub | Level: 32-36 | Faction: Grineer
 
 ## Adaro
-
-System: 11 | Type: 0 | Level: 32-36 | Faction: 0
+System: Neptune | Type: Hub | Level: 32-36 | Faction: Grineer
 
 ## Vodyanoi
-
-System: 11 | Type: 0 | Level: 85-85 | Faction: 0
+System: Neptune | Type: Hub | Level: 85-85 | Faction: Grineer
 
 ## Nakki
-
-System: 11 | Type: 0 | Level: 40-40 | Faction: 0
+System: Neptune | Type: Hub | Level: 40-40 | Faction: Grineer
 
 ## Berehynia
-
-System: 11 | Type: 0 | Level: 30-40 | Faction: 0
+System: Neptune | Type: Hub | Level: 30-40 | Faction: Grineer
 
 ## Selkie
-
-System: 11 | Type: 0 | Level: 30-40 | Faction: 0
+System: Neptune | Type: Hub | Level: 30-40 | Faction: Grineer
 
 ## Marid
-
-System: 11 | Type: 0 | Level: 34-38 | Faction: 0
+System: Neptune | Type: Hub | Level: 34-38 | Faction: Grineer
 
 ## Kelpie
-
-System: 11 | Type: 0 | Level: 35-40 | Faction: 0
+System: Neptune | Type: Hub | Level: 35-40 | Faction: Grineer
 
 ## Naga
-
-System: 11 | Type: 0 | Level: 30-34 | Faction: 0
+System: Neptune | Type: Hub | Level: 30-34 | Faction: Grineer
 
 ## Yam
-
-System: 11 | Type: 0 | Level: 60-60 | Faction: 0
+System: Neptune | Type: Hub | Level: 60-60 | Faction: Grineer
 
 ## Merrow
-
-System: 11 | Type: 0 | Level: 35-40 | Faction: 0
+System: Neptune | Type: Hub | Level: 35-40 | Faction: Grineer
 
 ## Charybdis
-
-System: 11 | Type: 0 | Level: 34-38 | Faction: 0
+System: Neptune | Type: Hub | Level: 34-38 | Faction: Grineer
 
 ## Hydron
-
-System: 11 | Type: 0 | Level: 30-40 | Faction: 0
+System: Neptune | Type: Hub | Level: 30-40 | Faction: Grineer
 
 ## Amarna
-
-System: 11 | Type: 4 | Level: 35-45 | Faction: 2
+System: Neptune | Type: Exterminate | Level: 35-45 | Faction: Infested
 
 ## Sangeru
-
-System: 11 | Type: 4 | Level: 35-45 | Faction: 2
+System: Neptune | Type: Exterminate | Level: 35-45 | Faction: Infested
 
 ## Abaddon
-
-System: 12 | Type: 0 | Level: 21-23 | Faction: 1
+System: Pluto | Type: Hub | Level: 21-23 | Faction: Corpus
 
 ## Armaros
-
-System: 12 | Type: 0 | Level: 18-20 | Faction: 2
+System: Pluto | Type: Hub | Level: 18-20 | Faction: Infested
 
 ## Morax
-
-System: 12 | Type: 0 | Level: 18-20 | Faction: 1
+System: Pluto | Type: Hub | Level: 18-20 | Faction: Corpus
 
 ## Naamah
-
-System: 12 | Type: 0 | Level: 21-23 | Faction: 1
+System: Pluto | Type: Hub | Level: 21-23 | Faction: Corpus
 
 ## Baal
-
-System: 12 | Type: 0 | Level: 21-23 | Faction: 1
+System: Pluto | Type: Hub | Level: 21-23 | Faction: Corpus
 
 ## Valefor
-
-System: 12 | Type: 0 | Level: 18-23 | Faction: 1
+System: Pluto | Type: Hub | Level: 18-23 | Faction: Corpus
 
 ## Sorath
-
-System: 12 | Type: 0 | Level: 19-21 | Faction: 1
+System: Pluto | Type: Hub | Level: 19-21 | Faction: Corpus
 
 ## Ose
-
-System: 12 | Type: 0 | Level: 18-23 | Faction: 1
+System: Pluto | Type: Hub | Level: 18-23 | Faction: Corpus
 
 ## Valac
-
-System: 12 | Type: 0 | Level: 18-20 | Faction: 2
+System: Pluto | Type: Hub | Level: 18-20 | Faction: Infested
 
 ## Paimon
-
-System: 12 | Type: 0 | Level: 18-23 | Faction: 1
+System: Pluto | Type: Hub | Level: 18-23 | Faction: Corpus
 
 ## Orias
-
-System: 12 | Type: 0 | Level: 20-22 | Faction: 1
+System: Pluto | Type: Hub | Level: 20-22 | Faction: Corpus
 
 ## Larzac
-
-System: 12 | Type: 4 | Level: 23-33 | Faction: 2
+System: Pluto | Type: Exterminate | Level: 23-33 | Faction: Infested
 
 ## Kokabiel
-
-System: 12 | Type: 0 | Level: 20-22 | Faction: 1
+System: Pluto | Type: Hub | Level: 20-22 | Faction: Corpus
 
 ## Cholistan
-
-System: 12 | Type: 4 | Level: 23-33 | Faction: 2
+System: Pluto | Type: Exterminate | Level: 23-33 | Faction: Infested
 
 ## Teshub
-
-System: 14 | Type: 0 | Level: 10-15 | Faction: 3
+System: Eris | Type: Hub | Level: 10-15 | Faction: Orokin
 
 ## Hepit
-
-System: 14 | Type: 0 | Level: 10-15 | Faction: 3
+System: Eris | Type: Hub | Level: 10-15 | Faction: Orokin
 
 ## Taranis
-
-System: 14 | Type: 0 | Level: 10-15 | Faction: 3
+System: Eris | Type: Hub | Level: 10-15 | Faction: Orokin
 
 ## Tiwaz
-
-System: 14 | Type: 0 | Level: 20-25 | Faction: 3
+System: Eris | Type: Hub | Level: 20-25 | Faction: Orokin
 
 ## Stribog
-
-System: 14 | Type: 0 | Level: 20-25 | Faction: 3
+System: Eris | Type: Hub | Level: 20-25 | Faction: Orokin
 
 ## Ani
-
-System: 14 | Type: 0 | Level: 20-25 | Faction: 3
+System: Eris | Type: Hub | Level: 20-25 | Faction: Orokin
 
 ## Ukko
-
-System: 14 | Type: 0 | Level: 30-35 | Faction: 3
+System: Eris | Type: Hub | Level: 30-35 | Faction: Orokin
 
 ## Oxomoco
-
-System: 14 | Type: 0 | Level: 30-35 | Faction: 3
+System: Eris | Type: Hub | Level: 30-35 | Faction: Orokin
 
 ## Belenus
-
-System: 14 | Type: 0 | Level: 30-35 | Faction: 3
+System: Eris | Type: Hub | Level: 30-35 | Faction: Orokin
 
 ## Mot
-
-System: 14 | Type: 0 | Level: 40-45 | Faction: 3
+System: Eris | Type: Hub | Level: 40-45 | Faction: Orokin
 
 ## Aten
-
-System: 14 | Type: 0 | Level: 40-45 | Faction: 3
+System: Eris | Type: Hub | Level: 40-45 | Faction: Orokin
 
 ## Marduk
-
-System: 14 | Type: 0 | Level: 40-45 | Faction: 3
+System: Eris | Type: Hub | Level: 40-45 | Faction: Orokin
 
 ## Mithra
-
-System: 14 | Type: 0 | Level: 40-45 | Faction: 3
+System: Eris | Type: Hub | Level: 40-45 | Faction: Orokin
 
 ## Roche
-
-System: 15 | Type: 0 | Level: 10-12 | Faction: 1
+System: Void | Type: Hub | Level: 10-12 | Faction: Corpus
 
 ## Stickney
-
-System: 15 | Type: 0 | Level: 10-15 | Faction: 1
+System: Void | Type: Hub | Level: 10-15 | Faction: Corpus
 
 ## Skyresh
-
-System: 15 | Type: 0 | Level: 12-14 | Faction: 1
+System: Void | Type: Hub | Level: 12-14 | Faction: Corpus
 
 ## Monolith
-
-System: 15 | Type: 0 | Level: 13-15 | Faction: 1
+System: Void | Type: Hub | Level: 13-15 | Faction: Corpus
 
 ## Kepler
-
-System: 15 | Type: 0 | Level: 12-14 | Faction: 1
+System: Void | Type: Hub | Level: 12-14 | Faction: Corpus
 
 ## Sharpless
-
-System: 15 | Type: 0 | Level: 11-13 | Faction: 1
+System: Void | Type: Hub | Level: 11-13 | Faction: Corpus
 
 ## Gulliver
-
-System: 15 | Type: 0 | Level: 10-15 | Faction: 1
+System: Void | Type: Hub | Level: 10-15 | Faction: Corpus
 
 ## Shklovsky
-
-System: 15 | Type: 0 | Level: 11-13 | Faction: 1
+System: Void | Type: Hub | Level: 11-13 | Faction: Corpus
 
 ## Memphis
-
-System: 15 | Type: 4 | Level: 15-25 | Faction: 2
+System: Void | Type: Exterminate | Level: 15-25 | Faction: Infested
 
 ## Iliad
-
-System: 15 | Type: 0 | Level: 13-15 | Faction: 1
+System: Void | Type: Hub | Level: 13-15 | Faction: Corpus
 
 ## Zeugma
-
-System: 15 | Type: 4 | Level: 15-25 | Faction: 2
+System: Void | Type: Exterminate | Level: 15-25 | Faction: Infested
 
 ## Horend
-
-System: 16 | Type: 0 | Level: 12-14 | Faction: 2
+System: Lua | Type: Hub | Level: 12-14 | Faction: Infested
 
 ## Hyf
-
-System: 16 | Type: 0 | Level: 15-20 | Faction: 2
+System: Lua | Type: Hub | Level: 15-20 | Faction: Infested
 
 ## Phlegyas
-
-System: 16 | Type: 0 | Level: 13-15 | Faction: 2
+System: Lua | Type: Hub | Level: 13-15 | Faction: Infested
 
 ## Dirus
-
-System: 16 | Type: 0 | Level: 15-17 | Faction: 2
+System: Lua | Type: Hub | Level: 15-17 | Faction: Infested
 
 ## Formido
-
-System: 16 | Type: 0 | Level: 14-16 | Faction: 2
+System: Lua | Type: Hub | Level: 14-16 | Faction: Infested
 
 ## Terrorem
-
-System: 16 | Type: 0 | Level: 25-35 | Faction: 2
+System: Lua | Type: Hub | Level: 25-35 | Faction: Infested
 
 ## Magnacidium
-
-System: 16 | Type: 0 | Level: 20-25 | Faction: 2
+System: Lua | Type: Hub | Level: 20-25 | Faction: Infested
 
 ## Exequias
-
-System: 16 | Type: 0 | Level: 30-35 | Faction: 2
+System: Lua | Type: Hub | Level: 30-35 | Faction: Infested
 
 ## Cambion Drift
-
-System: 16 | Type: 0 | Level: 15-30 | Faction: 2
+System: Lua | Type: Hub | Level: 15-30 | Faction: Infested
 
 ## Effervo
-
-System: 16 | Type: 0 | Level: 55-60 | Faction: 7
+System: Lua | Type: Hub | Level: 55-60 | Faction: Crossfire
 
 ## Nex
-
-System: 16 | Type: 0 | Level: 55-60 | Faction: 7
+System: Lua | Type: Hub | Level: 55-60 | Faction: Crossfire
 
 ## Persto
-
-System: 16 | Type: 0 | Level: 55-60 | Faction: 7
+System: Lua | Type: Hub | Level: 55-60 | Faction: Crossfire
 
 ## Cambire
-
-System: 16 | Type: 0 | Level: 55-60 | Faction: 7
+System: Lua | Type: Hub | Level: 55-60 | Faction: Crossfire
 
 ## Munio
-
-System: 16 | Type: 0 | Level: 55-60 | Faction: 7
+System: Lua | Type: Hub | Level: 55-60 | Faction: Crossfire
 
 ## Armatus
-
-System: 16 | Type: 0 | Level: 55-60 | Faction: 7
+System: Lua | Type: Hub | Level: 55-60 | Faction: Crossfire
 
 ## Plato
-
-System: 17 | Type: 0 | Level: 25-30 | Faction: 0
+System: Kuva Fortress | Type: Hub | Level: 25-30 | Faction: Grineer
 
 ## Pavlov
-
-System: 17 | Type: 0 | Level: 25-30 | Faction: 1
+System: Kuva Fortress | Type: Hub | Level: 25-30 | Faction: Corpus
 
 ## Tycho
-
-System: 17 | Type: 0 | Level: 25-30 | Faction: 1
+System: Kuva Fortress | Type: Hub | Level: 25-30 | Faction: Corpus
 
 ## Stöfler
-
-System: 17 | Type: 0 | Level: 25-30 | Faction: 0
+System: Kuva Fortress | Type: Hub | Level: 25-30 | Faction: Grineer
 
 ## Copernicus
-
-System: 17 | Type: 0 | Level: 25-30 | Faction: 1
+System: Kuva Fortress | Type: Hub | Level: 25-30 | Faction: Corpus
 
 ## Grimaldi
-
-System: 17 | Type: 0 | Level: 25-30 | Faction: 0
+System: Kuva Fortress | Type: Hub | Level: 25-30 | Faction: Grineer
 
 ## Zeipel
-
-System: 17 | Type: 0 | Level: 25-30 | Faction: 1
+System: Kuva Fortress | Type: Hub | Level: 25-30 | Faction: Corpus
 
 ## Apollo
-
-System: 17 | Type: 0 | Level: 35-40 | Faction: 1
+System: Kuva Fortress | Type: Hub | Level: 35-40 | Faction: Corpus
 
 ## Yuvarium
-
-System: 17 | Type: 0 | Level: 25-30 | Faction: 3
+System: Kuva Fortress | Type: Hub | Level: 25-30 | Faction: Orokin
 
 ## Circulus
-
-System: 17 | Type: 0 | Level: 80-100 | Faction: 3
+System: Kuva Fortress | Type: Hub | Level: 80-100 | Faction: Orokin
 
 ## Koro
-
-System: 18 | Type: 0 | Level: 29-31 | Faction: 0
+System: Zariman | Type: Hub | Level: 29-31 | Faction: Grineer
 
 ## Nabuk
-
-System: 18 | Type: 0 | Level: 30-32 | Faction: 0
+System: Zariman | Type: Hub | Level: 30-32 | Faction: Grineer
 
 ## Rotuma
-
-System: 18 | Type: 0 | Level: 30-32 | Faction: 0
+System: Zariman | Type: Hub | Level: 30-32 | Faction: Grineer
 
 ## Taveuni
-
-System: 18 | Type: 0 | Level: 32-37 | Faction: 0
+System: Zariman | Type: Hub | Level: 32-37 | Faction: Grineer
 
 ## Tamu
-
-System: 18 | Type: 0 | Level: 35-40 | Faction: 0
+System: Zariman | Type: Hub | Level: 35-40 | Faction: Grineer
 
 ## Dakata
-
-System: 18 | Type: 0 | Level: 28-30 | Faction: 0
+System: Zariman | Type: Hub | Level: 28-30 | Faction: Grineer
 
 ## Pago
-
-System: 18 | Type: 0 | Level: 31-33 | Faction: 0
+System: Zariman | Type: Hub | Level: 31-33 | Faction: Grineer
 
 ## Garus
-
-System: 18 | Type: 0 | Level: 31-33 | Faction: 0
+System: Zariman | Type: Hub | Level: 31-33 | Faction: Grineer
 
 ## Everview Arc
-
-System: 21 | Type: 0 | Level: 50-55 | Faction: 0
+System: Duviri | Type: Hub | Level: 50-55 | Faction: Grineer
 
 ## Halako Perimeter
-
-System: 21 | Type: 0 | Level: 50-55 | Faction: 0
+System: Duviri | Type: Hub | Level: 50-55 | Faction: Grineer
 
 ## Tuvul Commons
-
-System: 21 | Type: 0 | Level: 50-55 | Faction: 0
+System: Duviri | Type: Hub | Level: 50-55 | Faction: Grineer
 
 ## Oro Works
-
-System: 21 | Type: 0 | Level: 50-55 | Faction: 0
+System: Duviri | Type: Hub | Level: 50-55 | Faction: Grineer
 
 ## The Greenway
-
-System: 21 | Type: 0 | Level: 50-55 | Faction: 0
+System: Duviri | Type: Hub | Level: 50-55 | Faction: Grineer
 
 ## The Duviri Experience
-
-System: 22 | Type: 0 | Level: 20-20 | Faction: 10
+System: 22 | Type: Hub | Level: 20-20 | Faction: Murmur
 
 ## The Lone Story
-
-System: 22 | Type: 0 | Level: 20-20 | Faction: 10
+System: 22 | Type: Hub | Level: 20-20 | Faction: Murmur
 
 ## The Circuit
-
-System: 22 | Type: 0 | Level: 35-55 | Faction: 3
+System: 22 | Type: Hub | Level: 35-55 | Faction: Orokin
 
 ## Legacyte Harvest
-
-System: 23 | Type: 0 | Level: 65-70 | Faction: 9
+System: 23 | Type: Hub | Level: 65-70 | Faction: Wally
 
 ## Hell-Scrub: Scaldra
-
-System: 23 | Type: 0 | Level: 65-70 | Faction: 8
+System: 23 | Type: Hub | Level: 65-70 | Faction: Narmer
 
 ## Hell-Scrub: Techrot
-
-System: 23 | Type: 0 | Level: 65-70 | Faction: 9
+System: 23 | Type: Hub | Level: 65-70 | Faction: Wally
 
 ## Exterminate: Scaldra
-
-System: 23 | Type: 0 | Level: 65-70 | Faction: 8
+System: 23 | Type: Hub | Level: 65-70 | Faction: Narmer
 
 ## Exterminate: Techrot
-
-System: 23 | Type: 0 | Level: 65-70 | Faction: 9
+System: 23 | Type: Hub | Level: 65-70 | Faction: Wally
 
 ## Faceoff: Squad VS Squad
-
-System: 23 | Type: 0 | Level: 65-70 | Faction: 8
+System: 23 | Type: Hub | Level: 65-70 | Faction: Narmer
 
 ## Assassinate: H-09 Tank
-
-System: 23 | Type: 0 | Level: 65-70 | Faction: 8
+System: 23 | Type: Hub | Level: 65-70 | Faction: Narmer
 
 ## Faceoff: Single Squad
-
-System: 23 | Type: 0 | Level: 65-70 | Faction: 8
+System: 23 | Type: Hub | Level: 65-70 | Faction: Narmer
 
 ## Solstice Square
-
-System: 23 | Type: 0 | Level: 65-70 | Faction: 8
+System: 23 | Type: Hub | Level: 65-70 | Faction: Narmer
 
 ## Recall: Hunhullus
-
-System: 24 | Type: 0 | Level: 65-70 | Faction: 3
+System: 24 | Type: Hub | Level: 65-70 | Faction: Orokin
 
 ## Recall: Dactolyst
-
-System: 24 | Type: 0 | Level: 65-70 | Faction: 3
+System: 24 | Type: Hub | Level: 65-70 | Faction: Orokin
 
 ## Recall: Vanguard
-
-System: 24 | Type: 0 | Level: 65-70 | Faction: 3
+System: 24 | Type: Hub | Level: 65-70 | Faction: Orokin
 
 ## Descend
-
-System: 24 | Type: 0 | Level: 65-65 | Faction: 3
+System: 24 | Type: Hub | Level: 65-65 | Faction: Orokin
 
 ## Descend from Marie's Sanctuary
-
-System: 24 | Type: 0 | Level: 72-72 | Faction: 3
+System: 24 | Type: Hub | Level: 72-72 | Faction: Orokin
 
 ## Descend from Lyon's Sanctuary
-
-System: 24 | Type: 0 | Level: 79-79 | Faction: 3
+System: 24 | Type: Hub | Level: 79-79 | Faction: Orokin
 
 ## Roathe's Oblivion
+System: 24 | Type: Hub | Level: 86-86 | Faction: Orokin
 
-System: 24 | Type: 0 | Level: 86-86 | Faction: 3
+## The Guilty
+System: 24 | Type: Hub | Level: 165-170 | Faction: Orokin
 
 ## Sanctuary Onslaught
-
-System: 19 | Type: 0 | Level: 20-30
+System: Tau | Type: Hub | Level: 20-30
 
 ## Elite Sanctuary Onslaught
-
-System: 19 | Type: 0 | Level: 60-70
+System: Tau | Type: Hub | Level: 60-70
 
 ## Cephalon Capture
-
-System: 5 | Type: 2
+System: Deimos | Type: Capture
 
 ## Team Annihilation
-
-System: 5 | Type: 2
+System: Deimos | Type: Capture
 
 ## Annihilation
-
-System: 5 | Type: 2
+System: Deimos | Type: Capture
 
 ## Larunda Relay
-
-System: 0 | Type: 3
+System: Mercury | Type: Defense
 
 ## Fortuna
-
-System: 1 | Type: 3
+System: Venus | Type: Defense
 
 ## Deepmines
-
-System: 1 | Type: 0 | Level: 30-40 | Faction: 1
+System: Venus | Type: Hub | Level: 30-40 | Faction: Corpus
 
 ## MERCURY JUNCTION
-
-System: 1 | Type: 7 | Level: 1-3
+System: Venus | Type: Sabotage | Level: 1-3
 
 ## Cetus
-
-System: 2 | Type: 3
+System: Earth | Type: Defense
 
 ## VENUS JUNCTION
-
-System: 2 | Type: 7 | Level: 1-3
+System: Earth | Type: Sabotage | Level: 1-3
 
 ## MARS JUNCTION
-
-System: 2 | Type: 7 | Level: 1-1
+System: Earth | Type: Sabotage | Level: 1-1
 
 ## Strata Relay
-
-System: 2 | Type: 3
+System: Earth | Type: Defense
 
 ## Maroo's Bazaar
-
-System: 3 | Type: 3
+System: Mars | Type: Defense
 
 ## CERES JUNCTION
-
-System: 3 | Type: 7 | Level: 1-1
+System: Mars | Type: Sabotage | Level: 1-1
 
 ## PHOBOS JUNCTION
-
-System: 3 | Type: 7 | Level: 1-3
+System: Mars | Type: Sabotage | Level: 1-3
 
 ## Necralisk
-
-System: 16 | Type: 3
+System: Lua | Type: Defense
 
 ## Sanctum Anatomica
-
-System: 16 | Type: 3
+System: Lua | Type: Defense
 
 ## Testudo
-
-System: 16 | Type: 0 | Level: 220-240
+System: Lua | Type: Hub | Level: 220-240
 
 ## JUPITER JUNCTION
-
-System: 16 | Type: 7 | Level: 1-3
+System: Lua | Type: Sabotage | Level: 1-3
 
 ## EUROPA JUNCTION
-
-System: 4 | Type: 7 | Level: 1-3
+System: Phobos | Type: Sabotage | Level: 1-3
 
 ## SATURN JUNCTION
-
-System: 4 | Type: 7 | Level: 1-3
+System: Phobos | Type: Sabotage | Level: 1-3
 
 ## URANUS JUNCTION
-
-System: 5 | Type: 7 | Level: 1-3
+System: Deimos | Type: Sabotage | Level: 1-3
 
 ## Kronia Relay
-
-System: 5 | Type: 3
+System: Deimos | Type: Defense
 
 ## Brutus
-
-System: 6 | Type: 0 | Level: 45-50 | Faction: 1
+System: Ceres | Type: Hub | Level: 45-50 | Faction: Corpus
 
 ## NEPTUNE JUNCTION
-
-System: 6 | Type: 7 | Level: 1-3
+System: Ceres | Type: Sabotage | Level: 1-3
 
 ## THE INDEX: ENDURANCE (LOW RISK)
-
-System: 7 | Type: 1 | Level: 30-30 | Faction: 1
+System: Jupiter | Type: Assassinate | Level: 30-30 | Faction: Corpus
 
 ## THE INDEX: ENDURANCE (MEDIUM RISK)
-
-System: 7 | Type: 1 | Level: 30-30 | Faction: 1
+System: Jupiter | Type: Assassinate | Level: 30-30 | Faction: Corpus
 
 ## THE INDEX: ENDURANCE (HIGH RISK)
-
-System: 7 | Type: 1 | Level: 30-30 | Faction: 1
+System: Jupiter | Type: Assassinate | Level: 30-30 | Faction: Corpus
 
 ## The Index: Endurance
-
-System: 7 | Type: 1 | Level: 30-30 | Faction: 1
+System: Jupiter | Type: Assassinate | Level: 30-30 | Faction: Corpus
 
 ## PLUTO JUNCTION
-
-System: 7 | Type: 7 | Level: 1-3
+System: Jupiter | Type: Sabotage | Level: 1-3
 
 ## ERIS JUNCTION
-
-System: 8 | Type: 7 | Level: 1-1
+System: Europa | Type: Sabotage | Level: 1-1
 
 ## SEDNA JUNCTION
-
-System: 8 | Type: 7 | Level: 1-1
+System: Europa | Type: Sabotage | Level: 1-1
 
 ## Orcus Relay
-
-System: 8 | Type: 3
+System: Europa | Type: Defense
 
 ## Jordas Golem Assassinate
-
-System: 10 | Type: 0 | Level: 32-34 | Faction: 2
+System: Uranus | Type: Hub | Level: 32-34 | Faction: Infested
 
 ## Mutalist Alad V Assassinate
-
-System: 10 | Type: 0 | Level: 30-35 | Faction: 2
+System: Uranus | Type: Hub | Level: 30-35 | Faction: Infested
 
 ## Chrysalith
-
-System: 21 | Type: 3
+System: Duviri | Type: Defense
 
 ## Dormizone
-
-System: 21 | Type: 6
+System: Duviri | Type: Rescue
 
 ## Höllvania Central Mall
-
-System: 23 | Type: 3
+System: 23 | Type: Defense
 
 ## TECHNOCYTE CODA CONCERT
-
-System: 2 | Type: 0 | Level: 100-100
+System: Earth | Type: Hub | Level: 100-100
 
 ## Free Flight
-
-System: 2 | Type: 0 | Level: 1-1 | Faction: 0
+System: Earth | Type: Hub | Level: 1-1 | Faction: Grineer
 
 ## Sover Strait
-
-System: 2 | Type: 0 | Level: 15-20 | Faction: 0
+System: Earth | Type: Hub | Level: 15-20 | Faction: Grineer
 
 ## Iota Temple
-
-System: 2 | Type: 0 | Level: 20-28 | Faction: 0
+System: Earth | Type: Hub | Level: 20-28 | Faction: Grineer
 
 ## Ogal Cluster
-
-System: 2 | Type: 0 | Level: 21-26 | Faction: 0
+System: Earth | Type: Hub | Level: 21-26 | Faction: Grineer
 
 ## Korm's Belt
-
-System: 2 | Type: 0 | Level: 24-30 | Faction: 0
+System: Earth | Type: Hub | Level: 24-30 | Faction: Grineer
 
 ## Bendar Cluster
-
-System: 2 | Type: 0 | Level: 29-36 | Faction: 0
+System: Earth | Type: Hub | Level: 29-36 | Faction: Grineer
 
 ## Beacon Shield Ring
-
-System: 1 | Type: 0 | Level: 17-20 | Faction: 1
+System: Venus | Type: Hub | Level: 17-20 | Faction: Corpus
 
 ## Vesper Strait
-
-System: 1 | Type: 0 | Level: 21-24 | Faction: 1
+System: Venus | Type: Hub | Level: 21-24 | Faction: Corpus
 
 ## Luckless Expanse
-
-System: 1 | Type: 0 | Level: 22-25 | Faction: 1
+System: Venus | Type: Hub | Level: 22-25 | Faction: Corpus
 
 ## Falling Glory
-
-System: 1 | Type: 0 | Level: 23-26 | Faction: 1
+System: Venus | Type: Hub | Level: 23-26 | Faction: Corpus
 
 ## Bifrost Echo
-
-System: 1 | Type: 0 | Level: 15-18 | Faction: 1
+System: Venus | Type: Hub | Level: 15-18 | Faction: Corpus
 
 ## Orvin-Haarc
-
-System: 1 | Type: 0 | Level: 19-22 | Faction: 1
+System: Venus | Type: Hub | Level: 19-22 | Faction: Corpus
 
 ## Kuva Lich Confrontation
-
-System: 5 | Type: 0 | Level: 63-70 | Faction: 0
+System: Deimos | Type: Hub | Level: 63-70 | Faction: Grineer
 
 ## Mordo Cluster
-
-System: 5 | Type: 0 | Level: 55-60 | Faction: 0
+System: Deimos | Type: Hub | Level: 55-60 | Faction: Grineer
 
 ## Lupal Pass
-
-System: 5 | Type: 0 | Level: 48-56 | Faction: 0
+System: Deimos | Type: Hub | Level: 48-56 | Faction: Grineer
 
 ## Nodo Gap
-
-System: 5 | Type: 0 | Level: 54-60 | Faction: 0
+System: Deimos | Type: Hub | Level: 54-60 | Faction: Grineer
 
 ## Vand Cluster
-
-System: 5 | Type: 0 | Level: 65-70 | Faction: 0
+System: Deimos | Type: Hub | Level: 65-70 | Faction: Grineer
 
 ## Kasio's Rest
-
-System: 5 | Type: 0 | Level: 70-75 | Faction: 0
+System: Deimos | Type: Hub | Level: 70-75 | Faction: Grineer
 
 ## Sister of Parvos Confrontation
-
-System: 7 | Type: 0 | Level: 63-70 | Faction: 1
+System: Jupiter | Type: Hub | Level: 63-70 | Faction: Corpus
 
 ## Arva Vector
-
-System: 7 | Type: 0 | Level: 25-28 | Faction: 1
+System: Jupiter | Type: Hub | Level: 25-28 | Faction: Corpus
 
 ## Nu-gua Mines
-
-System: 7 | Type: 0 | Level: 27-30 | Faction: 1
+System: Jupiter | Type: Hub | Level: 27-30 | Faction: Corpus
 
 ## Mammon's Prospect
-
-System: 7 | Type: 0 | Level: 31-34 | Faction: 1
+System: Jupiter | Type: Hub | Level: 31-34 | Faction: Corpus
 
 ## Brom Cluster
-
-System: 7 | Type: 0 | Level: 32-35 | Faction: 1
+System: Jupiter | Type: Hub | Level: 32-35 | Faction: Corpus
 
 ## Enkidu Ice Drifts
-
-System: 7 | Type: 0 | Level: 29-32 | Faction: 1
+System: Jupiter | Type: Hub | Level: 29-32 | Faction: Corpus
 
 ## Sovereign Grasp
-
-System: 7 | Type: 0 | Level: 33-36 | Faction: 1
+System: Jupiter | Type: Hub | Level: 33-36 | Faction: Corpus
 
 ## Khufu Envoy
-
-System: 8 | Type: 0 | Level: 35-38 | Faction: 1
+System: Europa | Type: Hub | Level: 35-38 | Faction: Corpus
 
 ## Seven Sirens
-
-System: 8 | Type: 0 | Level: 37-40 | Faction: 1
+System: Europa | Type: Hub | Level: 37-40 | Faction: Corpus
 
 ## Obol Crossing
-
-System: 8 | Type: 0 | Level: 39-42 | Faction: 1
+System: Europa | Type: Hub | Level: 39-42 | Faction: Corpus
 
 ## Fenton's Field
-
-System: 8 | Type: 0 | Level: 40-43 | Faction: 1
+System: Europa | Type: Hub | Level: 40-43 | Faction: Corpus
 
 ## Profit Margin
-
-System: 8 | Type: 0 | Level: 41-44 | Faction: 1
+System: Europa | Type: Hub | Level: 41-44 | Faction: Corpus
 
 ## Peregrine Axis
-
-System: 8 | Type: 0 | Level: 43-46 | Faction: 1
+System: Europa | Type: Hub | Level: 43-46 | Faction: Corpus
 
 ## Nsu Grid
-
-System: 20 | Type: 0 | Level: 80-90 | Faction: 0
+System: Höllvania | Type: Hub | Level: 80-90 | Faction: Grineer
 
 ## R-9 Cloud
-
-System: 20 | Type: 0 | Level: 80-90 | Faction: 0
+System: Höllvania | Type: Hub | Level: 80-90 | Faction: Grineer
 
 ## H-2 Cloud
-
-System: 20 | Type: 0 | Level: 80-90 | Faction: 0
+System: Höllvania | Type: Hub | Level: 80-90 | Faction: Grineer
 
 ## Flexa
-
-System: 20 | Type: 0 | Level: 80-90 | Faction: 0
+System: Höllvania | Type: Hub | Level: 80-90 | Faction: Grineer
 
 ## Calabash
-
-System: 20 | Type: 0 | Level: 45-49 | Faction: 1
+System: Höllvania | Type: Hub | Level: 45-49 | Faction: Corpus
 
 ## Numina
-
-System: 20 | Type: 0 | Level: 48-52 | Faction: 1
+System: Höllvania | Type: Hub | Level: 48-52 | Faction: Corpus
 
 ## Arc Silver
-
-System: 20 | Type: 0 | Level: 51-55 | Faction: 1
+System: Höllvania | Type: Hub | Level: 51-55 | Faction: Corpus
 
 ## Erato
-
-System: 20 | Type: 0 | Level: 54-58 | Faction: 1
+System: Höllvania | Type: Hub | Level: 54-58 | Faction: Corpus
 
 ## Lu-yan
-
-System: 20 | Type: 0 | Level: 55-59 | Faction: 1
+System: Höllvania | Type: Hub | Level: 55-59 | Faction: Corpus
 
 ## Sabmir Cloud
-
-System: 20 | Type: 0 | Level: 57-60 | Faction: 1
-
+System: Höllvania | Type: Hub | Level: 57-60 | Faction: Corpus

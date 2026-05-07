@@ -1,21 +1,14 @@
 # Zariman Bounty Rewards
-
 Zariman Ten Zero bounty and mission reward tables. Includes rotation rewards and drop percentages.
 
-## Level  50 - 55 Zariman Bounty
-
+## Level 50 - 55 Zariman Bounty
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
-
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 15,000 Credits | Uncommon | 17.39% |
@@ -26,21 +19,14 @@ Zariman Ten Zero bounty and mission reward tables. Includes rotation rewards and
 | Aya | Rare | 8.70% |
 | Gyre Neuroptics Blueprint | Uncommon | 13.04% |
 | Entrati Lanthorn | Rare | 4.35% |
-
-## Level  60 - 65 Zariman Bounty
-
+## Level 60 - 65 Zariman Bounty
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
-
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 1000 Endo | Uncommon | 20.34% |
@@ -51,21 +37,14 @@ Zariman Ten Zero bounty and mission reward tables. Includes rotation rewards and
 | Aya | Rare | 8.47% |
 | Gyre Chassis Blueprint | Uncommon | 13.56% |
 | 3X Entrati Lanthorn | Rare | 3.39% |
-
-## Level  70 - 75 Zariman Bounty
-
+## Level 70 - 75 Zariman Bounty
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
-
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 2000 Endo | Uncommon | 13.89% |
@@ -77,21 +56,14 @@ Zariman Ten Zero bounty and mission reward tables. Includes rotation rewards and
 | Aya | Rare | 8.73% |
 | Gyre Systems Blueprint | Uncommon | 11.90% |
 | Alternox Blueprint | Rare | 7.94% |
-
-## Level  90 - 95 Zariman Bounty
-
+## Level 90 - 95 Zariman Bounty
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
-
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 3000 Endo | Uncommon | 11.36% |
@@ -103,21 +75,14 @@ Zariman Ten Zero bounty and mission reward tables. Includes rotation rewards and
 | Aya | Uncommon | 12.34% |
 | Gyre Blueprint | Uncommon | 12.99% |
 | Hespar Blueprint | Uncommon | 12.99% |
-
-## Level  110 - 115 Zariman Bounty
-
+## Level 110 - 115 Zariman Bounty
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
-
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 3000 Endo | Uncommon | 11.36% |
@@ -129,4 +94,3 @@ Zariman Ten Zero bounty and mission reward tables. Includes rotation rewards and
 | Aya | Uncommon | 12.34% |
 | Gyre Blueprint | Uncommon | 12.99% |
 | Aeolak Blueprint | Uncommon | 12.99% |
-

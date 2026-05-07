@@ -35,14 +35,39 @@ let _fileCount = 0;
 function writeMd(relPath, content) {
   const full = path.join(DOCS, relPath);
   fs.mkdirSync(path.dirname(full), { recursive: true });
-  fs.writeFileSync(full, content);
+  var clean = content
+    .replace(/\[Forum Link\]\([^)]*\)/g, '')
+    .replace(/https?:\/\/\S+/g, '')
+    .replace(/Image Description:[^\n]*/g, '')
+    .replace(/<[^>]+>/g, '')
+    .replace(/\/Lotus\/Language\/[^\s|)}\]]+/g, '')
+    .replace(/\/Lotus\/[^\s|)}\]]+/g, function (m) { return m.split('/').pop(); })
+    // <LINE_SEPARATOR> markers (already lost angle brackets via stripTags) → newline
+    .replace(/<LINE_SEPARATOR>/g, '\n')
+    // Literal backslash-n sequences in source data → real newlines / spaces
+    .replace(/\\n\\n/g, '\n')
+    .replace(/:\\n\+/g, ': +')
+    .replace(/:\\n/g, ': ')
+    .replace(/\\n/g, ' ')
+    // Double spaces → single
+    .replace(/ {2,}/g, ' ')
+    .replace(/\n{3,}/g, '\n\n')
+    .replace(/\n\n(?!#|\|)/g, '\n')
+    // Strip trailing whitespace on every line
+    .replace(/[ \t]+$/gm, '');
+  fs.writeFileSync(full, clean);
   _fileCount++;
   console.log(`  -> docs/${relPath}`);
 }
 
+function stripTags(s) {
+  if (s == null) { return ''; }
+  return String(s).replace(/<[^>]+>/g, '').replace(/Image Description:[^\n]*/g, '');
+}
+
 function esc(s) {
   if (s == null) { return ''; }
-  return String(s).replace(/\|/g, '\\|').replace(/\n/g, ' ');
+  return stripTags(String(s)).replace(/\|/g, '\\|').replace(/\n/g, ' ').trim();
 }
 
 function pct(n) {
@@ -50,12 +75,181 @@ function pct(n) {
   return `${Number(n).toFixed(2)}%`;
 }
 
+const POLARITY_NAMES = {
+  AP_ATTACK: 'Madurai', AP_DEFENSE: 'Vazarin', AP_TACTIC: 'Naramon',
+  AP_POWER: 'Zenurik', AP_WARD: 'Unairu', AP_PRECEPT: 'Penjaga',
+  AP_UMBRA: 'Umbra', AP_ANY: 'Universal', AP_UNIVERSAL: 'Universal'
+};
+
+function friendlyPolarity(p) {
+  return POLARITY_NAMES[p] || p;
+}
+
 function heading(title, description) {
-  return `# ${title}\n\n${description}\n\n`;
+  return `# ${title}\n${description}\n\n`;
+}
+
+function normStat(s) {
+  return stripTags(s).replace(/\\n/g, ' ').replace(/\s+/g, ' ').trim();
+}
+
+// ---------------------------------------------------------------------------
+// Wiki enrichment: clean + lookup
+// ---------------------------------------------------------------------------
+var _LOC_RE = /^(?:de|es|fr|ru|uk|ja|ko|pt|pl|it|tc|th|tr|zh):.*$/;
+var _REMOVE_SECTIONS = new Set([
+  'Stats', 'Patch History', 'Gallery', 'Media',
+  'Maximization', 'Set Bonus',
+  'Appearance History', 'Appearance', 'History',
+  'See Also', 'See also', 'Bugs', 'References',
+  'Normal', 'Flawed' // orphan stat subsection headers from removed wiki tables
+]);
+var _DROP_HEADERS = new Set(['See Also', 'See also', 'Bugs']);
+// Wiki section labels to convert to bold inline labels.
+// Acquisition / Drop Locations are kept as narrative because the structured
+// drop tables (from items JSON / drops API) are incomplete for many mods
+// (e.g. Hall of Ascension rewards, vendor-only mods).
+var _LABEL_MAP = {
+  'Notes': '**Notes:**',
+  'Tips': '**Tips:**',
+  'Trivia': '**Trivia:**',
+  'Acquisition': '**Acquisition:**',
+  'Drop Locations': '**Wiki Drop Sources:**'
+};
+
+function cleanWiki(text, itemName) {
+  if (!text) { return ''; }
+
+  // Normalize: any line that is exactly a known section header should be
+  // its own block. Insert blank lines around such lines so block splitting
+  // can handle empty sections correctly (common after wiki tables stripped).
+  var _SECTION_NAMES = new Set([
+    'Stats', 'Acquisition', 'Drop Locations', 'Notes', 'Tips', 'Trivia',
+    'Patch History', 'Gallery', 'Media', 'Maximization', 'Set Bonus',
+    'Appearance History', 'Appearance', 'History', 'See Also', 'See also',
+    'Bugs', 'References', 'Normal', 'Flawed'
+  ]);
+  var _normLines = text.split('\n');
+  var _norm = [];
+  for (var n = 0; n < _normLines.length; n++) {
+    var ln = _normLines[n].trim();
+    if (_SECTION_NAMES.has(ln)) {
+      // Force a block break before the header so it starts a new block.
+      if (_norm.length && _norm[_norm.length - 1] !== '') { _norm.push(''); }
+      _norm.push(ln);
+      // Do NOT insert a blank line after — the next line is the section body
+      // and must stay attached for label/body grouping to work.
+    } else {
+      _norm.push(_normLines[n]);
+    }
+  }
+  text = _norm.join('\n');
+
+  // Split into paragraph blocks (sections separated by blank lines)
+  var blocks = text.split(/\n\n/);
+  var kept = [];
+
+  for (var i = 0; i < blocks.length; i++) {
+    var block = blocks[i].trim();
+    if (!block) { continue; }
+
+    // Check first line — skip entire block if it's a removable section
+    var first = block.split('\n')[0].trim();
+    if (_REMOVE_SECTIONS.has(first)) { continue; }
+    if (_DROP_HEADERS.has(first)) { continue; }
+
+    // Convert section labels to bold inline markers for AI readability.
+    // Skip the label entirely if the section has no body content.
+    if (_LABEL_MAP[first]) {
+      var body = block.slice(first.length).trim();
+      if (!body) { continue; }
+      block = _LABEL_MAP[first] + '\n' + body;
+    }
+
+    // Filter out localization lines within the block
+    var lines = block.split('\n');
+    var filtered = [];
+    for (var j = 0; j < lines.length; j++) {
+      if (!_LOC_RE.test(lines[j].trim())) { filtered.push(lines[j]); }
+    }
+    block = filtered.join('\n').trim();
+    if (!block) { continue; }
+    kept.push(block);
+  }
+
+  var clean = kept.join('\n');
+
+  // FIRST: Clean orphan possessives (must run before comma cleanup)
+  // Wikilink target stripped: "[[Trinity]]'s" → " 's"
+  clean = clean.replace(/ 's /g, ' ');
+  clean = clean.replace(/ 's\./g, '.');
+  clean = clean.replace(/ 's,/g, ',');
+  clean = clean.replace(/ 's$/gm, '');
+
+  // THEN: Clean orphan comma sequences from stripped wikilinks
+  // e.g. "the , , , , and ." → "the and ."
+  clean = clean.replace(/ (?:, ){2,}/g, ' ');
+  clean = clean.replace(/, ,/g, ',');
+  clean = clean.replace(/^, /gm, '');
+  clean = clean.replace(/ ,$/gm, '');
+  clean = clean.replace(/ , \./g, '.');
+  // Clean ", and" after orphan cleanup → "and"
+  clean = clean.replace(/ , and /g, ' and ');
+  clean = clean.replace(/ , or /g, ' or ');
+
+  // Lines that are essentially empty after cleanup (just commas, spaces, dots)
+  clean = clean.replace(/^[\s,.*]+$/gm, '');
+
+  // Leading whitespace on lines
+  clean = clean.replace(/^ +/gm, '');
+
+  // Prepend item name if text starts with "is a"/"is an" (stripped wikilink self-reference)
+  if (itemName && /^is an?\s/.test(clean)) {
+    clean = itemName + ' ' + clean;
+  }
+
+  // Collapse excess whitespace
+  clean = clean.replace(/\n{3,}/g, '\n\n');
+
+  return clean.trim();
+}
+
+var _wikiEnrich = null;
+function getWiki(name) {
+  if (!_wikiEnrich) {
+    _wikiEnrich = tryLoad('wiki-enrichment.json') || {};
+    console.log(`  Loaded wiki enrichment: ${Object.keys(_wikiEnrich).length} items`);
+  }
+  return cleanWiki(_wikiEnrich[name] || '', name);
 }
 
 function formatDrop(d) {
   return `${d.location} (${pct(d.chance)})`;
+}
+
+function compressDrops(drops) {
+  if (!drops || !drops.length) { return []; }
+  // Group relic refinement tiers into one entry
+  const relicMap = new Map();
+  var result = [];
+  for (const d of drops) {
+    if (d.chance === 0) { continue; } // skip 0% drops
+    var relicMatch = d.location.match(/^(.+ Relic)(?:\s+\((Exceptional|Flawless|Radiant)\))?$/);
+    if (relicMatch) {
+      var baseName = relicMatch[1];
+      if (!relicMap.has(baseName)) {
+        relicMap.set(baseName, { location: baseName, rarity: d.rarity, intact: null });
+      }
+      var tier = relicMatch[2] || 'Intact';
+      if (tier === 'Intact') { relicMap.get(baseName).intact = d.chance; }
+    } else {
+      result.push(d);
+    }
+  }
+  for (const [, info] of relicMap) {
+    result.push({ location: info.location, chance: info.intact || 0, rarity: info.rarity });
+  }
+  return result;
 }
 
 // ---------------------------------------------------------------------------
@@ -71,35 +265,44 @@ function transformWarframes() {
     'Each entry includes the Warframe\'s base stats at rank 0, a full ability breakdown, and where to obtain each crafting component.'
   );
 
+  var seenWf = new Set();
   for (const wf of items) {
-    md += `## ${wf.name}\n\n`;
-    if (wf.description) { md += `${wf.description}\n\n`; }
+    if (seenWf.has(wf.name)) { continue; }
+    seenWf.add(wf.name);
+    md += `## ${wf.name}\n`;
+    if (wf.description) { md += `${stripTags(wf.description)}\n`; }
+    var wikiWf = getWiki(wf.name);
+    if (wikiWf) { md += `\n### Wiki\n${wikiWf}\n`; }
 
-    // Stats table
-    md += '| Stat | Value |\n|---|---|\n';
-    if (wf.health != null) { md += `| Health | ${wf.health} |\n`; }
-    if (wf.shield != null) { md += `| Shield | ${wf.shield} |\n`; }
-    if (wf.armor != null) { md += `| Armor | ${wf.armor} |\n`; }
-    if (wf.power != null) { md += `| Energy | ${wf.power} |\n`; }
-    if (wf.sprint != null) { md += `| Sprint Speed | ${wf.sprint} |\n`; }
-    if (wf.aura) { md += `| Aura Polarity | ${wf.aura} |\n`; }
-    if (wf.masteryReq) { md += `| Mastery Req | ${wf.masteryReq} |\n`; }
+    // Stats (inline)
+    var wfStats = [];
+    if (wf.health != null) { wfStats.push(`Health: ${wf.health}`); }
+    if (wf.shield != null) { wfStats.push(`Shield: ${wf.shield}`); }
+    if (wf.armor != null) { wfStats.push(`Armor: ${wf.armor}`); }
+    if (wf.power != null) { wfStats.push(`Energy: ${wf.power}`); }
+    if (wf.sprint != null) { wfStats.push(`Sprint: ${wf.sprint}`); }
+    if (wfStats.length) { md += wfStats.join(' | ') + '\n'; }
+    var wfMeta = [];
+    if (wf.aura) { wfMeta.push(`Aura: ${wf.aura}`); }
+    if (wf.masteryReq) { wfMeta.push(`Mastery Req: ${wf.masteryReq}`); }
+    if (wfMeta.length) { md += wfMeta.join(' | ') + '\n'; }
     md += '\n';
 
     // Abilities
     if (wf.abilities && wf.abilities.length) {
-      md += '### Abilities\n\n';
+      md += '### Abilities\n';
       for (const ab of wf.abilities) {
-        md += `**${ab.name}:** ${ab.description || 'No description available.'}\n\n`;
+        md += `**${ab.name}:** ${stripTags(ab.description || 'No description available.')}\n`;
       }
+      md += '\n';
     }
 
     // Components / Crafting
     if (wf.components && wf.components.length) {
-      md += '### Crafting Components\n\n';
+      md += '### Crafting Components\n';
       md += '| Component | Count | Drops |\n|---|---|---|\n';
       for (const comp of wf.components) {
-        const drops = (comp.drops || [])
+        const drops = compressDrops(comp.drops)
           .map(formatDrop)
           .join('; ') || '—';
         md += `| ${esc(comp.name)} | ${comp.itemCount || 1} | ${esc(drops)} |\n`;
@@ -109,16 +312,22 @@ function transformWarframes() {
 
     // Patch history (concise)
     if (wf.patchlogs && wf.patchlogs.length) {
-      md += `### Patch History (${wf.patchlogs.length} entries)\n\n`;
-      for (const p of wf.patchlogs.slice(0, 5)) {
-        md += `- **${p.name}** (${p.date || ''}): ${esc((p.changes || p.additions || p.fixes || '').slice(0, 200))}\n`;
+      const usefulPatches = wf.patchlogs.filter(function (p) {
+        var body = (p.changes || p.additions || p.fixes || '').trim();
+        return body.length > 0 && body !== p.name && !body.endsWith(':');
+      });
+      if (usefulPatches.length) {
+        md += `### Patch History (${usefulPatches.length} entries)\n`;
+        for (const p of usefulPatches.slice(0, 3)) {
+          md += `- **${p.name}** (${p.date || ''}): ${esc((p.changes || p.additions || p.fixes || '').slice(0, 200))}\n`;
+        }
+        if (usefulPatches.length > 3) { md += `- ...and ${usefulPatches.length - 3} more patches\n`; }
+        md += '\n';
       }
-      if (wf.patchlogs.length > 5) { md += `- ...and ${wf.patchlogs.length - 5} more patches\n`; }
-      md += '\n';
     }
   }
 
-  writeMd('warframes.md', md);
+  writeMd('equipment/warframes.md', md);
 }
 
 // ---------------------------------------------------------------------------
@@ -139,41 +348,49 @@ function transformWeapons() {
 
     let md = heading(title, desc + ' Includes damage types, critical stats, status chance, and crafting info.');
 
+    var seenW = new Set();
     for (const w of items) {
-      md += `## ${w.name}\n\n`;
-      if (w.description) { md += `${w.description}\n\n`; }
+      if (seenW.has(w.name)) { continue; }
+      seenW.add(w.name);
+      md += `## ${w.name}\n`;
+      if (w.description) { md += `${stripTags(w.description)}\n`; }
+      var wikiW = getWiki(w.name);
+      if (wikiW) { md += `\n### Wiki\n${wikiW}\n`; }
 
       // General info
       const meta = [];
       if (w.type) { meta.push(`**Type:** ${w.type}`); }
       if (w.masteryReq) { meta.push(`**Mastery Req:** ${w.masteryReq}`); }
       if (w.disposition) { meta.push(`**Riven Disposition:** ${w.disposition}`); }
-      if (meta.length) { md += meta.join(' | ') + '\n\n'; }
+      if (meta.length) { md += meta.join(' | ') + '\n'; }
+      md += '\n';
 
       // Attacks
       if (w.attacks && w.attacks.length) {
         for (const atk of w.attacks) {
-          md += `### ${atk.name || 'Attack'}\n\n`;
+          md += `### ${atk.name || 'Attack'}\n`;
           if (atk.damage && typeof atk.damage === 'object') {
             const dmgParts = Object.entries(atk.damage)
               .filter(([, v]) => v > 0)
               .map(([k, v]) => `${k}: ${v}`);
-            if (dmgParts.length) { md += `**Damage:** ${dmgParts.join(', ')}\n\n`; }
+            if (dmgParts.length) { md += `**Damage:** ${dmgParts.join(', ')}\n`; }
           }
           const stats = [];
-          if (atk.crit_chance != null) { stats.push(`Crit Chance: ${pct(atk.crit_chance * 100)}`); }
+          if (atk.crit_chance != null) { stats.push(`Crit Chance: ${pct(atk.crit_chance)}`); }
           if (atk.crit_mult != null) { stats.push(`Crit Multiplier: ${atk.crit_mult}x`); }
-          if (atk.status_chance != null) { stats.push(`Status Chance: ${pct(atk.status_chance * 100)}`); }
+          if (atk.status_chance != null) { stats.push(`Status Chance: ${pct(atk.status_chance)}`); }
           if (atk.speed != null) { stats.push(`Fire Rate: ${atk.speed}`); }
-          if (stats.length) { md += stats.join(' | ') + '\n\n'; }
+          if (stats.length) { md += stats.join(' | ') + '\n'; }
+          md += '\n';
         }
       }
 
       // Components
       if (w.components && w.components.length) {
-        md += '### Crafting\n\n| Component | Count | Drops |\n|---|---|---|\n';
+        md += '### Crafting\n';
+        md += '| Component | Count | Drops |\n|---|---|---|\n';
         for (const c of w.components) {
-          const drops = (c.drops || []).map(formatDrop).join('; ') || '—';
+          const drops = compressDrops(c.drops).map(formatDrop).join('; ') || '—';
           md += `| ${esc(c.name)} | ${c.itemCount || 1} | ${esc(drops)} |\n`;
         }
         md += '\n';
@@ -198,9 +415,14 @@ function transformMods() {
     'all rank-up stat progression, drop locations, and whether it is an augment or prime variant.'
   );
 
+  var seenM = new Set();
   for (const m of items) {
-    md += `## ${m.name}\n\n`;
-    if (m.description) { md += `${m.description}\n\n`; }
+    if (seenM.has(m.name)) { continue; }
+    seenM.add(m.name);
+    md += `## ${m.name}\n`;
+    if (m.description) { md += `${stripTags(m.description)}\n`; }
+    var wikiM = getWiki(m.name);
+    if (wikiM) { md += `\n### Wiki\n${wikiM}\n`; }
 
     const meta = [];
     if (m.rarity) { meta.push(`**Rarity:** ${m.rarity}`); }
@@ -210,13 +432,14 @@ function transformMods() {
     if (m.isAugment) { meta.push('**Augment**'); }
     if (m.isPrime) { meta.push('**Prime**'); }
     if (m.fusionLimit != null) { meta.push(`**Max Rank:** ${m.fusionLimit}`); }
-    if (meta.length) { md += meta.join(' | ') + '\n\n'; }
+    if (meta.length) { md += meta.join(' | ') + '\n'; }
+    md += '\n';
 
     // Level stats
     if (m.levelStats && m.levelStats.length) {
-      md += '### Stats by Rank\n\n';
+      md += '### Stats by Rank\n';
       for (let i = 0; i < m.levelStats.length; i++) {
-        const stats = (m.levelStats[i].stats || []).join(', ');
+        const stats = (m.levelStats[i].stats || []).map(normStat).filter(Boolean).join(', ');
         if (stats) { md += `- **Rank ${i}:** ${stats}\n`; }
       }
       md += '\n';
@@ -224,7 +447,7 @@ function transformMods() {
 
     // Drops
     if (m.drops && m.drops.length) {
-      md += '### Drop Locations\n\n';
+      md += '### Drop Locations\n';
       for (const d of m.drops) {
         md += `- ${d.location} — ${d.rarity || ''} (${pct(d.chance)})\n`;
       }
@@ -232,7 +455,7 @@ function transformMods() {
     }
   }
 
-  writeMd('mods.md', md);
+  writeMd('mods/mods.md', md);
 }
 
 // ---------------------------------------------------------------------------
@@ -247,21 +470,27 @@ function transformArcanes() {
     'All Arcane enhancements in Warframe. Includes trigger conditions, stat progression per rank, and drop sources.'
   );
 
+  var seenA = new Set();
   for (const a of items) {
-    md += `## ${a.name}\n\n`;
-    if (a.description) { md += `${a.description}\n\n`; }
+    if (seenA.has(a.name)) { continue; }
+    seenA.add(a.name);
+    md += `## ${a.name}\n`;
+    if (a.description) { md += `${stripTags(a.description)}\n`; }
+    var wikiA = getWiki(a.name);
+    if (wikiA) { md += `\n### Wiki\n${wikiA}\n`; }
+    md += '\n';
 
     if (a.levelStats && a.levelStats.length) {
-      md += '### Stats by Rank\n\n';
+      md += '### Stats by Rank\n';
       for (let i = 0; i < a.levelStats.length; i++) {
-        const stats = (a.levelStats[i].stats || []).join(', ');
+        const stats = (a.levelStats[i].stats || []).map(normStat).filter(Boolean).join(', ');
         if (stats) { md += `- **Rank ${i}:** ${stats}\n`; }
       }
       md += '\n';
     }
 
     if (a.drops && a.drops.length) {
-      md += '### Drop Sources\n\n';
+      md += '### Drop Sources\n';
       for (const d of a.drops) {
         md += `- ${d.location} — ${d.type || ''} (${pct(d.chance)})\n`;
       }
@@ -269,7 +498,7 @@ function transformArcanes() {
     }
   }
 
-  writeMd('arcanes.md', md);
+  writeMd('mods/arcanes.md', md);
 }
 
 // ---------------------------------------------------------------------------
@@ -285,19 +514,26 @@ function transformCompanions() {
     'Includes base stats, crafting requirements, and descriptions.'
   );
 
+  var seenC = new Set();
   for (const c of [...pets, ...sents]) {
-    md += `## ${c.name}\n\n`;
-    if (c.description) { md += `${c.description}\n\n`; }
+    if (seenC.has(c.name)) { continue; }
+    seenC.add(c.name);
+    md += `## ${c.name}\n`;
+    if (c.description) { md += `${stripTags(c.description)}\n`; }
+    var wikiC = getWiki(c.name);
+    if (wikiC) { md += `\n### Wiki\n${wikiC}\n`; }
 
-    md += '| Stat | Value |\n|---|---|\n';
-    if (c.health != null) { md += `| Health | ${c.health} |\n`; }
-    if (c.shield != null) { md += `| Shield | ${c.shield} |\n`; }
-    if (c.armor != null) { md += `| Armor | ${c.armor} |\n`; }
-    if (c.power != null) { md += `| Energy | ${c.power} |\n`; }
+    var cStats = [];
+    if (c.health != null) { cStats.push(`Health: ${c.health}`); }
+    if (c.shield != null) { cStats.push(`Shield: ${c.shield}`); }
+    if (c.armor != null) { cStats.push(`Armor: ${c.armor}`); }
+    if (c.power != null) { cStats.push(`Energy: ${c.power}`); }
+    if (cStats.length) { md += cStats.join(' | ') + '\n'; }
     md += '\n';
 
     if (c.components && c.components.length) {
-      md += '### Crafting\n\n| Component | Count |\n|---|---|\n';
+      md += '### Crafting\n';
+      md += '| Component | Count |\n|---|---|\n';
       for (const comp of c.components) {
         md += `| ${esc(comp.name)} | ${comp.itemCount || 1} |\n`;
       }
@@ -305,7 +541,7 @@ function transformCompanions() {
     }
   }
 
-  writeMd('companions.md', md);
+  writeMd('equipment/companions.md', md);
 }
 
 // ---------------------------------------------------------------------------
@@ -317,26 +553,33 @@ function transformArchwings() {
 
   let md = heading('Archwings', 'All Archwing flight suits with stats, abilities, and crafting data.');
 
+  var seenAw = new Set();
   for (const a of items) {
-    md += `## ${a.name}\n\n`;
-    if (a.description) { md += `${a.description}\n\n`; }
+    if (seenAw.has(a.name)) { continue; }
+    seenAw.add(a.name);
+    md += `## ${a.name}\n`;
+    if (a.description) { md += `${stripTags(a.description)}\n`; }
+    var wikiAw = getWiki(a.name);
+    if (wikiAw) { md += `\n### Wiki\n${wikiAw}\n`; }
 
-    md += '| Stat | Value |\n|---|---|\n';
-    if (a.health != null) { md += `| Health | ${a.health} |\n`; }
-    if (a.shield != null) { md += `| Shield | ${a.shield} |\n`; }
-    if (a.armor != null) { md += `| Armor | ${a.armor} |\n`; }
-    if (a.power != null) { md += `| Energy | ${a.power} |\n`; }
+    var aStats = [];
+    if (a.health != null) { aStats.push(`Health: ${a.health}`); }
+    if (a.shield != null) { aStats.push(`Shield: ${a.shield}`); }
+    if (a.armor != null) { aStats.push(`Armor: ${a.armor}`); }
+    if (a.power != null) { aStats.push(`Energy: ${a.power}`); }
+    if (aStats.length) { md += aStats.join(' | ') + '\n'; }
     md += '\n';
 
     if (a.abilities && a.abilities.length) {
-      md += '### Abilities\n\n';
+      md += '### Abilities\n';
       for (const ab of a.abilities) {
-        md += `**${ab.name}:** ${ab.description || ''}\n\n`;
+        md += `**${ab.name}:** ${stripTags(ab.description || '')}\n`;
       }
+      md += '\n';
     }
   }
 
-  writeMd('archwings.md', md);
+  writeMd('equipment/archwings.md', md);
 }
 
 // ---------------------------------------------------------------------------
@@ -348,13 +591,17 @@ function transformRailjack() {
 
   let md = heading('Railjack Components', 'All Railjack ship components, armaments, and avionics.');
 
+  var seenRj = new Set();
   for (const r of items) {
-    md += `## ${r.name}\n\n`;
-    if (r.description) { md += `${r.description}\n\n`; }
-    if (r.type) { md += `**Type:** ${r.type}\n\n`; }
+    if (seenRj.has(r.name)) { continue; }
+    seenRj.add(r.name);
+    md += `## ${r.name}\n`;
+    if (r.description) { md += `${stripTags(r.description)}\n`; }
+    if (r.type) { md += `**Type:** ${r.type}\n`; }
+    md += '\n';
   }
 
-  writeMd('railjack.md', md);
+  writeMd('equipment/railjack.md', md);
 }
 
 // ---------------------------------------------------------------------------
@@ -380,9 +627,9 @@ function transformRelics() {
     }
 
     for (const [name, states] of Object.entries(grouped)) {
-      md += `## ${name}\n\n`;
+      md += `## ${name}\n`;
       for (const [state, rewards] of Object.entries(states)) {
-        md += `### ${state}\n\n`;
+        md += `### ${state}\n`;
         md += '| Reward | Rarity | Chance |\n|---|---|---|\n';
         for (const rw of rewards) {
           md += `| ${esc(rw.itemName)} | ${rw.rarity} | ${pct(rw.chance)} |\n`;
@@ -394,13 +641,13 @@ function transformRelics() {
 
   // Append item-level relic descriptions
   if (itemRelics && itemRelics.length) {
-    md += '---\n\n## Relic Descriptions\n\n';
+    md += '## Relic Descriptions\n';
     for (const r of itemRelics) {
-      if (r.description) { md += `**${r.name}:** ${r.description}\n\n`; }
+      if (r.description) { md += `**${r.name}:** ${stripTags(r.description)}\n`; }
     }
   }
 
-  writeMd('relics.md', md);
+  writeMd('drops/relics.md', md);
 }
 
 // ---------------------------------------------------------------------------
@@ -417,9 +664,9 @@ function transformMissionRewards() {
   );
 
   for (const [planet, nodes] of Object.entries(data)) {
-    md += `## ${planet}\n\n`;
+    md += `## ${planet}\n`;
     for (const [node, info] of Object.entries(nodes)) {
-      md += `### ${node} — ${info.gameMode || 'Unknown'}${info.isEvent ? ' (Event)' : ''}\n\n`;
+      md += `### ${node} — ${info.gameMode || 'Unknown'}${info.isEvent ? ' (Event)' : ''}\n`;
       if (info.rewards) {
         // Check if rewards uses rotation letters (A/B/C) or numeric keys (flat list)
         const entries = Object.entries(info.rewards);
@@ -427,13 +674,12 @@ function transformMissionRewards() {
 
         if (hasRotations) {
           for (const [rot, rewards] of entries) {
-            if (!Array.isArray(rewards)) { continue; }
-            md += `**Rotation ${rot}:**\n\n`;
+            if (!Array.isArray(rewards) || !rewards.length) { continue; }
+            md += `**Rotation ${rot}:**\n`;
             md += '| Item | Rarity | Chance |\n|---|---|---|\n';
             for (const rw of rewards) {
               md += `| ${esc(rw.itemName)} | ${rw.rarity} | ${pct(rw.chance)} |\n`;
             }
-            md += '\n';
           }
         } else {
           // Flat reward list (numeric keys or single-item objects)
@@ -443,13 +689,13 @@ function transformMissionRewards() {
               md += `| ${esc(rw.itemName)} | ${rw.rarity} | ${pct(rw.chance)} |\n`;
             }
           }
-          md += '\n';
         }
       }
+      md += '\n';
     }
   }
 
-  writeMd('mission-rewards.md', md);
+  writeMd('drops/mission-rewards.md', md);
 }
 
 // ---------------------------------------------------------------------------
@@ -474,7 +720,7 @@ function transformBountyRewards() {
     const arr = Array.isArray(data) ? data : Object.values(data);
     for (const entry of arr) {
       const label = entry.bountyLevel || entry.objectiveName || entry.name || 'Bounty';
-      md += `## ${esc(label)}\n\n`;
+      md += `## ${esc(label)}\n`;
 
       const rewards = entry.rewards;
       if (Array.isArray(rewards)) {
@@ -486,11 +732,10 @@ function transformBountyRewards() {
       } else if (rewards && typeof rewards === 'object') {
         for (const [rot, rws] of Object.entries(rewards)) {
           if (!Array.isArray(rws)) { continue; }
-          md += `**Rotation ${rot}:**\n\n| Item | Rarity | Chance |\n|---|---|---|\n`;
+          md += `**Rotation ${rot}:**\n| Item | Rarity | Chance |\n|---|---|---|\n`;
           for (const rw of rws) {
             md += `| ${esc(rw.itemName)} | ${rw.rarity || '—'} | ${pct(rw.chance)} |\n`;
           }
-          md += '\n';
         }
       }
     }
@@ -515,13 +760,14 @@ function transformSpecialRewards() {
       grouped[key].push(...(entry.rewards || []));
     }
     for (const [obj, rewards] of Object.entries(grouped)) {
-      md += `## ${obj}\n\n| Item | Rarity | Chance | Rotation |\n|---|---|---|---|\n`;
+      md += `## ${obj}\n`;
+      md += '| Item | Rarity | Chance | Rotation |\n|---|---|---|---|\n';
       for (const rw of rewards) {
         md += `| ${esc(rw.itemName)} | ${rw.rarity} | ${pct(rw.chance)} | ${rw.rotation || '—'} |\n`;
       }
       md += '\n';
     }
-    writeMd('sortie-rewards.md', md);
+    writeMd('drops/sortie-rewards.md', md);
   }
 
   // Transient
@@ -532,14 +778,14 @@ function transformSpecialRewards() {
       'Special mission reward tables including Derelict Vault mods, Arbitrations, and other transient objectives.'
     );
     for (const entry of trans) {
-      md += `## ${entry.objectiveName || 'Unknown'}\n\n`;
+      md += `## ${entry.objectiveName || 'Unknown'}\n`;
       md += '| Item | Rarity | Chance | Rotation |\n|---|---|---|---|\n';
       for (const rw of (entry.rewards || [])) {
         md += `| ${esc(rw.itemName)} | ${rw.rarity} | ${pct(rw.chance)} | ${rw.rotation || '—'} |\n`;
       }
       md += '\n';
     }
-    writeMd('transient-rewards.md', md);
+    writeMd('drops/transient-rewards.md', md);
   }
 }
 
@@ -554,7 +800,7 @@ function transformModLocations() {
       'Every mod in the game and which enemies drop it, with exact drop chance percentages.'
     );
     for (const entry of modLoc) {
-      md += `## ${entry.modName || 'Unknown'}\n\n`;
+      md += `## ${entry.modName || 'Unknown'}\n`;
       if (entry.enemies && entry.enemies.length) {
         md += '| Enemy | Enemy Drop Chance | Rarity | Chance |\n|---|---|---|---|\n';
         for (const e of entry.enemies) {
@@ -563,7 +809,7 @@ function transformModLocations() {
       }
       md += '\n';
     }
-    writeMd('mod-locations.md', md);
+    writeMd('drops/mod-locations.md', md);
   }
 
   const enemyMod = tryLoad('enemyModTables.json');
@@ -572,9 +818,13 @@ function transformModLocations() {
       'Enemy Mod Drop Tables',
       'Every enemy and which mods they drop, organized by enemy name with base mod drop chances.'
     );
+    var seenEnemyMod = new Set();
     for (const entry of enemyMod) {
-      md += `## ${entry.enemyName || 'Unknown'}\n\n`;
-      md += `**Base Mod Drop Chance:** ${pct(entry.enemyModDropChance)}\n\n`;
+      var emName = entry.enemyName || 'Unknown';
+      if (seenEnemyMod.has(emName)) { continue; }
+      seenEnemyMod.add(emName);
+      md += `## ${emName}\n`;
+      md += `**Base Mod Drop Chance:** ${pct(entry.enemyModDropChance)}\n`;
       if (entry.mods && entry.mods.length) {
         md += '| Mod | Rarity | Chance |\n|---|---|---|\n';
         for (const m of entry.mods) {
@@ -583,7 +833,7 @@ function transformModLocations() {
       }
       md += '\n';
     }
-    writeMd('enemy-mod-tables.md', md);
+    writeMd('drops/enemy-mod-tables.md', md);
   }
 }
 
@@ -600,7 +850,7 @@ function transformBlueprintLocations() {
   );
 
   for (const entry of bp) {
-    md += `## ${entry.itemName || entry.blueprintName || 'Unknown'}\n\n`;
+    md += `## ${entry.itemName || entry.blueprintName || 'Unknown'}\n`;
     if (entry.enemies && entry.enemies.length) {
       md += '| Enemy | Blueprint Drop % | Item Drop % | Rarity | Chance |\n|---|---|---|---|---|\n';
       for (const e of entry.enemies) {
@@ -610,7 +860,7 @@ function transformBlueprintLocations() {
     md += '\n';
   }
 
-  writeMd('blueprint-locations.md', md);
+  writeMd('drops/blueprint-locations.md', md);
 
   // Enemy blueprint tables
   const enemyBp = tryLoad('enemyBlueprintTables.json');
@@ -619,8 +869,12 @@ function transformBlueprintLocations() {
       'Enemy Blueprint Drop Tables',
       'Every enemy and which blueprints they can drop, organized by enemy.'
     );
+    var seenEnemyBp = new Set();
     for (const entry of enemyBp) {
-      md2 += `## ${entry.enemyName || 'Unknown'}\n\n`;
+      var ebName = entry.enemyName || 'Unknown';
+      if (seenEnemyBp.has(ebName)) { continue; }
+      seenEnemyBp.add(ebName);
+      md2 += `## ${ebName}\n`;
       const allItems = [...(entry.items || []), ...(entry.mods || [])];
       if (allItems.length) {
         md2 += '| Item | Rarity | Chance |\n|---|---|---|\n';
@@ -630,7 +884,7 @@ function transformBlueprintLocations() {
       }
       md2 += '\n';
     }
-    writeMd('enemy-blueprint-tables.md', md2);
+    writeMd('drops/enemy-blueprint-tables.md', md2);
   }
 }
 
@@ -644,8 +898,12 @@ function transformKeyRewards() {
   let md = heading('Key Rewards', 'Reward tables for Derelict and other key-locked missions.');
 
   const arr = Array.isArray(data) ? data : [data];
+  var seenKey = new Set();
   for (const entry of arr) {
-    md += `## ${entry.keyName || entry.objectiveName || 'Key Mission'}\n\n`;
+    var keyName = entry.keyName || entry.objectiveName || 'Key Mission';
+    if (seenKey.has(keyName)) { continue; }
+    seenKey.add(keyName);
+    md += `## ${keyName}\n`;
     const rewards = entry.rewards;
     if (Array.isArray(rewards)) {
       md += '| Item | Rarity | Chance |\n|---|---|---|\n';
@@ -655,17 +913,16 @@ function transformKeyRewards() {
     } else if (rewards && typeof rewards === 'object') {
       for (const [rot, rws] of Object.entries(rewards)) {
         if (!Array.isArray(rws)) { continue; }
-        md += `**Rotation ${rot}:**\n\n| Item | Rarity | Chance |\n|---|---|---|\n`;
+        md += `**Rotation ${rot}:**\n| Item | Rarity | Chance |\n|---|---|---|\n`;
         for (const rw of rws) {
           md += `| ${esc(rw.itemName)} | ${rw.rarity} | ${pct(rw.chance)} |\n`;
         }
-        md += '\n';
       }
     }
     md += '\n';
   }
 
-  writeMd('key-rewards.md', md);
+  writeMd('drops/key-rewards.md', md);
 }
 
 // ---------------------------------------------------------------------------
@@ -679,33 +936,54 @@ function transformMiscItems() {
     ['items-Quests.json', 'Quests', 'All quests available in Warframe with descriptions.'],
   ];
 
+  // Merge resource-like items from items-Misc.json into Resources category
+  // Common resources (Argon Crystal, Neurodes, Ferrite, etc.) are type=Resource or type=Misc in Misc
+  var miscExclude = new Set(['Nightwave Challenge', 'Captura', 'Equipment Adapter', 'Ship Segment',
+    'Conservation Tag', 'Fish Part', 'Exalted Weapon', 'Kitgun Component', 'Amp', 'Focus Lens',
+    'K-Drive Component', 'Simulacrum', 'Pistol', 'Extractor', 'Orbiter', 'Key', 'Conservation Prey',
+    'Boosters', 'Skin', 'Fish Bait', 'Pet Collar', 'Rifle', 'Medallion',
+    'Melee Riven Mod', 'Zaw Riven Mod', 'Kitgun Riven Mod', 'Pistol Riven Mod',
+    'Rifle Riven Mod', 'Shotgun Riven Mod']);
+  var miscResources = (tryLoad('items-Misc.json') || []).filter(function (i) {
+    return !miscExclude.has(i.type);
+  });
+
   for (const [file, title, desc] of cats) {
-    const items = tryLoad(file);
-    if (!items || !items.length) { continue; }
+    var items = tryLoad(file);
+    if (!items) { items = []; }
+    if (file === 'items-Resources.json') { items = items.concat(miscResources); }
+    if (!items.length) { continue; }
 
     let md = heading(title, desc);
 
+    var seenMisc = new Set();
     for (const item of items) {
-      md += `## ${item.name}\n\n`;
-      if (item.description) { md += `${item.description}\n\n`; }
+      if (seenMisc.has(item.name)) { continue; }
+      seenMisc.add(item.name);
+      md += `## ${item.name}\n`;
+      if (item.description) { md += `${stripTags(item.description)}\n`; }
+      var wikiItem = getWiki(item.name);
+      if (wikiItem) { md += `\n### Wiki\n${wikiItem}\n`; }
 
       const meta = [];
       if (item.type) { meta.push(`**Type:** ${item.type}`); }
       if (item.tradable) { meta.push('**Tradable**'); }
-      if (meta.length) { md += meta.join(' | ') + '\n\n'; }
+      if (meta.length) { md += meta.join(' | ') + '\n'; }
+      md += '\n';
 
       if (item.drops && item.drops.length) {
-        md += '### Drop Sources\n\n';
-        for (const d of item.drops.slice(0, 20)) {
+        const compressed = compressDrops(item.drops);
+        md += '### Drop Sources\n';
+        for (const d of compressed.slice(0, 20)) {
           md += `- ${d.location} — ${d.rarity || ''} (${pct(d.chance)})\n`;
         }
-        if (item.drops.length > 20) { md += `- ...and ${item.drops.length - 20} more sources\n`; }
+        if (compressed.length > 20) { md += `- ...and ${compressed.length - 20} more sources\n`; }
         md += '\n';
       }
     }
 
     const safe = title.toLowerCase().replace(/[^a-z0-9]+/g, '-');
-    writeMd(`${safe}.md`, md);
+    writeMd(`items/${safe}.md`, md);
   }
 }
 
@@ -722,16 +1000,18 @@ function transformPatchlogs() {
     'Each entry includes additions, changes, and bug fixes.'
   );
 
-  for (const p of logs) {
-    md += `## ${p.name || 'Untitled'}\n\n`;
-    md += `**Date:** ${p.date || 'Unknown'} | **Type:** ${p.type || 'Update'}`;
-    if (p.url) { md += ` | [Forum Link](${p.url})`; }
-    md += '\n\n';
+  function collapseNewlines(s) {
+    return s.trim().replace(/\n{3,}/g, '\n\n');
+  }
 
-    if (p.description) { md += `${p.description}\n\n`; }
-    if (p.additions) { md += `### Additions\n\n${p.additions}\n\n`; }
-    if (p.changes) { md += `### Changes\n\n${p.changes}\n\n`; }
-    if (p.fixes) { md += `### Fixes\n\n${p.fixes}\n\n`; }
+  for (const p of logs) {
+    md += `## ${p.name || 'Untitled'}\n`;
+    md += `**Date:** ${p.date || 'Unknown'} | **Type:** ${p.type || 'Update'}\n`;
+
+    if (p.description) { md += `${collapseNewlines(stripTags(p.description))}\n`; }
+    if (p.additions) { md += `### Additions\n${collapseNewlines(p.additions)}\n\n`; }
+    if (p.changes) { md += `### Changes\n${collapseNewlines(p.changes)}\n\n`; }
+    if (p.fixes) { md += `### Fixes\n${collapseNewlines(p.fixes)}\n\n`; }
   }
 
   writeMd('patch-notes.md', md);
@@ -751,7 +1031,7 @@ function transformRivenTags() {
   );
 
   for (const [category, entries] of Object.entries(tags)) {
-    md += `## ${category}\n\n`;
+    md += `## ${category}\n`;
     md += '| Tag | Prefix | Suffix | Weight |\n|---|---|---|---|\n';
     for (const e of entries) {
       md += `| ${esc(e.tag)} | ${esc(e.prefix)} | ${esc(e.suffix)} | ${e.value} |\n`;
@@ -759,7 +1039,7 @@ function transformRivenTags() {
     md += '\n';
   }
 
-  writeMd('riven-tags.md', md);
+  writeMd('mods/riven-tags.md', md);
 }
 
 // ---------------------------------------------------------------------------
@@ -780,17 +1060,18 @@ function transformSyndicates() {
   if (wsdSyndicates && typeof wsdSyndicates === 'object') {
     for (const [key, val] of Object.entries(wsdSyndicates)) {
       const name = (typeof val === 'object' && val.name) ? val.name : key;
-      md += `## ${name}\n\n`;
+      md += `## ${name}\n`;
       if (typeof val === 'object') {
         for (const [k, v] of Object.entries(val)) {
           if (k === 'name') { continue; }
-          md += `**${k}:** ${typeof v === 'object' ? JSON.stringify(v) : v}\n\n`;
+          md += `**${k}:** ${typeof v === 'object' ? JSON.stringify(v) : v}\n`;
         }
       }
+      md += '\n';
     }
   } else if (typeof data === 'object') {
     for (const [key, val] of Object.entries(data)) {
-      md += `## ${key}\n\n`;
+      md += `## ${key}\n`;
       if (Array.isArray(val) && val.length) {
         for (const item of val) {
           md += `- ${typeof item === 'string' ? item : JSON.stringify(item)}\n`;
@@ -802,7 +1083,7 @@ function transformSyndicates() {
     }
   }
 
-  writeMd('syndicates.md', md);
+  writeMd('items/syndicates.md', md);
 }
 
 // ---------------------------------------------------------------------------
@@ -814,7 +1095,7 @@ function transformPublicExport() {
 
   function resolve(key) {
     if (!key) { return ''; }
-    return dict[key] || key.split('/').pop() || key;
+    return stripTags(dict[key] || key.split('/').pop() || key);
   }
 
   // Warframes
@@ -826,28 +1107,31 @@ function transformPublicExport() {
       'Includes precise stat numbers, ability energy costs, mastery requirements, and variant info.'
     );
 
+    var seenPE = new Set();
     for (const [, wf] of Object.entries(wfs)) {
       const name = resolve(wf.name);
-      md += `## ${name}\n\n`;
+      if (!name || seenPE.has(name)) { continue; }
+      seenPE.add(name);
+      md += `## ${name}\n`;
       const desc = resolve(wf.description);
-      if (desc && desc !== name) { md += `${desc}\n\n`; }
+      if (desc && desc !== name) { md += `${desc}\n`; }
 
-      md += '| Stat | Value |\n|---|---|\n';
-      if (wf.health != null) { md += `| Health | ${wf.health} |\n`; }
-      if (wf.shield != null) { md += `| Shield | ${wf.shield} |\n`; }
-      if (wf.armor != null) { md += `| Armor | ${wf.armor} |\n`; }
-      if (wf.power != null) { md += `| Energy | ${wf.power} |\n`; }
-      if (wf.stamina != null) { md += `| Stamina | ${wf.stamina} |\n`; }
-      if (wf.masteryReq != null) { md += `| Mastery Req | ${wf.masteryReq} |\n`; }
+      var peStats = [];
+      if (wf.health != null) { peStats.push(`Health: ${wf.health}`); }
+      if (wf.shield != null) { peStats.push(`Shield: ${wf.shield}`); }
+      if (wf.armor != null) { peStats.push(`Armor: ${wf.armor}`); }
+      if (wf.power != null) { peStats.push(`Energy: ${wf.power}`); }
+      if (wf.masteryReq != null) { peStats.push(`Mastery Req: ${wf.masteryReq}`); }
+      if (peStats.length) { md += peStats.join(' | ') + '\n'; }
       md += '\n';
 
       if (wf.abilities && wf.abilities.length) {
-        md += '### Abilities\n\n';
+        md += '### Abilities\n';
         for (const ab of wf.abilities) {
           md += `**${resolve(ab.name)}:** ${resolve(ab.description)}\n`;
-          if (ab.energyRequiredToActivate) { md += `  Energy Cost: ${ab.energyRequiredToActivate}\n`; }
-          md += '\n';
+          if (ab.energyRequiredToActivate) { md += `Energy Cost: ${ab.energyRequiredToActivate}\n`; }
         }
+        md += '\n';
       }
     }
     writeMd('public-export/warframes-detailed.md', md);
@@ -868,24 +1152,29 @@ function transformPublicExport() {
       'Tau','CinematicDmg','ShieldDrain','HealthDrain','EnergyDrain','True'
     ];
 
+    var seenPEW = new Set();
     for (const [, w] of Object.entries(wpns)) {
       const name = resolve(w.name);
-      md += `## ${name}\n\n`;
+      if (!name || seenPEW.has(name)) { continue; }
+      seenPEW.add(name);
+      md += `## ${name}\n`;
       const desc = resolve(w.description);
-      if (desc && desc !== name) { md += `${desc}\n\n`; }
+      if (desc && desc !== name) { md += `${desc}\n`; }
 
-      md += '| Stat | Value |\n|---|---|\n';
-      if (w.totalDamage != null) { md += `| Total Damage | ${w.totalDamage} |\n`; }
-      if (w.criticalChance != null) { md += `| Crit Chance | ${pct(w.criticalChance * 100)} |\n`; }
-      if (w.criticalMultiplier != null) { md += `| Crit Multiplier | ${w.criticalMultiplier}x |\n`; }
-      if (w.procChance != null) { md += `| Status Chance | ${pct(w.procChance * 100)} |\n`; }
-      if (w.fireRate != null) { md += `| Fire Rate | ${w.fireRate} |\n`; }
-      if (w.accuracy != null) { md += `| Accuracy | ${w.accuracy} |\n`; }
-      if (w.magazineSize != null) { md += `| Magazine | ${w.magazineSize} |\n`; }
-      if (w.reloadTime != null) { md += `| Reload | ${w.reloadTime}s |\n`; }
-      if (w.multishot != null) { md += `| Multishot | ${w.multishot} |\n`; }
-      if (w.masteryReq != null) { md += `| Mastery Req | ${w.masteryReq} |\n`; }
-      md += '\n';
+      var wpnStats = [];
+      if (w.totalDamage != null) { wpnStats.push(`Total Damage: ${w.totalDamage}`); }
+      if (w.criticalChance != null) { wpnStats.push(`Crit Chance: ${pct(w.criticalChance * 100)}`); }
+      if (w.criticalMultiplier != null) { wpnStats.push(`Crit Mult: ${w.criticalMultiplier}x`); }
+      if (w.procChance != null) { wpnStats.push(`Status: ${pct(w.procChance * 100)}`); }
+      if (w.fireRate != null) { wpnStats.push(`Fire Rate: ${w.fireRate}`); }
+      if (wpnStats.length) { md += wpnStats.join(' | ') + '\n'; }
+      var wpnMeta = [];
+      if (w.accuracy != null) { wpnMeta.push(`Accuracy: ${w.accuracy}`); }
+      if (w.magazineSize != null) { wpnMeta.push(`Magazine: ${w.magazineSize}`); }
+      if (w.reloadTime != null) { wpnMeta.push(`Reload: ${w.reloadTime}s`); }
+      if (w.multishot != null) { wpnMeta.push(`Multishot: ${w.multishot}`); }
+      if (w.masteryReq != null) { wpnMeta.push(`MR: ${w.masteryReq}`); }
+      if (wpnMeta.length) { md += wpnMeta.join(' | ') + '\n'; }
 
       // Damage breakdown
       if (w.damagePerShot && Array.isArray(w.damagePerShot)) {
@@ -893,9 +1182,10 @@ function transformPublicExport() {
           .map((v, i) => [dmgTypes[i] || `Type${i}`, v])
           .filter(([, v]) => v > 0);
         if (dmg.length) {
-          md += '**Damage Breakdown:** ' + dmg.map(([t, v]) => `${t}: ${v.toFixed(1)}`).join(', ') + '\n\n';
+          md += '**Damage Breakdown:** ' + dmg.map(([t, v]) => `${t}: ${v.toFixed(1)}`).join(', ') + '\n';
         }
       }
+      md += '\n';
     }
     writeMd('public-export/weapons-detailed.md', md);
   }
@@ -908,19 +1198,24 @@ function transformPublicExport() {
       'Official mod data including polarity, rarity, drain, fusion limits, and compatibility tags.'
     );
 
+    var seenPEM = new Set();
     for (const [, m] of Object.entries(mods)) {
-      md += `## ${resolve(m.name)}\n\n`;
+      var modName = resolve(m.name);
+      if (!modName || seenPEM.has(modName)) { continue; }
+      seenPEM.add(modName);
+      md += `## ${modName}\n`;
       const desc = resolve(m.description);
-      if (desc) { md += `${desc}\n\n`; }
+      if (desc) { md += `${desc}\n`; }
 
       const meta = [];
       if (m.rarity) { meta.push(`**Rarity:** ${m.rarity}`); }
-      if (m.polarity) { meta.push(`**Polarity:** ${m.polarity}`); }
+      if (m.polarity) { meta.push(`**Polarity:** ${friendlyPolarity(m.polarity)}`); }
       if (m.baseDrain != null) { meta.push(`**Drain:** ${m.baseDrain}`); }
       if (m.fusionLimit != null) { meta.push(`**Max Rank:** ${m.fusionLimit}`); }
       if (m.type) { meta.push(`**Type:** ${m.type}`); }
       if (m.compatName) { meta.push(`**Compat:** ${resolve(m.compatName)}`); }
-      if (meta.length) { md += meta.join(' | ') + '\n\n'; }
+      if (meta.length) { md += meta.join(' | ') + '\n'; }
+      md += '\n';
     }
     writeMd('public-export/mods-detailed.md', md);
   }
@@ -933,10 +1228,13 @@ function transformPublicExport() {
       'All foundry crafting recipes with credit costs, build times, and ingredient requirements.'
     );
 
+    var seenPER = new Set();
     for (const [recipeKey, r] of Object.entries(recipes)) {
       const result = resolve(r.resultType) || recipeKey;
-      md += `## ${result}\n\n`;
-      md += `**Credits:** ${r.buildPrice || 0} | **Build Time:** ${r.buildTime ? (r.buildTime / 3600).toFixed(1) + 'h' : '—'} | **Rush:** ${r.skipBuildTimePrice || 0} Platinum\n\n`;
+      if (seenPER.has(result)) { continue; }
+      seenPER.add(result);
+      md += `## ${result}\n`;
+      md += `**Credits:** ${r.buildPrice || 0} | **Build Time:** ${r.buildTime ? (r.buildTime / 3600).toFixed(1) + 'h' : '—'} | **Rush:** ${r.skipBuildTimePrice || 0} Platinum\n`;
 
       if (r.ingredients && r.ingredients.length) {
         md += '| Ingredient | Count |\n|---|---|\n';
@@ -953,10 +1251,15 @@ function transformPublicExport() {
   const enemies = tryLoad('public-export/ExportEnemies.json');
   if (enemies) {
     let md = heading('Public Export — Enemies', 'All enemy types with resolved names and descriptions.');
+    var seenPEE = new Set();
     for (const [, e] of Object.entries(enemies)) {
-      md += `## ${resolve(e.name)}\n\n`;
+      var eName = resolve(e.name);
+      if (!eName || seenPEE.has(eName)) { continue; }
+      seenPEE.add(eName);
+      md += `## ${eName}\n`;
       const desc = resolve(e.description);
-      if (desc) { md += `${desc}\n\n`; }
+      if (desc) { md += `${desc}\n`; }
+      md += '\n';
     }
     writeMd('public-export/enemies.md', md);
   }
@@ -966,9 +1269,12 @@ function transformPublicExport() {
   if (factions) {
     let md = heading('Public Export — Factions', 'All factions in Warframe.');
     for (const [, f] of Object.entries(factions)) {
-      md += `## ${resolve(f.name)}\n\n`;
+      const fName = resolve(f.name);
+      if (!fName) { continue; }
+      md += `## ${fName}\n`;
       const desc = resolve(f.description);
-      if (desc) { md += `${desc}\n\n`; }
+      if (desc) { md += `${desc}\n`; }
+      md += '\n';
     }
     writeMd('public-export/factions.md', md);
   }
@@ -976,16 +1282,26 @@ function transformPublicExport() {
   // Regions / Star Chart
   const regions = tryLoad('public-export/ExportRegions.json');
   if (regions) {
+    const SYSTEM_NAMES = ['Mercury','Venus','Earth','Mars','Phobos','Deimos','Ceres','Jupiter','Europa','Saturn','Uranus','Neptune','Pluto','Sedna','Eris','Void','Lua','Kuva Fortress','Zariman','Tau','Höllvania','Duviri'];
+    const NODE_TYPES = ['Hub','Assassinate','Capture','Defense','Exterminate','Mobile Defense','Rescue','Sabotage','Spy','Survival','Interception','Hijack','Excavation','Defection','Disruption','Arena','Solar Rail Conflict','Free Roam','Junction','Railjack','Ground Assault','Conjunction Survival','Arbitration','Sortie'];
+    const FACTION_NAMES = ['Grineer','Corpus','Infested','Orokin','Sentient','Stalker','Tenno','Crossfire','Narmer','Wally','Murmur','Scaldra','Techrot'];
+    const resolveEnum = function (arr, idx) { return (idx != null && arr[idx]) ? arr[idx] : (idx != null ? String(idx) : null); };
     let md = heading('Public Export — Star Chart Regions', 'All Star Chart regions/nodes with mission types and requirements.');
     for (const [regionKey, r] of Object.entries(regions)) {
-      md += `## ${resolve(r.name) || regionKey}\n\n`;
+      const rName = resolve(r.name) || regionKey;
+      if (!rName) { continue; }
+      md += `## ${rName}\n`;
       const meta = [];
-      if (r.systemIndex != null) { meta.push(`System: ${r.systemIndex}`); }
-      if (r.nodeType != null) { meta.push(`Type: ${r.nodeType}`); }
+      const sys = resolveEnum(SYSTEM_NAMES, r.systemIndex);
+      if (sys) { meta.push(`System: ${sys}`); }
+      const nt = resolveEnum(NODE_TYPES, r.nodeType);
+      if (nt) { meta.push(`Type: ${nt}`); }
       if (r.masteryReq) { meta.push(`MR: ${r.masteryReq}`); }
       if (r.minEnemyLevel) { meta.push(`Level: ${r.minEnemyLevel}-${r.maxEnemyLevel || '?'}`); }
-      if (r.factionIndex != null) { meta.push(`Faction: ${r.factionIndex}`); }
-      if (meta.length) { md += meta.join(' | ') + '\n\n'; }
+      const fac = resolveEnum(FACTION_NAMES, r.factionIndex);
+      if (fac) { meta.push(`Faction: ${fac}`); }
+      if (meta.length) { md += meta.join(' | ') + '\n'; }
+      md += '\n';
     }
     writeMd('public-export/regions.md', md);
   }
@@ -1015,7 +1331,7 @@ function transformWorldstateData() {
     let data;
     try { data = JSON.parse(fs.readFileSync(path.join(sourceDir, file), 'utf8')); } catch { continue; }
 
-    md += `## ${name}\n\n`;
+    md += `## ${name}\n`;
 
     if (Array.isArray(data)) {
       // Simple array — show as list
@@ -1071,27 +1387,585 @@ function transformAvatarDrops() {
     let md = heading(title, desc);
 
     const arr = Array.isArray(data) ? data : Object.entries(data).map(([k, v]) => ({ name: k, ...v }));
+    var seenAvatar = new Set();
     for (const entry of arr) {
-      const name = entry.enemyName || entry.name || 'Unknown';
-      md += `## ${esc(name)}\n\n`;
+      const name = entry.enemyName || entry.source || entry.name || 'Unknown';
+      if (seenAvatar.has(name)) { continue; }
+      seenAvatar.add(name);
+      md += `## ${esc(name)}\n`;
 
       const items = entry.items || entry.resources || entry.rewards || [];
       if (Array.isArray(items) && items.length) {
         md += '| Item | Rarity | Chance |\n|---|---|---|\n';
         for (const it of items) {
-          md += `| ${esc(it.itemName || it.name)} | ${it.rarity || '—'} | ${pct(it.chance)} |\n`;
+          md += `| ${esc(it.itemName || it.item || it.name)} | ${it.rarity || '—'} | ${pct(it.chance)} |\n`;
         }
       }
       md += '\n';
     }
 
     const safe = title.toLowerCase().replace(/[^a-z0-9]+/g, '-');
-    writeMd(`${safe}.md`, md);
+    writeMd(`drops/${safe}.md`, md);
   }
 }
 
 // ---------------------------------------------------------------------------
-// 22. Index / Table of Contents
+// 22. Enemies (from @wfcd/items)
+// ---------------------------------------------------------------------------
+function transformEnemies() {
+  const items = tryLoad('items-Enemy.json');
+  if (!items || !items.length) { return; }
+
+  let md = heading(
+    'Enemies',
+    'All enemies in Warframe with health, shield, armor, faction, and drop tables. ' +
+    'Includes boss enemies, minibosses, and standard units across all factions.'
+  );
+
+  var seenE = new Set();
+  for (const e of items) {
+    if (seenE.has(e.name)) { continue; }
+    seenE.add(e.name);
+    md += `## ${e.name}\n`;
+    if (e.description) { md += `${stripTags(e.description)}\n`; }
+    var wikiE = getWiki(e.name);
+    if (wikiE) { md += `\n### Wiki\n${wikiE}\n`; }
+
+    var eStats = [];
+    if (e.health != null) { eStats.push(`Health: ${e.health}`); }
+    if (e.shield != null) { eStats.push(`Shield: ${e.shield}`); }
+    if (e.armor != null) { eStats.push(`Armor: ${e.armor}`); }
+    if (e.type) { eStats.push(`Faction: ${e.type}`); }
+    if (eStats.length) { md += eStats.join(' | ') + '\n'; }
+    md += '\n';
+
+    if (e.drops && e.drops.length) {
+      md += '### Drops\n';
+      md += '| Item | Rarity | Chance |\n|---|---|---|\n';
+      for (const d of e.drops.slice(0, 30)) {
+        md += `| ${esc(d.location)} | ${d.rarity || '—'} | ${pct(d.chance)} |\n`;
+      }
+      if (e.drops.length > 30) { md += `| ...and ${e.drops.length - 30} more | | |\n`; }
+      md += '\n';
+    }
+  }
+
+  writeMd('items/enemies.md', md);
+}
+
+// ---------------------------------------------------------------------------
+// 23. Star Chart Nodes (from @wfcd/items)
+// ---------------------------------------------------------------------------
+function transformNodes() {
+  const items = tryLoad('items-Node.json');
+  if (!items || !items.length) { return; }
+
+  let md = heading(
+    'Star Chart Nodes',
+    'All playable nodes on the Star Chart with planet, mission type, enemy level range, and faction.'
+  );
+
+  const factions = ['Grineer', 'Corpus', 'Infested', 'Orokin', 'Sentient', 'Crossfire', 'Unknown'];
+
+  // Group by system
+  const bySystem = {};
+  for (const node of items) {
+    const sys = node.systemName || 'Unknown';
+    if (!bySystem[sys]) { bySystem[sys] = []; }
+    bySystem[sys].push(node);
+  }
+
+  for (const [system, nodes] of Object.entries(bySystem).sort()) {
+    md += `## ${system}\n`;
+    md += '| Node | Levels | Faction |\n|---|---|---|\n';
+    for (const n of nodes) {
+      const levels = (n.minEnemyLevel && n.maxEnemyLevel) ? `${n.minEnemyLevel}-${n.maxEnemyLevel}` : '—';
+      const faction = factions[n.factionIndex] || '—';
+      md += `| ${esc(n.name)} | ${levels} | ${faction} |\n`;
+    }
+    md += '\n';
+  }
+
+  writeMd('items/star-chart-nodes.md', md);
+}
+
+// ---------------------------------------------------------------------------
+// 24. Focus Schools (from ExportFocusUpgrades)
+// ---------------------------------------------------------------------------
+function transformFocusSchools() {
+  const data = tryLoad('public-export/ExportFocusUpgrades.json');
+  const dict = tryLoad('public-export/dict_en.json');
+  if (!data || !dict) { return; }
+
+  function resolve(key) {
+    if (!key) { return ''; }
+    return stripTags(dict[key] || key.split('/').pop() || key);
+  }
+
+  let md = heading(
+    'Focus Schools & Operator Upgrades',
+    'All Operator Focus school upgrades including Madurai, Vazarin, Naramon, Zenurik, and Unairu. ' +
+    'Shows name, description, polarity, rarity, drain, max rank, and stat progression.'
+  );
+
+  // Group by polarity (school)
+  const schools = {};
+  for (const [, u] of Object.entries(data)) {
+    const school = u.polarity || 'Unknown';
+    if (!schools[school]) { schools[school] = []; }
+    schools[school].push(u);
+  }
+
+  for (const [school, upgrades] of Object.entries(schools).sort()) {
+    md += `## ${friendlyPolarity(school)}\n`;
+    for (const u of upgrades) {
+      const name = resolve(u.name);
+      const desc = resolve(u.description);
+      md += `### ${name}\n`;
+      if (desc && desc !== name) { md += `${desc}\n`; }
+
+      const meta = [];
+      if (u.rarity) { meta.push(`**Rarity:** ${u.rarity}`); }
+      if (u.baseDrain != null) { meta.push(`**Drain:** ${u.baseDrain}`); }
+      if (u.fusionLimit != null) { meta.push(`**Max Rank:** ${u.fusionLimit}`); }
+      if (u.baseFocusPointCost != null) { meta.push(`**Focus Cost:** ${u.baseFocusPointCost.toLocaleString()}`); }
+      if (meta.length) { md += meta.join(' | ') + '\n'; }
+
+      if (u.levelStats && u.levelStats.length) {
+        md += '| Rank | Stats |\n|---|---|\n';
+        for (let r = 0; r < u.levelStats.length; r++) {
+          const stats = Object.entries(u.levelStats[r]).map(([k, v]) => `${k}: ${v}`).join(', ');
+          md += `| ${r} | ${esc(stats)} |\n`;
+        }
+        md += '\n';
+      }
+    }
+  }
+
+  writeMd('public-export/focus-schools.md', md);
+}
+
+// ---------------------------------------------------------------------------
+// 25. Dojo Recipes (from ExportDojoRecipes)
+// ---------------------------------------------------------------------------
+function transformDojoRecipes() {
+  const data = tryLoad('public-export/ExportDojoRecipes.json');
+  const dict = tryLoad('public-export/dict_en.json');
+  if (!data || !dict) { return; }
+
+  function resolve(key) {
+    if (!key) { return ''; }
+    return stripTags(dict[key] || key.split('/').pop() || key);
+  }
+
+  let md = heading(
+    'Dojo Recipes & Clan Research',
+    'All Dojo room, decoration, and research recipes. Includes ' +
+    'credit costs, resource requirements, and clan tier scaling.'
+  );
+
+  for (const section of ['rooms', 'research', 'fabrications']) {
+    const sectionData = data[section];
+    if (!sectionData || typeof sectionData !== 'object') { continue; }
+
+    md += `## ${section.charAt(0).toUpperCase() + section.slice(1)}\n`;
+
+    const entries = Object.entries(sectionData);
+    for (const [key, val] of entries.slice(0, 500)) {
+      const name = (val && val.resultType) ? resolve(val.resultType) : key.split('/').pop();
+      md += `### ${esc(name)}\n`;
+
+      if (val.buildPrice != null) { md += `**Credits:** ${val.buildPrice}`; }
+      if (val.buildTime != null) { md += ` | **Build Time:** ${(val.buildTime / 3600).toFixed(1)}h`; }
+      md += '\n';
+
+      if (val.ingredients && val.ingredients.length) {
+        md += '| Ingredient | Count |\n|---|---|\n';
+        for (const ing of val.ingredients) {
+          md += `| ${resolve(ing.ItemType || ing.itemType)} | ${ing.ItemCount || ing.itemCount || 1} |\n`;
+        }
+        md += '\n';
+      }
+    }
+
+    if (entries.length > 500) { md += `*...and ${entries.length - 500} more entries*\n\n`; }
+  }
+
+  writeMd('public-export/dojo-recipes.md', md);
+}
+
+// ---------------------------------------------------------------------------
+// 26. Nightwave (from ExportNightwave)
+// ---------------------------------------------------------------------------
+function transformNightwave() {
+  const data = tryLoad('public-export/ExportNightwave.json');
+  const dict = tryLoad('public-export/dict_en.json');
+  if (!data || !dict) { return; }
+
+  function resolve(key) {
+    if (!key) { return ''; }
+    return stripTags(dict[key] || key.split('/').pop() || key);
+  }
+
+  let md = heading(
+    'Nightwave',
+    'Nightwave challenge tiers, challenge types, and reward pool. ' +
+    'Includes weekly, daily, and elite challenges with their standing values.'
+  );
+
+  if (data.affiliationTag) {
+    md += `**Affiliation:** ${resolve(data.affiliationTag)}\n\n`;
+  }
+
+  // Challenges
+  if (data.challenges && typeof data.challenges === 'object') {
+    md += '## Challenges\n';
+    const challengeEntries = Object.entries(data.challenges);
+    for (const [key, ch] of challengeEntries) {
+      const name = resolve(ch.name || key);
+      md += `### ${esc(name)}\n`;
+      const desc = resolve(ch.description);
+      if (desc && desc !== name) { md += `${desc}\n`; }
+      const meta = [];
+      if (ch.standing != null) { meta.push(`**Standing:** ${ch.standing}`); }
+      if (ch.required != null) { meta.push(`**Required:** ${ch.required}`); }
+      if (ch.isDaily) { meta.push('**Daily**'); }
+      if (ch.isElite) { meta.push('**Elite**'); }
+      if (meta.length) { md += meta.join(' | ') + '\n'; }
+      md += '\n';
+    }
+  }
+
+  // Rewards
+  if (data.rewards && Array.isArray(data.rewards)) {
+    md += '## Rewards\n';
+    md += '| Reward | Type |\n|---|---|\n';
+    for (const r of data.rewards) {
+      const name = resolve(r.name || r.storeItem || r.uniqueName || '');
+      md += `| ${esc(name)} | ${r.credits || ''} |\n`;
+    }
+    md += '\n';
+  }
+
+  writeMd('public-export/nightwave.md', md);
+}
+
+// ---------------------------------------------------------------------------
+// 27. Vendors (from ExportVendors)
+// ---------------------------------------------------------------------------
+function transformVendors() {
+  const data = tryLoad('public-export/ExportVendors.json');
+  const dict = tryLoad('public-export/dict_en.json');
+  if (!data || !dict) { return; }
+
+  function resolve(key) {
+    if (!key) { return ''; }
+    return stripTags(dict[key] || key.split('/').pop() || key);
+  }
+
+  let md = heading(
+    'Vendors & Shops',
+    'All in-game vendors and their item offerings. Includes NPC shops from ' +
+    'relays, open worlds, and other hubs with prices in credits, standing, or special currency.'
+  );
+
+  var seenVen = new Set();
+  for (const [vendorKey, vendor] of Object.entries(data)) {
+    const vendorName = vendorKey.split('/').pop().replace(/Manifest$/i, '').replace(/([a-z])([A-Z])/g, '$1 $2');
+    if (seenVen.has(vendorName)) { continue; }
+    seenVen.add(vendorName);
+    md += `## ${esc(vendorName)}\n`;
+
+    if (vendor.isDynamic != null) { md += `**Dynamic Inventory:** ${vendor.isDynamic ? 'Yes' : 'No'}\n`; }
+
+    if (vendor.items && Array.isArray(vendor.items)) {
+      md += '| Item | Quantity | Price |\n|---|---|---|\n';
+      for (const item of vendor.items.slice(0, 100)) {
+        const name = resolve(item.storeItem || '');
+        const qty = item.quantity || 1;
+        let price = '';
+        if (item.regularPrice) { price = `${item.regularPrice} Credits`; }
+        else if (item.premiumPrice) { price = `${item.premiumPrice} Platinum`; }
+        else if (item.itemPrices && item.itemPrices.length) {
+          const parts = [];
+          for (const p of item.itemPrices) { parts.push(`${p.ItemCount} ${resolve(p.ItemType)}`); }
+          price = parts.join(', ');
+        }
+        md += `| ${esc(name)} | ${qty} | ${esc(price)} |\n`;
+      }
+      if (vendor.items.length > 100) { md += `| ...and ${vendor.items.length - 100} more items | | |\n`; }
+      md += '\n';
+    }
+  }
+
+  writeMd('public-export/vendors.md', md);
+}
+
+// ---------------------------------------------------------------------------
+// 28. Achievements (from ExportAchievements)
+// ---------------------------------------------------------------------------
+function transformAchievements() {
+  const data = tryLoad('public-export/ExportAchievements.json');
+  const dict = tryLoad('public-export/dict_en.json');
+  if (!data || !dict) { return; }
+
+  function resolve(key) {
+    if (!key) { return ''; }
+    return stripTags(dict[key] || key.split('/').pop() || key);
+  }
+
+  let md = heading(
+    'Achievements',
+    'All in-game achievements (Steam/PSN/Xbox trophies). ' +
+    'Each achievement has a name and description of the unlock condition.'
+  );
+
+  md += '| Achievement | Description |\n|---|---|\n';
+  for (const [, ach] of Object.entries(data)) {
+    const name = resolve(ach.name);
+    const desc = resolve(ach.description);
+    md += `| ${esc(name)} | ${esc(desc)} |\n`;
+  }
+  md += '\n';
+
+  writeMd('public-export/achievements.md', md);
+}
+
+// ---------------------------------------------------------------------------
+// 29. Syndicates (Detailed from ExportSyndicates)
+// ---------------------------------------------------------------------------
+function transformSyndicatesDetailed() {
+  const data = tryLoad('public-export/ExportSyndicates.json');
+  const dict = tryLoad('public-export/dict_en.json');
+  if (!data || !dict) { return; }
+
+  function resolve(key) {
+    if (!key) { return ''; }
+    return stripTags(dict[key] || key.split('/').pop() || key);
+  }
+
+  let md = heading(
+    'Public Export — Syndicates (Detailed)',
+    'Full syndicate data from the official export including rank titles, ' +
+    'standing requirements, initiation sacrifices, and offerings at each rank.'
+  );
+
+  var seenSyn = new Set();
+  for (const [, syn] of Object.entries(data)) {
+    const name = resolve(syn.name);
+    if (!name || seenSyn.has(name)) { continue; }
+    seenSyn.add(name);
+    md += `## ${name}\n`;
+    const desc = resolve(syn.description);
+    if (desc && desc !== name) { md += `${desc}\n`; }
+    md += '\n';
+
+    if (syn.titles && syn.titles.length) {
+      md += '### Ranks\n';
+      md += '| Rank | Title | Standing |\n|---|---|---|\n';
+      for (const t of syn.titles) {
+        md += `| ${t.level != null ? t.level : '—'} | ${esc(resolve(t.name))} | ${t.minStanding || 0} |\n`;
+      }
+      md += '\n';
+    }
+
+    if (syn.initiationSacrifice && syn.initiationSacrifice.items) {
+      md += '**Initiation Cost:** ';
+      const costParts = [];
+      for (const it of syn.initiationSacrifice.items) { costParts.push(`${it.ItemCount} ${resolve(it.ItemType)}`); }
+      md += costParts.join(', ');
+      md += '\n\n';
+    }
+  }
+
+  writeMd('public-export/syndicates-detailed.md', md);
+}
+
+// ---------------------------------------------------------------------------
+// 30. Bounties (Detailed from ExportBounties)
+// ---------------------------------------------------------------------------
+function transformBountiesDetailed() {
+  const data = tryLoad('public-export/ExportBounties.json');
+  const dict = tryLoad('public-export/dict_en.json');
+  if (!data || !dict) { return; }
+
+  function resolve(key) {
+    if (!key) { return ''; }
+    return stripTags(dict[key] || key.split('/').pop() || key);
+  }
+
+  let md = heading(
+    'Public Export — Bounties (Detailed)',
+    'Bounty data from the official export including bounty tiers, objectives, and reward tables.'
+  );
+
+  for (const [bountyKey, bounty] of Object.entries(data)) {
+    const name = resolve(bounty.name || bountyKey);
+    md += `## ${esc(name)}\n`;
+
+    if (bounty.minEnemyLevel != null) {
+      md += `**Levels:** ${bounty.minEnemyLevel}-${bounty.maxEnemyLevel || '?'}\n`;
+    }
+
+    if (bounty.rewards && bounty.rewards.length) {
+      md += '### Rewards\n';
+      md += '| Item | Chance |\n|---|---|\n';
+      for (const r of bounty.rewards) {
+        md += `| ${esc(resolve(r.name || r.storeItem || r.type || ''))} | ${pct(r.chance)} |\n`;
+      }
+      md += '\n';
+    }
+  }
+
+  writeMd('public-export/bounties-detailed.md', md);
+}
+
+// ---------------------------------------------------------------------------
+// 32. Wiki — Lore Characters
+// ---------------------------------------------------------------------------
+function transformWikiLore() {
+  var pages = tryLoad('wiki-lore.json');
+  if (!pages) { return; }
+  var md = heading('Wiki — Lore Characters & Factions',
+    'Detailed lore profiles for key characters and groups from the Warframe wiki.');
+  for (const p of pages) {
+    md += `## ${p.title}\n${cleanWiki(p.content)}\n\n`;
+  }
+  writeMd('wiki/lore-characters.md', md);
+}
+
+// ---------------------------------------------------------------------------
+// 33. Wiki — Quests
+// ---------------------------------------------------------------------------
+function transformWikiQuests() {
+  var pages = tryLoad('wiki-quests.json');
+  if (!pages) { return; }
+  var md = heading('Wiki — Quest Guide',
+    'Detailed quest walkthroughs and synopses from the Warframe wiki.');
+  for (const p of pages) {
+    md += `## ${p.title}\n${cleanWiki(p.content)}\n\n`;
+  }
+  writeMd('wiki/quests.md', md);
+}
+
+// ---------------------------------------------------------------------------
+// 34. Wiki — Factions
+// ---------------------------------------------------------------------------
+function transformWikiFactions() {
+  var pages = tryLoad('wiki-factions.json');
+  if (!pages) { return; }
+  var md = heading('Wiki — Factions',
+    'Detailed faction overviews from the Warframe wiki.');
+  for (const p of pages) {
+    md += `## ${p.title}\n${cleanWiki(p.content)}\n\n`;
+  }
+  writeMd('wiki/factions.md', md);
+}
+
+// ---------------------------------------------------------------------------
+// 35. Wiki — Open Worlds
+// ---------------------------------------------------------------------------
+function transformWikiOpenWorlds() {
+  var pages = tryLoad('wiki-open-worlds.json');
+  if (!pages) { return; }
+  var md = heading('Wiki — Open Worlds & Landscapes',
+    'Detailed guides for open world areas from the Warframe wiki.');
+  for (const p of pages) {
+    md += `## ${p.title}\n${cleanWiki(p.content)}\n\n`;
+  }
+  writeMd('wiki/open-worlds.md', md);
+}
+
+// ---------------------------------------------------------------------------
+// 36. Wiki — Game Mechanics
+// ---------------------------------------------------------------------------
+function transformWikiMechanics() {
+  var pages = tryLoad('wiki-mechanics.json');
+  if (!pages) { return; }
+  var md = heading('Wiki — Game Mechanics',
+    'In-depth game mechanic explanations from the Warframe wiki.');
+  for (const p of pages) {
+    md += `## ${p.title}\n${cleanWiki(p.content)}\n\n`;
+  }
+  writeMd('wiki/mechanics.md', md);
+}
+
+// ---------------------------------------------------------------------------
+// 37. Wiki — Damage Types
+// ---------------------------------------------------------------------------
+function transformWikiDamageTypes() {
+  var pages = tryLoad('wiki-damage-types.json');
+  if (!pages) { return; }
+  var md = heading('Wiki — Damage Types',
+    'Detailed damage type breakdowns and status effects from the Warframe wiki.');
+  for (const p of pages) {
+    // Clean "Damage/" prefix from titles for readability
+    var title = p.title.replace(/^Damage\//, '');
+    md += `## ${title}\n${cleanWiki(p.content)}\n\n`;
+  }
+  writeMd('wiki/damage-types.md', md);
+}
+
+// ---------------------------------------------------------------------------
+// 38. Wiki — Game Systems (Trading, Incarnon, Prime, etc.)
+// ---------------------------------------------------------------------------
+function transformWikiGameSystems() {
+  var pages = tryLoad('wiki-game-systems.json');
+  if (!pages) { return; }
+  var md = heading('Wiki — Game Systems',
+    'Core game systems and economy from the Warframe wiki: trading, Incarnon, Prime, Void Fissures, Operator, Orbiter, and more.');
+  for (const p of pages) {
+    var title = p.title.replace(/\s*\(Lore\)/, '');
+    md += `## ${title}\n${cleanWiki(p.content)}\n\n`;
+  }
+  writeMd('wiki/game-systems.md', md);
+}
+
+// ---------------------------------------------------------------------------
+// 39. Wiki — Endgame Activities
+// ---------------------------------------------------------------------------
+function transformWikiEndgame() {
+  var pages = tryLoad('wiki-endgame.json');
+  if (!pages) { return; }
+  var md = heading('Wiki — Endgame Activities',
+    'Endgame mission modes and boss fights from the Warframe wiki: Steel Path, Arbitrations, Eidolons, Profit-Taker, Kuva Liches, and more.');
+  for (const p of pages) {
+    var title = p.title.replace(/^Kuva Lich\/Main$/, 'Kuva Lich');
+    md += `## ${title}\n${cleanWiki(p.content)}\n\n`;
+  }
+  writeMd('wiki/endgame.md', md);
+}
+
+// ---------------------------------------------------------------------------
+// 40. Wiki — Companion Types
+// ---------------------------------------------------------------------------
+function transformWikiCompanions() {
+  var pages = tryLoad('wiki-companions.json');
+  if (!pages) { return; }
+  var md = heading('Wiki — Companion Types',
+    'Detailed guides for companion types from the Warframe wiki: Kubrow, Kavat, and Sentinel.');
+  for (const p of pages) {
+    md += `## ${p.title}\n${cleanWiki(p.content)}\n\n`;
+  }
+  writeMd('wiki/companions.md', md);
+}
+
+// ---------------------------------------------------------------------------
+// 41. Wiki — Modular Equipment
+// ---------------------------------------------------------------------------
+function transformWikiModular() {
+  var pages = tryLoad('wiki-modular.json');
+  if (!pages) { return; }
+  var md = heading('Wiki — Modular Equipment',
+    'Modular weapon and vehicle systems from the Warframe wiki: Amps, Zaws, Kitguns, K-Drives, and Necramechs.');
+  for (const p of pages) {
+    md += `## ${p.title}\n${cleanWiki(p.content)}\n\n`;
+  }
+  writeMd('wiki/modular-equipment.md', md);
+}
+
+// ---------------------------------------------------------------------------
+// Index / Table of Contents
 // ---------------------------------------------------------------------------
 function writeIndex() {
   const md = `# Warframe Data Documentation
@@ -1115,31 +1989,34 @@ ${(() => {
 ## Table of Contents
 
 ### Equipment
-- [Warframes](warframes.md) — All Warframes with stats, abilities, and crafting
+- [Warframes](equipment/warframes.md) — All Warframes with stats, abilities, and crafting
 - [Primary Weapons](weapons/primary-weapons.md) — Rifles, shotguns, bows, launchers
 - [Secondary Weapons](weapons/secondary-weapons.md) — Pistols, thrown, dual wield
 - [Melee Weapons](weapons/melee-weapons.md) — Swords, polearms, heavy blades
 - [Arch-Guns](weapons/arch-guns.md) — Archwing primary weapons
 - [Arch-Melee](weapons/arch-melee-weapons.md) — Archwing melee weapons
-- [Archwings](archwings.md) — Flight suit stats and abilities
-- [Railjack](railjack.md) — Ship components and armaments
-- [Companions](companions.md) — Pets and Sentinels
+- [Archwings](equipment/archwings.md) — Flight suit stats and abilities
+- [Railjack](equipment/railjack.md) — Ship components and armaments
+- [Companions](equipment/companions.md) — Pets and Sentinels
 
 ### Modding
-- [Mods](mods.md) — Full mod database with stats per rank
-- [Arcanes](arcanes.md) — Arcane enhancements
-- [Riven Tags](riven-tags.md) — Riven stat tags and dispositions
+- [Mods](mods/mods.md) — Full mod database with stats per rank
+- [Arcanes](mods/arcanes.md) — Arcane enhancements
+- [Riven Tags](mods/riven-tags.md) — Riven stat tags and dispositions
 
 ### Drop Tables
-- [Mission Rewards](mission-rewards.md) — Every mission's rotation rewards
-- [Relics](relics.md) — Void relic reward tables
-- [Sortie Rewards](sortie-rewards.md) — Daily sortie drop tables
-- [Transient Rewards](transient-rewards.md) — Vault mods, Arbitrations, etc.
-- [Mod Locations](mod-locations.md) — Which enemies drop which mods
-- [Enemy Mod Tables](enemy-mod-tables.md) — Mods organized by enemy
-- [Blueprint Locations](blueprint-locations.md) — Blueprint drop sources
-- [Enemy Blueprint Tables](enemy-blueprint-tables.md) — Blueprints by enemy
-- [Key Rewards](key-rewards.md) — Key-locked mission rewards
+- [Mission Rewards](drops/mission-rewards.md) — Every mission's rotation rewards
+- [Relics](drops/relics.md) — Void relic reward tables
+- [Sortie Rewards](drops/sortie-rewards.md) — Daily sortie drop tables
+- [Transient Rewards](drops/transient-rewards.md) — Vault mods, Arbitrations, etc.
+- [Mod Locations](drops/mod-locations.md) — Which enemies drop which mods
+- [Enemy Mod Tables](drops/enemy-mod-tables.md) — Mods organized by enemy
+- [Blueprint Locations](drops/blueprint-locations.md) — Blueprint drop sources
+- [Enemy Blueprint Tables](drops/enemy-blueprint-tables.md) — Blueprints by enemy
+- [Key Rewards](drops/key-rewards.md) — Key-locked mission rewards
+- [Resource Drops by Enemy](drops/resource-drops-by-enemy.md) — Resources by enemy
+- [Sigil Drops by Enemy](drops/sigil-drops-by-enemy.md) — Sigils by enemy
+- [Additional Drops by Enemy](drops/additional-item-drops-by-enemy.md) — Extra enemy loot
 
 ### Bounties
 - [Cetus Bounties](bounties/cetus-bounty-rewards.md) — Plains of Eidolon
@@ -1150,13 +2027,15 @@ ${(() => {
 - [Hex Bounties](bounties/hex-bounty-rewards.md) — Hex missions
 
 ### Items
-- [Resources](resources.md) — Crafting materials and drop sources
-- [Fish](fish.md) — Fish species across open worlds
-- [Gear](gear-items.md) — Gear wheel items
-- [Quests](quests.md) — All quest descriptions
+- [Resources](items/resources.md) — Crafting materials and drop sources
+- [Fish](items/fish.md) — Fish species across open worlds
+- [Gear](items/gear-items.md) — Gear wheel items
+- [Quests](items/quests.md) — All quest descriptions
+- [Enemies](items/enemies.md) — All enemies with stats and drop tables
+- [Star Chart Nodes](items/star-chart-nodes.md) — All mission nodes by planet
 
 ### Reference
-- [Syndicates](syndicates.md) — Syndicate info
+- [Syndicates](items/syndicates.md) — Syndicate info
 - [Worldstate Reference](worldstate-reference.md) — Sol nodes, factions, mission types
 - [Patch Notes](patch-notes.md) — Full update history
 
@@ -1168,11 +2047,47 @@ ${(() => {
 - [Enemies](public-export/enemies.md) — Enemy types
 - [Factions](public-export/factions.md) — All factions
 - [Star Chart](public-export/regions.md) — Map regions and nodes
+- [Focus Schools](public-export/focus-schools.md) — Operator focus upgrades
+- [Dojo Recipes](public-export/dojo-recipes.md) — Clan research and decoration recipes
+- [Nightwave](public-export/nightwave.md) — Challenges and rewards
+- [Vendors](public-export/vendors.md) — All in-game shop inventories
+- [Achievements](public-export/achievements.md) — In-game trophies and achievements
+- [Syndicates (Detailed)](public-export/syndicates-detailed.md) — Full syndicate data
+- [Bounties (Detailed)](public-export/bounties-detailed.md) — Bounty tiers and rewards
 
-### Enemy Drops
-- [Resource Drops by Enemy](resource-drops-by-enemy.md)
-- [Sigil Drops by Enemy](sigil-drops-by-enemy.md)
-- [Additional Drops by Enemy](additional-item-drops-by-enemy.md)
+### Wiki Lore & Guides
+- [Lore Characters](wiki/lore-characters.md) — Character profiles and background lore
+- [Quest Guide](wiki/quests.md) — Quest walkthroughs and synopses
+- [Factions](wiki/factions.md) — Faction overviews and history
+- [Open Worlds](wiki/open-worlds.md) — Landscape area guides
+- [Game Mechanics](wiki/mechanics.md) — In-depth mechanic explanations
+- [Damage Types](wiki/damage-types.md) — Damage type details and status effects
+- [Game Systems](wiki/game-systems.md) — Trading, Incarnon, Prime, Operator, Orbiter
+- [Endgame](wiki/endgame.md) — Steel Path, Arbitrations, Eidolons, Liches
+- [Companion Types](wiki/companions.md) — Kubrow, Kavat, Sentinel guides
+- [Modular Equipment](wiki/modular-equipment.md) — Amps, Zaws, Kitguns, K-Drives, Necramechs
+
+## Quick Download — Combined TXT Files
+
+Pre-built text files combining all topics above, each ≤ 3 MB for easy upload to AI tools.
+
+| File | Contents |
+|---|---|
+| [warframe-data-equipment.txt](warframe-data-equipment.txt) | Warframes, Archwings, Railjack, Companions |
+| [warframe-data-weapons.txt](warframe-data-weapons.txt) | Primary, Secondary, Melee, Arch-Guns, Arch-Melee |
+| [warframe-data-mods.txt](warframe-data-mods.txt) | Mods, Arcanes, Riven Tags |
+| [warframe-data-drops-missions.txt](warframe-data-drops-missions.txt) | Mission Rewards, Sorties, Bounties, Key Rewards |
+| [warframe-data-drops-relics.txt](warframe-data-drops-relics.txt) | Void Relics, Mod Locations, Blueprint Locations |
+| [warframe-data-drops-enemies.txt](warframe-data-drops-enemies.txt) | Enemy Mod/Blueprint/Resource/Sigil Drop Tables |
+| [warframe-data-items.txt](warframe-data-items.txt) | Resources, Fish, Gear, Quests, Syndicates, Enemies, Star Chart |
+| [warframe-data-export.txt](warframe-data-export.txt) | Official DE Export: Warframes, Weapons, Mods, Recipes, Enemies, Factions, Regions |
+| [warframe-data-export-extended.txt](warframe-data-export-extended.txt) | Focus Schools, Dojo, Nightwave, Vendors, Achievements, Syndicates, Bounties |
+| [warframe-data-patchnotes-part1.txt](warframe-data-patchnotes-part1.txt) | Patch Notes (newest) |
+| [warframe-data-patchnotes-part2.txt](warframe-data-patchnotes-part2.txt) | Patch Notes (oldest) |
+| [warframe-data-wiki-lore.txt](warframe-data-wiki-lore.txt) | Wiki: Lore Characters, Factions |
+| [warframe-data-wiki-quests.txt](warframe-data-wiki-quests.txt) | Wiki: Quest Walkthroughs |
+| [warframe-data-wiki-mechanics.txt](warframe-data-wiki-mechanics.txt) | Wiki: Damage, Status Effects, Mechanics, Enemy Scaling |
+| [warframe-data-wiki-systems.txt](warframe-data-wiki-systems.txt) | Wiki: Open Worlds, Game Systems, Endgame, Companions, Modular Equipment |
 `;
 
   writeMd('README.md', md);
@@ -1206,6 +2121,25 @@ function main() {
   transformPublicExport();
   transformWorldstateData();
   transformAvatarDrops();
+  transformEnemies();
+  transformNodes();
+  transformFocusSchools();
+  transformDojoRecipes();
+  transformNightwave();
+  transformVendors();
+  transformAchievements();
+  transformSyndicatesDetailed();
+  transformBountiesDetailed();
+  transformWikiLore();
+  transformWikiQuests();
+  transformWikiFactions();
+  transformWikiOpenWorlds();
+  transformWikiMechanics();
+  transformWikiDamageTypes();
+  transformWikiGameSystems();
+  transformWikiEndgame();
+  transformWikiCompanions();
+  transformWikiModular();
   writeIndex();
 
   console.log(`\nDone. ${_fileCount} documentation files written to docs/`);

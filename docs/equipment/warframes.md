@@ -1,0 +1,4809 @@
+# Warframes
+Complete list of all Warframes in Warframe, including stats, abilities, crafting requirements, and component drop locations. Each entry includes the Warframe's base stats at rank 0, a full ability breakdown, and where to obtain each crafting component.
+
+## Ash
+Behold the patron saint of the Orokin school of political assassination. Ash specializes in stealth. The edge of his blade is sooner felt than seen.
+
+### Wiki
+Ash
+Lotus
+Release Date: October 25th, 2012
+Ash is a Warframe that specializes in stealth and assassination. His Passive grants increased Status Damage and Status Duration to Slash status. Shuriken throws projectiles that deal damage. Smoke Screen renders him and nearby allies Invisible, while Teleport has him teleport to a target to perform a Finisher. Blade Storm marks enemies to be targeted and executed by Shadow Clones.
+Ash's main blueprint can be purchased from the Market. Ash's component blueprints are obtained from Venus Proxima (Systems), Neptune Proxima (Neuroptics), and Pluto Proxima (Chassis) Survival, Defense, Exterminate, and Volatile missions.
+Alternatively, upon completion of The Duviri Paradox, Ash's main and component blueprints can be earned from The Circuit. By selecting him on the rotating week he is available, players can earn all his blueprints after reaching Tier 10 rewards.
+Crafting
+Lore & History
+ExpandAshIntroduction:
+Ash. Avatar of murder.
+Patron saint of the Orokin school of political assassination known as... The Scoria.
+Each assassin bore a mark: a swirling, smoky-black jewel between their eyes.
+"You are forever the Scoria. The Scoria is forever you."
+No devotee knew of any life, any thought that was not Scoria Doctrine.
+For every question, so the Orokin of the Scoria said, Ash was the answer.
+Two notable students of the Scoria's anthracite halls were also two brothers: Dom and Pilio.
+Dom was nimble, cunning, and a quick study with the blade.
+His brother, Pilio, however, was not so gifted. While he idolized Ash, worshipped him, Pilio lacked Dom's grace and clarity.
+And Ash's ruthlessness. However... it was Dom who had been captured by the very target he was tasked to kill.
+Health: 455 | Shield: 270 | Armor: 105 | Energy: 100 | Sprint: 1.15
+Aura: madurai
+
+### Abilities
+**Shuriken:** Launches a spinning blade of pain, dealing high damage and impaling enemies to walls.
+**Smoke Screen:** Drops a smoke bomb that stuns enemies and obscures their vision, rendering Ash invisible for a short time.
+**Teleport:** Teleport to a target and perform a Finisher. If the finisher kills the target, Ash regains a portion of the energy spent.
+**Blade Storm:** Project fierce Shadow Clones of Ash upon groups of distant enemies. Join the fray using Teleport. The Shadow Clones can be upgraded with mods.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | Pluto/Fenton's Field (Skirmish), Rotation A (13.33%); Pluto/Obol Crossing (Skirmish), Rotation A (13.33%); Pluto/Profit Margin (Skirmish) (4.82%); Pluto/Seven Sirens (Skirmish) (4.82%) |
+| Neuroptics | 1 | Neptune/Arva Vector (Skirmish), Rotation A (12.50%); Neptune/Enkidu Ice Drifts (Skirmish), Rotation A (12.50%); Neptune/Nu-Gua Mines (Skirmish) (4.71%); Neptune/Sovereign Grasp (Skirmish) (4.71%) |
+| Orokin Cell | 1 | — |
+| Systems | 1 | Venus/Falling Glory (Skirmish), Rotation A (13.33%); Venus/Luckless Expanse (Skirmish), Rotation A (13.33%); Venus/Beacon Shield Ring (Skirmish) (4.88%); Venus/Bifrost Echo (Skirmish) (4.88%) |
+
+### Patch History (134 entries)
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): In the Veilbreaker and Nora’s Mix Vol 1 updates, we buffed a number of underused Warframe Augments (from Ash to Oberon). This third and final batch of buffs tackles Warframe Augments from Saryn to Zep
+- **Echoes of Veilbreaker: Hotfix 32.1.2** (2022-11-04T20:55:10Z): Adjusted more offsets for the Shard Bane Ephemera on Nidus, Gendel, Chroma, Lavos, Frost, Hildryn, Atlas, Rhino, Ash, and Vauban.
+- **Khora Prime: Hotfix 31.7.2** (2022-08-17T14:59:12Z): While maintaining our original intentions to connect Railjack to some more ‘core Warframe’ style rewards, we’ve made a few changes to have Ash components be more new player friendly for those starting
+- ...and 131 more patches
+
+## Ash Prime
+Distraction and subterfuge become lethal weapons with Ash Prime. Featuring altered mod polarities for greater customization.
+
+### Wiki
+Ash Prime
+Release Date: July 7th, 2015
+Ash Prime is the Primed variant of Ash, possessing an even higher level of survivability in the field. Ash Prime has a higher shield capacity, armor and sprint speed, as well as an additional Naramon polarity. Ash Prime was released alongside Vectis Prime and Carrier Prime.
+Vaultings
+On May 24th, 2017, it was announced that Ash Prime would enter the Prime Vault and be retired from the reward tables on May 30th, 2017. Any preexisting components or fully-built frames will remain as is.
+Ash Prime resurfaced along with Vauban Prime, Vectis Prime, Carrier Prime, Akstiletto Prime, and Fragor Prime from November 19th, 2019, to February 11th, 2020.
+Ash Prime was available from Prime Resurgence which ran from November 16, 2021 to January 25, 2022.
+Crafting
+**Notes:**
+Ash Prime, compared to Ash:
+Higher Shields (365/465 vs. 270/370)
+Higher Armor (185 vs. 105)
+Higher Sprint Speed (1.2 vs. 1.15)
+Different Polarities (MaduraiMaduraiNaramon vs. MaduraiMadurai)
+DeathOrbEnergy
+Health: 455 | Shield: 365 | Armor: 185 | Energy: 100 | Sprint: 1.2
+Aura: madurai
+
+### Abilities
+**Shuriken:** Launches a spinning blade of pain, dealing high damage and impaling enemies to walls.
+**Smoke Screen:** Drops a smoke bomb that stuns enemies and obscures their vision, rendering Ash invisible for a short time.
+**Teleport:** Teleport to a target and perform a Finisher. If the finisher kills the target, Ash regains a portion of the energy spent.
+**Blade Storm:** Project fierce Shadow Clones of Ash upon groups of distant enemies. Join the fray using Teleport. The Shadow Clones can be upgraded with mods.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Axi I3 Relic (11.00%); Lith S3 Relic (11.00%); Lith V7 Relic (11.00%); Meso C1 Relic (11.00%); Meso S3 Relic (11.00%); Vanguard E1 Relic (11.00%) |
+| Chassis | 1 | Axi B1 Relic (25.33%); Axi K12 Relic (25.33%); Lith V8 Relic (25.33%); Meso V2 Relic (25.33%); Neo N4 Relic (25.33%); Vanguard M1 Relic (25.33%) |
+| Neuroptics | 1 | Axi N2 Relic (11.00%); Meso N2 Relic (11.00%); Meso P12 Relic (11.00%); Meso V4 Relic (11.00%); Neo A4 Relic (11.00%); Neo N3 Relic (11.00%); Neo V4 Relic (11.00%); Vanguard P1 Relic (25.33%) |
+| Orokin Cell | 1 | — |
+| Systems | 1 | Axi A7 Relic (2.00%); Axi N1 Relic (2.00%); Neo A10 Relic (2.00%); Neo N5 Relic (11.00%); Vanguard C1 Relic (11.00%) |
+
+### Patch History (134 entries)
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): In the Veilbreaker and Nora’s Mix Vol 1 updates, we buffed a number of underused Warframe Augments (from Ash to Oberon). This third and final batch of buffs tackles Warframe Augments from Saryn to Zep
+- **Echoes of Veilbreaker: Hotfix 32.1.2** (2022-11-04T20:55:10Z): Adjusted more offsets for the Shard Bane Ephemera on Nidus, Gendel, Chroma, Lavos, Frost, Hildryn, Atlas, Rhino, Ash, and Vauban.
+- **Khora Prime: Hotfix 31.7.2** (2022-08-17T14:59:12Z): While maintaining our original intentions to connect Railjack to some more ‘core Warframe’ style rewards, we’ve made a few changes to have Ash components be more new player friendly for those starting
+- ...and 131 more patches
+
+## Atlas
+Enemies tremble before the brawler with fists as hard as stone. Atlas deals high damage. Command terrestrial elements that form the foundation of any battlefield.
+
+### Wiki
+Atlas
+Lotus
+Release Date: October 1st, 2015
+With stone cold fists and a titan's physique, Atlas bends rock to encrust and bulldoze through all challengers in his brawl. Champion of elemental earth, he manifests formidable ramparts, crushing boulders, and golem brethren to rampage his stomping grounds. Atlas was unearthed in Update 17.5.
+Atlas is a Warframe that commands the earth to deal heavy damage while fortifying his defenses. His Passive grants immunity to Knockdown while on the ground, and certain abilities drop Rubble to heal him and bolster his armor. Landslide has Atlas rush to an enemy to deliver a deadly punch from his Landslide Fists. Tectonics summons a protective stone wall that can be launched at enemies, while Petrify releases a gaze that petrifies enemies. Rumblers summons a pair of earthly golems that roam and attack enemies.
+Atlas's main blueprint is awarded after completing The Jordas Precept Quest. Atlas's component blueprints can be obtained from defeating the Jordas Golem on Jordas Golem Assassinate, Eris, which is unlocked following the aforementioned quest. Additional main blueprints can be bought from Cephalon Simaris for 50,000 Standing.
+Alternatively, upon completion of The Duviri Paradox, Atlas's main and component blueprints can be earned from The Circuit. By selecting him on the rotating week he is available, players can earn his blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Crafting
+Lore & History
+Tale of Telamon
+ExpandAtlasIntroduction:
+This is Atlas. Hard as stone. Is it any surprise that his story begins with an asteroid?
+Health: 270 | Shield: 270 | Armor: 475 | Energy: 175 | Sprint: 0.9
+Aura: madurai
+
+### Abilities
+**Landslide:** Bash enemies with an explosive sliding punch, repeat up to three times for a combo attack. Each hit in the three-punch combo increases the radius of the attack. Energy cost is reduced with each hit of Landslide. Install mods on the Landslide Fists to boost stats.
+**Tectonics:** Summon a Bulwark rock-wall, activate again to send the rocks crashing toward the enemy. Bulwarks attacked by enemies release an area-of-effect Slash powered by the Health it has lost.
+**Petrify:** Atlas' hardened gaze will fossilize foes increasing the damage they take, heal Rumblers, and create Petrified Bulwarks. When shattered, petrified enemies drop healing Rubble for Atlas.
+**Rumblers:** Summon two elemental stone brawlers to the melee. Summoning petrifies enemies in close proximity to Atlas. When finished, Rumblers collapse into a pile of healing Rubble.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Cephalon Simaris, Complete The Jordas Precept (100.00%) |
+| Chassis | 1 | Jordas Golem Assassinate, Rotation C (38.72%) |
+| Neuroptics | 1 | Jordas Golem Assassinate, Rotation C (38.72%) |
+| Orokin Cell | 1 | — |
+| Systems | 1 | Jordas Golem Assassinate, Rotation C (22.56%) |
+
+### Patch History (85 entries)
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): Disabled Atlas’ Rumblers having Petrify AOE in Conclave.
+- **Echoes of Veilbreaker: Hotfix 32.1.2** (2022-11-04T20:55:10Z): Adjusted more offsets for the Shard Bane Ephemera on Nidus, Gendel, Chroma, Lavos, Frost, Hildryn, Atlas, Rhino, Ash, and Vauban.
+- **Veilbreaker: Revenant Prime: Hotfix 32.0.9** (2022-10-05T17:59:06Z): Fixed Atlas’ Landslide ability triggering Archon Mod effects.
+- ...and 82 more patches
+
+## Atlas Prime
+In bygone ages, mountains were said to house warriors. In this age, the mountain has become the warrior.
+
+### Wiki
+In bygone ages, mountains were said to house warriors. In this age, the mountain has become the warrior.
+Release Date: October 1st, 2019
+Atlas Prime is the Primed variant of Atlas, acting as a direct upgrade. Atlas Prime was released alongside Tekko Prime and Dethcube Prime.
+Vaultings
+On August 31st, 2021, it was announced that Atlas Prime, along with Tekko Prime and Dethcube Prime, would enter the Prime Vault and be retired from the reward tables on September 8th, 2021. Any preexisting components or fully-built frames will remain as is.
+Crafting
+**Notes:**
+Atlas Prime, compared to Atlas:
+Higher Health (550/650 vs. 270/370)
+Higher Shield (455/555 vs. 270/370)
+Higher Armor (500 vs. 475)
+Higher Energy (215/265 vs. 175/225)
+Higher Starting Energy (75 vs. 50)
+Higher Sprint Speed (1.0 vs. 0.9)
+Additional Madurai Polarity (NaramonVazarinMaduraiMadurai vs. NaramonVazarinMadurai)
+If Atlas Prime wields his Signature Weapons:
+Tekko: Gains 6% status chance, for a total of 16% base status chance.
+Tekko Prime: Gains 6% status chance, for a total of 32% base status chance.
+DeathOrbEnergy
+Atlas Prime's earthly elemental constructs feature alternate appearances:
+Atlas Prime's Tectonics rock wall has a slightly darker color and features additional gold ore veins and cracks that glow with an orange lava color.
+Atlas Prime's Rumblers are formed by a solid, dense, and uniform rock formation, as opposed to looser and irregular rock for his non-Primed counterpart, featuring Atlas Prime's chosen primary color and cracks that glow with chosen emissive colors. The Rumblers also have gold ornaments on their torsos and knuckles, resembling those on Atlas Prime himself.
+The Rumblers will retain its appearance if a player choose to equip non-Prime default skin. However, equipping other skins will still change Rumblers' appearance accordingly.
+Health: 550 | Shield: 455 | Armor: 500 | Energy: 215 | Sprint: 1
+Aura: madurai
+
+### Abilities
+**Landslide:** Bash enemies with an explosive sliding punch, repeat up to three times for a combo attack. Each hit in the three-punch combo increases the radius of the attack. Energy cost is reduced with each hit of Landslide. Install mods on the Landslide Fists to boost stats.
+**Tectonics:** Summon a Bulwark rock-wall, activate again to send the rocks crashing toward the enemy. Bulwarks attacked by enemies release an area-of-effect Slash powered by the Health it has lost.
+**Petrify:** Atlas' hardened gaze will fossilize foes increasing the damage they take, heal Rumblers, and create Petrified Bulwarks. When shattered, petrified enemies drop healing Rubble for Atlas.
+**Rumblers:** Summon two elemental stone brawlers to the melee. Summoning petrifies enemies in close proximity to Atlas. When finished, Rumblers collapse into a pile of healing Rubble.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Lith D1 Relic (25.33%); Lith K6 Relic (25.33%); Lith M5 Relic (25.33%); Lith P3 Relic (25.33%); Lith P5 Relic (25.33%); Lith V9 Relic (25.33%); Neo Z7 Relic (25.33%) |
+| Chassis | 1 | Axi B3 Relic (11.00%); Lith B8 Relic (11.00%); Meso E3 Relic (11.00%); Neo A7 Relic (11.00%); Neo E2 Relic (11.00%); Neo M3 Relic (11.00%); Neo T3 Relic (11.00%) |
+| Neuroptics | 1 | Axi A11 Relic (2.00%); Axi A6 Relic (2.00%); Axi A9 Relic (2.00%); Lith A5 Relic (2.00%); Neo A5 Relic (2.00%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Axi F1 Relic (11.00%); Lith N4 Relic (11.00%); Meso C4 Relic (11.00%); Meso G2 Relic (11.00%); Meso I1 Relic (11.00%); Neo A3 Relic (11.00%); Neo N15 Relic (11.00%) |
+
+### Patch History (85 entries)
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): Disabled Atlas’ Rumblers having Petrify AOE in Conclave.
+- **Echoes of Veilbreaker: Hotfix 32.1.2** (2022-11-04T20:55:10Z): Adjusted more offsets for the Shard Bane Ephemera on Nidus, Gendel, Chroma, Lavos, Frost, Hildryn, Atlas, Rhino, Ash, and Vauban.
+- **Veilbreaker: Revenant Prime: Hotfix 32.0.9** (2022-10-05T17:59:06Z): Fixed Atlas’ Landslide ability triggering Archon Mod effects.
+- ...and 82 more patches
+
+## Banshee
+Banshee’s call heralds death. She maintains crowd control and identifies enemy weak points with sonic attacks. Few can hold their position when struck by her force.
+
+### Wiki
+Banshee
+Lotus
+Release Date: March 18th, 2013
+Sophisticated acoustic powers enable Banshee to pinpoint enemy positions and weak spots, suppress gunfire sounds in her surrounding environment, and even emit trembling vibrations to topple her foes. Banshee debuted in Update 7.
+Banshee is a Warframe that relies on sound to control the battlefield. Her Passive silences all weapons. Sonic Boom releases a sonic shockwave. Sonar applies an enemy Radar and debuffs them with a highlighted spot that receives increased damage, while Silence releases a sound dampening aura that stuns enemies briefly, deaf to noise, and disables special abilities. Sound Quake has Banshee plant her hands on the ground to stagger enemies with ultrasonic reverberations.
+**Acquisition:**
+Banshee's blueprints can be researched from the Tenno Lab in the Dojo.
+Crafting
+**Trivia:**
+The name Banshee comes from the Irish mythological creature which wails loudly if someone is about to die. This corresponds to the Warframe's powers as she is based on sound.
+Banshee was originally developed under the name Decree and is still referred to as as such internally in the game files.
+The characteristic large spike on Banshee's left shoulder is considered a customizable Armor part, and will be removed if any other arm plates are used. This makes it possible to make a symmetrical Banshee.
+The elongated nails are reminiscent of finger picks for a Japanese string instrument called koto
+Localization
+Name
+Description
+Passive
+Health: 270 | Shield: 270 | Armor: 105 | Energy: 175 | Sprint: 1.1
+Aura: madurai
+
+### Abilities
+**Sonic Boom:** Banshee emits a sonic shockwave that pushes targets in range with enough force to incapacitate or kill attackers.
+**Sonar:** Using acoustic location, Banshee's Sonar power finds and tracks enemies, and exposes critical weak spots to everyone in your squad.
+**Silence:** Using Silence surrounds Banshee in an aura that stuns enemies and will limit their perceptions and tactical response to gunfire and Warframe attacks.
+**Sound Quake:** Channeling all of her acoustic energy into the environment, Banshee uses ultrasonic reverberations to violently shake the ground.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | — |
+| Neuroptics | 1 | — |
+| Orokin Cell | 1 | — |
+| Systems | 1 | — |
+
+### Patch History (101 entries)
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): Changed Banshee's Sonic Fracture (Augment) armor reduction to be permanent.
+- **Zephyr & Chroma Prime Vault: Hotfix 31.5.10 + 31.5.10.1** (2022-05-17T17:31:55Z): Fixed Banshee’s Sound Quake and Caliban’s Razor Gyre not working correctly.  Fixed camera shake issues with Banshee’s Sound Quake.
+- **Zephyr & Chroma Prime Vault: Hotfix 31.5.8** (2022-05-11T18:00:14Z): Zephyr Prime, Chroma Prime, Tiberon Prime, Kronen Prime, Rubico Prime, and Gram Prime Relics have been added to the drop tables! These Relics have replaced the Banshee Prime and Mirage Prime Relics in
+- ...and 98 more patches
+
+## Banshee Prime
+Banshee Prime assails her foes by manipulating sonic forces to deadly effect. Featuring altered mod polarities for greater customization.
+
+### Wiki
+Banshee Prime assails her foes by manipulating sonic forces to deadly effect. Featuring altered mod polarities for greater customization.
+Ballas
+Release date: February 28th, 2017
+Banshee Prime is the Primed variant of Banshee, possessing higher armor, energy capacity, and sprint speed, as well as an additional Naramon polarity. Banshee Prime was released alongside Euphona Prime and Helios Prime.
+Vaultings
+On December 7th, 2018, it was announced that Banshee Prime, Euphona Prime, and Helios Prime would enter the Prime Vault and be retired from the reward tables on December 18th, 2018. Any preexisting components or fully-built frames will remain as-is.
+Crafting
+**Notes:**
+Banshee Prime, compared to Banshee:
+Higher Armor (135 vs. 105)
+Higher Energy (215/265 vs. 175/225)
+Higher Starting Energy (125 vs. 100)
+Higher Sprint Speed (1.15 vs. 1.1)
+Different Polarities (MaduraiMaduraiNaramon vs. MaduraiMadurai)
+DeathOrbEnergy
+Currently, Euphona Prime lacks a Signature Weapon bonus with Banshee Prime.
+Banshee Prime possesses a Appearance Left Arm Attachment called Banshee Prime Armor.
+**Trivia:**
+Banshee Prime is the third Warframe to have a direct Mastery Rank requirement, the first being Rhino and the second being Oberon Prime (as of Update 19.13 the mastery rank requirement for Rhino has been removed). She is also the second Warframe to have a Mastery Rank (direct or indirect) above the common 5, the first being Titania.
+The Banshee Prime Access Pack was unintentionally teased in console version 19.8.0.
+Players who won the Prime Gaming Giveaway received the Banshee Prime Access Pack on Update 19.11.4, a week before the pack's official release.
+JA2q9R08DnU
+Health: 270 | Shield: 270 | Armor: 135 | Energy: 215 | Sprint: 1.15
+Aura: madurai
+
+### Abilities
+**Sonic Boom:** Banshee emits a sonic shockwave that pushes targets in range with enough force to incapacitate or kill attackers.
+**Sonar:** Using acoustic location, Banshee's Sonar power finds and tracks enemies, and exposes critical weak spots to everyone in your squad.
+**Silence:** Using Silence surrounds Banshee in an aura that stuns enemies and will limit their perceptions and tactical response to gunfire and Warframe attacks.
+**Sound Quake:** Channeling all of her acoustic energy into the environment, Banshee uses ultrasonic reverberations to violently shake the ground.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Axi A12 Relic (11.00%); Axi C3 Relic (11.00%); Axi K3 Relic (11.00%); Meso E5 Relic (11.00%); Meso T2 Relic (11.00%); Neo H1 Relic (11.00%); Neo N7 Relic (11.00%); Neo T1 Relic (11.00%); Neo V7 Relic (11.00%) |
+| Chassis | 1 | Meso B2 Relic (2.00%); Neo B1 Relic (2.00%); Neo B2 Relic (2.00%); Neo B6 Relic (2.00%) |
+| Neuroptics | 1 | Axi H5 Relic (25.33%); Lith B5 Relic (25.33%); Lith M7 Relic (25.33%); Lith V5 Relic (25.33%); Meso S4 Relic (25.33%); Neo K2 Relic (25.33%); Neo S7 Relic (25.33%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Axi B1 Relic (2.00%); Axi B2 Relic (2.00%); Neo B4 Relic (2.00%); Neo B5 Relic (2.00%); Lith K5 Relic (11.00%) |
+
+### Patch History (101 entries)
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): Changed Banshee's Sonic Fracture (Augment) armor reduction to be permanent.
+- **Zephyr & Chroma Prime Vault: Hotfix 31.5.10 + 31.5.10.1** (2022-05-17T17:31:55Z): Fixed Banshee’s Sound Quake and Caliban’s Razor Gyre not working correctly.  Fixed camera shake issues with Banshee’s Sound Quake.
+- **Zephyr & Chroma Prime Vault: Hotfix 31.5.8** (2022-05-11T18:00:14Z): Zephyr Prime, Chroma Prime, Tiberon Prime, Kronen Prime, Rubico Prime, and Gram Prime Relics have been added to the drop tables! These Relics have replaced the Banshee Prime and Mirage Prime Relics in
+- ...and 98 more patches
+
+## Baruuk
+Beware the fury of the truly patient. Baruuk boasts survivability and crowd control. Pushed beyond his restraint, he unleashes the storm within.
+
+### Wiki
+Beware the fury of the truly patient. Baruuk boasts survivability and crowd control. Pushed beyond restraint, he unleashes the storm within.
+Lotus
+Release Date: December 18th, 2018
+Virtuously guided by his noble discipline, the pacifist monk Baruuk invokes sacred runes to evade conflict and bring blissful calm to endless strife. Reach beyond the brink of his patience, for foes to seek eternal rest within the storm unleashed. Baruuk reached enlightenment in Update 24.2.
+Baruuk is a pacifistic Warframe with incredible Damage Reduction and can distort enemies peacefully, yet his affinity for violence grows as his restraint wanes. His Passive builds Restraint from abilities that increases Damage Reduction. Elude enters a stance that has enemy attacks harmlessly pass through him as long as Baruuk does not attack. Lull releases a calming wave that puts enemies to sleep. Desolate Hands summons daggers that provide Damage Reduction and seek enemies to Disarmed their weapons. When his Restraint is eroded, Baruuk can summon the Serene Storm to unveil the Desert Wind fists while also further increasing Damage Reduction.
+**Acquisition:**
+Baruuk's blueprints can be purchased from Little Duck of Vox Solaris. The main blueprint requires players to be at Rank 2 - Agent, while component blueprints require Rank 3 - Hand. Each blueprint costs 5,000 Standing Standing, totaling to 20,000 Standing.
+Alternatively, upon completion of The Duviri Paradox, Baruuk's main and component blueprints can be earned from The Circuit. By selecting him on the rotating week he is available, players can earn his blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Crafting
+Health: 180 | Shield: 270 | Armor: 185 | Energy: 200 | Sprint: 1.2
+Aura: naramon
+
+### Abilities
+**Elude:** Dodge all incoming projectiles, but only while not attacking. Use again to deactivate this ability.
+**Lull:** A calming wave slows enemies until they fall into a slumber. Enemies woken by damage will be confused and disoriented. Short-term amnesia means all waking enemies forget anything that happened before the lull.
+**Desolate Hands:** Summon a bevy of orbiting daggers to seek out enemy guns, destroying them with a small explosion. Combine with Elude to double the range.
+**Serene Storm:** With his Restraint eroded, Baruuk commands the Desert Wind to deliver powerful radial strikes with his fists and feet. Each moment commanding the storm restores his Restraint.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Vox Solaris, Agent (100.00%) |
+| Chassis | 1 | Vox Solaris, Hand (100.00%) |
+| Neuroptics | 1 | Vox Solaris, Hand (100.00%) |
+| Orokin Cell | 1 | — |
+| Systems | 1 | Vox Solaris, Hand (100.00%) |
+
+### Patch History (38 entries)
+- **Lua’s Prey: Baruuk Prime: Hotfix 32.2.5** (2022-12-14T19:00:16Z): Lua’S Prey: Baruuk Prime: Hotfix 32.2.5: Patience gives way to unleashed fury in Baruuk Prime Access! Instantly add the latest Prime Warframe, his signature Prime Weapons and exclusive Prime Accessori
+- **Veilbreaker: Revenant Prime: Hotfix 32.0.12** (2022-10-12T19:39:20Z): Fixed the Theorem Demulcent Arcane applying its weapon damage increase buff to Wisp’s Breach Surge, Baruuk’s Desolate Hands, and Ember’s Fireball.
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): Fixed script error with Baruuk’s Serene Storm.
+- ...and 35 more patches
+
+## Baruuk Prime
+Doomed are the fools who attack the peace and exhaust the restraint of this reluctant warrior.
+
+### Wiki
+Doomed are the fools who attack the peace and exhaust the restraint of this reluctant warrior.
+Release Date: December 14th, 2022
+Baruuk Prime is the Primed variant of Baruuk, possessing enhanced Shields and Armor, as well as altered polarities. Baruuk Prime was released alongside Cobra & Crane Prime and Afuris Prime.
+Crafting
+**Notes:**
+Baruuk Prime, compared to Baruuk:
+Higher Shield (365/465 vs. 270/370)
+Higher Armor (240 vs. 185)
+Altered polarities (NaramonVazarinMadurai vs. VazarinVazarin)
+If Baruuk Prime wields his signature Cobra & Crane/Cobra & Crane Prime, every first hit on an enemy will put them to sleep for 2 seconds.
+DeathOrbEnergy
+Baruuk Prime, along with Baruuk, Volt Prime, Chroma Prime, Saryn Prime, Ivara Prime, Wisp (Wisp Prime), and Yareli, possesses the third highest max-rank energy pool of all Warframes at 300 at rank 30, behind Yareli Prime's 315 and Garuda Prime's 320.
+This can be increased to 600 with a maxed Flow, 850 with Primed Flow, and 880 with Primed Flow and Endurance Drift.
+Baruuk Prime's Lull and Serene Storm's Final Sunrise feature Energy color mandala surrounded by metallic ornament arrowheads, with his chosen Accent color, instead of typically drawn mandala arrowheads.
+Accent color inherited by his Elude and Desolate Hands are more vibrant than his normal counterpart.
+Health: 180 | Shield: 365 | Armor: 240 | Energy: 200 | Sprint: 1.2
+Aura: naramon
+
+### Abilities
+**Elude:** Dodge all incoming projectiles, but only while not attacking. Use again to deactivate this ability.
+**Lull:** A calming wave slows enemies until they fall into a slumber. Enemies woken by damage will be confused and disoriented. Short-term amnesia means all waking enemies forget anything that happened before the lull.
+**Desolate Hands:** Summon a bevy of orbiting daggers to seek out enemy guns, destroying them with a small explosion. Combine with Elude to double the range.
+**Serene Storm:** With his Restraint eroded, Baruuk commands the Desert Wind to deliver powerful radial strikes with his fists and feet. Each moment commanding the storm restores his Restraint.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Axi B9 Relic (2.00%); Lith B10 Relic (2.00%); Lith B11 Relic (2.00%); Meso B8 Relic (2.00%); Meso B9 Relic (2.00%) |
+| Chassis | 1 | Lith N15 Relic (11.00%); Lith P8 Relic (11.00%); Lith T13 Relic (11.00%); Meso V9 Relic (11.00%); Neo A8 Relic (11.00%); Neo K7 Relic (11.00%); Neo N23 Relic (11.00%); Neo S17 Relic (11.00%) |
+| Neuroptics | 1 | Axi B5 Relic (2.00%); Axi B6 Relic (2.00%); Axi B7 Relic (2.00%); Axi B8 Relic (2.00%); Neo B9 Relic (2.00%); Axi B9 Relic (11.00%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Axi P7 Relic (25.33%); Axi W3 Relic (25.33%); Meso H4 Relic (25.33%); Meso H6 Relic (25.33%); Meso H7 Relic (25.33%); Meso P14 Relic (25.33%); Meso R5 Relic (25.33%); Neo P8 Relic (25.33%) |
+
+### Patch History (38 entries)
+- **Lua’s Prey: Baruuk Prime: Hotfix 32.2.5** (2022-12-14T19:00:16Z): Lua’S Prey: Baruuk Prime: Hotfix 32.2.5: Patience gives way to unleashed fury in Baruuk Prime Access! Instantly add the latest Prime Warframe, his signature Prime Weapons and exclusive Prime Accessori
+- **Veilbreaker: Revenant Prime: Hotfix 32.0.12** (2022-10-12T19:39:20Z): Fixed the Theorem Demulcent Arcane applying its weapon damage increase buff to Wisp’s Breach Surge, Baruuk’s Desolate Hands, and Ember’s Fireball.
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): Fixed script error with Baruuk’s Serene Storm.
+- ...and 35 more patches
+
+## Bonewidow
+This fearsome Necramech, fashioned in honor of the Entrati matriarch, is a robust front-line fighter. Favoring armor and health over shield strength, Bonewidow can grab and hurl enemies, deploy a heavy shield for personal defense, and cleave through opposing ranks with a massive warblade.
+
+### Wiki
+Health class of shield? Similar to Rhino's Iron Skin?
+This fearsome Necramech, fashioned in honor of the Entrati matriarch, is a robust front-line fighter. Favoring armor and health over shield strength, Bonewidow can grab and hurl enemies, deploy a heavy shield for personal defense, and cleave through opposing ranks with a massive warblade.
+Father
+The Bonewidow is a heavily armored, melee-oriented Necramech, armed with its signature tower shield and exalted heavy sword to engage enemies in close quarters combat.
+Bonewidow is a shield warrior designed for defense. Meathook skewers an enemy to damage it over time while providing Life Steal and can be thrown as a living projectile. Shield Maiden raises her shield to block and reflect damage. Firing Line emits two beams that converge to group enemies while applying Lifted and Damage Vulnerability. Exalted Ironbride summons her Ironbride Archmelee to cleave the battlefield.
+**Acquisition:**
+Component blueprints for the Bonewidow are available for 3,500 Standing from the Necraloid Syndicate at Rank 2 - Clearance: Modus, while the main Bonewidow blueprint is available for 10,000 Standing at Rank 3 Clearance - Odima rank.
+Crafting the components additionally requires:
+Rank 1 - Outworlder with Solaris United to acquire Goblite Tears
+Rank 3 - Trusted with the Ostron to acquire Star Crimzian
+Rank 2 - Acquaintance with the Entrati to acquire Thaumic Distillate, Adramal Alloy, and Devolved Namalon
+(Optional) Rank 4 - Friend with the Entrati to be able to buy the Processed Vome Residue bait needed to fish for the Myxostomata for its Cranial Foremount
+Cranial Foremount can also be randomly dropped from Requiem Obelisks on the Cambion Drift
+Damaged Necramech components are dropped by enemy Necramechs that appear in Isolation Vault Bounties or purchased from Father.
+Health: 1880 | Shield: 430 | Armor: 480 | Energy: 175
+
+### Abilities
+**Meathook:** Skewer and hold a target, siphoning their health. Use again to hurl the victim damaging them and anyone near the impact site.
+**Shield Maiden:** Raise Bonewidow's shield to block incoming forward damage, reflecting it back at attackers. While active, bash enemies with a Maiden's Kiss.
+**Firing Line:** Sweep surrounding enemies into the line of fire and suspend them in air with a force beam.
+**Exalted Ironbride:** Summon a devastating exalted blade.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | NecraLoid (Loid), Clearance Odima (100.00%) |
+| Bonewidow Capsule | 1 | — |
+| Bonewidow Casing | 1 | — |
+| Bonewidow Engine | 1 | — |
+| Bonewidow Weapon Pod | 1 | — |
+
+### Patch History (22 entries)
+- **Update 30.9.0: Prime Resurgence** (2021-11-11T13:33:32Z): Additionally, we’ve halved most of the Mining/Fishing part costs for crafting the Voidrig as this is the ‘first’ Necramech players see in the Heart of Deimos quest, so we want to make acquiring it a l
+- **Update 30.7: Nidus Prime & Plague Star** (2021-09-08T16:58:55Z): Fixed a script error when casting Bonewidow’s Shield Maiden ability.
+- **Gara Prime: Hotfix 30.3.2** (2021-05-27T18:17:46Z): Fixed inability to purchase Bonewidow In Action Glyph nor the Voidrig In Action Glyph from Loid wares in the Necraloid Syndicate.
+- ...and 19 more patches
+
+## Caliban
+The heir of twin kingdoms ascends. Biological and Sentient life meet in Caliban. An adept monarch, he offers crowd control and survivability. His creator had more than one world in mind.
+
+### Wiki
+The heir of twin kingdoms ascends. Biological and Sentient life meet in Caliban. An adept monarch, he offers crowd control and survivability. His creator had more than one world in mind.
+Natah
+Release Date: December 15th, 2021
+Amalgamated with our ancient nemesis, his vessel of Helminth morph suffused by adaptive bionics. Hybridize the powers of Warframe and Sentient combined as Caliban, the chimeral prototype. Splinter forth his triad of familial fragments, to sweep death from Tau across Origin, through cyclonic devastation and destructive energy infusion. Caliban returned to wage war in Update 31: The New War.
+As the Sentient Warframe, Caliban boasts impressive adaptability in survival and battlefield control. His Passive builds Damage Reduction from incoming attacks, and all his abilities apply Tau Status for Status Chance Vulnerability. Razor Gyre spins towards enemies to deal damage while recovering Health, Shields, and Energy, while Sentient Wrath has him stomp to release a wave of energy to apply aerial stasis and Damage Vulnerability. Lethal Progeny summons three types of Sentients that provide shield restore and support: Conculyst melee fighters with high damage, Ortholyst ranged fighters that rapidly apply Tau status, and Summulysts that spawn Choralysts to distract enemies. Fusion Strike converges three streams of energy to a single point while leaving behind a fallout field, removing enemy shields and armor.
+Caliban's main blueprint is purchased from the Market. His component blueprints are acquired from Narmer Bounties after completion of The New War. One component blueprint is available as an uncommon drop; which component is available is chosen randomly on every Bounty refresh after 2½ hours.
+Crafting
+Health: 270 | Shield: 550 | Armor: 290 | Energy: 140 | Sprint: 1.1
+Aura: naramon
+
+### Abilities
+**Razor Gyre:** Dash forward in a spinning vortex of death. Struck enemies are inflicted with Tau Status Effect, making them more vulnerable to all other status effects. For each enemy hit, recover a portion of the energy cost, as well as health and shields. Enemies lifted by Sentient Wrath take increased damage.
+**Sentient Wrath:** Smash the ground sending out a radial wave of destruction. Those not killed by the initial blast are helplessly raised into the air, where they take amplified damage for a short time.
+**Lethal Progeny:** Cycle through Sentient unit types, then summon them to Caliban's side. Conculysts focus on raw melee damage. Ortholysts specialize in ranged attacks and inflict Tau Status Effect. Summulysts summon their own Choralysts and provide shield protection for the squad.
+**Fusion Strike:** Converge three streams of raw energy upon a single point, causing a massive explosion. The streams strip armor and shields, and each enemy struck detonates on stream convergence. Summoned Conculysts can wield their own mini Fusion Strikes.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | Earth/Cetus (Level 50 - 70 Cetus Bounty), Rotation B (5.45%); Venus/Orb Vallis (Level 50 - 70 Orb Vallis Bounty), Rotation B (5.45%); Earth/Cetus (Level 50 - 70 Cetus Bounty), Rotation B (7.50%); Venus/Orb Vallis (Level 50 - 70 Orb Vallis Bounty), Rotation B (7.50%); Earth/Cetus (Level 50 - 70 Cetus Bounty), Rotation B (8.11%); Venus/Orb Vallis (Level 50 - 70 Orb Vallis Bounty), Rotation B (8.11%) |
+| Neuroptics | 1 | Earth/Cetus (Level 50 - 70 Cetus Bounty), Rotation C (5.45%); Venus/Orb Vallis (Level 50 - 70 Orb Vallis Bounty), Rotation C (5.45%); Earth/Cetus (Level 50 - 70 Cetus Bounty), Rotation C (7.50%); Venus/Orb Vallis (Level 50 - 70 Orb Vallis Bounty), Rotation C (7.50%); Earth/Cetus (Level 50 - 70 Cetus Bounty), Rotation C (8.11%); Venus/Orb Vallis (Level 50 - 70 Orb Vallis Bounty), Rotation C (8.11%) |
+| Orokin Cell | 12 | — |
+| Systems | 1 | Earth/Cetus (Level 50 - 70 Cetus Bounty), Rotation A (5.45%); Venus/Orb Vallis (Level 50 - 70 Orb Vallis Bounty), Rotation A (5.45%); Earth/Cetus (Level 50 - 70 Cetus Bounty), Rotation A (7.50%); Venus/Orb Vallis (Level 50 - 70 Orb Vallis Bounty), Rotation A (7.50%); Earth/Cetus (Level 50 - 70 Cetus Bounty), Rotation A (8.11%); Venus/Orb Vallis (Level 50 - 70 Orb Vallis Bounty), Rotation A (8.11%) |
+
+### Patch History (16 entries)
+- **Lua’s Prey: Hotfix 32.2.1** (2022-11-30T22:33:07Z): Fixed crash when hovering over Caliban’s abilities.
+- **Echoes of Veilbreaker: Update 32.1** (2022-11-02T15:00:14Z): Made slight tweaks to Caliban’s audio mix.
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Caliban’s Razor Gyre
+- ...and 13 more patches
+
+## Caliban Prime
+Forged in celebration of the all-too-brief peace between the Orokin and Sentients, Caliban Prime is a true collaborative masterpiece. The heir of twin kingdoms arises in royal gold.
+
+### Wiki
+Forged in celebration of the all-too-brief peace between the Orokin and the Sentients, Caliban Prime is a true collaborative masterpiece. The heir of twin kingdoms arises in royal gold.
+Release Date: August 26th, 2025
+Caliban Prime is the Primed variant of Caliban, sporting increased Shields and Energy, and two additional Madurai polarities. Caliban Prime was released alongside Venato Prime and Vadarya Prime.
+Crafting
+**Notes:**
+Caliban Prime, compared to Caliban:
+Higher Shield (640/740 vs. 550/650)
+Higher Energy (175/225 vs. 140/190)
+Higher Starting Energy (100 vs. 75)
+Additional two Madurai polarities (VazarinMaduraiMadurai vs Vazarin)
+DeathOrbEnergy
+When Caliban Prime wields his Signature Venato/Venato Prime, each Melee hit has a 50% chance to gain additional Melee Combo points.
+Lethal Progeny's Sentients have altered appearances to match his Prime aesthetics. Choralysts (via Summulyst) are unaltered, presumably due to their spectral nature.
+Caliban Prime possesses Auxiliary Appearance Attachments titled Caliban Prime Pinions, which are wing-like appendages.
+**Trivia:**
+Caliban Prime can be seen on display during The Old Peace, a creation that combines Sentient and Orokin technologies. Daklo describes him as a "waste of Orokin gold" and an "aberration".
+While the original Caliban is explicitly stated to be Erra's design in-universe, it is unknown whether Caliban Prime is also designed by him.
+Caliban Prime is the second Prime Warframe after Wisp Prime to not be released on a Wednesday.
+Much like Mirage Prime before him, Caliban Prime is seen with a unique idle animation in his dedicated launcher screen during Update 39.1. This animation is not seen anywhere else in-game.
+Prime Access
+Health: 270 | Shield: 640 | Armor: 290 | Energy: 175 | Sprint: 1.1
+Aura: naramon
+
+### Abilities
+**Razor Gyre:** Dash forward in a spinning vortex of death. Struck enemies are inflicted with Tau Status Effect, making them more vulnerable to all other status effects. For each enemy hit, recover a portion of the energy cost, as well as health and shields. Enemies lifted by Sentient Wrath take increased damage.
+**Sentient Wrath:** Smash the ground sending out a radial wave of destruction. Those not killed by the initial blast are helplessly raised into the air, where they take amplified damage for a short time.
+**Lethal Progeny:** Cycle through Sentient unit types, then summon them to Caliban's side. Conculysts focus on raw melee damage. Ortholysts specialize in ranged attacks and inflict Tau Status Effect. Summulysts summon their own Choralysts and provide shield protection for the squad.
+**Fusion Strike:** Converge three streams of raw energy upon a single point, causing a massive explosion. The streams strip armor and shields, and each enemy struck detonates on stream convergence. Summoned Conculysts can wield their own mini Fusion Strikes.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Meso V11 Relic (11.00%); Meso V13 Relic (11.00%); Meso V15 Relic (11.00%); Vanguard M1 Relic (25.33%) |
+| Chassis | 1 | Lith K12 Relic (25.33%); Meso V15 Relic (25.33%); Meso Y1 Relic (25.33%); Vanguard P1 Relic (25.33%) |
+| Neuroptics | 1 | Lith C13 Relic (2.00%); Neo C7 Relic (2.00%); Vanguard E1 Relic (11.00%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Axi C10 Relic (2.00%); Axi C11 Relic (2.00%); Vanguard C1 Relic (2.00%) |
+
+## Chroma
+Unleash the draconic. Chroma employs Heat, Electricity, Toxin, and Cold to deal high damage while maintaining survivability. Soar with winged fury.
+
+### Wiki
+Unleash the draconic. Chroma employs Heat, Electricity, Toxin, and Cold to deal high damage while maintaining survivability. Soar with winged fury.
+Lotus
+Release Date: March 19th, 2015
+Overwhelming his foes with fiery rage, shocking touch, venomous breath, or a cold embrace, the draconic hunter Chroma wields elemental caprice to reign supreme. Chroma awoke in Update 16.
+Chroma is a Warframe with draconic powers that commands Heat, Electricity, Toxin, and Cold both offensively and defensively. His Passive grants an additional double jump and bullet jump. Spectral Scream releases an elemental breath. Elemental Ward bestows an aura of elemental energy: Heat increases Health, Electricity increases Shields and discharges electric currents from received damage, Toxin increases Reload Speed and Holster Speed, and Cold increases Armor while reflecting damage. Vex Armor fortifies Chroma with Scorn from incoming shield damage or melee kill to increase armor and Fury from incoming health damage or ranged weapon kill to increase weapon damage. Effigy sheds his pelt to summon a sentry that autonomously releases elemental breath attacks while increasing Credits drop rate and yields.
+**Acquisition:**
+Chroma's main blueprint is rewarded upon completion of the quest The New Strange. Component blueprints are awarded by completing Junctions: The Neuroptics from the Uranus Junction, the Chassis from the Neptune Junction, and the Systems from the Pluto Junction. Additional blueprints can be bought from Cephalon Simaris; 25,000 Standing for component blueprints and 50,000 Standing for main blueprint.
+Alternatively, upon completion of The Duviri Paradox, Chroma's main and component blueprints can be earned from The Circuit. By selecting him on the rotating week he is available, players can earn his blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Crafting
+Health: 270 | Shield: 270 | Armor: 370 | Energy: 175 | Sprint: 1
+Aura: madurai
+
+### Abilities
+**Spectral Scream:** Exhale a deep breath of elemental destruction. Tap to cycle through elements, hold to cast. The chosen element applies to all of Chroma's abilities.
+**Elemental Ward:** Depending on Chroma's elemental alignment, an offensive area-of-effect is created. Chroma and its nearby allies are imbued with defensive energy.
+**Vex Armor:** Chroma fortifies squad Armor when his Shields are damaged or he kills an enemy with a melee weapon. He increases squad Weapon Damage when he loses Health or he kills an enemy with a ranged weapon, double the effect on weak point kills.
+**Effigy:** Chroma turns his pelt into a massive sentry that strengthens nearby allies and engulfs enemies in elemental attacks.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Cephalon Simaris, Complete The New Strange (100.00%) |
+| Chassis | 1 | Cephalon Simaris, Complete Neptune Junction (100.00%) |
+| Neuroptics | 1 | Cephalon Simaris, Complete Uranus Junction (100.00%) |
+| Systems | 1 | Cephalon Simaris, Complete Pluto Junction (100.00%) |
+| Volt Neuroptics | 1 | — |
+
+### Patch History (135 entries)
+- **Echoes of Veilbreaker: Hotfix 32.1.2** (2022-11-04T20:55:10Z): Adjusted more offsets for the Shard Bane Ephemera on Nidus, Gendel, Chroma, Lavos, Frost, Hildryn, Atlas, Rhino, Ash, and Vauban.
+- **Veilbreaker: Revenant Prime: Hotfix 32.0.12** (2022-10-12T19:39:20Z): Changed Chroma’s Toxin Elemental Ward Holster Speed increase to a Damage Buff on weapon swap.
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Fixed Chroma’s ‘Cold’ Elemental Ward applying a large damage multiplier bonus to bullets that hit an absorb/redirect volume (Xaku’s Whisper or Mag’s Magnetize).
+- ...and 132 more patches
+
+## Chroma Prime
+Bind the elements and unleash untold destruction with Chroma Prime. Featuring altered mod polarities for greater customization.
+
+### Wiki
+Bind the elements and unleash untold destruction with Chroma Prime. Featuring altered mod polarities for greater customization.
+Release Date: September 25th, 2018
+Chroma Prime is the Primed variant of Chroma, possessing increased armor, energy, and additional Vazarin and Naramon polarities. Chroma Prime was released alongside Gram Prime and Rubico Prime.
+Vaultings
+Add missing unvaultings from Prime Vault page
+On June 30th, 2020, it was announced that Chroma Prime would enter the Prime Vault and be retired from the reward tables on July 14th, 2020. Any preexisting components or fully-built frames will remain as is.
+Crafting
+**Notes:**
+Chroma Prime, compared to Chroma:
+Higher Armor (450 vs. 370)
+Higher Energy (200/300 vs. 175/225)
+Higher Starting Energy (100 vs. 75)
+Additional Vazarin and Naramon Polarities (NaramonVazarinMaduraiNaramon vs. NaramonMadurai)
+DeathOrbEnergy
+Chroma Prime, along with Volt Prime, Saryn Prime, Ivara Prime, Baruuk (Baruuk Prime), Wisp (Wisp Prime), and Yareli, possesses the third highest max-rank energy pool of all Warframes at 300 at rank 30, behind Yareli Prime's 315 and Garuda Prime's 320.
+This can be increased to 600 with a maxed Flow, 850 with Primed Flow, and 880 with Primed Flow and Endurance Drift.
+Chroma Prime's Effigy has larger and more complex wings than the original, along with orbiting particles.
+**Trivia:**
+Chroma Prime is the third Primed Warframe whose non-primed variant was unlockable through a quest (The New Strange), after Mirage and Limbo.
+Image
+Vaultings
+On June 30th, 2020, it was announced that Chroma Prime would enter the Prime Vault and be retired from the reward tables on July 14th, 2020, along with Gram Prime and Rubico Prime. Any preexisting components or fully-built frames will remain as is.
+Health: 270 | Shield: 270 | Armor: 450 | Energy: 200 | Sprint: 1
+Aura: madurai
+
+### Abilities
+**Spectral Scream:** Exhale a deep breath of elemental destruction. Tap to cycle through elements, hold to cast. The chosen element applies to all of Chroma's abilities.
+**Elemental Ward:** Depending on Chroma's elemental alignment, an offensive area-of-effect is created. Chroma and its nearby allies are imbued with defensive energy.
+**Vex Armor:** Chroma fortifies squad Armor when his Shields are damaged or he kills an enemy with a melee weapon. He increases squad Weapon Damage when he loses Health or he kills an enemy with a ranged weapon, double the effect on weak point kills.
+**Effigy:** Chroma turns his pelt into a massive sentry that strengthens nearby allies and engulfs enemies in elemental attacks.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Axi A6 Relic (25.33%); Axi D1 Relic (25.33%); Axi G5 Relic (25.33%); Axi T5 Relic (25.33%); Meso B4 Relic (25.33%); Meso P1 Relic (25.33%); Meso Z3 Relic (25.33%); Neo K2 Relic (25.33%) |
+| Chassis | 1 | Axi R2 Relic (11.00%); Meso C5 Relic (11.00%); Meso D4 Relic (11.00%); Meso K2 Relic (11.00%); Meso L1 Relic (11.00%); Meso T3 Relic (11.00%); Neo Z8 Relic (25.33%) |
+| Neuroptics | 1 | Lith C3 Relic (2.00%); Lith C4 Relic (2.00%); Lith C8 Relic (2.00%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Axi C3 Relic (2.00%); Axi C4 Relic (2.00%); Meso C4 Relic (2.00%); Neo C1 Relic (2.00%); Meso R4 Relic (11.00%) |
+
+### Patch History (135 entries)
+- **Echoes of Veilbreaker: Hotfix 32.1.2** (2022-11-04T20:55:10Z): Adjusted more offsets for the Shard Bane Ephemera on Nidus, Gendel, Chroma, Lavos, Frost, Hildryn, Atlas, Rhino, Ash, and Vauban.
+- **Veilbreaker: Revenant Prime: Hotfix 32.0.12** (2022-10-12T19:39:20Z): Changed Chroma’s Toxin Elemental Ward Holster Speed increase to a Damage Buff on weapon swap.
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Fixed Chroma’s ‘Cold’ Elemental Ward applying a large damage multiplier bonus to bullets that hit an absorb/redirect volume (Xaku’s Whisper or Mag’s Magnetize).
+- ...and 132 more patches
+
+## Citrine
+Gaze upon the Crystal Bastion. Citrine's crystalline might supports allies on the battlefield. Combat only enhances her fractal beauty.
+
+### Wiki
+Gaze upon the Crystal Bastion. Citrine's crystalline might supports allies on the battlefield. Combat only enhances her fractal beauty.
+Release Date: February 15th, 2023
+Glisten bright with gemstone purity and become bejeweled in adamant amber. Revealed by luminous lustre, witness her pristine beauty as the Crystal Bastion, Citrine, ascends from the cavernous unknown. Embrace beloved kin in her diamond lattice, then fracture brilliant light into its elemental spectrum. Summon saffron shards and fractal fissures soaring toward the surface, to embed and embalm the fallen within exquisite mementos. Citrine crystallized in Update 32.3: Citrine's Last Wish.
+Citrine is a crystalline Warframe that manipulates minerals to support her allies. Her Passive grants Geoluminesence to her squad on Health Orbs to increase Health restore per second. Fractured Blast flicks crystal shards on enemies that when killed have increased Health Orb and Energy Orb drop chance. Preserving Shell guards herself and allies with a crystalline shield to provide Damage Reduction that strengthens with enemy kills. Prismatic Gem deploys a stationary gem that boosts Status Chance and Status Duration while attacking enemies within its aurora projects a light beam that applies Heat, Cold, Toxin, and Electricity status. Crystallize slams the ground with crystalline fissures that immobilizes enemies and spawn large crystal growths that receive increased Critical Chance.
+Citrine's main and component blueprints can be obtained from Rotation C of Mirror Defense Tyana Pass on Mars, whose access requires completion of Heart of Deimos.
+Health: 400 | Shield: 270 | Armor: 265 | Energy: 130 | Sprint: 1
+Aura: naramon
+
+### Abilities
+**Fractured Blast:** Slash and stagger enemies with a crystal blast that inflicts Slash Status. Enemies afflicted with this Status Effect have an increased chance of dropping Health and Energy Orbs.
+**Preserving Shell:** Citrine guards herself and nearby allies with a crystalline shell that gradually decays. Kills and assists increase the defensive power of the shell.
+**Prismatic Gem:** Deploy a gem that shoots prismatic beams. The gem targets enemies that are taking weapon damage from Citrine and her allies. Its beams inflict Heat, Cold, Toxin, and Electricity Status Effects. Status Chance and Status Duration increase for nearby allies.
+**Crystallize:** Citrine summons crystal fractals. The fractals rush forward, seeking enemies. Enemies touched by the fractals are paralyzed by crystalline growths. Hit the growths to deal Critical Damage.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Mars/Tyana Pass (Defense), Rotation C (9.30%) |
+| Chassis | 1 | Mars/Tyana Pass (Defense), Rotation C (6.10%) |
+| Neuroptics | 1 | Mars/Tyana Pass (Defense), Rotation C (6.10%) |
+| Orokin Cell | 3 | — |
+| Systems | 1 | Mars/Tyana Pass (Defense), Rotation C (6.10%) |
+
+## Cyte-09
+Move like a shadow, strike with force. The Orokin created a Warframe that marries damage and stealth to eliminate sensitive problems, but he disappeared in the chaos of their demise. All that remains is a batch name: Cyte-09.
+
+### Wiki
+Move like a shadow, strike with force. The Orokin created a Warframe that marries damage and stealth to eliminate sensitive problems, but he disappeared in the chaos of their demise. All that remains is a batch name: Cyte-09.
+Release Date: December 13, 2024
+Locked and loaded with his bullseye on the prize, nothing evades his crosshairs. A flash of gunfire before quickly repositioning, empowering his weapons to quickly eliminate his next targets. Whatever his original name was is lost to history, but he goes by a new designation: Cyte-09. Proximity alert at the rendezvous... impromptu target practice, right on cue. Cyte-09 set his sights on Update 38: 1999.
+Cyte-09 is a marksman Warframe that carries long-ranged attacks and stealth. His Passive grants increased Critical Chance on Weak Point kills. Seek plants an antennae that highlight enemies through walls while increasing their vulnerability to weak point damage and increases Cyte-09's weapon Punch Through, Resupply deploys ammo packs that increases elemental damage of a selected type, and Evade renders Cyte-09 Invisible which can be extended with weak point kills. Neutralize summons the exalted sniper rifle Neutralizer, whose weak point hits ricochet to adjacent enemies and has an Alternate Fire that launches a Cold grenade.
+Cyte-09's main blueprint is acquired upon completion of The Hex quest. His component blueprints are acquired from Höllvania Central Mall Bounties as an uncommon drop.
+Alternatively Cyte-09's blueprints can be purchased from Amir of The Hex; component blueprints for 20,000 Standing and requires Rank 2 - Fresh Slice, and the main blueprint for 50,000 Standing and requires Rank 4 - Hot & Fresh.
+Crafting
+Lore & History
+Loid
+Crafted by the Orokin to carry out highly sensitive missions, this Warframe was never given an actual name, only addressed by its batch name: Cyte-09.
+After the fall of the Orokin, Cyte-09 would disappear during the ensuing chaos.
+Health: 225 | Shield: 135 | Armor: 150 | Energy: 180 | Sprint: 1.1
+Aura: madurai
+
+### Abilities
+**Seek:** Plant an antenna that projects a forward wave scan. Detected enemies take increased Weak Point Damage, and become visible through walls. Weapons gain Punch through.
+**Resupply:** Throw two Elemental Ammo Packs that instantly refill the active weapon’s magazine, while granting the weapon an additional instance of the selected Elemental Damage and Status Effect. Reload clears the effect. Sniper Rifles gain extra damage.
+Hold the ability to select the Elemental Damage type.
+**Evade:** Jump backwards and become invisible for a short duration. Killing enemies on their Weak Points extends the duration and heals Cyte-09.
+**Neutralize:** Summon the Neutralizer, Cyte-09’s exalted Sniper Rifle. Bullets ricochet off Weak Points to seek out other nearby Weak Points. Alt fire lobs a Cold grenade that completely freezes enemies.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | Höllvania (Level 55 - 60 WF1999 Bounty), Rotation C (12.20%) |
+| Neuroptics | 1 | Höllvania (Level 65 - 70 WF1999 Bounty), Rotation C (11.63%) |
+| Orokin Cell | 1 | — |
+| Systems | 1 | Höllvania (Level 75 - 80 WF1999 Bounty), Rotation C (13.33%) |
+
+## Dagath
+Never underestimate the power and wrath of sullen sadness. Dagath's malice deals high damage.
+
+### Wiki
+Never underestimate the power and wrath of sullen sadness. Dagath’s malice deals high damage.
+Release Date: October 18th, 2023
+By twilight crepuscule on Naberus Eve, when the damned revel in ritual while the bereaved beseech for seance, an autumn draught rattles these wretched bones. Unseal the haunted crypt of Dagath at your peril, lest her night mares plague the living. Awaken, oh mighty Hollow Rider, to bestride ye ghastly steeds. Ne'er do they dare forget the whirl of splintered spines, the vendetta of her untaken soul, and the vestige of Rakhali's spectral stampede. Dagath and her loyal steed rode into service in Update 34: Abyss of Dagath.
+The Warframe who had lost her face, Dagath roams to reap the souls of the living and deals significant damage. Her Passive has a chance to strengthen the recovery of Health Orbs and Energy Orbs. Wyrd Scythes launches projectiles that apply Viral status and Slow, while Doom curses enemies with a spectral sickle that stores damage received to be inflicted as an additional damage instance. Grave Spirit strengthens weapon Critical Damage and allows Dagath to negate death, during which slain enemies are guaranteed to drop Health Orbs. Rakhali's Cavalry summons phantom Kaithes that charge forward to remove enemy shields and armor.
+**Acquisition:**
+Dagath's main and component blueprints are acquired from Dagath's Hollow within the Clan Dojo. Unlike most Clan Dojo rooms, Dagath does not require Research and can be acquired immediately following the room's construction.
+Health: 566 | Shield: 150 | Armor: 125 | Energy: 175 | Sprint: 1.1
+Aura: zenurik
+
+### Abilities
+**Wyrd Scythes:** Wyrd Scythes surround Dagath and seek out nearby enemies. Those struck are slowed and suffer Viral Damage with a guaranteed Status Effect. The scythes also spread Doom and extend its duration.
+**Doom:** Condemn nearby enemies to their doom. A portion of the damage Dagath deals is revisited upon them by a Wyrd Scythe. They also suffer Viral Damage.
+**Grave Spirit:** Supercharge Dagath’s weapons with extra Critical Damage. The effects are doubled on Doomed enemies. Escape fatal blows by briefly assuming a spectral form.
+**Rakhali's Cavalry:** Phantom Kaithes charge forth, inflicting Viral Damage upon all in their path. Their attack strips the defenses of Doomed enemies.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | — |
+| Neuroptics | 1 | — |
+| Orokin Cell | 3 | — |
+| Systems | 1 | — |
+
+## Dante
+Seeker of knowledge. Keeper of history. Daring researcher of Leverian lore. Dante composes arcane tales to support allies and devastate enemies.
+
+### Wiki
+Seeker of knowledge. Keeper of history. Daring researcher of Leverian lore. Dante composes arcane tales to support allies and devastate enemies.
+Release Date: March 27th, 2024
+Recite the epic tales of yore and chronicle our heroic deeds, woven therein the gilded tapestry of Orokin history. Since foreshadowed from the Noctua's luminous pages, authored by the Keeper of History, Dante, he illustrates for defiant foes their predestined demise. Don his occult quills and tome, with gun and blade in tow, to inscribe our legacy as fate unfolds. Rescind the Corpus plot to denude Leverian's exhibition halls, thus devise narratives yet unwritten upon its walls. Dante's new tale began in Update 35.5: Dante Unbound.
+Dante is a spellcaster Warframe that provides offensive support. His Passive grants increased Status Chance to enemies fully scanned into the Codex. Noctua summons his tome Noctua to scan enemies while its attacks ricochet and has an Alternate Fire that hurls a wide projectile. Light Verse grants Overguard to himself and his allies, while Dark Verse applies Slash damage to enemies. Final Verse combines Light and Dark Verses to materialize a story: Triumph grants Overguard on kills, Tragedy releases a damaging wave that detonates active Slash, Heat, and Toxin statuses, Wordwarden summons a Noctua companion for himself and allies to provide firing support, and Pageflight summons invulnerable Paragrimms that weaken enemies with Status Chance and Status Damage Vulnerability.
+Dante's main and component blueprints can be obtained from Rotation C of Disruption Armatus on Deimos. Access requires completion of The Deadlock Protocol and Whispers in the Walls.
+Alternatively they be purchased from Loid in Sanctum Anatomica with Vessel Capillaries, which are dropped by Disruption Armatus Demolishers in quantities of 2-4 (5-7 on The Steel Path). Each component blueprint requires 90 and the main blueprint requires 270, totaling 540 Vessel Capillaries for the whole set.
+Health: 300 | Shield: 150 | Armor: 145 | Energy: 200 | Sprint: 1.15
+Aura: aura
+
+### Abilities
+**Noctua:** Open Noctua, Dante’s Exalted Tome, and unleash a tale of woe upon his enemies.
+**Light Verse:** Dante's vitalizing composition grants him and his allies Overguard and increases their Health.
+**Dark Verse:** Dante's composition draws blood from nearby enemies, inflicting Slash Damage upon them.
+**Final Verse:** Dante must compose two other Verses before his Final Verse.
+TRIUMPH: Two Light Verses cast in succession invigorate allies with a buff that increases Health and grants Overguard. Kills and assists briefly regenerate Overguard.Dante must compose two other Verses before his Final Verse.
+TRAGEDY: Two Dark Verses cast in succession attack enemies. Damage Over Time from Slash, Heat and Toxin Status Effects accumulates in a single blast.Dante must compose two other Verses before his Final Verse.
+WORDWARDEN: A Light Verse followed by a Dark Verse supports allies with copies of Noctua. Noctua copies synchronize their attacks with their designated ally’s attacks.Dante must compose two other Verses before his Final Verse.
+PAGEFLIGHT: A Dark Verse followed by a Light Verse summons Paragrimms that swoop at enemies, making them vulnerable to Status Chance and Status Damage, as well as drawing enemy attacks away from allies.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Deimos/Armatus (Disruption), Rotation C (7.50%) |
+| Chassis | 1 | Deimos/Armatus (Disruption), Rotation C (5.00%) |
+| Neuroptics | 1 | Deimos/Armatus (Disruption), Rotation C (5.00%) |
+| Orokin Cell | 3 | — |
+| Systems | 1 | Deimos/Armatus (Disruption), Rotation C (5.00%) |
+
+## Ember
+Harness the power of fire. Ember’s heat deals high damage. She keeps a cool head when the battle is hot.
+
+### Wiki
+Harness the power of fire. Ember's heat deals high damage. She keeps a cool head when the battle is hot.
+Lotus
+Release Date: October 25th, 2012
+Radiant starfire light our worlds ablaze. Igneous as the burning sun, Ember's fiery rage engulfs her foes and scatters their cinders in the solar wind. Empress of elemental flame, scorch the land with her wildfires. Control her fury or fuel the heat to unleash destructive incineration, leaving charred corpses and ashes adrift in her scarlet sea. Ember's flame first sparked in Vanilla and reignited in Update 26.0: The Old Blood.
+Ember is a Warframe that wields the destructive power of Heat. Her Passive increases her Ability Strength while nearby enemies burn from Heat status. Fireball hurls a flaming projectile. Immolation surrounds her in flame to increase her Damage Reduction, but the heat must be carefully maintained from her other abilities lest she rapidly drains Energy from overheating. Fire Blast releases a wave that removes enemy armor, while Inferno summons meteors that crashes above enemies.
+Ember's main blueprint can be purchased from the Market. Ember's component blueprints are acquired from General Sargas Ruk (Tethys, Saturn).
+Alternatively, upon completion of The Duviri Paradox, Ember's main and component blueprints can be earned from The Circuit. By selecting her on the rotating week she is available, players can earn her blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Crafting
+Health: 270 | Shield: 270 | Armor: 135 | Energy: 175 | Sprint: 1.1
+Aura: madurai
+
+### Abilities
+**Fireball:** Release a fiery projectile that ignites enemies on contact.
+**Immolation:** Protect Ember with flame armor that burns stronger over time, consuming energy once its meter is at full strength. Cast again to extinguish the flame.
+**Fire Blast:** Slam the ground to create a wave of incinerating plasma that knocks back enemies and strips their armor.
+**Inferno:** Command a flaming comet to crash down in front of Ember, engulfing enemies with a fire that can spread through their ranks.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | Saturn/Tethys (Assassination) (38.72%) |
+| Neuroptics | 1 | Saturn/Tethys (Assassination) (38.72%) |
+| Orokin Cell | 1 | — |
+| Systems | 1 | Saturn/Tethys (Assassination) (22.56%) |
+
+### Patch History (124 entries)
+- **Echoes of Veilbreaker: Update 32.1** (2022-11-02T15:00:14Z): Boost your Arsenal instantly with the new Ember Starter Pack, including a Warframe, Customizations and many more powerful items. Light the Origin System aflame with Ember's Abilities and Essential Hea
+- **Veilbreaker: Revenant Prime: Hotfix 32.0.12** (2022-10-12T19:39:20Z): Fixed the Theorem Demulcent Arcane applying its weapon damage increase buff to Wisp’s Breach Surge, Baruuk’s Desolate Hands, and Ember’s Fireball.
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Fixed Ember’s Fire blast shockwave not proc’ing Archon Vitality’s double Heat damage bonus.  Ember’s Fire Blast with Healing Flame Augment
+- ...and 121 more patches
+
+## Ember Prime
+Ember Prime offers the same potential for wanton destruction as Ember but provides unique mod polarities, allowing for greater customization.
+
+### Wiki
+Ember Prime
+In-game Description
+Release Date: November 20th, 2013
+Ember Prime is the Primed variant of Ember, possessing higher shields and armor, as well as a Madurai and Vazarin polarity. Ember Prime was released alongside Sicarus Prime and Glaive Prime.
+Vaultings
+On September 29th, 2015, it was announced that Ember Prime would enter the Prime Vault and be retired from the reward tables on October 6th, 2015. Any preexisting components or fully-built frames will remain as is.
+Ember Prime, along with Frost Prime, Sicarus Prime, Glaive Prime, Latron Prime, and Reaper Prime, were unvaulted from December 6, 2016 to January 3, 2017.
+Ember Prime, with the same line up, were unvaulted from January 29, 2019 to March 26, 2019.
+Ember Prime, with the same line up, were unvaulted from September 29, 2020 to December 15, 2020.
+Ember Prime was available from Prime Resurgence which ran from November 16, 2021 to January 25, 2022.
+Ember Prime, along with Glaive Prime, Sicarus Prime, Rhino Prime, Boltor Prime, and Ankyros Prime, are available from Prime Resurgence from July 20, 2024 to October 24, 2024.
+Crafting
+**Notes:**
+Ember Prime, compared to Ember:
+Higher Shields (365/465 vs. 270/370)
+Higher Armor (160 vs. 135)
+Altered Polarities (MaduraiVazarin vs. NaramonNaramon)
+DeathOrbEnergy
+Ember Prime is the first Primed frame to come with only 2 polarized slots, all others come with 3.
+Health: 270 | Shield: 365 | Armor: 160 | Energy: 175 | Sprint: 1.1
+Aura: madurai
+
+### Abilities
+**Fireball:** Release a fiery projectile that ignites enemies on contact.
+**Immolation:** Protect Ember with flame armor that burns stronger over time, consuming energy once its meter is at full strength. Cast again to extinguish the flame.
+**Fire Blast:** Slam the ground to create a wave of incinerating plasma that knocks back enemies and strips their armor.
+**Inferno:** Command a flaming comet to crash down in front of Ember, engulfing enemies with a fire that can spread through their ranks.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Axi E1 Relic (2.00%); Lith E1 Relic (2.00%); Meso E1 Relic (2.00%); Neo E1 Relic (2.00%); Vanguard E1 Relic (2.00%) |
+| Chassis | 1 | Meso B10 Relic (25.33%); Meso F2 Relic (25.33%); Neo F1 Relic (25.33%); Vanguard C1 Relic (25.33%) |
+| Neuroptics | 1 | Meso S14 Relic (11.00%); Meso F3 Relic (25.33%); Neo S5 Relic (25.33%); Vanguard M1 Relic (25.33%) |
+| Orokin Cell | 1 | — |
+| Systems | 1 | Axi R4 Relic (11.00%); Axi S2 Relic (11.00%); Lith G1 Relic (11.00%); Vanguard P1 Relic (11.00%) |
+
+### Patch History (124 entries)
+- **Echoes of Veilbreaker: Update 32.1** (2022-11-02T15:00:14Z): Boost your Arsenal instantly with the new Ember Starter Pack, including a Warframe, Customizations and many more powerful items. Light the Origin System aflame with Ember's Abilities and Essential Hea
+- **Veilbreaker: Revenant Prime: Hotfix 32.0.12** (2022-10-12T19:39:20Z): Fixed the Theorem Demulcent Arcane applying its weapon damage increase buff to Wisp’s Breach Surge, Baruuk’s Desolate Hands, and Ember’s Fireball.
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Fixed Ember’s Fire blast shockwave not proc’ing Archon Vitality’s double Heat damage bonus.  Ember’s Fire Blast with Healing Flame Augment
+- ...and 121 more patches
+
+## Equinox
+Equinox rises from the edge of day and night. Her Day form offers offensive support while her Night form offers defensive support. She thrives between realms.
+
+### Wiki
+Equinox rises from the edge of day and night. Her Day form offers offensive support while her Night form offers defensive support. She thrives between realms.
+Lotus
+Release Date: July 31st, 2015
+A duality of contrasting forces in a single entity, Equinox unleashes wrath like the onset of daybreak, or draws life to a close like dusk's approach. Shifting between two forms allows her to bolster Tenno strength in light or provide recuperative respite in darkness. Equinox dawned in Update 17.0.
+Equinox is a Warframe of duality of night and day to provide supportive offense and defense. Her Passive converts Health Orbs and Energy Orbs into additional restoration. Metamorphosis switches between night and day to increase her Armor and Shields, and weapon damage and Movement Speed respectively. Rest & Rage lulls enemies to sleep or provides Damage Vulnerability. Pacify & Provoke weakens enemy damage output or strengthens ally Ability Strength. Mend & Maim releases an aura that restores ally shields on enemy kill, or accumulates Slash damage on kills to be released in a wide area.
+Equinox requires a unique method to craft: Tenno must forge both the Equinox Night Aspect and Equinox Day Aspect in the Foundry – each of which requires its respective Neuroptics, Chassis, and Systems – before the Warframe itself can be built. Component and Aspect blueprints can be obtained by defeating Tyl Regor on Titania, Uranus; he will drop one Night and one Day Aspect. Equinox's main blueprint can be purchased from the Market.
+Day Aspect
+Night Aspect
+Health: 270 | Shield: 270 | Armor: 135 | Energy: 175 | Sprint: 1.15
+Aura: naramon
+
+### Abilities
+**Metamorphosis:** Switch forms, temporarily gaining bonus Shields and Armor in Night-Form, or bonus Damage and Speed in Day-Form.
+**Rest & Rage:** In Night-Form, targets are put to sleep. In Day-Form, targets become more vulnerable to damage.
+**Pacify & Provoke:** In Night-Form, reduces damage inflicted by nearby enemies. In Day-Form, increases Ability Strength of nearby allies.
+**Mend & Maim:** In Night-Form, allies' Shields are replenished with each nearby enemy killed. In Day-Form, enemies are inflicted with Slash Status Effect. Deactivate while in Night-Form to restore Health and Shields for Equinox and allies. Deactivate while in Day-Form to cast a wave of slashing force.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Day Aspect | 1 | Uranus/Titania (Assassination), Rotation A (22.56%) |
+| Forma | 1 | — |
+| Night Aspect | 1 | Uranus/Titania (Assassination), Rotation B (22.56%) |
+
+### Patch History (93 entries)
+- **Echoes of Veilbreaker: Update 32.1** (2022-11-02T15:00:14Z): Fixed ammo pools not being shared properly across NPCs (Specters, Wukong’s Clone, Excalibur Umbra on Transference, and Equinox’s other half while using the Duality Augment Mod).  Fixed Equinox’s other
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Equinox’s Mend Fixed the Equinox & Wukong Prime Pack description text box going off screen when viewing it in Varzia’s menu.
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): Equinox (Saturn to Uranus) Reduced the Equinox Specter’s level from 30 to 25. Equinox’s split form while using the Duality Augment Mod will now retrieve ammo while active.
+- ...and 90 more patches
+
+## Equinox Prime
+Night and Day in final balance; the graceful perfection of the one that walks the borders.
+
+### Wiki
+Night and Day in final balance; the graceful perfection of the one that walks the borders.
+Release Date: April 2nd, 2019
+Equinox Prime is the Primed variant of Equinox, possessing increased armor, health, energy capacity, and additional Vazarin and Madurai polarities. Equinox Prime was released alongside Stradavar Prime and Tipedo Prime.
+Vaultings
+On February 9th, 2021, it was announced that Equinox Prime would enter the Prime Vault and be retired from the reward tables on February 23rd, 2021. Any preexisting components or fully-built frames will remain as is.
+Crafting
+**Notes:**
+Equinox Prime, compared to Equinox:
+Higher Health (365/465 vs. 270/370)
+Higher Armor (160 vs. 135)
+Higher Energy (200/250 vs. 175/225)
+Higher Starting Energy (115 vs. 100)
+Additional Vazarin and Madurai Polarities (VazarinVazarinMaduraiMadurai vs. VazarinMadurai)
+DeathOrbEnergy
+Equinox Prime features additional particle effects for two of her abilities.
+While switching form with Metamorphosis, there will be swirling particles around her body, as well as stripes of energy that fly out and loop back to her. Switching from day to night and night to day have slightly different paths of particles.
+Casting Rest & Rage will produce effects on affected enemies. In day form, vertical circling particles will appear around the enemies and then fade away. In night form, rotating sprinkling particles will appear above enemies for the duration of the ability.
+Health: 365 | Shield: 270 | Armor: 160 | Energy: 200 | Sprint: 1.15
+Aura: naramon
+
+### Abilities
+**Metamorphosis:** Switch forms, temporarily gaining bonus Shields and Armor in Night-Form, or bonus Damage and Speed in Day-Form.
+**Rest & Rage:** In Night-Form, targets are put to sleep. In Day-Form, targets become more vulnerable to damage.
+**Pacify & Provoke:** In Night-Form, reduces damage inflicted by nearby enemies. In Day-Form, increases Ability Strength of nearby allies.
+**Mend & Maim:** In Night-Form, allies' Shields are replenished with each nearby enemy killed. In Day-Form, enemies are inflicted with Slash Status Effect. Deactivate while in Night-Form to restore Health and Shields for Equinox and allies. Deactivate while in Day-Form to cast a wave of slashing force.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Axi K5 Relic (11.00%); Axi T3 Relic (11.00%); Axi T4 Relic (11.00%); Lith P4 Relic (11.00%); Lith S13 Relic (11.00%); Meso A2 Relic (11.00%) |
+| Chassis | 1 | Axi A8 Relic (25.33%); Axi P1 Relic (25.33%); Lith C6 Relic (25.33%); Lith D2 Relic (25.33%); Lith L2 Relic (25.33%); Lith M4 Relic (25.33%); Meso G2 Relic (25.33%); Neo Z9 Relic (25.33%) |
+| Neuroptics | 1 | Axi T9 Relic (11.00%); Lith L1 Relic (11.00%); Meso M3 Relic (11.00%); Neo A3 Relic (11.00%); Neo D2 Relic (11.00%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Meso E2 Relic (2.00%); Meso E3 Relic (2.00%); Meso E4 Relic (2.00%); Neo E2 Relic (2.00%); Neo E3 Relic (2.00%) |
+
+### Patch History (93 entries)
+- **Echoes of Veilbreaker: Update 32.1** (2022-11-02T15:00:14Z): Fixed ammo pools not being shared properly across NPCs (Specters, Wukong’s Clone, Excalibur Umbra on Transference, and Equinox’s other half while using the Duality Augment Mod).  Fixed Equinox’s other
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Equinox’s Mend Fixed the Equinox & Wukong Prime Pack description text box going off screen when viewing it in Varzia’s menu.
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): Equinox (Saturn to Uranus) Reduced the Equinox Specter’s level from 30 to 25. Equinox’s split form while using the Duality Augment Mod will now retrieve ammo while active.
+- ...and 90 more patches
+
+## Excalibur
+Excalibur epitomizes the warrior spirit. His master swordsmanship deals high damage. He is the embodiment of martial excellence.
+
+### Wiki
+Excalibur epitomizes the warrior spirit. His master swordsmanship deals high damage. He is the embodiment of martial excellence.
+Lotus
+Release Date: October 25th, 2012
+Shine his beacon of hope in every era of strife, unsheathe now our sword in the stone. Wield his valiant blade to bring balance to Origin, and strike down mortal foes as the Radiant Swordsman, Excalibur. Witness a blaze as blinding as brilliant Sol, where he leads the Tenno to triumphant victory. Choose wisely, Tenno. Start your new journey with Excalibur as one of the three beginner Warframes.
+Excalibur is a Warframe with mastery of the blade. His Passive increases the damage and Attack Speed of equipped Swords, Dual Swords, Nikanas, and Rapiers. Slash Dash has him rapidly dash forward with a powerful sword slice. Radial Blind emits a bright light that Blind enemies, while Radial Javelin launches javelins that impale enemies. Exalted Blade summons the ethereal Exalted Blade melee.
+Excalibur is one of the three starter Warframes, alongside Mag and Volt, during Awakening.
+Excalibur's main blueprint can be purchased from the Market. Excalibur's component blueprints can be obtained from defeating Lieutenant Lech Kril on War, Mars.
+Alternatively, upon completion of The Duviri Paradox, Excalibur's main and component blueprints can be earned from The Circuit. By selecting him on the rotating week he is available, players can earn his blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Excalibur can also be bought complete from Teshin for 60,000 Standing once players have achieved Typhoon rank in the Conclave.
+Historical
+Prior to Update 22.8.3, Excalibur's component blueprints dropped from Ambulas on Hades, Pluto.
+Crafting
+Health: 270 | Shield: 270 | Armor: 240 | Energy: 100 | Sprint: 1
+
+### Abilities
+**Slash Dash:** Slash and dash through enemies alongside a radial specter. The powerful Exalted Blade’s slashes inflict Slash Status.
+**Radial Blind:** Emit a bright flash of light, blinding all nearby enemies.
+**Radial Javelin:** Radial javelins impale nearby enemies, inflicting Slash Status.
+**Exalted Blade:** Summon a sword of pure light and immense power.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | Mars/War (Assassination) (38.72%) |
+| Neuroptics | 1 | Mars/War (Assassination) (38.72%) |
+| Orokin Cell | 1 | — |
+| Systems | 1 | Mars/War (Assassination) (22.56%) |
+
+### Patch History (172 entries)
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): Excalibur Umbra will lose the Health increase from Arcane Blessing after using Transference.
+- **Echoes of Veilbreaker: Update 32.1** (2022-11-02T15:00:14Z): Fixed ammo pools not being shared properly across NPCs (Specters, Wukong’s Clone, Excalibur Umbra on Transference, and Equinox’s other half while using the Duality Augment Mod).  This falls in line wi
+- **Veilbreaker: Revenant Prime: Hotfix 32.0.9** (2022-10-05T17:59:06Z): Fixed the Hey Kiddo Operator being invisible or swapped with Excalibur at multiple points in the Chimera Prologue Quest.  Fixed script error related to Excalibur’s Exalted Blade.
+- ...and 169 more patches
+
+## Excalibur Prime
+Excalibur Prime is the epitome of mobility and offense, and features the same abilities as Excalibur, but has unique mod polarities installed allowing for greater customization.
+
+### Wiki
+Excalibur Prime
+In-game Description
+Release Date: December 18th, 2012
+Excalibur Prime is the Primed variant of Excalibur, possessing higher armor and energy, as well as an additional Madurai polarity and a Madurai Aura polarity. Excalibur Prime is a Founders-exclusive Warframe released alongside Lato Prime and Skana Prime.
+**Acquisition:**
+Excalibur Prime was only obtainable by upgrading a Warframe account to Founders status of Hunter or greater, which is no longer available. He came with his own Warframe slot and was already augmented with an Orokin Reactor.
+The Founders' program closed on the 1st of November, 2013, as announced on the Warframe Forums. This closure is inclusive of pack upgrades.
+**Notes:**
+Excalibur Prime, compared to Excalibur:
+Higher Armor (315 vs. 240)
+Higher Energy (175/225 vs. 100/150)
+Higher Starting Energy (100 vs. 50)
+Additional Madurai Polarity (VazarinMaduraiMadurai vs. VazarinMadurai)
+Different Aura Polarity (Madurai vs. None)
+Excalibur Prime, compared to Excalibur Umbra:
+Different Polarities (VazarinMaduraiMadurai vs. MaduraiUmbraUmbraUmbra)
+DeathOrbEnergy
+Health: 270 | Shield: 270 | Armor: 315 | Energy: 175 | Sprint: 1
+Aura: madurai
+
+### Abilities
+**Slash Dash:** Slash and dash through enemies alongside a radial specter. The powerful Exalted Blade’s slashes inflict Slash Status.
+**Radial Blind:** Emit a bright flash of light, blinding all nearby enemies.
+**Radial Javelin:** Radial javelins impale nearby enemies, inflicting Slash Status.
+**Exalted Blade:** Summon a sword of pure light and immense power.
+
+### Patch History (172 entries)
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): Excalibur Umbra will lose the Health increase from Arcane Blessing after using Transference.
+- **Echoes of Veilbreaker: Update 32.1** (2022-11-02T15:00:14Z): Fixed ammo pools not being shared properly across NPCs (Specters, Wukong’s Clone, Excalibur Umbra on Transference, and Equinox’s other half while using the Duality Augment Mod).  This falls in line wi
+- **Veilbreaker: Revenant Prime: Hotfix 32.0.9** (2022-10-05T17:59:06Z): Fixed the Hey Kiddo Operator being invisible or swapped with Excalibur at multiple points in the Chimera Prologue Quest.  Fixed script error related to Excalibur’s Exalted Blade.
+- ...and 169 more patches
+
+## Excalibur Umbra
+From the shadow of the long night emerges a new Excalibur.
+Health: 270 | Shield: 270 | Armor: 315 | Energy: 175 | Sprint: 1
+Aura: madurai
+
+### Abilities
+**Slash Dash:** Slash and dash through enemies alongside a radial specter. The powerful Exalted Blade’s slashes inflict Slash Status.
+**Radial Howl:** Let out ferocious howl that stuns nearby enemies and causes Sentients to shed any built up resistances.
+**Radial Javelin:** Radial javelins impale nearby enemies, inflicting Slash Status.
+**Exalted Blade:** Summon a sword of pure light and immense power.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Alloy Plate | 1600 | — |
+| Blueprint | 1 | — |
+| Kuva | 60 | — |
+| Nano Spores | 1200 | — |
+| Orokin Cell | 1 | — |
+
+### Patch History (24 entries)
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): Excalibur Umbra will lose the Health increase from Arcane Blessing after using Transference.
+- **Echoes of Veilbreaker: Update 32.1** (2022-11-02T15:00:14Z): Fixed ammo pools not being shared properly across NPCs (Specters, Wukong’s Clone, Excalibur Umbra on Transference, and Equinox’s other half while using the Duality Augment Mod).  This falls in line wi
+- **Veilbreaker: Hotfix 32.0.3** (2022-09-14T17:58:41Z): Excalibur Umbra is unable to pick up his own ammo while using bows. We are actively looking for a solution, in the meantime, you can use Transference to refresh his ammo reserves.
+- ...and 21 more patches
+
+## Follie
+Follie, the merry, macabre Shadowgrapher, brings ink to life. Support her squad and control enemy crowds with a myriad of versatile sketches and tricks.
+
+### Wiki
+Follie, the merry, macabre Shadowgrapher, brings ink to life. Support her squad and control enemy crowds with a myriad of versatile sketches and tricks.
+Release Date: March 25th, 2026
+Visualize the cosmic canvas of existence in pitch-black viscosity. Paint opaque silhouettes from peculiar vignettes, depicted by the Shadowgrapher, Follie, with every brushstroke and blob. Ooze and daub the foolhardy in bloody inkblots, baffled by the buffoons dangled below bulbous balloons. Portray a lighthearted parody of reality, shaded in sombre melancholy, to inspire a tinge of madness through a viscid flood of effervescent sludge. Follie emerged from her illustrious painting in Update 42: The Shadowgrapher.
+Follie is an inkblots and painter-themed Warframe with a sad clown aesthetic. Her Passive has her abilities splash ink onto enemies, causing them to be Slow as well as create Health Orbs and Energy Orbs when slain. Forced Perspective repositions Follie with an inkblot pool while also becoming Invulnerable and cleanses Status Effects. Shadowgraph picturizes a variety of tools and equipment, often including mission-exclusive items. Self Portrait creates an inky clone of herself, granting Damage Reduction. Plein Air attaches enemies to balloons, causing them to harmlessly float upward while stripping their Armor and Shields, and popping the balloon drops them to the ground to inflict deadly fall damage.
+**Acquisition:**
+Follie's main and component blueprints can be obtained from Rotation A of Follie's Hunt on Vesper Relay, Venus. Access requires completion of Chains of Harrow.
+Alternatively they can be purchased from Aspirant Zorba in any relay in exchange for Atramentum, awarded from Follie's Hunt. Each component blueprint requires 400 Resources and the main blueprint requires 1200 Resources, totaling 2400 Atramentum for the whole set.
+Crafting
+**Notes:**
+When Follie wields her Signature Enkaus, its Alternate Fire applies Inkblot.
+Health: 485 | Shield: 225 | Armor: 325 | Energy: 175 | Sprint: 0.95
+Aura: vazarin
+
+### Abilities
+**Forced Perspective:** Drop through an inky frame and emerge invulnerable at the aimed location in a splash of ink that inflicts Inkblot on nearby enemies.
+**Shadowgraph:** Bring shadowgraphs from Follie's sketchbook to life as items that can be used for tactical advantage. Shadowgraphs splash Inkblot onto nearby enemies when created.
+HOLD to open the Shadowgraph gear wheel.
+**Self Portrait:** Draw an ink effigy to absorb the damage dealt to Follie and allies. Below, a pool of ink spreads Inkblot. Kill enemies inside the pool to grow Follie's effigy and its ink puddle.
+**Plein Air:** Tie nearby enemies to floating balloons that douse them with Inkblot. Pop the balloons to send them crashing to the ground, splashing damage on nearby enemies.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Venus/Vesper Relay (Follie's Hunt), Rotation A (5.00%); Venus/Vesper Relay (Follie's Hunt), Rotation A (6.00%) |
+| Chassis | 1 | Venus/Vesper Relay (Follie's Hunt), Rotation A (5.00%); Venus/Vesper Relay (Follie's Hunt), Rotation A (6.00%) |
+| Neuroptics | 1 | Venus/Vesper Relay (Follie's Hunt), Rotation A (5.00%); Venus/Vesper Relay (Follie's Hunt), Rotation A (6.00%) |
+| Orokin Cell | 3 | — |
+| Systems | 1 | Venus/Vesper Relay (Follie's Hunt), Rotation A (5.00%); Venus/Vesper Relay (Follie's Hunt), Rotation A (6.00%) |
+
+## Frost
+When Frost steps onto the battlefield, enemies experience a chill. Frost’s attacks control crowds, protect objectives, and increase survivability. Wield the biting cold.
+
+### Wiki
+When Frost steps onto the battlefield, enemies experience a chill. Frost's attacks control crowds, protect objectives, and increase survivability. Wield the biting cold.
+Lotus
+Release Date: January 29th, 2013
+Seek solace and serenity in snowfall, as furious blizzards pummel the exposed upon permafrost. Tread across the frozen tundras of Origin's outer worlds, summoning forth glacial force and subzero extremes. Purify the battleground into a pristine expanse and enforce ceasefire through merciful cryo-sleep, by sculpting elemental ice itself as Father Winter, Frost.
+Frost is a Warframe that invokes the defensive power of Cold while freezing enemies ice-solid. His Passive increases Cold Status Duration and gains fortified Armor from nearby enemies with Cold status. Freeze releases a projectile that encases enemies in ice, while Ice Wave throws a ground trail of ice. Snow Globe creates a protective dome while pushing freezing and enemies away on its formation and applying Cold status to enemies that wander inside. Avalanche surrounds Frost with chilling winter to freeze enemies solid and removing their armor.
+Frost's main blueprint can be purchased from the Market. Frost's component blueprints can be obtained from defeating Captain Vor & Lieutenant Lech Kril on Exta, Ceres.
+Alternatively, upon completion of The Duviri Paradox, Frost's main and component blueprints can be earned from The Circuit. By selecting him on the rotating week he is available, players can earn all his blueprints after reaching Tier 10 rewards.
+Historical
+Prior to Update 22.8.3, Frost's component blueprints dropped from Lieutenant Lech Kril on War, Mars.
+Crafting
+Health: 270 | Shield: 455 | Armor: 315 | Energy: 100 | Sprint: 0.95
+Aura: vazarin
+
+### Abilities
+**Freeze:** A frigid energy blast that freezes targets in their tracks.
+**Ice Wave:** Sends a wave of razor sharp, crystalized ice toward an enemy, dealing heavy damage.
+**Snow Globe:** Frost deep freezes any vapor and moisture in the area, creating a protective sphere with brief invulnerability to boost its strength.
+**Avalanche:** Summons a treacherous landslide of ice that instantly freezes and shatters all enemies in its radius.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | Ceres/Exta (Assassination) (38.72%) |
+| Neuroptics | 1 | Ceres/Exta (Assassination) (38.72%) |
+| Orokin Cell | 1 | — |
+| Systems | 1 | Ceres/Exta (Assassination) (22.56%) |
+
+### Patch History (134 entries)
+- **Lua’s Prey: Hotfix 32.2.1** (2022-11-30T22:33:07Z): This will be the default moving forward if we release more Voidshell skins with Armor attachments. For now this fixes Voruna, Frost and Volt’s Base/Voidshell Armor.
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): *The Frost Voidshell Skin includes the Frost Voidshell Armor, which can be equipped onto his other skins. Equipping the Armor onto these skins will open the Material Structures menu, but will only app
+- **Echoes of Veilbreaker: Hotfix 32.1.2** (2022-11-04T20:55:10Z): Adjusted more offsets for the Shard Bane Ephemera on Nidus, Gendel, Chroma, Lavos, Frost, Hildryn, Atlas, Rhino, Ash, and Vauban.
+- ...and 131 more patches
+
+## Frost Prime
+Frost Prime has the same chilling abilities as Frost but provides unique mod polarities, allowing for greater customization.
+
+### Wiki
+Frost Prime
+Release Date: May 3rd, 2013
+Frost Prime is the Primed variant of Frost, possessing a higher shield capacity, as well as an additional Vazarin polarity. Frost Prime was released alongside Latron Prime and Reaper Prime.
+Vaultings
+On March 17, 2015, it was announced that Frost Prime would enter the Prime Vault and be retired from the reward tables on March 24th, 2015. Any preexisting components or fully-built frames will remain as is.
+Frost Prime, along with Latron Prime and Reaper Prime, was again accessible on December 8th, 2015 to January 5th, 2016 when the Prime Vault was unsealed.
+Frost Prime (along with Sicarus Prime, Glaive Prime, Ember Prime, Latron Prime, and Reaper Prime) were available from December 6th, 2016 to January 3rd, 2017 as part of the Fire and Ice Prime Vault.
+On June 27, 2017, Frost Prime and an exclusive Syandana were released as Twitch Prime benefits. He was the first Primed Warframe offered through this method.
+Frost Prime, along with Ember Prime, Latron Prime, Reaper Prime, Sicarus Prime, and Glaive Prime, were unvaulted from January 29th, 2019 to March 26th, 2019.
+Frost Prime, along with Ember Prime, Latron Prime, Reaper Prime, Sicarus Prime, and Glaive Prime, was made available on September 29th, 2020 as part of the Fire and Ice Prime Vault.
+Frost Prime was available from Prime Resurgence which ran from November 16, 2021 to January 25, 2022.
+The last Resurgence date can be viewed on the aforementioned Prime Vault page.
+Crafting
+**Notes:**
+Frost Prime, compared to Frost:
+Higher Shields (550/650 vs. 455/555)
+Additional Vazarin Polarity (NaramonVazarinVazarin vs. NaramonVazarin)
+DeathOrbEnergy
+Frost Prime's Ice Wave leaves behind small, golden icicles in its wake.
+**Trivia:**
+Frost Prime is the second Prime version of a Warframe and the first to be craftable.
+The Blueprint for Frost Prime was given out as a reward for participating in the Fusion Moa Event which lasted from May 3, 2013 to May 5, 2013.
+syRum19olYQ
+Health: 270 | Shield: 550 | Armor: 315 | Energy: 100 | Sprint: 0.95
+Aura: vazarin
+
+### Abilities
+**Freeze:** A frigid energy blast that freezes targets in their tracks.
+**Ice Wave:** Sends a wave of razor sharp, crystalized ice toward an enemy, dealing heavy damage.
+**Snow Globe:** Frost deep freezes any vapor and moisture in the area, creating a protective sphere with brief invulnerability to boost its strength.
+**Avalanche:** Summons a treacherous landslide of ice that instantly freezes and shatters all enemies in its radius.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Meso F2 Relic (2.00%); Meso F3 Relic (2.00%); Meso F4 Relic (2.00%); Neo F1 Relic (2.00%) |
+| Chassis | 1 | Lith G1 Relic (25.33%); Meso E1 Relic (25.33%); Neo B8 Relic (25.33%) |
+| Neuroptics | 1 | Axi D4 Relic (25.33%); Axi E1 Relic (25.33%); Neo E1 Relic (25.33%) |
+| Orokin Cell | 1 | — |
+| Systems | 1 | Lith G2 Relic (11.00%); Lith M8 Relic (11.00%); Neo S5 Relic (11.00%) |
+
+### Patch History (134 entries)
+- **Lua’s Prey: Hotfix 32.2.1** (2022-11-30T22:33:07Z): This will be the default moving forward if we release more Voidshell skins with Armor attachments. For now this fixes Voruna, Frost and Volt’s Base/Voidshell Armor.
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): *The Frost Voidshell Skin includes the Frost Voidshell Armor, which can be equipped onto his other skins. Equipping the Armor onto these skins will open the Material Structures menu, but will only app
+- **Echoes of Veilbreaker: Hotfix 32.1.2** (2022-11-04T20:55:10Z): Adjusted more offsets for the Shard Bane Ephemera on Nidus, Gendel, Chroma, Lavos, Frost, Hildryn, Atlas, Rhino, Ash, and Vauban.
+- ...and 131 more patches
+
+## Gara
+Enemies are made fragile by Gara’s deadly touch. Gara’s vitric abilities provide her and her allies with survivability and deal high damage. Shatter the foe.
+
+### Wiki
+Enemies are made fragile by Gara's deadly touch. Gara's vitric abilities provide her and her allies with survivability and deal high damage. Shatter the foe.
+Lotus
+The Glass Warrior Fragment
+Release Date: October 12th, 2017
+Clad in lustrous vitrum, Gara sunders her foes with adamantine shards, reflects enemy attacks through enchanted mirrors, and reshapes the landscape with molten crystal. Gara crystallized in Update 22.
+Gara is a Warframe that wields glass to shatter enemies while bolstering defenses. Her Passive grants abilities a chance to Blind. Shattered Lash wields the Shattered Lash to form a puncturing thrust or a slashing wide sweep. Splinter Storm surrounds the target with glass to strengthen allies with Damage Reduction or weaken enemies with Damage Vulnerability. Spectrorage summons a carousel of mirrors that deceives enemies into attacking them. Mass Vitrify creates a ring of glass that expands outward and crystallizes enemies during its formation, producing solid walls that block enemies and gunfire, which can be broken with Shattered Lash to produce an explosion of glass fragments.
+Gara's main blueprint is awarded upon completion of the Saya's Vigil quest. Gara's component blueprints are acquired from Plains of Eidolon Bounties. Additional main blueprints can be bought from Cephalon Simaris for 50,000 Standing.
+Alternatively, upon completion of The Duviri Paradox, Gara's main and component blueprints can be earned from The Circuit. By selecting her on the rotating week she is available, players can earn her blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Crafting
+Lore
+Creation
+Ballas
+The person that would become Gara was one of the few that knew the truth of Warframes and had volunteered willingly to be turned into one. Nihil demanded she be glassed for her arrogance, and thus Ballas turned her into the Glass Warrior seemingly to spite the Glassmaker.
+Glass Fragments
+Vay Hek
+Health: 270 | Shield: 270 | Armor: 160 | Energy: 175 | Sprint: 1.15
+Aura: vazarin
+
+### Abilities
+**Shattered Lash:** Lash out with stream of shattered glass, or hold for an arcing strike. Stats are boosted by the equipped mods on Shattered Lash.
+**Splinter Storm:** Gara's armor splinters into a maelstrom of shattered glass. Allies who contact the cloud are fortified against damage.
+**Spectrorage:** Trap enemies in a carousel of mirrors, forcing them to attack visions of their true selves. Destroyed mirrors damage their attackers, as does the collapse of the carousel.
+**Mass Vitrify:** Create an expanding ring of molten glass that slowly crystallizes enemies who enter. When the expansion is complete, the ring hardens to block weapons fire. The ring draws extra strength from the health and shields of crystallized enemies. Use Shattered Lash to smash the ring and send razor-sharp glass flying.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Cephalon Simaris, Complete Saya's Vigil (100.00%) |
+| Chassis | 1 | Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation A (30.56%); Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation B (30.56%); Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation C (30.56%); Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation A (7.37%); Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation B (7.37%); Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation C (7.37%); Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation A (7.52%); Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation B (7.52%); Earth/Cetus (Level 5 - 15 Cetus Bounty), Rotation C (7.52%) |
+| Neuroptics | 1 | Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation C (10.17%); Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation C (10.40%); Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation B (23.53%); Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation A (24.62%); Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation C (26.09%); Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation A (8.84%); Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation A (9.04%); Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation B (9.09%); Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation B (9.30%) |
+| Orokin Cell | 3 | — |
+| Systems | 1 | Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation A (10.08%); Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation B (10.08%); Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation C (10.08%); Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation A (25.00%); Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation B (25.00%); Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation C (25.00%); Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation A (9.68%); Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation B (9.68%); Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation C (9.68%) |
+
+### Patch History (64 entries)
+- **Lua’s Prey: Baruuk Prime: Hotfix 32.2.5** (2022-12-14T19:00:16Z): Replaced Perrin Sequence Rank 5 sacrifice of Octavia Prime Chassis to Gara Prime Neuroptics.
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Gara’s Splinter Storm
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): Gara Blueprint Gara’s Shattered Lash
+- ...and 61 more patches
+
+## Gara Prime
+Continue the legend of the glass-armored warrior Gara. Dominate the battlefield with the power and purity of crystal.
+
+### Wiki
+Gara Prime
+Ballas
+Release Date: May 25th, 2021
+Gara Prime is the Primed variant of Gara, possessing increased Health and Armor, as well as an additional Naramon Polarity. Gara Prime was released alongside Astilla Prime and Volnus Prime.
+Vaulted
+On March 15th, 2023, Gara Prime, along with Astilla Prime and Volnus Prime, entered the Prime Vault and were retired from the reward tables. Any preexisting components or fully-built items will remain as is.
+Crafting
+**Notes:**
+Gara Prime, compared to Gara:
+Higher Health (345/445 vs. 270/370)
+Higher Armor (200 vs. 160)
+Additional Naramon Polarity (MaduraiMaduraiNaramon vs. MaduraiMadurai)
+If Gara Prime wields her Signature Weapons:
+Astilla: Gains 80 more Ammo Maximum, for a total of 192.
+Astilla Prime:﻿ Gains 80 more Ammo Maximum, for a total of 200.
+Fusilai: +50% Projectile Speed.
+Volnus/Volnus Prime: Deals 100% more radial slam attack damage.
+DeathOrbEnergy
+Spectrorage's mirrors takes the shape of glass armor on Gara Prime's chest, instead of pieces of shattered glass.
+**Trivia:**
+Despite her base version featuring Fusilai as a signature Weapon, Gara Prime did not feature a Fusilai Prime.
+Gara Prime is the eighth Primed Warframe whose non-Primed variant was unlockable through a quest (Saya's Vigil), after Octavia, Inaros, Titania, Atlas, Mirage, Limbo, and Chroma.
+PsN20U54T3E
+Health: 345 | Shield: 270 | Armor: 200 | Energy: 175 | Sprint: 1.15
+Aura: vazarin
+
+### Abilities
+**Shattered Lash:** Lash out with stream of shattered glass, or hold for an arcing strike. Stats are boosted by the equipped mods on Shattered Lash.
+**Splinter Storm:** Gara's armor splinters into a maelstrom of shattered glass. Allies who contact the cloud are fortified against damage.
+**Spectrorage:** Trap enemies in a carousel of mirrors, forcing them to attack visions of their true selves. Destroyed mirrors damage their attackers, as does the collapse of the carousel.
+**Mass Vitrify:** Create an expanding ring of molten glass that slowly crystallizes enemies who enter. When the expansion is complete, the ring hardens to block weapons fire. The ring draws extra strength from the health and shields of crystallized enemies. Use Shattered Lash to smash the ring and send razor-sharp glass flying.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Axi G6 Relic (2.00%); Axi G9 Relic (2.00%); Lith G11 Relic (2.00%); Meso G3 Relic (2.00%); Neo G4 Relic (2.00%) |
+| Chassis | 1 | Axi G8 Relic (11.00%); Axi I2 Relic (11.00%); Axi K7 Relic (11.00%); Axi S9 Relic (11.00%); Lith K6 Relic (11.00%); Meso A4 Relic (11.00%); Neo P5 Relic (11.00%) |
+| Neuroptics | 1 | Axi S14 Relic (11.00%); Lith S12 Relic (11.00%); Meso C10 Relic (11.00%); Meso O5 Relic (11.00%); Meso P5 Relic (11.00%); Neo N18 Relic (11.00%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Axi C8 Relic (25.33%); Axi G7 Relic (25.33%); Lith P6 Relic (25.33%); Lith T7 Relic (25.33%); Lith T8 Relic (25.33%); Meso K5 Relic (25.33%); Neo A5 Relic (25.33%); Neo N21 Relic (25.33%) |
+
+### Patch History (64 entries)
+- **Lua’s Prey: Baruuk Prime: Hotfix 32.2.5** (2022-12-14T19:00:16Z): Replaced Perrin Sequence Rank 5 sacrifice of Octavia Prime Chassis to Gara Prime Neuroptics.
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Gara’s Splinter Storm
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): Gara Blueprint Gara’s Shattered Lash
+- ...and 61 more patches
+
+## Garuda
+Death’s crimson maiden sharpens her talons. Garuda weaponizes the blood of her foes to deal high damage. Sanguine beauty complements her deadly power.
+
+### Wiki
+Death's crimson maiden sharpens her talons. Garuda weaponizes the blood of her foes to deal high damage. Sanguine beauty complements her deadly power.
+Lotus
+Release Date: November 8th, 2018
+Stain her talons crimson, steep the soil in red. To quell her endless bloodlust, the murderous maiden Garuda slays her prey with coldblooded elegance and strides upon their corpses in a horrific display of visceral carnage. Garuda slaughtered her way to a blood soaked unveiling in Update 24.
+Garuda is a Warframe that thrives on the blood of her enemies. Her Passive grants increased damage on enemy kill, and becomes armed with Garuda Talons when not wielding a melee weapon. Dread Mirror pounces an enemy to seize their life force to create a protective shield and channel a heart that can be thrown. Blood Altar impales an enemy to create a field that regenerates ally Health. Bloodletting sacrifices health to recover Energy. Seeking Talons hurls talons at enemies who have a chance to receive Slash damage upon being injured.
+Garuda's main blueprint is awarded upon completion of the Vox Solaris quest. Garuda's component blueprints are acquired from Orb Vallis Bounties. Additional main blueprints can be bought from Cephalon Simaris for 50,000 Standing.
+Alternatively, upon completion of The Duviri Paradox, Garuda's main and component blueprints can be earned from The Circuit. By selecting her on the rotating week she is available, players can earn her blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Crafting
+Lore
+According to Devstream 119 in 2018, there will be more lore and backstory regarding Garuda in the future.
+**Notes:**
+If Garuda wields her Signature Nagantaka/Nagantaka Prime, the weapon gains a 1 meter innate Punch Through.
+Garuda's base Energy from leveling scales differently from other Warframes, having +125% more Energy at max rank rather than the typical +50%.
+Garuda's Systems is required to build Bleeding Body Ephemera.
+Health: 270 | Shield: 270 | Armor: 315 | Energy: 140 | Sprint: 1
+Aura: madurai
+
+### Abilities
+**Dread Mirror:** Rip the life force from an enemy and use it as a shield that captures damage, this kills significantly weakened enemies instantly. Charge to channel the captured damage into an explosive projectile.
+**Blood Altar:** Impale an enemy on an altar of talons and siphon health for Garuda and her allies.
+**Bloodletting:** Garuda sacrifices her health to generate energy and clear Status Effects.
+**Seeking Talons:** Charge to expand the targeting area, release to send Garuda's talons careening toward each target in area. Surviving enemies are prone to Slash Status.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Cephalon Simaris, Complete Vox Solaris (Quest) (100.00%) |
+| Chassis | 1 | Venus/Orb Vallis (Level 5 - 15 Orb Vallis Bounty), Rotation A (11.60%); Venus/Orb Vallis (Level 5 - 15 Orb Vallis Bounty), Rotation B (11.60%); Venus/Orb Vallis (Level 5 - 15 Orb Vallis Bounty), Rotation C (11.60%); Venus/Orb Vallis (Level 5 - 15 Orb Vallis Bounty), Rotation A (12.00%); Venus/Orb Vallis (Level 5 - 15 Orb Vallis Bounty), Rotation B (12.00%); Venus/Orb Vallis (Level 5 - 15 Orb Vallis Bounty), Rotation C (12.00%); Venus/Orb Vallis (Level 5 - 15 Orb Vallis Bounty), Rotation A (27.60%); Venus/Orb Vallis (Level 5 - 15 Orb Vallis Bounty), Rotation B (27.60%); Venus/Orb Vallis (Level 5 - 15 Orb Vallis Bounty), Rotation C (27.60%) |
+| Kuva | 3500 | — |
+| Neuroptics | 1 | Venus/Orb Vallis (Level 20 - 40 Orb Vallis Bounty), Rotation A (10.59%); Venus/Orb Vallis (Level 20 - 40 Orb Vallis Bounty), Rotation B (10.59%); Venus/Orb Vallis (Level 20 - 40 Orb Vallis Bounty), Rotation C (10.59%); Venus/Orb Vallis (Level 20 - 40 Orb Vallis Bounty), Rotation A (12.00%); Venus/Orb Vallis (Level 20 - 40 Orb Vallis Bounty), Rotation B (12.00%); Venus/Orb Vallis (Level 20 - 40 Orb Vallis Bounty), Rotation C (12.00%); Venus/Orb Vallis (Level 20 - 40 Orb Vallis Bounty), Rotation A (22.50%); Venus/Orb Vallis (Level 20 - 40 Orb Vallis Bounty), Rotation B (22.50%); Venus/Orb Vallis (Level 20 - 40 Orb Vallis Bounty), Rotation C (22.50%) |
+| Systems | 1 | Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation A (10.59%); Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation B (10.59%); Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation C (10.59%); Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation A (12.00%); Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation B (12.00%); Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation C (12.00%); Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation A (22.50%); Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation B (22.50%); Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation C (22.50%) |
+
+### Patch History (59 entries)
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Garuda’s Blood Altar
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): Fixed Garuda's Blending Talons Augment not triggering when hitting an enemy with Overguard is affected by a Slash Status Effect.
+- **Echoes of the Zariman: Update 31.6** (2022-06-09T14:49:52Z): Garuda’s Blending Talons augment Garuda’s Dread Mirror now blocks all radial damage in front of it and grants stagger/knockdown immunity.
+- ...and 56 more patches
+
+## Garuda Prime
+White, gold and deepest scarlet, the queen of gore in full regalia.
+
+### Wiki
+White, gold and deepest scarlet, the queen of gore in full regalia.
+Release Date: March 28th, 2022
+Garuda Prime is the Primed variant of Garuda, sporting increased Energy and Armor, and an additional Madurai polarity, with her Garuda Prime Talons also having improved Damage and Critical Chance over Garuda Talons. She was released alongside the Nagantaka Prime and Corvas Prime.
+Vaultings
+On January 17th, 2024, Garuda Prime, along with Nagantaka Prime and Corvas Prime, entered the Prime Vault and were retired from the reward tables. Any preexisting components or fully-built items remained as is.
+Crafting
+**Notes:**
+Garuda Prime, compared to Garuda:
+Higher Armor (420 vs. 315)
+Higher Energy (220/320 vs. 140/240)
+Higher Starting Energy (100 vs. 50)
+Additional Madurai Polarity (MaduraiNaramonVazarin vs. NaramonVazarin)
+More powerful Exalted Weapon (Garuda Prime Talons vs. Garuda Talons)
+If Garuda Prime wields her Signature Nagantaka/Nagantaka Prime, the weapon gains a 1 meter innate Punch Through.
+DeathOrbEnergy
+Garuda Prime possesses the highest base Energy reserves of all Warframes: 220 at rank 0 and 320 at rank 30.
+Garuda Prime's Dread Mirror sports an Orokin-designed frame around the conjured mirror, and Blood Altar and Seeking Talons's Talons are colored gold and crimson, matching Garuda Prime's colors.
+Health: 270 | Shield: 270 | Armor: 420 | Energy: 220 | Sprint: 1
+Aura: madurai
+
+### Abilities
+**Dread Mirror:** Rip the life force from an enemy and use it as a shield that captures damage, this kills significantly weakened enemies instantly. Charge to channel the captured damage into an explosive projectile.
+**Blood Altar:** Impale an enemy on an altar of talons and siphon health for Garuda and her allies.
+**Bloodletting:** Garuda sacrifices her health to generate energy and clear Status Effects.
+**Seeking Talons:** Charge to expand the targeting area, release to send Garuda's talons careening toward each target in area. Surviving enemies are prone to Slash Status.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Axi H6 Relic (25.33%); Lith C10 Relic (25.33%); Lith H9 Relic (25.33%); Meso K4 Relic (25.33%); Meso P14 Relic (25.33%); Meso P8 Relic (25.33%); Meso S12 Relic (25.33%); Neo A8 Relic (25.33%); Neo C5 Relic (25.33%); Neo N20 Relic (25.33%) |
+| Chassis | 1 | Axi B6 Relic (11.00%); Axi G9 Relic (11.00%); Axi N11 Relic (11.00%); Lith R4 Relic (11.00%); Meso N13 Relic (11.00%); Meso P13 Relic (11.00%); Meso P7 Relic (11.00%); Neo N22 Relic (11.00%); Neo S15 Relic (11.00%) |
+| Neuroptics | 1 | Axi G12 Relic (2.00%); Axi G13 Relic (2.00%); Lith G5 Relic (2.00%); Lith G6 Relic (2.00%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Axi G10 Relic (2.00%); Axi G7 Relic (2.00%); Axi G8 Relic (2.00%); Neo K8 Relic (11.00%) |
+
+### Patch History (59 entries)
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Garuda’s Blood Altar
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): Fixed Garuda's Blending Talons Augment not triggering when hitting an enemy with Overguard is affected by a Slash Status Effect.
+- **Echoes of the Zariman: Update 31.6** (2022-06-09T14:49:52Z): Garuda’s Blending Talons augment Garuda’s Dread Mirror now blocks all radial damage in front of it and grants stagger/knockdown immunity.
+- ...and 56 more patches
+
+## Gauss
+Take charge with the Saint of Altra. Gauss is fast, deals high damage, and has strong survivability. Movement charges his powerful battery, so never stop moving.
+
+### Wiki
+Take charge with the Saint of Altra. Gauss is fast, deals high damage, and has strong survivability. Movement charges his powerful battery, so never stop moving.
+Lotus
+Release Date: August 29th, 2019
+Engines ready for ignition. Coolant circulation systems online. Revved into kinetic overdrive, the speedster Gauss leaves his competition amidst the dust. Accelerate and race across vast landscapes or seas. Recharge power from hostile strikes and reduce the force of their impact. Flash-freeze enemies dead in their tracks, then spontaneously combust his foes, as he paves the path to a swift victory. Gauss kickstarted in Update 25.7: Saint of Altra.
+Gauss is a Warframe that utilizes speed and kinetic energy to deal damage and build survivability. His Passive builds a battery gauge that grants Shield recharge rate and reduces recharge delay while enhancing other abilities. Mach Rush has Gauss sprint at supersonic speeds. Kinetic Plating provides Damage Reduction and Status Effect Immunity to Impact, Puncture, Slash, Cold, Heat, and Blast and converts received damage into Energy. Thermal Sunder creates a field of Cold or Heat, or produce Blast when overlapping their effects. Redline overclocks Gauss' battery to the maximum, receives increased Fire Rate, Attack Speed, Reload Speed, and Casting Speed, and continuously releases arcing projectiles.
+Gauss's main blueprint can be purchased from the Market. Gauss's component blueprints drop from Tier C Disruption on Kappa, Sedna. Each component has a 7.84% drop chance.
+Crafting
+Lore & History
+ExpandGaussIntroduction:
+Ah, Gauss. Where to begin, where to begin... Well, the Ceres excavation of course. The site of the ancient tower of Altra.
+Blastcrete emplacements, air sentries... its fields saturated with tremor mines. A great fortress for the Great Lords of Ceres... until they were pitched from the roof, immortal bodies erupting on the dread mines below.
+Health: 270 | Shield: 455 | Armor: 185 | Energy: 175 | Sprint: 1.4
+Aura: naramon
+
+### Abilities
+**Mach Rush:** Burst into a hyper-sprint bowling over enemies and charging the battery. Crashing into solid objects generates a powerful shockwave. Hold to rush continuously.
+**Kinetic Plating:** Generate armor plating that converts a portion of absorbed Kinetic Damage (Physical, Heat, Cold, and Blast) into Energy. Also protects Gauss from being staggered or knocked down. Damage Resistance is relative to the battery level.
+**Thermal Sunder:** Siphon kinetic energy from the area, charging the battery and inflicting Cold Status on nearby enemies. Hold reverses the process, draining the battery and inflicting Heat Status on nearby enemies.
+**Redline:** Push Gauss' battery beyond the redline, supercharging his Abilities and setting Fire Rate, Attack Speed, Reload Speed, and Casting Speed into overdrive. When past the redline, bolts of arcing electricity dance periodically from Gauss, exploding en masse when the ability is deactivated.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | Sedna/Kappa (Disruption), Rotation C (7.84%) |
+| Neuroptics | 1 | Sedna/Kappa (Disruption), Rotation C (7.84%) |
+| Orokin Cell | 3 | — |
+| Systems | 1 | Sedna/Kappa (Disruption), Rotation C (7.84%) |
+
+### Patch History (36 entries)
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): Made fixes towards Gauss’ Mach Crash Augment with Xata’s Whisper crushing FPS.  As reported here:
+- **Echoes of Veilbreaker: Update 32.1** (2022-11-02T15:00:14Z): Added “Speed” stat in UI for Revenant’s Reave, and Gauss’ Mach Rush, and passive.
+- **Veilbreaker: Revenant Prime: Hotfix 32.0.12** (2022-10-12T19:39:20Z): Changed Gauss’ Redline Holster Speed increase to a Cast Speed increase.
+- ...and 33 more patches
+
+## Gauss Prime
+Quicksilver takes form. Gauss Prime brooks no talk of defeat.
+
+### Wiki
+Quicksilver takes form. Gauss Prime brooks no talk of defeat.
+Ballas
+Release Date: January 17th, 2024
+Gauss Prime is the Primed variant of Gauss, sporting higher Shields and even faster Sprint Speed, as well as an additional Naramon polarity. Gauss Prime was released alongside Acceltra Prime and Akarius Prime.
+Crafting
+**Notes:**
+Gauss Prime, compared to Gauss:
+Higher Shield (550/650 vs. 455/555)
+Higher Sprint Speed (1.5 vs. 1.4)
+Additional Naramon polarity (MaduraiVazarinNaramon vs. MaduraiVazarin)
+When Gauss Prime wields his Signature Weapons:
+Acceltra/Acceltra Prime: +50% Reload Speed while Sprinting.
+Akarius/Akarius Prime: +100% Reload Speed while Sprinting.
+Gauss Prime possesses the fastest Sprint Speed of all Warframes at 1.5.
+DeathOrbEnergy
+Casting Redline leaves a symbol of the ability on the ground for a few seconds.
+iNbmo_1j-0
+Health: 270 | Shield: 550 | Armor: 185 | Energy: 175 | Sprint: 1.5
+Aura: naramon
+
+### Abilities
+**Mach Rush:** Burst into a hyper-sprint bowling over enemies and charging the battery. Crashing into solid objects generates a powerful shockwave. Hold to rush continuously.
+**Kinetic Plating:** Generate armor plating that converts a portion of absorbed Kinetic Damage (Physical, Heat, Cold, and Blast) into Energy. Also protects Gauss from being staggered or knocked down. Damage Resistance is relative to the battery level.
+**Thermal Sunder:** Siphon kinetic energy from the area, charging the battery and inflicting Cold Status on nearby enemies. Hold reverses the process, draining the battery and inflicting Heat Status on nearby enemies.
+**Redline:** Push Gauss' battery beyond the redline, supercharging his Abilities and setting Fire Rate, Attack Speed, Reload Speed, and Casting Speed into overdrive. When past the redline, bolts of arcing electricity dance periodically from Gauss, exploding en masse when the ability is deactivated.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Axi B7 Relic (11.00%); Lith N16 Relic (11.00%); Neo D10 Relic (11.00%); Neo G10 Relic (11.00%); Neo M5 Relic (11.00%); Neo T9 Relic (11.00%); Axi Z2 Relic (25.33%); Neo A15 Relic (25.33%); Neo G9 Relic (25.33%) |
+| Chassis | 1 | Lith C13 Relic (25.33%); Lith M9 Relic (25.33%); Meso A11 Relic (25.33%); Meso P15 Relic (25.33%); Neo A14 Relic (25.33%); Neo O2 Relic (25.33%); Neo P7 Relic (25.33%); Neo W1 Relic (25.33%) |
+| Neuroptics | 1 | Axi P9 Relic (11.00%); Axi V12 Relic (11.00%); Axi V13 Relic (11.00%); Meso H5 Relic (11.00%); Meso T7 Relic (11.00%); Meso Z6 Relic (11.00%); Neo E4 Relic (11.00%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Axi G15 Relic (2.00%); Lith G12 Relic (2.00%); Lith G9 Relic (2.00%); Meso G7 Relic (2.00%); Meso G9 Relic (2.00%); Neo G8 Relic (2.00%); Neo G9 Relic (2.00%) |
+
+## Grendel
+Grendel sees every battlefield as a smorgasbord. His insatiable appetite rewards him with high survivability. Enemies will be eaten. And regurgitated.
+
+### Wiki
+Grendel sees every battlefield as a smorgasbord. His insatiable appetite rewards him with high survivability. Enemies will be eaten. And regurgitated.
+Lotus
+Release Date: October 31st, 2019
+Indulge amid the stench of battle as Grendel the voracious gourmand, greedily swallowing armies whole into his fathomless maw. Corpulent and courageous, he consumes prey to invigorate kindred warriors, or disgorges the eaten out drenched in putrid acidic bile. Stampede through strongholds as a spherical menace, leaving cadavers in the wake crushed by his thunderous quake. Grendel's feeding frenzy began in Update 26: The Old Blood.
+Grendel is a Warframe that devours his foes to increase his survivability. His Passive increases his Armor while enemies are engorged in his stomach. Feast inhales enemies into his mass and can hurl them out as Toxin bile. Nourish digests victims in his stomach to recover Health and buffs him and his allies with extra Energy from all sources, Viral weapon damage, and a protective shroud that triggers an explosive Viral pulse when receiving damage. Pulverize transforms Grendel into a roving sphere that recovers health while moving while trampling over enemies and removing their armor. Regurgitate pukes out an enemy in his stomach as a Toxin projectile which inflicts Slow and armor removal.
+**Acquisition:**
+Grendel's main blueprint can be purchased from the Market. Grendel's component blueprints are awarded by completing certain missions on Europa using Locators, which can be purchased from the Arbitration Honors vendor found in any Relay for 25 Vitus Essence each.
+Health: 1095 | Shield: 95 | Armor: 370 | Energy: 175 | Sprint: 0.95
+Aura: naramon
+
+### Abilities
+**Feast:** Swallow enemies whole and store them in Grendel's gut. Hold to vomit out stored enemies, covering them in toxic bile.
+**Nourish:** Regenerate health as Grendel absorbs nourishment from enemies in his gut. While he digests, enemies that attack or are attacked by Grendel suffer Viral Damage and energy sources provide more energy. These buffs extend to squad mates.
+**Pulverize:** Grendel curls into a ball. He heals over time as he rolls, knocking over anyone in his path. Jumping slams Grendel into the ground and generates a damaging shockwave.
+**Regurgitate:** Violently puke out a bile soaked enemy from Grendel's gut, turning the consumed into a toxic projectile. Nearby enemies are slowed and have their armor dissolved by the bile.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | — |
+| Neuroptics | 1 | — |
+| Orokin Cell | 3 | — |
+| Systems | 1 | — |
+
+### Patch History (33 entries)
+- **Lua’s Prey: Baruuk Prime: Hotfix 32.2.8** (2022-12-15T21:32:58Z): Fixed using Feast on the Deimos Carnis Rex enemy halving Grendel’s jump height.
+- **Lua’s Prey: Hotfix 32.2.4** (2022-12-07T19:04:56Z): Fixed the Grendel Nian Skin default colors not applying to his Pulverize form.
+- **Lua’s Prey: Hotfix 32.2.2** (2022-12-01T18:07:18Z): Fixed script error with Grendel’s Feast.
+- ...and 30 more patches
+
+## Grendel Prime
+Primal. Insatiable. Grendel Prime devours all who oppose him.
+
+### Wiki
+Primal. Insatiable. Grendel Prime devours all who oppose him.
+Ballas
+Release Date: October 18th, 2023
+Grendel Prime is the Primed variant of Grendel, sporting bonus Armor and Energy, as well as an additional Madurai polarity. Grendel Prime was released alongside Zylok Prime and Masseter Prime.
+Crafting
+**Notes:**
+Grendel Prime, compared to Grendel:
+Higher Armor (400 vs. 370)
+Higher Energy (200/250 vs. 190/240)
+Higher Starting Energy (115 vs. 100)
+Additional Madurai polarity (NaramonVazarinVazarinMadurai vs. NaramonVazarinVazarin)
+When Grendel Prime wields his signature Masseter/Masseter Prime, he will become immune to crowd-control effects while performing Heavy Attacks.
+DeathOrbEnergy
+**Trivia:**
+In his Prime Access trailer there are red suited Corpus wielding the Flux Rifle, though no such enemy exists in game.
+3L56G_0BJuo
+Health: 1095 | Shield: 95 | Armor: 400 | Energy: 200 | Sprint: 0.95
+Aura: naramon
+
+### Abilities
+**Feast:** Swallow enemies whole and store them in Grendel's gut. Hold to vomit out stored enemies, covering them in toxic bile.
+**Nourish:** Regenerate health as Grendel absorbs nourishment from enemies in his gut. While he digests, enemies that attack or are attacked by Grendel suffer Viral Damage and energy sources provide more energy. These buffs extend to squad mates.
+**Pulverize:** Grendel curls into a ball. He heals over time as he rolls, knocking over anyone in his path. Jumping slams Grendel into the ground and generates a damaging shockwave.
+**Regurgitate:** Violently puke out a bile soaked enemy from Grendel's gut, turning the consumed into a toxic projectile. Nearby enemies are slowed and have their armor dissolved by the bile.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Lith G8 Relic (2.00%); Meso G6 Relic (2.00%); Meso G8 Relic (2.00%); Neo G10 Relic (2.00%); Neo G7 Relic (2.00%) |
+| Chassis | 1 | Lith A11 Relic (11.00%); Lith C12 Relic (11.00%); Lith G13 Relic (11.00%); Lith M10 Relic (11.00%); Neo S18 Relic (11.00%) |
+| Neuroptics | 1 | Axi G15 Relic (25.33%); Axi M6 Relic (25.33%); Axi S17 Relic (25.33%); Meso A5 Relic (25.33%); Meso B8 Relic (25.33%); Neo M5 Relic (25.33%); Neo Q1 Relic (25.33%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Axi G11 Relic (2.00%); Axi G14 Relic (2.00%); Neo M6 Relic (11.00%) |
+
+## Gyre
+Annihilate enemies with the conductivity of coils and transmitters. Gyre’s electric attacks provide crowd control. She is the embodiment of elegant theory.
+
+### Wiki
+Annihilate enemies with the conductivity of coils and transmitters. Gyre's electric attacks provide crowd control. She is the embodiment of elegant theory.
+Release Date: April 27, 2022
+Graceful in every step with clockwork precision, her mechanized pirouette captivates the audience in electrifying shock and awe. Execute and electrocute elegantly as Gyre, the dancing spark. Flash across the stage as a living thunderbolt and strike true as lucent lightning. A gentle facade conceals her lethal touch, thus with regal poise she bids adieu in her danse macabre finale. Gyre graced us with her presence in Update 31.5.
+The graceful ballerina Warframe Gyre utilizes her Electricity for crowd control. Her Passive increases ability Critical Chance to enemies with Electricity status. Arcsphere hurls a sphere that produces an Electricity field, while Coil Horizon spheres detonate to group enemies. Cathode Grace grants weapon and ability Critical Chance and Energy over time with its duration extendable from kills. Rotorswell generates a field of electricity around Gyre as her Critical Hits release electrical chaining discharges.
+Gyre's component and main blueprints can be acquired from The Holdfasts bounties on the Chrysalith.
+Crafting
+Lore
+View hidden content
+Quinn
+After completing Angels of the Zariman, when speaking to Quinn as Gyre for first time in the Chrysalith, he reminisces about the day of the Zariman Ten Zero's departure for the Tau System.
+A passenger by the name of Gyra was sent aboard by Orokin Executor Ballas to act as a figurehead. She was renown for her graceful movements and was a gentle soul, yet misfortune befell her as the Zariman crossed the fold in the Void. She succumbed to madness and insanity same as the rest of the ship's occupants.
+**Notes:**
+When Gyre wields her signature Alternox, the weapon gains 20% Multishot.
+Quinn has unique dialogue when speaking to him with Gyre.
+Health: 270 | Shield: 550 | Armor: 105 | Energy: 190 | Sprint: 1
+Aura: naramon
+
+### Abilities
+**Arcsphere:** Launch a Gyratory Sphere that will deal high damage on impact and periodically deal electrical shocks to nearby enemies. Hit multiple enemies at once with the initial launch to enhance damage.
+**Coil Horizon:** Throw forward a Gyratory Sphere that will implode after a few seconds or can be manually triggered.
+**Cathode Grace:** Gain a brief burst of increased Critical Chance and Energy Regen, with each kill extending duration of Cathode Grace. Casting is on a cooldown.
+**Rotorswell:** Gyre’s mechanisms spin at incredible speeds, generating an Electric Field that shocks nearby enemies. When Gyre gets a critical hit, a large electrical discharge will chain from the enemy that was hit to nearby enemies.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Zariman Ten Zero (Level 110 - 115 Zariman Bounty), Rotation C (12.99%); Zariman Ten Zero (Level 90 - 95 Zariman Bounty), Rotation C (12.99%) |
+| Chassis | 1 | Zariman Ten Zero (Level 60 - 65 Zariman Bounty), Rotation C (13.56%) |
+| Neuroptics | 1 | Zariman Ten Zero (Level 50 - 55 Zariman Bounty), Rotation C (13.04%) |
+| Orokin Cell | 3 | — |
+| Systems | 1 | Zariman Ten Zero (Level 70 - 75 Zariman Bounty), Rotation C (11.90%) |
+
+### Patch History (19 entries)
+- **Veilbreaker: Revenant Prime: Hotfix 32.0.13** (2022-10-14T16:48:38Z): Fixed script error with Gyre’s Rotorswell.
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Caliban’s Razor Gyre
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): Fixed the timer for Gyre’s Cathode Grace not increasing duration for Client on Warframe Ability kills.
+- ...and 16 more patches
+
+## Gyre Prime
+Gilded circuits spark and energize frenetic movements that echo through the ages. Dance into eternity with Gyre Prime.
+
+### Wiki
+Gilded circuits spark and energize frenetic movements that echo through the ages. Dance into eternity with Gyre Prime.
+Release Date: December 10th, 2025
+Gyre Prime is the Primed variant of Gyre, sporting increased Health, Shields, and Sprint Speed. Gyre Prime was released alongside Alternox Prime and Kestrel Prime.
+Crafting
+**Notes:**
+Gyre Prime, compared to Gyre:
+Higher Health (345/445 vs. 270/370)
+Higher Shield (640/740 vs. 550/650)
+Higher Sprint Speed (1.05 vs. 1.0)
+DeathOrbEnergy
+Gyre Prime possesses Appearance Arm Attachments titled Gyre Prime Armor.
+When Gyre wields her signature Alternox/Alternox Prime, the weapon gains 20% Multishot.
+Gyre Prime is the first Prime Warframe to have no polarity differences to her non-Prime variant. All other Primes has at least one extra polarity added to the modding slot for an easier customisation.
+Health: 345 | Shield: 640 | Armor: 105 | Energy: 190 | Sprint: 1.05
+Aura: naramon
+
+### Abilities
+**Arcsphere:** Launch a Gyratory Sphere that will deal high damage on impact and periodically deal electrical shocks to nearby enemies. Hit multiple enemies at once with the initial launch to enhance damage.
+**Coil Horizon:** Throw forward a Gyratory Sphere that will implode after a few seconds or can be manually triggered.
+**Cathode Grace:** Gain a brief burst of increased Critical Chance and Energy Regen, with each kill extending duration of Cathode Grace. Casting is on a cooldown.
+**Rotorswell:** Gyre’s mechanisms spin at incredible speeds, generating an Electric Field that shocks nearby enemies. When Gyre gets a critical hit, a large electrical discharge will chain from the enemy that was hit to nearby enemies.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Neo T10 Relic (11.00%) |
+| Chassis | 1 | Axi T13 Relic (11.00%) |
+| Neuroptics | 1 | Lith G14 Relic (2.00%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Meso E7 Relic (25.33%); Meso V14 Relic (25.33%) |
+
+## Harrow
+Achieve redemption through vengeance. The monastic Harrow increases damage to support allies. Defy enemies and ascend.
+
+### Wiki
+Achieve redemption through vengeance. The monastic Harrow increases damage to support allies. Defy enemies and ascend.
+Lotus
+Release Date: June 28th, 2017
+Dauntless and devout, the dark priest Harrow bestows upon his coven three virtues: salvation through sacrifice, redemption through vengeance, and ascension through defiance. Nemeses beware, for only death awaits. Enchain the tainted, silence their heresy, and deliver their tormented souls unto the Void's embrace. Harrow was absolved in Update 21.
+Harrow is a monastic Warframe that provides damage and support. His Passive doubles the amount of Overshields he can gain and enters missions with full Energy. Condemn releases chains that binds enemies and restores his Shields. Penance increases Fire Rate and Reload Speed and grants Harrow lifesteal for himself and allies. Thurible channels a ritual to recover energy on kill, with bonus energy from headshots. Covenant protects Harrow and his allies with brief Invulnerability, after which absorbed damage is converted into increased Critical Chance, further amplified for headshots.
+Harrow's main blueprint is awarded upon completion of the Chains of Harrow quest. The Chassis blueprint is acquired from defeating Void Fissure enemies, the Neuroptics blueprint can be found from Rotation A Spy vaults on Pago, Kuva Fortress, and the Systems blueprint is rewarded from Defection missions on Rotations B and C. Both Neuroptics and Systems can also be obtained from Rotation C Kuva Survival on Taveuni, Kuva Fortress. Additional main blueprints can be bought from Cephalon Simaris for 50,000 Standing.
+Alternatively, upon completion of The Duviri Paradox, Harrow's main and component blueprints can be earned from The Circuit. By selecting him on the rotating week he is available, players can earn his blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Crafting
+Health: 270 | Shield: 455 | Armor: 185 | Energy: 100 | Sprint: 1
+Aura: naramon
+
+### Abilities
+**Condemn:** Cast a wave of energy that chains them where they stand. Each enemy held reinforces Harrow's shields.
+**Penance:** Sacrifice Shields to boost Reload Speed, and Fire Rate while converting damage inflicted on enemies into health for Harrow and nearby allies.
+**Thurible:** Channel Harrow's energy into the Thurible to generate a buff. Once finished, kill enemies to bestow nearby allies with bursts of energy. The more energy channeled the greater the reward for each kill. Headshots produce extra energy.
+**Covenant:** Protect nearby allies with an energy force that absorbs all damage and converts it to a Critical Chance bonus for all those under the Covenant. Headshots are amplified even further.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Cephalon Simaris, Complete Chains of Harrow (100.00%) |
+| Chassis | 1 | Void Fissure Corrupted Enemy (3.00%) |
+| Kuva | 2000 | — |
+| Neuroptics | 1 | Kuva Fortress/Taveuni (Survival), Rotation C (12.00%); Kuva Fortress/Pago (Spy), Rotation A (16.67%) |
+| Systems | 1 | Kuva Fortress/Taveuni (Survival), Rotation C (12.00%); Neptune/Yursa (Defection), Rotation C (15.00%); Phobos/Memphis (Defection), Rotation C (15.00%); Saturn/Caracol (Defection), Rotation C (15.00%); Saturn/Caracol (Defection), Rotation B (5.45%); Neptune/Yursa (Defection), Rotation B (6.00%); Phobos/Memphis (Defection), Rotation B (6.00%) |
+
+### Patch History (66 entries)
+- **Veilbreaker: Revenant Prime: Hotfix 32.0.9** (2022-10-05T17:59:06Z): Replaced Red Veil sacrifice of Nezha Prime Chassis to Harrow Prime Systems.
+- **Khora Prime: Hotfix 31.7.1** (2022-07-28T17:55:50Z): Fixed crashes when casting Harrow’s Abilities.
+- **Khora Prime: Update 31.7** (2022-07-16T20:02:14Z): Replaced Cephalon Suda sacrifice of Inaros Prime Chassis to Harrow Prime Neuroptics.
+- ...and 63 more patches
+
+## Harrow Prime
+The Inquisitor Eternal arises, hallowed by the Void, preaching a gospel of iron and flame.
+
+### Wiki
+The Inquisitor Eternal arises, hallowed by the Void, preaching a gospel of iron and flame.
+Release Date: December 15th, 2021
+Harrow Prime is the Primed variant of Harrow, possessing enhanced Shields and Energy as well as an additional Madurai polarity. Harrow Prime was released alongside Knell Prime and Scourge Prime.
+Vaultings
+On October 18th, 2023, Harrow Prime, along with Knell Prime and Scourge Prime, entered the Prime Vault and were retired from the reward tables. Any preexisting components or fully-built items will remain as is.
+Crafting
+**Notes:**
+Harrow Prime, compared to Harrow:
+Higher Shield (640/740 vs. 455/555)
+Higher Energy (140/190 vs. 100/150)
+Additional Madurai Polarity (MaduraiVazarinNaramon vs. VazarinNaramon)
+If Harrow Prime wields his signature Knell/Knell Prime, the weapon's magazine size is increased by 1 round, for a total of 2 rounds.
+Currently, Scourge/Scourge Prime lacks a Signature Weapon bonus with Harrow Prime.
+DeathOrbEnergy
+Harrow Prime wields gold-ornated exquisite Thurible.
+Due to his passive doubling overshield capacity, Harrow Prime possesses the highest base total shield value of all Warframes in the game: 3,140.
+**Trivia:**
+Harrow Prime is the tenth Primed Warframe whose non-Primed variant was unlockable through a quest (Chains of Harrow), after Nidus, Gara, Octavia, Inaros, Titania, Atlas, Chroma, Limbo, and Mirage.
+Harrow Prime's mask seems to resemble a gas mask or might be a direct reference to the movie Insidious, where a scene shows one of the characters using a gas mask to communicate with someone/spirit between worlds. This seems fitting for Rell's lore in Chains of Harrow.
+Health: 270 | Shield: 640 | Armor: 185 | Energy: 140 | Sprint: 1
+Aura: naramon
+
+### Abilities
+**Condemn:** Cast a wave of energy that chains them where they stand. Each enemy held reinforces Harrow's shields.
+**Penance:** Sacrifice Shields to boost Reload Speed, and Fire Rate while converting damage inflicted on enemies into health for Harrow and nearby allies.
+**Thurible:** Channel Harrow's energy into the Thurible to generate a buff. Once finished, kill enemies to bestow nearby allies with bursts of energy. The more energy channeled the greater the reward for each kill. Headshots produce extra energy.
+**Covenant:** Protect nearby allies with an energy force that absorbs all damage and converts it to a Critical Chance bonus for all those under the Covenant. Headshots are amplified even further.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Axi K6 Relic (11.00%); Lith B11 Relic (11.00%); Lith P6 Relic (11.00%); Lith S15 Relic (11.00%); Neo G5 Relic (11.00%); Neo L3 Relic (11.00%); Neo N21 Relic (11.00%) |
+| Chassis | 1 | Axi N10 Relic (25.33%); Axi S15 Relic (25.33%); Meso G3 Relic (25.33%); Meso N13 Relic (25.33%); Meso O5 Relic (25.33%); Meso P11 Relic (25.33%); Neo T7 Relic (25.33%) |
+| Neuroptics | 1 | Axi A16 Relic (11.00%); Axi S12 Relic (11.00%); Axi T11 Relic (11.00%); Axi T8 Relic (11.00%); Lith B10 Relic (11.00%); Lith R3 Relic (11.00%); Meso C8 Relic (11.00%); Meso P10 Relic (11.00%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Axi H7 Relic (2.00%); Lith H10 Relic (2.00%); Lith H3 Relic (2.00%); Lith H4 Relic (2.00%); Lith H5 Relic (2.00%); Lith H7 Relic (2.00%); Meso H2 Relic (2.00%); Meso H4 Relic (2.00%) |
+
+### Patch History (66 entries)
+- **Veilbreaker: Revenant Prime: Hotfix 32.0.9** (2022-10-05T17:59:06Z): Replaced Red Veil sacrifice of Nezha Prime Chassis to Harrow Prime Systems.
+- **Khora Prime: Hotfix 31.7.1** (2022-07-28T17:55:50Z): Fixed crashes when casting Harrow’s Abilities.
+- **Khora Prime: Update 31.7** (2022-07-16T20:02:14Z): Replaced Cephalon Suda sacrifice of Inaros Prime Chassis to Harrow Prime Neuroptics.
+- ...and 63 more patches
+
+## Helminth
+
+### Wiki
+Ordis
+Helminth
+The Helminth is a being residing in the Helminth Infirmary of the Orbiter, behind a sealed door that requires special access methods to enter. It is responsible for the ship's "biological functions", namely the behind-the-scenes repair and maintenance of the Warframes.
+While the Infestation in the room as a whole is a part of the Helminth itself, the "main body" of the Helminth can be considered the big mouth attached to the back wall, which it uses to swallow resources. The Tenno can interact with the Helminth's core functions by having their Warframe sit down on the infested chair in the center of the room.
+Lore
+Ballas
+It is revealed during The Sacrifice by Executor Ballas that the Helminth was created by the Orokin to convert human subjects into Infested-hybrids, giving birth to Warframes to be used in The Old War against the Sentient. According to Ballas' Vitruvian, when a subject is exposed to a Helminth strain, it transforms their skin into sword-steel, as well as interlinking their internal organs with untold resilience, while at the same time preventing the same Infestation from completely destroying their mind, or so the Orokin thought. However, the Helminth-strain Warframes, like the Sentients before them, proved impossible to control by their Orokin creators until the Operators came to pacify them and Transference technology was developed.
+The Helminth seems to both fear and revere the "demon" Operator, showing both a determination to serve them and a happiness in their presence. The Helminth's ultimate goal, unsurprisingly as an Infested life form, seems to be to become one with the Operator.
+Flare possesses a sentient Infested guitar named Lizzie, who reveals herself to be connected to the Helminth and all other Techrot and Infested. Like the Helminth's relationship with the Operator, Lizzie claims to love Flare and refers to the Drifter as a demon.
+Health: 0 | Shield: 0 | Armor: 0 | Energy: 0
+
+### Abilities
+**Energized Munitions:** Increase the efficiency of your ammo consumption.
+**Master's Summons:** Heal your companion and call it to your side.
+**Voracious Metastasis:** Consume Energy to heal yourself and grant matching Energy to each ally.
+**Perspicacity:** Automatically succeed at your next hack attempt.
+**Sickening Pulse:** Emit a pulse that adds stacks to Status Effects already afflicting enemies. The damage of Slash, Heat, and Toxin effects, excluding those created by Sickening Pulse itself, are added together to create a new instance of the Effect with a refreshed timer
+**Hideous Resistance:** Grant yourself immunity to Status effects.
+**Parasitic Armor:** Sacrifice Shields to reinforce Armor for a period of time.
+**Rebuild Shields:** Instantly restore your shields.
+**Infested Mobility:** Increase your parkour velocity.
+**Expedite Suffering:** Condense all Slash and Toxin Status Effects into a single damage instance.
+**Empower:** Increase the strength of your next ability use.
+**Marked For Death:** Stun an enemy; a portion of the next damage you deal to it will be dealt to all enemies around it.
+**Golden Instinct:** Send out a short-lived Void Spark that is drawn toward the nearest Medallion, Ayatan Sculpture, rare crate, unscanned Kuria or unscanned Fragment.
+
+## Hildryn
+Strength is Hildryn’s virtue. Her unique high-damage abilities are powered by her Shields, which can be recharged with Energy. Hildryn proves that a strong offense is a good defense.
+
+### Wiki
+Strength is Hildryn's virtue. Her unique high-damage abilities are powered by her Shields, which can be recharged with Energy. Hildryn proves that a strong offense is a good defense.
+Lotus
+Release Date: March 7th, 2019
+Reinforced by her stalwart physique, the Herculean cyborg, Hildryn, fortifies her allies' defenses as enemy barricades crumble beneath her overwhelming might. Rocket skyward at full thrust, achieve atmospheric flight, and launch shield-powered warheads to raze the battlefield with heavy artillery firepower. Hildryn first rained death from above on Update 24.4: Buried Debts.
+Hildryn is a hulking Warframe that utilizes Shields instead of Energy as her strength and defense. Her Passive provides longer Shield Gate duration. Balefire summons the Balefire Charger to deal significant damage. Pillage releases a wave that seizes enemy shields and armor to restore her own. Haven creates a link that enhances allies with bonus shields, shield recharge rate, and longer shield gate, while enemies receive damage. Aegis Storm has Hildryn hover off the ground, forced to wield her Balefire, while releasing an aura that lifts enemies into aerial stasis while continuously generating Energy Orbs.
+Hildryn's main blueprint can be purchased from Little Duck for 5,000 Standing upon reaching Rank 2 - Agent with Vox Solaris. Hildryn's component blueprints can be acquired from Exploiter Orb.
+Alternatively, upon completion of The Duviri Paradox, Hildryn's main and component blueprints can be earned from The Circuit. By selecting her on the rotating week she is available, players can earn her blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Crafting
+Health: 180 | Shield: 1280 | Armor: 315 | Energy: 0 | Sprint: 1
+Aura: naramon
+
+### Abilities
+**Balefire:** Charge and launch devastating bolts of electricity.
+**Pillage:** Pillage a percentage of Shields and Armor of nearby enemies to replenish Hildryn's own Shields and Overshields. Also removes Status Effects from Hildryn and her allies.
+**Haven:** Create a shield aura around allies. Enemies that approach Hildryn will take Radiation Damage.
+**Aegis Storm:** Take the skies and rain Balefire rockets down on the enemy. Nearby enemies are blasted into the air where they will create an Energy Orb every few seconds. When shields run out the enemies are smashed into the ground.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Vox Solaris, Agent (100.00%) |
+| Chassis | 1 | Exploiter Orb (38.72%) |
+| Neuroptics | 1 | Exploiter Orb (38.72%) |
+| Orokin Cell | 3 | — |
+| Systems | 1 | Exploiter Orb (22.56%) |
+
+### Patch History (50 entries)
+- **Lua’s Prey: Hotfix 32.2.4** (2022-12-07T19:04:56Z): Fixed Hildryn not having any energy colors when rolling or while Haven/Aegis Storm is active.
+- **Echoes of Veilbreaker: Hotfix 32.1.2** (2022-11-04T20:55:10Z): Adjusted more offsets for the Shard Bane Ephemera on Nidus, Gendel, Chroma, Lavos, Frost, Hildryn, Atlas, Rhino, Ash, and Vauban.
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): Fixed the Arbiters of Hexis Armor connection points being wonky on Hildryn. As reported on here:
+- ...and 47 more patches
+
+## Hildryn Prime
+Hildryn Prime proves that power is discipline’s reward.
+
+### Wiki
+Hildryn Prime proves that power is discipline’s reward.
+Ballas
+Release Date: March 15th, 2023.
+Hildryn Prime is the Primed variant of Hildryn, with improvements to Health, Shields, and Sprint Speed, as well as an additional Naramon polarity. Hildryn Prime was released alongside Larkspur Prime and Shade Prime.
+Crafting
+**Notes:**
+Hildryn Prime, compared to Hildryn:
+Higher Health (270/370 vs. 180/280)
+Higher Shield (1380/1880 vs. 1280/1780)
+Higher Sprint Speed (1.05 vs. 1.0)
+Has an additional Naramon polarity (VazarinVazarinNaramon vs. VazarinVazarin).
+If Hildryn wields her signature Larkspur/Larkspur Prime, the weapon gains 300 more Ammo Maximum in Atmospheric mode, for a total of 700.
+DeathOrbEnergy
+Hildryn Prime cannot benefit from the energy pulse as she does not use energy for her abilities.
+Hildryn Prime has the highest base shields out of all Warframes: 1,380 unranked and 1,880 at rank 30.
+When taking overshields into consideration, Hildryn is the Warframe with the second highest base total shield value (3,080), behind Harrow Prime.
+Hildryn Prime sports elegant Orokin-designed shoulder thrusters for her rolling animation and Aegis Storm.
+cfxG7_Gx8RQ
+Health: 270 | Shield: 1380 | Armor: 315 | Energy: 0 | Sprint: 1.05
+Aura: naramon
+
+### Abilities
+**Balefire:** Charge and launch devastating bolts of electricity.
+**Pillage:** Pillage a percentage of Shields and Armor of nearby enemies to replenish Hildryn's own Shields and Overshields. Also removes Status Effects from Hildryn and her allies.
+**Haven:** Create a shield aura around allies. Enemies that approach Hildryn will take Radiation Damage.
+**Aegis Storm:** Take the skies and rain Balefire rockets down on the enemy. Nearby enemies are blasted into the air where they will create an Energy Orb every few seconds. When shields run out the enemies are smashed into the ground.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Axi H6 Relic (2.00%); Axi H8 Relic (2.00%); Meso H5 Relic (2.00%); Meso H7 Relic (2.00%); Neo H4 Relic (2.00%) |
+| Chassis | 1 | Axi A18 Relic (11.00%); Axi L6 Relic (11.00%); Meso G10 Relic (11.00%); Meso P11 Relic (11.00%); Neo G7 Relic (11.00%); Neo Q1 Relic (11.00%) |
+| Neuroptics | 1 | Axi W4 Relic (11.00%); Lith G10 Relic (11.00%); Lith M9 Relic (11.00%); Meso P14 Relic (11.00%); Neo C4 Relic (11.00%); Neo P7 Relic (11.00%); Neo S17 Relic (11.00%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Axi P6 Relic (25.33%); Axi S17 Relic (25.33%); Axi S19 Relic (25.33%); Axi T12 Relic (25.33%); Lith A6 Relic (25.33%); Lith H8 Relic (25.33%); Lith P9 Relic (25.33%); Lith W3 Relic (25.33%); Meso C9 Relic (25.33%); Neo S18 Relic (25.33%) |
+
+## Hydroid
+Hydroid summons the power of the ocean depths. He provides crowd control with aqueous attacks. His enemies will meet a watery demise.
+
+### Wiki
+Hydroid summons the power of the ocean depths. He provides crowd control with aqueous attacks. His enemies will meet a watery demise.
+Lotus
+Release Date: April 10th, 2014
+Wash ashore with oceanic momentum to turn the tides of war. Below unfathomable depths lurking in an abyssal trench, the Kraken awaits his call. Drench the surface dwellers in torrential downpour and deluge as the Maritime Marauder, Hydroid, sails across strange seas to pillage and plunder. Command elemental water to rend foes asunder, as horrid tendrils grasp flailing prey and relentless waves erode away the drowned.
+Hydroid is a pirate Warframe that commands Corrosive water to control the battlefield. His Passive provides Corrosive status additional armor reduction. Tempest Barrage calls down a bombardment of Corrosive water. Tidal Surge transforms him into an Invulnerable wave of water as he surges forward. Plunder has Hydroid seize Corrosive status to permanently degrade armor while strengthening his own armor and imbues his weapons with Corrosive. Tentacle Swarm summons a deep sea creature that captures and suspends enemies.
+Hydroid's main blueprint can be purchased from the Market. Hydroid's component blueprints can be obtained from defeating from Councilor Vay Hek on Oro, Earth. The mission requires Mastery Rank 5 to enter.
+Alternatively, upon completion of The Duviri Paradox, Hydroid's main and component blueprints can be earned from The Circuit. By selecting him on the rotating week he is available, players can earn his blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Crafting
+Health: 270 | Shield: 365 | Armor: 240 | Energy: 140 | Sprint: 1.05
+Aura: naramon
+
+### Abilities
+**Tempest Barrage:** Summon a tempest to rain down upon a target area.
+**Tidal Surge:** Crash through enemies in a ferocious wall of water.
+**Plunder:** Plunder Armor from nearby enemies and increase Corrosive Damage on your Abilities and weapons. Enemies affected by Corrosive Status offer a greater increase.
+**Tentacle Swarm:** Summon a creature from the depths. Its watery tentacles emerge from nearby surfaces to wreak havoc.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | Earth/Oro (Assassination) (38.72%); Vay Hek Frequency Triangulator, Rotation C (38.72%) |
+| Neuroptics | 1 | Earth/Oro (Assassination) (38.72%); Vay Hek Frequency Triangulator, Rotation C (38.72%) |
+| Orokin Cell | 1 | — |
+| Systems | 1 | Earth/Oro (Assassination) (22.56%); Vay Hek Frequency Triangulator, Rotation C (22.56%) |
+
+### Patch History (96 entries)
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): Fixed the Tentacles of Hydroid’s Tentacle Swarm targeting your companion before enemies.
+- **Angels of the Zariman: Hotfix 31.5.6** (2022-05-04T20:56:40Z): Fixed Hydroid's Pilfering Swarm, Nekros Desecrate, and Khora's Pilfering Strangledome affecting Vitoplast drop amounts from enemies in Void Flood missions.
+- **Angels of the Zariman: Hotfix 31.5.4** (2022-05-02T20:54:52Z): Fixed Nekros’ Desecrate and Hydroid’s Pilfering Swarm being able to duplicate Voidplume Pinion and Arcane drops from Void Manifestation fights.
+- ...and 93 more patches
+
+## Hydroid Prime
+Command the ocean’s fury with this king of gold and silver. Featuring altered mod polarities for greater customization.
+
+### Wiki
+Command the ocean's fury with this king of gold and silver. Featuring altered mod polarities for greater customization.
+Ballas
+Release Date: August 29th, 2017
+Hydroid Prime is the Primed variant of Hydroid, possessing increased shields, armor, and energy capacity, as well as an additional Vazarin and Naramon polarities. Hydroid Prime was released alongside Ballistica Prime and Nami Skyla Prime.
+Vaultings
+On June 28, 2019, it was announced that Hydroid Prime, alongside Ballistica Prime and Nami Skyla Prime, would enter the Prime Vault and be retired from the reward tables on July 6th, 2019. Any preexisting components or fully-built frames will remain as is.
+Hydroid Prime was available from Prime Resurgence which ran from November 16, 2021 to January 25, 2022.
+Crafting
+**Notes:**
+Hydroid Prime, compared to Hydroid:
+Higher Shields (550/650 vs. 365/465)
+Higher Armor (290 vs. 240)
+Higher Energy (175/225 vs. 140/190)
+Higher Starting Energy (100 vs. 75)
+Additional Vazarin and Naramon Polarities (MaduraiVazarinNaramonNaramon vs. MaduraiNaramon)
+DeathOrbEnergy
+Hydroid Prime's Tentacle Swarm tentacles are opaque and have a new organic texture that is affected by Hydroid Prime's Warframe Appearance colors.
+Energy color applies a coat of energy on the tentacle's model and alters the color of the numerous glow spots on the texture. This allows players to customize their tentacles to look similar to the older tentacle model prior to Update 21.4.
+Tentacle texture can return to default non-Prime translucency by equipping different skins (e.g. Hydroid Immortal Skin on Hydroid Prime)
+Health: 270 | Shield: 550 | Armor: 290 | Energy: 175 | Sprint: 1.05
+Aura: naramon
+
+### Abilities
+**Tempest Barrage:** Summon a tempest to rain down upon a target area.
+**Tidal Surge:** Crash through enemies in a ferocious wall of water.
+**Plunder:** Plunder Armor from nearby enemies and increase Corrosive Damage on your Abilities and weapons. Enemies affected by Corrosive Status offer a greater increase.
+**Tentacle Swarm:** Summon a creature from the depths. Its watery tentacles emerge from nearby surfaces to wreak havoc.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Axi K5 Relic (11.00%); Meso B2 Relic (11.00%); Meso N5 Relic (11.00%); Meso Z2 Relic (11.00%); Neo A6 Relic (11.00%) |
+| Chassis | 1 | Axi C3 Relic (25.33%); Axi C4 Relic (25.33%); Lith R1 Relic (25.33%); Meso H1 Relic (25.33%); Neo B4 Relic (25.33%); Neo N8 Relic (25.33%); Neo S11 Relic (25.33%); Neo S8 Relic (25.33%) |
+| Neuroptics | 1 | Axi A3 Relic (11.00%); Axi M3 Relic (11.00%); Axi N4 Relic (11.00%); Neo G1 Relic (11.00%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Axi H3 Relic (2.00%); Axi H4 Relic (2.00%); Neo H1 Relic (2.00%); Neo H2 Relic (2.00%); Neo H3 Relic (2.00%) |
+
+### Patch History (96 entries)
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): Fixed the Tentacles of Hydroid’s Tentacle Swarm targeting your companion before enemies.
+- **Angels of the Zariman: Hotfix 31.5.6** (2022-05-04T20:56:40Z): Fixed Hydroid's Pilfering Swarm, Nekros Desecrate, and Khora's Pilfering Strangledome affecting Vitoplast drop amounts from enemies in Void Flood missions.
+- **Angels of the Zariman: Hotfix 31.5.4** (2022-05-02T20:54:52Z): Fixed Nekros’ Desecrate and Hydroid’s Pilfering Swarm being able to duplicate Voidplume Pinion and Arcane drops from Void Manifestation fights.
+- ...and 93 more patches
+
+## Inaros
+Inaros commands the fearsome desert. He survives like the ever-shifting sands that empower him. Legend recalls Inaros as the Fear-Eater.
+
+### Wiki
+Inaros commands the fearsome desert. He survives like the ever-shifting sands that empower him. Legend recalls Inaros as the Fear-Eater.
+Lotus
+Release Date: March 4th, 2016
+Entombed in his sarcophagus, as shifting sand pours through the hourglass, resurrect the Cursed Pharaoh Inaros to consume and conquer all life in his sandstorm burial. Engulf the outlanders in barren desert, where his sacred scarabs and Kavats thrive. Inaros arose in Update 18.5.
+Inaros is a mummy-like Warframe that calls forth the sands to bolster his survivability and crowd control. His Passive has him cheat death by retreating into a sarcophagus and emerging into his sandy form to draw the life force of enemies with punches, while Finishers restore large amounts of Health. Desiccation throws sand to Stagger enemies, recover health, and open them to finishers. Sandstorm transforms him into an Invulnerable sandstorm that sweeps in enemies and leaves them with Knockdown for ground finishers. Scarab Shell sacrifices health to encase Inaros in a shell that increases Armor and Status Effect immunity. Scarab Swarm releases a swarm that deals Corrosive damage based on Inaros' maximum health and causes afflicted enemies to panic; an enemy that dies spawns a Swarm Kavat that propagates the swarm.
+**Acquisition:**
+Inaros's main and component blueprints are obtained from the Sands of Inaros quest. The quest blueprint is tradeable from another player, or purchasable from Baro Ki'Teer for 100 + 25,000. Additional blueprints can be bought from Cephalon Simaris; 25,000 Standing for component blueprints and 50,000 Standing for main blueprint.
+Alternatively, upon completion of The Duviri Paradox, Inaros's main and component blueprints can be earned from The Circuit. By selecting him on the rotating week he is available, players can earn his blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Crafting
+Lore
+Health: 2110 | Shield: 0 | Armor: 240 | Energy: 100 | Sprint: 1
+Aura: naramon
+
+### Abilities
+**Desiccation:** Blast enemies with a wave of cursed sand that blinds them and steals their health.
+**Sandstorm:** Become a sandstorm. Inaros devours enemies pulled into his whirlwind, healing himself.
+**Scarab Shell:** Activate to form Armor by draining Inaros' Health. Activate again to stop the formation early. The protective layer reduces incoming Damage and absorbs Status Effects.
+**Scarab Swarm:** Summon a Scarab Swarm to attack enemies with guaranteed Corrosive Status. Damage scales with Inaros' Health. Enemies killed while immersed in the swarm summon a Swarm Kavat that fights alongside Inaros and guides the scarabs to other enemies.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Cephalon Simaris, Complete Sands of Inaros (100.00%) |
+| Chassis | 1 | Cephalon Simaris, Complete Sands of Inaros (100.00%) |
+| Neuroptics | 1 | Cephalon Simaris, Complete Sands of Inaros (100.00%) |
+| Orokin Cell | 1 | — |
+| Systems | 1 | Cephalon Simaris, Complete Sands of Inaros (100.00%) |
+
+### Patch History (94 entries)
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Inaros’s Passive, Desiccation, Devour, and Scarab Swarm
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): Inaros Blueprint
+- **Khora Prime: Update 31.7** (2022-07-16T20:02:14Z): Inaros Prime Replaced Cephalon Suda sacrifice of Inaros Prime Chassis to Harrow Prime Neuroptics.
+- ...and 91 more patches
+
+## Inaros Prime
+Rise, eternal, to cast the fear of Inaros into them. Featuring altered mod polarities for greater customization.
+
+### Wiki
+Inaros Prime
+Baro Ki'Teer
+Release Date: July 14th, 2020
+Inaros Prime is the Primed variant of Inaros, possessing higher health, energy, and sprint speed, as well as additional Madurai polarity. Inaros Prime was released alongside Panthera Prime and Karyst Prime.
+Vaulted
+On July 16th, 2022, Inaros Prime, along with Panthera Prime and Karyst Prime, entered the Prime Vault and were retired from the reward tables. Any preexisting components or fully-built items will remain as is.
+Crafting
+**Notes:**
+Inaros Prime, compared to Inaros:
+Higher Health (2215/2415 vs. 2110/2310)
+Higher Energy (140/190 vs. 100/150)
+Higher Starting Energy (75 vs. 50)
+Higher Sprint Speed (1.05 vs. 1.0)
+Additional Madurai polarity (MaduraiVazarinVazarin vs. VazarinVazarin)
+DeathOrbEnergy
+Inaros Prime possesses the highest base health of all Warframes in the game: 2215 at rank 0 and 2415 at max rank.
+In addition to Baro Ki'Teer having unique dialogue different from Inaros or other Prime Warframes, he will sell a Baro Void-Signal for 25,000 and 100 only to Inaros Prime, and can only be bought once per visit. This unlocks a mission called Void Raider in the Void, which is a Defense mission with 6 waves, Nightwatch Corps enemies, and the defense client being Baro Ki'Teer wielding Aklex. This mission can only be accessed using Inaros Prime, consuming the Baro Void-Signal on completion.
+Inaros Prime's sarcophagus features metallic linings and Orokin ornaments affected by his chosen Appearance colors.
+Inaros Prime's Scarab Swarm features additional glowing white particles swirling upward, and enclosing Inaros Prime's entire body, during charging animation. Particles' color isn't affected by chosen Appearance colors.
+Health: 2215 | Shield: 0 | Armor: 240 | Energy: 140 | Sprint: 1.05
+Aura: naramon
+
+### Abilities
+**Desiccation:** Blast enemies with a wave of cursed sand that blinds them and steals their health.
+**Sandstorm:** Become a sandstorm. Inaros devours enemies pulled into his whirlwind, healing himself.
+**Scarab Shell:** Activate to form Armor by draining Inaros' Health. Activate again to stop the formation early. The protective layer reduces incoming Damage and absorbs Status Effects.
+**Scarab Swarm:** Summon a Scarab Swarm to attack enemies with guaranteed Corrosive Status. Damage scales with Inaros' Health. Enemies killed while immersed in the swarm summon a Swarm Kavat that fights alongside Inaros and guides the scarabs to other enemies.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Axi K12 Relic (11.00%); Axi W1 Relic (11.00%); Axi W2 Relic (11.00%); Lith G4 Relic (11.00%); Lith N10 Relic (11.00%); Meso N12 Relic (11.00%) |
+| Chassis | 1 | Axi K6 Relic (11.00%); Axi O5 Relic (11.00%); Lith H4 Relic (11.00%); Lith N6 Relic (11.00%); Neo A10 Relic (11.00%); Neo P3 Relic (11.00%); Neo T3 Relic (11.00%); Neo V10 Relic (11.00%) |
+| Neuroptics | 1 | Axi I1 Relic (2.00%); Axi I2 Relic (2.00%); Axi I3 Relic (2.00%); Meso I1 Relic (2.00%); Meso I2 Relic (2.00%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Axi A13 Relic (25.33%); Axi G7 Relic (25.33%); Axi T7 Relic (25.33%); Lith M6 Relic (25.33%); Meso C7 Relic (25.33%); Neo K4 Relic (25.33%); Neo N13 Relic (25.33%); Neo T5 Relic (25.33%) |
+
+### Patch History (94 entries)
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Inaros’s Passive, Desiccation, Devour, and Scarab Swarm
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): Inaros Blueprint
+- **Khora Prime: Update 31.7** (2022-07-16T20:02:14Z): Inaros Prime Replaced Cephalon Suda sacrifice of Inaros Prime Chassis to Harrow Prime Neuroptics.
+- ...and 91 more patches
+
+## Ivara
+The huntress draws her bow. Ivara is stealth itself. Her enemies live in fear of her sudden attacks.
+
+### Wiki
+The huntress draws her bow. Ivara is stealth itself. Her enemies live in fear of her sudden attacks.
+Lotus
+Release Date: December 3rd, 2015
+Equipped with a diverse selection of arrows, deft hands, shroud of stealth and an exalted bow, the crafty Ivara infiltrates hostile territory with deception and diversion, and eliminates threats with a shot from beyond. Ivara emerged in Update 18.
+Ivara is a hunter Warframe that utilizes stealth. Her Passive extends the range of her enemy Radar. Quiver cycles through four arrows: Cloak Arrow creates a bubble that provides invisibility, Dashwire Arrow forms a Zipline, Noise Arrow emits noise to attract enemies to it, and Sleep Arrow puts enemies to sleep. Navigator projects her consciousness into her projectiles to manually control and direct it. Prowl turns her invisible, increases her headshot damage, and allows her to automatically spawn loot from nearby enemies, at the cost of reduced Movement Speed and limited maneuvers that would otherwise break the cloak. Artemis Bow draws her Artemis Bow to release fanning arrows.
+Ivara's main blueprint can be purchased from the Market. Ivara's component blueprints are acquired from Spy missions (including Nightmare Mode) depending on mission level. Alerts and Sorties do not award identified items and therefore are exempt. All parts are in Rotation C of their respective reward tables, meaning they require three successful data extractions to be an eligible reward for the mission. Eligible missions are detailed in the tables below.
+Even though The Steel Path missions are level 100+, they have the same reward table as normal missions.
+Alternatively, upon completion of The Duviri Paradox, Ivara's main and component blueprints can be earned from The Circuit. By selecting her on the rotating week she is available, players can earn her blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Crafting
+Lore & History
+Health: 180 | Shield: 270 | Armor: 105 | Energy: 215 | Sprint: 1.15
+Aura: naramon
+
+### Abilities
+**Quiver:** Cycle through and shoot one of four tactical arrows. Cloak creates a stationary bubble that cloaks Ivara and allies. Dashwire creates a traversable zipline. Noise emits a high-pitched sound that attracts enemies to it. Sleep temporarily puts nearby enemies into a deep slumber.
+**Navigator:** Assume control of any projectile launched by Ivara and guide it to the target.
+**Prowl:** Become invisible and steal loot from unsuspecting enemies or take out prey with deadly headshots.
+**Artemis Bow:** Summon a mighty bow and unleash a volley of devastating arrows.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | Ceres/Bode (Spy), Rotation C (22.56%); Europa/Valac (Spy), Rotation C (22.56%); Jupiter/Amalthea (Spy), Rotation C (22.56%); Saturn/Aegaeon (Spy), Rotation C (22.56%); Saturn/Dione (Spy), Rotation C (22.56%); Neptune/Brom Cluster (Skirmish), Rotation C (36.00%) |
+| Neuroptics | 1 | Eris/Cyath (Spy), Rotation C (22.56%); Eris/Gnathos (Spy), Rotation C (22.56%); Neptune/Nereid (Spy), Rotation C (22.56%); Pluto/Oceanum (Spy), Rotation C (22.56%); Sedna/Kelpie (Spy), Rotation C (22.56%); Sedna/Tikoloshe (Spy), Rotation C (22.56%); Uranus/Rosalind (Spy), Rotation C (22.56%); Pluto/Peregrine Axis (Skirmish), Rotation C (36.00%) |
+| Orokin Cell | 1 | — |
+| Systems | 1 | Ceres/Hapke (Spy), Rotation C (22.56%); Earth/Cambria (Spy), Rotation C (22.56%); Mars/Arval (Spy), Rotation C (22.56%); Mercury/Suisei (Spy), Rotation C (22.56%); Phobos/Grildrig (Spy), Rotation C (22.56%); Phobos/Shklovsky (Spy), Rotation C (22.56%); Venus/Unda (Spy), Rotation C (22.56%); Venus/Vesper (Spy), Rotation C (22.56%); Venus/Orvin-Haarc (Skirmish), Rotation C (36.00%) |
+
+### Patch History (119 entries)
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): Fixed Heavy Caliber having no effect on Ivara’s Artemis Bow.
+- **Angels of the Zariman: Hotfix 31.5.4** (2022-05-02T20:54:52Z): Fixed Ivara’s Prowl applying to Thrax units in between their physical and Void states.
+- **Update 31.5: Angels of the Zariman** (2022-04-27T15:02:06Z): Ivara’s Quiver: Sleep arrow
+- ...and 116 more patches
+
+## Ivara Prime
+As regal and lethal as a nighttime wood, this is the queen of the hunt in her ultimate form.
+
+### Wiki
+As regal and lethal as a nighttime wood, this is the queen of the hunt in her ultimate form.
+Release Date: December 17th, 2019
+Ivara Prime is the Primed variant of Ivara, possessing higher Shields, Armor, Energy and Sprint Speed, as well as an additional Madurai polarity. Ivara Prime was released alongside Baza Prime and Aksomati Prime.
+Vaultings
+On December 10th, 2021, it was announced that Ivara Prime, along with Baza Prime and Aksomati Prime, would enter the Prime Vault and be retired from the reward tables on December 15th, 2021. Any preexisting components or fully-built items will remain as is.
+Crafting
+**Notes:**
+Ivara Prime, compared to Ivara:
+Higher Shield (455/555 vs. 270/370)
+Higher Armor (135 vs. 105)
+Higher Energy (250/300 vs. 215/265)
+Higher Starting Energy (100 vs. 75)
+Higher Sprint Speed (1.2 vs. 1.15)
+Additional Madurai Polarity (MaduraiVazarinNaramon vs. VazarinNaramon)
+DeathOrbEnergy
+Ivara Prime along with Volt Prime, Chroma Prime, Saryn Prime, Baruuk (Baruuk Prime), Wisp (Wisp Prime), and Yareli, possesses the third highest max-rank energy pool of all Warframes at 300 at rank 30, behind Yareli Prime's 315 and Garuda Prime's 320.
+This can be increased to 600 with a maxed Flow, 850 with Primed Flow, and 880 with Primed Flow and Endurance Drift.
+Ivara Prime also has the highest unranked energy pool of all Warframes at 250.
+When Ivara Prime is invisible (such as from Quiver's Cloak Arrow or Prowl), she features a moving starlight effect over her body, in addition to typical invisibility. The starlight is always moving from left to right, but moves in relation to a camera movement of a player who observes as well. Its colors are affected by the player's chosen energy colors.
+This starlight effect appears to be a part of her model, so it can also be seen when she becomes invisible by other means, e.g. Untraceable, Metronome's Nocturne buff, etc.
+Health: 180 | Shield: 455 | Armor: 135 | Energy: 250 | Sprint: 1.2
+Aura: naramon
+
+### Abilities
+**Quiver:** Cycle through and shoot one of four tactical arrows. Cloak creates a stationary bubble that cloaks Ivara and allies. Dashwire creates a traversable zipline. Noise emits a high-pitched sound that attracts enemies to it. Sleep temporarily puts nearby enemies into a deep slumber.
+**Navigator:** Assume control of any projectile launched by Ivara and guide it to the target.
+**Prowl:** Become invisible and steal loot from unsuspecting enemies or take out prey with deadly headshots.
+**Artemis Bow:** Summon a mighty bow and unleash a volley of devastating arrows.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Axi B4 Relic (11.00%); Axi S13 Relic (11.00%); Lith B8 Relic (11.00%); Lith N4 Relic (11.00%); Lith N5 Relic (11.00%); Lith N7 Relic (11.00%); Meso N9 Relic (11.00%) |
+| Chassis | 1 | Lith I1 Relic (2.00%); Neo I1 Relic (2.00%); Neo I2 Relic (2.00%); Neo I3 Relic (2.00%) |
+| Neuroptics | 1 | Lith D3 Relic (25.33%); Meso B5 Relic (25.33%); Meso C4 Relic (25.33%); Meso D6 Relic (25.33%); Meso N10 Relic (25.33%); Meso O6 Relic (25.33%); Neo M3 Relic (25.33%); Neo T4 Relic (25.33%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Axi A15 Relic (11.00%); Axi A9 Relic (11.00%); Axi C6 Relic (11.00%); Lith A4 Relic (11.00%); Lith T7 Relic (11.00%); Meso P2 Relic (11.00%) |
+
+### Patch History (119 entries)
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): Fixed Heavy Caliber having no effect on Ivara’s Artemis Bow.
+- **Angels of the Zariman: Hotfix 31.5.4** (2022-05-02T20:54:52Z): Fixed Ivara’s Prowl applying to Thrax units in between their physical and Void states.
+- **Update 31.5: Angels of the Zariman** (2022-04-27T15:02:06Z): Ivara’s Quiver: Sleep arrow
+- ...and 116 more patches
+
+## Jade
+Become enraptured by the song of devastation. Through her, the Jade Light can be a force of destruction or a source of support.
+
+### Wiki
+Jade
+For the Orokin execution method, see Jade Light.
+Release Date: June 18th, 2024
+Angelic allure graces the assembly in blissful song, hymns threefold of wartime armistice and abhorrent passion. Echo the Naga Drums to Tenno heartbeats, delivered thus to the Orokin a coup d'état. Amidst the anthems of devastation, a solemn soul sings proud, her audience awestruck by oblivion's embrace. Blessed be the Lucent Virtuoso, Jade, whose glorious choir casts forth a crescendo of emerald blaze. Before heavenly ascent, thou shall behold one final glimpse: sublime plumes unfurl to seraphic wings most divine. Jade descended from the heavens in Update 36.
+Jade is an angelic Warframe that provides support. Her Passive grants her a second Aura while causing certain abilities to mark enemies with Judgment to increase their Damage Vulnerability. Light's Judgment creates wells that heals allies while burning enemies with Heat damage and applying Judgment. Symphony of Mercy cycles through three holy hymns to bolster her allies: Power of The Seven grants Ability Strength, Deathbringer increases weapon damage, and Spirit of Resilience recovers Shields while reducing recharge delay. Ophanim Eyes summons an accusatory gaze that applies Slow and shield and armor removal while reviving allies from a distance. Glory on High has Jade soar into the sky while arming herself with Glory, firing projectiles that apply Judgment while its Alternate Fire detonates Judgments over a range.
+Jade's main blueprint is acquired upon completion of the Jade Shadows quest. Her component blueprints are obtained from Ascension on Brutus, Uranus, at a 5% drop rate.
+Health: 365 | Shield: 450 | Armor: 135 | Energy: 150 | Sprint: 1
+Aura: aura,vazarin
+
+### Abilities
+**Light's Judgment:** Create a well of light that heals allies and hurts enemies. Those who enter the well will be highlighted by Judgments.
+**Symphony Of Mercy:** Cycle through three songs that strengthen allies. Power of The Seven increases Ability Strength. Deathbringer increases Weapon Damage. Spirit of Resilience increases Shield Effectiveness. Extend the duration of each song by killing enemies surrounded by Judgments.
+**Ophanim Eyes:** Jade summons an accusatory gaze that slows nearby enemies and dissolves their Shields and Armor. When the gaze falls upon allies, they can be revived from a distance.
+**Glory On High:** Soar with destructive power. Use alternate-fire to detonate Judgments, causing an explosion of Jade Light. Enemies inside the Light's Judgment radius empower the explosion.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | Uranus/Brutus (Ascension) (4.63%) |
+| Neuroptics | 1 | Uranus/Brutus (Ascension) (4.63%) |
+| Orokin Cell | 3 | — |
+| Systems | 1 | Uranus/Brutus (Ascension) (4.63%) |
+
+### Patch History (2 entries)
+- **Echoes of Veilbreaker: Hotfix 32.1.2** (2022-11-04T20:55:10Z): Fixed issues with the Daedalus Chest Plate (Jade, Solstice, and Prisma), Kishikami Chest Armor, Focus School Badges (Zenurik, Naramon, Vazarin, Unairu).  Fixed issues with Syandanas on default outfit:
+- **Update 31.5: Angels of the Zariman** (2022-04-27T15:02:06Z): Jade Esteem
+
+## Khora
+Khora is red in whip and claw. She works together with her Kavat companion, Venari, to deal high damage and provide crowd control. Two bodies, one will.
+
+### Wiki
+Khora is red in whip and claw. She works together with her Kavat companion, Venari, to deal high damage and provide crowd control. Two bodies, one will.
+Lotus
+Release Date: April 20th, 2018
+Fiercely poised with feral instincts, the huntress Khora and her feline familiar Venari prowl amidst combat scouring for prey. Mistress of the livewire, she enchains her foes to enforce deadly discipline by whiplash, claws, and serrated steel. Khora and Venari pounced from the shadows in Update 22.18.
+Khora is a huntress Warframe always paired with her companion Venari, dealing high damage and crowd control. Her Passive has Venari fight alongside her while increasing her Movement Speed, and automatically respawns if slain after a certain amount of time. Whipclaw cracks her Whipclaw to deal damage. Ensnare binds a target to pull in other nearby enemies, which can be propagated by Whipclaw. Venari commands her companion to immediately respawn as well as enter three stances: Attack to ferocious engage enemies and snare them down, Protect to apply Knockdown and Disarmed, or Heal to target injured allies with Health recovery over time. Strangledome forms a dome that captures enemies with Damage Vulnerability and manipulates other enemies into attacking them; striking a captured enemy with Whipclaw will deal damage to all captured enemies.
+Khora's main blueprint can be purchased from the Market. Khora's component blueprints are acquired from standard Sanctuary Onslaught (not the Elite variant). Every two stages is a rotation, following the standard A-A-B-C pattern.
+Alternatively, upon completion of The Duviri Paradox, Khora's main and component blueprints can be earned from The Circuit. By selecting her on the rotating week she is available, players can earn her blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Crafting
+Lore & History
+Health: 365 | Shield: 270 | Armor: 290 | Energy: 140 | Sprint: 1.05
+Aura: vazarin
+
+### Abilities
+**Whipclaw:** Send enemies reeling with a deafening whipcrack. Stats are boosted by the equipped mods on Whipclaw.
+**Ensnare:** Bind a hapless target in living metal, entangling others who stray too close. Whipclaw will refresh the trap allowing it to capture more enemies.
+**Venari:** Command Venari to focus on a target. Hold to cycle between Attack, Protect, and Heal postures. If Venari is killed, use this ability to revive her instantly.
+**Strangledome:** Weave a dome of living chain that ensnares and strangles any enemy within, and any foolish enough to approach. Foes outside the trap will try to hasten their comrade's deaths by shooting them. Crack Whipclaw on the dome to further damage any trapped enemies.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | Sanctuary Onslaught, Rotation A (7.14%); Sanctuary Onslaught, Rotation B (7.14%); Sanctuary Onslaught, Rotation C (9.09%) |
+| Neuroptics | 1 | Sanctuary Onslaught, Rotation A (7.14%); Sanctuary Onslaught, Rotation B (7.14%); Sanctuary Onslaught, Rotation C (9.09%) |
+| Orokin Cell | 3 | — |
+| Systems | 1 | Sanctuary Onslaught, Rotation A (7.14%); Sanctuary Onslaught, Rotation B (7.14%); Sanctuary Onslaught, Rotation C (9.09%) |
+
+### Patch History (66 entries)
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Khora's Venari Heal
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): Khora’s Whipclaw
+- **Khora Prime: Update 31.7** (2022-07-16T20:02:14Z): Khora Prime: Update 31.7: Ensnare your enemies and dominate the battlefield with your loyal Kavat, Venari Prime. Get Khora Prime, exclusive Prime Accessories, Weapons, Boosters and more instantly with
+- ...and 63 more patches
+
+## Khora Prime
+A harmony of mistress and monster. The gilded huntress and her loyal Kavat, Venari, dominate the battlefield with their will.
+
+### Wiki
+A harmony of mistress and monster. The gilded huntress and her loyal Kavat, Venari, dominate the battlefield with their will.
+Ballas
+Release Date: July 16th, 2022
+Khora Prime is the Primed variant of Khora, possessing increased Armor, Energy, and Shields, as well as an additional Vazarin Polarity, with Venari Prime also having improved Armor, Health, and Damage over Venari. Khora Prime was released alongside Hystrix Prime and Dual Keres Prime.
+Crafting
+**Notes:**
+Khora Prime, compared to Khora:
+Higher Shield (365/465 vs. 270/370)
+Higher Armor (345 vs. 290)
+Higher Energy (175/225 vs. 140/190)
+Higher Starting Energy (100 vs. 75)
+Additional Vazarin Polarity (MaduraiVazarinNaramon vs. MaduraiNaramon)
+More powerful companion (Venari Prime vs. Venari)
+If Khora Prime wields her Signature Weapons:
+Hystrix/Hystrix Prime has an 8% chance to instantly reload on headshots.
+Dual Keres/Dual Keres Prime receives 20% Heavy Attack efficiency.
+DeathOrbEnergy
+Khora Prime's Whipclaw and Ensnare are decorated with golden square ornaments.
+Khora Prime's Ensnare is tilted 45 degrees, with vertical cuts in the middle.
+Like Venari, Venari Prime grants 6,000 mastery points.
+**Trivia:**
+Treating Venari Prime as an Exalted Weapon of sorts due to having interactions similar to an Exalted Weapon (such as being able to attack enemies in the Rift Plane), Khora Prime is the second Primed Warframe whose Exalted Weapon possesses different stats compared to her standard counterpart, the first being Garuda Prime.
+The Old Peace ARG interactive adventure mini-game presents a continuity error regarding Khora Prime. While the narration in her Prime Trailer suggests that she was only created after the death of Margulis, Khora Prime is one of the possible selectible Warframes in the mini-game, despite the recall events of The Old Peace taking place before Margulis's execution.
+Health: 365 | Shield: 365 | Armor: 345 | Energy: 175 | Sprint: 1.05
+Aura: vazarin
+
+### Abilities
+**Whipclaw:** Send enemies reeling with a deafening whipcrack. Stats are boosted by the equipped mods on Whipclaw.
+**Ensnare:** Bind a hapless target in living metal, entangling others who stray too close. Whipclaw will refresh the trap allowing it to capture more enemies.
+**Venari:** Command Venari to focus on a target. Hold to cycle between Attack, Protect, and Heal postures. If Venari is killed, use this ability to revive her instantly.
+**Strangledome:** Weave a dome of living chain that ensnares and strangles any enemy within, and any foolish enough to approach. Foes outside the trap will try to hasten their comrade's deaths by shooting them. Crack Whipclaw on the dome to further damage any trapped enemies.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Lith K9 Relic (2.00%); Meso K4 Relic (2.00%); Neo K6 Relic (2.00%); Neo C5 Relic (11.00%) |
+| Chassis | 1 | Axi G13 Relic (11.00%); Lith C10 Relic (11.00%); Lith G9 Relic (11.00%); Lith S15 Relic (11.00%); Neo D7 Relic (11.00%); Neo N21 Relic (11.00%) |
+| Neuroptics | 1 | Axi K8 Relic (2.00%); Neo K5 Relic (2.00%); Neo K7 Relic (2.00%); Neo K8 Relic (2.00%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Axi N11 Relic (25.33%); Lith H7 Relic (25.33%); Lith R4 Relic (25.33%); Meso A5 Relic (25.33%); Meso G5 Relic (25.33%); Meso P8 Relic (25.33%); Meso P9 Relic (25.33%); Neo F3 Relic (25.33%); Neo L2 Relic (25.33%) |
+
+### Patch History (66 entries)
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Khora's Venari Heal
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): Khora’s Whipclaw
+- **Khora Prime: Update 31.7** (2022-07-16T20:02:14Z): Khora Prime: Update 31.7: Ensnare your enemies and dominate the battlefield with your loyal Kavat, Venari Prime. Get Khora Prime, exclusive Prime Accessories, Weapons, Boosters and more instantly with
+- ...and 63 more patches
+
+## Koumei
+Test your luck with the dice-maiden. Koumei weaves fate to unleash damage and ensure her survival. To the virtuous, she is an oracle. To the wicked, a perilous game of chance.
+
+### Wiki
+Test your luck with the dice-maiden. Koumei weaves fate to unleash damage and ensure her survival. To the virtuous, she is an oracle. To the wicked, a perilous game of chance.
+Release Date: October 2, 2024
+Chance thy mortal fate.
+Unravel these tangled threads.
+Dare now cast my dice.
+Weave the strands of destiny as its seamstress, prophet and marionette. Raise the stakes and gamble the future of Origin, take a risk or many by lady luck's hand. Defy fate's preordained decree, repeat and escape its spiral unscathed as the Dice-Maiden, Koumei. Protect thyself with serendipitous charms, then bestow misfortune onto thy foes, so too shall they dangle on Tenno strings. Koumei cast her dice on Update 37.
+Koumei is a luck-themed Warframe who constantly tempts fate. Her Passive has a randomly selected weapon to imbue random Status Effects, while all her abilities roll dice to enhance their effects with a perfect roll enhancing the ability. Kumihimo weaves threads in an area that apply random statuses, Omikuji invokes a challenge that upon completion grants a random Decree, Omamori summons protective charms that have a chance to negate damage while healing Koumei, and Bunraku binds enemies on puppet strings as they receive random statuses.
+Koumei's main and component blueprints can be obtained from Shrine Defense on Saya's Visions, Earth. Access requires completion of Saya's Vigil and Once Awake.
+Alternatively they can be purchased from Koumei's Shrine in Cetus with Fate Pearl, which are dropped by the Infested Oni at the end of Shrine Defense in quantities of 14-18 (20-24 on The Steel Path). Each component blueprint requires 55 and the main blueprint requires 165, totaling 330 Fate Pearls for the whole set.
+Crafting
+Lore & History
+thumb|Koumei's Shrine
+Ostron Worshipper
+Health: 344 | Shield: 122 | Armor: 444 | Energy: 122 | Sprint: 1
+Aura: madurai
+
+### Abilities
+**Kumihimo:** Weave the threads of destiny. Enemies who touch the threads suffer a random Elemental Status Effect.
+A roll of triple sixes creates threads that inflict one of every Elemental Status Effect.
+**Omikuji:** Koumei glimpses a favorable future and the precise steps needed to reach it. Complete the challenge to earn a Decree. Unlucky rolls add a debuff, but you can hold the ability to reject the Omikuji.
+A roll of triple sixes grants a Decree without a challenge.
+**Omamori:** Surround yourself with Omamori Charms, each with a chance to have enemy attacks heal you instead of damage you. The number of charms is determined by Koumei’s dice roll.
+A roll of triple sixes grants invulnerability for the duration of your Omamori Charms.
+**Bunraku:** Wield your foe’s fate threads like the strings of marionettes. Koumei’s dice determine how many Status Effects foes in front of Koumei will suffer.
+A roll of triple sixes causes further Status Effects over time and extends Bunraku to enemies behind Koumei.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Earth/Saya's Visions (Shrine Defense) (4.09%) |
+| Chassis | 1 | Earth/Saya's Visions (Shrine Defense) (4.09%) |
+| Fate Pearl | 30 | — |
+| Neuroptics | 1 | Earth/Saya's Visions (Shrine Defense) (4.09%) |
+| Systems | 1 | Earth/Saya's Visions (Shrine Defense) (4.09%) |
+
+## Kullervo
+Kullervo answers for his sins and the sins of others. His daggers and melee prowess deal high damage. Seize the power of treachery to slake his thirst for revenge.
+
+### Wiki
+Kullervo answers for his sins and the sins of others. His daggers and melee prowess deal high damage. Seize the power of treachery to slake his thirst for revenge.
+The Warden in Official Gameplay Trailer
+Release Date: June 21st, 2023
+Sentenced to suffer eternally for rebellion against Orokin reign, his salvation spirals forth as the fabled kingdom returns. Imprisoned high above perilous skies, since exiled in an infinite dungeon, escape its labyrinth and exact righteous vengeance as the Crimson Renegade, Kullervo. Clad in hollowed steel of malleable memory, battle-scarred with gashes deep, where the torturous blades still dwell. Punish the foolish, rain down his agony, and flaunt the despised daggers in bittersweet betrayal. Kullervo served his sentence and was released from his prison in Update 33.5: The Seven Crimes of Kullervo.
+The betrayed Warframe Kullervo boasts strengthened melee prowess. His Passive grants increased Heavy Attack Efficiency and Heavy Attack Wind Up speed, and most abilities grant melee Combo Counter. Wrathful Advance has him prepare a Heavy Attack before teleporting to an enemy while strengthening his melee Critical Chance. Recompense surrounds him with daggers that recover Health and generate Overguard. Collective Curse links enemies with chains that causes damage inflicted to apply to all chained enemies. Storm of Ukko summons a storm of daggers at a location to rapidly apply Slash and Stagger.
+**Acquisition:**
+Kullervo's main and component blueprints are purchased from 30x30pxAcrithis in the Dormizone for Kullervo's Bane; the main blueprint requires 15 Banes, while the parts require 9, to a total of 42 Kullervo's Banes.
+Health: 1005 | Shield: 0 | Armor: 550 | Energy: 175 | Sprint: 1.1
+Aura: naramon
+
+### Abilities
+**Wrathful Advance:** (TAP) Kullervo charges a Heavy Attack, then teleports to his target and strikes. His rage-filled focus temporarily increases his Melee Critical Chance.
+(HOLD) Teleport to any marked location.
+**Recompense:** Kullervo surrounds himself with daggers. Each dagger that strikes an enemy restores his health, but each dagger that misses an enemy strikes Kullervo, dealing a bit of damage. When Kullervo has max Health, he receives Overguard from struck enemies.
+**Collective Curse:** Kullervo sends forth a curse that binds enemies. When a cursed enemy takes damage from him, every other cursed enemy also suffers a portion of that damage.
+**Storm Of Ukko:** The Void answers Kullervo's invocation with a storm of daggers that rain down upon his enemies.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | — |
+| Neuroptics | 1 | — |
+| Pathos Clamp | 10 | — |
+| Systems | 1 | — |
+
+## Lavos
+The serpents of Lavos encourage him as he transmutes the battlefield. He uses Toxin, Cold, Electricity, and Heat to deal elemental damage. Harness the power of the dark alchemist.
+
+### Wiki
+The serpents of Lavos encourage him as he transmutes the battlefield. He uses Toxin, Cold, Electricity, and Heat to deal elemental damage. Harness the power of the dark alchemist.
+Lotus
+Release Date: December 18, 2020
+Concoct volatile brews of recombinant elements to dissolve, evaporate, and transmute hostile forces. Equalize the System through alchemical warfare as the eccentric scientist, Lavos, to dose his foes with serpentine venom and alter the state of combat conditions through his unorthodox experiments. Lavos's transmutation began in Update 29.6: Orphix Venom.
+The alchemist Warframe Lavos commands the elements to deal damage while utilizing cooldowns instead of Energy. His Passive grants Energy Orb and Universal Orbs temporary Status Effect immunity, and can mix elements to apply them to all abilities. Ophidian Bite stikes with a Toxin serpentine strike that recovers Health. Vial Rush has him dash forward while dropping numerous Cold vials. Transmutation Probe launches an Electricity probe that converts orbs and ammo pickups into their universal forms while reducing ability cooldown. Catalyze releases Heat probes outward that deals increased damage on enemies afflicted by different status effects.
+**Acquisition:**
+Lavos's main and component blueprints are available from Father with Entrati standing. The main blueprint requires players to be at Rank 2 - Acquaintance, while component blueprints require Rank 3 - Associate. Each blueprint costs 5,000 Standing Standing, totaling to 20,000 Standing.
+Crafting
+Lore & History
+Introduction:
+Lavos' Serpents:
+Vitam Syandana:
+Lavos Cordatus Helmet:
+Transmutation Probe:
+Cedo Shotgun:
+Lavos:
+Health: 540 | Shield: 270 | Armor: 575 | Energy: 0 | Sprint: 1.15
+Aura: naramon
+
+### Abilities
+**Ophidian Bite:** Lash out with a toxic serpentine strike, consuming the target to heal Lavos.
+Hold to imbue all abilities with Toxin.
+**Vial Rush:** Dash forward, crashing through enemies and leaving an icy trail of broken vials.
+Hold to imbue the next ability cast with Cold.
+**Transmutation Probe:** Launch a probe that converts Health and Energy Orbs into Universal Orbs that provide both, and ammo pickups into Universal Ammo Pickups. The probe shocks enemies in close proximity. Each electrocuted foe reduces other ability cooldowns by 1.5s.
+Hold to imbue the next ability cast with Electricity.
+**Catalyze:** Catalyst Probes erupt from Lavos and douse combatants in a fiery gel. Damage is doubled for each element afflicting an enemy.
+Hold to imbue the next ability cast with Heat.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Entrati (Father), Acquaintance (100.00%); Operation: Orphix Venom, Rotation A (11.11%); Operation: Orphix Venom, Rotation C (5.56%); Operation: Orphix Venom, Rotation C (5.77%) |
+| Chassis | 1 | Entrati (Father), Associate (100.00%); Operation: Orphix Venom, Rotation A (11.11%); Operation: Orphix Venom, Rotation C (5.56%); Operation: Orphix Venom, Rotation C (5.77%) |
+| Neuroptics | 1 | Entrati (Father), Associate (100.00%); Operation: Orphix Venom, Rotation A (11.11%); Operation: Orphix Venom, Rotation C (5.56%); Operation: Orphix Venom, Rotation C (5.77%) |
+| Orokin Cell | 3 | — |
+| Systems | 1 | Entrati (Father), Associate (100.00%); Operation: Orphix Venom, Rotation A (11.11%); Operation: Orphix Venom, Rotation C (5.56%); Operation: Orphix Venom, Rotation C (5.77%) |
+
+### Patch History (27 entries)
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): Lavos’ Transmutation Probe’s Universal Orbs remain the same (25 Health per Orb).
+- **Echoes of Veilbreaker: Hotfix 32.1.2** (2022-11-04T20:55:10Z): Adjusted more offsets for the Shard Bane Ephemera on Nidus, Gendel, Chroma, Lavos, Frost, Hildryn, Atlas, Rhino, Ash, and Vauban.
+- **Veilbreaker: Hotfix 32.0.3** (2022-09-14T17:58:41Z): Lavos
+- ...and 24 more patches
+
+## Lavos Prime
+Some Warframes were Prime from the start. Others ascended. Lavos, the master of transmutation, bowed to no one as he forged his own path to valor.
+
+### Wiki
+Some Warframes were Prime from the start. Others ascended. Lavos, the master of transmutation, bowed to no one as he forged his own path to valor.
+Release Date: February 12, 2025
+Lavos Prime is the Primed variant of Lavos, sporting enhanced Health and Shields as well as an additional Naramon polarity. Lavos Prime was released alongside Cedo Prime and Dual Zoren Prime.
+Crafting
+**Notes:**
+Lavos Prime, compared to Lavos:
+Higher Health (600/800 vs. 540/740)
+Higher Shield (310/410 vs. 270/370)
+Additional Naramon polarity (VazarinNaramonNaramon vs. VazarinNaramon)
+DeathOrbEnergy
+Lavos Prime cannot benefit from the energy pulse as he does not use energy for his abilities.
+When Lavos Prime wields his signature Cedo/Cedo Prime, a Shotgun Ammo Mutation effect is applied.
+Lavos Prime possesses Appearance Arm Attachments titled Lavos Prime Shoulder Guard, and an Appearance Auxiliary Attachment titled Lavos Prime Arterial Tubes.
+**Trivia:**
+Lavos Prime's Codex description references an alchemist's goals of transmuting base metals into gold and transcend into a divine or immortal body, with Lavos self-achieving these goals in the form of turning himself into a Prime Warframe.
+Health: 600 | Shield: 310 | Armor: 575 | Energy: 0 | Sprint: 1.15
+Aura: naramon
+
+### Abilities
+**Ophidian Bite:** Lash out with a toxic serpentine strike, consuming the target to heal Lavos.
+Hold to imbue all abilities with Toxin.
+**Vial Rush:** Dash forward, crashing through enemies and leaving an icy trail of broken vials.
+Hold to imbue the next ability cast with Cold.
+**Transmutation Probe:** Launch a probe that converts Health and Energy Orbs into Universal Orbs that provide both, and ammo pickups into Universal Ammo Pickups. The probe shocks enemies in close proximity. Each electrocuted foe reduces other ability cooldowns by 1.5s.
+Hold to imbue the next ability cast with Electricity.
+**Catalyze:** Catalyst Probes erupt from Lavos and douse combatants in a fiery gel. Damage is doubled for each element afflicting an enemy.
+Hold to imbue the next ability cast with Heat.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Axi F3 Relic (11.00%); Axi Y1 Relic (11.00%); Lith C14 Relic (11.00%) |
+| Chassis | 1 | Axi C10 Relic (25.33%); Axi D6 Relic (25.33%); Lith G14 Relic (25.33%); Neo X1 Relic (25.33%) |
+| Neuroptics | 1 | Axi A20 Relic (11.00%); Meso A8 Relic (11.00%); Neo N24 Relic (11.00%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Lith L5 Relic (2.00%); Lith L7 Relic (2.00%); Meso L3 Relic (2.00%); Meso L4 Relic (2.00%) |
+
+## Limbo
+Master the rift between shadow and substance. Limbo disrupts time-space to provide crowd control. He is at home where others struggle with what is real.
+
+### Wiki
+Master the rift between shadow and substance. Limbo disrupts time-space to provide crowd control. He is at home where others struggle with what is real.
+Lotus
+Release Date: October 24th, 2014
+Tapping into the Rift, Limbo demonstrates his art of dimensional travel that disrupts the space-time continuum, blurring the borders between realms and reality. Limbo arrived from the Rift Plane in Update 15.
+Limbo is a Warframe that commands the dimensional rifts for crowd control. His Passive has rolling leave behind a portal for allies to enter the Rift Plane, providing Energy restore over time while entities in different planes cannot interact with each other. Banish creates a wave that forces the target into the other dimension. Stasis freezes enemies and gunfire that are in the Rift. Rift Surge produces a surge on enemies that performs a radial banish when they leave the Rift. Cataclysm creates a large dome that bridges the material and Rift planes to all entities that enter it.
+**Acquisition:**
+Limbo's main blueprint can be purchased from the Market. Component blueprints are awarded from The Limbo Theorem quest, obtainable by completing the Europa Junction on Jupiter. Additional component blueprints can be bought from Cephalon Simaris for 25,000 Standing.
+Alternatively, upon completion of The Duviri Paradox, Limbo's main and component blueprints can be earned from The Circuit. By selecting him on the rotating week he is available, players can earn his blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Crafting
+Lore
+Ordis at the end of the quest
+Limbo's component blueprints were discovered by the player during the The Limbo Theorem quest, scattered across the Origin System as a result of the Warframe's miscalculations when crossing between the normal plane and the Void.
+Health: 270 | Shield: 180 | Armor: 105 | Energy: 175 | Sprint: 1.15
+Aura: naramon
+
+### Abilities
+**Banish:** Casts a wave of Rift energy that damages hostiles while pushing enemies and allies out of Limbo's current plane of existence.
+**Stasis:** Freezes Rift-bound enemies. While active, enemy projectiles are arrested in mid-air, resuming its trajectory when stasis ends.
+**Rift Surge:** Surges nearby Rift-bound enemies with Rift energy. When killed the Rift Surge is transferred to a nearby enemy outside the rift. Surged enemies that leave the Rift perform a radial Banish.
+**Cataclysm:** A violent blast of Void energy tears open a pocket of rift plane which can sustain itself for a short period before collapsing in another lethal blast.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | Cephalon Simaris, Complete The Limbo Theorem (100.00%) |
+| Neuroptics | 1 | Cephalon Simaris, Complete The Limbo Theorem (100.00%) |
+| Orokin Cell | 3 | — |
+| Systems | 1 | Cephalon Simaris, Complete The Limbo Theorem (100.00%) |
+
+### Patch History (142 entries)
+- **Echoes of Veilbreaker: Hotfix 32.1.3** (2022-11-08T15:59:13Z): Fixed the charged projectile attack by Narmer enemies ignoring Limbo’s Rift state.
+- **Echoes of Veilbreaker: Hotfix 32.1.2** (2022-11-04T20:55:10Z): Fixed enemy Narmer one-shot projectile ignoring Limbo's Rift state. The Rift has some exceptions, but these mad lad shots are not one of them.
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): Fixed missing Ordis dialog subtitles in the Limbo Theorem quest.
+- ...and 139 more patches
+
+## Limbo Prime
+Dance between realms with this golden rift walker. Featuring altered mod polarities for greater customization.
+Health: 270 | Shield: 270 | Armor: 135 | Energy: 215 | Sprint: 1.15
+Aura: naramon
+
+### Abilities
+**Banish:** Casts a wave of Rift energy that damages hostiles while pushing enemies and allies out of Limbo's current plane of existence.
+**Stasis:** Freezes Rift-bound enemies. While active, enemy projectiles are arrested in mid-air, resuming its trajectory when stasis ends.
+**Rift Surge:** Surges nearby Rift-bound enemies with Rift energy. When killed the Rift Surge is transferred to a nearby enemy outside the rift. Surged enemies that leave the Rift perform a radial Banish.
+**Cataclysm:** A violent blast of Void energy tears open a pocket of rift plane which can sustain itself for a short period before collapsing in another lethal blast.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Meso T3 Relic (11.00%); Meso Z1 Relic (11.00%); Neo A9 Relic (11.00%); Neo D4 Relic (11.00%); Neo I1 Relic (11.00%); Neo M2 Relic (11.00%) |
+| Chassis | 1 | Axi L3 Relic (2.00%); Axi L5 Relic (2.00%); Lith L3 Relic (2.00%); Meso L1 Relic (2.00%); Meso L2 Relic (2.00%); Neo L1 Relic (2.00%) |
+| Neuroptics | 1 | Axi L2 Relic (2.00%); Lith L1 Relic (2.00%); Lith L2 Relic (2.00%); Axi M4 Relic (11.00%); Lith K8 Relic (11.00%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Axi D3 Relic (25.33%); Axi T3 Relic (25.33%); Lith B3 Relic (25.33%); Lith B6 Relic (25.33%); Meso N7 Relic (25.33%); Neo A2 Relic (25.33%); Neo C1 Relic (25.33%); Neo R3 Relic (25.33%); Neo R5 Relic (25.33%) |
+
+### Patch History (142 entries)
+- **Echoes of Veilbreaker: Hotfix 32.1.3** (2022-11-08T15:59:13Z): Fixed the charged projectile attack by Narmer enemies ignoring Limbo’s Rift state.
+- **Echoes of Veilbreaker: Hotfix 32.1.2** (2022-11-04T20:55:10Z): Fixed enemy Narmer one-shot projectile ignoring Limbo's Rift state. The Rift has some exceptions, but these mad lad shots are not one of them.
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): Fixed missing Ordis dialog subtitles in the Limbo Theorem quest.
+- ...and 139 more patches
+
+## Loki
+Loki knows the art of deception. The trickster employs stealth to sabotage enemies. Sow confusion.
+
+### Wiki
+Loki knows the art of deception. The trickster employs stealth to sabotage enemies. Sow confusion.
+Lotus
+Release Date: October 25th, 2012
+There unseen yet where has been, come hither the Trickster God, Loki. Nimble yet frail, in shadow he dwells, swift their deaths shall be. Foes oft find, their prey in plain sight, such fools made ill at ease. Kickstart the brawl, turned a melee free-for-all, mischief achieved in his favor.
+Loki is a trickster Warframe with stealth and crowd control. His Passive grants increased Wall Latch duration. Decoy summons a holographic clone that taunts enemies into attacking it. Invisibility turns him Invisible. Switch Teleport swaps positions with the target, stunning enemies while temporarily increasing Loki's Movement Speed. Radial Disarm releases a wave of energy that Disarmed enemies.
+Loki's main blueprint can be purchased from the Market. Loki's component blueprints can be obtained from defeating the Hyena Pack on Psamathe, Neptune.
+Alternatively, upon completion of The Duviri Paradox, Loki's main and component blueprints can be earned from The Circuit. By selecting him on the rotating week he is available, players can earn his blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Crafting
+**Notes:**
+Loki, along with Loki Prime, has the third fastest sprint speed at 1.25, with Gauss having the second fastest at 1.4 and Gauss Prime having the fastest at 1.5.
+**Tips:**
+Decoy, Invisibility, and Switch Teleport are crowd control abilities that bypass enemy Overguard ability immunity.
+Health: 180 | Shield: 180 | Armor: 105 | Energy: 175 | Sprint: 1.25
+Aura: naramon
+
+### Abilities
+**Decoy:** Loki deploys a holographic copy of himself that draws enemy fire and absorbs a portion of nearby enemy health and shields.
+**Invisibility:** Loki camouflages himself, becoming invisible to enemies.
+**Switch Teleport:** Loki instantaneously swaps positions with a target, confusing the enemy.
+**Radial Disarm:** Lets forth a wave of energy, disrupting the projectile weapons of enemies in range and forcing them to revert to melee combat.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | Neptune/Psamathe (Assassination) (38.72%) |
+| Neuroptics | 1 | Neptune/Psamathe (Assassination) (38.72%) |
+| Orokin Cell | 1 | — |
+| Systems | 1 | Neptune/Psamathe (Assassination) (22.56%) |
+
+### Patch History (123 entries)
+- **Echoes of Veilbreaker: Update 32.1** (2022-11-02T15:00:14Z): Fixed script error with Loki’s Invisibility.
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): In Update 31.2, we buffed a number of underused Warframe augments. The time has come to continue this work! This batch tackles Warframes from Loki to Rhino (of which there are surprisingly many!). We
+- **Nora’s Mix Vol.2: Hotfix 31.6.4** (2022-07-14T15:00:33Z): Swapped the Frost Specter (Earth-Mars) and Loki Specter (Uranus-Neptune).
+- ...and 120 more patches
+
+## Loki Prime
+Confuse, deceive and destroy with Loki Prime. Featuring altered mod polarities for greater customization.
+
+### Wiki
+Loki Prime
+Release Date: June 11th, 2014
+Loki Prime is the Primed variant of Loki, featuring a higher armor and energy capacity, as well as an additional Vazarin and Naramon polarities. Loki Prime was released alongside Bo Prime and Wyrm Prime.
+Vaultings
+On May 10th, 2016, it was announced that Loki Prime would enter the Prime Vault and be retired from the reward tables on May 17th, 2016. Any preexisting components or fully-built frames will remain as is.
+Loki Prime, along with Bo Prime, Wyrm Prime, Ember Prime, Sicarus Prime, Glaive Prime, Frost Prime, Latron Prime, and Reaper Prime, were available from Cetus Bounties from February 6th to April 10th, 2018.
+Loki Prime, along with Bo Prime, Wyrm Prime, Volt Prime, and Odonata Prime, were available from April 30th to July 2nd, 2019.
+Loki Prime was available from Prime Resurgence which ran from November 16, 2021 to January 25, 2022.
+Crafting
+**Notes:**
+Loki Prime, compared to Loki:
+Higher Armor (135 vs. 105)
+Higher Energy (215/265 vs. 175/225)
+Additional Vazarin and Naramon Polarities (VazarinVazarinMaduraiNaramon vs. VazarinMadurai)
+DeathOrbEnergy
+Loki Prime has an emblem on his left chest that resembles the Grand Master sigil. It also appears that this emblem moves on a different degree than Loki himself, as various movements change the emblem's position.
+This emblem is unique to Loki Prime.
+Loki Prime (and Loki) have the third fastest sprint speed at 1.25, behind Gauss's 1.4 and Gauss Prime's 1.5.
+With maxed a Rush, Amalgam Serration, Armored Agility, Speed Drift, Sprint Boost, and Coaction Drift his sprint speed can be boosted up to 1.25(1 + 30% + 25% + 15% + 12% + 15%(1 + 15%)^2), and with a full squad set up bringing it up to 1.25(1 + 30% + 25% + 15% + 12% + 4*15%(1 + 15%)^2).
+Health: 180 | Shield: 180 | Armor: 135 | Energy: 215 | Sprint: 1.25
+Aura: naramon
+
+### Abilities
+**Decoy:** Loki deploys a holographic copy of himself that draws enemy fire and absorbs a portion of nearby enemy health and shields.
+**Invisibility:** Loki camouflages himself, becoming invisible to enemies.
+**Switch Teleport:** Loki instantaneously swaps positions with a target, confusing the enemy.
+**Radial Disarm:** Lets forth a wave of energy, disrupting the projectile weapons of enemies in range and forcing them to revert to melee combat.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Axi S2 Relic (25.33%); Meso F3 Relic (25.33%); Neo V8 Relic (25.33%) |
+| Chassis | 1 | Lith G2 Relic (11.00%); Lith O2 Relic (11.00%) |
+| Neuroptics | 1 | Meso O3 Relic (25.33%); Neo E1 Relic (25.33%) |
+| Orokin Cell | 1 | — |
+| Systems | 1 | Axi L1 Relic (2.00%); Axi L4 Relic (2.00%) |
+
+### Patch History (123 entries)
+- **Echoes of Veilbreaker: Update 32.1** (2022-11-02T15:00:14Z): Fixed script error with Loki’s Invisibility.
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): In Update 31.2, we buffed a number of underused Warframe augments. The time has come to continue this work! This batch tackles Warframes from Loki to Rhino (of which there are surprisingly many!). We
+- **Nora’s Mix Vol.2: Hotfix 31.6.4** (2022-07-14T15:00:33Z): Swapped the Frost Specter (Earth-Mars) and Loki Specter (Uranus-Neptune).
+- ...and 120 more patches
+
+## Mag
+Take down your enemies with magnetic force. Mag alters magnetic fields to provide crowd control and strip enemy defenses. Few can resist her attraction or her repulsion.
+
+### Wiki
+Take down your enemies with magnetic force. Mag alters magnetic fields to provide crowd control and strip enemy defenses. Few can resist her attraction or her repulsion.
+Lotus
+Release Date: October 25th, 2012
+Expel enemy forces with rapid repulsion, soon attracted and crushed by mere gestures. Become Origin's true magnetic north, the shield of the Tenno, as the Electromagnetic Conduit, Mag. Sunder the armored into scraps and shrapnel, then return the recycled metals to their sender. Choose wisely, Tenno. Start your new journey with Mag as one of the three beginner Warframes.
+Mag is a magnetic Warframe with crowd control. Her Passive has automatically vacuum nearby Pickups. Pull generates a vortex that forcefully pulls enemies to her. Magnetize generates a field that pulls in all gunfire into its circumference while increasing their damage. Polarize releases a pulse that drains enemy shields and armor while dropping shards that Mag can pick up to project a damaging aura or be absorbed by Magnetize. Crush forcefully suspends nearby enemies before crushing their bones, inflicting Knockdown while recovering Mag's and her allies' shields.
+Mag is one of the three starter Warframes, alongside Excalibur and Volt, during Awakening.
+Mag's main blueprint can be purchased from the Market. Mag's component blueprints can be obtained from defeating The Sergeant on Iliad, Phobos.
+Alternatively, upon completion of The Duviri Paradox, Mag's main and component blueprints can be earned from The Circuit. By selecting her on the rotating week she is available, players can earn her blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Mag can also be bought complete from Teshin for 60,000 Standing once players have achieved Typhoon rank in the Conclave.
+Crafting
+Health: 180 | Shield: 455 | Armor: 105 | Energy: 140 | Sprint: 1
+Aura: madurai
+
+### Abilities
+**Pull:** Mag stuns enemies as she manifests a magnetic vortex. The vortex pulls in Polarize Shards and stunned enemies to place them directly in front of her.
+**Magnetize:** (TAP) Enclose a target in a magnetic field that ensnares nearby enemies and deals damage over time. The field pulls Polarize Shards that orbited Mag and shrapnel into the deadly mix.
+(HOLD) Mag surrounds herself in a magnetic field that absorbs ranged attacks and reflects damage back in a destructive cone.
+**Polarize:** Emit an energy pulse that depletes enemy shields and armor as it restores ally shields. Debris left over from the pulse becomes Polarize Shards. Nearby Polarize Shards orbit Mag and cut enemies, inflicting Slash Status Effect.
+**Crush:** Magnetize the bones of nearby enemies, causing them to collapse upon themselves.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | Phobos/Iliad (Assassination) (38.72%) |
+| Neuroptics | 1 | Phobos/Iliad (Assassination) (38.72%) |
+| Orokin Cell | 1 | — |
+| Systems | 1 | Phobos/Iliad (Assassination) (22.56%) |
+
+### Patch History (231 entries)
+- **Lua’s Prey: Baruuk Prime: Hotfix 32.2.5** (2022-12-14T19:00:16Z): Replaced Perrin Sequence Rank 4 sacrifice of Pandero Prime Receiver to Magnus Prime Barrel.
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): The Mag Voidshell Collection is available for purchase in the in-game Market. Fixed extreme screen shake when using the Nataruk’s charged shot and Mag’s Magnetize together.
+- **Echoes of Veilbreaker: Hotfix 32.1.4** (2022-11-09T22:33:37Z): Fixed offset issues with the Circadian, Harkonar, Iliac, Kuva Braid, Kyroptera (default, Ormolu, Panoply), Laddak, Maggor,  Vanquished Banner (default and Day of the Dead), Quaro, Rakta, Salix (defaul
+- ...and 228 more patches
+
+## Mag Prime
+The exquisite Mag Prime offers the same abilities as Mag but with unique mod polarities for greater customization.
+
+### Wiki
+Mag Prime
+In-game Description
+Release Date: September 13th, 2013
+Mag Prime is the Primed variant of Mag, possessing increased health, armor, and energy capacity, as well as an additional Madurai polarity. Mag Prime was released alongside Boar Prime and Dakra Prime.
+Vaultings
+On June 29, 2015, it was announced that Mag Prime, alongside Boar Prime and Dakra Prime, would enter the Prime Vault and be retired from the reward tables on July 7th, 2015. Any pre-existing components or fully-built frames will remain as is.
+Mag Prime, alongside Boar Prime and Dakra Prime, was again accessible from June 28th, 2016 to July 26th, 2016 when the Prime Vault was unsealed.
+Mag Prime, alongside Boar Prime, Dakra Prime, Rhino Prime, Ankyros Prime, and Boltor Prime, was again accessible from June 27th, 2017 to August 1st, 2017.
+Mag Prime emerged from the Vault on November 13th, 2018, alongside Nova Prime, Boar Prime, Dakra Prime, Soma Prime, and Vasto Prime, and was available until January 15th (Switch) or January 29th, 2019 (PC, Xbox One, PS4).
+Mag Prime was available from Prime Resurgence which ran from November 16, 2021 to January 25, 2022.
+Crafting
+**Notes:**
+Mag Prime, compared to Mag:
+Higher Health (270/370 vs. 180/280)
+Higher Armor (135 vs. 105)
+Higher Energy (215/265 vs. 140/190)
+Higher Starting Energy (100 vs. 75)
+Additional Madurai Polarity (NaramonNaramonMadurai vs. NaramonNaramon)
+DeathOrbEnergy
+Health: 270 | Shield: 455 | Armor: 135 | Energy: 215 | Sprint: 1
+Aura: madurai
+
+### Abilities
+**Pull:** Mag stuns enemies as she manifests a magnetic vortex. The vortex pulls in Polarize Shards and stunned enemies to place them directly in front of her.
+**Magnetize:** (TAP) Enclose a target in a magnetic field that ensnares nearby enemies and deals damage over time. The field pulls Polarize Shards that orbited Mag and shrapnel into the deadly mix.
+(HOLD) Mag surrounds herself in a magnetic field that absorbs ranged attacks and reflects damage back in a destructive cone.
+**Polarize:** Emit an energy pulse that depletes enemy shields and armor as it restores ally shields. Debris left over from the pulse becomes Polarize Shards. Nearby Polarize Shards orbit Mag and cut enemies, inflicting Slash Status Effect.
+**Crush:** Magnetize the bones of nearby enemies, causing them to collapse upon themselves.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Lith M1 Relic (2.00%); Lith M2 Relic (2.00%); Lith M8 Relic (2.00%); Meso M1 Relic (2.00%) |
+| Chassis | 1 | Meso B1 Relic (11.00%); Meso B3 Relic (11.00%); Meso F4 Relic (11.00%); Neo B3 Relic (11.00%) |
+| Neuroptics | 1 | Axi D4 Relic (11.00%); Axi V2 Relic (25.33%); Lith B1 Relic (25.33%); Neo N9 Relic (25.33%) |
+| Orokin Cell | 3 | — |
+| Systems | 1 | Axi R1 Relic (25.33%); Axi S4 Relic (25.33%); Lith L4 Relic (25.33%); Neo D1 Relic (25.33%) |
+
+### Patch History (231 entries)
+- **Lua’s Prey: Baruuk Prime: Hotfix 32.2.5** (2022-12-14T19:00:16Z): Replaced Perrin Sequence Rank 4 sacrifice of Pandero Prime Receiver to Magnus Prime Barrel.
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): The Mag Voidshell Collection is available for purchase in the in-game Market. Fixed extreme screen shake when using the Nataruk’s charged shot and Mag’s Magnetize together.
+- **Echoes of Veilbreaker: Hotfix 32.1.4** (2022-11-09T22:33:37Z): Fixed offset issues with the Circadian, Harkonar, Iliac, Kuva Braid, Kyroptera (default, Ormolu, Panoply), Laddak, Maggor,  Vanquished Banner (default and Day of the Dead), Quaro, Rakta, Salix (defaul
+- ...and 228 more patches
+
+## Mesa
+The gunslinger has a steady deadly hand. Each shot deals high damage. Mesa is the fastest draw in the realm.
+
+### Wiki
+The gunslinger has a steady deadly hand. Each shot deals high damage. Mesa is the fastest draw in the realm.
+Lotus
+Release Date: November 27th, 2014
+The gunslinger Mesa wields both style and power to overcome her foes in a rapid shower of ballistic ordnance. Mesa shot first in Update 15.5.
+Mesa is a gunslinger Warframe with rapid damage. Her Passive grants her increased Fire Rate when wielding Dual Sidearms or Reload Speed for Single Sidearm, and increased Health when not equipped with a melee weapon. Ballistic Battery stores damage dealt to be then released on the next damage instance. Shooting Gallery creates a swirling lasso that enhances weapon damage while lashing nearby enemies to jam their guns or stun melee fighters. Shatter Shield provides a barrier that grants Damage Reduction against gunfire, while reflecting hitscan shots or deflecting projectiles. Peacemaker has Mesa draw her Regulators, becoming stationary as she delivers rapid fire mayhem.
+Mesa's main blueprint can be purchased from the Market. Mesa's component blueprints can be acquired from defeating Mutalist Alad V on Mutalist Alad V Assassinate, Eris; the Assassination requires a Mutalist Alad V Assassinate Key to enter, whose blueprint is obtained from the Patient Zero quest and is crafted from Mutalist Alad V Nav Coordinates earned from Infested Invasions.
+Alternatively, upon completion of The Duviri Paradox, Mesa's main and component blueprints can be earned from The Circuit. By selecting her on the rotating week she is available, players can earn her blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Crafting
+Health: 365 | Shield: 180 | Armor: 105 | Energy: 100 | Sprint: 1.1
+Aura: madurai
+
+### Abilities
+**Ballistic Battery:** When activated, this power stores damage caused by guns. When triggered again, that damage is channelled through the next gunshot.
+**Shooting Gallery:** Gives an ally Extra Damage while jamming the guns of nearby enemies. This power shifts between team members.
+**Shatter Shield:** Envelops Mesa in a barrier of energy, reflecting back incoming bullet damage.
+**Peacemaker:** With intense focus, Mesa draws her Regulator pistols, shooting down her foes in rapid succession.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | Mutalist Alad V Assassinate, Rotation C (38.72%) |
+| Neuroptics | 1 | Mutalist Alad V Assassinate, Rotation C (38.72%) |
+| Orokin Cell | 1 | — |
+| Systems | 1 | Mutalist Alad V Assassinate, Rotation C (22.56%) |
+
+### Patch History (120 entries)
+- **Echoes of Veilbreaker: Update 32.1** (2022-11-02T15:00:14Z): Fixed the Crit Chance UI indicator for Mesa’s Ballistic Bullseye Augment Mod having long decimal numbers
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Fixed loss of functionality after getting knocked down as Mesa with her Peacemaker active.  As a general fix, Mesa should no longer be knocked down while Peacemaker is active, as intended.
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): Mesa now has the ability to use Ballistic Battery during Peacemaker.
+- ...and 117 more patches
+
+## Mesa Prime
+Cast a long shadow with this lethal enforcer. Featuring altered mod polarities for greater customization.
+
+### Wiki
+Cast a long shadow with this lethal enforcer. Featuring altered mod polarities for greater customization.
+Release Date: December 18th, 2018
+Mesa Prime is the Primed variant of Mesa, possessing increased health, armor, and energy capacity, and additional Vazarin and Madurai polarities. Mesa Prime was released alongside Akjagara Prime and Redeemer Prime.
+Vaultings
+On October 14th, 2020, it was announced that Mesa Prime would enter the Prime Vault and be retired from the reward tables on October 27th, 2020. Any preexisting components or fully-built frames will remain as is.
+Mesa Prime was available from the first Prime Resurgence which ran from November 16, 2021 to January 25, 2022.
+Mesa Prime was available from the second Prime Resurgence and was re-vaulted around April 2, 2023.
+Crafting
+**Notes:**
+Mesa Prime, compared to Mesa:
+Higher Health (400/500 vs. 365/465)
+Higher Armor (135 vs. 105)
+Higher Energy (140/190 vs. 100/150)
+Higher Starting Energy (65 vs. 50)
+Additional Vazarin and Madurai Polarities (NaramonNaramonVazarinMadurai vs. NaramonNaramon)
+DeathOrbEnergy
+Mesa Prime's Ballistic Battery features multi energy lines instead of scattered energy particles.
+**Trivia:**
+Information about Mesa Prime was first unintentionally leaked through the Prime Access program for Nintendo Switch.
+Mesa Prime's Prime Access was the first to feature a Primed alternative helmet.
+Mesa Prime's hat bears a resemblance to that of Limbo Prime's.
+Mesa Prime's Regulators also have a unique model compared to her non-Prime variant.
+Cb-D2JzQx98
+Health: 400 | Shield: 180 | Armor: 135 | Energy: 140 | Sprint: 1.1
+Aura: madurai
+
+### Abilities
+**Ballistic Battery:** When activated, this power stores damage caused by guns. When triggered again, that damage is channelled through the next gunshot.
+**Shooting Gallery:** Gives an ally Extra Damage while jamming the guns of nearby enemies. This power shifts between team members.
+**Shatter Shield:** Envelops Mesa in a barrier of energy, reflecting back incoming bullet damage.
+**Peacemaker:** With intense focus, Mesa draws her Regulator pistols, shooting down her foes in rapid succession.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Lith C6 Relic (11.00%); Lith D1 Relic (11.00%); Lith N9 Relic (11.00%); Lith P7 Relic (11.00%); Meso P3 Relic (11.00%); Meso R2 Relic (11.00%); Neo Z2 Relic (11.00%); Neo Z3 Relic (11.00%); Vanguard P1 Relic (25.33%) |
+| Chassis | 1 | Axi H4 Relic (25.33%); Axi M1 Relic (25.33%); Lith R1 Relic (25.33%); Lith S10 Relic (25.33%); Meso C4 Relic (25.33%); Meso L2 Relic (25.33%); Neo A3 Relic (25.33%); Neo C1 Relic (25.33%); Neo R4 Relic (25.33%); Vanguard E1 Relic (25.33%) |
+| Neuroptics | 1 | Axi M3 Relic (2.00%); Axi M4 Relic (2.00%); Lith M3 Relic (2.00%); Lith M4 Relic (2.00%); Lith M5 Relic (2.00%); Vanguard M1 Relic (2.00%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Lith M6 Relic (2.00%); Neo M2 Relic (2.00%); Neo M3 Relic (2.00%); Lith D5 Relic (11.00%); Neo H3 Relic (11.00%); Vanguard C1 Relic (11.00%) |
+
+### Patch History (120 entries)
+- **Echoes of Veilbreaker: Update 32.1** (2022-11-02T15:00:14Z): Fixed the Crit Chance UI indicator for Mesa’s Ballistic Bullseye Augment Mod having long decimal numbers
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Fixed loss of functionality after getting knocked down as Mesa with her Peacemaker active.  As a general fix, Mesa should no longer be knocked down while Peacemaker is active, as intended.
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): Mesa now has the ability to use Ballistic Battery during Peacemaker.
+- ...and 117 more patches
+
+## Mirage
+Mirage’s sleight of hand complements her might. Her dazzled foes take heavy damage. Doppelgangers, lasers, and traps are elements of her stagecraft.
+
+### Wiki
+Mirage's sleight of hand complements her might. Her dazzled foes take heavy damage. Doppelgangers, lasers, and traps are elements of her stagecraft.
+Lotus
+Release Date: July 18th, 2014
+Mysterious and mischievous, Mirage manipulates the spectrum of light to dazzle her foes. With deceitful mirror images, colorful photokinetic displays and explosive pranks up her sleeves, every battlefield becomes the stage for her next performance. Mirage was unveiled in Update 14.
+Mirage is a Warframe with manipulative arts to deal damage. Her Passive increases Slide duration and all other Maneuvers are executed faster. Hall of Mirrors creates holographic doppelgangers that distract enemies while dealing a portion of Mirage's damage. Sleight of Hand booby traps various objects while creating a jewel that charms enemies into approaching it before exploding. Eclipse wreathes her in darkness for Damage Reduction or in light for weapon damage. Prism throws a prism of light beams before exploding to Blind enemies.
+**Acquisition:**
+Mirage's main blueprint can be purchased from the Market. Component blueprints are awarded at the end of each mission for the Hidden Messages quest. Additional blueprints can be bought from Cephalon Simaris for 25,000 Standing.
+Alternatively, upon completion of The Duviri Paradox, Mirage's main and component blueprints can be earned from The Circuit. By selecting her on the rotating week she is available, players can earn her blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Crafting
+**Notes:**
+Currently, Akzani lacks a Signature Weapon bonus with Mirage.
+Mirage is the first Warframe that requires an Argon Crystal to construct the entire Warframe instead of a single Orokin Cell.
+Mirage does, however, require an Orokin Cell to craft each component for a total of three required cells.
+Mirage is the first Warframe to not require any Rubedo.
+Health: 200 | Shield: 200 | Armor: 105 | Energy: 175 | Sprint: 1.2
+Aura: naramon
+
+### Abilities
+**Hall Of Mirrors:** Mirage creates an entourage of doppelgangers to confuse and distract the enemy.
+**Sleight Of Hand:** Booby trap nearby objects while conjuring an irresistible jewel that bursts with radial blind when touched in darkness, or a radial explosion in light. Conjure multiple smaller jewels with the help of Hall of Mirrors.
+**Eclipse:** (TAP) Temporarily reduce the damage Mirage takes from enemies.
+(HOLD) Temporarily increase Mirage's weapon damage.
+**Prism:** Fires an energy prism that shoots lasers in all directions. Activating again detonates the prism, blinding nearby foes.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Argon Crystal | 1 | — |
+| Blueprint | 1 | — |
+| Chassis | 1 | Cephalon Simaris, Complete Hidden Messages (100.00%) |
+| Neuroptics | 1 | Cephalon Simaris, Complete Hidden Messages (100.00%) |
+| Systems | 1 | Cephalon Simaris, Complete Hidden Messages (100.00%) |
+
+### Patch History (161 entries)
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): Increased the roll distance of Mirage’s Passive. Before this change, Mirage's increased roll speed affected how fast the roll animation played, but moved her forward at the same rate, resulting in the
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Fixed Mirage’s Hall of Mirrors counting towards the Felarx’s Mounting Momentum Evolution III perk.
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): Mirage’s Explosive Legerdemain Augment: Increased damage dealt from proximity mines created from Ammo and Orbs pickups from 500 to 1000. Fixed significant performance drops when using a weapon skin th
+- ...and 158 more patches
+
+## Mirage Prime
+Dazzle the opposition with this golden master of illusion and mayhem. Featuring altered mod polarities allow for greater customization.
+
+### Wiki
+Mirage Prime
+Ballas
+Release Date: December 12th, 2017
+Mirage Prime is the Primed variant of Mirage, sporting higher shields, armor, and additional Vazarin and Naramon polarities. Mirage Prime was released alongside Akbolto Prime and Kogake Prime.
+Vaultings
+On September 17th, 2019, it was announced that Mirage Prime, alongside Akbolto Prime and Kogake Prime, would enter the Prime Vault and its relics retired from the drop tables on October 1st, 2019. Any preexisting components or fully-built frames will remain as is.
+Crafting
+**Notes:**
+Mirage Prime, compared to Mirage:
+Higher Shields (310/410 vs. 120/300)
+Higher Armor (185 vs. 105)
+Additional Vazarin and Naramon Polarities (VazarinVazarinNaramonMadurai vs. VazarinMadurai)
+DeathOrbEnergy
+Currently, Akzani lacks a Signature Weapon bonus with Mirage Prime.
+Mirage Prime's Prism is surrounded by three golden rings that constantly rotate.
+**Trivia:**
+Mirage Prime is the first Primed Warframe whose non-prime variant was unlockable through a quest (Hidden Messages).
+Mirage Prime is the 7th Prime Warframe to have a cinematic lore trailer.
+Despite her base version featuring Akzani as her signature weapon, Mirage Prime did not feature an Akzani Prime.
+Mirage Prime was promoted in the Warframe Launcher and official illustrations using a unique pose and animation set similar to Nezha's Noble Animation, albeit with different arm placements and movements. As of Update 24, the depicted pose and animations are still not available in-game.
+With the addition of Mirage Prime's cinematic lore trailer, Mirage Prime was shown bowing in the trailer while using Hall of Mirrors. This animation was added in-game in a hotfix.
+LP9xH9hqC04
+Health: 200 | Shield: 310 | Armor: 185 | Energy: 175 | Sprint: 1.2
+Aura: naramon
+
+### Abilities
+**Hall Of Mirrors:** Mirage creates an entourage of doppelgangers to confuse and distract the enemy.
+**Sleight Of Hand:** Booby trap nearby objects while conjuring an irresistible jewel that bursts with radial blind when touched in darkness, or a radial explosion in light. Conjure multiple smaller jewels with the help of Hall of Mirrors.
+**Eclipse:** (TAP) Temporarily reduce the damage Mirage takes from enemies.
+(HOLD) Temporarily increase Mirage's weapon damage.
+**Prism:** Fires an energy prism that shoots lasers in all directions. Activating again detonates the prism, blinding nearby foes.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Axi M1 Relic (2.00%); Lith M7 Relic (2.00%); Meso M2 Relic (2.00%); Meso M3 Relic (2.00%); Neo M1 Relic (2.00%) |
+| Chassis | 1 | Axi A12 Relic (25.33%); Axi H4 Relic (25.33%); Lith K5 Relic (25.33%); Lith S7 Relic (25.33%); Meso K2 Relic (25.33%); Neo L1 Relic (25.33%) |
+| Neuroptics | 1 | Axi T2 Relic (25.33%); Lith W1 Relic (25.33%); Lith Z1 Relic (25.33%); Meso E5 Relic (25.33%); Meso H1 Relic (25.33%); Neo B6 Relic (25.33%); Neo G1 Relic (25.33%); Neo S9 Relic (25.33%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Axi H5 Relic (11.00%); Axi R2 Relic (11.00%); Meso O2 Relic (11.00%); Neo K2 Relic (11.00%); Neo S12 Relic (11.00%); Neo V6 Relic (11.00%) |
+
+### Patch History (161 entries)
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): Increased the roll distance of Mirage’s Passive. Before this change, Mirage's increased roll speed affected how fast the roll animation played, but moved her forward at the same rate, resulting in the
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Fixed Mirage’s Hall of Mirrors counting towards the Felarx’s Mounting Momentum Evolution III perk.
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): Mirage’s Explosive Legerdemain Augment: Increased damage dealt from proximity mines created from Ammo and Orbs pickups from 500 to 1000. Fixed significant performance drops when using a weapon skin th
+- ...and 158 more patches
+
+## Nekros
+There is a reaper whose name is Nekros. He provides deathly crowd control. Erstwhile enemies become allies when Nekros calls up recruits from the dead.
+
+### Wiki
+There is a reaper whose name is Nekros. He provides deathly crowd control. Erstwhile enemies become allies when Nekros calls up recruits from the dead.
+Lotus
+Release Date: September 13th, 2013
+With powers likened to that of necromancers and dark arts practitioners, Nekros exploits the vulnerabilities of the living and the corpses of the dead. Nekros was disinterred in Update 10.
+Nekros is a necromancer Warframe providing crowd control. His Passive restores Health when enemies are slain near him. Soul Punch violently punches an enemy, instantly killing them when below a certain health and resurrecting them into a shadow that fights alongside Nekros. Terrify projects a wave of fear that temporarily reduces armor and causes enemies to run away. Desecrate consumes corpses of fallen enemies to spawn Health Orb and potentially produce additional loot. Shadows of the Dead summons numerous shadows of slain enemies.
+Nekros' main blueprint can be purchased from the Market. Nekros' component blueprints can be obtained from defeating Lephantis on Magnacidium, Deimos.
+Alternatively, upon completion of The Duviri Paradox, Nekros's main and component blueprints can be earned from The Circuit. By selecting him on the rotating week he is available, players can earn his blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Crafting
+Health: 270 | Shield: 235 | Armor: 105 | Energy: 100 | Sprint: 1.1
+
+### Abilities
+**Soul Punch:** A blow so powerful, it turns the enemy's very soul into a deadly projectile, damaging all in its path. Enemies that survive the blow are Marked for Harvest and become one of Nekros' Shadows of the Dead if killed while marked.
+**Terrify:** Cast fear into the hearts of nearby enemies, causing them to run away in terror.
+**Desecrate:** Forces fallen enemies around you to drop additional loot.
+**Shadows Of The Dead:** Summon shadow versions of vanquished enemies to fight alongside you for a short period.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | Deimos/Magnacidium (Assassination) (33.33%); Orokin Derelict Assassinate, Rotation C (33.33%) |
+| Neuroptics | 1 | Deimos/Magnacidium (Assassination) (33.33%); Orokin Derelict Assassinate, Rotation C (33.33%) |
+| Orokin Cell | 3 | — |
+| Systems | 1 | Deimos/Magnacidium (Assassination) (33.33%); Orokin Derelict Assassinate, Rotation C (33.33%) |
+
+### Patch History (124 entries)
+- **Lua’s Prey: Hotfix 32.2.4** (2022-12-07T19:04:56Z): Fixed Nekros’ Terrify 100% Armor Reduction not working on Eximus in Elite Sanctuary Onslaught.
+- **Lua’s Prey: Hotfix 32.2.1** (2022-11-30T22:33:07Z): Fixed Nekros’ Lua Thrax Shadows of the Dead applying their Life Support drain in Conjunction Survival missions.
+- **Veilbreaker: Revenant Prime: Hotfix 32.0.9** (2022-10-05T17:59:06Z): Fixed script error related to Nekros’ Terrify.
+- ...and 121 more patches
+
+## Nekros Prime
+Death's new master. Featuring altered mod polarities allow for greater customization.
+
+### Wiki
+Death's new master. Featuring altered mod polarities allow for greater customization.
+Ballas
+Release Date: August 23rd, 2016
+Nekros Prime is the Primed variant of Nekros, possessing higher shields, armor, and energy capacity, as well as an additional Naramon polarity. Nekros Prime was released alongside Tigris Prime and Galatine Prime.
+Vaultings
+On June 5th, 2018, it was announced that Nekros Prime, alongside Tigris Prime and Galatine Prime, would enter the Prime Vault and be retired from the reward tables on June 19th, 2018. Any preexisting components or fully-built frames will remain as is.
+Nekros Prime, alongside Tigris Prime, Galatine Prime, Oberon Prime, Sybaris Prime and Silva & Aegis Prime, emerged from the Vault from February 11th, 2020 to May 26th, 2020.
+Nekros Prime was available from Prime Resurgence which ran from November 16, 2021 to January 25, 2022, and again from January 16th, 2026 through February 16th, 2026.
+Crafting
+**Notes:**
+Nekros Prime, compared to Nekros:
+Higher Shields (455/555 vs. 235/335)
+Higher Armor (135 vs. 105)
+Higher Energy (140/190 vs. 100/150)
+Higher Starting Energy (75 vs. 50)
+Additional Naramon Polarity (MaduraiVazarinNaramon vs. MaduraiVazarin)
+DeathOrbEnergy
+Nekros Prime is the Warframe with the second highest Polymer Bundle requirement, with 12,000 to build his Neuroptics, behind Valkyr Prime who requires 15,000 to build her Systems.
+**Trivia:**
+Nekros Prime is the third prime Warframe introduced via a cinematic lore video, continuing a trend that started with Saryn Prime.
+Nekros Prime was revealed at TennoCon 2016.
+The shadows Nekros Prime raises will appear more grotesque, like a rotting corpse, as opposed to the normal ethereal like shadows.
+During Tennocon 2019, a free Nekros Prime was given to anyone who watched the second livestream for 30 consecutive minutes.
+InN07z-8LwE
+Health: 270 | Shield: 455 | Armor: 135 | Energy: 140 | Sprint: 1.1
+
+### Abilities
+**Soul Punch:** A blow so powerful, it turns the enemy's very soul into a deadly projectile, damaging all in its path. Enemies that survive the blow are Marked for Harvest and become one of Nekros' Shadows of the Dead if killed while marked.
+**Terrify:** Cast fear into the hearts of nearby enemies, causing them to run away in terror.
+**Desecrate:** Forces fallen enemies around you to drop additional loot.
+**Shadows Of The Dead:** Summon shadow versions of vanquished enemies to fight alongside you for a short period.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Axi N3 Relic (2.00%); Lith N3 Relic (2.00%); Meso N3 Relic (2.00%); Lith H10 Relic (11.00%); Lith T3 Relic (11.00%) |
+| Chassis | 1 | Axi G1 Relic (25.33%); Axi N4 Relic (25.33%); Axi S6 Relic (25.33%); Lith N1 Relic (25.33%); Lith V4 Relic (25.33%); Meso K1 Relic (25.33%); Meso S3 Relic (25.33%); Neo G5 Relic (25.33%); Neo Z1 Relic (25.33%) |
+| Neuroptics | 1 | Axi N5 Relic (11.00%); Lith K11 Relic (11.00%); Meso F1 Relic (11.00%); Meso O4 Relic (11.00%) |
+| Orokin Cell | 3 | — |
+| Systems | 1 | Lith N2 Relic (2.00%); Meso N16 Relic (2.00%); Meso N5 Relic (2.00%); Neo N11 Relic (2.00%); Neo N3 Relic (2.00%); Neo N7 Relic (2.00%) |
+
+### Patch History (124 entries)
+- **Lua’s Prey: Hotfix 32.2.4** (2022-12-07T19:04:56Z): Fixed Nekros’ Terrify 100% Armor Reduction not working on Eximus in Elite Sanctuary Onslaught.
+- **Lua’s Prey: Hotfix 32.2.1** (2022-11-30T22:33:07Z): Fixed Nekros’ Lua Thrax Shadows of the Dead applying their Life Support drain in Conjunction Survival missions.
+- **Veilbreaker: Revenant Prime: Hotfix 32.0.9** (2022-10-05T17:59:06Z): Fixed script error related to Nekros’ Terrify.
+- ...and 121 more patches
+
+## Nezha
+The mercurial firemonger protects the innocent. Nezha’s multifaceted tactics give him high survivability as he inflicts damage and provides crowd control. His fire is the clarion of hope.
+
+### Wiki
+The mercurial firemonger protects the innocent. Nezha's multifaceted tactics give him high survivability as he inflicts damage and provides crowd control. His fire is the clarion of hope.
+Lotus
+Release Date: December 16th, 2015
+Blazing across the crimson skies, the empyreal vanguard Nezha invokes sacred fire through his Universe Ring. Invigorate and protect friends by bestowing life and energy. Ignite and impale foes upon inferno pyres, to purge the System with his divine flames. Nezha forged a path of flame in Update 18.1.
+Nezha is a Warframe who commands protective Heat. His Passive grants increased Slide speed and distance. Fire Walker ignites his feet to increase Movement Speed while leaving behind a trail of fire whereever he walks which damages enemies and cleanses ally Status Effects. Blazing Chakram hurls a flaming ring that applies Damage Vulnerability and increased Health Orb and Energy Orb drop chance. Warding Halo creates a protective ring that grants Status Effect immunity and Damage Redirection. Divine Spears imaples nearby enemies and incapacitates them with spears of light.
+**Acquisition:**
+Nezha's blueprints can be researched from the Tenno Lab in the dojo.
+Prior to Update 19, Nezha's main blueprint could be purchased from the Market for 100,000 and its component blueprints were obtained from Sorties, and component blueprints could previously be traded between players.
+Crafting
+Lore & History
+General
+The Warframe Nezha has been known far before the Orokin Fall. A swift warrior, his tales have reached the farthest reaches of the Origin System, sparking hope in any who hear them.
+Health: 365 | Shield: 135 | Armor: 200 | Energy: 175 | Sprint: 1.15
+Aura: naramon
+
+### Abilities
+**Fire Walker:** Blaze a trail of flames, scorching enemies and cleansing allies. Teleporting blasts the landing area with a ring of fire.
+**Blazing Chakram:** Hurl a flaming ring that sets enemies ablaze making them vulnerable to any damage. Flaming enemies drop Restorative Orbs on death. Charge to amplify the power of the ring, and reactivate to instantly travel to the ring's location.
+**Warding Halo:** Create a protective ring of fire, that also stuns and damages enemies who get too close.
+**Divine Spears:** Impale nearby enemies on spears that erupt from the below. Activate again to slam surviving enemies back into the ground.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | — |
+| Neuroptics | 1 | — |
+| Orokin Cell | 1 | — |
+| Systems | 1 | — |
+
+### Patch History (83 entries)
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): Enemies captured in Sea Snares now have 200% Damage Vulnerability from all other sources (similar to Nezha’s Blazing Chakram).  Similar to how Nezha’s Divine Spears impales and slams enemies in two se
+- **Veilbreaker: Revenant Prime: Hotfix 32.0.12** (2022-10-12T19:39:20Z): Fixed New Loka’s Rank 5 Sacrifice being Nezha’s Prime Chassis.
+- **Veilbreaker: Revenant Prime: Hotfix 32.0.9** (2022-10-05T17:59:06Z): Nezha Prime Replaced Red Veil sacrifice of Nezha Prime Chassis to Harrow Prime Systems.  Replaced Steel Meridian sacrifice of Nezha Prime Neuroptics to Nidus Prime Neuroptics.
+- ...and 80 more patches
+
+## Nezha Prime
+Behold: the Scion of the Burning Wind, now before you in most courtly accoutrement. Featuring altered mod polarities for greater customization.
+
+### Wiki
+Behold: the Scion of the Burning Wind, now before you in most courtly accoutrement. Featuring altered mod polarities for greater customization.
+Release Date: October 27th, 2020
+Nezha Prime is the Primed variant of Nezha, boasting higher armor and sprint speed, and an additional Naramon polarity. Nezha Prime was released alongside Zakti Prime and Guandao Prime.
+Vaultings
+On October 5th, 2022, Nezha Prime along with Zakti Prime and Guandao Prime, entered the Prime Vault and were retired from the reward tables. Any preexisting components or fully-built items will remain as is.
+Crafting
+**Notes:**
+Nezha Prime, compared to Nezha:
+Higher Armor (265 vs. 200)
+Higher Sprint Speed (1.2 vs. 1.15)
+Additional Naramon Polarity (VazarinMaduraiNaramon vs. VazarinMadurai)
+DeathOrbEnergy
+Nezha Prime's Divine Spears conjures physical spears with golden blades, similar to that of Guandao Prime.
+**Trivia:**
+Nezha Prime was leaked by linking him in the in-game chat, which was promptly patched out in a hotfix. During Home Devstream 7, Nezha Prime was officially revealed.
+Nezha Prime is the first Warframe to be showcased in-game to players via the Tenno Relay diorama showroom before his full release, on October 27, 2020.
+Nezha is the second prime Warframe where their non-primed variants were introduced from Warframe China, with the first being Wukong.
+Health: 365 | Shield: 135 | Armor: 265 | Energy: 175 | Sprint: 1.2
+Aura: naramon
+
+### Abilities
+**Fire Walker:** Blaze a trail of flames, scorching enemies and cleansing allies. Teleporting blasts the landing area with a ring of fire.
+**Blazing Chakram:** Hurl a flaming ring that sets enemies ablaze making them vulnerable to any damage. Flaming enemies drop Restorative Orbs on death. Charge to amplify the power of the ring, and reactivate to instantly travel to the ring's location.
+**Warding Halo:** Create a protective ring of fire, that also stuns and damages enemies who get too close.
+**Divine Spears:** Impale nearby enemies on spears that erupt from the below. Activate again to slam surviving enemies back into the ground.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Axi G6 Relic (11.00%); Axi M2 Relic (11.00%); Axi S9 Relic (11.00%); Lith H4 Relic (11.00%); Lith O3 Relic (11.00%); Meso C6 Relic (11.00%); Meso D6 Relic (11.00%); Meso H2 Relic (11.00%) |
+| Chassis | 1 | Axi N7 Relic (2.00%); Lith N11 Relic (2.00%); Meso N15 Relic (2.00%); Neo N13 Relic (2.00%); Neo N17 Relic (2.00%) |
+| Neuroptics | 1 | Axi N8 Relic (2.00%); Lith N10 Relic (2.00%); Lith N6 Relic (2.00%); Lith N8 Relic (2.00%); Neo N15 Relic (2.00%); Neo N20 Relic (2.00%); Neo T8 Relic (11.00%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Axi O5 Relic (25.33%); Axi S12 Relic (25.33%); Lith G7 Relic (25.33%); Lith H3 Relic (25.33%); Lith N12 Relic (25.33%); Meso P7 Relic (25.33%); Neo D2 Relic (25.33%); Neo D3 Relic (25.33%); Neo N16 Relic (25.33%) |
+
+### Patch History (83 entries)
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): Enemies captured in Sea Snares now have 200% Damage Vulnerability from all other sources (similar to Nezha’s Blazing Chakram).  Similar to how Nezha’s Divine Spears impales and slams enemies in two se
+- **Veilbreaker: Revenant Prime: Hotfix 32.0.12** (2022-10-12T19:39:20Z): Fixed New Loka’s Rank 5 Sacrifice being Nezha’s Prime Chassis.
+- **Veilbreaker: Revenant Prime: Hotfix 32.0.9** (2022-10-05T17:59:06Z): Nezha Prime Replaced Red Veil sacrifice of Nezha Prime Chassis to Harrow Prime Systems.  Replaced Steel Meridian sacrifice of Nezha Prime Neuroptics to Nidus Prime Neuroptics.
+- ...and 80 more patches
+
+## Nidus
+Nidus draws strength from the Infestation. It bolsters him with survivability as he deals high damage and provides crowd control. Plague your enemies.
+
+### Wiki
+Nidus draws strength from the Infestation. It bolsters him with survivability as he deals high damage and provides crowd control. Plague your enemies.
+Lotus
+Release Date: December 22nd, 2016
+Epitome of the endlessly evolving Infestation, Nidus bends the vile corruption to his will, mutates his genetic potency to adapt and assimilates his victims with an insatiable parasitic hunger. Nidus and his strain developed in Update 19.5.
+Nidus is a Warframe that harnesses the Infestation to mutate his deadly and crowd controlling powers. His Passive grants Mutation Stacks from abilities to enhance them while allowing him to negate death. Virulence stomps the ground to release a trail of damaging fungal growth. Larva creates an Infested pod that latches onto enemies to group them. Parasitic Link tethers a link that grants weapon damage and Ability Strength on allies or Damage Redirection on enemies. Ravenous summons a field of Infested growth that provides Health restore over time while hatching Maggots that latch onto enemies and explode.
+Nidus' main blueprint is acquired from The Glast Gambit quest; additional main blueprints can be bought from Cephalon Simaris for 50,000 Standing. Nidus' component blueprints are acquired from Rotation C of Infested Salvage on Oestrus, Eris.
+Alternatively, upon completion of The Duviri Paradox, Nidus's main and component blueprints can be earned from The Circuit. By selecting him on the rotating week he is available, players can earn his blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Crafting
+Health: 455 | Shield: 0 | Armor: 350 | Energy: 100 | Sprint: 1
+Aura: madurai
+
+### Abilities
+**Virulence:** Rupture the ground with a damaging fungal growth that steals energy from each enemy it strikes. For every five enemies hit, the Infestation mutates, multiplying its destructive force.
+**Larva:** Spawn an Infested pod that erupts with tendrils, latches onto nearby enemies and pulls them in. Enemies killed while held have a chance of generating a Mutation stack.
+**Parasitic Link:** Bind to a target with parasitic link. When cast on an ally, both the host and Nidus have their Ability Strength increased. Linked enemies take some of the damage inflicted on Nidus.
+**Ravenous:** Gluttonous maggots swarm nearby enemies, feasting until they are hit with Virulence and burst with Infestation. The maggots benefit from Mutation and each enemy hit adds to the Mutation stack.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Cephalon Simaris, Complete The Glast Gambit (100.00%) |
+| Chassis | 1 | Eris/Oestrus (Infested Salvage), Rotation C (14.29%); Eris/Oestrus (Infested Salvage), Rotation A (7.69%); Eris/Oestrus (Infested Salvage), Rotation B (7.69%) |
+| Kuva | 2000 | — |
+| Neuroptics | 1 | Eris/Oestrus (Infested Salvage), Rotation C (14.29%); Eris/Oestrus (Infested Salvage), Rotation A (7.69%); Eris/Oestrus (Infested Salvage), Rotation B (7.69%) |
+| Systems | 1 | Eris/Oestrus (Infested Salvage), Rotation C (14.29%); Eris/Oestrus (Infested Salvage), Rotation A (7.69%); Eris/Oestrus (Infested Salvage), Rotation B (7.69%) |
+
+### Patch History (90 entries)
+- **Echoes of Veilbreaker: Hotfix 32.1.2** (2022-11-04T20:55:10Z): Adjusted more offsets for the Shard Bane Ephemera on Nidus, Gendel, Chroma, Lavos, Frost, Hildryn, Atlas, Rhino, Ash, and Vauban.
+- **Veilbreaker: Revenant Prime: Hotfix 32.0.12** (2022-10-12T19:39:20Z): It has been replaced with Nidus Prime’s Neuroptics.
+- **Veilbreaker: Revenant Prime: Hotfix 32.0.9** (2022-10-05T17:59:06Z): Replaced Steel Meridian sacrifice of Nezha Prime Neuroptics to Nidus Prime Neuroptics.
+- ...and 87 more patches
+
+## Nidus Prime
+Mutation is endless. The ravening plague-bearer returns in a long-unseen form, seething with a primal strain of the Infestation.
+
+### Wiki
+Mutation is endless. The ravening plague-bearer returns in a long-unseen form, seething with a primal strain of the Infestation. Features altered Mod polarities for greater customization.
+Ballas
+Release Date: September 8th, 2021
+Nidus Prime is the Primed variant of Nidus, sporting enhanced Health, Energy, and Armor, as well as an additional Naramon polarity. He was released alongside the Strun Prime and the Magnus Prime.
+Vaultings
+On July 27th, 2023, Nidus Prime, along with Strun Prime and Magnus Prime, entered the Prime Vault and were retired from the reward tables. Any preexisting components or fully-built items will remain as is.
+Crafting
+**Notes:**
+Nidus Prime, compared to Nidus:
+Higher Health (550/650 vs. 455/555)
+Higher Armor (425/525 vs. 350/450)
+Higher Energy (140/190 vs. 100/150)
+Higher Starting Energy (75 vs. 50)
+Additional Naramon Polarity (MaduraiNaramonVazarin vs. MaduraiVazarin)
+DeathOrbEnergy
+Nidus Prime's appearance changes as he accumulates Mutation Stacks:
+At 3 stacks, a dark blue tentacle mass erupts from the left side of his face, as well as his entire left arm.
+At 5 stacks, the tentacle mass grows to cover his chest and back.
+At 7 stacks, the mass erupts from the right side of his body and his inner thighs, the metallic golden spikes on his right arm and back protrude outward, and black Infested nanites in liquid form begin to ooze from him.
+At 10 stacks, the mass grows further, fully covering his head and thighs as he begins releasing a cloud of black spores from his body.
+Virulence has long, wavy protrusions with golden accents erupting from the fungal growths instead of the usual spikes, Larva's tentacles have a more muscle fiber-like design with golden protrusions at the tips.
+Health: 550 | Shield: 0 | Armor: 425 | Energy: 140 | Sprint: 1
+Aura: madurai
+
+### Abilities
+**Virulence:** Rupture the ground with a damaging fungal growth that steals energy from each enemy it strikes. For every five enemies hit, the Infestation mutates, multiplying its destructive force.
+**Larva:** Spawn an Infested pod that erupts with tendrils, latches onto nearby enemies and pulls them in. Enemies killed while held have a chance of generating a Mutation stack.
+**Parasitic Link:** Bind to a target with parasitic link. When cast on an ally, both the host and Nidus have their Ability Strength increased. Linked enemies take some of the damage inflicted on Nidus.
+**Ravenous:** Gluttonous maggots swarm nearby enemies, feasting until they are hit with Virulence and burst with Infestation. The maggots benefit from Mutation and each enemy hit adds to the Mutation stack.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Axi A14 Relic (11.00%); Lith K10 Relic (11.00%); Lith R2 Relic (11.00%); Lith S17 Relic (11.00%); Lith T9 Relic (11.00%); Meso N12 Relic (11.00%); Meso P8 Relic (11.00%); Meso R5 Relic (11.00%) |
+| Chassis | 1 | Axi N12 Relic (2.00%); Lith N12 Relic (2.00%); Lith N7 Relic (2.00%); Meso N13 Relic (2.00%); Meso N14 Relic (2.00%); Neo N18 Relic (2.00%) |
+| Neuroptics | 1 | Axi N10 Relic (2.00%); Axi N9 Relic (2.00%); Neo N16 Relic (2.00%); Neo S19 Relic (11.00%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Meso A3 Relic (25.33%); Meso B5 Relic (25.33%); Meso D7 Relic (25.33%); Meso H2 Relic (25.33%); Meso P9 Relic (25.33%); Neo A8 Relic (25.33%); Neo C2 Relic (25.33%); Neo N19 Relic (25.33%) |
+
+### Patch History (90 entries)
+- **Echoes of Veilbreaker: Hotfix 32.1.2** (2022-11-04T20:55:10Z): Adjusted more offsets for the Shard Bane Ephemera on Nidus, Gendel, Chroma, Lavos, Frost, Hildryn, Atlas, Rhino, Ash, and Vauban.
+- **Veilbreaker: Revenant Prime: Hotfix 32.0.12** (2022-10-12T19:39:20Z): It has been replaced with Nidus Prime’s Neuroptics.
+- **Veilbreaker: Revenant Prime: Hotfix 32.0.9** (2022-10-05T17:59:06Z): Replaced Steel Meridian sacrifice of Nezha Prime Neuroptics to Nidus Prime Neuroptics.
+- ...and 87 more patches
+
+## Nokko
+Spring into action with Nokko! With his strong roots and an array of tricky fungi this young defender will quickly grow on you
+
+### Wiki
+Spring into action with Nokko! With his strong roots and an array of tricky fungi, this young defender will quickly grow on you
+Release Date: October 15, 2025
+Below the snowbound crust of Orb Vallis, thrives a vast subterranean undergrowth. Dwellers of the Deepmines slumber upon the fungal bedrock, where impending trouble awakens an ancient youth. Nurture this mycelial paradise where wild roots and tiny Sprodlings roam free, then frolic amongst the fungus as Nokko, the Sporespreader. Spring forth as a shrunken munchkin, regrow and rebound, until death blooms for foes who threaten our sporadic peace. Nokko sprouted in Update 40: The Vallis Undermind.
+Nokko is a mushroom-themed Warframe that grows a tenacious fungal colony for support and battlefield control. His Passive reverts him to a small Sprodling that spawns speed-boosting spores to reach a previously placed mushroom to revive himself. Stinkbrain periodically sheds Viral damage and status while lulling enemies to Sleep, while Brightbonnet releases pulses that boost Ability Strength and restores ally Energy. Reroot has Nokko transform into a small Sprodling that is Invulnerable and restores Health and Shields over time while releasing spore pickups that heal and speed him up. Sporespring releases a ballistic mushroom that deals deadly Critical Toxin damage while bouncing off of enemies and other created mushrooms, causing Stinkbrain and Brightbonnet to pulse faster and extend their lifespans.
+Nokko's main and component blueprints are acquired from Deepmines Bounties as an uncommon and rare drop. Access requires completion of The New War.
+Alternatively Nokko's blueprints can be purchased from Nightcap in Fortuna with Fergolyte from Deepmines Bounties. Each component blueprint requires 160 and the main blueprint requires 240, totaling 720 Fergolyte for the whole set. Players must be at Rank 4 - Gardener with Nightcap in order to purchase.
+Crafting
+Lore & History
+Nightcap
+The Prince#Lore & History
+Health: 150 | Shield: 300 | Armor: 135 | Energy: 130 | Sprint: 1.25
+Aura: madurai
+
+### Abilities
+**Stinkbrain:** Throw a mushroom that periodically sheds poisonous spores, inflicting Viral Damage and Status Effect upon nearby enemies while also lulling them to sleep.
+**Brightbonnet:** Release a rejuvenating mushroom that emits a radial pulse, giving Nokko and his allies’ Energy and applying a buff to Ability Strength that lasts for a short time.
+**Reroot:** Revert to Sprodling form, spawning orbs that heal Nokko and grant a speed boost. While in this state, Nokko is untargetable and heals gradually.
+**Sporespring:** Unleash a chaotic ballistic mushroom that seeks enemies and bounces explosively off whatever it touches. Contact with any of Nokko’s mushrooms invigorates them, doubling their pulse rate.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Nokko: Corporate Restructuring Rewards, Rotation C (5.00%); Nokko: Critter Liberation Rewards, Rotation C (5.00%); Nokko: Weed The Gardens Rewards, Rotation C (5.00%); Nokko: Corporate Restructuring (Steel Path), Rotation C (8.00%); Nokko: Critter Liberation Rewards (Steel Path), Rotation C (8.00%); Nokko: Weed The Gardens Rewards (Steel Path), Rotation C (8.00%) |
+| Chassis | 1 | Nokko: Critter Liberation Rewards (Steel Path), Rotation C (10.00%); Nokko: Critter Liberation Rewards, Rotation C (10.00%); Nokko: Critter Liberation Rewards, Rotation B (2.50%); Nokko: Critter Liberation Rewards (Steel Path), Rotation B (5.00%) |
+| Neuroptics | 1 | Nokko: Weed The Gardens Rewards (Steel Path), Rotation C (10.00%); Nokko: Weed The Gardens Rewards, Rotation C (10.00%); Nokko: Weed The Gardens Rewards, Rotation B (2.50%); Nokko: Weed The Gardens Rewards (Steel Path), Rotation B (5.00%) |
+| Orokin Cell | 3 | — |
+| Systems | 1 | Nokko: Corporate Restructuring (Steel Path), Rotation C (10.00%); Nokko: Corporate Restructuring Rewards, Rotation C (10.00%); Nokko: Corporate Restructuring Rewards, Rotation B (2.50%); Nokko: Corporate Restructuring (Steel Path), Rotation B (5.00%) |
+
+## Nova
+Harness antimatter. Nova uses antiparticles to provide crowd control and amplify damage output. She obliterates enemies by destabilizing matter itself.
+
+### Wiki
+Harness antimatter. Nova uses antiparticles to provide crowd control and amplify damage output. She obliterates enemies by destabilizing matter itself.
+Lotus
+Release Date: July 13th, 2013
+Traverse across the universe at lightspeed by rematerializing through spatial portals. Destabilize molecular bonds with potent antimatter, triggering an explosive cascade of atomic chain reactions. Simulate the nuclear destruction of dying stars, and harness the astral phenomena as the advanced prototype, codename: Nova. Nova materialized in Update 9.
+Nova is a Warframe with antimatter and molecular crowd controlling powers. Her Passive has increased Health Orb drop chance on slain enemies that are Slow, or Energy Orb drop chance on slain enemies that are sped-up. Null Star surrounds her with particles that provide Damage Reduction and seek out nearby enemies. Antimatter Drop condenses a particle of antimatter that absorbs all damage which is accumulated into an explosion upon collision. Wormhole creates a portal for instantaneous travel on its exit point. Molecular Prime releases a wave of antimatter that slows or speeds up enemies while applying Damage Vulnerability and exploding upon death.
+Nova's main blueprint can be purchased from the Market. Nova's component blueprints can be obtained from defeating the Raptors on Naamah, Europa.
+Alternatively, upon completion of The Duviri Paradox, Nova's main and component blueprints can be earned from The Circuit. By selecting her on the rotating week she is available, players can earn her blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Crafting
+Lore & History
+ExpandNovaIntroduction:
+Nova. Mercurial, unpredictable and a miraculous example of harnessed antimatter.
+Health: 270 | Shield: 180 | Armor: 105 | Energy: 175 | Sprint: 1.2
+Aura: naramon
+
+### Abilities
+**Null Star:** Creates antimatter particles that orbit Nova and attack nearby targets. Each active particle reduces damage to Nova's Health and Shields.
+**Antimatter Drop:** Launch a large particle of charged antimatter that will detonate on contact. Direct the particle by aiming, shoot it to charge it further. Deals Blast Damage with a guaranteed Status Effect.
+**Wormhole:** Creates a wormhole allowing instantaneous travel. Hold the ability to visualize placement.
+**Molecular Prime:** Primes all enemies in an expanding radius with volatile antimatter. Press the ability to slow down enemy movement, hold the ability to speed them up.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | Europa/Naamah (Assassination) (38.72%) |
+| Neuroptics | 1 | Europa/Naamah (Assassination) (38.72%) |
+| Orokin Cell | 1 | — |
+| Systems | 1 | Europa/Naamah (Assassination) (22.56%) |
+
+### Patch History (124 entries)
+- **Veilbreaker: Revenant Prime: Hotfix 32.0.9** (2022-10-05T17:59:06Z): Nova’s Neutron Star Augment Changes:  After Neutron Star’s damage and range was buffed in the Veilbreaker update, the Augment's usage increased by over 67 times and climbing. Because of the Helminth s
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): Nova (Jupiter to Europa) Removed Nova Specter's Molecular Prime ability.  Reduced the amount of damage done from Nova's Kunai secondary.  Nova Specter will now cast her Worm Hole ability in specifical
+- **Echoes of the Zariman: Hotfix 31.6.2** (2022-06-15T18:40:49Z): Fixed script error from Nova’s Antimatter Drop.
+- ...and 121 more patches
+
+## Nova Prime
+Nova Prime wreaks devastation on her enemies using volatile antimatter. Featuring altered mod polarities for greater customization.
+
+### Wiki
+Nova Prime wreaks devastation on her enemies using volatile anti-matter. Featuring altered mod polarities for greater customization.
+Release Date: December 16th, 2014
+Nova Prime is the Primed variant of Nova, possessing a higher shield, armor, and energy capacity, as well as an additional Madurai polarity. Nova Prime was released alongside Soma Prime and Vasto Prime.
+Vaultings
+On November 15th, 2016, it was announced that Nova Prime, alongside Soma Prime and Vasto Prime, would enter the Prime Vault and be retired from the reward tables on November 22, 2016. Any preexisting components or fully-built frames will remain as is.
+Nova Prime emerged from the Vault on November 13th, 2018, alongside Soma Prime, Vasto Prime, Mag Prime, Boar Prime, and Dakra Prime, and was accessible until January 15th, 2019 for Nintendo Switch and January 29th, 2019 for PC, Xbox One, and PlayStation 4.
+Nova Prime, alongside Soma Prime, Vasto Prime, Trinity Prime, Dual Kamas Prime, and Kavasa Prime Collar, re-emerged from the Vault from May 26th, 2020 to September 29th, 2020.
+Nova Prime was available from Prime Resurgence which ran from November 16, 2021 to January 25, 2022.
+Crafting
+**Notes:**
+Nova Prime, compared to Nova:
+Higher Shields (270/370 vs. 180/280)
+Higher Armor (135 vs. 105)
+Higher Energy (215/265 vs. 175/225)
+Higher Starting Energy (150 vs. 100)
+Additional Madurai Polarity (MaduraiMaduraiMadurai vs. MaduraiMadurai)
+DeathOrbEnergy
+Nova Prime's Null Star and Antimatter Drop both feature opaque gold spheres instead of the translucent spheres of her non-Primed counterpart.
+Health: 270 | Shield: 270 | Armor: 135 | Energy: 215 | Sprint: 1.2
+Aura: naramon
+
+### Abilities
+**Null Star:** Creates antimatter particles that orbit Nova and attack nearby targets. Each active particle reduces damage to Nova's Health and Shields.
+**Antimatter Drop:** Launch a large particle of charged antimatter that will detonate on contact. Direct the particle by aiming, shoot it to charge it further. Deals Blast Damage with a guaranteed Status Effect.
+**Wormhole:** Creates a wormhole allowing instantaneous travel. Hold the ability to visualize placement.
+**Molecular Prime:** Primes all enemies in an expanding radius with volatile antimatter. Press the ability to slow down enemy movement, hold the ability to speed them up.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Axi S4 Relic (11.00%); Meso D5 Relic (11.00%); Neo N2 Relic (11.00%) |
+| Chassis | 1 | Lith N1 Relic (2.00%); Neo N12 Relic (2.00%); Neo N9 Relic (2.00%); Neo V1 Relic (2.00%) |
+| Neuroptics | 1 | Lith C1 Relic (25.33%); Lith K4 Relic (25.33%); Lith M2 Relic (25.33%); Meso C1 Relic (25.33%) |
+| Orokin Cell | 1 | — |
+| Systems | 1 | Axi S7 Relic (25.33%); Lith C1 Relic (25.33%); Meso B3 Relic (25.33%); Meso S1 Relic (25.33%); Neo S2 Relic (25.33%) |
+
+### Patch History (124 entries)
+- **Veilbreaker: Revenant Prime: Hotfix 32.0.9** (2022-10-05T17:59:06Z): Nova’s Neutron Star Augment Changes:  After Neutron Star’s damage and range was buffed in the Veilbreaker update, the Augment's usage increased by over 67 times and climbing. Because of the Helminth s
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): Nova (Jupiter to Europa) Removed Nova Specter's Molecular Prime ability.  Reduced the amount of damage done from Nova's Kunai secondary.  Nova Specter will now cast her Worm Hole ability in specifical
+- **Echoes of the Zariman: Hotfix 31.6.2** (2022-06-15T18:40:49Z): Fixed script error from Nova’s Antimatter Drop.
+- ...and 121 more patches
+
+## Nyx
+Psychic attacks make Nyx a dangerous foe. She reaches into enemy consciousness to provide crowd control and turn their attacks back on them. Such manipulation can turn the tide of battle.
+
+### Wiki
+Psychic attacks make Nyx a dangerous foe. She reaches into enemy consciousness to provide crowd control and turn their attacks back on them. Such manipulation can turn the tide of battle.
+Lotus
+Release Date: January 29th, 2013
+Scramble the enemy's psyche with her subliminal touch, turning friend into foe as chaos ensues. Manipulate the mind as Nyx to dominate their will, cripple their defenses, and reflect their collective strikes with her psychic prowess. Nyx infiltrated the enemy's ranks in Update 6.
+Nyx is a psychic Warframe that dominates the battefield with confusion. Her Passive grants increased primary and secondary Critical Chance while nearby enemies are afflicted by Radiation status. Mind Control forcibly controls a single target to fight for Nyx while imbuing them with Radiation damage, and becomes further enhanced when damaged by Nyx during its activation. Psychic Bolts releases projectiles that cripples Armor and Shields while Slow Infested and stealing armor, shields, and Overguard for herself. Chaos releases a disorienting wave that applies max Radiation status to force enemies to battle each other. Absorb enters an Invulnerable meditative stance that absorbs received damage and damage dealt by confused enemies before releasing it in an explosion.
+Nyx's main blueprint can be purchased from the Market. Nyx's component blueprints can be obtained from defeating Phorid on assassination missions that appear during an Infested Invasion.
+Alternatively, upon completion of The Duviri Paradox, Nyx's main and component blueprints can be earned from The Circuit. By selecting her on the rotating week she is available, players can earn her blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Crafting
+Health: 270 | Shield: 270 | Armor: 105 | Energy: 175 | Sprint: 1.1
+Aura: naramon
+
+### Abilities
+**Mind Control:** Nyx seizes control of a target's mind, compelling them to fight for the Tenno cause. Controlled enemies have increased Radiation Status Chance. When Nyx shoots them, they also have an increased Damage Multiplier.
+**Psychic Bolts:** Nyx unleashes a volley of psychic bolts that track and strike nearby enemies with telekinetic precision. When enemies are slain, additional bolts scatter to new targets. Striking foes weakens their defenses and transfers a portion to Nyx.
+**Chaos:** Nyx releases a devastating psychic pulse, disorienting enemies in a wide radius and forcing them to turn on each other. Confused foes lash out at random factions.
+**Absorb:** Nyx draws in and contains the damage dealt to her and the damage confused enemies deal to each other then converts it into a devastating radial blast. Following the blast, she enters a brief invulnerable state and gains a Weapon Damage boost proportional to the absorbed damage.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | Phorid Assassination (38.72%) |
+| Neuroptics | 1 | Phorid Assassination (38.72%) |
+| Orokin Cell | 1 | — |
+| Systems | 1 | Phorid Assassination (22.56%) |
+
+### Patch History (174 entries)
+- **Echoes of Veilbreaker: Update 32.1** (2022-11-02T15:00:14Z): Fixed Archon Hunt enemies applying enemy defense buffs in a different way than Sorties, causing abilities (for example, but not limited to) Nyx’s Psychic Bolts to not strip 100% of an enemy’s Shields
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Fixed Nyx’s Psychic Bolts (with 125%+ Ability Strength) not removing all Shields from Steel Path enemies.
+- **Echoes of the Zariman: Update 31.6** (2022-06-09T14:49:52Z): Fixed Nyx being able to Mind Control stationary turrets in the Plains of Eidolon and the Orb Vallis, causing them to teleport to her when she gets far enough away.  Fixed Nyx’s Psychic Bolts not remov
+- ...and 171 more patches
+
+## Nyx Prime
+Infiltrate the minds of your enemies with Nyx Prime. Featuring altered mod polarities for greater customization.
+
+### Wiki
+Infiltrate the minds of your enemies with Nyx Prime. Featuring altered mod polarities for greater customization.
+Release Date: September 23rd, 2014
+Nyx Prime is the Primed variant of Nyx, possessing higher shield, armor, sprint speed, as well as an additional Vazarin polarity. Nyx Prime was released alongside Hikou Prime and Scindo Prime.
+**Acquisition:**
+Unlike most Prime gear, Nyx Prime is permanently unvaulted, with relics being obtainable through Abandoned Derelict Caches in Corpus Railjack missions.
+Vaultings
+On August 9th, 2016, it was announced that Nyx Prime, alongside Hikou Prime and Scindo Prime, would enter the Prime Vault and be retired from the reward tables on August 23rd, 2016. Any preexisting components, relics or fully-built frames will remain as is.
+Nyx Prime, alongside Hikou Prime, Scindo Prime, Rhino Prime, Boltor Prime, and Ankyros Prime, resurfaced from the Prime Vault, and was accessible from July 24th, 2018 to September 25th, 2018.
+Nyx Prime resurfaced again together with the same line-up from July 16th, 2019 to September 3rd, 2019.
+Nyx Prime resurfaced again together with the same line-up from August 12th, 2021 to November 16th, 2021 and January 11th, 2022 to February, 15th, 2022 (gap was due to Prime Resurgence).
+Crafting
+**Notes:**
+Nyx Prime, compared to Nyx:
+Higher Shields (365/465 vs. 270/370)
+Higher Armor (135 vs. 105)
+Higher Starting Energy (150 vs. 100)
+Higher Sprint Speed (1.125 vs. 1.1)
+Additional Vazarin Polarity (MaduraiNaramonVazarin vs. MaduraiNaramon)
+DeathOrbEnergy
+**Trivia:**
+Nyx Prime was the first Prime Warframe to have two enhanced stats, at the time she received increased Armor and Sprint speed over her normal version. When Update 17 launched she received an additional boost in Shield.
+Enemies affected by Nyx Prime's Chaos now show a Nyx Prime holding a Braton Prime instead of a regular Nyx holding a standard Braton.
+Health: 270 | Shield: 365 | Armor: 135 | Energy: 175 | Sprint: 1.125
+Aura: naramon
+
+### Abilities
+**Mind Control:** Nyx seizes control of a target's mind, compelling them to fight for the Tenno cause. Controlled enemies have increased Radiation Status Chance. When Nyx shoots them, they also have an increased Damage Multiplier.
+**Psychic Bolts:** Nyx unleashes a volley of psychic bolts that track and strike nearby enemies with telekinetic precision. When enemies are slain, additional bolts scatter to new targets. Striking foes weakens their defenses and transfers a portion to Nyx.
+**Chaos:** Nyx releases a devastating psychic pulse, disorienting enemies in a wide radius and forcing them to turn on each other. Confused foes lash out at random factions.
+**Absorb:** Nyx draws in and contains the damage dealt to her and the damage confused enemies deal to each other then converts it into a devastating radial blast. Following the blast, she enters a brief invulnerable state and gains a Weapon Damage boost proportional to the absorbed damage.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Lith B4 Relic (25.33%); Lith S2 Relic (25.33%); Neo V1 Relic (25.33%); Neo V9 Relic (25.33%) |
+| Chassis | 1 | Neo N1 Relic (2.00%); Axi S8 Relic (11.00%); Neo R1 Relic (11.00%) |
+| Neuroptics | 1 | Meso N1 Relic (2.00%); Meso N11 Relic (2.00%); Meso N6 Relic (2.00%) |
+| Orokin Cell | 1 | — |
+| Systems | 1 | Axi S3 Relic (11.00%); Lith C7 Relic (11.00%); Neo S2 Relic (11.00%) |
+
+### Patch History (174 entries)
+- **Echoes of Veilbreaker: Update 32.1** (2022-11-02T15:00:14Z): Fixed Archon Hunt enemies applying enemy defense buffs in a different way than Sorties, causing abilities (for example, but not limited to) Nyx’s Psychic Bolts to not strip 100% of an enemy’s Shields
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Fixed Nyx’s Psychic Bolts (with 125%+ Ability Strength) not removing all Shields from Steel Path enemies.
+- **Echoes of the Zariman: Update 31.6** (2022-06-09T14:49:52Z): Fixed Nyx being able to Mind Control stationary turrets in the Plains of Eidolon and the Orb Vallis, causing them to teleport to her when she gets far enough away.  Fixed Nyx’s Psychic Bolts not remov
+- ...and 171 more patches
+
+## Oberon
+Healing and suffering do Oberon’s bidding. His command of the natural world supports allies. Boon to his friends, bane of his foes.
+
+### Wiki
+Healing and suffering do Oberon's bidding. His command of the natural world supports allies. Boon to his friends, bane of his foes.
+Lotus
+Release Date: December 19th, 2013
+Endowed with zealous offensive powers and sacred protective skills, Oberon is a balanced fighter with assault and supportive capabilities. Oberon came to light in Update 11.5.
+Oberon is a paladin Warframe that provides support. His Passive grants Righteous Negation to himself and allies on collecting Health Orbs and Universal Orbs to provide brief Invulnerability against incoming damage. Smite releases a Radiation projectile that removes enemy Armor and Overguard while dealing percentage damage. Hallowed Ground creates a field that applies Radiation to enemies and Status Effect cleanse and immunity to allies. Renewal projects a field around him that bolsters ally health regeneration over time, armor, and Bleedout timer reduction. Reckoning forcibly lifts enemies before slamming them into the ground, removing their armor, dealing increased damage towards enemies with Radiation statuses, and slain enemies having increased Health Orb drop chance, while further strengthening Oberon's own armor.
+Oberon's main blueprint can be purchased from the Market. Oberon's component blueprints are obtained from Earth Proxima (Neuroptics & Systems) and Saturn Proxima (Chassis) Points of Interest in Empyrean missions.
+Alternatively, upon completion of The Duviri Paradox, Oberon's main and component blueprints can be earned from The Circuit. By selecting him on the rotating week he is available, players can earn his blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Health: 365 | Shield: 270 | Armor: 385 | Energy: 175 | Sprint: 1
+Aura: madurai
+
+### Abilities
+**Smite:** Focuses deadly energy within a target, dealing massive damage and removing all of its defenses, including Overguard. Enemies near the target also take a portion of the damage.
+**Hallowed Ground:** Sanctifies the ground around Oberon, inflicting Radiation Damage to all enemies within the radius. Also grants protection against Status Effects for Oberon and his allies.
+**Renewal:** Generates a protective aura that grants bonus Armor to Oberon and his allies and restores allies’ Health over time. Healing is doubled while within the radius of Hallowed Ground.
+**Reckoning:** Lifts enemies into the air and then hurls them down with conviction, removing their Armor. Enemies hit by this ability will grant Oberon additional Armor and have a chance to spawn a Health Orb when they die.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | Saturn/Kasio's Rest (Caches) (10.00%); Saturn/Lupal Pass (Caches) (10.00%); Saturn/Mordo Cluster (Caches) (10.00%); Saturn/Nodo Gap (Caches) (10.00%); Saturn/Vand Cluster (Caches) (10.00%) |
+| Neuroptics | 1 | Earth/Bendar Cluster (Caches) (10.00%); Earth/Iota Temple (Caches) (10.00%); Earth/Korm's Belt (Caches) (10.00%); Earth/Ogal Cluster (Caches) (10.00%); Earth/Sover Strait (Caches) (10.00%) |
+| Orokin Cell | 1 | — |
+| Systems | 1 | Earth/Bendar Cluster (Caches) (10.00%); Earth/Iota Temple (Caches) (10.00%); Earth/Korm's Belt (Caches) (10.00%); Earth/Ogal Cluster (Caches) (10.00%); Earth/Sover Strait (Caches) (10.00%) |
+
+### Patch History (115 entries)
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): In the Veilbreaker and Nora’s Mix Vol 1 updates, we buffed a number of underused Warframe Augments (from Ash to Oberon). This third and final batch of buffs tackles Warframe Augments from Saryn to Zep
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Oberon’s Renewal with and without Phoenix Renewal Augment
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): Increase Oberon's Reckoning armor reduction from 30% to 50%.
+- ...and 112 more patches
+
+## Oberon Prime
+Protect the balance with this regal forest guardian. Featuring altered mod polarities for greater customization.
+
+### Wiki
+Oberon Prime
+Ballas
+Release Date: May 30th, 2017
+Oberon Prime is the Primed variant of Oberon, possessing higher armor and energy capacity, as well as two additional Naramon polarities. Oberon Prime was released alongside Silva & Aegis Prime and Sybaris Prime.
+Vaultings
+Oberon Prime was vaulted on April 2nd, 2019.
+Oberon Prime, alongside Sybaris Prime, Silva & Aegis Prime, Nekros Prime, Tigris Prime, and Galatine Prime, emerged from the Vault from February 11th, 2020 to May 26th, 2020.
+Oberon Prime was available from Prime Resurgence which ran from November 16, 2021 to January 25, 2022.
+Crafting
+**Notes:**
+Oberon Prime, compared to Oberon:
+Higher Armor (450 vs. 385)
+Higher Energy (215/265 vs. 175/225)
+Higher Starting Energy (100 vs. 75)
+Additional two Naramon Polarities (NaramonNaramonMaduraiMadurai vs. MaduraiMadurai)
+DeathOrbEnergy
+Oberon Prime's Hallowed Ground sprouts fields of ferns, instead of fields of grass like his non-Primed variant.
+**Trivia:**
+Oberon Prime was designed by Michael "Mynki" Brennan.
+Oberon Prime's design might be a reference to bulls, and their connection to nature in many religions and cultures.
+His design also features several parts resembling crenellated walls, such as the battlements of a castle, likely referencing Oberon's knightly and protective nature.
+O8-Xorj8x4c
+Health: 365 | Shield: 270 | Armor: 450 | Energy: 215 | Sprint: 1
+Aura: madurai
+
+### Abilities
+**Smite:** Focuses deadly energy within a target, dealing massive damage and removing all of its defenses, including Overguard. Enemies near the target also take a portion of the damage.
+**Hallowed Ground:** Sanctifies the ground around Oberon, inflicting Radiation Damage to all enemies within the radius. Also grants protection against Status Effects for Oberon and his allies.
+**Renewal:** Generates a protective aura that grants bonus Armor to Oberon and his allies and restores allies’ Health over time. Healing is doubled while within the radius of Hallowed Ground.
+**Reckoning:** Lifts enemies into the air and then hurls them down with conviction, removing their Armor. Enemies hit by this ability will grant Oberon additional Armor and have a chance to spawn a Health Orb when they die.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Lith H2 Relic (11.00%); Lith M3 Relic (11.00%); Lith S9 Relic (11.00%); Meso H1 Relic (11.00%); Meso N4 Relic (11.00%); Neo B5 Relic (11.00%); Neo S16 Relic (11.00%) |
+| Chassis | 1 | Axi H2 Relic (25.33%); Axi N5 Relic (25.33%); Lith B5 Relic (25.33%); Lith B9 Relic (25.33%); Lith T3 Relic (25.33%); Meso B2 Relic (25.33%); Meso P1 Relic (25.33%) |
+| Neuroptics | 1 | Lith O1 Relic (2.00%); Meso O1 Relic (2.00%); Meso O2 Relic (2.00%); Meso O4 Relic (2.00%); Meso O6 Relic (2.00%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Axi O1 Relic (2.00%); Axi O2 Relic (2.00%); Axi O3 Relic (2.00%); Axi O4 Relic (2.00%); Axi A15 Relic (11.00%); Neo N11 Relic (11.00%) |
+
+### Patch History (115 entries)
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): In the Veilbreaker and Nora’s Mix Vol 1 updates, we buffed a number of underused Warframe Augments (from Ash to Oberon). This third and final batch of buffs tackles Warframe Augments from Saryn to Zep
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Oberon’s Renewal with and without Phoenix Renewal Augment
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): Increase Oberon's Reckoning armor reduction from 30% to 50%.
+- ...and 112 more patches
+
+## Octavia
+Octavia turns bass, beat, and melody into a symphony of devastation. The music of her Mandachord gives her high survivability and supports allies. Her composition means the enemy’s destruction.
+
+### Wiki
+Octavia turns bass, beat, and melody into a symphony of devastation. The music of her Mandachord gives her high survivability and supports allies. Her composition means the enemy's destruction.
+Lotus
+Release Date: March 24th, 2017
+Rhythmic and imaginative, Octavia conducts her myriad siren songs and ambient anthems through the mystical Mandachord. Entice enemies with musical instruments that inflict melodic maladies, as the Tenno chorus synchronize their rhythm to sound the drums of war. Octavia was composed in Update Octavia's Anthem.
+Octavia is a Warframe that utilizes music for support. Her Passive recovers Energy over time for herself and allies after casting abilities. Mallet hurls a device that taunts enemies into attacking it while releasing damaging music to nearby enemies. Resonator summons a roller that charms enemies into following it, while picking up Mallets as it moves around. Metronome grants buffs from timed actions: jump to gain Vivace for Movement Speed, crouch to gain Nocturne for Invisibility, fire guns to gain Opera for Multishot, and melee to gain Forte for melee weapon damage. Amp projects a field that strengthens ally weapon damage and increases the damage and range of Mallet.
+Octavia's main blueprint and the Mandachord are acquired from the Octavia's Anthem quest. The Chassis blueprint is rewarded from the Music Puzzle on Lua. The Neuroptics blueprint is rewarded from Rotation C of Terrorem (Survival), Deimos. The Systems blueprint can be found in the A Rotation Cache of Plato (Crossfire Exterminate), Lua. Additional Mandachord and main blueprints can be bought from Cephalon Simaris for 25,000 Standing and 50,000 Standing respectively.
+Alternatively, upon completion of The Duviri Paradox, Octavia's main and component blueprints can be earned from The Circuit. By selecting her on the rotating week she is available, players can earn her blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Health: 270 | Shield: 180 | Armor: 160 | Energy: 175 | Sprint: 1.05
+Aura: naramon
+
+### Abilities
+**Mallet:** Rhythmically beats damage into nearby enemies and draws their fire. Damage inflicted on the Mallet increases its lethality.
+**Resonator:** Launches a rollerball that charms foes to follow it. Combines with the Mallet to create a roving ball of sonic destruction.
+**Metronome:** Grants buffs to those who consistently perform actions in time to Octavia's music. Timed jumps offer the Vivace speed buff. Crouching on the beat grants cloaking with the Nocturne buff. Firing rhythmically bestows Opera multishot buff. Timed melee swings give the Forte damage buff.
+**Amp:** Draws power from the decibel level of sound in the area and uses it to amplify a damage buff for Octavia and her allies. It also doubles the damage and range of nearby Mallets.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Cephalon Simaris, Complete Octavia's Anthem (100.00%) |
+| Chassis | 1 | Orokin Storage Container (100.00%) |
+| Mandachord | 1 | — |
+| Neuroptics | 1 | Deimos/Terrorem (Survival), Rotation C (22.56%) |
+| Systems | 1 | Lua/Plato (Caches), Rotation A (22.56%) |
+
+### Patch History (80 entries)
+- **Lua’s Prey: Baruuk Prime: Hotfix 32.2.5** (2022-12-14T19:00:16Z): Octavia Prime Replaced Perrin Sequence Rank 5 sacrifice of Octavia Prime Chassis to Gara Prime Neuroptics.
+- **Veilbreaker: Hotfix 32.0.3** (2022-09-14T17:58:41Z): Archons now prioritize players instead of summons (eg: Octavia's roller, Titania's Razorflies, Atlas Rumblers, etc) to prevent too egregious aggro CC.
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): Octavia Mandachoralyst Skin & Helmet by kakarrot2812
+- ...and 77 more patches
+
+## Octavia Prime
+Strike up a symphony of destruction with the mistress of music, Octavia, in her grandest and most spectacular form. Featuring altered mod polarities for greater customization.
+
+### Wiki
+Strike up a symphony of destruction with the mistress of music, Octavia, in her grandest and most spectacular form. Featuring altered mod polarities for greater customization.
+Ballas
+Release Date: February 23rd, 2021
+Octavia Prime is the Primed variant of Octavia, possessing higher Shields and Energy, and an additional Vazarin polarity. Octavia Prime was released alongside Tenora Prime and Pandero Prime.
+Vaulted
+On December 14th, 2022, Octavia Prime, along with Tenora Prime and Pandero Prime, entered the Prime Vault and were retired from the reward tables. Any preexisting components or fully-built items will remain as is.
+Crafting
+**Notes:**
+Octavia Prime, compared to Octavia:
+Higher Shields (270/370 vs. 180/280)
+Higher Energy (215/265 vs. 175/225)
+Additional Vazarin Polarity (VazarinNaramonNaramon vs. NaramonNaramon).
+If Octavia Prime wields her Signature Weapons:
+Tenora/Tenora Prime: Headshot kills with Alternate Fire have a 20% chance to instantly refill the magazine.
+Pandero/Pandero Prime: Headshot kills with Alternate Fire increase reload speed by 20%.﻿
+No weak spots other than actual heads will trigger these effects.
+Headshots on invulnerable enemies will still grant these effects, but not with invulnerable bosses.
+DeathOrbEnergy
+Upon acquiring Octavia Prime, the player will receive Bombast Instruments for her Mandachord.
+Octavia Prime's Resonator takes the form of a hi-tech bass drum that rolls along like a car tire, rather than a standard Roller.
+Health: 270 | Shield: 270 | Armor: 160 | Energy: 215 | Sprint: 1.05
+Aura: naramon
+
+### Abilities
+**Mallet:** Rhythmically beats damage into nearby enemies and draws their fire. Damage inflicted on the Mallet increases its lethality.
+**Resonator:** Launches a rollerball that charms foes to follow it. Combines with the Mallet to create a roving ball of sonic destruction.
+**Metronome:** Grants buffs to those who consistently perform actions in time to Octavia's music. Timed jumps offer the Vivace speed buff. Crouching on the beat grants cloaking with the Nocturne buff. Firing rhythmically bestows Opera multishot buff. Timed melee swings give the Forte damage buff.
+**Amp:** Draws power from the decibel level of sound in the area and uses it to amplify a damage buff for Octavia and her allies. It also doubles the damage and range of nearby Mallets.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Axi O5 Relic (2.00%); Lith O3 Relic (2.00%); Meso O5 Relic (2.00%) |
+| Chassis | 1 | Axi K8 Relic (11.00%); Axi S11 Relic (11.00%); Lith K7 Relic (11.00%); Meso N15 Relic (11.00%); Meso S11 Relic (11.00%); Neo A5 Relic (11.00%); Neo Z7 Relic (11.00%) |
+| Neuroptics | 1 | Axi K6 Relic (25.33%); Axi P5 Relic (25.33%); Lith G3 Relic (25.33%); Lith G4 Relic (25.33%); Lith G5 Relic (25.33%); Meso B6 Relic (25.33%); Neo S15 Relic (25.33%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Axi N7 Relic (25.33%); Lith C9 Relic (25.33%); Lith N7 Relic (25.33%); Lith R2 Relic (25.33%); Meso D6 Relic (25.33%); Meso G4 Relic (25.33%); Meso H3 Relic (25.33%); Neo T8 Relic (25.33%) |
+
+### Patch History (80 entries)
+- **Lua’s Prey: Baruuk Prime: Hotfix 32.2.5** (2022-12-14T19:00:16Z): Octavia Prime Replaced Perrin Sequence Rank 5 sacrifice of Octavia Prime Chassis to Gara Prime Neuroptics.
+- **Veilbreaker: Hotfix 32.0.3** (2022-09-14T17:58:41Z): Archons now prioritize players instead of summons (eg: Octavia's roller, Titania's Razorflies, Atlas Rumblers, etc) to prevent too egregious aggro CC.
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): Octavia Mandachoralyst Skin & Helmet by kakarrot2812
+- ...and 77 more patches
+
+## Oraxia
+Sinister grace interwoven with lethal versatility; the evolution of a perfect predator. Fear's name is Oraxia.
+
+### Wiki
+Sinister grace interwoven with lethal versatility; the evolution of a perfect predator. Fear's name is Oraxia.
+Release Date: June 25th, 2025
+Weave silken threads upon the fabled ancient isle, for into her newfound lair, dare naive trespassers venture. Slinging silently between cobwebbed walls, a prowling broodmother hunts with her famished spiderlings. Sealed are the fates of wary prey, destined for coffins of woven cocoons. Savor the flavors of the widow's venomous kiss, as none survives to spin anew a cautionary tale, to beware the Lady of Webs, Oraxia. Oraxia wove a new story in Update 39: Isleweaver.
+Oraxia is a spider Warframe with lethal Toxin abilities and stealth. Her Passive renders her Invisible on Wall Latch. Mercy's Kiss lunges at enemies and instantly kills them when their health is below a certain threshold, spawning Health and Energy Orbs. Webbed Embrace snares enemies and applies Damage Vulnerability, while Widow's Brood embeds darts onto enemies that upon their death spawns friendly Scuttlers. Silken Stride unfurls Oraxia's spider legs to go on the prowl as she gains immunity to Status Effects, increased Health, imbues her primary and secondary weapons with Toxin damage while causing enemies hit by her laced weapons to explode upon death, and gains an altered roll that launches silk to pull her toward a direction.
+**Acquisition:**
+Oraxia's main and component blueprints can be obtained from Isleweaver in Duviri. Access requires completion of The Hex Quest.
+Alternatively, Oraxia's blueprints can be purchased from 30x30pxAcrithis (or Dominus Thrax during Operation: Eight Claw) in the Dormizone, using Scuttler Husk awarded from Isleweaver. Each component blueprint requires 20 Scuttler Husk and the main blueprint requires 60 Scuttler Husk, totaling 120 Scuttler Husk for the complete set.
+Crafting
+Health: 575 | Shield: 125 | Armor: 125 | Energy: 150 | Sprint: 1
+Aura: madurai
+
+### Abilities
+**Mercy's Kiss:** Leap onto an enemy and pierce them with Oraxia’s spider legs, dealing Toxin Damage. Enemies defeated by this attack have a chance to drop Health or Energy Orbs.
+**Webbed Embrace:** Oraxia throws a creeping web to ensnare her prey. Enemies caught within the widening radius are trapped inside a cocoon that increases their Damage Vulnerability.
+**Widow's Brood:** Oraxia launches a barrage of stinging darts in front of her that applies Toxin Status Effect. Poisoned enemies spawn Scuttlers when killed.
+**Silken Stride:** Unfurl Oraxia's spider legs and go on the prowl. Oraxia is immune to Status Effects and has increased Maximum Health. Ranged Weapons are imbued with Toxin Damage. Killing enemies causes them to burst with Toxin.
+Silken Thread: Tap Dodge to leap to a targeted surface.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Duviri Murmur Invasion Rewards (Steel Path), Rotation A (7.69%); Duviri Murmur Invasion Rewards, Rotation A (7.69%) |
+| Chassis | 1 | Duviri Murmur Invasion Rewards (Steel Path), Rotation A (7.69%); Duviri Murmur Invasion Rewards, Rotation A (7.69%) |
+| Neuroptics | 1 | Duviri Murmur Invasion Rewards (Steel Path), Rotation A (7.69%); Duviri Murmur Invasion Rewards, Rotation A (7.69%) |
+| Orokin Cell | 3 | — |
+| Systems | 1 | Duviri Murmur Invasion Rewards (Steel Path), Rotation A (7.69%); Duviri Murmur Invasion Rewards, Rotation A (7.69%) |
+
+## Protea
+Protea knows all about protection. Her vast arsenal inflicts damage and provides ally support. She can even manipulate time itself.
+
+### Wiki
+Protea knows all about protection. Her vast arsenal inflicts damage and provides ally support. She can even manipulate time itself.
+Lotus
+Release Date: June 11, 2020
+Echoing rebirth to blossom anew, the chrono-gadgeteer Protea devises her stratagems through borrowed time. Flourish and seed the perimeter with lacerating shrapnel, or reinforce shield defenses to weather the onslaught. Assault and skirmish with plasma blasts, rapidly incinerating foes under laser focus. Endure through attrition by dispensing vital supplies, whilst drawing strength from her past to secure the future. Protea returned in Update 28: The Deadlock Protocol.
+Protea is a gadgeteer Warframe with supportive abilities that can also manipulate time. Her Passive grants increased Ability Strength to her 4th ability cast. Grenade Fan creates either shrapnel vortexes that slices enemies or satellites that recover Shields and enhance Shield Gate. Blaze Artillery summons a stationary turret that provides Heat firing support and grows in strength as it fires. Dispensary deploys a device that warps in Empowered Health Orbs, Universal Ammo Pack, and Energy Orbs. Temporal Anchor snapshots herself to deploy an anchor that stores damage dealt; upon expiration, Protea creates an implosion from the stored damage as she becomes Invulnerable and rewinds time to when the anchor was created.
+Protea's main blueprint is rewarded upon completion of The Deadlock Protocol quest. Additional main blueprints can be bought from Cephalon Simaris for 50,000 Standing. Component blueprints can be acquired from within the Granum Void, a special location only accessible from the Corpus Ship tileset. Neuroptics blueprints come from Rotation C of the basic Granum Void (Granum Crown), Chassis blueprints from Rotation C of Extended (Exemplar Granum Crown) Granum Void, and the System blueprints from Rotation C of the Nightmare (Zenith Granum Crown) Granum Void.
+Crafting
+Lore
+Health: 270 | Shield: 455 | Armor: 135 | Energy: 175 | Sprint: 1.2
+Aura: aura
+
+### Abilities
+**Grenade Fan:** Throw out grenades in an arc.
+(TAP) SHRAPNEL VORTEX
+Creates a slashing, staggering swirl of shrapnel.
+(HOLD) SHIELD SATELLITES
+Protea reconfigures Grenades to work as overcharging shield generators, protecting her, her allies and companions. When Shields break, a Satellite is destroyed to double minimum Shield Gate invincibility time.
+**Blaze Artillery:** Deploys an artillery unit to blast plasma charges at enemies it faces. Each enemy hit increases the power of subsequent plasma attacks.
+**Dispensary:** Deploys a device that generates 3 pickups after a short delay: empowered health orb, universal ammo pack and energy orb.
+**Temporal Anchor:** Drops a Temporal Anchor which, after a short duration, Protea rewinds to trigger a temporal implosion. Implosion damage increases based on damage dealt between anchor drop and rewind. Everything lost or expended in that time is returned.
+Dying while Anchor is active rewinds Protea to the anchor, saving her. Protea is knocked down and the anchor vanishes.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Cephalon Simaris, Complete The Deadlock Protocol (100.00%) |
+| Chassis | 1 | Extended Granum Void, Rotation C (11.11%) |
+| Neuroptics | 1 | Granum Void, Rotation C (11.11%) |
+| Orokin Cell | 3 | — |
+| Systems | 1 | Nightmare Granum Void, Rotation C (11.11%) |
+
+### Patch History (37 entries)
+- **Lua’s Prey: Baruuk Prime: Hotfix 32.2.6** (2022-12-14T22:31:43Z): Fixed script error with Protea’s abilities.
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): The empowered Health Orbs generated by Protea’s Dispensary remain the same (100 Health per Orb).
+- **Echoes of Veilbreaker: Update 32.1** (2022-11-02T15:00:14Z): Fixed loss of function after Melee slamming just as Temporal Anchor expires and beginning rewinding Protea. As reported here:
+- ...and 34 more patches
+
+## Protea Prime
+Behold the child of two fathers. Protea Prime once fulfilled Parvos Granum's vision of a time-wielding guardian. Now she upholds the Tenno ideal of defending the defenseless.
+
+### Wiki
+Behold the child of two fathers. Protea Prime once fulfilled Parvos Granum's vision of a time-wielding guardian. Now she upholds the Tenno ideal of defending the defenseless.
+Ballas and Parvos Granum
+Release Date: May 1, 2024
+Protea Prime is the Primed variant of Protea, sporting increased Armor and Energy as well as an additional Naramon polarity. Protea Prime was released alongside Velox Prime and Okina Prime.
+Crafting
+**Notes:**
+Protea Prime, compared to Protea:
+Higher Armor (185 vs. 135)
+Higher Energy (200/250 vs. 175/225)
+Additional Naramon polarity (MaduraiNaramonNaramon vs. MaduraiNaramon)
+When Protea Prime wields her signature Velox/Velox Prime, the weapon's passive Ammo Efficiency is increased to 40%.
+DeathOrbEnergy
+**Trivia:**
+Protea Prime's release trailer is the first and currently only one to have someone other than Ballas as a Prime trailer narrator, that being Parvos Granum.
+Protea Prime is the hundredth Warframe introduced into the game (when considering non-unique Warframes, such as Prime Warframes and Excalibur Umbra).
+t0ONmP3TGZ4
+Health: 270 | Shield: 455 | Armor: 185 | Energy: 200 | Sprint: 1.2
+Aura: aura
+
+### Abilities
+**Grenade Fan:** Throw out grenades in an arc.
+(TAP) SHRAPNEL VORTEX
+Creates a slashing, staggering swirl of shrapnel.
+(HOLD) SHIELD SATELLITES
+Protea reconfigures Grenades to work as overcharging shield generators, protecting her, her allies and companions. When Shields break, a Satellite is destroyed to double minimum Shield Gate invincibility time.
+**Blaze Artillery:** Deploys an artillery unit to blast plasma charges at enemies it faces. Each enemy hit increases the power of subsequent plasma attacks.
+**Dispensary:** Deploys a device that generates 3 pickups after a short delay: empowered health orb, universal ammo pack and energy orb.
+**Temporal Anchor:** Drops a Temporal Anchor which, after a short duration, Protea rewinds to trigger a temporal implosion. Implosion damage increases based on damage dealt between anchor drop and rewind. Everything lost or expended in that time is returned.
+Dying while Anchor is active rewinds Protea to the anchor, saving her. Protea is knocked down and the anchor vanishes.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Axi N13 Relic (25.33%); Axi V13 Relic (25.33%); Lith W4 Relic (25.33%); Meso K7 Relic (25.33%); Meso V10 Relic (25.33%); Meso V14 Relic (25.33%); Meso W4 Relic (25.33%); Neo C6 Relic (25.33%); Vanguard C1 Relic (25.33%) |
+| Chassis | 1 | Axi P7 Relic (2.00%); Axi P8 Relic (2.00%); Meso P17 Relic (2.00%); Neo P7 Relic (2.00%); Vanguard M1 Relic (11.00%) |
+| Neuroptics | 1 | Axi S16 Relic (11.00%); Axi T12 Relic (11.00%); Lith D7 Relic (11.00%); Lith O4 Relic (11.00%); Meso T8 Relic (11.00%); Neo D9 Relic (11.00%); Neo P6 Relic (11.00%); Vanguard E1 Relic (25.33%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Axi P9 Relic (2.00%); Lith P9 Relic (2.00%); Meso P15 Relic (2.00%); Meso P16 Relic (2.00%); Neo P9 Relic (2.00%); Vanguard P1 Relic (2.00%) |
+
+## Qorvex
+Albrecht Entrati designed Qorvex to protect a Chosen Operator from the unique hazards of his lab. A Crucible Core gives Qorvex high survivability as he provides crowd control.
+
+### Wiki
+Albrecht Entrati designed Qorvex to protect a Chosen Operator from the unique hazards of his lab. A Crucible Core gives Qorvex high survivability as he provides crowd control.
+Release Date: December 13th, 2023
+Crucible reactor overload, containment breach imminent. Erect industrial pylons of radioactive blight to cement our Tenno presence in the nuclear warzone, then eradicate all hostile forces entrenched by collapsed concrete. Disintegrate the irradiated lifeforms via concentrated emission from the Brutalist Golem, Qorvex. Perfect this unstable machine of Master Entrati's design, in defense against unspeakable eldritch horrors festering from his labyrinthine laboratories below... Qorvex was reconstructed in Update 35: Whispers in the Walls.
+Qorvex is a radioactive Warframe with immense armor and debuffs enemies with Radiation. His Passive grants increased Punch Through, Chyrinka Pillar summons a pillar that pulses Radiation, and Containment Wall constructs a pair of walls in a line that are slammed together to group enemies and debuff them with Damage Vulnerability. Disometric Guard summons a ring of concrete plates that negate Status Effects and can recover plates on killing enemies with Radiation status. Crucible Blast has Qorvex hunker down while releasing a deadly Radiation beam from his chest while causing enemies with Radiation status to explode.
+Qorvex's main blueprint is acquired upon completion of Whispers in the Walls quest. His component blueprints are acquired from Sanctum Anatomica Bounties as an uncommon drop.
+Alternatively Qorvex's blueprints can be purchased from Bird 3 of Cavia; component blueprints for 20,000 Standing and requires Rank 2 - Researcher, and the main blueprint for 50,000 Standing and requires Rank 4 - Scholar.
+Crafting
+Health: 600 | Shield: 200 | Armor: 875 | Energy: 150 | Sprint: 0.9
+Aura: vazarin
+
+### Abilities
+**Chyrinka Pillar:** Summon a Chyrinka Pillar that slows enemies. It pulses Radiation Damage with a guaranteed Status Effect.
+**Containment Wall:** Contain the threat. Qorvex summons walls that slam together, damaging all enemies caught between them and inflicting Radiation Status.
+**Disometric Guard:** Guard yourself and nearby allies against Status Effects. Each time Qorvex kills or assists in killing an enemy affected by Radiation Status, the number of Status Effects Disometric Guard can prevent increases.
+**Crucible Blast:** Release a beam from Qorvex's Crucible Core. Each enemy struck suffers Radiation Damage with a guaranteed Status Effect. Enemies affected by Radiation Status explode in a chain reaction.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | Deimos/Albrecht's Laboratories (Level 65 - 70 Entrati Lab Bounty), Rotation C (13.56%) |
+| Echo Voca | 1 | — |
+| Neuroptics | 1 | Deimos/Albrecht's Laboratories (Level 55 - 60 Entrati Lab Bounty), Rotation C (13.04%) |
+| Systems | 1 | Deimos/Albrecht's Laboratories (Level 75 - 80 Entrati Lab Bounty), Rotation C (12.40%) |
+
+## Revenant
+Macabre spectral power has risen. Infused with the essence of the Eidolon, Revenant has strong survivability and deals high damage. Enemies become his thralls.
+
+### Wiki
+Macabre spectral power has risen. Infused with the essence of the Eidolon, Revenant has strong survivability and deals high damage. Enemies become his thralls.
+Lotus
+The Lost One Fragment
+Release Date: August 24th, 2018
+Ravaged by Sentient energy, wreathed with eldritch Eidolon essence, the blighted sovereign Revenant subjugates foes through his affliction. Bestow his sacrificial legion haunted dreams, reap unseen, and spill their lifeblood upon the desolate scorched earth. Revenant was resurrected in Update 23.5.0.
+The Eidolon essences bestows the Revenant Warframe with vampiric powers. His Passive releases a radial Blast upon losing all Shields. Enthrall converts enemies into thralls that fight alongside Revenant; upon their death they release damaging pillars that spawns projectiles to create additional thralls. Mesmer Skin renders him Invulnerable, gaining a number of charges that stuns attackers. Reave transforms him into a wall of energy that leeches enemy Shields and Health. Danse Macabre has him release beams of energy while rotating in the dance of death.
+Revenant's main blueprint is awarded upon completion of the Mask of the Revenant quest, which is unlocked after reaching Rank 2 - Observer with The Quills. Revenant's component blueprints are acquired from Plains of Eidolon Bounties; building at least two different components is required to advance through quest. Additional main blueprints can be bought from Cephalon Simaris for 50,000 Standing.
+Alternatively, upon completion of The Duviri Paradox, Revenant's main and component blueprints can be earned from The Circuit. By selecting him on the rotating week he is available, players can earn him blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Crafting
+Lore
+Nakak
+Health: 270 | Shield: 635 | Armor: 135 | Energy: 140 | Sprint: 1
+Aura: naramon
+
+### Abilities
+**Enthrall:** Convert a target into a zealous thrall. Thralls turn on their allies and enthrall through damage. On death, they disintegrate into a damaging pillar of energy. The thrall horde remains under Revenants spell until this ability runs out.
+**Mesmer Skin:** Become enveloped in Sentient energy, redirecting damage and stunning all those who dare attack. Stunned enemies can be Enthralled at no energy cost.
+**Reave:** Dash through enemies as a wall of sentient energy, leeching shields and health from any encountered, enhanced for thralls.
+**Danse Macabre:** Erupt with a multitude of Eidolon energy beams and sweep a circle of death around Revenant. The beams will modify their Damage Type to target select defenses, while incoming damage is redirected back into the beams. Hold fire to boost Status Effects and Damage, at the cost of increased energy consumption. Thralls killed by this ability leave overshield pickups.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Cephalon Simaris, Complete Mask of the Revenant (100.00%) |
+| Chassis | 1 | Earth/Cetus (Level 15 - 25 Plague Star), Rotation A (10.13%); Earth/Cetus (Level 15 - 25 Plague Star), Rotation A (14.04%); Earth/Cetus (Level 15 - 25 Plague Star), Rotation A (16.11%); Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation A (21.62%); Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation B (21.62%); Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation C (22.22%); Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation C (8.51%); Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation C (8.70%); Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation A (8.79%); Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation B (8.79%); Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation A (8.99%); Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation B (8.99%) |
+| Neuroptics | 1 | Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation A (10.20%); Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation B (10.20%); Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation C (10.20%); Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation A (10.20%); Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation B (10.20%); Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation C (10.20%); Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation A (6.76%); Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation B (6.76%); Earth/Cetus (Level 100 - 100 Cetus Bounty), Rotation C (6.76%); Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation A (6.76%); Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation B (6.76%); Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation C (6.76%) |
+| Orokin Cell | 1 | — |
+| Systems | 1 | Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation B (10.23%); Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation B (10.47%); Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation C (23.19%); Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation A (24.62%); Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation B (26.47%); Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation A (8.84%); Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation A (9.04%); Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation C (9.04%); Earth/Cetus (Level 20 - 40 Cetus Bounty), Rotation C (9.25%) |
+
+### Patch History (54 entries)
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): Fixed the Ki'Teer Cornu Diadem, Zenoriu Earpiece, Zato Earpiece/Oculus, Revenant Mephisto Mask/Diadem, and Respa Prime Mask looking incorrect on Clients.  Fixed script error when a Revenant in the squ
+- **Echoes of Veilbreaker: Update 32.1** (2022-11-02T15:00:14Z): Added “Speed” stat in UI for Revenant’s Reave, and Gauss’ Mach Rush, and passive.
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Revenant: Reave
+- ...and 51 more patches
+
+## Revenant Prime
+The lost one rises. Reify the essence of the Eidolon as you wield Revenant Prime’s power.
+
+### Wiki
+The lost one rises. Wield the essence of the Eidolon as you wield Revenant Prime’s power.
+Ballas
+Release Date: October 5th, 2022
+Revenant Prime is the Primed variant of Revenant, possessing increased Energy, Shields, and Sprint Speed, and an additional Naramon polarity. Revenant Prime was released alongside Phantasma Prime and Tatsu Prime.
+Crafting
+**Notes:**
+Revenant Prime, compared to Revenant:
+Higher Shield (825/925 vs. 735/835)
+Higher Energy (175/225 vs. 140/190)
+Higher Starting Energy (100 vs. 50)
+Higher Sprint Speed (1.1 vs. 1.0)
+Additional Naramon Polarity (NaramonMaduraiVazarin vs. MaduraiVazarin)
+If Revenant Prime wields his Signature Weapons:
+Phantasma/Phantasma Prime: Magazine size is increased by 4 rounds, for a total of 15 rounds.
+Tatsu/Tatsu Prime: Projectile charge cap is increased by 4, to a maximum of 9 charges.
+DeathOrbEnergy
+Revenant Prime is tied with Styanax for the third highest base shields out of all Warframes (825 unranked and 925 at rank 30), behind Hildryn and Hildryn Prime.
+3HD6rfvMOgk
+Health: 270 | Shield: 825 | Armor: 135 | Energy: 175 | Sprint: 1.1
+Aura: naramon
+
+### Abilities
+**Enthrall:** Convert a target into a zealous thrall. Thralls turn on their allies and enthrall through damage. On death, they disintegrate into a damaging pillar of energy. The thrall horde remains under Revenants spell until this ability runs out.
+**Mesmer Skin:** Become enveloped in Sentient energy, redirecting damage and stunning all those who dare attack. Stunned enemies can be Enthralled at no energy cost.
+**Reave:** Dash through enemies as a wall of sentient energy, leeching shields and health from any encountered, enhanced for thralls.
+**Danse Macabre:** Erupt with a multitude of Eidolon energy beams and sweep a circle of death around Revenant. The beams will modify their Damage Type to target select defenses, while incoming damage is redirected back into the beams. Hold fire to boost Status Effects and Damage, at the cost of increased energy consumption. Thralls killed by this ability leave overshield pickups.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Lith R2 Relic (2.00%); Lith R3 Relic (2.00%); Lith R4 Relic (2.00%); Lith R5 Relic (2.00%); Meso R5 Relic (2.00%); Meso R6 Relic (2.00%) |
+| Chassis | 1 | Axi C9 Relic (25.33%); Axi F2 Relic (25.33%); Axi G12 Relic (25.33%); Meso H6 Relic (25.33%); Meso N13 Relic (25.33%); Neo A11 Relic (25.33%); Neo K5 Relic (25.33%); Neo N23 Relic (25.33%); Neo S17 Relic (25.33%) |
+| Neuroptics | 1 | Axi D5 Relic (11.00%); Lith S14 Relic (11.00%); Lith T13 Relic (11.00%); Neo A12 Relic (11.00%); Neo Z10 Relic (11.00%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Axi A16 Relic (11.00%); Axi B8 Relic (11.00%); Meso C9 Relic (11.00%); Meso H5 Relic (11.00%); Meso K5 Relic (11.00%); Meso P9 Relic (11.00%); Neo P8 Relic (11.00%) |
+
+### Patch History (54 entries)
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): Fixed the Ki'Teer Cornu Diadem, Zenoriu Earpiece, Zato Earpiece/Oculus, Revenant Mephisto Mask/Diadem, and Respa Prime Mask looking incorrect on Clients.  Fixed script error when a Revenant in the squ
+- **Echoes of Veilbreaker: Update 32.1** (2022-11-02T15:00:14Z): Added “Speed” stat in UI for Revenant’s Reave, and Gauss’ Mach Rush, and passive.
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Revenant: Reave
+- ...and 51 more patches
+
+## Rhino
+Rhino packs a punch. He boasts high survivability and crowd control. The wise would do well to stand clear when he charges.
+
+### Wiki
+Rhino packs a punch. He boasts high survivability and crowd control. The wise would do well to stand clear when he charges.
+Lotus
+Release Date: October 25th, 2012
+Heavily armored with the strength and fortitude of his reckless, stampeding namesake, Rhino trades speed for power and is designed to fill the tank role in a cell, with the capability to charge into the fray, draw enemy fire, and bend the battlefield to his will through sheer brute force.
+Rhino is a brute of a Warframe with survival and crowd control. His Passive releases a shockwave on Hard Landings. Rhino Charge charges forward with aggression. Iron Skin hardens his armor into Overguard. Roar releases a shout that enhances ally weapon damage. Rhino Stomp stomps the ground with force, forcibly tumbling enemies while Slow them down.
+Rhino's main blueprint can be purchased from the Market. Rhino's component blueprints are obtained from defeating Jackal on Fossa, Venus.
+Alternatively, upon completion of The Duviri Paradox, Rhino's main and component blueprints can be earned from The Circuit. By selecting him on the rotating week he is available, players can earn all his blueprints after reaching Tier 10 rewards.
+Crafting
+**Notes:**
+Rhino possesses an Appearance Auxiliary Attachment called Iron Skin Override, which overrides the appearance of his Iron Skin from the Rhino Deathwatch Skin, Rhino Palatine Skin, Rhino Prime Skin, and Rhino Heirloom Skin.
+The Invisible Iron Skin Override will remove Iron Skin's appearance.
+The Deathwatch Override is available by default. The other overrides require owning their respective cosmetics.
+Health: 270 | Shield: 455 | Armor: 240 | Energy: 100 | Sprint: 0.95
+Aura: madurai
+
+### Abilities
+**Rhino Charge:** Rhino charges towards a target, clobbering any in his path and goring his victim.
+**Iron Skin:** Rhino hardens his skin, insulating himself from all damage and gaining Overguard.
+**Roar:** Grants all nearby Warframes increased damage for a short duration.
+**Rhino Stomp:** Rhino stomps with force sufficient to disrupt time, tumbling enemies around him in stasis.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | Venus/Fossa (Assassination) (38.72%) |
+| Neurodes | 1 | — |
+| Neuroptics | 1 | Venus/Fossa (Assassination) (38.72%) |
+| Systems | 1 | Venus/Fossa (Assassination) (22.56%) |
+
+### Patch History (140 entries)
+- **Echoes of Veilbreaker: Hotfix 32.1.2** (2022-11-04T20:55:10Z): Adjusted more offsets for the Shard Bane Ephemera on Nidus, Gendel, Chroma, Lavos, Frost, Hildryn, Atlas, Rhino, Ash, and Vauban.
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): In Update 31.2, we buffed a number of underused Warframe augments. The time has come to continue this work! This batch tackles Warframes from Loki to Rhino (of which there are surprisingly many!). We
+- **Echoes of the Zariman: Update 31.6** (2022-06-09T14:49:52Z): Fixed Rhino’s Iron Skin VFX not applying properly to all (except the Palatine) Rhino Skins.   Fixed motion blur issues on Rhino’s Iron Skin.
+- ...and 137 more patches
+
+## Rhino Prime
+Takes Rhino's ground-shaking abilities to the next level with altered mod polarities that offer greater customization.
+
+### Wiki
+Rhino Prime
+In-game Description
+Release Date: March 5th, 2014
+Rhino Prime is the Primed variant of Rhino, possessing higher armor and sprint speed, as well as an additional Naramon polarity. Rhino Prime was released alongside Boltor Prime and Ankyros Prime.
+Vaultings
+On February 9th, 2016, it was announced that Rhino Prime, alongside Boltor Prime and Ankyros Prime, would enter the Prime Vault and be retired from the reward tables on February 16th, 2016. Any preexisting components or fully-built frames will remain as is.
+Rhino Prime, alongside Boar Prime, Ankyros Prime, Mag Prime, Boar Prime, and Dakra Prime, was again accessible from June 27th, 2017 to August 1st, 2017.
+Rhino Prime alongside Nyx Prime, Boltor Prime, Ankyros Prime, Nyx Prime, Hikou Prime, and Scindo Prime, was again accessible from July 24th, 2018 to September 25th, 2018.
+Rhino Prime resurfaced again together with the same line-up from July 16th, 2019 to September 3rd, 2019.
+Rhino Prime resurfaced again together with the same line-up from August 12th, 2021 to November 16th, 2021 and January 11th, 2022 to February 15th, 2022 (gap was due to Prime Resurgence).
+Rhino Prime resurfaced again together with Mag Prime on April 3rd, 2023.
+Rhino Prime resurfaced again together with Nyx Prime on August 3rd, 2023.
+Rhino Prime resurfaced again together with Ember Prime on July 20, 2024.
+Crafting
+**Notes:**
+Rhino Prime, compared to Rhino:
+Higher Armor (290 vs. 240)
+Higher Sprint Speed (1.0 vs. 0.95)
+Additional Naramon Polarity (VazarinVazarinNaramon vs. VazarinVazarin)
+DeathOrbEnergy
+Health: 270 | Shield: 455 | Armor: 290 | Energy: 100 | Sprint: 1
+Aura: madurai
+
+### Abilities
+**Rhino Charge:** Rhino charges towards a target, clobbering any in his path and goring his victim.
+**Iron Skin:** Rhino hardens his skin, insulating himself from all damage and gaining Overguard.
+**Roar:** Grants all nearby Warframes increased damage for a short duration.
+**Rhino Stomp:** Rhino stomps with force sufficient to disrupt time, tumbling enemies around him in stasis.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Axi R1 Relic (2.00%); Axi R4 Relic (2.00%); Neo R1 Relic (2.00%) |
+| Chassis | 1 | Lith E1 Relic (11.00%); Meso M1 Relic (11.00%); Meso N6 Relic (11.00%) |
+| Neuroptics | 1 | Lith B1 Relic (11.00%); Lith B4 Relic (11.00%); Meso S14 Relic (11.00%) |
+| Orokin Cell | 3 | — |
+| Systems | 1 | Axi S3 Relic (25.33%); Neo B3 Relic (25.33%); Neo G6 Relic (25.33%) |
+
+### Patch History (140 entries)
+- **Echoes of Veilbreaker: Hotfix 32.1.2** (2022-11-04T20:55:10Z): Adjusted more offsets for the Shard Bane Ephemera on Nidus, Gendel, Chroma, Lavos, Frost, Hildryn, Atlas, Rhino, Ash, and Vauban.
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): In Update 31.2, we buffed a number of underused Warframe augments. The time has come to continue this work! This batch tackles Warframes from Loki to Rhino (of which there are surprisingly many!). We
+- **Echoes of the Zariman: Update 31.6** (2022-06-09T14:49:52Z): Fixed Rhino’s Iron Skin VFX not applying properly to all (except the Palatine) Rhino Skins.   Fixed motion blur issues on Rhino’s Iron Skin.
+- ...and 137 more patches
+
+## Saryn
+Toxicity is Saryn’s strength. Her serpentine powers deal heavy damage. For Saryn, venom is a virtue.
+
+### Wiki
+Toxicity is Saryn's strength. Her serpentine powers deal heavy damage. For Saryn, venom is a virtue.
+Lotus
+Release Date: March 18th, 2013
+Unleashing an endless epidemic of contagious spores, the Mother of Malady Saryn eradicates her foes through horrific decay. Erupt caustic pustules to spread her disease, shed deceptive husks to draw enemy fire, as she injects lethal venom and exhales deadly viruses to cleanse the System with her toxic touch. Saryn blossomed in Update 7.
+Saryn is a disease-creating Warframe that deals lethal damage to her surroundings. Her Passive provides increased Status Duration. Spores infects a target with Corrosive spores that spread to other enemies when burst by striking them or upon the initial target's death. Molt sheds her skin to cleanse Status Effects and grants Movement Speed while leaving behind a decoy. Toxic Lash laces weapons with Toxin, strengthened for melee weapons, which can burst Spores on striking afflicted targets. Miasma releases a sickening wave of Viral that further propagates spores.
+Saryn's main blueprint can be purchased from the Market. Saryn's component blueprints are obtained from defeating Kela De Thaym on Merrow, Sedna.
+Alternatively, upon completion of The Duviri Paradox, Saryn's main and component blueprints can be earned from The Circuit. By selecting her on the rotating week she is available, players can earn her blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Crafting
+Health: 365 | Shield: 270 | Armor: 240 | Energy: 175 | Sprint: 0.95
+Aura: vazarin
+
+### Abilities
+**Spores:** Inflict a target with a pox of Corrosive spores. Spread spores to nearby enemies by destroying them or killing their host. The longer the Spore spreads, its damage will increase.
+**Molt:** Shedding her skin like a snake, Saryn leaves a decoy behind to draw fire from enemies.
+**Toxic Lash:** While active, attacks deal additional Toxin Damage; this effect is doubled for Melee Strikes. Instantly burst spores when attacking afflicted enemies.
+**Miasma:** Release a poisonous miasma that deals Viral Damage to enemies in range. Foes afflicted by spores are more susceptible to the mist.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | Sedna/Merrow (Assassination) (38.72%) |
+| Neuroptics | 1 | Sedna/Merrow (Assassination) (38.72%) |
+| Orokin Cell | 1 | — |
+| Systems | 1 | Sedna/Merrow (Assassination) (22.56%) |
+
+### Patch History (121 entries)
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): Fixed Electricity Status Effects reproc-ing themselves repeatedly, especially if proc duration was longer (notably with Saryn's passive).  The Exodia Force Arcane will no longer trigger Saryn’s Toxic
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Saryn’s Molt with Regenerative Molt Augment
+- **Nora’s Mix Vol.2: Hotfix 31.6.4** (2022-07-14T15:00:33Z): Swapped the Saryn Junction Specter sniper rifle for a different rifle type that has been balanced for AI.
+- ...and 118 more patches
+
+## Saryn Prime
+A golden blossom conceals deadly nectar. Featuring altered mod polarities for greater customization.
+
+### Wiki
+Saryn
+Ballas
+Release Date: February 16th, 2016
+Saryn Prime is the Primed variant of Saryn, possessing higher armor, energy capacity, and sprint speed, as well as an additional Madurai polarity. Saryn Prime was released alongside Spira Prime and Nikana Prime.
+Vaultings
+On December 6th, 2017, it was announced that Saryn Prime, alongside Spira Prime and Nikana Prime, would enter the Prime Vault and its relics retired from the drop tables on December 12th, 2017. Any preexisting components or fully-built frames will remain as is.
+Saryn Prime, alongside Spira Prime, Nikana Prime, Valkyr Prime, Cernos Prime and Venka Prime, was again accessible from September 3rd, 2019 to November 19th, 2019.
+Saryn Prime was available from Prime Resurgence which ran from November 16, 2021 to January 25, 2022.
+Saryn Prime, alongside Spira Prime, Nikana Prime, Valkyr Prime, Cernos Prime and Venka Prime was again available from Prime Resurgence again on November 04, 2022 until December 01, 2022.
+Crafting
+**Notes:**
+Saryn Prime, compared to Saryn:
+Higher Armor (315 vs. 240)
+Higher Energy (200/300 vs. 175/225)
+Higher Starting Energy (100 vs. 50)
+Higher Sprint Speed (1.0 vs 0.95)
+Additional Madurai Polarity (NaramonVazarinMadurai vs. NaramonVazarin)
+DeathOrbEnergy
+Saryn Prime, along with Volt Prime, Chroma Prime, Ivara Prime, Baruuk (Baruuk Prime), Wisp (Wisp Prime), and Yareli, possesses the third highest max-rank energy pool of all Warframes at 300 at rank 30, behind Yareli Prime's 315 and Garuda Prime's 320.
+This can be increased to 600 with a maxed Flow, 850 with Primed Flow, and 880 with Primed Flow and Endurance Drift.
+Health: 365 | Shield: 270 | Armor: 315 | Energy: 200 | Sprint: 1
+Aura: vazarin
+
+### Abilities
+**Spores:** Inflict a target with a pox of Corrosive spores. Spread spores to nearby enemies by destroying them or killing their host. The longer the Spore spreads, its damage will increase.
+**Molt:** Shedding her skin like a snake, Saryn leaves a decoy behind to draw fire from enemies.
+**Toxic Lash:** While active, attacks deal additional Toxin Damage; this effect is doubled for Melee Strikes. Instantly burst spores when attacking afflicted enemies.
+**Miasma:** Release a poisonous miasma that deals Viral Damage to enemies in range. Foes afflicted by spores are more susceptible to the mist.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Lith S4 Relic (2.00%); Meso S4 Relic (2.00%); Neo S1 Relic (2.00%); Axi N12 Relic (11.00%); Axi N6 Relic (11.00%); Lith V6 Relic (11.00%); Meso C3 Relic (11.00%) |
+| Chassis | 1 | Lith S17 Relic (2.00%); Meso S2 Relic (2.00%); Neo S10 Relic (2.00%); Neo S13 Relic (2.00%); Neo S2 Relic (2.00%) |
+| Neuroptics | 1 | Lith A1 Relic (11.00%); Meso S5 Relic (11.00%); Meso S9 Relic (11.00%); Neo S19 Relic (11.00%); Neo V4 Relic (11.00%); Axi V9 Relic (25.33%); Lith C5 Relic (25.33%) |
+| Orokin Cell | 1 | — |
+| Systems | 1 | Axi G1 Relic (25.33%); Axi S5 Relic (25.33%); Axi T1 Relic (25.33%); Lith H1 Relic (25.33%); Meso C1 Relic (25.33%); Meso F1 Relic (25.33%); Meso M5 Relic (25.33%); Meso N4 Relic (25.33%); Neo N5 Relic (25.33%); Neo S10 Relic (25.33%); Neo S13 Relic (25.33%) |
+
+### Patch History (121 entries)
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): Fixed Electricity Status Effects reproc-ing themselves repeatedly, especially if proc duration was longer (notably with Saryn's passive).  The Exodia Force Arcane will no longer trigger Saryn’s Toxic
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Saryn’s Molt with Regenerative Molt Augment
+- **Nora’s Mix Vol.2: Hotfix 31.6.4** (2022-07-14T15:00:33Z): Swapped the Saryn Junction Specter sniper rifle for a different rifle type that has been balanced for AI.
+- ...and 118 more patches
+
+## Sevagoth
+No longer adrift in the Void, Sevagoth has returned. He and his Shadow deal heavy damage and have high survivability. They are sustained by the reaping of wayward souls.
+
+### Wiki
+No longer adrift in the Void, Sevagoth has returned. He and his Shadow deal heavy damage and have high survivability. They are sustained by the reaping of wayward souls.
+Sevagoth's roving spirit, formed from concentrated Void energy.
+Lotus
+Release Date: April 13th, 2021
+Lost in voyage adrift the Vast Untime, the dark helmsman Sevagoth harnesses inexorable mortality amidst the treacherous tempests of the Void. Return eternally from beyond the grave, as his Shadow eclipses the light, while harvesting wicked souls to sate his esurient darkness. Sevagoth was rediscovered in Update 30.0.
+Sevagoth is a phantom Warframe that commands his own shadow for damage and survival. His Passive has him retreat into a tombstone upon death, emerging as his shadow to reap the souls of the living to revive himself. Reap has his shadow fly outward to harass enemies with Damage Vulnerability. Sow plants seeds of death that deal damage over time, which explode when hit by Reap. Gloom summons a wave of darkness that inflicts Slow while providing Life Steal.
+All of Sevagoth's abilities build the Death Well to prepare Exalted Shadow, granting control to Sevagoth's Shadow which is armed with its own abilities and the Shadow Claws, while control to Sevagoth is returned upon Reunite or the Shadow's death. Embrace pulls enemies toward the Shadow while inflicting Lifted. Consume has the Shadow dash forward, providing lifesteal when striking enemies. Death's Harvest releases a harrowing wail to apply Damage Vulnerability.
+Sevagoth's main blueprint is acquired after completing the Call of the Tempestarii quest. His components apart from the main blueprint each have a 10% chance of being awarded as a bonus reward at the end of Void Storm missions exclusively in Neptune Proxima (Meso and Neo fissures), Pluto Proxima (Neo fissures), or Veil Proxima (Axi fissures).
+Note that these bonus rewards are exclusive to Void Storm missions and are separate from Void Relic rewards.
+Health: 270 | Shield: 235 | Armor: 160 | Energy: 140 | Sprint: 0.95
+
+### Abilities
+**Reap:** Sevagoth's Shadow flies outward ravaging enemies in his path. Survivors are damaged by Death’s Harvest over time. The souls of the dead fill the Death Well.
+**Sow:** Plant a death seed in nearby targets to drain their lifeforce. Reap what has been sown to detonate afflicted enemies, dealing a percentage of their health as radial damage. The souls of the dead fill the Death Well.
+**Gloom:** Summon a radial pulse wave that ensnares and slows enemies, siphoning their lifeforce for the Death Well. Allies within the wave steal health with each attack.
+**Exalted Shadow:** When the Death Well fills, Sevagoth's Shadow form is ready to be released. Tear the enemy asunder with a collection of melee-focused abilities.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Cephalon Simaris, Complete Call of the Tempestarii (100.00%) |
+| Chassis | 1 | Void Storm (Pluto) (10.00%); Void Storm (Veil Proxima) (10.00%); Void Storm (Neptune) (9.52%) |
+| Neuroptics | 1 | Void Storm (Pluto) (10.00%); Void Storm (Veil Proxima) (10.00%); Void Storm (Neptune) (9.52%) |
+| Orokin Cell | 3 | — |
+| Systems | 1 | Void Storm (Pluto) (10.00%); Void Storm (Veil Proxima) (10.00%); Void Storm (Neptune) (9.52%) |
+
+### Patch History (27 entries)
+- **Veilbreaker: Revenant Prime: Hotfix 32.0.9** (2022-10-05T17:59:06Z): Fixed Clients experiencing loss of function after dying while using Sevagoth’s Exalted Shadow.
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Sevagoth’s Reunite
+- **Veilbreaker: Hotfix 32.0.5** (2022-09-15T21:37:42Z): Fixed Sevagoth various healing abilities and Venari’s heal not activating Archon Intensify.
+- ...and 24 more patches
+
+## Sevagoth Prime
+The gilded helmsman emerges from the tempest, his shadow a lure for doomed souls.
+
+### Wiki
+The gilded helmsman emerges from the tempest, his shadow a lure for doomed souls.
+When the Tempestarii became a void phantom, Sevagoth set aside his body and became a Shadow, to continue his solemn duty of saving lives.
+Release Date: August 21, 2024
+Sevagoth Prime is the Primed variant of Sevagoth, with increased Shields, Armor, Energy, and an additional Naramon polarity, along with additional Naramon and Vazarin polarities for Sevagoth Prime's Shadow and 3 Madurai for Shadow Claws Prime. Sevagoth Prime was released alongside Epitaph Prime and Nautilus Prime in Update 36.1 (2024-08-21).
+Crafting
+**Notes:**
+Sevagoth Prime, compared to Sevagoth:
+Higher Shield (270/370 vs. 235/335)
+Higher Armor (185 vs. 160)
+Higher Energy (175/225 vs. 140/190)
+Higher Starting Energy (100 vs. 75)
+Additional Naramon polarity (VazarinNaramonMadurai vs. VazarinMadurai)
+Additional Naramon and Vazarin polarities on Sevagoth Prime's Shadow (NaramonVazarinMaduraiMadurai vs. MaduraiMadurai)
+Additional 3 Madurai polarities on Shadow Claws Prime (MaduraiMaduraiMadurai vs. none)
+DeathOrbEnergy
+When Sevagoth Prime wields his signature Epitaph/Epitaph Prime, the weapon deals +20% headshot damage.
+**Trivia:**
+Sevagoth Prime releasing after Protea Prime breaks the Prime release order and the traditional two male and two female pairing, skipping past Xaku and Lavos, while no other female Prime Warframe was released before or after Protea Prime.
+Health: 270 | Shield: 270 | Armor: 185 | Energy: 175 | Sprint: 0.95
+
+### Abilities
+**Reap:** Sevagoth's Shadow flies outward ravaging enemies in his path. Survivors are damaged by Death’s Harvest over time. The souls of the dead fill the Death Well.
+**Sow:** Plant a death seed in nearby targets to drain their lifeforce. Reap what has been sown to detonate afflicted enemies, dealing a percentage of their health as radial damage. The souls of the dead fill the Death Well.
+**Gloom:** Summon a radial pulse wave that ensnares and slows enemies, siphoning their lifeforce for the Death Well. Allies within the wave steal health with each attack.
+**Exalted Shadow:** When the Death Well fills, Sevagoth's Shadow form is ready to be released. Tear the enemy asunder with a collection of melee-focused abilities.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Axi Y3 Relic (11.00%); Axi Z2 Relic (11.00%); Lith L7 Relic (11.00%); Lith Z4 Relic (11.00%); Meso V12 Relic (11.00%); Neo A13 Relic (11.00%) |
+| Chassis | 1 | Axi S17 Relic (2.00%); Axi S18 Relic (2.00%); Lith S16 Relic (2.00%); Neo S20 Relic (2.00%) |
+| Neuroptics | 1 | Axi G14 Relic (25.33%); Axi Y1 Relic (25.33%); Meso A7 Relic (25.33%); Meso A9 Relic (25.33%); Meso L3 Relic (25.33%); Meso L4 Relic (25.33%); Neo K9 Relic (25.33%); Neo T9 Relic (25.33%) |
+| Orokin Cell | 1 | — |
+| Systems | 1 | Lith A7 Relic (25.33%); Lith C12 Relic (25.33%); Lith C14 Relic (25.33%); Lith D7 Relic (25.33%); Lith E2 Relic (25.33%); Lith M10 Relic (25.33%); Meso G8 Relic (25.33%) |
+
+## Styanax
+Styanax never wonders how many enemies he will face, only where he can find them. The hoplite deals high damage. Enemies tremble before his spear and shield.
+
+### Wiki
+Styanax never wonders how many enemies he will face, only where he can find them. The hoplite deals high damage. Enemies tremble before his spear and shield.
+Release Date: September 7th, 2022
+Embody the valiant pride of ancient champions past, brandishing shield and spear zealously honed by ageless strife. Relive the legendary mythos of Styanax, the indomitable peltast. Impale the enemy upon Axios, his unstoppable javelin thrown with Olympian might. Repel their advance and sunder their defenses, through a swing of his unbreakable shield, Tharros. Bellow true a call to arms and rally war-torn souls, our spirits and power thus renewed. Ascend, steadfast and heroic, to spearhead the wicked's passage onto the River Styx. Styanax and his army marched into Origin in Update 32.
+Styanax is the hoplite Warframe that brandishes his shield and spear to deal damage. His Passive provides Critical Chance while in possession of Shields, which is strengthened for Spearguns. Axios Javelin throws a single javelin that, upon striking an enemy, imaples them to a surface while creating a vortex that pulls in other enemies. Tharros Strike hurls a wall of shields that removes enemy Shields and Armor, while recovering Health. Rally Point creates an uplifting resolve for allies that recovers Energy over time while restoring Shields on kill, but increases his Threat Level. Final Stand rises into the air with an army of spectral warriors as they throw a barrage of javelins.
+**Acquisition:**
+Styanax's main and component blueprints are available from Chipper of Kahl's Garrison with Stock (Kahl) earned from Break Narmer weekly missions, available after completing the Veilbreaker quest. The Systems requires players to be at Rank 2 - Encampment, Neuroptics at Rank 3 - Fort, Chassis at Rank 4 - Settlement, and main blueprint at Rank 5 - Home. Each component blueprint costs 60 Stock, while the main blueprint costs 90, totaling to 270 Stock.
+Health: 270 | Shield: 825 | Armor: 265 | Energy: 175 | Sprint: 1
+Aura: naramon
+
+### Abilities
+**Axios Javelin:** Throw an Axios Javelin. When the javelin impales an enemy against a wall, surrounding enemies are pulled into the area and suffer a burst of damage.
+**Tharros Strike:** Summon Tharros, the shield of Styanax. Swing Tharros to repel enemies and reduce their shields and armor. Styanax regenerates health for every enemy struck.
+**Rally Point:** Draw enemy attention to Styanax. His resolve uplifts him and nearby allies, regenerating the squad's energy over time. Styanax and his allies also regenerate shields for every kill assist they contribute.
+**Final Stand:** Exude might and valor. Rise into the air and throw a barrage of Axios Javelins. The javelins deal damage to nearby enemies wherever they land. Direct hits to enemies deal greater damage.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Kahl's Garrison (Chipper), Home (100.00%) |
+| Chassis | 1 | Kahl's Garrison (Chipper), Settlement (100.00%) |
+| Neuroptics | 1 | Kahl's Garrison (Chipper), Fort (100.00%) |
+| Orokin Cell | 12 | — |
+| Systems | 1 | Kahl's Garrison (Chipper), Encampment (100.00%) |
+
+### Patch History (12 entries)
+- **Lua’s Prey: Baruuk Prime: Hotfix 32.2.6** (2022-12-14T22:31:43Z): Fixed Styanax’s Rally Point not granting Shields on recast while it is already active.
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): Styanax Agogean Helmet Blueprint Styanax Synmora Helmet Blueprint Styanax Gerousic Helmet Blueprint
+- **Echoes of Veilbreaker: Update 32.1** (2022-11-02T15:00:14Z): Show bravery in the service of justice. An esteemed helmet for Styanax. Styanax Gerousic Helmet Glyphs are also now available for purchase via the Glyph selection screen in your settings (Profile > Gl
+- ...and 9 more patches
+
+## Temple
+Blazing with glamor and armed with an Infested guitar, Lizzie, Temple’s power chords light the flames of revolution.
+
+### Wiki
+Blazing with glamor and armed with an Infested guitar, Lizzie. Temple's power chords light the flames of revolution.
+Release Date: March 19, 2025
+Hear them scream aloud 'neath the midnight sun, betwixt stardust glamour and ephemeral flames. Raze the Höllvanian underground for fame and glory, then steal the spotlight from the Techrot menace. Rock whole damned worlds with scorching chords, blasting hellish harmonies ad nauseam... their last concert gone global, shredding duo at center stage: the Devil's Guitar, Temple and Lizzie! Temple brought the stage down in Update 38.5: Techrot Encore.
+Temple, the rockstar Warframe, ignites the flames of revolution with Heat attacks and supportive abilities. Their Passive involves a timed metronome that grants Ability Efficiency and enhanced effects on abilities. Pyrotechnics erupts pillars of Heat. Overdrive blasts enemies with Critical Chance Vulnerability, while Ripper's Wail has Temple rock out briefly to become Invulnerable and recover Health and Shields while buffing them and their allies with Heat weapon damage. Exalted Solo demands their flamethrower Lizzie take the stage.
+**Acquisition:**
+Temple's main and component blueprints can be obtained from the Stage Defense at Solstice Square in Höllvania. Access requires completion of The Hex Quest and Rank 4 - Hot & Fresh with The Hex Syndicate.
+Alternatively, Temple's blueprints can be purchased from Flare of The Hex. They require Rank 4 - Hot & Fresh and are purchased with the Beating Heartstrings awarded from Stage Defense. Each component blueprint requires 65 Resources and the main blueprint requires 195 Resources, totaling 390 Resources Beating Heartstrings for the complete set.
+Crafting
+Lore & History
+View hidden content
+I Figured It Out
+Something's been nagging at me for a while. It started as a little thing, but it just wouldn't go away. How come the Temple Warframe has my name? How come they have a guitar called Lizzie, too?
+Health: 405 | Shield: 225 | Armor: 325 | Energy: 165 | Sprint: 1
+Aura: naramon
+
+### Abilities
+**Pyrotechnics:** Blast targeted enemies with pillars of Heat Damage.
+Backbeat Timing: Ignite even more pillars. Increases the Duration and Heat Damage of Ripper's Wail when it deals damage.
+**Overdrive:** Drive loudspeakers into epic distortion to create a damaging wave of Heat Damage while also increasing vulnerability to Critical Chance.
+Backbeat Timing: Doubles Critical Chance. Increases the Duration and Heat Damage of Ripper’s Wail when it deals damage.
+**Ripper's Wail:** Rip on the guitar to make Temple briefly invulnerable while healing them. Ally’s weapons in Affinity Range are lit-up with extra Heat Damage each time an ability is used on the Backbeat and successfully hits enemies.
+Backbeat Timing: Invulnerability lasts longer.
+**Exalted Solo:** Once a charge has been built up on the Backbeat metronome, set Lizzie aflame and torch enemies with Heat. While aimed, Lizzie blasts enemies with thunderous elemental sound waves, use ability controls to change the Elemental Damage type.
+Backbeat Timing: No Energy consumed.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Höllvania/Solstice Square (Defense), Rotation A (0.97%); Höllvania/Solstice Square (Defense), Rotation B (1.98%); Höllvania/Solstice Square (Defense), Rotation C (4.58%) |
+| Chassis | 1 | Höllvania/Solstice Square (Defense), Rotation A (0.97%); Höllvania/Solstice Square (Defense), Rotation B (1.98%); Höllvania/Solstice Square (Defense), Rotation C (4.58%) |
+| Neuroptics | 1 | Höllvania/Solstice Square (Defense), Rotation A (0.97%); Höllvania/Solstice Square (Defense), Rotation B (1.98%); Höllvania/Solstice Square (Defense), Rotation C (4.58%) |
+| Orokin Cell | 3 | — |
+| Systems | 1 | Höllvania/Solstice Square (Defense), Rotation A (0.97%); Höllvania/Solstice Square (Defense), Rotation B (1.98%); Höllvania/Solstice Square (Defense), Rotation C (4.58%) |
+
+## Titania
+Titania’s fairy-like appearance belies her formidable regal power. The enchantress deals high damage and provides crowd control. She forces opponents to pay homage or perish.
+
+### Wiki
+Titania's fairy-like appearance belies her formidable regal power. The enchantress deals high damage and provides crowd control. She forces opponents to pay homage or perish.
+Lotus
+Release Date: August 19th, 2016
+The diminutive temptress Titania and her entourage of bladed butterflies scatter their dust to disorient, enchant and beckon foes to their doom. She fluttered in on August 19th, 2016 with Update The Silver Grove.
+Titania is a fairy Warframe whose spells inflict damage and crowd control. Her Passive increases her bullet jump and rolling distance, while casting her abilities grant Health restore over time. Spellbind scatters dust over an area which Disarmed and Ragdoll enemies while rendering Titania and her allies immune to Status Effects. Tribute smites an enemy as they leave behind one of four cyclable offerings: Thorns provides Damage Reduction and reflection, Dust reduces enemy Accuracy, Full Moon increases Companion's damage, Health, and Armor, and Entangle applies Slow to nearby enemies. Lantern transforms an enemy into a floating mesmerizing light that charms other enemies to follow it. Razorwing has Titania shrink down, armed with Dex Pixia dual pistols and Diwata heavy sword, and commands Razorflies that pierces enemies with Damage Vulnerability.
+**Acquisition:**
+Titania's main and component blueprints are obtained from The Silver Grove quest. Additional blueprints can be bought from Cephalon Simaris; 25,000 Standing for component blueprints and 50,000 Standing for main blueprint.
+Alternatively, upon completion of The Duviri Paradox, Titania's main and component blueprints can be earned from The Circuit. By selecting her on the rotating week she is available, players can earn her blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Crafting
+Lore
+Silvana
+Health: 270 | Shield: 270 | Armor: 105 | Energy: 175 | Sprint: 1
+Aura: madurai
+
+### Abilities
+**Spellbind:** Enemies fumble their weapons as they are whisked into the air. Nearby allies become immune to Status Effects. Hold the ability to cast the immunity onto Titania.
+**Tribute:** Cycle through and extract one of the four Buffs when cast on an enemy. Thorns reduces incoming damage. Dust degrades enemy accuracy. Full Moon increases companion damage. Entangle slows enemies within range.
+**Lantern:** Create a swarm of razorflies that transform an enemy into an irresistible floating beacon, attracting witless comrades before exploding on command.
+**Razorwing:** Shrink down and take flight, while razorflies attack nearby enemies and amplify the damage they take.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Cephalon Simaris, Complete The Silver Grove (100.00%) |
+| Chassis | 1 | Cephalon Simaris, Complete The Silver Grove (100.00%) |
+| Neuroptics | 1 | Cephalon Simaris, Complete The Silver Grove (100.00%) |
+| Orokin Cell | 3 | — |
+| Systems | 1 | Cephalon Simaris, Complete The Silver Grove (100.00%) |
+
+### Patch History (125 entries)
+- **Lua’s Prey: Baruuk Prime: Hotfix 32.2.7** (2022-12-15T19:50:01Z): Fixed Titania’s Tribute not transforming enemies into beacons and applying buffs. As reported here:
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): Was: Hitting at least 4 enemies with Spellbind will grant Titania 50 Energy.  The 100% damage bonus now applies to all weapons (including Titania’s Dex Pixia and Diwata) and scales with Ability Streng
+- **Echoes of Veilbreaker: Update 32.1** (2022-11-02T15:00:14Z): Fixed enemies instantly dying when casting Mag’s Pull on enemies that are affected by Titania’s Spellbind.  Fixed magazine capacity from Mods reverting when turning Titania’s Razorwing on and off.  Fi
+- ...and 122 more patches
+
+## Titania Prime
+Tempting and terrifying, this is Titania in her ultimate form.
+
+### Wiki
+Titania Prime
+Release Date: March 31st, 2020
+Titania Prime is the Primed variant of Titania, possessing higher health, armor, and energy, as well as additional Naramon and Madurai polarities. Titania Prime was released alongside Corinth Prime and Pangolin Prime.
+Vaultings
+On March 28th, 2022, Titania Prime, along with Corinth Prime and Pangolin Prime, entered the Prime Vault and were retired from the reward tables. Any preexisting components or fully-built items will remain as is.
+Crafting
+**Notes:**
+Titania Prime, compared to Titania:
+Higher Health (365/465 vs. 270/370)
+Higher Armor (135 vs. 105)
+Higher Energy (215/265 vs. 175/225)
+Higher Starting Energy (125 vs. 100)
+Additional Naramon and Madurai Polarities (NaramonMaduraiVazarinMadurai vs. MaduraiVazarin)
+DeathOrbEnergy
+In Razorwing mode, Titania Prime features an additional pair of astral wings on her upper back, giving her a set of 4 wings like real butterflies.
+**Trivia:**
+Fitting with her fairy theme, Titania Prime floats above ground when walking and sprinting. This trait is not present in her original, non-primed variant.
+Titania Prime is the second Warframe to have custom walk and sprint animations, the first being Wisp.
+Titania Prime is the fourth Warframe to have custom rolling animations, after Limbo, Hildryn, and Wisp.
+However, Titania Prime still uses default animations (walking and using her feet) when crouching, aiming her gun, wielding an Archgun in ground combat, or extracting from a mission.
+Titania Prime is the seventh Primed Warframe whose non-primed variant was unlockable through a quest (The Silver Grove), after Atlas, Mirage, Limbo and Chroma.
+XzmWn6UVRFY
+Health: 365 | Shield: 270 | Armor: 135 | Energy: 215 | Sprint: 1
+Aura: madurai
+
+### Abilities
+**Spellbind:** Enemies fumble their weapons as they are whisked into the air. Nearby allies become immune to Status Effects. Hold the ability to cast the immunity onto Titania.
+**Tribute:** Cycle through and extract one of the four Buffs when cast on an enemy. Thorns reduces incoming damage. Dust degrades enemy accuracy. Full Moon increases companion damage. Entangle slows enemies within range.
+**Lantern:** Create a swarm of razorflies that transform an enemy into an irresistible floating beacon, attracting witless comrades before exploding on command.
+**Razorwing:** Shrink down and take flight, while razorflies attack nearby enemies and amplify the damage they take.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Axi V11 Relic (11.00%); Lith H3 Relic (11.00%); Lith M5 Relic (11.00%); Meso S10 Relic (11.00%); Neo D2 Relic (11.00%); Neo P2 Relic (11.00%) |
+| Chassis | 1 | Axi M2 Relic (25.33%); Axi S9 Relic (25.33%); Lith G11 Relic (25.33%); Lith P4 Relic (25.33%); Meso I1 Relic (25.33%); Meso Z4 Relic (25.33%); Neo M3 Relic (25.33%); Neo N14 Relic (25.33%) |
+| Neuroptics | 1 | Lith G4 Relic (11.00%); Lith N10 Relic (11.00%); Lith N8 Relic (11.00%); Lith T5 Relic (11.00%); Meso A6 Relic (11.00%); Meso E4 Relic (11.00%); Meso P4 Relic (11.00%); Neo Z6 Relic (11.00%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Axi T5 Relic (2.00%); Lith T11 Relic (2.00%); Lith T4 Relic (2.00%); Lith T7 Relic (2.00%); Lith T8 Relic (2.00%); Neo T3 Relic (2.00%) |
+
+### Patch History (125 entries)
+- **Lua’s Prey: Baruuk Prime: Hotfix 32.2.7** (2022-12-15T19:50:01Z): Fixed Titania’s Tribute not transforming enemies into beacons and applying buffs. As reported here:
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): Was: Hitting at least 4 enemies with Spellbind will grant Titania 50 Energy.  The 100% damage bonus now applies to all weapons (including Titania’s Dex Pixia and Diwata) and scales with Ability Streng
+- **Echoes of Veilbreaker: Update 32.1** (2022-11-02T15:00:14Z): Fixed enemies instantly dying when casting Mag’s Pull on enemies that are affected by Titania’s Spellbind.  Fixed magazine capacity from Mods reverting when turning Titania’s Razorwing on and off.  Fi
+- ...and 122 more patches
+
+## Trinity
+Trinity embodies redemption and health. Her extraordinary healing powers support allies. Where others destroy, she restores.
+
+### Wiki
+Trinity embodies redemption and health. Her extraordinary healing powers support allies. Where others destroy, she restores.
+Lotus
+Release Date: October 25th, 2012
+Resuscitate the dying wounded and protect the weak, soon miraculously revitalized to their optimal state. Brave the crossfire to commence emergency triage, then regenerate and energize her patients as Trinity, the Combat Medic. Dispense her gifts aplenty at her foes' expense, and bestow the blessing of youthful vigor to escape the curse of mortality.
+Trinity is a combat medic Warframe who provides healing for her allies. Her Passive increases herself and her ally's Health based on her Energy. Well of Life suspends an enemy in aerial stasis as allies near them receive healing and Life Steal, Status Effect immunity, and death prevention. Energy Vampire staggers an enemy to emit waves that restore energy which is released in full upon their death. Link tethers nearby enemies to Trinity to provide Damage Redirection. Blessing releases a healing wave that restores Health and Shields and provides Damage Reduction.
+Trinity's main blueprint can be purchased from the Market. Trinity's component blueprints are obtained from defeating Ambulas on Hades, Pluto.
+Alternatively, upon completion of The Duviri Paradox, Trinity's main and component blueprints can be earned from The Circuit. By selecting her on the rotating week she is available, players can earn her blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Historical
+From Update 4 to Update 11.5, Trinity's component blueprints dropped from Councilor Vay Hek on Everest, Earth.
+From Update 11.5 to Update Specters of the Rail, Trinity's component blueprints dropped from Captain Vor & Lieutenant Lech Kril on Iliad, Phobos.
+From Update Specters of the Rail to Update 22.8.3, Trinity's component blueprints dropped from Captain Vor & Lieutenant Lech Kril on Exta, Ceres.
+Crafting
+Health: 270 | Shield: 270 | Armor: 105 | Energy: 175 | Sprint: 1
+Aura: vazarin
+
+### Abilities
+**Well Of Life:** Create a well of life on an enemy who will absorb Status Effect damage intended for nearby allies. Allies gain additional Health when they attack the target. If allies die, enemies in the well of life die in their stead.
+**Energy Vampire:** Allies will gain energy over time when enemies are marked with Energy Vampire.
+**Link:** Any damage taken while Link is active will be channeled to a nearby enemy.
+**Blessing:** Restore the health and shields of allies within Affinity Range while reducing the damage they take from enemies.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | Pluto/Hades (Assassination) (38.72%) |
+| Neuroptics | 1 | Pluto/Hades (Assassination) (38.72%) |
+| Orokin Cell | 1 | — |
+| Systems | 1 | Pluto/Hades (Assassination) (22.56%) |
+
+### Patch History (109 entries)
+- **Lua’s Prey: Hotfix 32.2.1** (2022-11-30T22:33:07Z): Fixed script error with Trinity’s Well of Life ability.
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): Increased Trinity’s Well of Life base range from 8 meters to 15 meters.
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Trinity’s Well of Life
+- ...and 106 more patches
+
+## Trinity Prime
+Become the bastion that defends allies using powerful healing abilities with Trinity Prime. Featuring altered mod polarities for greater customization.
+
+### Wiki
+Trinity
+Release Date: October 6th, 2015
+Trinity Prime is the Primed variant of Trinity, possessing a higher shield, armor, and sprint speed, as well as an additional Madurai and Naramon polarities. Trinity Prime was released alongside Dual Kamas Prime and Kavasa Prime Collar.
+Vaultings
+On August 23rd, 2017, it was announced that Trinity Prime, alongside Dual Kamas Prime and Kavasa Prime Collar, would enter the Prime Vault and be retired from the reward tables on August 29th, 2017. Any preexisting components or fully-built frames will remain as is.
+On June 5th, 2018, Trinity Prime and an exclusive Syandana were released as Twitch Prime benefits, similar to how Frost Prime was released to Twitch Prime subscribers. This offer expired on 12 March 2019.
+Trinity Prime, alongside Dual Kamas Prime, Kavasa Prime Collar, Nova Prime, Soma Prime, and Vasto Prime, was available again from May 26th, 2020 to September 29th, 2020.
+Trinity Prime was available from Prime Resurgence which ran from November 16, 2021 to January 25, 2022.
+Trinity Prime was available from Prime Resurgence which ran from September 27, 2024 to October 24, 2024.
+Crafting
+**Notes:**
+Trinity Prime, compared to Trinity:
+Higher Shields (455/555 vs. 270/370)
+Higher Armor (135 vs. 105)
+Higher Starting Energy (125 vs. 75)
+Higher Sprint Speed (1.1 vs. 1.0)
+Additional Madurai and Naramon Polarities (VazarinVazarinMaduraiNaramon vs. VazarinVazarin)
+DeathOrbEnergy
+When Trinity Prime casts Blessing, she emits a pillar of light from her body and additional sound effects that do not occur with the Trinity base model.
+Trinity Prime is tied with Vauban Prime for the most Cryotic requirement of any Warframe.
+Health: 270 | Shield: 455 | Armor: 135 | Energy: 175 | Sprint: 1.1
+Aura: vazarin
+
+### Abilities
+**Well Of Life:** Create a well of life on an enemy who will absorb Status Effect damage intended for nearby allies. Allies gain additional Health when they attack the target. If allies die, enemies in the well of life die in their stead.
+**Energy Vampire:** Allies will gain energy over time when enemies are marked with Energy Vampire.
+**Link:** Any damage taken while Link is active will be channeled to a nearby enemy.
+**Blessing:** Restore the health and shields of allies within Affinity Range while reducing the damage they take from enemies.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Axi S1 Relic (11.00%); Lith K1 Relic (11.00%); Lith K4 Relic (11.00%); Meso P6 Relic (11.00%); Meso S4 Relic (11.00%); Neo N6 Relic (11.00%) |
+| Chassis | 1 | Axi H1 Relic (11.00%); Axi H2 Relic (11.00%); Axi S7 Relic (11.00%); Lith L3 Relic (11.00%); Lith S4 Relic (11.00%); Neo S1 Relic (11.00%) |
+| Neuroptics | 1 | Lith K8 Relic (11.00%); Neo D1 Relic (11.00%); Axi C1 Relic (25.33%); Axi V3 Relic (25.33%); Meso D5 Relic (25.33%); Neo N7 Relic (25.33%); Neo S6 Relic (25.33%) |
+| Orokin Cell | 1 | — |
+| Systems | 1 | Axi A1 Relic (25.33%); Axi C2 Relic (25.33%); Axi V2 Relic (25.33%); Axi V3 Relic (25.33%); Axi V4 Relic (25.33%); Neo B1 Relic (25.33%); Neo D4 Relic (25.33%); Neo N12 Relic (25.33%) |
+
+### Patch History (109 entries)
+- **Lua’s Prey: Hotfix 32.2.1** (2022-11-30T22:33:07Z): Fixed script error with Trinity’s Well of Life ability.
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): Increased Trinity’s Well of Life base range from 8 meters to 15 meters.
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Trinity’s Well of Life
+- ...and 106 more patches
+
+## Uriel
+To fight as the Heretic of Xata is to have demons at your back. Uriel incinerates foes with searing brimstone, and commands three fiendish summons to do his devil’s work.
+
+### Wiki
+To fight as the Heretic of Xata is to have demons at your back. Uriel incinerates foes with searing brimstone, and commands three fiendish summons to do his devil's work.
+Release Date: December 10th, 2025
+Burn away the Orokin ivory lies and aureate deceit. Here upon hellfire-seared brimstone, our darkest truth comes to light, lurid as Tauron azure. Hail thy heralds of catastrophe: Catenach the Shackled, Gulphagor the Ravager, and Vythelas the Runescribe, three fiendish devils beckoning to thine will. Sovereign of his demonic dominion, where charred flesh and scorched souls lay bare... condemn the damned to hellish torment as Uriel, the Heretic of Xata. Blaze as infernal incarnate, black as the deepest shadow, spiraling across the night sky until daybreak unveils a doomed tomorrow. Uriel and his hellspawn spiraled out of Hell in Update 41: The Old Peace.
+The devil Warframe Uriel commands demonic Summons to do his nefarious bidding. His Passive has three minions at his beck and call: Catenach links enemies with chains that causes damage inflicted to apply to all chained enemies, Gulphagor latches onto an enemy to stun them and killing them will yield a Health Orb and Energy Orb, and Vythelas desecrates enemy corpses to create runes that on pickup increases Fire Rate and Heat damage. Infernalis sets Uriel on fire and transforms his Dodges into a flying spiral drill. Remedium heals Uriel, cleanses Status Effects, and heals or revives his minions. Demonium hurls the souls of Uriel's minions to apply Damage Vulnerability. Brimstone uses the fury of his minions to unleash a domain of Hell and create a massive Heat field.
+Uriel's main blueprint is acquired upon completion of The Old Peace quest. Alternatively, Uriel's blueprints can be purchased from Roathe in La Cathėdrale, Sanctum Anatomica for Maphica obtained in The Descendia. Each component blueprint costs 25 Maphica, and the main blueprint costs 75, totaling 150 Maphica for the full set.
+Health: 566 | Shield: 566 | Armor: 105 | Energy: 100 | Sprint: 1.1
+Aura: madurai
+
+### Abilities
+**Infernalis:** Manifest an aura of flames inflicting Heat Damage and Status Effect on nearby enemies.
+Tap Dodge while airborne to take flight as a flaming meteor of destruction.
+**Remedium:** Uriel heals himself and his demons. If his demons are dead, they are resurrected.
+**Demonium:** Uriel rips out the souls of his demons, draining their health, and sends them in search of new victims. Souls explode on contact with an enemy, rendering it vulnerable to Damage.
+**Brimstone:** Uriel and his demons create a growing ring of flaming brimstone. Charge the ability by utilizing demon abilities. Damage inflicted increases with each consecutive hit.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | Roathe (12.50%) |
+| Neuroptics | 1 | Roathe (12.50%) |
+| Orokin Cell | 1 | — |
+| Systems | 1 | Roathe (12.50%) |
+
+## Valkyr
+Valkyr was modified into a highly motivated and fearsome killer. She is adept at dealing damage and surviving. Her battle cry strikes terror into all who hear it.
+
+### Wiki
+Valkyr was modified into a highly motivated and fearsome killer. She is adept at dealing damage and surviving. Her battle cry strikes terror into all who hear it.
+Lotus
+Release Date: November 20th, 2013
+Driven by feral rage, Valkyr attacks rend her prey with fury and ferociousness, while her tortured cries break the imposing silence of the Tenno presence. Valkyr was unleashed in Update 11.
+Valkyr is a berserker-themed Warframe boasting high health and armor as she relentlessly rushes enemies with flurries of melee assaults. Her Passive builds a gauge that increases her melee damage while also allowing her to negate death. Rip Line is a gap closer that can also group enemies, while Warcry strengthen Valkyr and her teammate's armor and Attack Speed and Paralysis weakens enemies with Slow and melee Damage Vulnerability. Hysteria renders Valkyr immune to Status Effects while her attacks heal her, as she bears her deadly Valkyr Talons.
+Valkyr's main blueprint can be purchased from the Market. Valkyr's component blueprints can be obtained from defeating Alad V on Themisto, Jupiter.
+Alternatively, upon completion of The Duviri Paradox, Valkyr's main and component blueprints can be earned from The Circuit. By selecting her on the rotating week she is available, players can earn her blueprints after reaching Tier 2 (Neuroptics), 5 (Chassis), 8 (Systems), and 10 (Main) rewards.
+Crafting
+Lore
+Health: 650 | Shield: 135 | Armor: 855 | Energy: 100 | Sprint: 1.1
+Aura: madurai
+
+### Abilities
+**Rip Line:** Valkyr hurls forth a hook and pulls herself to whatever it hits. If it hits an enemy, nearby foes are pulled in as she unleashes a coordinated Melee attack.
+**Warcry:** Valkyr lets out a rallying cry that bolsters Armor and Attack Speed for allies while in Affinity Range.
+**Paralysis:** Unleash a damaging blast, slowing its victims while increasing their Melee Damage Vulnerability.
+**Hysteria:** Valkyr bares her deadly claws, unleashing devastating attacks that also heal her. Valkyr becomes immune to Status Effects and her Armor bonus from Warcry is multiplied while using the claws.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | Jupiter/Themisto (Assassination) (38.72%) |
+| Neuroptics | 1 | Jupiter/Themisto (Assassination) (38.72%) |
+| Orokin Cell | 1 | — |
+| Systems | 1 | Jupiter/Themisto (Assassination) (22.56%) |
+
+### Patch History (115 entries)
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): Was: Affected enemies are pulled towards Valkyr and the stun duration is increased by 200%.  The pull strength now scales with distance from Valkyr meaning enemies are now pulled close to Valkyr inst
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): Valkyr (Ceres to Jupiter) Added a max active time of 10s to the Valkyr Specter’s Hysteria ability.
+- **Echoes of the Zariman: Update 31.6** (2022-06-09T14:49:52Z): If you were standing in its beam attack, the damage you receive would be astronomical, even at lower levels (Level 10 Legatus enemies could down a full health Valkyr in one beam attack). What was happ
+- ...and 112 more patches
+
+## Valkyr Prime
+A proud fighter emerges unscarred by time or malice. Featuring altered mod polarities allow for greater customization.
+
+### Wiki
+A proud fighter emerges unscarred by time or malice.
+Ballas
+Release date: November 22nd, 2016
+Valkyr Prime is the Primed variant of Valkyr possessing higher Armor and Energy capacity, as well as an additional Madurai polarity. Valkyr Prime was released alongside Cernos Prime and Venka Prime.
+**Acquisition:**
+Unlike most Prime gear, Valkyr Prime is permanently unvaulted, with relics being obtainable through Abandoned Derelict Caches in Corpus Railjack missions.
+Vaultings
+On September 11th, 2018, it was announced that Valkyr Prime, alongside Cernos Prime and Venka Prime, would enter the Prime Vault and be retired from the reward tables on September 25th, 2018. Any preexisting components or fully-built frames will remain as is.
+Valkyr Prime, alongside Cernos Prime, Venka Prime, Saryn Prime, Spira Prime, and Nikana Prime, were again available from September 3rd, 2019 to November 19th, 2019.
+Valkyr Prime was also available from Prime Resurgence which ran from November 16, 2021 to January 25, 2022.
+Crafting
+**Notes:**
+Valkyr Prime, compared to Valkyr:
+Higher Armor (1000 vs. 855)
+Higher Energy (175/225 vs. 100/150)
+Higher Starting Energy (100 vs. 50)
+Additional Madurai Polarity (MaduraiMaduraiMadurai vs. MaduraiMadurai)
+DeathOrbEnergy
+Valkyr Prime has the highest base Armor of all Warframes in the game at 1,000.
+Valkyr Prime's Rip Line shoots out multiple lines when targeting enemies. This effect is purely cosmetic, and does not impact the damage of the ability.
+Valkyr Prime's Hysteria emits an additional rolling energy circle on her gauntlets.
+Health: 650 | Shield: 135 | Armor: 1000 | Energy: 175 | Sprint: 1.1
+Aura: madurai
+
+### Abilities
+**Rip Line:** Valkyr hurls forth a hook and pulls herself to whatever it hits. If it hits an enemy, nearby foes are pulled in as she unleashes a coordinated Melee attack.
+**Warcry:** Valkyr lets out a rallying cry that bolsters Armor and Attack Speed for allies while in Affinity Range.
+**Paralysis:** Unleash a damaging blast, slowing its victims while increasing their Melee Damage Vulnerability.
+**Hysteria:** Valkyr bares her deadly claws, unleashing devastating attacks that also heal her. Valkyr becomes immune to Status Effects and her Armor bonus from Warcry is multiplied while using the claws.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Axi V7 Relic (25.33%); Axi V9 Relic (25.33%); Lith A2 Relic (25.33%); Lith C7 Relic (25.33%); Lith N3 Relic (25.33%); Lith T2 Relic (25.33%); Meso N8 Relic (25.33%); Meso S3 Relic (25.33%); Meso S6 Relic (25.33%); Neo K1 Relic (25.33%) |
+| Chassis | 1 | Axi V5 Relic (2.00%); Axi V6 Relic (2.00%); Lith V6 Relic (2.00%); Neo V7 Relic (2.00%); Neo V9 Relic (2.00%) |
+| Neuroptics | 1 | Lith C5 Relic (11.00%); Lith S6 Relic (11.00%); Lith T1 Relic (11.00%); Meso C2 Relic (11.00%); Meso D2 Relic (11.00%); Meso N11 Relic (11.00%); Meso N8 Relic (11.00%); Meso V4 Relic (11.00%); Neo N7 Relic (11.00%) |
+| Orokin Cell | 3 | — |
+| Systems | 1 | Lith V3 Relic (2.00%); Lith V5 Relic (2.00%); Meso V3 Relic (2.00%); Axi V10 Relic (11.00%); Axi V9 Relic (11.00%) |
+
+### Patch History (115 entries)
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): Was: Affected enemies are pulled towards Valkyr and the stun duration is increased by 200%.  The pull strength now scales with distance from Valkyr meaning enemies are now pulled close to Valkyr inst
+- **Veilbreaker: Update 32** (2022-09-07T15:00:11Z): Valkyr (Ceres to Jupiter) Added a max active time of 10s to the Valkyr Specter’s Hysteria ability.
+- **Echoes of the Zariman: Update 31.6** (2022-06-09T14:49:52Z): If you were standing in its beam attack, the damage you receive would be astronomical, even at lower levels (Level 10 Legatus enemies could down a full health Valkyr in one beam attack). What was happ
+- ...and 112 more patches
+
+## Vauban
+Vauban is the model of innovative technology. He deploys clever inventions to provide crowd control. His tenacity and focus make him formidable.
+
+### Wiki
+Vauban is the model of innovative technology. He deploys clever inventions to provide crowd control. His tenacity and focus make him formidable.
+Lotus
+Release Date: May 17th, 2013
+Ingenious contraptions contrived with an innovative mind. Assert control over the battlefield as the Master Tactician, Vauban, executing his combat schematics with inventive ingenuity. Mobilize his armada of electrocuting drones to patrol wherever he treads. Besiege and defend the frontlines with his array of minefields, designed for suppression and support. Devastate enemy forces with deadly disintegration from orbit, as a merciful release from his technological fortress and gravitational core combined. Vauban deployed in Update 7.11, reinvented his arsenal in Update 26.0: The Old Blood, and upgraded his mastercraft in Update 41.1: Vauban Heirloom.
+Vauban is an engineering Warframe with numerous tools for crowd control. His Passive increases his damage to enemies afflicted by his crowd controlling abilities. Tesla Nervos summons small rollers that latch onto enemies and stun them with Electricity. Minelayer deploys two fusion mines: Tether-Flechette Orb extends wires to pull in enemies from afar into its firing radius, releasing multiple high velocity nails that inflict critical, enemy level scaling Puncture damage; the Vector-Overdrive Pad propels friend and foe into a specified direction, while enhancing allied Movement Speed and strengthening weapon damage. Photon Strike launches a beacon to call forth an orbital cannon blast, devastating an area in enemy level scaling Blast damage and status with doubled effectiveness against Overguard. Bastille releases a containment field places all enemies in aerial stasis while removing their armor to strengthen the armor of Vauban and his allies, then collapses on expiry or manual reactivation, into a gravitational Vortex to violently pull in enemies inflicting Magnetic status.
+Health: 270 | Shield: 180 | Armor: 160 | Energy: 175 | Sprint: 1
+Aura: naramon
+
+### Abilities
+**Tesla Nervos:** Deploy a roller drone that attaches itself to enemies and delivers bursts of arcing Electricity Damage to anything in the immediate area.
+**Minelayer:** Control the battlefield with masterful mines. Vauban's Tether-Flechette orb immobilizes and draws in enemies while launching deadly nails in all directions.
+HOLD to launch a Vector-Overdrive pad that accelerates foes and allies alike in the pad's direction, increasing ally Movement Speed and Weapon Damage.
+**Photon Strike:** Drop a targeting beacon that calls in a devastating laser artillery strike. Deals doubled damage to enemies with Overguard.
+**Bastille:** Erect a containment field to capture enemies and suspend them in stasis, stripping their armor and granting it to Vauban and any allies within Bastille's field.
+HOLD to collapse all Bastilles into a single damaging vortex.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | — |
+| Neuroptics | 1 | — |
+| Orokin Cell | 1 | — |
+| Systems | 1 | — |
+
+### Patch History (108 entries)
+- **Echoes of Veilbreaker: Hotfix 32.1.2** (2022-11-04T20:55:10Z): Adjusted more offsets for the Shard Bane Ephemera on Nidus, Gendel, Chroma, Lavos, Frost, Hildryn, Atlas, Rhino, Ash, and Vauban.
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Fixed script error with Vauban’s Tesla Nervos.
+- **Veilbreaker: Hotfix 32.0.5** (2022-09-15T21:37:42Z): Reduced the amount of Vortex VFX from stacking when casting Vauban’s Bastille into the same spot.
+- ...and 105 more patches
+
+## Vauban Prime
+Transform the battlefield into a weapon with this gilded tactician. Features unique mod polarities for extended customization.
+
+### Wiki
+Transform the battlefield into a weapon with this gilded tactician. Features unique mod polarities for extended customization
+Ballas
+Release Date: May 17th, 2016
+Vauban Prime is the Primed variant of Vauban, possessing higher shields and armor, as well as an additional Vazarin polarity. Vauban Prime was released alongside Akstiletto Prime and Fragor Prime.
+Vaultings
+On March 14, 2018, it was announced that Vauban Prime, alongside Akstiletto Prime and Fragor Prime, would enter the Prime Vault and be retired from the reward tables on March 20, 2018. Any preexisting components or fully-built frames will remain as is.
+Vauban Prime, alongside Akstiletto Prime, Fragor Prime, Ash Prime, Vectis Prime, and Carrier Prime, were again available from November 19th, 2019 to February 11th, 2020.
+Vauban Prime was available from Prime Resurgence which ran from November 16, 2021 to January 25, 2022.
+Crafting
+**Notes:**
+Vauban Prime, compared to Vauban:
+Higher Shields (270/370 vs. 180/280)
+Higher Armor (210 vs. 160)
+Higher Starting Energy (100 vs. 75)
+Additional Vazarin Polarity (NaramonMaduraiVazarin vs. NaramonMadurai)
+DeathOrbEnergy
+Vauban Prime requires the most Alloy Plates of any Warframe, tied with Trinity Prime for the most Cryotic of any Warframe, and the most Oxium, Nitain Extract and Rubedo used to build any item.
+Vauban Prime's Bastille has a swirling void energy compared to the normal version.
+**Trivia:**
+Vauban Prime is the second prime Warframe introduced via a cinematic lore video, the first being Saryn Prime.
+Vauban Prime's release in Update 18.12 occurred exactly 3 years after the original Vauban's release in Update 7.11, both falling on May 17th.
+Vauban Prime has an inscription on each leg that says "Evolution" in the Tenno Language.
+Vauban Prime's signature Citadella Prime Syandana is based on the fortresses designed by his namesake, specifically the Citadel of Lille in the north of France.
+Health: 270 | Shield: 270 | Armor: 210 | Energy: 175 | Sprint: 1
+Aura: naramon
+
+### Abilities
+**Tesla Nervos:** Deploy a roller drone that attaches itself to enemies and delivers bursts of arcing Electricity Damage to anything in the immediate area.
+**Minelayer:** Control the battlefield with masterful mines. Vauban's Tether-Flechette orb immobilizes and draws in enemies while launching deadly nails in all directions.
+HOLD to launch a Vector-Overdrive pad that accelerates foes and allies alike in the pad's direction, increasing ally Movement Speed and Weapon Damage.
+**Photon Strike:** Drop a targeting beacon that calls in a devastating laser artillery strike. Deals doubled damage to enemies with Overguard.
+**Bastille:** Erect a containment field to capture enemies and suspend them in stasis, stripping their armor and granting it to Vauban and any allies within Bastille's field.
+HOLD to collapse all Bastilles into a single damaging vortex.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Lith F2 Relic (2.00%); Neo V2 Relic (2.00%); Axi F1 Relic (11.00%); Meso V6 Relic (11.00%) |
+| Chassis | 1 | Axi V1 Relic (2.00%); Lith V4 Relic (2.00%); Meso V4 Relic (2.00%); Neo V6 Relic (2.00%); Meso T6 Relic (11.00%); Neo A4 Relic (25.33%) |
+| Neuroptics | 1 | Lith V7 Relic (2.00%); Meso N2 Relic (2.00%); Meso V8 Relic (2.00%); Neo V3 Relic (2.00%); Neo V5 Relic (2.00%) |
+| Nitain Extract | 5 | — |
+| Systems | 1 | Lith V2 Relic (2.00%); Lith V8 Relic (2.00%); Lith V9 Relic (2.00%); Neo N2 Relic (2.00%) |
+
+### Patch History (108 entries)
+- **Echoes of Veilbreaker: Hotfix 32.1.2** (2022-11-04T20:55:10Z): Adjusted more offsets for the Shard Bane Ephemera on Nidus, Gendel, Chroma, Lavos, Frost, Hildryn, Atlas, Rhino, Ash, and Vauban.
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Fixed script error with Vauban’s Tesla Nervos.
+- **Veilbreaker: Hotfix 32.0.5** (2022-09-15T21:37:42Z): Reduced the amount of Vortex VFX from stacking when casting Vauban’s Bastille into the same spot.
+- ...and 105 more patches
+
+## Voidrig
+Nothing fancy but gets the job done and then some. With its electrified armor, this rough and ready mech can make the battlefield treacherous for the enemy with an arsenal of explosives.
+
+### Wiki
+Nothing fancy but gets the job done and then some. With its electrified armor, this rough and ready mech can make the battlefield treacherous for the enemy with an arsenal of explosives.
+The Voidrig is a frontline-purpose Necramech design, capable of handling both offensive and defensive actions with ease with its heavy armor using explosive weaponry and potent defensive abilities. It comes with the Mausolon Archgun as its default armament.
+Voidrig's armaments are designed for damage. Necraweb deploys a throwable canister that explodes and inflicts Slow. Storm Shroud creates a barrier that absorbs and reflects damage. Gravemines scatters numerous mines around. Guard Mode has Voidrig hunker down to deploy the Arquebex twin mortars.
+**Acquisition:**
+Completion of Heart of Deimos will reward all main and component blueprints for free. Alternatively, Component blueprints for the Voidrig are available for 2,000 Standing from the Necraloid Syndicate at Rank 1 - Clearance: Agnesis, while the main Voidrig blueprint is available for 5,000 Standing at Rank 2 - Clearance: Modus. When levelling the Syndicate, one Voidrig blueprint is offered for free.
+Crafting the components additionally requires Rank 1 - Stranger with the Entrati in order to acquire Purified Heciphron required in its construction.
+Damaged Necramech components are dropped by enemy Necramechs that appear in Isolation Vault Bounties or purchased from Father for 2,000 Standing Entrati standing.
+Damaged Necramech components, built Voidrig components, Faceted Tiametrite, Purified Heciphron, Purged Dagonic, and fish yielding components used here (Lobotriscid for Parasitic Tethermaw, and Vitreospina and Chondricord for Spinal Core Section) can be traded between players. Trading for gems or fully built components will bypass the Syndicate rank requirements. However, Voidrig component blueprints and the main blueprint cannot be traded.
+Health: 1400 | Shield: 850 | Armor: 385 | Energy: 175
+
+### Abilities
+**Necraweb:** Hurl a canister of graviton fluids to create a wide mire that will significantly slow enemies traveling across it. Alternatively, the canister can be shot in mid-air to create a fiery conflagration.
+**Storm Shroud:** Swathe the Necramech in a powerful electrical field that greatly enhances survivability in close combat. Enemies that strike the shroud will suffer for their impudence.
+**Gravemines:** Launch a pattern of charged mines all around you. Each mine detonates in a violent blast when touched, damaging enemies in a three-meter radius.
+**Guard Mode:** Take a stationary stance to deploy maximum firepower and gain increased structural integrity for a time.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Voidrig Capsule | 1 | — |
+| Voidrig Casing | 1 | — |
+| Voidrig Engine | 1 | — |
+| Voidrig Weapon Pod | 1 | — |
+
+### Patch History (22 entries)
+- **Update 31.5: Angels of the Zariman** (2022-04-27T15:02:06Z): Completing the Heart of Deimos quest will now reward you with the Voidrig Blueprint,  Voidrig Weapon Blueprint, Voidrig Capsule Blueprint, Voidrig Engine Blueprint, and Voidrig Casing Blueprint in the
+- **Update 31.1.0: Echoes of War** (2022-02-09T15:59:43Z): Fixed the Voidrig Necramech missing its corn cob bodice in the in-game Market diorama.
+- **Nights of Naberus: Hotfix 30.8.1** (2021-10-06T19:47:19Z): Fixed issues with the Voidrig’s Necraweb canister not appearing correctly for Client players.
+- ...and 19 more patches
+
+## Volt
+Electricity flows through Volt. His attacks deal high damage. Enemies will be shocked.
+
+### Wiki
+Electricity flows through Volt. His attacks deal high damage. Enemies will be shocked.
+Lotus
+Release Date: October 25th, 2012
+Electrical currents surge wildly through his veins, generating lethal sparks and chain lightning in his wake. Ready to race against time with his fellow Tenno, short-circuit robotics and overload organics as the Live Wire, Volt. Bend his electricity into an impenetrable barrier, or convert the shocked masses into deadly Tesla coils. Choose wisely, Tenno. Start your new journey with Volt as one of three beginner Warframes.
+Volt is a Warframe with Electricity powers to deal damage. His Passive builds electricity and discharges it in his next attack. Shock releases an electric projectile. Speed energizes his and his allies with enhanced Movement Speed, Attack Speed, and Reload Speed. Electric Shield projects a barrier that blocks incoming fire while strengthening allied gunfire that passes through it and can be carried around. Discharge releases a powerful pulse that emits arcs of electricity on afflicted enemies.
+**Acquisition:**
+Volt is one of the three starter Warframes, alongside Excalibur and Mag, during Awakening.
+Volt's blueprints can be researched from the Tenno Lab in the dojo.
+Volt can also be bought complete from Teshin for 60,000 Standing once players have achieved Typhoon rank in the Conclave.
+Historical
+Prior to Update 12, Volt's component blueprints dropped from Survival missions.
+Prior to Update 11, Volt's component blueprints dropped from J3-Golem on Themisto, Jupiter.
+Crafting
+Health: 270 | Shield: 455 | Armor: 105 | Energy: 100 | Sprint: 1
+Aura: madurai
+
+### Abilities
+**Shock:** Launch a voltaic projectile that stuns and damages its target. A chain of electricity extends from the target to shock nearby enemies.
+**Speed:** Embody an electric current. Volt and his allies receive a brief movement speed boost and a reload speed buff.
+**Electric Shield:** Volt deploys an electric shield that blocks enemy fire and adds Electricity Damage to projectiles.
+
+HOLD to equip the shield for mobile cover.
+**Discharge:** Volt discharges the electricity that courses through him. The shockwave paralyzes and damages nearby enemies. Enemies on the edge of the shockwave are stunned.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | — |
+| Neuroptics | 1 | — |
+| Orokin Cell | 1 | — |
+| Systems | 1 | — |
+
+### Patch History (140 entries)
+- **Lua’s Prey: Hotfix 32.2.1** (2022-11-30T22:33:07Z): This will be the default moving forward if we release more Voidshell skins with Armor attachments. For now this fixes Voruna, Frost and Volt’s Base/Voidshell Armor.
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): Was: Allies can pick up Electric Shield. 300% of damage absorbed will be added to Volt’s Static Discharge.  Volt can now cast more Electric Shields while carrying one. This change applies to the base
+- **Veilbreaker: Revenant Prime: Hotfix 32.0.9** (2022-10-05T17:59:06Z): Fixed Volt being unable to pick up or carry his Shield after his Energy drops to 0.
+- ...and 137 more patches
+
+## Volt Prime
+A glorious warrior from the past, Volt Prime features the same abilities as Volt but with unique mod polarities for greater customization.
+
+### Wiki
+Volt Prime
+Release Date: March 24th, 2015
+Volt Prime is the Primed variant of Volt, possessing higher armor and energy capacity, as well as an additional Madurai polarity. Volt Prime was released alongside Odonata Prime.
+Vaultings
+On February 22nd, 2017, it was announced that Volt Prime, alongside Odonata Prime, would enter the Prime Vault and be retired from the reward tables on February 28th, 2017. Any preexisting components or fully-built frames will remain as is.
+Baro Ki'Teer would sometimes bring relics containing Volt Prime and Odonata Prime.
+Volt Prime, alongside Odonata Prime, was again available from April 30, 2019 to July 2nd 2019.
+Volt Prime was available from Prime Resurgence which ran from November 16, 2021 to January 25, 2022.
+Crafting
+**Notes:**
+Volt Prime, compared to Volt:
+Higher Armor (135 vs. 105)
+Higher Energy (200/300 vs. 100/150)
+Higher Starting Energy (125 vs. 50)
+Additional Madurai Polarity (NaramonMaduraiMadurai vs. NaramonMadurai)
+DeathOrbEnergy
+Volt Prime possesses Appearance Arm Attachments titled Volt Prime Armor.
+Volt Prime, along with Chroma Prime, Saryn Prime, Ivara Prime, Baruuk (Baruuk Prime), Wisp (Wisp Prime), and Yareli, possesses the third highest max-rank energy pool of all Warframes at 300 at rank 30, behind Yareli Prime's 315 and Garuda Prime's 320.
+This can be increased to 600 with a maxed Flow, 850 with Primed Flow, and 880 with Primed Flow and Endurance Drift.
+Health: 270 | Shield: 455 | Armor: 135 | Energy: 200 | Sprint: 1
+Aura: madurai
+
+### Abilities
+**Shock:** Launch a voltaic projectile that stuns and damages its target. A chain of electricity extends from the target to shock nearby enemies.
+**Speed:** Embody an electric current. Volt and his allies receive a brief movement speed boost and a reload speed buff.
+**Electric Shield:** Volt deploys an electric shield that blocks enemy fire and adds Electricity Damage to projectiles.
+
+HOLD to equip the shield for mobile cover.
+**Discharge:** Volt discharges the electricity that courses through him. The shockwave paralyzes and damages nearby enemies. Enemies on the edge of the shockwave are stunned.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Axi N3 Relic (11.00%); Neo V1 Relic (11.00%); Lith O2 Relic (25.33%); Neo O1 Relic (25.33%); Vanguard C1 Relic (25.33%) |
+| Chassis | 1 | Axi V8 Relic (11.00%); Meso O3 Relic (11.00%); Meso V2 Relic (11.00%); Meso V3 Relic (11.00%); Vanguard E1 Relic (25.33%) |
+| Neuroptics | 1 | Axi V8 Relic (2.00%); Neo V8 Relic (2.00%); Axi V1 Relic (11.00%); Vanguard P1 Relic (11.00%) |
+| Orokin Cell | 1 | — |
+| Systems | 1 | Axi L4 Relic (11.00%); Lith V1 Relic (11.00%); Neo O1 Relic (11.00%); Vanguard M1 Relic (11.00%) |
+
+### Patch History (140 entries)
+- **Lua’s Prey: Hotfix 32.2.1** (2022-11-30T22:33:07Z): This will be the default moving forward if we release more Voidshell skins with Armor attachments. For now this fixes Voruna, Frost and Volt’s Base/Voidshell Armor.
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): Was: Allies can pick up Electric Shield. 300% of damage absorbed will be added to Volt’s Static Discharge.  Volt can now cast more Electric Shields while carrying one. This change applies to the base
+- **Veilbreaker: Revenant Prime: Hotfix 32.0.9** (2022-10-05T17:59:06Z): Fixed Volt being unable to pick up or carry his Shield after his Energy drops to 0.
+- ...and 137 more patches
+
+## Voruna
+Four beasts, one heart. Voruna's loyal wolf pack makes for a deadly combination of strength and stealth. Beware the monstrous howl that heralds fangs of vengeance.
+
+### Wiki
+Four beasts, one heart. Voruna's loyal wolf pack makes for a deadly combination of strength and stealth. Beware the monstrous howl that heralds fangs of vengeance.
+Release Date: November 30th, 2022
+Beware the telltale bloodcurdling howl when the primeval hunt begins anew. Nightfall engulfs the hallowed moonlit shrine, where sacred beasts of claw and fang prowl. Heed the wolven queen, Voruna, here she decrees her midnight feast. Reveling in feral carnage, her loyal lupine fiends, the silent Dynar, chaotic Raksh, ravenous Lycath, and ferocious Ulfrun ravage their prey once unleashed. Beneath lunar glow upon scarlet soil, tremble before her monstrous grin. Voruna and her wolves' hunt resumed in Update 32.2: Lua's Prey.
+Voruna is a Warframe whose wolf pack provides her with damage and stealth. Her Passive invokes protection from her pack, bestowing her either increased Parkour Velocity, immunity to Status Effects, Heavy Attack Efficiency, or death prevention. Shroud of Dynar renders her Invisible with increased Movement Speed until she attacks, bestowing her increased melee Critical Damage and Status Chance. Fangs of Raksh pounces an enemy to inflict 5 random status effects stacked up to 10 times each, spreading upon their death. Lycath's Hunt has enemies slain by melee to guarantee a Health Orb or slain by headshots to guarantee an Energy Orb. Ulfrun's Descent enters a ferocious stance with 5 charges to lunge at an enemy, with successful kills strengthening the ability's damage, Critical Chance, and Critical Damage.
+Voruna's main and component blueprints can be obtained from Rotation C of Conjunction Survival Yuvarium and Circulus on Lua, whose access requires completion of The War Within.
+Health: 455 | Shield: 270 | Armor: 200 | Energy: 100 | Sprint: 0.95
+Aura: vazarin
+
+### Abilities
+**Shroud Of Dynar:** (TAP) Dynar shrouds Voruna with invisibility and accelerates her speed. Invisibility ends when Voruna attacks. For a short time after invisibility ends, melee attacks have increased Critical Damage, Status Chance, Critical Chance and inflict Slash Status Effects. Melee kill an enemy during this time to extend the melee buff once per cast.
+(HOLD) Dynar guards Voruna, increasing her Parkour Velocity.
+**Fangs Of Raksh:** (TAP) Raksh's fangs tear into your enemies. 5 random Status Effects are applied at 10 Stacks each on an enemy. On target's death, spread the Status Effects to other nearby enemies.
+(HOLD) Raksh guards Voruna with Status Effect resistance.
+**Lycath's Hunt:** (TAP) Lycath hunts to sustain the pack. Enemies killed by melee attacks drop health orbs and enemies killed by headshots drop energy orbs. Increase the duration of Lycath’s hunt by killing enemies affected by 5 or more Status Effects.
+(HOLD) Lycath guards Voruna with increased Heavy Attack efficiency.
+**Ulfrun's Descent:** (TAP) Voruna drops to all fours and prepares 5 brutal charges that lock onto enemies. Ulfrun, the most powerful wolf, leads the attack as Voruna dashes toward her target. The pack deals increased damage to targets and nearby enemies that are inflicted by Status Effects. Lethal attacks double the damage of Voruna's remaining charges.
+(HOLD) Ulfrun guards Voruna. If Voruna falls during this time, Ulfrun dies in her place.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Lua/Circulus (Survival), Rotation C (12.24%); Lua/Yuvarium (Survival), Rotation C (6.82%) |
+| Chassis | 1 | Lua/Yuvarium (Survival), Rotation C (4.55%); Lua/Circulus (Survival), Rotation C (8.16%) |
+| Lua Thrax Plasm | 50 | — |
+| Neuroptics | 1 | Lua/Yuvarium (Survival), Rotation C (4.55%); Lua/Circulus (Survival), Rotation C (8.16%) |
+| Systems | 1 | Lua/Yuvarium (Survival), Rotation C (4.55%); Lua/Circulus (Survival), Rotation C (8.16%) |
+
+### Patch History (6 entries)
+- **Lua’s Prey: Baruuk Prime: Hotfix 32.2.6** (2022-12-14T22:31:43Z): Fixed Voruna’s Ulfrun’s Descent giving Affinity on cast instead of when the ability is actually triggered by lunging at an enemy and dealing damage.  Fixed Voruna’s Fangs of Raksh passive preventing m
+- **Lua’s Prey: Hotfix 32.2.4** (2022-12-07T19:04:56Z): After one week of Lua’s Prey being in your hands and reading your feedback, we have a few changes to Voruna’s 4th ability, Ulfrun’s Descent. The majority of Voruna's feedback has been centered around
+- **Lua’s Prey: Hotfix 32.2.3** (2022-12-01T19:35:07Z): Fixed the Perigale’s Max Ammo stat rapidly increasing beyond intended when triggering its ammo increase on headshots while wielded by Voruna.  It is intended to increase the ammo pool to 48 for Voruna
+- ...and 3 more patches
+
+## Voruna Prime
+Splendor and ferocity reach their savage apex in Voruna Prime. Though exalted by Orokin gold, she is more feral than ever.
+
+### Wiki
+Splendor and ferocity reach their savage apex in Voruna Prime. Though exalted by Orokin gold, she is more feral than ever.
+Ballas
+Release Date: April 8th, 2026
+Voruna Prime is the Primed variant of Voruna, sporting increased Armor, Energy, and Sprint Speed, as well as an additional Madurai polarity. Voruna Prime was released alongside Perigale Prime and Sarofang Prime.
+Crafting
+**Notes:**
+Voruna Prime, compared to Voruna:
+Higher Armor (265 vs. 200)
+Higher Energy (130/180 vs. 100/150)
+Higher Starting Energy (75 vs. 50)
+Higher Sprint Speed (1.2 vs 0.95)
+Additional Madurai polarity (MaduraiMaduraiVazarin vs. MaduraiVazarin)
+If Voruna Prime wields her Signature Weapons:
+Perigale/Perigale Prime: Gains 24 more Ammo Maximum, for a total of 48/56.
+Sarofang/Sarofang Prime: Heavy Attack Slam vortex requirement reduced to 5x Combo Multiplier.
+Dynar Prime and Raksh Prime are both labeled Voruna Prime Armor in Voruna Prime's Appearance Shoulder Pad Attachments which can be swapped out for other armors. This is purely cosmetic and removing them does not affect Voruna's usage on her abilities.
+Health: 455 | Shield: 270 | Armor: 265 | Energy: 130 | Sprint: 1.2
+Aura: vazarin
+
+### Abilities
+**Shroud Of Dynar:** (TAP) Dynar shrouds Voruna with invisibility and accelerates her speed. Invisibility ends when Voruna attacks. For a short time after invisibility ends, melee attacks have increased Critical Damage, Status Chance, Critical Chance and inflict Slash Status Effects. Melee kill an enemy during this time to extend the melee buff once per cast.
+(HOLD) Dynar guards Voruna, increasing her Parkour Velocity.
+**Fangs Of Raksh:** (TAP) Raksh's fangs tear into your enemies. 5 random Status Effects are applied at 10 Stacks each on an enemy. On target's death, spread the Status Effects to other nearby enemies.
+(HOLD) Raksh guards Voruna with Status Effect resistance.
+**Lycath's Hunt:** (TAP) Lycath hunts to sustain the pack. Enemies killed by melee attacks drop health orbs and enemies killed by headshots drop energy orbs. Increase the duration of Lycath’s hunt by killing enemies affected by 5 or more Status Effects.
+(HOLD) Lycath guards Voruna with increased Heavy Attack efficiency.
+**Ulfrun's Descent:** (TAP) Voruna drops to all fours and prepares 5 brutal charges that lock onto enemies. Ulfrun, the most powerful wolf, leads the attack as Voruna dashes toward her target. The pack deals increased damage to targets and nearby enemies that are inflicted by Status Effects. Lethal attacks double the damage of Voruna's remaining charges.
+(HOLD) Ulfrun guards Voruna. If Voruna falls during this time, Ulfrun dies in her place.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Axi V14 Relic (2.00%) |
+| Chassis | 1 | Lith N19 Relic (11.00%) |
+| Neuroptics | 1 | Meso D8 Relic (11.00%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Neo V11 Relic (2.00%) |
+
+## Wisp
+Wisp floats between the material and the ethereal. She accesses multiple dimensions to support her allies. Her countenance is mysterious and enigmatic.
+
+### Wiki
+Wisp floats between the material and the ethereal. She accesses multiple dimensions to support her allies. Her countenance is mysterious and enigmatic.
+Lotus
+Release Date: May 22nd, 2019
+Eerie. Elusive. Enigmatic. Haunting the spatial crossroads between dimensional doorways, the ethereal enchantress Wisp summons strange apparitions from beyond the breach. Sever her soul to escape death, steal the sight from enemy eyes, and vaporize all before the blaze of our celestial light. Wisp materialized in Update 25.
+Wisp is a Warframe that weaves through dimensions and summons portals to provide support. Her Passive renders her Invisible while airborne. Reservoirs summons three types of motes: Vitality that increases max Health and health recovery per second, Haste that increases Movement Speed, Attack Speed, and Fire Rate, and Shock to discharge Electricity status. Wil-O-Wisp renders Wisp invisible while projecting a spectral decoy that flies forward which she can teleport to. Breach Surge releases sparks that Blind enemies while releasing homing projectiles upon their death. Sol Gate opens a portal to the sun and blasts enemies with a beam of solar plasma.
+Wisp's main and components blueprints are acquired from defeating the Ropalolyst on The Ropalolyst, Jupiter.
+Crafting
+**Notes:**
+If Wisp wields her signature Fulmin, the weapon's Alternate Fire mode-switching animation is reduced from 1 second to 0.5 seconds.
+Wisp, along with Wisp Prime, Volt Prime, Chroma Prime, Saryn Prime, Ivara Prime, Baruuk (Baruuk Prime), and Yareli, possesses the third highest max-rank energy pool of all Warframes at 300 at rank 30, behind Yareli Prime's 315 and Garuda Prime's 320.
+This can be increased to 600 with a maxed Flow, 850 with Primed Flow, and 880 with Primed Flow and Endurance Drift.
+Health: 270 | Shield: 180 | Armor: 185 | Energy: 200 | Sprint: 1.2
+Aura: naramon
+
+### Abilities
+**Reservoirs:** Choose and summon a Reservoir filled with Motes that attach to and aid Wisp and her allies. Haste Mote grants increased movement and attack speed. Vitality Mote increases maximum health and heals over time. Shock Mote stuns nearby enemies.
+**Wil-O-Wisp:** Cast forward a spectral image of Wisp to confuse and distract enemies. Reactivate to travel to its position. Hold to have the image travel faster and teleport to its position on release.
+**Breach Surge:** Open a dimensional breach to overwhelm nearby enemies and cause them to release aggressive Surge sparks when damaged.
+Wisp may also target a Reservoir to teleport to it and double the range of the surge.
+**Sol Gate:** Open a portal to the sun to irradiate enemies with a devastating beam of pure solar plasma. Hold fire to double Damage at the cost of increased energy consumption. For the duration of an attack enemies damaged by Sol Gate are increasingly more vulnerable to it.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Jupiter/The Ropalolyst (Assassination) (22.56%) |
+| Chassis | 1 | Jupiter/The Ropalolyst (Assassination) (25.81%) |
+| Neuroptics | 1 | Jupiter/The Ropalolyst (Assassination) (25.81%) |
+| Orokin Cell | 3 | — |
+| Systems | 1 | Jupiter/The Ropalolyst (Assassination) (25.81%) |
+
+### Patch History (74 entries)
+- **Echoes of Veilbreaker: Update 32.1** (2022-11-02T15:00:14Z): Fixed crash caused by Wisp's passive script starting if Wisp dies within 1s of spawning or respawning.  Fixed a crash in the Unairu focus school's Caustic Strike ability if the player has Unairu Wisp
+- **Veilbreaker: Revenant Prime: Hotfix 32.0.12** (2022-10-12T19:39:20Z): Fixed the Theorem Demulcent Arcane applying its weapon damage increase buff to Wisp’s Breach Surge, Baruuk’s Desolate Hands, and Ember’s Fireball.
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Wisp’s Reservoirs
+- ...and 71 more patches
+
+## Wisp Prime
+Wisp Prime’s gilded splendor haunts the battlefield. Allies welcome her interdimensional beauty.
+
+### Wiki
+Wisp Prime's gilded splendor haunts the battlefield. Allies welcome her interdimensional beauty.
+Ballas
+Release Date: July 27th, 2023
+Wisp Prime is the Primed variant of Wisp, sporting increased Shield, Armor, and Sprint Speed, as well as an additional Naramon polarity. Wisp Prime was released alongside Fulmin Prime and Gunsen Prime.
+Crafting
+**Notes:**
+Wisp Prime, compared to Wisp:
+Higher Shield (270/370 vs. 180/280)
+Higher Armor (210 vs. 185)
+Higher Sprint Speed (1.25 vs. 1.2)
+Additional Naramon polarity (MaduraiVazarinNaramon vs. MaduraiVazarin)
+If Wisp Prime wields her signature Fulmin/Fulmin Prime, the weapon's Alternate Fire mode-switching animation is reduced from 1 seconds to 0.5 seconds.
+DeathOrbEnergy
+Wisp Prime, along with Wisp, Volt Prime, Chroma Prime, Saryn Prime, Ivara Prime, Baruuk (Baruuk Prime), and Yareli, possesses the third highest max-rank energy pool of all Warframes at 300 at rank 30, behind Yareli Prime's 315 and Garuda Prime's 320.
+This can be increased to 600 with a maxed Flow, 850 with Primed Flow, and 880 with Primed Flow and Endurance Drift.
+Wisp Prime's Reservoirs and Motes feature the same Prime aesthetics as the Warframe.
+Wisp Prime possesses a cape Appearance Auxiliary Attachment named Wisp Prime Shroud.
+eMlX3isbMBE
+Health: 270 | Shield: 270 | Armor: 210 | Energy: 200 | Sprint: 1.25
+Aura: naramon
+
+### Abilities
+**Reservoirs:** Choose and summon a Reservoir filled with Motes that attach to and aid Wisp and her allies. Haste Mote grants increased movement and attack speed. Vitality Mote increases maximum health and heals over time. Shock Mote stuns nearby enemies.
+**Wil-O-Wisp:** Cast forward a spectral image of Wisp to confuse and distract enemies. Reactivate to travel to its position. Hold to have the image travel faster and teleport to its position on release.
+**Breach Surge:** Open a dimensional breach to overwhelm nearby enemies and cause them to release aggressive Surge sparks when damaged.
+Wisp may also target a Reservoir to teleport to it and double the range of the surge.
+**Sol Gate:** Open a portal to the sun to irradiate enemies with a devastating beam of pure solar plasma. Hold fire to double Damage at the cost of increased energy consumption. For the duration of an attack enemies damaged by Sol Gate are increasingly more vulnerable to it.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Axi W3 Relic (2.00%); Axi W4 Relic (2.00%); Meso W3 Relic (2.00%); Meso W4 Relic (2.00%); Neo W2 Relic (2.00%) |
+| Chassis | 1 | Lith W3 Relic (2.00%); Lith W4 Relic (2.00%); Meso W5 Relic (2.00%); Neo W1 Relic (2.00%); Neo H4 Relic (11.00%) |
+| Neuroptics | 1 | Axi F2 Relic (11.00%); Lith A7 Relic (11.00%); Lith G13 Relic (11.00%); Lith L6 Relic (11.00%); Meso K6 Relic (11.00%); Neo A13 Relic (11.00%); Neo K6 Relic (11.00%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Axi A17 Relic (25.33%); Axi B7 Relic (25.33%); Lith N15 Relic (25.33%); Lith Q1 Relic (25.33%); Meso G10 Relic (25.33%); Meso G7 Relic (25.33%); Meso T7 Relic (25.33%); Neo D7 Relic (25.33%) |
+
+## Wukong
+The simian warrior is a mountain of strength. Wukong deals heavy damage and has high survivability. His quick trickster tactics are unforgettable.
+
+### Wiki
+The simian warrior is a mountain of strength. Wukong deals heavy damage and has high survivability. His quick trickster tactics are unforgettable.
+Lotus
+Release Date: November 25th, 2015
+Descending from the empyrean eternal, the unruly primal saint Wukong wreaks havoc in the System with his immortal trickery and savage beatings. Divide and conquer with twice yourselves, then journey unseen under a cloak of clouds. Endure through any assault with arrogant poise, donning the legendary staff to tip the balance in his favor, and his opponents off their feet. Wukong embarked on a new journey in Update 17.12 and was joined by his twin in Update 25.2.
+Wukong is a Warframe with mythical powers that grant him damage and survivability. His Passive lets him cheat death up to three times, with each prevention temporarily granting him increased elemental damage, Invisible, Invulnerability, extra resource drop chance, or increased Health Orb and Energy Orb effectiveness. Celestial Twin sheds a clone that fights alongside Wukong. Cloud Walker transforms into a mobile cloud that grants Health restore, invisibility, and invulnerability, while Defy engages an invulnerable stance that absorbs and reflects damage while granting increased Armor. Primal Fury summons the legendary Iron Staff melee.
+**Acquisition:**
+Wukong's blueprints can be researched from the Tenno Lab in the dojo.
+Crafting
+**Notes:**
+Wukong's research requires 11 Nitain Extract. This will require 45 worth of Nightwave offerings. Furthermore, crafting Wukong requires 6 Nitain Extract for an additional 30.
+Although Reactor Sabotage caches have a chance to reward Nitain Extracts (and thus, cut down on ​ costs), it should not be wholly relied on due to the low chance of Nitain being rewarded.
+Health: 455 | Shield: 270 | Armor: 265 | Energy: 130 | Sprint: 1
+Aura: madurai
+
+### Abilities
+**Celestial Twin:** Shedding part of himself, Wukong creates a twin to fight by his side. Attack at range and the twin will melee, pull a blade and the twin will lay down covering fire.
+Use again to command the twin to attack a target with increased damage.
+**Cloud Walker:** Evaporate into a cloud of mist and float through the battlefield, dazing any enemies encountered, while healing Wukong and his twin.
+**Defy:** Wukong and his twin become invulnerable and defy enemies to attack. All damage is captured, stored, and dealt back in a single furious strike of Wukong's staff.
+Bonus Armor is then granted relative to the damage captured.
+**Primal Fury:** Summon the iron staff and unleash fury.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | — |
+| Neuroptics | 1 | — |
+| Orokin Cell | 1 | — |
+| Systems | 1 | — |
+
+### Patch History (87 entries)
+- **Echoes of Veilbreaker: Update 32.1** (2022-11-02T15:00:14Z): Fixed ammo pools not being shared properly across NPCs (Specters, Wukong’s Clone, Excalibur Umbra on Transference, and Equinox’s other half while using the Duality Augment Mod).  This falls in line wi
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Wukong’s Cloud Walker Fixed the Equinox & Wukong Prime Pack description text box going off screen when viewing it in Varzia’s menu.
+- **Veilbreaker: Hotfix 32.0.3** (2022-09-14T17:58:41Z): Fixed clipping issues with chest armor when equipped on Wukong’s Voidshell Skin.
+- ...and 84 more patches
+
+## Wukong Prime
+The trickster-warrior ascends to his ultimate incarnation.
+
+### Wiki
+The trickster-warrior ascends to his ultimate incarnation.
+Release Date: July 6th, 2019
+Wukong Prime is the Primed variant of Wukong, possessing increased shield capacity, armor, energy, and sprint speed, as well as an additional Madurai polarity. Wukong Prime was released alongside Zhuge Prime and Ninkondi Prime.
+Vaultings
+On May 11th, 2021, it was announced that Wukong Prime, along with Zhuge Prime and Ninkondi Prime, would enter the Prime Vault and be retired from the reward tables on May 25th, 2021. Any preexisting components or fully-built items will remain as is.
+Crafting
+**Notes:**
+Wukong Prime, compared to Wukong:
+Higher Shields (345/445 vs. 270/370)
+Higher Armor (290 vs. 265)
+Higher Energy (145/195 vs. 130/180)
+Higher Starting Energy (65 vs. 50)
+Higher Sprint Speed (1.05 vs. 1.0)
+Additional Madurai Polarity (NaramonVazarinMadurai vs. NaramonVazarin)
+DeathOrbEnergy
+Wukong Prime's Cloud Walker features additional lightning effects:
+When Wukong Prime disappears into a cloud, there will be a lightning strike up into the air.
+When he reappears, there will be several lightning strikes outward from his body onto the ground around him.
+**Trivia:**
+Wukong Prime was officially revealed and released during TennoCon 2019.
+Wukong Prime was the most used Warframe of 2020 and 2021.
+Wukong Prime's tail is slimmer and longer than that of his non-Primed counterpart.
+Wukong's Prime Access contains various references to the Chinese novel Journey to the West, from where Wukong is best known.
+It comes bundled with the Tang Fur Pattern for Kubrow and Sanzang Kubrow Armor in reference to Tang Sanzang, who Wukong aids in his journey to retrieve the Buddhist sutras from the West in the aforementioned novel.
+Wukong Prime's signature Syandana is named Jindou Prime in reference to the Jīndǒuyún (筋斗雲), the technique that allows him to ride or leap through clouds.
+Bt7Mx7Y3AX4
+Health: 455 | Shield: 345 | Armor: 290 | Energy: 145 | Sprint: 1.05
+Aura: madurai
+
+### Abilities
+**Celestial Twin:** Shedding part of himself, Wukong creates a twin to fight by his side. Attack at range and the twin will melee, pull a blade and the twin will lay down covering fire.
+Use again to command the twin to attack a target with increased damage.
+**Cloud Walker:** Evaporate into a cloud of mist and float through the battlefield, dazing any enemies encountered, while healing Wukong and his twin.
+**Defy:** Wukong and his twin become invulnerable and defy enemies to attack. All damage is captured, stored, and dealt back in a single furious strike of Wukong's staff.
+Bonus Armor is then granted relative to the damage captured.
+**Primal Fury:** Summon the iron staff and unleash fury.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Axi W1 Relic (2.00%); Axi W2 Relic (2.00%); Lith W1 Relic (2.00%); Lith W2 Relic (2.00%); Meso W1 Relic (2.00%); Meso W2 Relic (2.00%) |
+| Chassis | 1 | Axi A10 Relic (11.00%); Axi T6 Relic (11.00%); Lith K3 Relic (11.00%); Lith N13 Relic (11.00%); Meso B4 Relic (11.00%); Meso K3 Relic (11.00%); Neo N13 Relic (11.00%); Neo S12 Relic (11.00%) |
+| Neuroptics | 1 | Axi G2 Relic (25.33%); Axi T4 Relic (25.33%); Axi Z1 Relic (25.33%); Lith D2 Relic (25.33%); Lith S13 Relic (25.33%); Neo I1 Relic (25.33%); Neo T2 Relic (25.33%); Neo Z7 Relic (25.33%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Axi A11 Relic (11.00%); Axi P3 Relic (11.00%); Axi R3 Relic (11.00%); Meso K2 Relic (11.00%); Meso T4 Relic (11.00%); Neo I2 Relic (11.00%); Neo Z9 Relic (11.00%) |
+
+### Patch History (87 entries)
+- **Echoes of Veilbreaker: Update 32.1** (2022-11-02T15:00:14Z): Fixed ammo pools not being shared properly across NPCs (Specters, Wukong’s Clone, Excalibur Umbra on Transference, and Equinox’s other half while using the Duality Augment Mod).  This falls in line wi
+- **Veilbreaker: Hotfix 32.0.7** (2022-09-28T14:59:21Z): Wukong’s Cloud Walker Fixed the Equinox & Wukong Prime Pack description text box going off screen when viewing it in Varzia’s menu.
+- **Veilbreaker: Hotfix 32.0.3** (2022-09-14T17:58:41Z): Fixed clipping issues with chest armor when equipped on Wukong’s Voidshell Skin.
+- ...and 84 more patches
+
+## Xaku
+Broken Warframes adrift in the Void converged to create Xaku. Together, they deal high damage. Xaku proves that the sum of the whole is greater than its parts.
+
+### Wiki
+Broken Warframes adrift in the Void converged to create Xaku. Together, they deal high damage. Xaku proves that the sum of the whole is greater than its parts.
+Lotus
+Release Date: August 25th, 2020
+Of the Void ethereal, yet coalesced into corporeal shape, the fractured anomaly Xaku exists as an entity thrice entwined. Fused from the shattered remnants of three warriors, they bridge reality to the horrors from beyond the fold. Xaku reassembled in Update 29.
+Xaku is an amalgamation of Warframes fused by the mysterious powers of the Void, blessed with high damage output. Their Passive grants Dodge chance to allow enemy attacks to harmlessly phase through them. Xata's Whisper imbues their weapons with Void damage. Grasp of Lohk seizes and Disarmed enemy weapons to create armaments that hover around Xaku and auto-target nearby enemies. The Lost cycles through three abilities: Accuse forces enemies to become briefly allied, Gaze binds an enemy to project a field that removes enemy shields and armor, and Deny releases a beam that lifts enemies into aerial stasis. The Vast Untime sheds Xaku's fragments to emerge in their skeletal form, releasing a blast that applies Slow and Void Damage Vulnerability, increasing their movement speed and passive dodge chance, and pauses the duration of all other abilities.
+**Acquisition:**
+Xaku's main blueprint is awarded upon completion of the Heart of Deimos quest. Xaku's component blueprints are acquired from Cambion Drift Bounties: the Neuroptics are obtained from Bounties lvl 15-25, Systems from lvl 30-40 and Chassis - from either lvl 40-60 or Steel Path lvl 100; each of those can be acquired from any stage beyond the first one.
+droptable
+Additional main blueprints can be bought from Cephalon Simaris for 50,000 Standing.
+Additionally requires either Rank 5 - Old Mate with Solaris United or Rank 1 - Operative with Vox Solaris in order to acquire Gyromag Systems required in its construction.
+Crafting
+Health: 269 | Shield: 239 | Armor: 146 | Energy: 160 | Sprint: 1.02
+Aura: naramon
+
+### Abilities
+**Xata's Whisper:** Wield Void Damage for all attacks from equipped weapons when activated.
+**Grasp Of Lohk:** Void Tendrils steal weapons from nearby enemies to use as your own floating, auto-targeting armament. Damage output increases based on enemy level. The number of weapons grabbed also determines the damage multiplier for The Lost: Deny's Void beam.
+**The Lost:** Cycle through a trio of lost Warframe powers. Accuse manifests a Void fissure to corrupt enemies into allies. Gaze grasps targets in Void tendrils that capture damage and inflict it when the target is released. Deny annihilates with a beam of Void energy, wiping Sentient resistances.
+**The Vast Untime:** Temporarily shed the outer pieces of Xaku in a destructive blast, then stalk the battlefield in a new, swifter skeletal form. Enemies damaged by the body shrapnel are rendered weaker to Void Damage. Xaku's other active abilities' duration is frozen in time and resumes once The Vast Untime expires.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Cephalon Simaris, Complete Heart of Deimos (100.00%) |
+| Chassis | 1 | Deimos/Cambion Drift (Level 100 - 100 Cambion Drift Bounty), Rotation A (13.04%); Deimos/Cambion Drift (Level 40 - 60 Cambion Drift Bounty), Rotation A (13.04%); Deimos/Cambion Drift (Level 100 - 100 Cambion Drift Bounty), Rotation A (6.67%); Deimos/Cambion Drift (Level 40 - 60 Cambion Drift Bounty), Rotation A (6.67%); Deimos/Cambion Drift (Level 100 - 100 Cambion Drift Bounty), Rotation A (8.57%); Deimos/Cambion Drift (Level 40 - 60 Cambion Drift Bounty), Rotation A (8.57%) |
+| Neuroptics | 1 | Deimos/Cambion Drift (Level 15 - 25 Cambion Drift Bounty), Rotation A (12.00%); Deimos/Cambion Drift (Level 15 - 25 Cambion Drift Bounty), Rotation B (12.00%); Deimos/Cambion Drift (Level 15 - 25 Cambion Drift Bounty), Rotation C (12.00%); Deimos/Cambion Drift (Level 15 - 25 Cambion Drift Bounty), Rotation A (6.82%); Deimos/Cambion Drift (Level 15 - 25 Cambion Drift Bounty), Rotation B (6.82%); Deimos/Cambion Drift (Level 15 - 25 Cambion Drift Bounty), Rotation C (6.82%); Deimos/Cambion Drift (Level 15 - 25 Cambion Drift Bounty), Rotation A (8.82%); Deimos/Cambion Drift (Level 15 - 25 Cambion Drift Bounty), Rotation B (8.82%); Deimos/Cambion Drift (Level 15 - 25 Cambion Drift Bounty), Rotation C (8.82%) |
+| Orokin Cell | 3 | — |
+| Systems | 1 | Deimos/Cambion Drift (Level 30 - 40 Cambion Drift Bounty), Rotation A (11.32%); Deimos/Cambion Drift (Level 30 - 40 Cambion Drift Bounty), Rotation B (11.32%); Deimos/Cambion Drift (Level 30 - 40 Cambion Drift Bounty), Rotation A (6.45%); Deimos/Cambion Drift (Level 30 - 40 Cambion Drift Bounty), Rotation B (6.45%); Deimos/Cambion Drift (Level 30 - 40 Cambion Drift Bounty), Rotation A (8.22%); Deimos/Cambion Drift (Level 30 - 40 Cambion Drift Bounty), Rotation B (8.22%) |
+
+### Patch History (36 entries)
+- **Lua’s Prey: Hotfix 32.2.4** (2022-12-07T19:04:56Z): The tail on Xaku Kagura Helmet will no longer appear on Xaku generated Kuva Liches to fix many clipping issues.
+- **Lua’s Prey: Hotfix 32.2.1** (2022-11-30T22:33:07Z): Fixed clipping issues with the Eos (base and Prime) Shoulder Plates when equipped on Xaku’s Kagura Skin.
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): Added a pulsing glow FX to Xaku’s unused The Lost abilities while The Relentless Lost Augment Mod is equipped.
+- ...and 33 more patches
+
+## Xaku Prime
+The child of war and void is reborn in gold. That which was once shattered may rise stronger than that which was never broken.
+
+### Wiki
+The child of war and void is reborn in gold. That which was once shattered may rise stronger than that which was never broken.
+Release Date: November 13, 2024
+Xaku Prime is the Primed variant of Xaku, sporting increased Shields, Armor, Energy, and Sprint Speed, as well as an additional Madurai Polarity. Xaku Prime was released alongside Trumna Prime and Quassus Prime.
+Crafting
+**Notes:**
+Xaku Prime, compared to Xaku:
+Higher Shields (269/353 vs. 239/329)
+Higher Armor (167 vs. 146)
+Higher Energy (181/251 vs. 160/230)
+Higher Sprint Speed (1.07 vs. 1.02)
+Additional Madurai polarity (VazarinVazarinMadurai vs. VazarinVazarin)
+DeathOrbEnergy
+When Xaku wields their signature Quassus/Quassus Prime, the weapon's heavy attack ethereal daggers become more accurate.
+Xaku Prime possesses two Appearance Auxiliary Attachments: Corporeal, which keeps Xaku Prime in their default form even during The Vast Untime; and Skeletal, which gives Xaku Prime the appearance of their skeletal form that they take upon using The Vast Untime.
+**Trivia:**
+Xaku Prime was designed by Vadim Sverdlov, from an initial concept by Michael "Mynki" Brennan.
+Their 3D model was done by Michael Skyers.
+Xaku Prime is the first Prime Warframe without a distinct gender.
+Unlike other Primes, Xaku Prime's design features Entrati elements, namely the presence of Entrati Obols.
+Xaku Prime's base and max Shields and Energy, as well as their Armor, are all Prime numbers, while the Sprint Speed is 1.07, and 7 is a Prime number.
+Health: 269 | Shield: 263 | Armor: 167 | Energy: 181 | Sprint: 1.07
+Aura: naramon
+
+### Abilities
+**Xata's Whisper:** Wield Void Damage for all attacks from equipped weapons when activated.
+**Grasp Of Lohk:** Void Tendrils steal weapons from nearby enemies to use as your own floating, auto-targeting armament. Damage output increases based on enemy level. The number of weapons grabbed also determines the damage multiplier for The Lost: Deny's Void beam.
+**The Lost:** Cycle through a trio of lost Warframe powers. Accuse manifests a Void fissure to corrupt enemies into allies. Gaze grasps targets in Void tendrils that capture damage and inflict it when the target is released. Deny annihilates with a beam of Void energy, wiping Sentient resistances.
+**The Vast Untime:** Temporarily shed the outer pieces of Xaku in a destructive blast, then stalk the battlefield in a new, swifter skeletal form. Enemies damaged by the body shrapnel are rendered weaker to Void Damage. Xaku's other active abilities' duration is frozen in time and resumes once The Vast Untime expires.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Lith X1 Relic (2.00%); Meso X1 Relic (2.00%); Neo X1 Relic (2.00%) |
+| Chassis | 1 | Axi V12 Relic (11.00%); Lith O4 Relic (11.00%); Neo G8 Relic (11.00%); Neo K9 Relic (11.00%); Neo V11 Relic (11.00%) |
+| Neuroptics | 1 | Axi T13 Relic (25.33%); Lith N17 Relic (25.33%); Lith S16 Relic (25.33%); Meso A10 Relic (25.33%); Meso E6 Relic (25.33%); Meso T8 Relic (25.33%); Meso V11 Relic (25.33%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Axi A19 Relic (11.00%); Axi M6 Relic (11.00%); Axi S20 Relic (11.00%); Lith A10 Relic (11.00%); Neo O3 Relic (11.00%) |
+
+## Yareli
+The waverider can unleash a flood of destruction on the battlefield. Yareli’s aqueous attacks deal high damage. Surf’s up. Enemies down.
+
+### Wiki
+The waverider can unleash a flood of destruction on the battlefield. Yareli’s aqueous attacks deal high damage. Surf’s up. Enemies down.
+Lotus
+Release Date: July 6th, 2021
+Rise from the cold depths below and brave the waves above, across an azure expanse basked in starlight's gleam. Submerse into the deep marine with Yareli, the nymphean sailor. Fluid as tidal ebb and flow, surf swiftly and ripple through her foes, as slender teardrops cascade into a sanguine ocean. Yareli and Merulina splashed into battle on Update 30.5.
+Yareli is an aquatic rider Warframe that deals damage and battlefield control. Her Passive increases secondary weapon Critical Chance while she is mobile. Sea Snares forms water globules that seek enemies to place them in aerial stasis while increasing Damage Vulnerability. Merulina summons her trusty K-Drive which possesses Damage Redirection. Aquablades summons a trio of orbiting blades. Riptide summons a water cyclone that pulls enemies into its spiral before exploding.
+**Acquisition:**
+Yareli's main blueprint is acquired by completing The Waverider quest. Component blueprints are acquired through Research inside the Ventkids' Bash Lab within the Clan Dojo.
+Additional main blueprints can be bought from Cephalon Simaris for 50,000 Standing.
+Crafting
+Lore
+Creation
+Ballas
+The person that became Yareli was formerly a Yuvan, who was originally noticed by Ballas in a Yuvan Theater, drawing his attention as a candidate for the Continuity, but he became frustrated with her thinly-veiled disrespect for Orokin customs and beliefs, which went so far as to "dishonor the sacred Kuva." As retribution, he had her turned into a Warframe, so that her body would be "worn" (through Transference) by many individuals.
+The Waverider
+Health: 270 | Shield: 455 | Armor: 105 | Energy: 200 | Sprint: 1
+Aura: madurai
+
+### Abilities
+**Sea Snares:** Form five water globules that seek out enemies and expand on contact, simultaneously damaging and immobilizing their victims.
+Enemies hit by the globules take increased damage from all sources.
+**Merulina:** Summon Merulina, a rideable creature of the waves, and the inspiration for K-Driving. Merulina protects Yareli by absorbing a large portion of incoming damage.
+**Aquablades:** Tear through foes with a trio of orbiting aquatic blades.
+**Riptide:** Drag enemies into a crushing maelstrom and then blow them away in a watery burst. Each enemy trapped in the vortex increases the burst's damage.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Cephalon Simaris, Complete The Waverider (100.00%) |
+| Chassis | 1 | — |
+| Neuroptics | 1 | — |
+| Orokin Cell | 3 | — |
+| Systems | 1 | — |
+
+### Patch History (25 entries)
+- **Lua’s Prey: Hotfix 32.2.2** (2022-12-01T18:07:18Z): Fixed script error with Yareli’s Aquablades.
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): Ride the wave, Tenno! Yareli has leveled up her water bending skills and increased her survivability with the following changes. Added a 1 second delay before the Critical Flow buff ends after Yareli
+- **Echoes of Veilbreaker: Update 32.1** (2022-11-02T15:00:14Z): Fixed Yareli falling through the map in various different tilesets when mounting/dismounting Merulina.  Fixed Kuva Larvling not spawning while playing as Yareli while riding Merulina.
+- ...and 22 more patches
+
+## Yareli Prime
+The Waverider arises, reborn from the ocean foam. In her original Orokin-era splendor she embodies the undying vigor of youth.
+
+### Wiki
+The Waverider arises, reborn from the ocean foam. In her original Orokin-era splendor she embodies the undying vigor of youth.
+Ballas
+Release Date: May 21st, 2025
+Yareli Prime is the Primed variant of Yareli, sporting increased Shields, Energy, and Sprint Speed, as well as an additional Vazarin polarity. Yareli Prime was released alongside Kompressa Prime and Daikyu Prime.
+Crafting
+**Notes:**
+Yareli Prime, compared to Yareli:
+Higher Shield (550/650 vs. 455/555)
+Higher Energy (215/315 vs. 200/300)
+Higher Sprint Speed (1.1 vs. 1.0)
+Additional Vazarin polarity (MaduraiNaramonVazarin vs. MaduraiNaramon)
+DeathOrbEnergy
+When Yareli Prime wields her signature Kompressa/Kompressa Prime, the weapon gains +30% Projectile Speed.
+Yareli Prime possesses the second highest base Energy reserves of all Warframes, behind Garuda Prime's 320: 215 at rank 0 and 315 at rank 30.
+Acquiring Yareli Prime grants the "Yareli And Merulina Prime" Captura Scene, which features the player's customized Yareli Prime (without attachments) in a static shot using poses from her Prime Trailer.
+**Trivia:**
+Yareli Prime was first revealed in Devstream 188 at Pax East 2025 in Boston, Massachusetts.
+Yareli Prime is the first Prime Warframe to come with a Captura scene upon acquisition.
+goiywW46UWg
+Health: 270 | Shield: 550 | Armor: 105 | Energy: 215 | Sprint: 1.1
+Aura: madurai
+
+### Abilities
+**Sea Snares:** Form five water globules that seek out enemies and expand on contact, simultaneously damaging and immobilizing their victims.
+Enemies hit by the globules take increased damage from all sources.
+**Merulina:** Summon Merulina, a rideable creature of the waves, and the inspiration for K-Driving. Merulina protects Yareli by absorbing a large portion of incoming damage.
+**Aquablades:** Tear through foes with a trio of orbiting aquatic blades.
+**Riptide:** Drag enemies into a crushing maelstrom and then blow them away in a watery burst. Each enemy trapped in the vortex increases the burst's damage.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Meso D8 Relic (11.00%); Meso P17 Relic (11.00%); Neo A14 Relic (11.00%) |
+| Chassis | 1 | Lith A10 Relic (25.33%); Lith Z4 Relic (25.33%); Meso X1 Relic (25.33%); Neo V11 Relic (25.33%) |
+| Neuroptics | 1 | Axi Y2 Relic (2.00%); Axi Y3 Relic (2.00%); Lith Y1 Relic (2.00%); Meso Y1 Relic (2.00%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Axi Y1 Relic (2.00%) |
+
+## Zephyr
+Command the power of the wind. Zephyr’s cyclonic abilities protect her, deal high damage, and provide crowd control. She swoops in from above and leaves a path of destruction.
+
+### Wiki
+Command the power of the wind. Zephyr's cyclonic abilities protect her, deal high damage, and provide crowd control. She swoops in from above and leaves a path of destruction.
+Lotus
+Release Date: February 5th, 2014
+Light-footed and graceful, the beautiful and deadly Zephyr is in her element while airborne. With the power to bend air currents, she is an agile skyterror who delivers swift judgement from above. Zephyr soared to the skies in Update 12.
+Zephyr is a Warframe that commands wind which grants her damage and crowd control. Her Passive reduces her falling speed while increasing Critical Chance while airborne. Tail Wind launches Zephyr in a direction, or sustains her altitude to hover. Airburst launches a blast of wind that forcefully pushes or groups enemies. Turbulence summons a shield that deflects enemy projectiles. Tornado summons deadly tornados that roam, hovering enemies in ragdoll while absorbing elemental damage.
+**Acquisition:**
+Zephyr's blueprints can be researched from the Tenno Lab in the dojo.
+Crafting
+**Notes:**
+Zephyr has reduced friction against air and increased resistance to gravity.
+Zephyr jumps higher and has longer hang time than other Warframes.
+Due to a bug(?), a Zephyr playing as a client will have complete lateral air friction when not sliding, meaning that the player will completely stop moving laterally while in the air as long as a movement button is not held.
+Health: 455 | Shield: 455 | Armor: 105 | Energy: 100 | Sprint: 1.1
+Aura: vazarin
+
+### Abilities
+**Tail Wind:** Hold while airborne to hover Zephyr with reduced movement. From the air, tap to dash forward, or aim down to dive bomb enemies below.
+**Airburst:** Launch a burst of massively dense air. Hold to send enemies flying, tap to pull them toward the burst. Damage increases per enemy hit.
+**Turbulence:** Creates a wind shield around Zephyr, redirecting all incoming projectiles.
+**Tornado:** Create deadly tornadoes that seek out and engulf enemies. Tornadoes deal the elemental Damage Type they absorb the most. Shoot engulfed enemies to inflict extra damage. Hold for stationary tornadoes or tap for wandering ones.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | — |
+| Chassis | 1 | — |
+| Neuroptics | 1 | — |
+| Orokin Cell | 1 | — |
+| Systems | 1 | — |
+
+### Patch History (113 entries)
+- **Lua’s Prey: Hotfix 32.2.1** (2022-11-30T22:33:07Z): Fixed crash caused by a player extracting but leaving behind ability elements that affect enemies (notably Zephyr’s Air Burst projectiles).
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): In the Veilbreaker and Nora’s Mix Vol 1 updates, we buffed a number of underused Warframe Augments (from Ash to Oberon). This third and final batch of buffs tackles Warframe Augments from Saryn to Zep
+- **Echoes of Veilbreaker: Update 32.1** (2022-11-02T15:00:14Z): Fixed being unable to manually reload while using a controller when Zephyr is in Tail Wind.
+- ...and 110 more patches
+
+## Zephyr Prime
+Take to the skies with this golden bird of destruction.
+
+### Wiki
+Zephyr Prime
+Release Date: March 20th, 2018
+Zephyr Prime is the Primed variant of Zephyr, featuring higher armor, energy, and sprint speed, as well as an additional Madurai and Vazarin polarities. Zephyr Prime was released alongside Tiberon Prime and Kronen Prime.
+Vaultings
+On December 4th, 2019, it was announced that Zephyr Prime, alongside Tiberon Prime and Kronen Prime, would enter the Prime Vault and its relics retired from the drop tables on December 17th, 2019. Any preexisting components or fully-built frames will remain as is.
+Crafting
+**Notes:**
+Zephyr Prime, compared to Zephyr:
+Higher Armor (135 vs. 105)
+Higher Energy (175/225 vs. 100/150)
+Higher Starting Energy (75 vs. 50)
+Higher Sprint Speed (1.2 vs. 1.15)
+Additional Madurai and Vazarin Polarities (MaduraiMaduraiVazarinNaramon vs. MaduraiNaramon)
+DeathOrbEnergy
+Zephyr Prime produces more prominent effects when using Tail Wind to dash, including a visible energy trail and a swirling vortex of particles.
+**Trivia:**
+Zephyr Prime is the third Prime Warframe to have a non-static model, as the feathers on her head and arms extend outwards whenever she is in mid-air, after Rhino Prime and Nova Prime.
+Health: 455 | Shield: 455 | Armor: 135 | Energy: 175 | Sprint: 1.15
+Aura: vazarin
+
+### Abilities
+**Tail Wind:** Hold while airborne to hover Zephyr with reduced movement. From the air, tap to dash forward, or aim down to dive bomb enemies below.
+**Airburst:** Launch a burst of massively dense air. Hold to send enemies flying, tap to pull them toward the burst. Damage increases per enemy hit.
+**Turbulence:** Creates a wind shield around Zephyr, redirecting all incoming projectiles.
+**Tornado:** Create deadly tornadoes that seek out and engulf enemies. Tornadoes deal the elemental Damage Type they absorb the most. Shoot engulfed enemies to inflict extra damage. Hold for stationary tornadoes or tap for wandering ones.
+
+### Crafting Components
+| Component | Count | Drops |
+|---|---|---|
+| Blueprint | 1 | Meso Z1 Relic (2.00%); Neo Z1 Relic (2.00%); Neo Z2 Relic (2.00%); Neo Z4 Relic (2.00%); Axi G5 Relic (11.00%) |
+| Chassis | 1 | Axi L3 Relic (11.00%); Axi O3 Relic (11.00%); Meso A2 Relic (11.00%); Meso W1 Relic (11.00%); Neo A2 Relic (11.00%); Neo K1 Relic (11.00%); Meso R4 Relic (25.33%) |
+| Neuroptics | 1 | Axi A4 Relic (25.33%); Axi O4 Relic (25.33%); Axi R3 Relic (25.33%); Lith C8 Relic (25.33%); Lith H2 Relic (25.33%); Lith K2 Relic (25.33%); Neo N10 Relic (25.33%); Neo Z3 Relic (25.33%) |
+| Orokin Cell | 5 | — |
+| Systems | 1 | Lith Z1 Relic (2.00%); Lith Z2 Relic (2.00%); Meso Z2 Relic (2.00%); Meso Z3 Relic (2.00%); Neo Z8 Relic (2.00%) |
+
+### Patch History (113 entries)
+- **Lua’s Prey: Hotfix 32.2.1** (2022-11-30T22:33:07Z): Fixed crash caused by a player extracting but leaving behind ability elements that affect enemies (notably Zephyr’s Air Burst projectiles).
+- **Update 32.2.0: Lua’s Prey** (2022-11-30T16:01:46Z): In the Veilbreaker and Nora’s Mix Vol 1 updates, we buffed a number of underused Warframe Augments (from Ash to Oberon). This third and final batch of buffs tackles Warframe Augments from Saryn to Zep
+- **Echoes of Veilbreaker: Update 32.1** (2022-11-02T15:00:14Z): Fixed being unable to manually reload while using a controller when Zephyr is in Tail Wind.
+- ...and 110 more patches

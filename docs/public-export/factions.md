@@ -1,5 +1,4 @@
 # Public Export — Factions
-
 All factions in Warframe.
 
 ## Grineer
@@ -23,4 +22,3 @@ All factions in Warframe.
 ## Techrot
 
 ## Duviri
-

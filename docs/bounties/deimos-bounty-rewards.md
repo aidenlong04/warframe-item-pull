@@ -1,11 +1,8 @@
 # Deimos Bounty Rewards
-
 Cambion Drift bounty reward tables. Includes rotation rewards and drop percentages.
 
 ## Level 5 - 15 Cambion Drift Bounty
-
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 3X 1,500 Credits Cache | Common | 33.33% |
@@ -34,9 +31,7 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | 250 Endo | Uncommon | 18.33% |
 | Aya | Uncommon | 18.33% |
 | Scintillant | Rare | 8.33% |
-
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 3X 1,500 Credits Cache | Common | 33.33% |
@@ -65,9 +60,7 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | 250 Endo | Uncommon | 18.33% |
 | Aya | Uncommon | 18.33% |
 | Scintillant | Rare | 8.33% |
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 3X 1,500 Credits Cache | Common | 33.33% |
@@ -96,11 +89,8 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | 250 Endo | Uncommon | 18.33% |
 | Aya | Uncommon | 18.33% |
 | Scintillant | Rare | 8.33% |
-
 ## Level 15 - 25 Cambion Drift Bounty
-
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 600 Endo | Uncommon | 31.58% |
@@ -132,9 +122,7 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | Weeping Wounds | Uncommon | 14.00% |
 | Embedded Catalyzer | Uncommon | 14.00% |
 | Nano-Applicator | Common | 40.00% |
-
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 600 Endo | Uncommon | 31.58% |
@@ -166,9 +154,7 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | Sharpened Bullets | Uncommon | 14.00% |
 | Bladed Rounds | Uncommon | 14.00% |
 | Maiming Strike | Common | 40.00% |
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 600 Endo | Uncommon | 31.58% |
@@ -200,11 +186,8 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | Spring-Loaded Chamber | Uncommon | 14.00% |
 | Repeater Clip | Uncommon | 14.00% |
 | Pressurized Magazine | Common | 40.00% |
-
 ## Level 25 - 30 Cambion Drift Bounty
-
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Ayatan Amber Star | Common | 55.56% |
@@ -252,9 +235,7 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | Carnis Stinger | Rare | 2.56% |
 | Jugulus Spines | Rare | 2.56% |
 | Saxum Spittle | Rare | 2.56% |
-
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Ayatan Amber Star | Common | 53.33% |
@@ -302,9 +283,7 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | Carnis Stinger | Rare | 2.50% |
 | Jugulus Spines | Rare | 2.50% |
 | Saxum Spittle | Rare | 2.50% |
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Ayatan Amber Star | Common | 55.56% |
@@ -352,11 +331,8 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | Carnis Stinger | Rare | 2.50% |
 | Jugulus Spines | Rare | 2.50% |
 | Saxum Spittle | Rare | 2.50% |
-
 ## Level 30 - 40 Cambion Drift Bounty
-
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 750 Endo | Common | 45.00% |
@@ -388,9 +364,7 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | Laser Sight | Uncommon | 13.21% |
 | Blood Rush | Uncommon | 13.21% |
 | Argon Scope | Common | 37.74% |
-
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 750 Endo | Common | 45.00% |
@@ -422,16 +396,11 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | Targeting Subsystem | Uncommon | 13.21% |
 | Guided Ordnance | Uncommon | 13.21% |
 | Narrow Barrel | Common | 37.74% |
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
-
 ## Level 40 - 60 Cambion Drift Bounty
-
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Ayatan Amber Star | Common | 45.45% |
@@ -451,21 +420,14 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | Aya | Common | 43.48% |
 | Xaku Chassis Blueprint | Uncommon | 13.04% |
 | Quassus Blueprint | Common | 43.48% |
-
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
-
 ## Level 100 - 100 Cambion Drift Bounty
-
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Ayatan Amber Star | Common | 45.45% |
@@ -485,41 +447,32 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | Aya | Common | 43.48% |
 | Xaku Chassis Blueprint | Uncommon | 13.04% |
 | Quassus Blueprint | Common | 43.48% |
-
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
-
 ## Level 30 - 40 Isolation Vault
-
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Residual Boils | Uncommon | 25.00% |
 | Necramech Redirection | Uncommon | 12.50% |
 | 2X Orokin Orientation Matrix | Rare | 6.25% |
-| Meso V11 Relic | Rare | 6.25% |
+| Meso D8 Relic | Rare | 6.25% |
 | Residual Shock | Uncommon | 15.00% |
 | Necramech Steel Fiber | Rare | 7.50% |
 | 2X Orokin Ballistics Matrix | Rare | 3.75% |
 | Neo C7 Relic | Rare | 1.88% |
-| Neo P9 Relic | Rare | 1.88% |
+| Neo S20 Relic | Rare | 1.88% |
 | Theorem Contagion | Uncommon | 10.00% |
 | Necramech Thrusters | Rare | 4.00% |
 | Damaged Necramech Weapon Barrel | Rare | 3.00% |
 | 3X Scintillant | Rare | 2.00% |
 | 2X Orokin Animus Matrix | Legendary | 0.50% |
-| Axi S18 Relic | Legendary | 0.50% |
-
+| Axi S20 Relic | Legendary | 0.50% |
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Residual Malodor | Uncommon | 25.00% |
@@ -529,16 +482,14 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | Residual Viremia | Uncommon | 15.00% |
 | Necramech Efficiency | Rare | 7.50% |
 | 2X Orokin Ballistics Matrix | Rare | 3.75% |
-| Neo C6 Relic | Rare | 3.75% |
+| Neo N24 Relic | Rare | 3.75% |
 | Theorem Contagion | Uncommon | 10.00% |
 | Necramech Thrusters | Rare | 4.00% |
 | Damaged Necramech Weapon Receiver | Rare | 3.00% |
 | 3X Scintillant | Rare | 2.00% |
 | 2X Orokin Animus Matrix | Legendary | 0.50% |
-| Neo O3 Relic | Legendary | 0.50% |
-
+| Neo V11 Relic | Legendary | 0.50% |
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Theorem Demulcent | Uncommon | 25.00% |
@@ -548,18 +499,15 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | Theorem Infection | Uncommon | 15.00% |
 | Necramech Reach | Rare | 7.50% |
 | 2X Orokin Ballistics Matrix | Rare | 3.75% |
-| Neo D9 Relic | Rare | 3.75% |
+| Neo P10 Relic | Rare | 3.75% |
 | Theorem Contagion | Uncommon | 10.00% |
 | Necramech Thrusters | Rare | 4.00% |
 | Damaged Necramech Weapon Stock | Rare | 3.00% |
 | 3X Scintillant | Rare | 2.00% |
 | 2X Orokin Animus Matrix | Legendary | 0.50% |
 | Neo T10 Relic | Legendary | 0.50% |
-
 ## Level 40 - 50 Isolation Vault
-
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Residual Boils | Uncommon | 25.00% |
@@ -571,38 +519,34 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | Necramech Slipstream | Rare | 7.50% |
 | Arum Spinosa Guard | Rare | 3.75% |
 | 3X Orokin Ballistics Matrix | Rare | 1.88% |
-| Neo P9 Relic | Legendary | 0.94% |
-| Neo C6 Relic | Legendary | 0.94% |
+| Neo S20 Relic | Legendary | 0.94% |
+| Neo N24 Relic | Legendary | 0.94% |
 | Theorem Contagion | Uncommon | 10.00% |
 | Necramech Seismic Wave | Rare | 4.00% |
 | Damaged Necramech Weapon Barrel | Rare | 3.00% |
 | Arum Spinosa Rivet | Rare | 2.00% |
 | 3X Orokin Animus Matrix | Legendary | 0.50% |
-| Neo O3 Relic | Legendary | 0.50% |
-
+| Neo V11 Relic | Legendary | 0.50% |
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Residual Malodor | Uncommon | 25.00% |
 | Necramech Blitz | Uncommon | 12.50% |
 | Arum Spinosa Blueprint | Rare | 6.25% |
 | 3X Orokin Orientation Matrix | Rare | 3.13% |
-| Meso V11 Relic | Rare | 3.13% |
+| Meso D8 Relic | Rare | 3.13% |
 | Residual Viremia | Uncommon | 15.00% |
 | Necramech Continuity | Rare | 7.50% |
 | Arum Spinosa Guard | Rare | 3.75% |
 | 3X Orokin Ballistics Matrix | Rare | 1.88% |
-| Neo D9 Relic | Rare | 1.88% |
+| Neo P10 Relic | Rare | 1.88% |
 | Theorem Contagion | Uncommon | 10.00% |
 | Necramech Seismic Wave | Rare | 4.00% |
 | Damaged Necramech Weapon Receiver | Rare | 3.00% |
 | Arum Spinosa Rivet | Rare | 2.00% |
 | 3X Orokin Animus Matrix | Legendary | 0.50% |
 | Neo K9 Relic | Legendary | 0.50% |
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Theorem Demulcent | Uncommon | 25.00% |
@@ -620,119 +564,107 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | Damaged Necramech Weapon Stock | Rare | 3.00% |
 | Arum Spinosa Rivet | Rare | 2.00% |
 | 3X Orokin Animus Matrix | Legendary | 0.50% |
-| Axi C10 Relic | Legendary | 0.50% |
-
+| Axi V14 Relic | Legendary | 0.50% |
 ## Level 50 - 60 Isolation Vault
-
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Residual Boils | Uncommon | 25.00% |
 | Necramech Fury | Uncommon | 12.50% |
 | Sporothrix Blueprint | Rare | 6.25% |
 | 4X Orokin Orientation Matrix | Rare | 3.13% |
-| Meso V14 Relic | Rare | 3.13% |
+| Meso E7 Relic | Rare | 3.13% |
 | Residual Shock | Uncommon | 15.00% |
 | Necramech Stretch | Rare | 7.50% |
 | Sporothrix Barrel | Rare | 3.75% |
 | 4X Orokin Ballistics Matrix | Rare | 1.88% |
 | Neo C7 Relic | Legendary | 0.94% |
-| Neo P9 Relic | Legendary | 0.94% |
+| Neo S20 Relic | Legendary | 0.94% |
 | Theorem Contagion | Uncommon | 10.00% |
 | Necramech Streamline | Rare | 4.00% |
 | Damaged Necramech Weapon Barrel | Rare | 3.00% |
 | 4X Orokin Animus Matrix | Rare | 1.50% |
 | Axi Y1 Relic | Rare | 1.50% |
-
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Residual Malodor | Uncommon | 25.00% |
 | Necramech Fury | Uncommon | 12.50% |
 | Sporothrix Blueprint | Rare | 6.25% |
 | 4X Orokin Orientation Matrix | Rare | 3.13% |
-| Meso V14 Relic | Rare | 3.13% |
+| Meso E7 Relic | Rare | 3.13% |
 | Residual Viremia | Uncommon | 15.00% |
 | Necramech Hydraulics | Rare | 7.50% |
 | Sporothrix Receiver | Rare | 3.75% |
 | 4X Orokin Ballistics Matrix | Rare | 1.88% |
-| Neo P9 Relic | Rare | 1.88% |
+| Neo S20 Relic | Rare | 1.88% |
 | Theorem Contagion | Uncommon | 10.00% |
 | Necramech Streamline | Rare | 4.00% |
 | Damaged Necramech Weapon Receiver | Rare | 3.00% |
 | 4X Orokin Animus Matrix | Rare | 1.50% |
 | Axi Y1 Relic | Rare | 1.50% |
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Theorem Demulcent | Uncommon | 25.00% |
 | Necramech Fury | Uncommon | 12.50% |
 | Sporothrix Blueprint | Rare | 6.25% |
 | 4X Orokin Orientation Matrix | Rare | 3.13% |
-| Meso Y1 Relic | Rare | 3.13% |
+| Meso A10 Relic | Rare | 3.13% |
 | Theorem Infection | Uncommon | 15.00% |
 | Necramech Friction | Rare | 7.50% |
 | Sporothrix Stock | Rare | 3.75% |
 | 4X Orokin Ballistics Matrix | Rare | 1.88% |
-| Neo P9 Relic | Rare | 1.88% |
+| Neo S20 Relic | Rare | 1.88% |
 | Theorem Contagion | Uncommon | 10.00% |
 | Necramech Streamline | Rare | 4.00% |
 | Damaged Necramech Weapon Stock | Rare | 3.00% |
 | 4X Orokin Animus Matrix | Rare | 1.50% |
 | Meso X1 Relic | Rare | 1.50% |
-
 ## Level 30 - 40 Arcana Isolation Vault
-
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Residual Boils | Common | 50.00% |
 | Necramech Redirection | Uncommon | 25.00% |
 | 2X Orokin Orientation Matrix | Uncommon | 12.50% |
-| Meso V11 Relic | Uncommon | 12.50% |
+| Meso D8 Relic | Uncommon | 12.50% |
 | Residual Boils | Uncommon | 31.25% |
 | Necramech Redirection | Uncommon | 15.63% |
 | 2X Orokin Orientation Matrix | Rare | 7.81% |
-| Meso V11 Relic | Rare | 7.81% |
+| Meso D8 Relic | Rare | 7.81% |
 | Residual Shock | Uncommon | 18.75% |
 | Necramech Steel Fiber | Rare | 9.38% |
 | 2X Orokin Ballistics Matrix | Rare | 4.69% |
 | Neo C7 Relic | Rare | 2.34% |
-| Neo P9 Relic | Rare | 2.34% |
+| Neo S20 Relic | Rare | 2.34% |
 | Residual Boils | Uncommon | 25.00% |
 | Necramech Redirection | Uncommon | 12.50% |
 | 2X Orokin Orientation Matrix | Rare | 6.25% |
-| Meso V11 Relic | Rare | 6.25% |
+| Meso D8 Relic | Rare | 6.25% |
 | Residual Shock | Uncommon | 15.00% |
 | Necramech Steel Fiber | Rare | 7.50% |
 | 2X Orokin Ballistics Matrix | Rare | 3.75% |
 | Neo C7 Relic | Rare | 1.88% |
-| Neo P9 Relic | Rare | 1.88% |
+| Neo S20 Relic | Rare | 1.88% |
 | Theorem Contagion | Uncommon | 10.00% |
 | Necramech Thrusters | Rare | 4.00% |
 | Damaged Necramech Weapon Barrel | Rare | 3.00% |
 | 3X Scintillant | Rare | 2.00% |
 | 2X Orokin Animus Matrix | Legendary | 0.50% |
-| Axi S18 Relic | Legendary | 0.50% |
+| Axi S20 Relic | Legendary | 0.50% |
 | Residual Shock | Uncommon | 30.00% |
 | Necramech Steel Fiber | Uncommon | 15.00% |
 | 2X Orokin Ballistics Matrix | Rare | 7.50% |
 | Neo C7 Relic | Rare | 3.75% |
-| Neo P9 Relic | Rare | 3.75% |
+| Neo S20 Relic | Rare | 3.75% |
 | Theorem Contagion | Uncommon | 20.00% |
 | Necramech Thrusters | Rare | 8.00% |
 | Damaged Necramech Weapon Barrel | Rare | 6.00% |
 | 3X Scintillant | Rare | 4.00% |
 | 2X Orokin Animus Matrix | Rare | 1.00% |
-| Axi S18 Relic | Rare | 1.00% |
-
+| Axi S20 Relic | Rare | 1.00% |
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Residual Malodor | Common | 50.00% |
@@ -746,7 +678,7 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | Residual Viremia | Uncommon | 18.75% |
 | Necramech Efficiency | Rare | 9.38% |
 | 2X Orokin Ballistics Matrix | Rare | 4.69% |
-| Neo C6 Relic | Rare | 4.69% |
+| Neo N24 Relic | Rare | 4.69% |
 | Residual Malodor | Uncommon | 25.00% |
 | Necramech Redirection | Uncommon | 12.50% |
 | 2X Orokin Orientation Matrix | Rare | 6.25% |
@@ -754,26 +686,24 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | Residual Viremia | Uncommon | 15.00% |
 | Necramech Efficiency | Rare | 7.50% |
 | 2X Orokin Ballistics Matrix | Rare | 3.75% |
-| Neo C6 Relic | Rare | 3.75% |
+| Neo N24 Relic | Rare | 3.75% |
 | Theorem Contagion | Uncommon | 10.00% |
 | Necramech Thrusters | Rare | 4.00% |
 | Damaged Necramech Weapon Receiver | Rare | 3.00% |
 | 3X Scintillant | Rare | 2.00% |
 | 2X Orokin Animus Matrix | Legendary | 0.50% |
-| Neo O3 Relic | Legendary | 0.50% |
+| Neo V11 Relic | Legendary | 0.50% |
 | Residual Viremia | Uncommon | 30.00% |
 | Necramech Efficiency | Uncommon | 15.00% |
 | 2X Orokin Ballistics Matrix | Rare | 7.50% |
-| Neo C6 Relic | Rare | 7.50% |
+| Neo N24 Relic | Rare | 7.50% |
 | Theorem Contagion | Uncommon | 20.00% |
 | Necramech Thrusters | Rare | 8.00% |
 | Damaged Necramech Weapon Receiver | Rare | 6.00% |
 | 3X Scintillant | Rare | 4.00% |
 | 2X Orokin Animus Matrix | Rare | 1.00% |
-| Neo O3 Relic | Rare | 1.00% |
-
+| Neo V11 Relic | Rare | 1.00% |
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Theorem Demulcent | Common | 50.00% |
@@ -787,7 +717,7 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | Theorem Infection | Uncommon | 18.75% |
 | Necramech Reach | Rare | 9.38% |
 | 2X Orokin Ballistics Matrix | Rare | 4.69% |
-| Neo D9 Relic | Rare | 4.69% |
+| Neo P10 Relic | Rare | 4.69% |
 | Theorem Demulcent | Uncommon | 25.00% |
 | Necramech Redirection | Uncommon | 12.50% |
 | 2X Orokin Orientation Matrix | Rare | 6.25% |
@@ -795,7 +725,7 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | Theorem Infection | Uncommon | 15.00% |
 | Necramech Reach | Rare | 7.50% |
 | 2X Orokin Ballistics Matrix | Rare | 3.75% |
-| Neo D9 Relic | Rare | 3.75% |
+| Neo P10 Relic | Rare | 3.75% |
 | Theorem Contagion | Uncommon | 10.00% |
 | Necramech Thrusters | Rare | 4.00% |
 | Damaged Necramech Weapon Stock | Rare | 3.00% |
@@ -805,18 +735,15 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | Theorem Infection | Uncommon | 30.00% |
 | Necramech Reach | Uncommon | 15.00% |
 | 2X Orokin Ballistics Matrix | Rare | 7.50% |
-| Neo D9 Relic | Rare | 7.50% |
+| Neo P10 Relic | Rare | 7.50% |
 | Theorem Contagion | Uncommon | 20.00% |
 | Necramech Thrusters | Rare | 8.00% |
 | Damaged Necramech Weapon Stock | Rare | 6.00% |
 | 3X Scintillant | Rare | 4.00% |
 | 2X Orokin Animus Matrix | Rare | 1.00% |
 | Neo T10 Relic | Rare | 1.00% |
-
 ## Level 40 - 50 Arcana Isolation Vault
-
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Residual Boils | Common | 50.00% |
@@ -833,8 +760,8 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | Necramech Slipstream | Rare | 9.38% |
 | Arum Spinosa Guard | Rare | 4.69% |
 | 3X Orokin Ballistics Matrix | Rare | 2.34% |
-| Neo P9 Relic | Rare | 1.17% |
-| Neo C6 Relic | Rare | 1.17% |
+| Neo S20 Relic | Rare | 1.17% |
+| Neo N24 Relic | Rare | 1.17% |
 | Residual Boils | Uncommon | 25.00% |
 | Necramech Blitz | Uncommon | 12.50% |
 | Arum Spinosa Blueprint | Rare | 6.25% |
@@ -844,56 +771,54 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | Necramech Slipstream | Rare | 7.50% |
 | Arum Spinosa Guard | Rare | 3.75% |
 | 3X Orokin Ballistics Matrix | Rare | 1.88% |
-| Neo P9 Relic | Legendary | 0.94% |
-| Neo C6 Relic | Legendary | 0.94% |
+| Neo S20 Relic | Legendary | 0.94% |
+| Neo N24 Relic | Legendary | 0.94% |
 | Theorem Contagion | Uncommon | 10.00% |
 | Necramech Seismic Wave | Rare | 4.00% |
 | Damaged Necramech Weapon Barrel | Rare | 3.00% |
 | Arum Spinosa Rivet | Rare | 2.00% |
 | 3X Orokin Animus Matrix | Legendary | 0.50% |
-| Neo O3 Relic | Legendary | 0.50% |
+| Neo V11 Relic | Legendary | 0.50% |
 | Residual Shock | Uncommon | 30.00% |
 | Necramech Slipstream | Uncommon | 15.00% |
 | Arum Spinosa Guard | Rare | 7.50% |
 | 3X Orokin Ballistics Matrix | Rare | 3.75% |
-| Neo P9 Relic | Rare | 1.88% |
-| Neo C6 Relic | Rare | 1.88% |
+| Neo S20 Relic | Rare | 1.88% |
+| Neo N24 Relic | Rare | 1.88% |
 | Theorem Contagion | Uncommon | 20.00% |
 | Necramech Seismic Wave | Rare | 8.00% |
 | Damaged Necramech Weapon Barrel | Rare | 6.00% |
 | Arum Spinosa Rivet | Rare | 4.00% |
 | 3X Orokin Animus Matrix | Rare | 1.00% |
-| Neo O3 Relic | Rare | 1.00% |
-
+| Neo V11 Relic | Rare | 1.00% |
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Residual Malodor | Common | 50.00% |
 | Necramech Blitz | Uncommon | 25.00% |
 | Arum Spinosa Blueprint | Uncommon | 12.50% |
 | 3X Orokin Orientation Matrix | Rare | 6.25% |
-| Meso V11 Relic | Rare | 6.25% |
+| Meso D8 Relic | Rare | 6.25% |
 | Residual Malodor | Uncommon | 31.25% |
 | Necramech Blitz | Uncommon | 15.63% |
 | Arum Spinosa Blueprint | Rare | 7.81% |
 | 3X Orokin Orientation Matrix | Rare | 3.91% |
-| Meso V11 Relic | Rare | 3.91% |
+| Meso D8 Relic | Rare | 3.91% |
 | Residual Viremia | Uncommon | 18.75% |
 | Necramech Continuity | Rare | 9.38% |
 | Arum Spinosa Guard | Rare | 4.69% |
 | 3X Orokin Ballistics Matrix | Rare | 2.34% |
-| Neo D9 Relic | Rare | 2.34% |
+| Neo P10 Relic | Rare | 2.34% |
 | Residual Malodor | Uncommon | 25.00% |
 | Necramech Blitz | Uncommon | 12.50% |
 | Arum Spinosa Blueprint | Rare | 6.25% |
 | 3X Orokin Orientation Matrix | Rare | 3.13% |
-| Meso V11 Relic | Rare | 3.13% |
+| Meso D8 Relic | Rare | 3.13% |
 | Residual Viremia | Uncommon | 15.00% |
 | Necramech Continuity | Rare | 7.50% |
 | Arum Spinosa Guard | Rare | 3.75% |
 | 3X Orokin Ballistics Matrix | Rare | 1.88% |
-| Neo D9 Relic | Rare | 1.88% |
+| Neo P10 Relic | Rare | 1.88% |
 | Theorem Contagion | Uncommon | 10.00% |
 | Necramech Seismic Wave | Rare | 4.00% |
 | Damaged Necramech Weapon Receiver | Rare | 3.00% |
@@ -904,16 +829,14 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | Necramech Continuity | Uncommon | 15.00% |
 | Arum Spinosa Guard | Rare | 7.50% |
 | 3X Orokin Ballistics Matrix | Rare | 3.75% |
-| Neo D9 Relic | Rare | 3.75% |
+| Neo P10 Relic | Rare | 3.75% |
 | Theorem Contagion | Uncommon | 20.00% |
 | Necramech Seismic Wave | Rare | 8.00% |
 | Damaged Necramech Weapon Receiver | Rare | 6.00% |
 | Arum Spinosa Rivet | Rare | 4.00% |
 | 3X Orokin Animus Matrix | Rare | 1.00% |
 | Neo K9 Relic | Rare | 1.00% |
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Theorem Demulcent | Common | 50.00% |
@@ -946,7 +869,7 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | Damaged Necramech Weapon Stock | Rare | 3.00% |
 | Arum Spinosa Rivet | Rare | 2.00% |
 | 3X Orokin Animus Matrix | Legendary | 0.50% |
-| Axi C10 Relic | Legendary | 0.50% |
+| Axi V14 Relic | Legendary | 0.50% |
 | Theorem Infection | Uncommon | 30.00% |
 | Necramech Drift | Uncommon | 15.00% |
 | Arum Spinosa Guard | Rare | 7.50% |
@@ -957,41 +880,38 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | Damaged Necramech Weapon Stock | Rare | 6.00% |
 | Arum Spinosa Rivet | Rare | 4.00% |
 | 3X Orokin Animus Matrix | Rare | 1.00% |
-| Axi C10 Relic | Rare | 1.00% |
-
+| Axi V14 Relic | Rare | 1.00% |
 ## Level 50 - 60 Arcana Isolation Vault
-
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Residual Boils | Common | 50.00% |
 | Necramech Fury | Uncommon | 25.00% |
 | Sporothrix Blueprint | Uncommon | 12.50% |
 | 4X Orokin Orientation Matrix | Rare | 6.25% |
-| Meso V14 Relic | Rare | 6.25% |
+| Meso E7 Relic | Rare | 6.25% |
 | Residual Boils | Uncommon | 31.25% |
 | Necramech Fury | Uncommon | 15.63% |
 | Sporothrix Blueprint | Rare | 7.81% |
 | 4X Orokin Orientation Matrix | Rare | 3.91% |
-| Meso V14 Relic | Rare | 3.91% |
+| Meso E7 Relic | Rare | 3.91% |
 | Residual Shock | Uncommon | 18.75% |
 | Necramech Stretch | Rare | 9.38% |
 | Sporothrix Barrel | Rare | 4.69% |
 | 4X Orokin Ballistics Matrix | Rare | 2.34% |
 | Neo C7 Relic | Rare | 1.17% |
-| Neo P9 Relic | Rare | 1.17% |
+| Neo S20 Relic | Rare | 1.17% |
 | Residual Boils | Uncommon | 25.00% |
 | Necramech Fury | Uncommon | 12.50% |
 | Sporothrix Blueprint | Rare | 6.25% |
 | 4X Orokin Orientation Matrix | Rare | 3.13% |
-| Meso V14 Relic | Rare | 3.13% |
+| Meso E7 Relic | Rare | 3.13% |
 | Residual Shock | Uncommon | 15.00% |
 | Necramech Stretch | Rare | 7.50% |
 | Sporothrix Barrel | Rare | 3.75% |
 | 4X Orokin Ballistics Matrix | Rare | 1.88% |
 | Neo C7 Relic | Legendary | 0.94% |
-| Neo P9 Relic | Legendary | 0.94% |
+| Neo S20 Relic | Legendary | 0.94% |
 | Theorem Contagion | Uncommon | 10.00% |
 | Necramech Streamline | Rare | 4.00% |
 | Damaged Necramech Weapon Barrel | Rare | 3.00% |
@@ -1002,42 +922,40 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | Sporothrix Barrel | Rare | 7.50% |
 | 4X Orokin Ballistics Matrix | Rare | 3.75% |
 | Neo C7 Relic | Rare | 1.88% |
-| Neo P9 Relic | Rare | 1.88% |
+| Neo S20 Relic | Rare | 1.88% |
 | Theorem Contagion | Uncommon | 20.00% |
 | Necramech Streamline | Rare | 8.00% |
 | Damaged Necramech Weapon Barrel | Rare | 6.00% |
 | 4X Orokin Animus Matrix | Rare | 3.00% |
 | Axi Y1 Relic | Rare | 3.00% |
-
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Residual Malodor | Common | 50.00% |
 | Necramech Fury | Uncommon | 25.00% |
 | Sporothrix Blueprint | Uncommon | 12.50% |
 | 4X Orokin Orientation Matrix | Rare | 6.25% |
-| Meso V14 Relic | Rare | 6.25% |
+| Meso E7 Relic | Rare | 6.25% |
 | Residual Malodor | Uncommon | 31.25% |
 | Necramech Fury | Uncommon | 15.63% |
 | Sporothrix Blueprint | Rare | 7.81% |
 | 4X Orokin Orientation Matrix | Rare | 3.91% |
-| Meso V14 Relic | Rare | 3.91% |
+| Meso E7 Relic | Rare | 3.91% |
 | Residual Viremia | Uncommon | 18.75% |
 | Necramech Hydraulics | Rare | 9.38% |
 | Sporothrix Receiver | Rare | 4.69% |
 | 4X Orokin Ballistics Matrix | Rare | 2.34% |
-| Neo P9 Relic | Rare | 2.34% |
+| Neo S20 Relic | Rare | 2.34% |
 | Residual Malodor | Uncommon | 25.00% |
 | Necramech Fury | Uncommon | 12.50% |
 | Sporothrix Blueprint | Rare | 6.25% |
 | 4X Orokin Orientation Matrix | Rare | 3.13% |
-| Meso V14 Relic | Rare | 3.13% |
+| Meso E7 Relic | Rare | 3.13% |
 | Residual Viremia | Uncommon | 15.00% |
 | Necramech Hydraulics | Rare | 7.50% |
 | Sporothrix Receiver | Rare | 3.75% |
 | 4X Orokin Ballistics Matrix | Rare | 1.88% |
-| Neo P9 Relic | Rare | 1.88% |
+| Neo S20 Relic | Rare | 1.88% |
 | Theorem Contagion | Uncommon | 10.00% |
 | Necramech Streamline | Rare | 4.00% |
 | Damaged Necramech Weapon Receiver | Rare | 3.00% |
@@ -1047,42 +965,40 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | Necramech Hydraulics | Uncommon | 15.00% |
 | Sporothrix Receiver | Rare | 7.50% |
 | 4X Orokin Ballistics Matrix | Rare | 3.75% |
-| Neo P9 Relic | Rare | 3.75% |
+| Neo S20 Relic | Rare | 3.75% |
 | Theorem Contagion | Uncommon | 20.00% |
 | Necramech Streamline | Rare | 8.00% |
 | Damaged Necramech Weapon Receiver | Rare | 6.00% |
 | 4X Orokin Animus Matrix | Rare | 3.00% |
 | Axi Y1 Relic | Rare | 3.00% |
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Theorem Demulcent | Common | 50.00% |
 | Necramech Fury | Uncommon | 25.00% |
 | Sporothrix Blueprint | Uncommon | 12.50% |
 | 4X Orokin Orientation Matrix | Rare | 6.25% |
-| Meso Y1 Relic | Rare | 6.25% |
+| Meso A10 Relic | Rare | 6.25% |
 | Theorem Demulcent | Uncommon | 31.25% |
 | Necramech Fury | Uncommon | 15.63% |
 | Sporothrix Blueprint | Rare | 7.81% |
 | 4X Orokin Orientation Matrix | Rare | 3.91% |
-| Meso Y1 Relic | Rare | 3.91% |
+| Meso A10 Relic | Rare | 3.91% |
 | Theorem Infection | Uncommon | 18.75% |
 | Necramech Friction | Rare | 9.38% |
 | Sporothrix Stock | Rare | 4.69% |
 | 4X Orokin Ballistics Matrix | Rare | 2.34% |
-| Neo P9 Relic | Rare | 2.34% |
+| Neo S20 Relic | Rare | 2.34% |
 | Theorem Demulcent | Uncommon | 25.00% |
 | Necramech Fury | Uncommon | 12.50% |
 | Sporothrix Blueprint | Rare | 6.25% |
 | 4X Orokin Orientation Matrix | Rare | 3.13% |
-| Meso Y1 Relic | Rare | 3.13% |
+| Meso A10 Relic | Rare | 3.13% |
 | Theorem Infection | Uncommon | 15.00% |
 | Necramech Friction | Rare | 7.50% |
 | Sporothrix Stock | Rare | 3.75% |
 | 4X Orokin Ballistics Matrix | Rare | 1.88% |
-| Neo P9 Relic | Rare | 1.88% |
+| Neo S20 Relic | Rare | 1.88% |
 | Theorem Contagion | Uncommon | 10.00% |
 | Necramech Streamline | Rare | 4.00% |
 | Damaged Necramech Weapon Stock | Rare | 3.00% |
@@ -1092,10 +1008,9 @@ Cambion Drift bounty reward tables. Includes rotation rewards and drop percentag
 | Necramech Friction | Uncommon | 15.00% |
 | Sporothrix Stock | Rare | 7.50% |
 | 4X Orokin Ballistics Matrix | Rare | 3.75% |
-| Neo P9 Relic | Rare | 3.75% |
+| Neo S20 Relic | Rare | 3.75% |
 | Theorem Contagion | Uncommon | 20.00% |
 | Necramech Streamline | Rare | 8.00% |
 | Damaged Necramech Weapon Stock | Rare | 6.00% |
 | 4X Orokin Animus Matrix | Rare | 3.00% |
 | Meso X1 Relic | Rare | 3.00% |
-
