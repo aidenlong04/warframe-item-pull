@@ -1,11 +1,8 @@
 # Cetus Bounty Rewards
-
 Plains of Eidolon bounty reward tables from Konzu. Includes rotation rewards and drop percentages.
 
 ## Level 5 - 15 Cetus Bounty
-
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Redirection | Uncommon | 20.00% |
@@ -34,9 +31,7 @@ Plains of Eidolon bounty reward tables from Konzu. Includes rotation rewards and
 | Point Blank | Uncommon | 30.56% |
 | Streamline | Uncommon | 30.56% |
 | 2X Morphics | Rare | 8.33% |
-
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Pressure Point | Uncommon | 20.00% |
@@ -65,9 +60,7 @@ Plains of Eidolon bounty reward tables from Konzu. Includes rotation rewards and
 | Hornet Strike | Uncommon | 30.56% |
 | Stretch | Uncommon | 30.56% |
 | 2X Morphics | Rare | 8.33% |
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Vitality | Uncommon | 20.00% |
@@ -96,11 +89,8 @@ Plains of Eidolon bounty reward tables from Konzu. Includes rotation rewards and
 | Point Blank | Uncommon | 30.56% |
 | Intensify | Uncommon | 30.56% |
 | 2X Gallium | Rare | 8.33% |
-
 ## Level 10 - 30 Cetus Bounty
-
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Steel Fiber | Uncommon | 25.00% |
@@ -129,9 +119,7 @@ Plains of Eidolon bounty reward tables from Konzu. Includes rotation rewards and
 | Burning Wasp | Uncommon | 25.00% |
 | Aya | Uncommon | 14.58% |
 | 2X Control Module | Uncommon | 10.42% |
-
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Energy Inversion | Uncommon | 25.00% |
@@ -160,9 +148,7 @@ Plains of Eidolon bounty reward tables from Konzu. Includes rotation rewards and
 | Reaping Spiral | Uncommon | 25.00% |
 | Aya | Uncommon | 14.58% |
 | 2X Neural Sensors | Uncommon | 10.42% |
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Point Strike | Uncommon | 25.00% |
@@ -191,11 +177,8 @@ Plains of Eidolon bounty reward tables from Konzu. Includes rotation rewards and
 | Grim Fury | Uncommon | 25.00% |
 | Aya | Uncommon | 14.58% |
 | 2X Orokin Cell | Uncommon | 10.42% |
-
 ## Level 20 - 40 Cetus Bounty
-
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Gladiator Aegis | Uncommon | 27.59% |
@@ -224,9 +207,7 @@ Plains of Eidolon bounty reward tables from Konzu. Includes rotation rewards and
 | Revenant Systems Blueprint | Uncommon | 24.62% |
 | Aya | Uncommon | 20.00% |
 | Vigilante Supplies | Rare | 6.15% |
-
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Vigilante Armaments | Common | 35.19% |
@@ -255,9 +236,7 @@ Plains of Eidolon bounty reward tables from Konzu. Includes rotation rewards and
 | Revenant Systems Blueprint | Uncommon | 26.47% |
 | Aya | Uncommon | 20.59% |
 | Augur Seeker | Rare | 5.88% |
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Augur Pact | Common | 35.19% |
@@ -286,11 +265,8 @@ Plains of Eidolon bounty reward tables from Konzu. Includes rotation rewards and
 | Revenant Systems Blueprint | Uncommon | 23.19% |
 | Aya | Uncommon | 21.74% |
 | Gladiator Vice | Rare | 5.80% |
-
 ## Level 30 - 50 Cetus Bounty
-
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Gladiator Rush | Common | 35.19% |
@@ -319,9 +295,7 @@ Plains of Eidolon bounty reward tables from Konzu. Includes rotation rewards and
 | Revenant Chassis Blueprint | Uncommon | 21.62% |
 | Aya | Uncommon | 27.03% |
 | Vigilante Offense | Rare | 5.41% |
-
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Vigilante Vigor | Common | 35.19% |
@@ -350,9 +324,7 @@ Plains of Eidolon bounty reward tables from Konzu. Includes rotation rewards and
 | Revenant Chassis Blueprint | Uncommon | 21.62% |
 | Aya | Uncommon | 27.03% |
 | Augur Secrets | Rare | 5.41% |
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Augur Message | Uncommon | 29.31% |
@@ -381,11 +353,8 @@ Plains of Eidolon bounty reward tables from Konzu. Includes rotation rewards and
 | Revenant Chassis Blueprint | Uncommon | 22.22% |
 | Aya | Uncommon | 27.78% |
 | Gladiator Finesse | Rare | 5.56% |
-
 ## Level 40 - 60 Cetus Bounty
-
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 5X Breath Of The Eidolon | Common | 50.00% |
@@ -411,9 +380,7 @@ Plains of Eidolon bounty reward tables from Konzu. Includes rotation rewards and
 | Carving Mantis | Rare | 8.16% |
 | Eidolon Lens Blueprint | Rare | 7.14% |
 | Revenant Neuroptics Blueprint | Uncommon | 10.20% |
-
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 5X Breath Of The Eidolon | Common | 50.00% |
@@ -439,9 +406,7 @@ Plains of Eidolon bounty reward tables from Konzu. Includes rotation rewards and
 | Swooping Falcon | Rare | 8.16% |
 | Eidolon Lens Blueprint | Rare | 7.14% |
 | Revenant Neuroptics Blueprint | Uncommon | 10.20% |
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 5X Breath Of The Eidolon | Common | 50.00% |
@@ -467,11 +432,8 @@ Plains of Eidolon bounty reward tables from Konzu. Includes rotation rewards and
 | Twirling Spire | Rare | 8.16% |
 | Eidolon Lens Blueprint | Rare | 7.14% |
 | Revenant Neuroptics Blueprint | Uncommon | 10.20% |
-
 ## Level 100 - 100 Cetus Bounty
-
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 5X Breath Of The Eidolon | Common | 50.00% |
@@ -497,9 +459,7 @@ Plains of Eidolon bounty reward tables from Konzu. Includes rotation rewards and
 | Carving Mantis | Rare | 8.16% |
 | Eidolon Lens Blueprint | Rare | 7.14% |
 | Revenant Neuroptics Blueprint | Uncommon | 10.20% |
-
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 5X Breath Of The Eidolon | Common | 50.00% |
@@ -525,9 +485,7 @@ Plains of Eidolon bounty reward tables from Konzu. Includes rotation rewards and
 | Swooping Falcon | Rare | 8.16% |
 | Eidolon Lens Blueprint | Rare | 7.14% |
 | Revenant Neuroptics Blueprint | Uncommon | 10.20% |
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 5X Breath Of The Eidolon | Common | 50.00% |
@@ -553,11 +511,8 @@ Plains of Eidolon bounty reward tables from Konzu. Includes rotation rewards and
 | Twirling Spire | Rare | 8.16% |
 | Eidolon Lens Blueprint | Rare | 7.14% |
 | Revenant Neuroptics Blueprint | Uncommon | 10.20% |
-
 ## Level 50 - 70 Cetus Bounty
-
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Amar's Anguish | Uncommon | 20.00% |
@@ -589,9 +544,7 @@ Plains of Eidolon bounty reward tables from Konzu. Includes rotation rewards and
 | Verdilac Blueprint | Rare | 7.50% |
 | 3X Narmer Isoplast | Uncommon | 12.50% |
 | 1200 Endo | Uncommon | 17.50% |
-
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Boreal's Anguish | Uncommon | 20.00% |
@@ -623,9 +576,7 @@ Plains of Eidolon bounty reward tables from Konzu. Includes rotation rewards and
 | Nepheri Blueprint | Rare | 7.50% |
 | 3X Narmer Isoplast | Uncommon | 12.50% |
 | 1200 Endo | Uncommon | 17.50% |
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Nira's Anguish | Uncommon | 20.00% |
@@ -657,11 +608,8 @@ Plains of Eidolon bounty reward tables from Konzu. Includes rotation rewards and
 | Korumm Blueprint | Rare | 7.50% |
 | 3X Narmer Isoplast | Uncommon | 12.50% |
 | 1200 Endo | Uncommon | 17.50% |
-
 ## Level 15 - 25 Ghoul Bounty
-
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 300 Endo | Common | 36.76% |
@@ -697,21 +645,14 @@ Plains of Eidolon bounty reward tables from Konzu. Includes rotation rewards and
 | Hunter Track | Rare | 9.43% |
 | Nitain Extract | Rare | 4.72% |
 | Aya | Uncommon | 20.75% |
-
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
-
 ## Level 40 - 50 Ghoul Bounty
-
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | 300 Endo | Common | 36.76% |
@@ -725,7 +666,7 @@ Plains of Eidolon bounty reward tables from Konzu. Includes rotation rewards and
 | Quartakk Blueprint | Rare | 4.85% |
 | Cetus Wisp | Rare | 9.71% |
 | 5X Breath Of The Eidolon | Rare | 4.85% |
-| Neo P9 Relic | Uncommon | 18.45% |
+| Neo S20 Relic | Uncommon | 18.45% |
 | 300 Endo | Rare | 8.93% |
 | 3,000 Credits Cache | Rare | 6.43% |
 | Hunter Recovery | Rare | 8.93% |
@@ -734,7 +675,7 @@ Plains of Eidolon bounty reward tables from Konzu. Includes rotation rewards and
 | Quartakk Blueprint | Rare | 3.57% |
 | Cetus Wisp | Rare | 7.14% |
 | 5X Breath Of The Eidolon | Rare | 3.57% |
-| Neo P9 Relic | Uncommon | 13.57% |
+| Neo S20 Relic | Uncommon | 13.57% |
 | Hunter Command | Rare | 7.14% |
 | Nitain Extract | Rare | 3.57% |
 | Aya | Uncommon | 15.71% |
@@ -743,143 +684,131 @@ Plains of Eidolon bounty reward tables from Konzu. Includes rotation rewards and
 | Quartakk Blueprint | Rare | 4.72% |
 | Cetus Wisp | Rare | 9.43% |
 | 5X Breath Of The Eidolon | Rare | 4.72% |
-| Neo P9 Relic | Uncommon | 17.92% |
+| Neo S20 Relic | Uncommon | 17.92% |
 | Hunter Command | Rare | 9.43% |
 | Nitain Extract | Rare | 4.72% |
 | Aya | Uncommon | 20.75% |
-
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
-
 ## Level 15 - 25 Plague Star
-
 **Rotation A:**
-
 | Item | Rarity | Chance |
 |---|---|---|
 | Augur Message | Uncommon | 25.00% |
 | 100X Kuva | Uncommon | 23.86% |
 | Naramon Lens | Uncommon | 14.77% |
 | 300 Endo | Uncommon | 25.00% |
-| Lith D7 Relic | Rare | 1.14% |
+| Lith C14 Relic | Rare | 1.14% |
 | Lith E2 Relic | Rare | 1.14% |
 | Lith N18 Relic | Rare | 1.14% |
-| Meso P17 Relic | Rare | 1.14% |
+| Meso L4 Relic | Rare | 1.14% |
 | Neo C7 Relic | Rare | 1.14% |
-| Neo P9 Relic | Rare | 1.14% |
-| Neo D9 Relic | Rare | 1.14% |
-| Axi S18 Relic | Rare | 1.14% |
-| Axi P8 Relic | Rare | 1.14% |
-| Axi C10 Relic | Rare | 1.14% |
+| Neo S20 Relic | Rare | 1.14% |
+| Neo P10 Relic | Rare | 1.14% |
+| Axi S20 Relic | Rare | 1.14% |
+| Axi D6 Relic | Rare | 1.14% |
+| Axi V14 Relic | Rare | 1.14% |
 | Augur Message | Uncommon | 12.87% |
 | 100X Kuva | Uncommon | 12.28% |
 | Naramon Lens | Rare | 7.60% |
 | 300 Endo | Uncommon | 12.87% |
-| Lith D7 Relic | Legendary | 0.58% |
+| Lith C14 Relic | Legendary | 0.58% |
 | Lith E2 Relic | Legendary | 0.58% |
 | Lith N18 Relic | Legendary | 0.58% |
-| Meso P17 Relic | Legendary | 0.58% |
+| Meso L4 Relic | Legendary | 0.58% |
 | Neo C7 Relic | Legendary | 0.58% |
-| Neo P9 Relic | Legendary | 0.58% |
-| Neo D9 Relic | Legendary | 0.58% |
-| Axi S18 Relic | Legendary | 0.58% |
-| Axi P8 Relic | Legendary | 0.58% |
-| Axi C10 Relic | Legendary | 0.58% |
+| Neo S20 Relic | Legendary | 0.58% |
+| Neo P10 Relic | Legendary | 0.58% |
+| Axi S20 Relic | Legendary | 0.58% |
+| Axi D6 Relic | Legendary | 0.58% |
+| Axi V14 Relic | Legendary | 0.58% |
 | Cetus Wisp | Uncommon | 14.04% |
 | Vigilante Pursuit | Uncommon | 14.04% |
 | Revenant Chassis Blueprint | Uncommon | 14.04% |
 | Lith K12 Relic | Legendary | 0.58% |
 | Lith G14 Relic | Legendary | 0.58% |
 | Meso X1 Relic | Legendary | 0.58% |
-| Meso V11 Relic | Legendary | 0.58% |
+| Meso D8 Relic | Legendary | 0.58% |
 | Meso V13 Relic | Legendary | 0.58% |
-| Neo C6 Relic | Legendary | 0.58% |
-| Neo O3 Relic | Legendary | 0.58% |
+| Neo N24 Relic | Legendary | 0.58% |
+| Neo V11 Relic | Legendary | 0.58% |
 | Neo K9 Relic | Legendary | 0.58% |
 | Axi T13 Relic | Legendary | 0.58% |
 | Axi Y1 Relic | Legendary | 0.58% |
-| Axi A20 Relic | Legendary | 0.58% |
+| Axi C11 Relic | Legendary | 0.58% |
 | Augur Message | Rare | 9.28% |
 | 100X Kuva | Rare | 8.86% |
 | Naramon Lens | Rare | 5.49% |
 | 300 Endo | Rare | 9.28% |
-| Lith D7 Relic | Legendary | 0.42% |
+| Lith C14 Relic | Legendary | 0.42% |
 | Lith E2 Relic | Legendary | 0.42% |
 | Lith N18 Relic | Legendary | 0.42% |
-| Meso P17 Relic | Legendary | 0.42% |
+| Meso L4 Relic | Legendary | 0.42% |
 | Neo C7 Relic | Legendary | 0.42% |
-| Neo P9 Relic | Legendary | 0.42% |
-| Neo D9 Relic | Legendary | 0.42% |
-| Axi S18 Relic | Legendary | 0.42% |
-| Axi P8 Relic | Legendary | 0.42% |
-| Axi C10 Relic | Legendary | 0.42% |
+| Neo S20 Relic | Legendary | 0.42% |
+| Neo P10 Relic | Legendary | 0.42% |
+| Axi S20 Relic | Legendary | 0.42% |
+| Axi D6 Relic | Legendary | 0.42% |
+| Axi V14 Relic | Legendary | 0.42% |
 | Cetus Wisp | Uncommon | 10.13% |
 | Vigilante Pursuit | Uncommon | 10.13% |
 | Revenant Chassis Blueprint | Uncommon | 10.13% |
 | Lith K12 Relic | Legendary | 0.42% |
 | Lith G14 Relic | Legendary | 0.42% |
 | Meso X1 Relic | Legendary | 0.42% |
-| Meso V11 Relic | Legendary | 0.42% |
+| Meso D8 Relic | Legendary | 0.42% |
 | Meso V13 Relic | Legendary | 0.42% |
-| Neo C6 Relic | Legendary | 0.42% |
-| Neo O3 Relic | Legendary | 0.42% |
+| Neo N24 Relic | Legendary | 0.42% |
+| Neo V11 Relic | Legendary | 0.42% |
 | Neo K9 Relic | Legendary | 0.42% |
 | Axi T13 Relic | Legendary | 0.42% |
 | Axi Y1 Relic | Legendary | 0.42% |
-| Axi A20 Relic | Legendary | 0.42% |
+| Axi C11 Relic | Legendary | 0.42% |
 | Gladiator Finesse | Uncommon | 23.21% |
-| Lith L7 Relic | Legendary | 0.42% |
+| Lith N19 Relic | Legendary | 0.42% |
 | Lith Q2 Relic | Legendary | 0.42% |
-| Meso Y1 Relic | Legendary | 0.42% |
+| Meso A10 Relic | Legendary | 0.42% |
 | Meso X1 Relic | Legendary | 0.42% |
 | Meso A9 Relic | Legendary | 0.42% |
 | Neo T10 Relic | Legendary | 0.42% |
 | Neo C7 Relic | Legendary | 0.42% |
-| Neo P9 Relic | Legendary | 0.42% |
-| Axi S18 Relic | Legendary | 0.42% |
-| Axi P8 Relic | Legendary | 0.42% |
-| Axi C10 Relic | Legendary | 0.42% |
+| Neo S20 Relic | Legendary | 0.42% |
+| Axi S20 Relic | Legendary | 0.42% |
+| Axi D6 Relic | Legendary | 0.42% |
+| Axi V14 Relic | Legendary | 0.42% |
 | Cetus Wisp | Uncommon | 16.11% |
 | Vigilante Pursuit | Uncommon | 16.11% |
 | Revenant Chassis Blueprint | Uncommon | 16.11% |
 | Lith K12 Relic | Legendary | 0.67% |
 | Lith G14 Relic | Legendary | 0.67% |
 | Meso X1 Relic | Legendary | 0.67% |
-| Meso V11 Relic | Legendary | 0.67% |
+| Meso D8 Relic | Legendary | 0.67% |
 | Meso V13 Relic | Legendary | 0.67% |
-| Neo C6 Relic | Legendary | 0.67% |
-| Neo O3 Relic | Legendary | 0.67% |
+| Neo N24 Relic | Legendary | 0.67% |
+| Neo V11 Relic | Legendary | 0.67% |
 | Neo K9 Relic | Legendary | 0.67% |
 | Axi T13 Relic | Legendary | 0.67% |
 | Axi Y1 Relic | Legendary | 0.67% |
-| Axi A20 Relic | Legendary | 0.67% |
+| Axi C11 Relic | Legendary | 0.67% |
 | Gladiator Finesse | Common | 36.91% |
-| Lith L7 Relic | Legendary | 0.67% |
+| Lith N19 Relic | Legendary | 0.67% |
 | Lith Q2 Relic | Legendary | 0.67% |
-| Meso Y1 Relic | Legendary | 0.67% |
+| Meso A10 Relic | Legendary | 0.67% |
 | Meso X1 Relic | Legendary | 0.67% |
 | Meso A9 Relic | Legendary | 0.67% |
 | Neo T10 Relic | Legendary | 0.67% |
 | Neo C7 Relic | Legendary | 0.67% |
-| Neo P9 Relic | Legendary | 0.67% |
-| Axi S18 Relic | Legendary | 0.67% |
-| Axi P8 Relic | Legendary | 0.67% |
-| Axi C10 Relic | Legendary | 0.67% |
-
+| Neo S20 Relic | Legendary | 0.67% |
+| Axi S20 Relic | Legendary | 0.67% |
+| Axi D6 Relic | Legendary | 0.67% |
+| Axi V14 Relic | Legendary | 0.67% |
 **Rotation B:**
-
 | Item | Rarity | Chance |
 |---|---|---|
-
 **Rotation C:**
-
 | Item | Rarity | Chance |
 |---|---|---|
-

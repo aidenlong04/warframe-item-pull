@@ -1,10 +1,15 @@
 const https = require('https');
+const http = require('http');
 const fs = require('fs');
 const path = require('path');
+const { execSync } = require('child_process');
 const Items = require('@wfcd/items');
 
 const DROP_DATA_URL = 'https://drops.warframestat.us/data/all.json';
 const INFO_URL = 'https://drops.warframestat.us/data/info.json';
+const DE_INDEX_URL = 'https://origin.warframe.com/PublicExport/index_en.txt.lzma';
+const DE_INDEX_LOCAL = path.join(__dirname, 'docs', 'index_en.txt.lzma');
+const DE_CONTENT_BASE = 'http://content.warframe.com/PublicExport/Manifest/';
 const OUTPUT_DIR = path.join(__dirname, 'data');
 
 function fetch(url) {
@@ -24,6 +29,43 @@ function fetch(url) {
       });
     }).on('error', reject);
   });
+}
+
+function fetchBinary(url) {
+  const mod = url.startsWith('https') ? https : http;
+  return new Promise((resolve, reject) => {
+    mod.get(url, (res) => {
+      if (res.statusCode < 200 || res.statusCode >= 300) {
+        return reject(new Error(`HTTP ${res.statusCode} from ${url}`));
+      }
+      const chunks = [];
+      res.on('data', (chunk) => chunks.push(chunk));
+      res.on('end', () => resolve(Buffer.concat(chunks)));
+    }).on('error', reject);
+  });
+}
+
+function fetchText(url) {
+  const mod = url.startsWith('https') ? https : http;
+  return new Promise((resolve, reject) => {
+    mod.get(url, (res) => {
+      if (res.statusCode < 200 || res.statusCode >= 300) {
+        return reject(new Error(`HTTP ${res.statusCode} from ${url}`));
+      }
+      let body = '';
+      res.on('data', (chunk) => (body += chunk));
+      res.on('end', () => resolve(body));
+    }).on('error', reject);
+  });
+}
+
+function decompressLzma(lzmaPath) {
+  // DE uses LZMA SDK format; use system unlzma for reliable decoding
+  return execSync(`unlzma -c "${lzmaPath}"`).toString();
+}
+
+function parseDeIndex(text) {
+  return text.split('\n').map((l) => l.trim()).filter(Boolean);
 }
 
 function write(filename, data) {
@@ -127,6 +169,57 @@ async function main() {
   console.log('Pulling warframe-riven-info...');
   const rivenTags = require('./node_modules/warframe-riven-info/riven_tags.json');
   write('riven-tags.json', rivenTags);
+
+  // 9. DE Public Export (direct) — fetch index + manifests from origin/content servers
+  console.log('Fetching DE Public Export index...');
+  const deDir = path.join(OUTPUT_DIR, 'de-public-export');
+  fs.mkdirSync(deDir, { recursive: true });
+  try {
+    let indexText;
+    const tmpLzma = path.join(deDir, 'index_en.txt.lzma');
+
+    // Try fetching from origin server first, fall back to local file
+    try {
+      const indexBuf = await fetchBinary(DE_INDEX_URL);
+      fs.writeFileSync(tmpLzma, indexBuf);
+      indexText = decompressLzma(tmpLzma);
+      console.log('  Fetched fresh index from origin server');
+    } catch (originErr) {
+      console.warn(`  Origin server unavailable (${originErr.message}), checking local index...`);
+      if (fs.existsSync(DE_INDEX_LOCAL)) {
+        indexText = decompressLzma(DE_INDEX_LOCAL);
+        console.log('  Using local index file:', DE_INDEX_LOCAL);
+      } else {
+        throw new Error('No index available (origin blocked, no local file)');
+      }
+    }
+
+    const entries = parseDeIndex(indexText);
+    fs.writeFileSync(path.join(deDir, 'index_en.txt'), indexText);
+    console.log(`  -> ${entries.length} manifest entries in index`);
+
+    // Fetch each manifest JSON from the content server
+    for (const entry of entries) {
+      const manifestUrl = DE_CONTENT_BASE + entry;
+      const baseName = entry.split('!')[0];
+      const outFile = path.join(deDir, baseName);
+      try {
+        const raw = await fetchText(manifestUrl);
+        try {
+          const parsed = JSON.parse(raw);
+          fs.writeFileSync(outFile, JSON.stringify(parsed, null, 2));
+        } catch (_) {
+          fs.writeFileSync(outFile, raw);
+        }
+        console.log(`  -> ${outFile}`);
+      } catch (fetchErr) {
+        console.warn(`  !! Failed to fetch ${baseName}: ${fetchErr.message}`);
+      }
+    }
+  } catch (deErr) {
+    console.warn(`DE Public Export fetch failed: ${deErr.message}`);
+    console.warn('Using warframe-public-export-plus npm package (already fetched in step 7).');
+  }
 
   console.log('\nDone. All data written to', OUTPUT_DIR);
 }

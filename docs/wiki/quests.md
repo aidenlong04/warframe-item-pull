@@ -1,0 +1,2277 @@
+# Wiki — Quest Guide
+Detailed quest walkthroughs and synopses from the Warframe wiki.
+
+## Quest
+Quests are a set of interlinked missions that occasionally provide lore for WARFRAME's setting, as well as giving various rewards such as Warframes and Weapons upon completion. Some quests such as Vor's Prize are mandatory as players will automatically be redirected by the quest, while some are optional (like Hidden Messages and Howl of the Kubrow). Several Junctions require quests to be completed in order for the junction to be unlocked. Additionally, a number of junctions award quests on completion.
+To activate a quest after it has been unlocked, simply walk to the Codex station in the Orbiter, select the Quests tab, select the desired Quest and click "Begin Quest". However, not all quests are activated this way, with some quests having hidden activation requirements and these do not even appear in the Codex until their completion. The player can only take one quest at a time, although they can change the active quest.
+Available Quests
+Main Quests
+Main quests are the primary questline following the story of the Tenno and their origins. In addition, these quests serve to familiarize the player with the game's various factions and key gear items like the Archwing and the Railjack. They are divided into four separate story arcs:
+Arc 1 - Awakening
+220
+220
+220
+Vox Solaris
+220
+220
+220
+Arc 2 - The War Within Saga
+Natah
+220
+220
+220
+220
+220
+220
+Arc 3 - The New War Saga
+The Duviri Paradox, despite being completeable as early as Arc 2, is largely interlinked with the events of Arc 3. It is also the prerequisite requirement to start The Hex in Arc 4.
+220
+220
+220
+Arc 4 - The Void War Saga
+Although Angels of the Zariman and Jade Shadows are classified as main quests, they are currently not required to progress the main storyline.
+220
+220
+220
+220
+The Hex
+220
+Side Quests
+Side quests are optional questlines that often reveal additional lore about the world and the characters of WARFRAME. These quests often unlock access to new Syndicates or additional game features such as the Incubation Segment for Kubrow breeding.
+220
+220
+220
+220
+220
+220
+Warframe Quests
+Warframe Quests are optional questlines that revolve around the discovery and backstory of new Warframes, usually rewarding one or more Blueprints of the Warframe the quest revolves around. Note that while a majority of quests could be categorized as Warframe Quests, this category is specifically about quests that are not part of the main story progression.
+220
+220
+220
+220
+220
+220
+220
+220
+220
+220
+220
+220
+Quest Progression
+The following lists the overall progression of each quest as well as which sidequests they unlock. These branches are ordered as it was shown in the Codex. Quests that are not listed in the following branches do not have any prerequisite quests, and can be started as soon as other prerequisite requirements (such as Mastery Rank) are met, if any.
+Awakening
+Vor's Prize
+The Teacher
+Vox Solaris, unlocks The Waverider
+Once Awake
+Heart of Deimos
+The Archwing, unlocks Stolen Dreams, which unlocks The New Strange
+The Duviri Paradox
+Natah
+The Second Dream, unlocks Octavia's Anthem and The Silver Grove
+The War Within, unlocks The Glast Gambit
+Rising Tide
+Chains of Harrow
+Apostasy Prologue
+The Sacrifice
+Prelude to War
+Chimera Prologue
+Erra
+The Maker
+The New War, unlocks:
+Angels of the Zariman
+Veilbreaker
+Jade Shadows
+Whispers in the Walls
+The Lotus Eaters
+The Hex
+The Old Peace
+Replayability
+Most quests can be replayed to reexperience or scan quest-exclusive enemies and Somachord Fragments. To replay a quest, one simply goes to the completed quest's codex entry and selects "replay quest". When replaying a quest, transmissions, cutscenes, missions and most related inbox messages will reappear normally, but the primary rewards are not given again.
+As of Update 41.1, the following quests are not replayable:
+Main: Vor's Prize, The Teacher, Angels of the Zariman, The Lotus Eaters
+Side: Hidden Messages, The Limbo Theorem, Sands of Inaros, The Glast Gambit, Mask of the Revenant, Veilbreaker
+Sometimes, completing a quest objective may not yield the next objective upon returning to the Orbiter (Quest markers in the Operations window, Inbox messages, etc.). Relogging, entering/exiting captura (or another mission), or deactivating the quest and activating it again via the Codex typically resolves this issue.
+During Update 40.0, entering a quest mission resulted in the sounds of the Dark Refractory's ticking sound, leading to players speculating that its functions were the in-universe explanations of quest replays. However, it was later confirmed to be a bug and was since patched out.
+Certain quests that requires Orbiter functions cannot be started/replayed whilst in the Backroom if unlocked.
+External Links
+Main Quests Guide on the Official Warframe Website
+Quest Tips (Minimal Spoilers) from WARFRAME support
+
+## Vor's Prize
+Quest Description
+For the soundtrack, see Vor's Prize (Soundtrack).
+Vor's Prize is the second main Quest of WARFRAME. Occuring immediately after Awakening, it is designed to guide new players through the game so that they can familiarize themselves with the various systems involved. The Quest was released in Update 14.
+Synopsis
+Continuing with their efforts to stop Captain Vor, the newly awakened Tenno travels around Earth, looking for parts to repair their Orbiter ship with. With the help of ship Cephalon Ordis at the helm, they manage to rescue a Corpus black marketeer named Darvo who was imprisoned by the Grineer for being sympathetic to the Tenno cause. Darvo helps the Tenno retrieve ship segments that unlock basic functionality such as Market or Foundry access.
+In the end, the Tenno successfully disables the Ascaris device, freeing them from Vor's control. However, the device has an anti-tampering failsafe that will cause it to detonate if it is not disarmed. They then seek to assassinate the captain, defeating him on a mining asteroid off Earth's orbit, ultimately disarming the Ascaris device.
+The Lotus counts on the Tenno to travel across the Star Chart to bring balance to the Origin System from the dominating forces of the Grineer and Corpus factions.
+Walkthrough
+The events of Vor's Prize immediately follows Awakening.
+s-y_PTr6fok
+Interlude I: The Orbiter, Earth Orbit
+With the Liset ship and a handful of weapons at the ready, the Tenno is introduced to their own personal Orbiter ship, along with the Arsenal system (after restoring its functionality) only to find that it has been looted and that the vast majority of the Orbiter's systems are offline, their module segments having been removed or damaged. The Lotus recommends that the Tenno prioritize repairing the ship's Communication system so that they may further arm themselves and (optionally) coordinate with other Tenno. There are no replacement components available aboard the Orbiter, but she has located a suitable replacement on the surface of Earth.
+During this part of the quest, Enemies do not drop Loot other than Ammo, and the Player cannot gain Affinity towards their starting equipment. The player is rewarded 3,000 Credits upon completion of the mission.
+Outreach: E Prime, Earth
+The Tenno deploys back to Earth, with the intent of retrieving the Communications module from a Grineer outpost. This short mission introduces the Spy game mode (this was previously Interception); the Tenno must break into a Grineer Data Vault and hack the console to retrieve the module. Once this has been done, the Tenno returns to the Orbiter.
+Interlude II: The Orbiter, Earth Orbit
+With the Communications module segment in hand, the system can be restored. This allows access to the Market and enables Matchmaking functionality. Ordis mentions that the Tenno can now contact arms dealers (though in somewhat less flattering terms at first, given his unstable nature) to expand their arsenal. Whilst it seems there are no merchants currently available, the Lotus has located a captive arms dealer on the surface who might be sympathetic to the Tenno cause.
+Familiar Faces: Mariana, Earth
+Returning again to the surface, the Tenno sets out to rescue a Corpus black marketeer named Darvo who is sympathetic to the Tenno cause — and has been imprisoned by the Grineer as a result. During the course of the mission, the true purpose of the Ascaris becomes clear; it is designed to allow Vor to assume control of the Warframe. Vor (now demoted to Captain for his failure) demonstrates partial control of the Warframe systems by temporarily halving the Tenno's maximum shields, similar to the effect of the Cryogenic Hazard, but cannot yet assume full control.
+Vor also comments on the nature of the Warframes; they do not control the 'divine energy', the Tenno are the 'divine energy' — with each Warframe the Tenno owns being a 'glass' through which that 'energy' is focused.
+Interlude III: The Orbiter, Earth Orbit
+200px|right
+Upon escaping, Darvo rewards the player with an Ascaris Negator blueprint — An item to negate the effects of the Ascaris Vor installed.
+However, the orbiter's Foundry systems are inoperative and must also be restored. The Lotus has located a neutral mining colony where they should be able to obtain the equipment they need with potentially no bloodshed or violence.
+Oppression: Mantle, Earth
+Arriving at the mining outpost, the Tenno and the Lotus find that there are no signs of colonist activity any more — only Grineer soldiers. The Lotus deduces that the Grineer have invaded, and directs the Tenno to first retrieve the Foundry module, then Exterminate the remaining Grineer so that the lost miners are avenged.
+Interlude IV: The Orbiter, Earth Orbit
+Foundry module secured, the Tenno returns to the Orbiter and installs it. With the Foundry systems once again online, they find the ship's supply stores were also looted by the Grineer. Now the Tenno must find materials so that they can manufacture the Negator using the blueprint Darvo supplied. Ordis sends Darvo a somewhat impolite message; Darvo replies quite promptly, apologizing for the misunderstanding, and directs the Tenno to a series of Corpus Supply Caches where they can gather the materials they need to manufacture the Negator.
+Loot & Pillage: Gaia, Earth
+Following the coordinates sent by Darvo, the Tenno finds a series of Corpus outposts built into the upper levels of the Himalayan Mountains. The Lotus has identified three Supply Caches which should contain the materials necessary to produce the Negator. During the course of the mission, Darvo briefly introduces the Tenno to the Corpus and explains that whilst the mission is technically stealing, the Corpus aren't exactly beacons of moral fortitude either — given that they'll sell anything to anyone. Darvo sees their willingness to deal with the Grineer as unforgivable and is all too happy to support the Tenno in their efforts against the Corpus and the Grineer as a result.
+Unfortunately, it also appears the Ascaris' work is almost complete. The Tenno loses contact with the Lotus and Darvo during the mission, as Vor shows he can now interrupt transmissions fully, rather than simply force you to receive his own messages. He states that the Tenno will soon return to him instead of the Lotus, over their own free will.
+Interlude V: The Orbiter, Earth Orbit
+With the resources for the Ascaris Negator ready, the Foundry is put to work and the Ascaris can be removed. Vor manages one final transmission.
+Vor
+Moments later, the Tenno is briefly incapacitated. The Ascaris has an anti-tampering failsafe and has burrowed deeper into the Warframe. It will soon detonate — with predictably lethal results — and the only way to disarm it is to find Vor. The Lotus locates a nearby ship that should have information on Vor's location, and the Tenno departs immediately.
+Not surprisingly, Ordis seems pleased that finding Vor may involve violence.
+Navigation Recovery: Pacific, Earth
+Boarding the Grineer Galleon, the Tenno immediately sets out to retrieve a navigation segment held within a storage cell aboard the ship. Once retrieved, the segment can be made compatible with the Liset's systems, allowing the Tenno to discover the location of Captain Vor in order to confront Captain Vor.
+After retrieving the segment, the Tenno is faced with a challenge. The Galleon is on a direct course for a convoy full of innocent colonists. Do they intervene on the behalf of the colonists by destroying the Galleon's reactor (thereby causing the Galleon to self-destruct) or do they extract immediately? No matter the choice, the Ascaris again demonstrates partial control of the Warframe systems, halving the Tenno's maximum shields.
+If the Tenno chooses to save the colonists, the Tenno has 5 minutes to evacuate before the Galleon explodes upon disabling the reactor. The Lotus ultimately thanks the Tenno for their actions, but reminds them that they must survive in order to protect the system.
+Interlude VI: The Orbiter, Earth Orbit
+After installing the navigation segment, the Tenno can head to Cambria, Earth for the final confrontation with Vor.
+Faceoff: Cambria, Earth
+Captain Vor has been located on a mining asteroid — and best of all, he is without his elite guard. It is the perfect time to eliminate him. The Tenno finds and confronts him. After a short battle, Vor is dead, and the Ascaris and its detonator have disintegrated.
+Completing this mission will complete the quest.
+Epilogue I: The Orbiter, Earth Orbit
+The Tenno is free — but the battle has only just begun. The Lotus sends a message advising the Tenno refresh themselves reading the "Training" section of the Codex, as well as heading to Cetus to support the Ostrons, setting the way for the next main quest Saya's Vigil.
+Darvo will also send the blueprint for the Burston burst-fire rifle as well as the Morphics, Polymer Bundle, and Alloy Plate required for its Foundry construction, though players will need to farm the Ferrite found on Earth missions.
+Your New Mission
+Tenno,
+You have restored valuable Orbiter Segments that will help you as your strength increases.
+There is much you might have forgotten while you were asleep. I recommend you explore the Training section of your Codex console. It contains information about your Foundry and Mods.
+Vor's platoon attacked Cetus in their efforts to capture you. Now we must support our Ostron allies who live there. As soon as you are ready, let us take the fight to the Grineer. Should you become strong enough, you may even confront Vay Hek himself, the commander of Earth's Grineer forces.
+I am counting on you, Tenno.
+Lotus
+A Weapon For You
+Friend!
+I owe you big. You got me out of that jam with those Grineer goons. So I'm sending you a weapon. Something to help you help me. In case I ever get into trouble like that again. Void forbid.
+Yes, yes, it's a blueprint, not a complete weapon. Some assembly required. So you'll need Ferrite before you can forge this bad boy in your Orbiter's foundry.
+Ferrite is everywhere on Earth. Sometimes it's not even guarded. Just help yourself.
+Your pal,
+Darvo
+Epilogue II: Vor's Excerpt
+After reading the message, an end screen diorama will appear along with Vor's personal excerpt, providing a background story of his very first encounter with the Tenno on Earth, in a mission to purge them before they are strong enough to fight back.
+VOR
+**Notes:**
+During the intro where the player has to defend the ship, the ship does not actually need to be defended, only requiring that the player survive till the timer is complete.
+Though the two missions prior to the final confrontation with Vor are both set to the 'Hijack' mode, their objectives bear no similarities to the actual Hijack mission type. Instead, one sees the Tenno destroying three storage units that are guaranteed to drop the required materials, and the other sees the Tenno first conducting a Raid-type objective, followed by an optional Sabotage-type objective.
+The mission rewards listed in the above walkthrough only apply to players who are playing through the quest for the first time. Clients who have already completed the quest beforehand will receive randomized rewards, and may sometimes get no after-mission reward at all.
+Despite Lotus sending a message to the player's inbox after assassinating Vor and completing the quest, defeating him again will result in Lotus rewarding 25,000 credits and sending a different message.
+Players who joined before Update 14 were given the choice to play Vor's Prize. Choosing to abstain would not unlock the Codex entry in the Quests tab.
+Despite the fact that in Oppression: Mantle, the Lotus tells the player to "kill all Grineer" after obtaining the segment, enemies will continue to spawn after this kill count is achieved. This is due to the way Exterminate missions were changed where enemies keep spawning and are not changed for missions that tell the player to destroy all enemies.
+During the Familiar Faces phase of this quest there is a guaranteed spawn of a rare extraction tile, this tile has a Kuria hidden somewhere in it, so if you want to find all the Kuria and you can buy Codex Scanners before this mission, come prepared to look for the Kuria.
+**Trivia:**
+A teaser for Vor's Prize was partially introduced in the game at the start of Update 9, via a diorama (particularly Vor smiling with a Void Key in his hand) players could access via the "Show Profile" button, though access to it was removed later on. Said diorama was still used by the game as a potential login screen diorama, prior to the login screen overhaul introduced in Update 23.
+The first two missions of this quest are unique in that they do not allow the player to outright die during the missions in question. This trait is exclusively used within Development Builds or Warframe Teasers and can only be legitimately used by players within those missions only.
+
+## Once Awake
+Quest Description
+Once Awake is a main Quest, introducing new players to the faction of the Infested, as well as the Spy and Defense mission modes.
+Synopsis
+Dr. Tengus, a Grineer doctor, has been experimenting with a bio-weapon of some sorts and the player is tasked to investigate. The player discovers that this bio-weapon the Grineer was working on was a strain of the Infested that survived the events of The Old War. After a failure in a testing lab, the Infested broke out from quarantine and invaded Grineer outposts and ships on Mercury. As the possibility of an Infested outbreak was a threat to the Origin System, the Lotus commands the player to eradicate the Infestation. With the help of a Cascade Bomb infused with Void energy, the player successfully eliminated the source of the Infestation. However, because of the continued research efforts of Dr. Tengus, the System is not immune from future outbreaks.
+Walkthrough
+Investigate the Bio Weapon: M Prime, Mercury
+The Lotus delivers an inbox message that has decrypted Grineer communications that a doctor named Tengus has acquired some sort of bio weapon. The player is tasked to a Grineer Spy Mission on M Prime, Mercury to collect three data units for retrieval from a Grineer Asteroid base.
+After the first data unit is recovered, Tengus' assistant expresses anger that the Tenno are there, demanding absolute secrecy in their project and thus ordering the marines to assault the Tenno.
+After the second data unit is recovered, panic breaks loose as a new enemy, the Infested, has broken free from quarantine, fighting both Grineer and Tenno. After the third and final data unit is recovered, the Grineer soldiers blame Dr. Tengus for the outbreak, while the Lotus believes that the Infested were released on purpose.
+The mission is considered complete if the player reaches the extraction with at least one data unit extracted.
+Infestation Outbreak: Terminus, Mercury
+The next mission takes place in Terminus, Mercury, where players are tasked with exterminating all Infested units aboard a Grineer Galleon overrun by the Infestation. Upon completing the mission, the Lotus decrypts a report from Tengus that the Grineer marines that survived the longest against the Infestation were using Heat-based weaponry, awarding the Molten Impact mod.
+Cascade Bomb: Lares, Mercury
+The Lotus sends the Tenno to Lares, Mercury, in an attempt to destroy the Infested there by using a Cascade Bomb planted on the asteroid's power core, that will use Void energy to eliminate all organic life while leaving the structure intact. This mission takes the form of a Defense mission where the player has to prevent the Infested from destroying the Power Core for eight waves. Notable differences from the standard Grineer Asteroid defense mission includes the large masses of Infested biomass surrounding the power core and having only two access points to the core instead of three. During the mission, the Lotus makes note that while the Infested appear to be mindless, they seem to know what the Tenno are up to and are trying to stop them.
+After the mission is completed, the Lotus will message players to reward them with a Heat Sword blueprint, concluding the quest.
+An additional intercepted message will be sent to players detailing a report by Doctor Tengus' to the Twin Queens, blaming the Tenno for the outbreak at the facility and taking credit for its destruction while claiming the Tenno have obtained Infested spores and will use them against the Grineer.
+If the player has also completed Saya's Vigil, the Shrine Defense mission becomes unlocked which awards blueprints for the Koumei Warframe and the weapons Higasa and Amanata.
+o_NdOkXg_7k
+
+## The Archwing
+Quest Description
+The Archwing is a main Quest, released in Update 15. With an encroaching threat from the Grineer's Balor Fomorians, the Tenno must seek resources from Orokin Sabotage and Excavation to build an Archwing for space combat.
+Synopsis
+The threat of a Grineer Balor Fomorian, the capital ship of the Fomorian fleet, tips the balance of power within the Solar System. Councilor Vay Hek declares war on the Corpus and the Chairman of the Corpus Board of Directors, Frohd Bek, in an attempt to seize total control over the Origin System.
+The player is forced to construct an Orokin-era mechanical wings, an Archwing, along with an Archgun and Archmelee, to destroy it in space combat. To do so they will need to find the Odonata component blueprints that are scattered across Orokin archives throughout Venus. After obtaining their new gear, the player tries to sabotage the Fomorian, only to realize that they do not have enough firepower to do so. After destroying dozens of Grineer fighters, the player performs a tactical retreat, leaving the real battle with the Fomorian to happen another day.
+Walkthrough
+The Time is Now
+Upon beginning this quest, Lotus will send an inbox transmission to the player along with an Odonata blueprint, noting that they finally have a working Archwing prototype and orders the Tenno to gather the materials needed to craft it.
+Lotus' Transmission
+The Archive: Tessera, Venus
+Level 10-12 Orokin Sabotage, Corpus
+The Tenno deploys to Tessera, Venus, in a mission to retrieve the Orokin Archive coordinate from a Corpus stronghold via Orokin Void's portal. This mission reintroduces the Orokin Sabotage game mode from the Operation Gate Crash event; the Tenno must reverse the flow of the portal via a nearby Orokin Generator which they must defend it from oncoming Corpus. Once it has completed, the Tenno must traverse to the Corpus via the portal to retrieve the Void Key from the Corpus Lynx proxy, and then destroy the portal by overloading the Orokin Torsion Beam Device to make sure the Corpus couldn't salvage the Orokin Tower further.
+There are three optional Orokin caches, in the form of an Orokin locker with white light, in the void part of this mission only the marked cache is needed to retrieve the archive. All of the caches can be found before trying to reverse the portal. The first resource cache discovered can contain Void Relics, while the second has a larger chance at obtaining rare resources, and the last cache discovered can award Forma.
+Excavation for Odonata Components Blueprints
+Aphrodite, Venus: Level 10-12 Excavation, Corpus
+Mantle, Earth: Level 11-13 Excavation, Grineer
+E Gate, Venus: Level 12-14 Excavation, Corpus
+Ordis will immediately inform Lotus of the Orokin Archive along with its coordinates to locate the Archwing components needed. Each successful excavation will yield a random Odonata component blueprint. Much like normal excavation, players can extract as soon as the first excavation is completed.
+Once all three blueprint parts of the Odonata (Wings, Harness and Systems) have been obtained, Ordis will persuade the player to build the Archwing. After the Archwing is constructed the player will need to "Discover" the component parts.
+Intel Espionage: Montes, Venus
+Level 12-14 Exterminate, Corpus/Grineer
+The Lotus will then order the Tenno to deploy to the Montes sector of Venus, and infiltrate a Corpus Ship with the intention of retrieving intelligence about the Grineer Balor Fomorian by first exterminating all opposition.
+However, the mission is abruptly interfered with by the presence of Grineer Fleets led by Councilor Vay Hek, who contacts Frohd Bek over severing ties with the Corpus. The Corpus Ship is soon boarded by Grineer marines as it suffers severe damage from heavy bombardment with the surprise arrival of a Balor Fomorian. The dire situation forces the Lotus to order for a mission abort and calls for the Tenno to head to the extraction point, however, Ordis informs her that extraction may not be possible due to the extensive damage suffered by the ship, ultimately leaving the Tenno without any means of escape. If there is only one chance to escape the ship alive, it is to delve into the deep space. The Tenno makes its preparation, charging its Warframe before diving into the great unknown. The Lotus—somewhat in a forceful manner, orders Ordis to deploy and attach the Archwing to the Tenno, along with their respective weapons, Imperator and Veritux.
+Imperator is a heavy machine gun with a very fast rate of fire, suitable against short-mid range and heavy targets.
+Veritux is a massive greatsword which sports constant heavy damage. Supposedly impossibly massive to wield on the ground, the weightless space turns this weapon into a weapon of pure destruction.
+Balor Fomorian
+The Archwing is a set of mechanical wings used by Tenno to fly and engage in combat in space, offering a potent mix of firepower and mobility to engage spaceborne enemies.
+Once the player successfully docks with the Archwing, they will need to reach a new extraction point out in deep space away from the battle. Grineer spacecraft, however, will deploy Zeplens, large devices deploying energy nets that can trap the Tenno inside their radius. Players will need to destroy the Zeplen units in order to advance while destroying any enemies along the way while at the same time avoid getting seen by the Balor Fomorian's weapons – A single shot could mean demise.
+The Tenno, with a valiant effort, escaped the range of Balor Fomorian, and immediately extract with their Liset in space before the Fomorian could reach them. It was a successful retreat – however, it also means victory. But the real battle has yet to begin. And by the time it comes, the Fomorian will be ready, but so will the Tenno.
+Completing this mission will complete the quest, unlocking Archwing nodes throughout the solar system, access to other Archwing blueprints and their respective arsenal, and the Archwing Launcher which can call down the equipped Archwing in Landscapes. The Empyrean game mode is also unlocked in the Star Chart after the completion of the quest.
+
+## Stolen Dreams
+Quest Description
+Stolen Dreams is a side Quest, released in Update 15.13 (2015-02-05). The Lotus tasks the player to search for Arcane Codices, enigmatic artifacts which several different factions have expressed an interest in.
+Synopsis
+Lotus tasks the player to search for the mysterious Arcane Codices. Their importance is unknown, but the Grineer had sought it for a potential cure to the Cloning Decay Syndrome that has plagued its faction and the Corpus had sought to strike riches with them.
+In search of these codices, the player captures a thief named Maroo who recently stole a piece of the codices and went into hiding. Upon interrogating Maroo, the player finds out that she has been hired by Grineer scientist Tyl Regor to steal them from an Orokin Derelict. However, after the Corpus outbid the Grineer for the codex, she broke her contract and deceived Regor, swapping the real codex with a fake one, and sold the real codex to Corpus hands.
+In exchange for protective custody, Maroo reluctantly join forces with the Tenno after cheating the Grineer. Maroo then revealed the locations of the codices, and after a series of Spy missions, the player successfully retrieved all six codices with Maroo's guidance. After Ordis' musings on transcribing the codices, she then informs the player that she had found a machine in the Orokin Derelict from which she had extracted her Arcane Codex. Upon entering an Orokin Void gate on Mars, the player reached the Derelict that housed the enigmatic Arcane Machine. Uploading the codices to the machine yielded a cryptic message, to which the Lotus cannot ascertain its meaning. In confusion, the player returns to their ship, empty-handed, while Maroo sets off in her own path.
+Walkthrough
+This quest is unlocked from the Codex once a player has completed the Phobos Junction.
+The Lotus learns that the Grineer have unearthed the last of the Arcane Codices in order to decipher their nature. The Grineer's plans are dashed however when Maroo, a professional thief, steals the last piece of the Arcane Codices and goes into hiding.
+Capture Maroo: Tharsis (Mars)
+Expressing an interest in the Codices, the Lotus sends the Tenno to find and capture Maroo, who was hiding in a Corpus base on Tharsis (Mars). The Lotus explains that the Arcane Codices have been a mystery for decades since they were first unearthed, with no one knowing what they are.
+As a Capture target, Maroo wields an Aklex pair and can use Smoke Screen to turn invisible to evade pursuers. Also, Maroo has the ability to defend herself with her weapons when downed, similar to Tenno, and thus care must be taken when attempting capture.
+During capture, Lotus introduces herself to Maroo, and attempts to persuade her that coming with the Tenno is in her best interest.
+After capture, the Tenno receive a video transmission of Maroo's interrogation, where she reveals that Tyl Regor had hired her to retrieve the Arcane Codex piece from an Orokin Derelict. Due to her dislike of the Grineer however, she gave the Grineer a fake and sold the Arcane Codex to the Corpus. After being persuaded of the danger the Grineer pose to her, Maroo agrees to the Lotus' offer of protective custody in exchange for revealing the location of the Arcane Codex.
+Arcane Codex I: Unda (Venus)
+With Maroo's info, the Arcane Codex piece in the Corpus' possession is found to be held in a Corpus Outpost on Unda (Venus). The Tenno are thus tasked with a Spy mission to retrieve the Codex data from the Corpus by accessing three secure Data Vault rooms and hacking them. During the mission, Maroo will inform the player of the basics of this mission: Each Data Vault comes with a wide array of security systems including cameras and trip lasers, and tripping the alarms will cause the Vault to trigger a 30-second data destruction sequence in which the data will be destroyed unless the player can hack the data console. All three Data Vaults must be accessed before extraction can become available.
+Once the mission is successfully completed, Ordis states that the Corpus have three pieces of the Arcane Codex, while the Grineer have two, and he muses about the Corpus believing the Codex to lead to a lost Orokin treasure, which piques Maroo's interest.
+Arcane Codex II: Pantheon (Mercury)
+This time the Tenno are sent to a Grineer Galleon on Pantheon (Mercury) to retrieve two of their Arcane Codices. As with the previous mission, the Grineer have stored the Codices on three separate Data Vaults, which include defenses such as roving Sensor Regulators and Magnetic energy doors, which can trigger alarms to initiate the data destruction sequence if alerted. During the mission, Maroo mentions that the Grineer believe the Codices will provide them the cure to their genetic degradation, though she dismisses this as wishful thinking.
+After successfully completing the mission, Ordis gushes at the perfection of the Arcane Codices' writing, while Maroo quips that even then they don't know what the Codices are.
+Arcane Codex III: Roche (Phobos)
+The next set of Arcane Codices is located on a Corpus Ship on Roche (Phobos), and as with the previous codices are stored on three secure Data Vaults that must be breached with care to prevent alarms.
+Post-mission, Ordis realizes that the complete set of Arcane Codices form a code that can only be read by a machine, which he assumes is now unusable. Ordis' musings catch Maroo's attention, who informs him that the Arcane Codex she retrieved from the Orokin Derelict came from some kind of machine. With Ordis hypothesizing that said machine could unlock the code, Lotus sends the Tenno on a mission to find the machine.
+Arcane Machine: Alator (Mars)
+The Orokin portal that leads to the Derelict housing the Arcane Machine is located on a Grineer Settlement on Alator (Mars), that unfortunately has been overrun by the Infested. Players must fight through the Infested to reach the Portal room, which will lead them to a Derelict ship. The machine is located inside a large, special room with a pedestal in the middle, where the Arcane Codex can be uploaded. Instead of treasure like Maroo expects, the machine broadcasts an audio transmission with the following cryptic message:
+All-All is silent- Hushed-hushed and empty is-is-is the womb of the sky.
+All is silent and calm. Hushed and empty is the womb of the sky.
+center|link=
+The player will then be attacked by an Arcane Boiler and several Infested units which they must fight off. The Lotus concludes that there is nothing more for them in the Derelict, and instructs the player to extract. Upon extraction, players will be awarded blueprints for an Orokin Catalyst and the Ether Daggers.
+Ordis expresses his confusion at the Arcane Codex not being what they expected and expresses his apologies to Maroo. Despite her dismay, Maroo explains that she is used to low payouts due to being a freelancer, and with the threat of the Grineer gone, she sets off on her own way.
+**Notes:**
+Once the Ether Daggers have been sold, the only way to re-acquire them is by purchasing the blueprint from Cephalon Simaris or the Operational Supply Syndicate during the Operation: Plague Star event, as quest replays do not reward a second blueprint.
+**Trivia:**
+The Lotus appears to have no fondness for Maroo's condescending treatment of the Tenno, becoming more agitated than usual when Maroo questions their abilities, even threatening to leave the thief to the hands of the Grineer.
+The cryptic message broadcasted by the Arcane Machine is a translated quote from the Popol Vuh, an ancient Mayan text. The excerpt in particular concerns primordial Earth.
+In The New Strange, Cephalon Simaris explains that the biological signature of the voice is of Tenno Origin, causing even more confusion.
+
+## The New Strange
+Quest Description
+The New Strange is a side Quest, released in Update 16. Continuing of the events of Stolen Dreams, the Tenno aid Cephalon Simaris in a search for mysterious information.
+Synopsis
+Cephalon Simaris, a Cephalon construct that seeks to immortalize creatures into data for knowledge, requires the Tenno's assistance to free his Sentinels from custody of the Grineer. After freeing his Sentinels, the Lotus discovered "fragments of a biological signature" within the prison's security logs. Ordis plays the log and a mysterious message came up, with a voice similar to the one found from the Arcane Machine from the end of Stolen Dreams.
+After refusing to answer on the subject, Simaris tells the Tenno that, in exchange for deciphering this mysterious biological signature, they must assist him in Synthesis, the process of scanning targets to be uploaded for storage in his Sanctuary. After helping Simaris, he says that the signature is of Tenno origin. A blueprint for a beacon derived from the signature is given to the player to help track down this creature. Crafting this beacon sends a signal which turns out to be a transmission from the Arcane Machine:
+ALL IS SILENT AND CALM. HUSHED AND EMPTY IS THE WOMB OF THE SKY.
+The Lotus informs the Tenno that this creature has been going to locations where the Arcane Codices were found, slaughtering Grineer and Corpus to cover somebody's tracks; somebody doesn't want people to know the existence of such codices or the Arcane Machine. After extracting information from a Corpus network, this creature turns out to be the Warframe Chroma who has gone rogue — not controlled by any Tenno. The hunt leads the Tenno back to the Arcane Machine where they encounter a hostile Chroma who destroyed the machine. Simaris asks the Tenno to synthesize it for its unusual behavior. However, Chroma escapes being synthesized after being scanned once. As a result, Simaris reveals to have a piece of the Arcane Codices of his own and discloses another location that holds an Arcane Machine. Luring Chroma to this particular machine results in a successful Synthesis and the Tenno receives a Chroma blueprint for their troubles. Unbeknownst to the Lotus and the Tenno, this second Arcane Machine contains a projection of a Sentient relic, hinting at future events to come.
+Walkthrough
+Stolen Dreams must be completed before The New Strange can be started.
+Missing Sentinels: Nuovo, Ceres
+The first mission of the quest takes players to a Grineer Shipyard Prison Complex on Nuovo, Ceres, where Cephalon Simaris tasks the Tenno with a Rescue mission to free his Sentinels from captivity, who were taken after investigating the Grineer prison. Lotus asks Simaris about the significance of the facility, to which Simaris vaguely responds about the importance of knowledge.
+Once players reach the cell block and free the Sentinels – which takes on the form of three special Helios that disappear once the door is unlocked – Simaris will ask the Tenno to head to extraction for further discussion. However the Lotus, suspicious of Simaris' goals, asks the Tenno to instead find the facility's data vault in order to find out what the Cephalon is after, taking the form of a Spy mission where a lone data vault must be infiltrated and its data console hacked to extract the data. There appears to be an implicit alarm sound once the player gets close to the data vault, with mission automatically failing once the time runs out. However there is no warning from Lotus, nor a timer is shown on the HUD, so using a Cipher is advised to avoid having to repeat the mission. After a successful data retrieval, in one variant of the mission players must then exterminate all the remaining enemies. The player is free to extract from the mission in the other variant, or once no more enemies remain.
+Back in the Orbiter, Lotus mentions that they have managed to retrieve "fragments of a biological signature" within the facility's security logs despite extensive corruption of the data. Ordis runs the security log, which features the sounds of Grineer gunfire as if engaged in battle, along with a mysterious voice that says:
+HERE WE SHALL SEARCH AND FIND. THE EYES OF DAY DRINKING THE NIGHT.
+Recognizing the mysterious voice as the same one from the Arcane Machine discovered on Ceres, the Lotus asks the Tenno to pay Cephalon Simaris a visit to find out what else he knows. Upon visiting Cephalon Simaris on any Relay (Maroo's Bazaar being the only exception) and asking him with the prompt "The eyes of day drinking the night?", Simaris tells the Tenno that knowledge must be earned, and then asks them to perform another quest for his Sanctuary in exchange for revealing what the biological signature means.
+Note: If you are having trouble finding the Cephalon Simaris room and keep being directed by the game to the wrong room, you need to look for the two blue lifts which will be behind you as you look into the room the game marks. One will transport you up to the correct level, where you'll find Cephalon Simaris behind a door located in the same place as that which you were directed to a level below. The lifts only transport in one direction. You may also fast travel to him, by pressing escape, fast travel, and Cephalon Simaris.
+Note: Players must undertake the Synthesis tutorial from Cephalon Simaris first in order for the dialog prompt to appear.
+Paying with Synthesis: Mars
+Before undertaking this next mission, it is imperative that players equip Synthesis Scanners in their Gear menu, said scanners being available from among Cephalon Simaris' offerings for 5,000. Optionally, players can also equip Kinetic Siphon Traps, also available from Simaris for 5,000, to assist in accomplishing the objective.
+The next quest step involves synthesizing three Elite Arid Lancers by running any mission on Mars. Each mission spawns a single Synthesis target, meaning players will have to run the mission three times to complete this step of the quest. The Synthesis target is a special Arid Lancer with a visible dark blue outline. The target can also be tracked by following floating blue lights that can only be seen through the Synthesis Scanner, which indicates that the target is nearby. Simaris will also notify the player when the target is in range. At this time, a gold hexagon icon will appear on the mini-map representing the Elite Arid Lancer.
+Players should proceed with the normal steps and path of the mission. At some point moving across the map from one phase of the mission to the other Simaris will give notification the target is in range and the target's gold hexagon icon will then appear on the mini-map.
+Players must scan 4 nodes on the Elite Arid Lancer, accomplished by equipping their Synthesis Scanner from the Gear menu, aiming at the target node and holding down the fire key (default LMB) until the node is scanned. The nodes appear as blue orbs on the target. The Arid Lancer target will then disintegrate once all 4 of their nodes have been scanned, indicating a successful synthesis. Scanning a node may cause the target to act unpredictably however, the player can prevent them from becoming alert by using stealth abilities like Loki's Invisibility.
+After scanning the Synthesis target, the player must complete the main objective of the mission for the Synthesis to count towards their quest objective. Repeat this two more times as only one Synthesis target is available to scan per session.
+Upon scanning all three Synthesis targets, players must return to Simaris on the designated Relay, and engage him with the prompt informing him that all three targets have been synthesized. Simaris will thank the player, telling them that their scans have uncovered something that his Sentinels missed, then reveal that the biological signature is Tenno in nature. Interested in what the biological signature is, Simaris will give the player a blueprint for a Scorched Beacon, and asks them to construct it.
+The New Strange/Scorched Beacon
+Once the Beacon is complete, Ordis notes that it is sending a signal, which turns out to be a transmission from the Arcane Machine that says:
+ALL IS SILENT IN THE CALM. HUSHED AND EMPTY IS THE WOMB OF THE SKY. ArcaneCodexMessage.ogg
+Upon hearing this Ordis begins to experience malfunctions. Simaris intervenes to save Ordis' program while asking the player to track down the source of the signal, with the Lotus believing that the Corpus may be the next lead.
+Investigate the source of the transmission: Morax, Europa
+Following the source of the transmission, the Tenno are tasked to undertake a Mobile Defense mission on a Corpus base on Morax, Europa, in order to extract information regarding the transmission. Terminals will need to be defended in order to complete the mission, granting the blueprint for another Chroma Signal upon completion. Players must build the Beacon to proceed.
+The New Strange/Chroma Signal
+Once the Beacon is complete, Lotus expresses her shock at recognizing Chroma from the transmission, and expresses suspicion that someone is trying to cover their tracks using it. Meanwhile, Simaris reveals to Ordis that he can restore the latter's memories and possibly repair his malfunctions over time, and after Ordis deduces that they can decode the rest of the transmission on the Arcane Machine itself inside the Orokin Derelict in which it was found, Simaris praises Ordis' potential, which he feels is being squandered by being a servant to the Tenno. Irritated at the banter, Lotus orders the Tenno to proceed to their next mission.
+Revisit the Derelict: Alator, Mars
+Synthesis Scanners are required for this mission.
+Returning to the site of the Arcane Machine, this mission sees the Tenno fight through a Grineer Settlement to get to the Portal that will take them to the Orokin Derelict where the Arcane Machine was found. Lotus mentions that Chroma was one of the most powerful Warframes with a great ability to adapt. Simaris deduces that the Chroma they're looking for is not Tenno-controlled and that solving this mystery is his goal.
+Upon reaching the Arcane Machine, a hostile Chroma Warframe will appear by it, armed with a Dera. Lotus and Simaris order the player not to engage it, however, and that it should be Synthesized instead using Synthesis Scanners. Players are free to head back to extraction once they have scanned the Chroma, who escaped being Synthesized. The player receives the Chroma Mark blueprint as a reward.
+The New Strange/Chroma Mark
+Back on the Landing Craft, Simaris confidently asks Ordis to extract a blueprint from the synthesis brought back by the Tenno. Ordis manages a blueprint but unfortunately is unable to extract any more leads. Simaris then reveals that he has an Arcane Codex piece and knowledge of the location of another Machine, much to Lotus' increasing frustration. The Chroma Mark must be built to progress.
+At the completion of the Beacon, Simaris makes Ordis an offer to become the "Steward" of his Sanctuary, to which Ordis readily accepts. Promising to restore Ordis once the hunt for Chroma is finished, Simaris gives the players the location of Chroma, telling them that by defeating the Warframe they will know who controls it.
+Defeat Chroma: Ose, Europa
+Landing on Ose, Europa, the Tenno are assigned to lure in Chroma by activating the Arcane Machine to trigger a Defense mission. While the mission initially starts out on the Corpus Settlement of Europa, the actual defense objective is located on an Orokin Derelict, accessible through a portal room. The Arcane Machine must then be defended against three waves of Corpus attackers. After the 3rd wave, Chroma will appear alone. At Ordis' suggestion, Chroma must then be scanned 5 times using the Synthesis Scanner while still defending the machine. Once all Corpus are eliminated and Chroma is scanned 5 times, the mission is completed and the player is rewarded with the Chroma Blueprint. The component blueprints can be acquired as Junction rewards (a bug might cause enemies not to cross into the Derelict area. In this case, Chroma can spawn before all enemies are defeated. The wave will be marked as complete after killing enemies who did not cross the portal).
+Simaris is disappointed at Ordis' action to scan Chroma instead of destroying it, to which Ordis replies that he is foremost the Operator's Cephalon.
+Players will also now have access to Simaris' Sanctuary Onslaught, which awards blueprints for the Khora Warframe and the weapons Braton Vandal and Lato Vandal.
+**Notes:**
+Note that blueprints may only be rewarded once, even if the Quest is replayed. One can buy the blueprints from Cephalon Simaris or alternatively a built Warframe from Market for Platinum to reacquire the Warframe if sold.
+If the player began this quest prior to the Update Specters of the Rail update and did not craft the chassis when instructed, logging out and back in can advance the story when stuck on missing beacons required to advance the plot (such as the Scorched Beacon).
+The appearance of the Arcane Machine in the final stage of the mission suggests a connection to the Sentient.
+**Trivia:**
+The transmission from the Arcane Machine heavily resembles the translation of a line from the start of the Popol Vuh, a text recounting the mythology and history of the K'iche' Maya. The translated line in question reads 'All is silent and calm. Hushed and empty is the womb of the sky.'
+During "Investigate The Source Of The Transmission" mission, Chroma will appear near extraction with a warframe self revive animation for a brief moment before vanishing again.
+7qqpWxtOVTM
+
+## Natah (Quest)
+Quest Description
+Natah is a main Quest, released in Update 17.0.1. After encountering strange drones on Uranus, the Tenno seek to learn more about them, discovering and a secret concealed by the Lotus in the process.
+Synopsis
+On Uranus, the Tenno encounters strange drones that seem to be looking for something... or someone. Upon scanning them, the Lotus will ask the Tenno for their assistance. Assuming that they are of Corpus origin, Lotus sends the Tenno to Earth to investigate these drones, only to discover an Old War wreckage which heightens her confusion. In an epiphany, the Lotus realizes these drones are Sentient Oculysts and immediately cuts off transmissions with the Tenno. An individual of the Orokin-era, Conclave master Teshin offers his aid to unravel the truth about the mysterious Lotus, suspicious of her true motives.
+Teshin's introduction to Conclave
+In search for information on these drones, Grineer scientist Tyl Regor has lead efforts in excavating a tomb from the Old War in the depths of Uranus. The Lotus suddenly reappears, claiming she went dark to hide her tracks and pleads to the Tenno to stop Regor from entering this tomb. Their efforts were in vain as Regor accidentally awakens a Sentient, that being Hunhow, destroyer of worlds:
+...Natah, where are you? You cannot hide from me.
+The Lotus reveals that her old name was Natah and was formerly a Sentient, ordered to eliminate the Tenno during the Old War. From the Tau System, where the Sentient stronghold resides, she crossed the Void to reach the Origin System and complete her mission. However, because the Sentients were programmed by their Orokin creators to be vulnerable to the Void as a safeguard against a rebellion, the Lotus subsequently lost her ability to procreate. With the Old War coming near at the end, there was no need to kill the Tenno. Wanting children on her own, the Lotus decides to hide them away in the "second dream".
+Lotus
+Once the daughter of Hunhow, the Lotus betrayed her own kind out of selfishness to become a mother. Hunhow will soon finish where the Lotus had failed: elimination of the Tenno.
+Walkthrough
+This quest is available upon completion of The Archwing. As the quest begins, the Lotus will send an inbox transmission with the message:
+Lotus
+Scan the New Drones: Gaia, Earth
+The Lotus sends the player to Gaia, Earth with the task of using Codex Scanners on a mysterious drone which the Lotus wishes to know of their origins as they jammed visual feeds. Players will initially have to track down the drone's location while defending themselves against any Grineer enemies in the way. After a while, the Lotus will mention that the drones don't seem interested in the Tenno and that scanning their objective may determine what the drones are up to. Players at this point will have to scan a large, unique wreckage hanging off a cliff in order to proceed.
+Upon scanning the wreckage, the Lotus quickly recognizes the structure as an Old War wreckage, which furthers her confusion of why the drones are excavating the build. Players will then continue their mission to find out more information from the mysterious drones, to which two new targets will then be marked on the map to scan. These targets must be scanned or the mission will result in a failure.
+After scanning the last drone, the Lotus is both surprised and horrified to identify the drone as an Oculyst. She quickly warns the Tenno to stay safe and immediately cut off her transmissions completely, leading Ordis to temporarily act as the mission operator. Clearly, in shock and disarray at the situation, Ordis directs the player to quickly head to extraction.
+Help Teshin: Cassini, Saturn
+With the Lotus seemingly abandoning the Tenno, Teshin offers his help in unraveling the Lotus' secret. Teshin sends the player to a Grineer Galleon in Cassini, Saturn, in order to obtain more information about the mysterious appearance of the drone, which Teshin describes as "a menace long thought dead". He persuades the Tenno to hack into three Grineer Consoles in a Mobile Defense fashion, of which he also repeatedly iterates that he will not hide the spoils of their labor.
+Upon finishing the mission, Teshin is able to successfully intercept a message by Tyl Regor, which he sends to the player's inbox:
+Tyl Regor
+Find the Sergeant: Sycorax, Uranus
+The intercepted transmission points to the presence of a Grineer Sergeant named Sergeant Scur, a Drahk Master armed with a Grakata, located in a Grineer Sealab on Sycorax, Uranus, where players are tasked with his capture.
+The Lotus once again appears, quickly realizing that Teshin is leading the Tenno into more danger and immediately orders him to halt his intention, to which he argues at how she is afraid of what they'll find. She answers.
+Lotus
+Teshin
+After successfully obtaining the information of the mysterious tomb, the Lotus immediately orders the Tenno to stop Tyl Regor from entering the tomb.
+Stop Tyl Regor: Ariel, Uranus
+The Lotus sends the players to a Survival mission on Ariel, Uranus, to which they have to fight against Grineer units for 10 minutes.
+As the mission progresses, Tyl Regor manages to open up the artifact he is excavating despite warnings from Teshin - whom Regor identifies as a "pseudo-Tenno" - and the Lotus. After unearthing an Exilus Adapter from the ruins, Regor also manages to release a Sentient, who begins to refer to the Lotus as "Natah".
+Back on the player's ship, the Lotus explains that "Natah" was her old name. Concerned about the appearance of the Sentient, the Lotus ordered for it to be contained by destroying the tomb it resides in.
+Seal the Tomb: Desdemona, Uranus
+The Tenno are deployed to yet another Sealab facility for a Defense mission on Desdemona, Uranus, where they are tasked with protecting a bomb that will destroy the tomb once and for all. For this mission, players must defend one of four objectives located at different parts of the map, with the vulnerable objective switching between each wave, for a total of 5 waves.
+During the mission, the Sentient speaks to the Lotus, whom he refers to as his daughter, accusing her of betrayal. Through the conversation, it is revealed that Lotus herself was a Sentient, who had infiltrated the ranks of the Orokin to become the Tenno's handler.
+Once the player accomplishes the mission, the Lotus further clarifies the nature of her betrayal: she was supposed to destroy the Tenno, but did not. She explains that Sentients become incapable of breeding upon arrival at the Origin system, with Teshin realizing that the Lotus desired children of her own, to which the Lotus affirms that she has become the Tenno's 'mother'.
+In the aftermath, Tyl Regor, angered at his setback, challenges the Tenno to fight him, telling them that they know where to find him.
+**Notes:**
+Due to enemies becoming unscannable once their Codex entry is complete, completing the Oculyst's entry will render the first stage of the quest incompletable with a conventional Codex Scanner.
+In this scenario, a Synthesis Scanner will be required to proceed with the quest, as these can continue to scan enemies regardless of their entry completion status.
+Sources
+
+## The Second Dream
+Quest Description
+The Second Dream is a main Quest, released in Update 18. The Sentient Hunhow allies with the Stalker to destroy the Tenno by exposing their true form.
+Synopsis
+The Sentient Hunhow awakens from his slumber, seeking revenge on the Tenno for their actions during The Old War. Allying with the Stalker, they seek to destroy the "womb in the sky", later revealed as the Tenno's weakness: a Reservoir on Lua that was hidden within the Void by the Lotus to protect the Tenno from the Sentients.
+The player is tasked with finding Hunhow, who infiltrated the Lotus' mind during the events of Natah. With the unexpected help of Alad V, all traces lead to a Sentient relic on Uranus, dug up by the Grineer. Interacting with the relic, the Lotus tries to ascertain the location of Hunhow, only to be foiled by allowing Hunhow to know the location of the Reservoir. With the Stalker en route, the player chases after him to prevent him from reaching the Reservoir first. The player follows the Stalker through a Void Gate into an Orokin Tower in the Void, realizing that this Reservoir is on Earth's moon that was hidden within the Void. Disabling the Orokin Tower's Void mask mechanism allows the moon's location, known as Lua, to be detectable. This allows Ordis to pick up the player from the tower and drop them onto Lua, where Stalker begins to collapse the void. The player is forced to phase Lua back out of the void in order to avoid it being crushed by the weight of the Void. Now that Lua is no longer protected from the Sentients by the Void, the only option left is to protect the Reservoir.
+The truth behind the Reservoir is that in it lies the Tenno's true form, the Operator. In the Reservoir, the Operator directs their Void energy to control the Warframes remotely, a process called Transference. The Stalker rendezvous with the player but upon seeing the Operator, he hesitates to kill, leaving the player to deal with hordes of Sentient fighters with their newfound power: the ability to channel Void energy to fight in their Operator form.
+Upon the Orbiter, the player has to put their Operator into a new Transference vessel: the Somatic Link at the back of the ship. In the final clash between the player and the Stalker, the player proves victorious and subsequently encounters the Lotus in-person for first time. As the Lotus carries the unconscious Operator into the Somatic Link, the player regains some of their memories of being a Tenno, remembering one of the five great schools that they once belonged to in the Orokin Age (the Old War).
+Lotus
+Walkthrough
+The Second Dream is automatically made available upon completing the Neptune Junction. The Quest can be activated in the Quests section of the Codex.
+Cinematic: The Meeting
+A cinematic for the quest can be found on The Second Dream's Codex Entry before undertaking any missions.
+The cinematic begins with the Stalker walking up to a platform, surrounded by floating Sentient fighters on all sides. As he walks up to the center of the platform, a disembodied voice speaks to him about the Stalker's vengeance and the Tenno's seeming immortality. As the Stalker drops the severed head of a Loki unto the platform, the voice reveals that the Tenno "essence" has been hidden from them by the Lotus, and tells him that he knows that it is found in a "womb in the sky". Using its powers, the voice gives Stalker new armor and a large greatsword with which to accomplish its mission. The Stalker asks for the voice's identity, to which it replies as Hunhow, Sentient destroyer of worlds.
+Infiltrate the Grineer Archives: Umbriel, Uranus
+An Archwing is required to undertake this mission.
+The Lotus contacts the Tenno to warn them about the threat of the Sentient Hunhow, who has been infiltrating her mind. She also warns them about Hunhow using the Stalker to hunt down the Reservoir, the Tenno's weakness that the Lotus has kept hidden.
+The Tenno are sent to Uranus on a Spy mission to infiltrate data from the Grineer on their knowledge of Hunhow, who they released after excavating him. All two data vaults must be successfully hacked in order to complete the mission, otherwise the mission will fail.
+Midway the Lotus reveals that the Grineer had been excavating pieces of Hunhow, and that Hunhow is capable of controlling each part of him with his mind, making Lotus wonder if said mechanism is how the Sentient has been invading her mind. Infiltrating the first vault reveals it to have already been accessed and corrupted, thus Lotus entreats the Tenno to find another vault to acquire more data. Hunhow contacts Lotus at this point, telling her of his intent to restore the Lotus. While Lotus defiantly claims that he'll never find the Tenno, Hunhow tells her that he already knows due to his infiltration of her mind.
+The second and final vault gives Lotus the final piece of data she needs, revealing it to be a personal message to her. Lotus excuses herself, telling the Tenno that she needs to contact the person who sent the message, before telling them to head to extraction.
+Find the Sentient Fragment: Cressida, Uranus
+An Archwing is required to undertake this mission.
+The Lotus, fearing that Hunhow can listen in on her, tells the Tenno that the message she received was an offer for help. However Lotus does not reveal who said person is, only that she doesn't trust them. She then sends the Tenno to Cressida, Uranus to find a fragment of a Sentient.
+Once the Tenno arrives at the mission site, the mysterious helper is revealed to be none other than Alad V, who claims knowledge of what they are looking for. Despite their antagonistic past, he asks the Tenno to trust him due to the greater threat of the Sentients. The full antagonistic storyline between the Tenno and Alad V takes place before The Second Dream in past events now inaccessible by players, and can be read below:
+Upon diving underwater and reaching the site of an Orokin shipwreck, Alad V, unwilling to completely guide the Tenno in finding the fragment, urges them to search the excavation site for it themselves, providing hints only if the players are near the objective. (If the player takes approx 5 minutes, Alad V will say "I give up! Here it is! Can't you find anything not marked on your map??" accompanied by placing a way-point to the objective) The actual objective at this point is to find a tunnel closed off by rocks, which can be destroyed to reveal a passageway leading out of the excavation site and into a large underwater cavern with a Sentient wreck. The fragment is found upon exiting the waters above the cavern, a Sentient relic that the Lotus says she could use to view the memories of her father.
+Once the Tenno interacts with the relic, Lotus sees a vision of the Stalker who is apparently confused, before realizing that she has been caught in a trap: interacting with the relic has allowed Hunhow to ascertain the location of the Reservoir, with the Stalker now en route to it. Alad V then tells the Tenno to hurry back to extraction. The mission ends once the player reaches extraction.
+Follow the Stalker: Neso, Neptune
+Back on the player's landing craft, Alad V asks the Lotus what "the Reservoir" is and whether it's a Tenno weakness. Lotus only tells him that he has already earned his favor from them, only for Alad V to counter that the Tenno are his investment, thus he wishes to see this through.
+The next mission takes the Tenno to a Corpus Outpost on Neso, Neptune. The fragment apparently lead Hunhow to a path leading to the Reservoir which passes through said outpost, and that in order to reach it Hunhow needs the Stalker.
+Reaching the objective marker reveals an Orokin portal room, what Alad V calls a "Void Gate". On entering the room, the Stalker vanishes as the void portal collapses. A Sentient Conculyst or Battalyst will suddenly appear, a powerful enemy unit which the Tenno must defeat. Doing so will reveal the location of a Void Key the Stalker used in the portal room to Lotus' surprise. The Void Key must be inserted into the Torsion Beam Device at the center of the portal room to reopen the void portal, at which point the Lotus urges the Tenno to enter, stating that the Sentients will be unable to follow the Tenno there due to the Void being poison to them.
+Upon arriving at the other side of the portal, Alad V tells the Tenno to find a nav console to figure out where they are. The nav console is located in a room with a window looking out at a sight that shocks Alad V: The Moon. Alad V explains that the Moon was thought to have been destroyed, expressing wonder at it being in the Void all this time and at the Lotus' ability to have put it there. The Lotus tells the Tenno that the Reservoir is the source of their power, and must be protected. Once the nav console is activated, the Lotus detects the Stalker leaving on a ship headed to the moon and urges the Tenno to find a way to follow him.
+Alad V realizes that the Orokin Tower the Tenno are currently in is used to hide the Moon's location in the Void, thus suggesting that the tower should be disabled to allow Ordis to pick them up. To disable the tower, the Tenno must find a marked console hidden inside a retractable cover within a generator room and hack it, which will allow 4 more retractable panels in the generator room itself to become visible. These 4 panels will reveal a blue vial each that must be destroyed, but are protected by electric arcs. One panel will be unprotected at all time, so the Tenno has to look for the next unprotected panel after destroying each vial.
+Once all 4 panels have been revealed and their vials destroyed, Ordis will contact the player to tell them to prepare for pickup.
+Protect the Moon: Plato, Lua
+Ordis mentions that he recalls having been to the Moon once, and that he is concerned for the Tenno. The Lotus explains that the Reservoir is the source of the Tenno's power, and that its secret drove the Stalker mad. The Lotus asks the Tenno for forgiveness, telling them that they must now protect the Moon by keeping it within the Void.
+Arriving on the Moon, the Tenno are tasked with stopping Stalker from reaching the Moon's Void Control Room, whose aim is to initiate a void collapse that will destroy the Moon, which will destroy the Reservoir and in turn the Tenno along with it. Before players can reach the Void Control Room however, the Stalker initiates the collapse, which causes shadow versions of hostile Infested to appear throughout the complex. The Lotus decides to pull the Moon out of the Void and back into normal space to prevent its destruction, tasking the Tenno to reorient the Moon by reactivating the Void Control Room's void compasses.
+Upon reaching the Void Control Room, players must first hack a console at the center of the room, and then reactivate three void compasses located in three towers in the room by getting close enough to the devices to drain the Warframe's shields. The void compasses can only be reactivated one at a time, and only after one of them has been activated can the next one be worked on. Hacking the central console will make the Shadow Stalker appear, the improved version of Stalker with new weapons and abilities. Just like a normal assassination by Stalker, if the Tenno is able to lower the Stalker's health far enough, he'll disappear, though this will be much harder than before due to Shadow Stalker featuring similar resilience as the Sentients. When the compasses are reactivated, Hunhow threatens Alad V for being Orokin, causing Alad V to bid farewell to the Tenno as he has apparently been found by Hunhow, while reminding Lotus of their deal.
+With all compasses reactivated, Lotus tells the Tenno to get to the Pendula, which are devices that maintain the Moon's stability in the Void, and deactivate them. There are four such Pendula located in four pillars in the center of the room they are located in, protected by a floating and teleporting Security Eye that will shoot waves of slow-moving destructive energy at players. As both the Pendula and the Security Eye are immune to any form of attacks, in order to destroy the Pendula the Tenno must trick the Security Eye into attacking the pillars by making the Security Eye shoot into the Pendula's direction. Care must be taken after the first Pendula is destroyed, as the Security Eye will begin to perform wide scale area-of-effect attacks after its standard beam attack. Note that these AoE attacks cannot destroy the Pendula and become more frequent with every Pendula destroyed.
+After all the Pendula are destroyed, the Lotus orders the Tenno to get to extraction as soon as possible. Along the way, disembodied voices belonging to a man named Ballas and a woman named Margulis conversing to each other can be heard, arguing about the fate of "devils".
+With the Moon now back in the orbit of Earth, a lone Conculyst can be encountered before the Tenno reaches extraction, though it is not necessary to fight it to complete the mission.
+Save the Reservoir: Grimaldi, Lua
+This mission cannot be performed with a group, and must be done solo.
+The Lotus informs the Tenno that they will have to act fast, as the Moon is now exposed and the Stalker is already en route to destroy the Reservoir. Once again, the Tenno arrives on the Moon. As the Tenno proceeds through the level, more disembodied voices similar to the previous mission will be heard, revealing more of Margulis and her work, along with the Orokin's reactions to it.
+At the end of the level is the Reservoir, a place with water falling into a small pond below. A cinematic then plays, where the Tenno is walking towards the Reservoir as it observes a golden flower-shaped pod emerging from the waters. The pod opens up, revealing a person wearing a black bodysuit, which the pod then carries out on a chair. The person is dumped in front of the Tenno, resulting in the screen flickering and breaking up, with the Warframe suddenly falling limp, before the view blacks out. The voice of Margulis was heard:
+Margulis
+At this message, the person in the bodysuit crawls over to the Warframe, and then touches it. The act reactivates the Warframe, and makes it carry the person in its arms. The Stalker appears afterwards seemingly ready to kill them, but hesitates, earning the ire of Hunhow who proclaims that Stalker's hate is weak, before sending the Stalker away to allow Sentient fighters to finish the job. The Lotus then orders the Tenno back to their ship, referring to them as the Operator.
+At this point, the player must now carry the person to the extraction point while being followed by Sentient battle drones. The Warframe's mobility is greatly reduced while carrying them, walking much slower and being unable to use any parkour moves, including sprinting or jumping. Although they have no access to their weapons or offensive Warframe abilities, the Warframes can still use defensive abilities like Iron Skin, and the person can fire an energy beam powerful enough to destroy the Sentients to hold off any enemies while the Tenno moves to extraction. During this stage it is impossible to actually die, as the player's health can never drop below 1. Defeating the Sentient drones is not necessary to extract, but it is recommended because the requirement for the Sedna Junction requires killing 5 Sentient enemies on Lua, who are very hard to kill outside of this mission.
+Back aboard the player's ship, the Warframe still carries the person in its arms, and the Lotus tells them to head deep inside the Orbiter section to find the Somatic Link, located inside a room at the very bottom rear of the Orbiter. Unbeknownst to them, the Stalker has infiltrated the spacecraft and is ordered by Hunhow to kill the Tenno before they reach the Somatic Link, which is the device at the very rear of the room. The Stalker will then proceed to attack the Tenno, firing red energy waves that can push back the players a significant distance away. The player must dodge the Stalker's attacks and/or destroy them with their energy beam attack to reach the Link. Once the player reaches the Link, they must use the energy beam to feed energy into the Link via a blue energy sphere at the top of the Link. When the Link has received enough energy, an energy blast from the Somatic Link will push the Tenno back, forcing the Tenno to repeat the process of going past the Stalker and refilling the Somatic Link. This must be done three times.
+Once the Somatic Link has been filled three times, the person and the Warframe are both blown back from the energy dispersion, separating them. The Stalker stands before the Warframe, lifeless again after being separated from the Operator's touch. The person cowers in fear, as Hunhow monologues how the Warframe (up to this point thought to be the Tenno) is a "metal puppet" to the real Tenno, who is actually the helpless person from the Reservoir. After stabbing the Warframe with his greatsword War, the Stalker approaches the Tenno and proceeds to choke them. Inexplicably, the Warframe revitalizes and breaks War in half, dispelling Hunhow's control, causing the Stalker to be overcome with immense pain. The Stalker flees, releasing a blinding flash that knocks the real Tenno unconscious.
+Aftermath
+The Lotus then appears, personally carrying the Operator into the Somatic Link. A customization screen will then appear, revealing the Operator's true face, which players can edit to their desire.
+After the player's customization is complete, the Lotus reveals the Operator is the Tenno themselves, their true form. The Lotus begins asking questions to see how much the Tenno remembers, and helps them recover some of their memories. She explains how an Orokin Archimedean by the name of Margulis helped save them from their uncontrollable powers by creating a dream-state for them to live in. The Lotus further explains that Margulis was killed by the Orokin Executors and her ideas were used by them to create "Transference", which allows the Tenno to use their powers to control a remote "surrogate" body, in this case: the Warframes.
+The Lotus continues to explain some of the Tenno's history and the five great schools they founded, all based on different principles of combat. The player is then given a choice between one of the 5 schools – Madurai, Vazarin, Naramon, Unairu, and Zenurik. The choices leading up to the five great schools have no actual gameplay effect but instead reorders the choices of the Tenno School, with the school most suited to the Operator appearing on the left and choice to the right being the least suited.
+Sort
+Madurai - Specializes in offense. Their abilities Phoenix Talons and Power Transfer enhance their damage output.
+Vazarin - Specializes in team recovery and defensive support. Mending Unity allows them to provide support from farther away while Mending Soul quickens revives.
+Naramon - Specializes in melee. Power Spike reduces melee combo decay and Affinity Spike increases melee weapon affinity growth.
+Unairu - Specializes in survival and offensive support. Poise grants immunity to impairing status effects and Stone Skin passively increases armor.
+Zenurik - Specializes in Energy regeneration. Energy Pulse increases energy orb regeneration while Inner Might periodically removes energy cost for abilities.
+After confirming their school, the Lotus tells the Tenno that this will be their primary Focus, completing the quest and rewarding the player with a Focus Lens of the chosen school; this can be slotted onto a Warframe or weapon to generate Focus for that school and unlock new abilities within. The remaining schools need to be opened by utilizing their respective Focus Lenses from various activities. Only two Focus school abilities are unlockable at this point; the remaining become accessible after progressing further into quests, namely The War Within and Saya's Vigil, to access The Quills syndicate in Cetus.
+The player can now activate Transcendence (default 5) to project their Operator, who will hover and fire a powerful beam for 10 seconds before returning control to the Warframe and entering a 180 second cooldown. Activating Transcendence will also activate any relevant Focus ability that requires the Operator's presence.
+Ordis will send the player an inbox message expressing his relief that the Operator is alive and well, as well as delivering the Broken War sword that was broken off from the War greatsword, and a Scar sigil. Meanwhile, the Shadow Stalker, still hellbent on executing the Tenno for their crimes, will continue to hunt the player down in his upgraded Sentient form.
+Lua is now available as a mission planet as both Grineer and Corpus attempt to occupy it.
+Completion of The Second Dream is a prerequisite to starting the Rising Tide quest.
+In the final battle against Stalker in the Orbiter, the Tenno's beam attack can be used to directly destroy Stalker's energy wave attack, preventing it from hitting the player.
+Firing the beam in bursts is more effective than firing it continuously, as the beam is powerful enough to destroy both Stalker and his attack with only a second of shooting, and it allows the player to conserve energy to fire more shots to intercept Stalker's attacks.
+Be reminded that it is not necessary to defeat the Stalker as the primary objective is to fill the Somatic Link.
+The Second Dream was first hinted at by Ordis following Update 14, when he occasionally says "Do not split the dream" as part of his recurring lines.
+After this quest was released, Ordis no longer quotes said recurring lines.
+It was later directly mentioned by the Lotus during the Natah Quest in reference to how she protected the Tenno, saying she "hid them away in the second dream".
+The Second Dream is the first Cinematic Quest in WARFRAME.
+While the replies that the player chooses during the Operator's conversation with the Lotus has no gameplay effect, the choice of replies are used to reorder the choices of Tenno Schools once the selection screen appears, with the school most suited to the Operator appearing on the extreme left, and choice to the extreme right being the least suited, ex. choosing the conversation options "I remember studying" and "We sought knowledge" will put Naramon to the leftmost side as the most desirable choice. Players are still able to choose which school they desire however.
+Certain elements of the Second Dream appear in previous lore entries in the game:
+The transport ship Zariman and the story of its children were first mentioned in Ember Prime's Codex entry, and again in the entry for Rhino Prime.
+The male Orokin called Ballas whose voice could be heard during the quest is Executor Ballas, one of the members of the Orokin Congress of Executors, who was first mentioned in the Crewman Synthesis entry.
+According to Keith Power, one of the soundtrack exclusive to this quest had its choir voiced by Jen McMillan.
+When running Inaros or Nidus, the void compasses will drain health instead of shields.
+The results screen upon completing the final mission of the quest will say that it's an Assassination mission, despite killing Shadow Stalker is not necessary.
+The Stalker's taunt can trigger during this quest as though Stalker is going to appear. As this is a story quest however, the Stalker himself will not appear.
+If "Public" is selected, you may find yourself part of a team. One of the team members will get the mission result, but the rest will need to do the mission again in "Solo" mode. Mission success might be awarded to the highest score, but is not confirmed.
+If you leave the Void Gate room without defeating the sentient, it may cross to the other side, preventing you from completing the quest.
+If you do the quest without going though the nodes on Neptune the game will allow you to do the quest anyways and if you complete it the node will unlock even without its previous nodes completed
+After the Jade Shadows update, the Loki head may be missing during the opening cutscene.
+LkRQzpOWmqc
+
+## The War Within
+Quest Description
+The War Within is a main Quest, released in Update The War Within. By tracking Teshin to the central base of Grineer operations and encountering the Twin Queens, the Tenno recover suppressed memories and regain their original powers in the process.
+This quest first introduces the Alignment mechanic, presenting multiple dialogue options with varying, albeit minor, effects. There is currently no way to alter alignment, even by repeating the quest.
+Synopsis
+A disturbance on Reservoirs in Lua prompts the Tenno to investigate the problem. Turns out Teshin has intruded the same location where the player retrieved their Tenno body on Lua, to lure them out, revealing that he is a double agent for the Grineer Queens. In pursuit of the truth, the Tenno follows Teshin's deployed Specters who leads them to a supposedly uninhabited asteroid field. Disabling the security matrix exposes the Kuva Fortress, the central base of Grineer operations and home to the Twin Queens. The Tenno realizes the base's mobile state prevented them from encountering it.
+Infiltrating the fortress, the Tenno discovers the Queen's lair, along with Teshin, under control of Queens' Kuva Scepter due to his status as an Orokin Dax soldier. The Dax were biologically programmed to not disobey those with Orokin blood, Kuva. So, unrelentingly, Teshin has brought the Tenno to the Queens for Continuity, the ritual of transferring consciousness between bodies for everlasting life. Due to repeated cloning, the Queens' bodies had suffered the Cloning Decay Syndrome with each cycle of Continuity, so to preserve their immortality, they need a new, young body. Before they capture the Tenno, Ordis cuts off Transference, in an attempt to protect the Operator while leaving their Warframe behind. However, the Queens will start the process of Continuity, burrowing into the Tenno's mind through their Warframe surrogate.
+After a transitional period into a vision, the Tenno, now in Operator form, appears on an mountain under a snowstorm. There they meet Teshin who instructs them through the mountain pass to regain their memories as a Tenno, which were suppressed by Margulis in an effort to protect them from the Void. The tragic Zariman Ten Zero incident becomes clearer to the Tenno as they regain their ability to manipulate the Void without the need to channel it through a Warframe.
+Teshin
+With their original powers back, the Tenno return back to the Kuva Fortress to save Teshin from the Queens. After a series of battle with the Queens' guards and Teshin himself, the Tenno finally circumvents the Queens' defense and steals their Kuva Scepter. Now vulnerable, the Tenno and Teshin kill the Elder Queen, leaving the Worm Queen to escape the confines of death.
+Back at the mountain pass vision, the Tenno decides what to do with the Kuva stolen from the Queens. Regardless of their decision, a mysterious figure whispers in their mind, foreshadowing the outcome of regaining their Void powers.
+Walkthrough
+The player must complete The Second Dream quest and the Pluto Junction at Neptune to begin this quest.
+If the player has accomplished all the necessary prerequisites, a message from the Lotus will arrive in the player's inbox telling them to investigate Lua. The quest can then be activated in the Codex. A short cinematic will then play, a vision showing the Twin Queens of the Grineer discussing "Continuity". Back on the Orbiter, the Lotus worryingly asks about the Operator's state due to high Somatic output. After the Operator reassures the Lotus of their condition, they are asked to deploy a Warframe to Lua to investigate.
+Investigate the Reservoir on Lua: Zeipel, Lua
+Landing on Lua, the Lotus narrates how they are now in the place where Margulis tried to help the Tenno to tame the Void within them, saying how in that way all Tenno were born here. As the Operator tries to clarify whether they were truly born there, the Lotus relates that they were the only things saved from the Zariman as the Orokin tried to rectify their mistake. Detecting an unusual signature within the vicinity, the Lotus asks the Tenno to investigate.
+Deeper in the facility, the Tenno will encounter a shadowy being that can seemingly teleport, with the Operator reporting that they think the intruder is Teshin. Confused as to Teshin's presence, the Lotus asks the Tenno to track him down, seeing as how he is heading towards the reservoir.
+Through a transmission, Teshin asks the Tenno, whom he refers to as a "child", to leave as the matter at hand doesn't concern them. Annoyed at Teshin's behavior, the Operator asks what he is doing. When the Tenno finally catches up to Teshin, they see him next to a Reservoir examining a broken pod, when a female voice asks Teshin to bring "them" to her. Asking as to the identity of the female voice, Teshin reveals it to be "the Queens", which the Operator immediately recognizes as the Grineer's Twin Queens. In a blink, Teshin draws his nikana and puts it to the Warframe's neck, warning them that they are not as safe behind the Warframes as they think, and that Teshin will fight them if they attempt to follow him. He then casts a decoy Specter of himself as he escapes, while the place begins to fill with Corrupted.
+The Operator asks the Lotus to track Teshin, who replies that Teshin's Specters are masking his signature. The Lotus, having once thought the Grineer Queens as just a myth propagated by Grineer Command, asks the Operator if Teshin should do this alone. With the Operator still annoyed at Teshin's condescending behavior towards them, the Operator states that they will not be told what to do by Teshin, and asks the Lotus to track Teshin down once they've dealt with the Specter.
+Players at this point must pursue one of Teshin's Specters, which appear as a violet energy decoy of him, and then take him down. Unlike most Capture targets, Teshin's Specter will fight back if threatened, engaging the player in melee combat. Once Teshin's Specter has been successfully taken down, players must then capture it via a Capture Target prompt. After the player accomplishes this, the Lotus will ask the Tenno to extract, having locked on to Teshin's route.
+Track Teshin: Carpo, Jupiter
+Heading to a Corpus Gas City on Jupiter where the Lotus has tracked Teshin's signal, the Lotus theorizes on the tactical advantage they can gain against the Grineer if they can locate the Twin Queens. The Operator then wonders why Teshin doesn't want the Tenno's help if he's tracking down the Queens, making the Lotus muse about Teshin's prideful personality.
+Once the Tenno catches up to Teshin's location, it is revealed that they are tracking yet another of Teshin's Specters, and the Lotus asks the Tenno to capture it so they can use it to track Teshin. As with the previous mission, players must disable and then Capture the Teshin Specter before it can escape. Players can then extract once they have accomplished the mission.
+Pursue Teshin into the Asteroid Field: Naga, Sedna
+This mission must be completed in single-player.
+The Lotus tracks down Teshin's next location to a supposedly uninhabited asteroid field that deep scans reveal to have a 'security matrix', making the Lotus believe that someone is hiding something. The Lotus then asks the Tenno to prepare their Archwing for the mission.
+Deployed near an unusual asteroid structure, the Lotus briefs that the Tenno must disable the security matrix surrounding it before they can head inside to investigate. The Lotus asks Ordis as to whether their angle of approach is the best, to which Ordis points out the various traps and dangers outside of the shipping corridor the Tenno are in, and are thus advised to stick to this route.
+Inside the asteroid base, Ordis points to the presence of a Grineer transport ship passing through several laser scanners on their route. In this section, players must avoid the red laser scanners within the corridor by keeping the moving transport between themselves and the red laser scanners as they pass. There are two sets of lasers that players must clear safely before they reach the end of the corridor, terminating into a transport hangar, where the player will encounter Kuva Grineer for the first time.
+Upon reaching the hangar players are automatically detached from their Archwings to transition into standard ground combat, where they are then tasked with disabling the security matrix by activating a console. When the console is activated, players must then defend the console from Grineer attack for 2 minutes until the shutdown is complete - players will fail the mission if the console is destroyed. Once the security is overridden, players must then kill all remaining Grineer within the hangar to continue with the mission.
+Transitioning into Archwing once more, the Operator expresses their surprise at the asteroid base that lies beyond the hangar, with the Lotus presuming it to be the Queen's Fortress. The Operator notes the Fomorian engines attached to the fortress, and realizes that the base is mobile, explaining why they've never been able to find it. The Lotus, detecting Transference interference from within causing her transmissions to become distorted, asks the Tenno to return to their ship and wait for Teshin to contact them, but the Tenno sees this as an opportunity to discover what's inside, fearing that they'll lose their chance if the fortress moves again.
+At this point, players are asked via a prompt whether they want to continue into the Fortress or not, warning them that mission access will be restricted once they proceed, meaning that players will be unable to abort the mission or change equipment from that point onward. Quest will be in Solo mode from that point as well. Players do not need to replay this part of the mission if they choose not to continue yet.
+Infiltrate the Grineer Asteroid Fortress: Dakata, Kuva Fortress
+Proceeding inside the Fortress, the Operator tries to contact the Lotus, only to discover that they no longer have contact with her, and thus must proceed without her guidance. The Fortress features various scanners that will trigger defenses when a Tenno is detected; player can choose to either avoid the scanners by stealth, or simply run through the level as fast as possible. If the player is defeated and uses up all their revives, they are forced to repeat this part of this quest.
+Deeper into the Fortress, player will come upon a large cavernous room with an large elevator whose access is locked. In order to activate the elevator, the player must find three Elevator Keys mounted on consoles throughout the cavern, and then carry them to the main console in the center of the room. Only when all three Elevator Keys are inserted will the main elevator open, granting access to the bottom levels.
+Deep inside the Fortress, the Tenno finally finds the Queens' throne room, the very same one from their vision, where they are then confronted by Teshin, telling them that they have ruined them both, as Kuva Guardians and the Twin Queens themselves descend into the room. The Queens reveal Teshin's true name as Teshin Dax, a Dax soldier from the old Orokin Era, who is unable to disobey the Queen's orders. Disappointed at how Teshin brought the Warframe instead of the Operator themselves, the Queens nonetheless manage to restrain the Tenno with Teshin's help, and proceeds to disrupt Operator's connection to it. Back in the Orbiter, Ordis identifies this as a Transference Surge and urges Operator to cut the link, which Operator claims they cannot do. Unable to shut down the Link from the Orbiter and prevent the Surge, the Operator is rendered unconscious.
+The Purge Precept
+The Operator wakes up outside of their Transference chamber to the laments of distraught Ordis. Once the Operator calms the Cephalon down, they ask Ordis to reestablish Transference with their Warframe. To this Ordis replies that he is unable to do so, asking the Operator to reestablish the Somatic Link with their Void energies. At this point, players must use their Void powers on the Somatic Link receptacle on top of the Transference chamber by firing a Void Beam (default LMB) at it.
+However, the Operator experiences a backlash that prevents prolonged periods of firing. Believing that the Operator can no longer control Warframes, Ordis suddenly initiates his Purge Precept, decompressing the ship while turning their equipped Sentinel (or Wyrm Prime if one is not equipped, even if the player does not own Wyrm Prime) against the Operator. Barely containing his care for the Operator, Ordis urges them to head to the navigation console so that he may detach the Landing Craft. The player must now escape to the front of the Orbiter within 1 minute, avoiding both the Sentinel's attacks and steam vents that periodically stagger and block the player from progressing; if the player is defeated or fails to escape in time they will be forced to repeat this part of the quest.
+The Mountain Pass: Earth
+Managing to escape to the front of their landing craft, the Operator now find themselves stranded on top of a snowy mountain on Earth. Players must navigate the snow-covered path and avoid getting blown off by the wind as they make their way to a cave at the end of the path; falling off will respawn the player at the start of the mountain.
+Within the cave, the Operator finds a corpse by a fireplace, where they are then confronted by Teshin once more. After a brief altercation where the Operator fails to land a punch on Teshin, the latter locks the Operator inside the cave by closing an old automated door. As Teshin's voice explains the nature of Margulis' "lie" as to what she did to the Tenno, the Operator comes across a massive Ayatan Sculpture encased in icy stalactites. Players must use their Void Beam to destroy the ice, before shooting the front of the Sculpture with the beam, setting off a reaction that sees the Operator fall to the abyss below.
+The Ravenous Golden Maw
+After waking up from their fall, the Operator remembers bits of their past on the Zariman when an accident first broke out on the ship and were lied to by their original mother about being safe with her, as narrated by the Queens. The Operator is now within a chamber with the floor covered in bones and skeletons, with a creature - a Golden Maw - visibly moving underground that Teshin warns the Operator of.
+The objective of this particular section is to cross the chamber safely to the other side without being devoured by the Golden Maw, who will erupt from the ground and consume the Operator if the player stays too long within the floor of bones. In order to cross the chamber, players must sprint and jump to safe areas, visible as large structures and elevated platforms, before the creature can reach them; any time the player is in a danger zone the sounds of rapid heartbeats can be heard. The Golden Maw itself will move around the bone floor in particular patterns, and thus players must time their runs to when the creature is furthest from their position. Alternatively, there are side paths in the chamber that allow for safe passage to the rocks. If the player is caught by the Golden Maw, they will respawn at the beginning of the room, making it impossible to fail.
+After crossing the chamber, the Operator gains the ability to perform Void Sling (default Ctrl + Space or Space in mid-air), a lunging teleport that can be charged to increased the distance traveled, and which they can use to destroy the barrier blocking their way further down the cave. After another memory narrated by the Queens regarding the Operator's original father informing them that something out in space is watching the crew, they must use Void Sling to cross the gap. This ability use up energy, visible as a symbol on the player's crosshair; the brightness of the symbol determines the energy level, with the crosshair become dimmer the more energy is used until it is depleted, and brightening as the energy recharges.
+Players will come across yet another bone chamber, this time with two Golden Maws, thus necessitating the use of their newly acquired power to cross the chamber. After another narrated memory of how the Operator feeling safe with the children on the Zariman, the Operator will unlock Void Mode (default Ctrl), a short-term invisibility/invincibility power that remains active as long as the appropriate key is held. As with Void Sling, Void Mode consumes energy while active.
+Another bone chamber will present itself to the player soon after, which will require players to use Void Mode in conjunction with their other powers to cross.
+At the end of the path another memory is narrated by the Queens, explaining the adults on the Zariman have gone mad by the Void's influence. Players are now given a choice between three replies in how to respond:
+[Sun] I held out hope
+I held out hope we'd be rescued. So I avoided the bloodshed.
+[Neutral] They had lost their minds
+They had lost their minds. I didn't blame them. We built a makeshift prison.
+[Moon] They were nothing but animals
+They were nothing but animals by then. So I hunted.
+The Operator will then unlock the ability to perform Transference (default 5), allowing them to physically possess and take control of an eligible target, as Teshin explains that they have now unlocked their full power. In the next and final bone chamber, players are tasked with using Transference against a Golden Maw, which can be done by Void Slinging into the Maw to stun it, and then using Transference while targeted. Once players have control of the Maw, they can use the Maw's ability to burrow and attack to cross the chamber to the mountain exit.
+The Yuvan Theater
+Outside, Teshin reveals that he is a Dax, a soldier who fights for the Orokin, but can never defy his masters and the Kuva Scepter, forcing him to obey the Queens. Players must navigate their way through the mountain side before coming across a Yuvan Theater, a place where Orokin used to gather to barter over the "young and exotic", to be used in the process of Continuity. Teshin then reveals that Continuity is what the Queen intends to perform on the Operator, as well as the nature of the process: to take over the Operator's mind and body, claiming it as her own.
+As they approach a large mirror, the Queens narrate the final memory of how the Void coiled itself around children of the Zariman, prompting another dialogue choice:
+[Sun] I hated it
+[Neutral] I controlled it
+[Moon] I embraced it
+In defiance, the Operator successfully fires their Void Beam at the mirror.
+Confronting the Grineer Queens
+The entire sequence in the mountain pass is revealed to be a mental scenario taking place in the seconds before the Queen's Transference Surge completes, but this time the Operator breaks free from control. Waking up in the Orbiter once more, the Operator finds that they have retained the new powers they have unlocked, and are able to use their Void Beam once again. Intending to reclaim their Warframe and save Teshin from the Queens, and with Ordis telling them that the Fortress has moved once again, the Operator performs Transference to teleport themselves to their Warframe.
+With the Warframe and Operator now together within the Queens' chamber, the Worm Queen flees while the Elder Queen orders their Kuva Guardians to attack the Tenno. The Kuva Guardians are invulnerable, and Warframe powers are nullified inside the chamber, along with the player being unable to use their Primary and Secondary weapons, or any Gear, only able to resort to melee weapons; if the player did not equip a melee weapon prior to this mission, they are automatically equipped with an unmodded Nikana. In order to fight the Guardians, the Tenno must utilize their Operator's Void powers to destroy them by stepping out of their Warframe using their Transference ability. Each Kuva Guardian can be killed via the following steps:
+The player has to use Void Sling through the Kuva Guardian to disarm them of their Kesheg, removing their invulnerability.
+Once the Kuva Guardian switches to their Twin Rogga pistols, players can now deal damage to them using Void Beam or Warframe melee.
+The Operator can take damage, and upon fatal injury they do not experience Bleedout, instead immediately returning to their Warframe and are inflicted with Transference Static which depletes the Warframe's shields and reduces their maximum health for 45 seconds and can stack up to 4 times; the first stack reduces max health by 20%, second by 50%, third by 80%, and fourth immediately causes Warframe Bleedout. Players must take caution not to die repeatedly as the Operator to ensure the Warframe can survive. If the player is defeated and uses up all their revives, they are forced to repeat this part of this quest.
+On killing the first Kuva Guardian, Teshin will point out the weakness to the Queen's systems: the nine large, red braids hanging around their throne. Killing each set of Kuva Guardians will make the braids vulnerable to attack, indicated by their glyphs glowing red, and thus allowing them to be destroyed with the Operator's Void Beam. Three braids can be destroyed before another pair of Kuva Guardians jump into the fray, repeating the process until all braids are destroyed.
+After destroying all the braids, the Elder Queen will order Teshin to attack the Tenno. Unlike the Kuva Guardians, Teshin is capable of restraining the Operator via his Orvius glaive weapon, rendering the Operator helpless. However, Teshin is vulnerable to the Warframe's melee attacks.
+Once the player has defeated Teshin, the Queen will try to attack the Tenno with a beam from her Scepter. For this part, players only have to wait for the Queen to drop her shield (indicated by a slight orange aura) to fire the beam, and then use Void Sling against the Queen. With the Queen's Kuva Scepter in hand, Teshin is freed from the Queen's influence and requests that he kill her, prompting another dialogue choice to the player, which will affect the cutscene that follows:
+[Sun] Let her rot
+The Operator commands Teshin to stay put, allowing the Elder Queen to escape, knowing she will eventually die from her decaying Grineer body.
+[Neutral] I will do it
+The Operator commands Teshin to stay put and fires a Void Beam at the Elder Queen, instantly killing her.
+[Moon] Kill her
+The Operator commands Teshin to strike, who proceeds to lunge at the Elder Queen and kill her with a single strike of his nikana.
+Regardless of which choice the player makes, Teshin leaves and the Operator regains contact with the Lotus, and are then ordered to extraction.
+Upon their return to the ship, Ordis asks the player if they can still use Transference, prompting the player to perform Transference to switch to their Operator. A short argument erupts between the Lotus and the Operator over Margulis' actions with the Tenno, before Ordis interrupts with reports of an active Old War beacon.
+Return to the Mountain Pass: Earth
+The Operator once again returns to the same mountain pass they visited during the dream sequence. While the route is identical to the previous Mountain Pass mission, this time there are obstacles to the player's path that has to be removed using the player's powers - Void Sling for destroying ice walls, and Void Beam for opening Orokin doors by shooting a barrel with glowing lines beside the doors.
+On reaching the large Ayatan Sculpture seen previously, players can activate it once again by shooting it with a Void Beam. Once activated, a series of platforms will float and be lit up as the player traverses them via Void Sling, until they reach a door at the top of the chamber. Beyond it, at the summit of the mountain, the Operator meets with Teshin again, who expresses the Kuva on the Scepter that was taken from the Queen is believed to be the blood of the Orokin ancestors, either an elixir of immortality or a maddening oil. Teshin tells the Operator that the Kuva may just be a symbol to the Operator, that what they do with it will define them more than anything. The final dialogue choice for players will appear:
+[Sun] Destroy
+The Operator pours the Kuva into the snow, before an unknown voice speaks from the Operator: "You mad at me, kiddo? Did you forget? You owe me."
+[Neutral] Control
+The Operator gives the Kuva to Teshin, before an unknown voice speaks from the Operator: "Don't forget, kiddo... you're nothing without me."
+[Moon] Consume
+The Operator drinks the Kuva, before an unknown voice speaks from the Operator: "Hey, kiddo, what took you so long?"
+Teshin shakes the Operator out of their trance, and asks them to be careful, as the world "weighs more heavily" on them now.
+Conclusion
+After completing the quest, Teshin will send an inbox message, asking for forgiveness for his actions. The message also comes with five rewards for completing the quest:
+Broken Scepter
+Orvius Blueprint
+Riven Mod
+Grineer Queens Glyph
+Mountain Pass Captura
+Ordis will also send an inbox message containing a Personal Quarters Segment Blueprint, granting the player access to their Personal Quarters on their Orbiter.
+Completing the quest will also unlock the following:
+The Kuva Fortress location is added to the Star Chart.
+The player can partake in Kuva Siphon or Flood missions to farm Kuva, whose nodes appear on planets that are near the Kuva Fortress.
+The player can partake in Sortie missions.
+Upon completion of The War Within, becoming Mastery Rank 5, and owning a Railjack, Kuva Larvlings in any regular level 20+ Grineer mission, who can be mercied to generate their own Kuva Lich, serving as the player's Grineer Adversary. Defeating the Lich awards Kuva variants of Grineer weapons or can be turned into an ally.
+If the player has also completed Call of the Tempestarii, they will begin to encounter Candidates upon qualifying for minimum rewards in the Granum Void, who can be mercied to generate their own Sisters of Parvos, serving as the player's Corpus Adversary. Defeating the Sister awards Tenet variants of Corpus weapons or can be turned into an ally.
+Note that a Lich and a Sister cannot be generated simultaneously; the player must defeat their current Adversary to create a new one.
+Conjunction Survival nodes on Lua are available, along with an inbox message from the Lotus informing the Tenno that the Worm Queen is hunting on Lua, which has a chance to award blueprints for the Voruna Warframe and the weapons Perigale and Sarofang.
+Voruna's Leverian entry, due to the circumstances regarding her lore, is available.
+The Operator's Transcendence ability is upgraded into Transference, allowing use of the Operator in combat.
+The player will receive an inbox message inviting them to visit The Quills; the door at the top-right side of Cetus will only open for the Operator. Meeting with their representative Onkko will provide a Mote Amp, a modular weapon that enhances the Void Beam, and unlock all of the Focus trees. Further interaction with The Quills allows additional Amps and Operator-exclusive Arcane Enhancements.
+The Operator is also now properly equipped to fight the Eidolon Teralyst that appears during nighttime in the Plains of Eidolon, which awards Eidolon Shards can that can be converted for a significant amount of Focus as well as Warframe Arcane Enhancements.
+The player can now interact with Little Duck, who only speaks to the Operator, in Fortuna to initate into the Vox Solaris syndicate. Further interaction with Vox Solaris allows a different set of Amps and Operator-exclusive Arcane Enhancements.
+The backdoor at the topmost part of the Necralisk will only open for the Operator, allowing initiation to the Necraloid syndicate. Further interaction with the Necraloid allows construction of upgradeable Necramechs to be piloted by the Operator.
+The Operator can make use of various devices on Cambion Drift, Deimos:
+The Operator's Void damage can activate Requiem Obelisks on the surface and the Reactive Crystals in Isolation Vaults, earning Cambion Drift resources.
+The Operator's Transference allows them to take control and command wreckage of Necramechs that appear on the surface during Fass.
+**Trivia:**
+Prior to the removal of the Mastery Rank requirement for main quests with Update 35.0, players needed to be Mastery Rank 5 to begin the quest.
+32.5% of the players were aligned to the Sun, 37.5% to the Moon, and 30% remained Neutral as per Devstream 83.
+The Lotus already hints to The War Within during her final conversation with the Tenno at the end of The Second Dream.
+The Orbiter segments in the quest (Purge Precept and Confronting the Grineer Queens) use a copy of the player's Orbiter, notably free of any decorations.
+The desks in the cockpit also use an outdated model prior to Update 29.5.
+Any Operator abilities, Tauron Strikes and Tekolyst Mods will be disabled upon replaying the quest.
+F3hWnWQCm8Q
+Playthrough
+LK0fjQT6a0w
+B04SdP62N6Q
+
+## Chains of Harrow
+Quest Description
+Chains of Harrow is a solo-only main Quest, released in Update 21. Through an unusual transmission from an abandoned Steel Meridian ship, the Tenno learn about Rell, a Tenno who was cast out, but also seems to be keeping a mysterious and potentially dangerous entity at bay.
+The tie-in webcomic prequel, Rell can be found and read at the official website (Archived).
+Synopsis
+The Tenno receives a strange transmission from an abandoned Steel Meridian ship that draws their attention. Upon arriving on this ship, they discover its crew murdered in cold blood. Odd messages written in blood are scattered throughout, haunting the Tenno as they track down the suspect. Here, they meet Palladino, the Holy Speaker of the Red Veil, who says that their syndicate is in shambles. Their sacred muse, a Tenno named Rell, abandoned his post in their temple, causing chaos throughout their organization. Unlike other Tenno, Rell did not go into cryosleep in the Lua's Reservoirs for he was cast out by Margulis and his fellow Tenno for having blinded Margulis. Instead, he sacrificed his life, bound his spirit to his Warframe, Harrow, who became a resting vigil towards The Man in The Wall itself.
+Requesting protection, the Tenno brought Palladino to the Steel Meridian base, Iron Wake, where she will be watched by Steel Meridian personnel. To contact Rell, Palladino asks the Tenno to bring back a sacred relic in order to complete her seance. Apparently, Rell still retains memories of his humanity despite having a manic episode that resulted from losing control over Transference due to attacks from The Man in The Wall. To resolve this, the Tenno captures Rell's manifestations of emotion, disturbances made of Transference energy, and return them to the Red Veil temple in the Void.
+In order to end Rell's suffering, the Tenno frees Harrow from his chains, allowing Rell to rest in slumber. However, with no vessel to protect against The Man in The Wall, the Tenno will have to deal with the consequences.
+The Man in The Wall
+Walkthrough
+To unlock the quest, players must have completed The War Within quest. Afterwards, players must visit The Quills representative Onkko within Cetus and acquire the Mote Amp (Onkko is located behind a door in a rocky alley behind Konzu, the Cetus bounty giver. The door only opens when in Operator form). Once both conditions are met, the quest will become available from the Codex.
+Ordis begins receiving a transmission from their Syndicate channel, originating from the Red Veil. The playback involves a female voice, urging someone named Rell to tell them where he is. The player's vision gradually turns red before blacking out by the end of the message, and then returning to normal afterwards, at which point Ordis claims that the message is haunted, and tries to discourage the Tenno from investigating. Nonetheless, he has tracked the signal to an abandoned Steel Meridian ship in Earth orbit.
+Investigate the Message: Pacific, Earth
+Enemy Level: 20 - 25
+Tileset: Grineer Galleon
+Upon arrival, the Lotus informs the player that the ship is running on emergency power with no crew, and asks them to search. Their first discovery, indicated by a yellow circular area highlighted on the minimap, leads them to a place where dead Grineer lay with knives sticking out of them, while a second highlighted discovery shows blood smeared on the wall in the shape of the Red Veil symbol. The last highlight shows a blood-smeared message on a wall spelling the message:
+You cast him out
+At which point a garbled transmission from a person named Palladino contacts the player, claiming to be from the Red Veil and asking for protection, with her location being marked on the minimap. En route, players will then face multiple hostile Red Veil Fanatics armed with various weapons like the Rakta Cernos, Rakta Dark Dagger, and the Tetra. Palladino states that the Red Veil is in chaos following the departure of their 'sacred muse', and asks to be taken to a place called Iron Wake.
+Palladino can be found with a Kavat called Rook, at which point a horde of shambling, nameless and weaponless Red Veil operatives will begin to attack. Players must then defend Palladino from the horde until the timer runs out, after which they can then proceed to extraction.
+Meet Palladino at Iron Wake: Earth
+In light of the rescue, the player is granted access to Iron Wake, which turns out to be a Steel Meridian outpost located on Earth. The player, who must use Transference (default 5) to enter the guest quarters, meets with Palladino, who is under heavy guard. She introduces herself as Red Veil's spiritual medium, who explains the situation regarding Rell, their spiritual focus and the basis upon which the Red Veil was founded. Rell has disappeared from his vessel, making Palladino unable to commune with him and driving many of their members mad. Palladino asks that the player retrieve a relic that was stolen from him in order to calm him. Lotus is suspicious of Palladino's motives, but asks the Tenno to go along their schemes for now.
+Find Rell's Relic: Hydra, Pluto
+Enemy Level: 20 - 25
+Tileset: Corpus Ship
+Similar to the last ship, the Corpus ship the player arrives in is darkened and devoid of crew. A discovery highlight leads to a wall with the message:
+He suffers while you dream
+spelled out in blood, leading Palladino to the conclusion that Rell is lashing out. Conversation between Palladino and the Lotus reveal that Rell was a Tenno who was outcast by Margulis, explaining why the Lotus does not know of him, and that the Veil was founded when their foremothers took in Rell to study his teachings. A mysterious voice describing a 'man in the wall' then echoes through the ship, and Palladino asks the player to follow the voice.
+Upon arriving at the source of the voice in a room filled with dead Red Veil corpses, players must retrieve the relic, a golden horseshoe-shaped object called the Donda, a relic important to Rell. Once the relic is acquired however, a hostile shadowy manifestation of Rell will appear, who will reanimate the Red Veil bodies as zombies. As the Rell manifestation cannot be killed by any means, Palladino orders the player to run back to the ship to escape.
+Return to Iron Wake
+Going back to Iron Wake, the player gives back the relic to Palladino, who uses it to commune with Rell. A short minigame, which represents Rell's past, will then commence, in which the player is shown cards with a face drawn on it, and they must choose the appropriate emotion the face displays from four different choices. At the completion of the game, the Lotus tells the player that she may have a theory as to Rell's nature, and asks the player to return to their ship.
+Back on the Orbiter, the Lotus proposes her theory that Rell's manifestations are Transference energy split apart from a single mind, and asks if they can be captured. Ordis then proposes that the Kinetic Siphon Traps sold by Cephalon Simaris can be repurposed and used for the task.
+Capture Rell's Manifestations: Exequias, Deimos
+Enemy Level: 25 - 35
+Tileset: Orokin Derelict
+Before entering the next three missions, players must ensure that they are carrying a sufficient number of Kinetic Siphon Traps in their Gear inventory.
+Lotus and Palladino discuss the nature of Rell's warnings, which appear to be the phenomenon known as Void Exposure. Though Lotus claims that its effects are well understood, Palladino claims that only Rell has seen its true nature as an entity "old as stars".
+The player then comes across a message scrawled on the floor:
+Blindedshe cast him out
+After which a manifestation of Rell's emotion will appear, which can be distinguished by having a pure black body and a white drawn face on its head. This particular manifestation can be restrained using a Kinetic Siphon Trap, which will allow it to be damaged and killed. If the emotion is not defeated immediately, it will teleport to a different part of the map, making tracking it difficult.
+Once the first emotion is defeated, Rell's manifestations will begin hunting down the player, and unlike the emotions these cannot be killed, while at the same time possessing powerful attacks that can damage and kill the player. The manifestation's observed abilities include:
+A slowing aura that drastically reduces movement speed if the player gets too close.
+The ability to cast Condemn to trap the player.
+An area-of-effect attack similar to Hallowed Ground.
+Creating multiple ghostly copies of itself that attack the player in melee.
+Launching a salvo of damaging red fireballs that can home in on the player.
+Players must find, trap and destroy two more emotions while evading Rell's attacks. Players can extract once all three emotions are defeated.
+Capture Rell's Manifestations: Stephano, Uranus
+Enemy Level: 25 - 35
+Tileset: Grineer Sealab
+Palladino now warns the player that the manifestations are becoming stronger, and urges the Tenno to bring Rell home to the 'temple'. Lotus asks whether Rell is resting in this temple in cryosleep like the other Tenno on Lua, which Palladino answers that they didn't have that option. The player then runs across another blood message on the floor:
+You rejected himHe saved you
+Players will be facing more Red Veil Fanatics in this mission, along with zombies. Like the previous mission, players must trap and defeat all three of Rell's emotions using Kinetic Siphon Traps, then extract once the objective is complete.
+Capture Rell's Manifestations: Everest, Earth
+Enemy Level: 25 - 35
+Tileset: Grineer Forest
+The Lotus wonders how Rell has lived so long without cryosleep, and Palladino clarifies that he has transferred his entire consciousness to his 'undying vessel', aka his Warframe, before asking the Red Veil to chain the Warframe. One last message is encountered by the player upon encountering the first of Rell's emotions:
+What is Evil but indifference
+Once more, players must trap and defeat all three of Rell's emotions using Kinetic Siphon Traps, while escpaing the manifestation's attacks.
+After all three emotions are defeated, Palladino exclaims that Rell's spirit has returned to his Warframe, and asks the player to come to the Temple where he is kept to perform one last act. Meanwhile, Lotus ascribes the occurrences that Rell describes as psychological damage caused by his prolonged Transference loop in the void.
+Enter the Temple: Tiwaz, Void
+Enemy Level: 25 - 25
+Tileset: Orokin Derelict
+The player must now proceed deep inside an Orokin Derelict which houses the Warframe in which Rell's consciousness is imprisoned, as Palladino reveals that the Warframe must be destroyed, killing Rell along with it to grant him peace. Players must find the central temple room, consisting of a large tree red with embers, and enter through a hole in its base to get below. Halfway down, Palladino asks that the Tenno only enter via their "true, sacred form", thus forcing them to exit via Transference as the Operator.
+The Operator soon reaches the altar, where a Warframe is hung by chains in the center. Palladino asks the Operator to destroy the chains so Rell can be freed, and the player must use their Void Beam to destroy the chains that are lit in blue. Destroying the first chain however reveals that there is a malevolent being inside the Warframe that is not Rell, who then begins attacking the Operator with fireball attacks while sending Red Veil Fanatics against them.
+To defeat the boss, players must first kill all Red Veil Fanatics on the field, after which up to three of the chains holding the Warframe will turn blue, allowing the Operator to destroy them with their Void Beam. Players must be wary as the boss will occasionally appear to launch fireballs against the Operator. After each set of chains is destroyed, the players will be taken to the card minigame from earlier, only this time they must choose one of three cards to respond with, and there is no "wrong" answer.
+Upon destroying all the chains, the Warframe itself is destroyed, and Rell finally appears as his true self as Palladino urges him to be free. When he asks about the 'man in the wall', Palladino replies that the Tenno will take on that responsibility for him, who has earned his rest.
+Conclusion
+The player is awarded the blueprint for the Harrow Warframe, as well as the ability to permanently access Iron Wake on Earth. Palladino now has a shop that exchanges Orokin Ducats for Rell's Donda and Riven Sliver for Rell's Emotile Decorations, Iron Wake Captura, Riven Mods, Riven Transmuter, Veiled Riven Cipher, Requiem Ultimatum, and the (deprecated) Requiem I, Requiem II, Requiem III, and Requiem IV.
+An inbox message from Aspirant Zorba informs the player of Follie's Hunt game mode over Vesper Relay, Venus, which awards blueprints for the Follie Warframe and Enkaus.
+On the Orbiter, players may randomly encounter a doppelganger of their Operator performing random actions inside (such as checking out machinery or sitting down), who will then greet them with "Hey Kiddo". The doppelganger will disappear after about ten seconds, or if the player looks away.
+**Notes:**
+Players who have bought Harrow with Platinum before playing the quest will receive a Melee Riven Mod instead as a quest reward, with the appropriate inbox message.
+Iron Wake is a fully functional Steel Meridian enclave, and has the same functionality as their room on the Relays:
+Cressa Tal can be found in a room on the left side from where the player enters the compound, where players can purchase offerings.
+Steel Meridian Insignias can be traded in for Standing with a Grineer member in the large building to the right.
+Clem can be found in the same building in a hastily-made pillbox on the roof.
+While only one Rell's Donda can be carried at a time, pPlayers can buy another copy by visiting Palladino again after placing the Donda(s) owned by the player in the Orbiter.
+While the Red Veil Fanatics and the Ghastly Red Veil Apparitions cannot be scanned, they can be resurrected by Shadows of the Dead.
+Interestingly, they cannot be made into specters through the Synoid Heliocor.
+The epilogue of the quest can happen at any time after its first appearance. This event is completely random.
+If the player has Excalibur Umbra and decides to redo the quest, Excalibur Umbra will follow the Operator to the temple altar despite Palladino's claims. Excalibur Umbra will function as normal and can easily defeat the Fanatics.thumb|175px|The shadowy figure during the Find Rell's Relic mission
+During the Find Rell's Relic mission, a shadowy figure may appear. Approaching near it will make it run away, later appearing near the Donda meditating before vanishing.
+During the Corpus Ship stage, if the player has completed The Deadlock Protocol quest, Rell's manifestation can spawn inside the Granum Void. Errant Specters will target the manifestation inside the Granum Void, despite unable to deal damage whatsoever.
+Completing the Granum Void within said mission functions and reward items as usual, but Candidates will not spawn if the player also completes Call of the Tempestarii quest.
+**Tips:**
+In the final mission, the Operator's weak health pool and reduced combat ability compared to the Warframes means that kiting is important in fighting against the Red Veil Fanatics. Like Warframes, Operators are able to attack while running, even shooting backwards, and so it is prudent to keep moving while attacking pursuing enemies from behind.
+If the melee enemies are blocking most of your attacks, using Void Sling to knock them down will leave them open to attacks for a brief time.
+It may be wise to gain access to The Quills and Vox Solaris before doing this quest; merely acquiring the Mote Amp boosts the Operator's health and energy pools (along with unlocking additional Focus nodes) and assembled Amps can easily make short work of the Fanatics, while Magus and Virtuos Arcane Enhancements will respectively improve the Operator's survivability and damage output.
+A deployed Specter or two can easily kill the fanatics in a matter of minutes. Players may opt to equip the Specters with AoE weapons such as the Arca Plasmor, Fulmin, or Zarr to kill groups of fanatics.
+
+## Apostasy Prologue
+Quest Description
+Apostasy Prologue is a short main Quest, released in Update 22.8. Reliving Archimedean Margulis's final moments before her execution by Executor Ballas, the Tenno witness the latter's meeting with the Lotus in her chamber.
+Synopsis
+A faint purple orb at the end of the Orbiter's Personal Quarters beckons the attention of the Tenno. Upon interacting with it, the Tenno is transitioned to somewhere on Lua where they begin following a purple trail that retraces the path to the room where the player recovered their Tenno body from the Reservoir. As they travel through, they experience the final moments of Margulis before her execution leading up to the discovery of Lotus' enclave at the end of the trail. There, Orokin Executor Ballas appears to apologize to the Lotus and promises to not abandon "Margulis" again. Holding hands, both Ballas and the Lotus disappear into a mysterious light, leaving the Tenno in their Operator form clutching at the remains of Lotus' helmet. The Lotus has left. The mother has abandoned her children.
+Walkthrough
+In order to access this quest, the player must have first completed the Chains of Harrow quest, as well as have access to their Orbiter's Personal Quarters.
+The Orbiter: Personal Quarters
+In the Personal Quarters, a holographic, violet Lua orb can be seen floating at the end of the room near the port window. Approaching the orb and touching it will transition the Tenno into the loading screen. The player does not need to be in Operator mode, but the player cannot be in a squad as they touch the object.
+Lua: The Reservoir
+After loading in, the player will find themselves on Lua to find yet another orb. This time, approaching the orb will reveal a purple trail that will lead the player through the map. While following the trail the player will hear past dialogue between Margulis and Ballas, from before Margulis' execution.
+At the end of the trail is a broken Reservoir. The trail will lead down a pit where the player will jump down and be forced to enter Operator mode.
+The Void: The Jade Light
+There, the player will hear echoes of the last few moments leading up to Margulis' execution and find a pod at the end of the hall, where a cutscene will play.
+As the pod opens the Lotus is revealed inside, with wires connecting to the back of her head. The Lotus extends a greeting, and before the Operator can reply, Ballas himself replies to it. He then steps forward and apologizes to the Lotus for being gone for so long. The Lotus tries to explain that she is not Margulis, but Ballas insists and waves out his hand. A wave of energy flows out (which also slightly distorts the player's screen similar to the Somatic disruption during The Second Dream) and the Lotus is detached from the pod.
+She then removes her mask as Ballas promises not to abandon "Margulis" again, and takes his hand. Both Ballas and the Lotus walk into a blinding light away from the Operator. Attempting to follow Ballas, the Operator is knocked back by an energy shockwave instead.
+After the Lotus and Ballas disappear the Operator clutches the Lotus' dropped helmet, looking distraught at now being alone.
+Epilogue
+right|thumb|200px|The Lotus transmissions after completion of the quest.
+Back at the Orbiter, Ordis states that he will search for the Lotus' current whereabouts and in the meantime attempt to synthesize the Lotus' mission directives.
+All transmissions that were normally handled by the Lotus will now appear as a purple Lotus-shaped hologram, to signify Ordis attempting to act in the Lotus' place. The transmission's audio and visuals will also glitch out occasionally, covered by static for a split-second before returning to normal. The small plinth inside the Personal Quarters will also display the Lotus' headgear.
+**Notes:**
+Enabling Creator Mode in Settings will revert the new Lotus transmissions back to the original style.
+**Trivia:**
+Apostasy refers to the abandonment of a belief or religion.
+The "Jade Light" referred to during Margulis' sentencing echoes the previous reference to the execution of an Archimedean, much like Margulis, as expressed in the Detron Crewman's Synthesis imprint. That Archimedean, however, was apparently involved in the creation of Crewmen, and died before the creation of the Sentients, so could not have been Margulis herself.
+Archimedean Perintol
+The motion of which Ballas waves his hand to disengage Lotus mirrors that of the handwave used by an Orokin Executor named Avantus to access a (presumably Orokin) console as expressed in the Arid Eviscerator's Synthesis imprint.
+Bilsa
+
+## The Sacrifice
+Quest Description
+Ballas
+The Sacrifice is a solo-only main Quest, released in Update 23. After the Lotus has been taken by Ballas for unknown reasons, the Tenno discover a new Warframe, Excalibur Umbra, who possesses sentience and abnormal memories linked to Ballas that the Tenno seek to suppress, uncovering the horrifying origin of the Warframes in the process.
+Synopsis
+The Tenno hears faint whispers of the recently abandoned Lotus. Her voice directs them towards her helmet within the Orbiter's Personal Quarters. As the Operator touches the helmet, visions of a Warframe being restrained by Ballas and Sentient fighters flow in their mind, prompting them towards Earth to investigate.
+The Warframe in question, Excalibur Umbra, was out of sight — only his remains survived his fight with the Sentients. Ordis attempts to recreate him in the Foundry based on scans of his remains but lacks sufficient data to do so. Trace minerals on Umbra's Skiajati Nikana suggest that more information can be found on Lua. A visit to Lua yielded a Vitruvian device found within a containment lab that belonged to Ballas. This Vitruvian contained recordings made by Ballas on his betrayal to the Orokin during The Old War and the origin of Warframes. Uploading the Vitruvian into the ship's mainframe gave the ability to craft Excalibur Umbra. Upon equipping him in the Arsenal, he immediately goes berserk and damages his own helmet to reveal an eye, then pins the Operator into a wall until they enter his mind using Transference. The Tenno learns of Umbra's origins as a personal punishment from Ballas upon a Dax soldier for spying on him during his late betrayal of the Orokin. The Dax soldier was subjected to injections of a Helminth Infestation strain to produce skin-grafted armor and modified organs, akin to the typical Warframe design process during the Old War.
+The memory abruptly ends, and the Operator finds out that Umbra has escaped the ship, rejecting Transference. They chase down Umbra as more entries of the Vitruvian become unlocked by accessing his memories. He contains the key to the secrets of the Warframes themselves.
+After multiple tries, the Operator eventually accesses Umbra's final memory: killing his own son Isaah when the Infestation takes over his body and Ballas forces him to act through the modified Transference Bolt. The Operator intervenes in this event, telling Umbra that he doesn't have to relive this event in solitude, instead, they will face this grief together through the duality of mind and body. Umbra as the hand, the Operator as the soul.
+Ballas in the Vitruvian
+In this revelation, the minds of Umbra and the Operator are linked — Transference was successful. With this newfound power, the Operator and Umbra fend off a Sentient assault and return to Earth to face Ballas.
+During the final confrontation, Umbra successfully stabs Ballas in the gut, defying Ballas' subjugation thanks to the Operator. After questioning him on the whereabouts of the Lotus, she appears from the sky in a Sentient battle form, taking Ballas with her as she returns back to her Mother. The Lotus seems to no longer be the motherly figure that the Tenno loved.
+Walkthrough
+After completing Apostasy Prologue, players may start this quest in the Codex.
+On starting the quest, the Lotus's whisper can be heard, calling for the Tenno. The player is prompted to examine her helmet in the Orbiter's Personal Quarters. The Operator touches the helmet and sees a vision of a black and gold Warframe being subdued and obliterated on Earth by Ballas and Sentient.
+Investigate Sentient Energy: Lith, Earth
+On landing, Grineer Ghouls lie in wait. Follow the waypoint, leading to an Orokin door covered in vines which must be destroyed. As the door mechanism slowly opens, swarms of Ghouls appear and attack. Behind the door leads to a large courtyard, the same one shown in the Operator's vision. Equip the Codex Scanner or Synthesis Scanner (Helios will work as well) and search around for traces of the Warframe (looking from the entrance towards the cherry blossom tree):
+The Skiajati nikana - embedded right next to the tree
+The shawl cloth - hanging from a stone surface to the rear-right side of the graveyard when facing the nikana
+The helmet - to the left of the nikana, down some steps near the large rock
+Remains - from the entrance to the area look on the outside left of the circular area on the minimap, near a tall stone covered in vines
+A Somachord fragment can be found under the walkway's right side at the courtyard's entrance
+Once this is accomplished, extraction awaits, with Ghouls preparing for another ambush.
+Ordis has synthesized the discovered traces in the Foundry as a new Warframe: Excalibur Umbra. However, the data to build this Warframe is insufficient. Remembering that Ordis detected trace minerals from Lua on the nikana, the Operator suggests searching there.
+Explore Lua: Pavlov, Lua
+The Operator tells Ordis that Excalibur Umbra tried to attack Ballas, surprising Ordis as Warframes were supposed to be controlled through Transference. The waypoint leads to a unique Orokin Memory Cipher terminal that cannot be bypassed, so Ordis suggests searching the area for clues. As it is a memory cipher, that is it requires the correct sequence as a genuine memory from the user, it cannot be brute-forced even with the correct sequence until all parts have been memorized by the Operator. There are two blue symbol pairs around the area; to solve the Cipher, players must match the cipher to the order of the symbol pairs discovered (the player does not have to actually remember the sequences themselves, the game will show them.) Beyond the unlocked door, Sentient Mimics lie in ambush; these Old War Sentients carry beam rifles and have the same damage resistances as Battalysts and Conculysts do.
+thumb|View of the cipher on the Lua Somachord Room.Up ahead is yet another Orokin Cipher, with four symbol pairs nearby. Also in the room with the cipher is a Somachord fragment high up on the rafters. This cipher is more complex, and the discovered symbols will rearrange themselves above the cipher rings when you complete partial solutions. Should the player take too long with the sequence, Ordis will help solve the puzzle automatically. The cipher unlocks a dome that Ordis believes to have contained Excalibur Umbra. Somewhere inside the dome is an Orokin tablet, containing a spiraling series of recurring glyphs, with the single one interactable highlighted blue: "Enemy". This entry, a voice recording by Ballas, states the codices within reveal a hidden weakness to the Warframes. Ordis identifies the tablet as a Vitruvian and suggests destroying it, but the Operator decides to take it back to extraction for analysis. Upon extraction, the player will earn 60 Kuva.
+In the Orbiter is an area where the Vitruvian can be inserted. When the Vitruvian is inserted Ordis expresses his regret at not being more forceful in rejecting the Operator's orders, before the Orbiter tilts and all its lights turn off momentarily. Ordis regains control, but his "vestigial" precepts regulating his ability to "care" about things have been knocked offline, causing him to display a new, emotionless personality, and he calls the Operator "Star-Child," with a faint view of a small robot body behind his usual icon. He tells the Operator to check the Foundry again, where Excalibur Umbra can now be built.
+When the Operator attempts to equip Excalibur Umbra in the Arsenal, he unexpectedly rejects the Transference, displaying sentience as he lashes out against the Operator. During the struggle, the Operator manages to perform Transference on Excalibur Umbra and accesses a memory.
+The memory is of a man lying in a hospital bed who has fallen ill and is unable to speak, with Ballas and a Dax soldier - who turns out to be the man's son called Isaah - by his bedside, with Ballas telepathically conversing with the man and threatening to kill his son. Excalibur Umbra escapes the Orbiter, but seeing Isaah in the memory unlocks a symbol within the Vitruvian, "Blasphemy", where Ballas curses the Sentients for their betrayal and starting the Old War.
+Search for Umbra: Nuovo, Ceres
+Realizing the Vitruvian codes are locked within Excalibur Umbra's memories, the Operator proceeds to track him down. On Ceres, Excalibur Umbra is engaged in battle with the Grineer, having left a trail of bodies in his path. While en route, a Somachord fragment can be found on the scaffolding of a large crane (may not always spawn). When confronted, Excalibur Umbra is already battling the Grineer and is impervious to all damage, while his attacks ignore the Void Mode's immunity. Using Void Sling will stun Excalibur Umbra, allowing Transference to be used on him.
+In this memory, the man and Ballas are playing a game of Komi. After a few rounds, Ballas commends the man's heroism and points out a commissioned portrait of his servitude as a Dax. Looking at the portrait unlocks another Vitruvian symbol. As Ballas asks Isaah if he will follow his father's footsteps, Ballas telepathically threatens the figure stating that the "game" of Komi represents Ballas culling the figure's bloodline for attempting to interfere with Ballas's defection.
+Excalibur Umbra escapes again, and the Operator returns to the Orbiter. On the way to extraction, Sentient Conculysts appear on the scene. The next Vitruvian symbol, "Warframes", has Ballas reveal that the recordings are intended to reveal secrets to Hunhow, about how the Warframes were created from human subjects as Infested-hybrids converted by the Helminth as a means to fight against the Sentient. However, Ballas calls the Warframes a failure as they turned on their creators, but there lies a secret hidden within the Void.
+Ordis reboots out of his new personality and urges the Operator to stop due to potential dangers. However, the Operator is undeterred, believing that Excalibur Umbra is leading to something.
+Pursue Umbra: Triton, Neptune
+Many dead Corpus lie ahead. Excalibur Umbra kills all the Sentient within his vicinity and uses Radial Howl to escape, leaving the Operator trapped by Mimics. A Somachord fragment appears in this area. When Excalibur Umbra is confronted again, he is once again invulnerable to Warframe attacks, and now has shields that prevent him from being affected by Void Sling. During this fight, Umbra’s attacks will also be able to damage the Operator even when they are in Void Mode. Shooting down the shields with the Void Beam and stunning Excalibur Umbra with Void Sling leaves him open for Transference and allows the Operator to go into another memory.
+In this memory, the man has difficulty breathing with Infested growth appearing in his vision as he is losing to Ballas at Komi. Isaah then points to the man's Shawzin instrument, unlocking another Vitruvian symbol, as the game of Komi resumes. Ballas telepathically monologues that he betrayed the Orokin after several lifetimes of planning since they had killed Margulis, and informs the man that the Infested cultivates within him, slowly transforming him into a Warframe. Not just any Warframe, but one that will have a single, burning memory through a miracle that requires a sacrifice. Hearing this, the man mistakenly places his Komi stone into a trap.
+Through the memories the Operator realizes that Ballas intends to kill Isaah and briefly refers to him as "my... his... son", confusing Ordis as these are just memories. The next Vitruvian symbol, "Tenno", tells of how the Orokin kept the survivors of the Zariman in the Reservoir, using Transference to merge Tenno's minds into the bodies of the Warframes. This entry also reveals that Ballas had sent coordinates to the Reservoir to Hunhow, but warns him not to underestimate the Tenno "monsters", as they have done what the Orokin couldn't.
+Unwilling to hear the rest of the recording because they have lived that part themselves, the Operator abruptly cuts off the Vitruvian and uses Transference to appear at the Navigation console, intending to confront Excalibur Umbra alone.
+Confront Umbra: Tycho, Lua
+The Operator appears in this mission alone, telling Ordis that "their Warframe" is there and needs to be found. Excalibur Umbra once again must have his shields shot down with Void Beam, stunned with Void Sling, and his mind entered with Transference.
+This time, the Operator appears in Excalibur Umbra's final memory as he is instructed by Ballas to kill Isaah - to make the sacrifice that will create the single burning memory - to finish the miracle. The Operator tells Umbra that Ballas is at fault and they will fight him together. After the memory, the Operator appears within a black-and-gold space with a single path and a large tree at the end. Following the path, the Operator hears Isaah's voice from the memories. At the end of the path, the Operator finds Excalibur Umbra crying, and kneels. Excalibur Umbra eventually becomes at ease with the Operator's presence and finally accepts Transference, as the previously cut-off Vitruvian recording monologues that the Orokin broke the minds of the Warframes, but the Tenno, through their experience on the Zariman, were somehow able to see inside the broken creature and take away its pain. A dialogue choice is prompted to the player:
+[Sun] Wrath.
+"We use this memory. It fuels our wrath."
+[Neutral] Acceptance.
+"We accept this memory, and move beyond its reach."
+[Moon] Emptiness.
+"We return this memory to the Void and find peace in our emptiness."
+The player now has complete control over Excalibur Umbra, who is automatically at level 30 and armed with the Skiajati nikana and pre-installed with the mods Umbral Intensify, Umbral Fiber, Umbral Vitality, Sacrificial Steel and Sacrificial Pressure. In addition to having Excalibur's powers, Radial Blind is upgraded into Radial Howl which removes Sentient resistances, and Excalibur Umbra's sentience allows him to fight on his own when not piloted by the Operator. Sentient arrive and must be dealt with before heading to extraction, impeded by more Sentients as well as Sentient. A Somachord fragment can be found in a cave in the room where Excalibur Umbra is fought.
+At the Orbiter, the Operator now seeks to hunt down Ballas, but tells Ordis to play a recording of the Lotus's voice. Ordis asks what recording he should play:
+[Sun] The war...
+"Now we fight on two fronts, my child. The war without... and the war within."
+[Neutral] Dream...
+"Dream, not of what you are, but of what you want to be."
+[Moon] My child...
+"My child... so beautiful to behold. How do you feel?"
+Return to Earth: Lith, Earth
+The Operator and Excalibur Umbra return to the courtyard on Earth to confront Ballas. Surprised at the turn of events, Ballas declares both will burn and sets a tree ablaze while projecting a shield around him as Sentient arrive to fight. After disposing the Sentients, Ballas commands Excalibur Umbra to stop, forcefully halting his movements through the modified transference bolt. Ballas boasts and approaches the paralyzed Warframe, only to discover the Skiajati impaling him. Excalibur Umbra momentarily hesitates and tries to release his grip before being stopped by the Operator, who is revealed to be holding Umbra's arm, and drives the blade further in and proceeds to taunt Ballas with the following options:
+[Sun] Squirm like the maggot you are.
+"I... I am just the stone... she is the hand."
+[Neutral] This was inevitable.
+"Yes... yes... she has foreseen it."
+[Moon] The cycle is broken.
+"Now I know... what she sees in you."
+Ballas seemingly succumbs from his wounds as more Sentients arrive. As the Operator demands the Lotus's whereabouts from Ballas, a much larger Sentient drops in: Natah – in a sentient battle form. She claims that Ballas had done nothing to her and that this is what she is. The surrounding Sentients open fire on the Operator, but is taken to safety by Excalibur Umbra. Natah picks up Ballas's body before leaving a cryptic warning: "Mother... I am coming home". She then flies off and disappears.
+Back on the Orbiter, Ordis and the Operator are confused and in disbelief at the sudden turn of events, and the Operator then expresses resolve in finding out the truth.
+Aftermath
+A new inbox message by Ordis will be sent upon completion of the quest, giving players the Excalibur Umbra Sunder Helmet, the Umbra's Courtyard Scene for Captura, and Excalibur Umbra Agile and Noble animation sets.
+Following completion of quest, if the player encounters The Man in The Wall, they will ask the Operator if they are "feeling better, kiddo?" The Operator responds "I killed him... Isaah." After confirming that is how the Operator remembers it, the Man in The Wall responds "Good", and vanishes.
+**Notes:**
+There is a possible bug when the operator uses transference before it would result in transferring into Umbra after going through the necessary phases of the fight. Transference then places the operator into an invisible Umbra and results in the phase not progressing where Umbra can be stunned and properly transferred into.
+On replaying the quest:
+During all cinematics except for the last mission, Excalibur Umbra will appear in his default appearance and coloration while lacking any cosmetics.
+After the missions "Investigate Sentient Energy: Lith, Earth" and "Explore Lua: Pavlov, Lua", a second Excalibur Umbra blueprint will not be given. The objective "Build Umbra" will be skipped over.
+After the cinematic for "Equip Umbra", the Warframe will remain in the player's inventory.
+After synchronizing with Excalibur Umbra during "Confront Umbra: Tycho, Lua", the Warframe and Skiajati will be automatically equipped while carrying over any installed mods and altered appearances. A second Skiajati and set of Umbra Mods will not be given.
+Somachord Fragments can be found in each mission except for the last, with predetermined positions. The fragments must be scanned in mission order; if players miss a fragment, they are required to replay the quest, as subsequent fragments will simply not appear. Your Creator requires two scans from the first two missions, while To Take Its Pain Away requires three scans from the third, fourth, and fifth missions.
+Some missions may have multiple fragments, but only one needs to be scanned per mission. Scanning two fragments in one mission will have no extra benefit.
+Investigate Sentient Energy: Lith, Earth - to the right side of the entrance of the courtyard, under a walkway.
+Explore Lua: Pavlov, Lua - in the room with the second Orokin Cipher, high up on the rafters near the room's entrance.
+Search for Umbra: Nuovo, Ceres - two rooms before confronting Excalibur Umbra, on the scaffolding of a large crane.
+Pursue Umbra: Triton, Neptune - random location in the Corpus Ship tileset.
+Confront Umbra: Tycho, Lua - in a cave in the room where Excalibur Umbra is fought.
+**Trivia:**
+The quest was first teased at TennoCon 2017 and was teased on the WARFRAME site.
+During Devstream 110 the teaser art for The Sacrifice quest was released, which contained a small bit of Orokin script in the top left quadrant. This script is a literal spelling of the word three; i.e. "T-H-R-E-E-." It's unknown what this means, nor what the Lambda-like symbol above the period is at this time.
+This may indicate towards a tweet by the @PlayWarframe Twitter account claiming that 'The Sacrifice" is the final cinematic quest of a trilogy — likely consisting of The Second Dream, The War Within, and now the Sacrifice.
+It was confirmed in Devstream 112 that The Sacrifice quest was scheduled to be released before Tennocon 2018.
+Because of this, the Lambda sign, top left corner, was likely referring to the Sacrifice being the eleventh quest to complete.
+There are two Easter Eggs when clicking on Lua and Ballas's face in the Teaser Site:
+"Lua brings you strength"
+"But you cannot defy your creator"
+Both Lephantis and the Jordas Golem utter the line "We are your flesh," and Ordis hints a relationship between the Warframes and Infestation in the Helminth Infirmary, alluding to Warframes' Infested construction several years before The Sacrifice's inclusion.
+While as "Vitruvian Ordis", a silhouette of a Sentinel-like body could be seen during his transmissions. This body would be used during The New War.
+If the player doesn't have enough codex scanners to scan all Umbra components, the game will automatically give the player 1 single codex scanner charge for each scan that is still required.
+Completing the quest mission on Nuovo automatically unlocks the node, bypassing the Ceres Junction entirely to complete nodes on Ceres.
+nBkBnsIRL-g
+25.5.1
+
+## Chimera Prologue
+Quest Description
+Chimera Prologue is a short main Quest, released in Update 23.10, and serves as the first act of the Prelude to War. It explores the fate of Ballas after the events of The Sacrifice, foreshadowing Natah's plan to create Amalgams.
+Synopsis
+The Man in The Wall manifests itself in the Orbiter's Personal Quarters, luring the Tenno towards the Lotus' helmet, dropped during the events of Apostasy Prologue. When the Tenno touches the helmet, they are transported to Lua, where they begin to follow The Man in The Wall. The Man in The Wall leads the Tenno through the Reservoir, and into the Chamber of the Lotus. A portal at the end of the room transports the Tenno into a Sentient chamber that seems to imprison Ballas, now malformed with Sentient growth. Cursing the Lotus for allegedly deceiving him, Ballas discreetly constructs the "Sentient Slayer" away from what he claims to be Lotus' watchful eye. The Tenno grasps the image of the legendary Paracesis, learning its blueprint in the process. — The New War is coming.
+Walkthrough
+This quest can be accessed directly from the Codex as a chapter of The New War quests, after completing The Sacrifice.
+The Orbiter: Personal Quarters
+In the Orbiter's Personal Quarters, The Man in The Wall sits on the plinth that carries the Lotus' headgear, donning it with a sinister laughter before vanishing and returning the helmet. Approaching the headgear and touching it will transport the Tenno to Lua.
+Lua: The Reservoir
+After loading in, the player will be dropped onto Lua. They must follow The Man in The Wall, who continues to wear the Lotus' headgear. Three times during the chase, The Man in The Wall will trap the Tenno inside of a barrier, forcing them to fight shadow-like reflections of the Lotus.
+The Tenno are lead through the Reservoir and into the Chamber of the Lotus, where they encountered the Lotus and Ballas during Apostasy Prologue. At the end of the chamber is a portal that the Tenno must enter.
+The Sentient Chamber
+The portal takes the Tenno to a chamber of Sentient design. In this sequence, the player will no longer have control over their character, instead using the fire button (LMB) to Void Sling to certain spots indicated by a glowing light.
+At the end of the chamber, the Tenno spots Ballas, now Sentient-turned, lamenting the loss of his narcissistically beautiful Orokin body and curses the Lotus for her deception. Ballas' eye suddenly glows, which he implies to be the Lotus' vision. The player must stay out of Ballas' sight by using numerous Void Dash points around the room. If he catches a glimpse of the player, a bar at the top center of the screen will decrease. If the bar empties, he will spot the player and the mission will fail.
+As Ballas rambles, several metal fragments fall in place in the middle of the room. Upon realizing the presence of the "devil", the pieces come together to form a sword and Ballas instructs the player to take the "Sentient Slayer" for their upcoming war, before looking away. As the Tenno dashes and grips the sword, Ballas abruptly turns to face them and the Lotus' whisper calling for the Tenno can be heard.
+Epilogue
+The Operator finds themselves back on the Orbiter as if everything they had experienced was nothing but a vision. They find themselves armed with the blueprint for the Paracesis.
+Completing this quest is also a prerequisite to combating the Ropalolyst on its Assassination node: The Ropalolyst, Jupiter, which drops the Wisp Warframe. An Orbiter Decoration for the Paracesis Sheath can also be bought from Cephalon Simaris for 50,000 Standing after completing this quest.
+
+## Erra (Quest)
+Erra is a short main Quest, released in Update 27, and serves as the second act of the Prelude to War. After a short flashback to The Old War, the Operator, aboard a Murex, witnesses a meeting between Ballas, Natah, her brother Erra, and their Sentient army, in preparation for the The New War.
+Synopsis
+In preparation of The New War, the Tenno travels to the Veil Proxima with their Railjack crew, only to discover a Murex Ship. With their Paracesis in hand, they board the Murex to fend off the Sentient threat. Afterwards, they destroy a mysterious red crystal at the end of the Murex, which upon re-boarding the Orbiter reveals flashbacks about The Old War and Natah's brother, Erra. A vision of the Sentient Mothership exposes a meeting between Erra and Natah, hinting at an escalation of the war with Natah's war cry.
+Walkthrough
+This quest can be accessed directly from the Codex as a chapter of the Prelude to War quests, after completing the Chimera Prologue.
+Upon activation, the player will be tasked to inspect their Personal Quarters.
+Investigate Personal Quarters
+In the Personal Quarters, the player is prompted to touch the Lotus's headgear, which has a purple aura around it.
+Flashback
+The quest starts with a cinematic which shows a Sentient invasion occurring during The Old War, as a squad of four Warframes (an Excalibur Prime, a Mag Prime, a Nova Prime and a black Mesa Prime with an Oblivia Prime Syandana) on Odonata Primes and four Railjacks are seen attacking Hunhow, who is personally leading an assault on Lua, the Orokin Empire's capital. One of the Railjacks fires a Seeker Missile barrage at Hunhow's face to little effect before the scene switches to a squad of Gyrixes and Ionyxes flying towards the Moon. In Lua's surface, an Excalibur Prime destroys many of the attacking Sentients using his Exalted Blade and a Burston Prime. Shortly after, he is downed by an Aerolyst, which then attempts to kill him, only for it to be stopped by a Mag Prime, who wields an Orthos Prime and strikes the Sentient down with it.
+Afterwards, a cave under the surface of Lua is seen with Reservoirs, falling Orokin structure and Lua rocks, destroyed Conculysts, fallen Dax soldiers and a Nova Prime, and a surviving female Dax soldier who tries to avoid the falling structure, before being grabbed by a humanoid Sentient. Natah, now transformed as the Lotus and accompanied by a group of Tenno, among which there's the Operator, shortly arrives inside the cave and orders the Sentient to let go of the Dax soldier. This Sentient, revealed to be Natah's brother named Erra, is horrified to see his sister now viewing him as an enemy, blaming the Tenno for making her turn against her family. He offers her a choice: to side with the Tenno, or with her family. The Lotus, however, states that she is no longer Natah but the Lotus, and then proceeds to make the Tenno attack Erra with their Void Beams, making him scream in agony.
+Present
+The Operator's flashback ends, and they are brought back to the present, finding themselves aboard Praghasa. In a similar manner to Chimera Prologue, the Operator assists to a meeting between Erra and Natah, surrounded by a ring of Sentients, with Ballas leashed by Erra. The brother and sister discuss their preparations for war, with Natah seemingly suffering memory lapses from her time as the Lotus, still believing the Orokin to be alive. Ballas confirms to Natah that the Orokin are no more, the bios (presumably Grineer/Corpus) are divided over the Origin System, and only the Tenno remain a threat. Erra instructs Natah to use the Tenno's wickedness against them.
+Natah then notices that the Tenno are watching. Erra says to let them, as it won't matter. He then commands her to sing for the Sentients and call them home. Natah then releases several pulses that knock the Operator away, ending the vision.
+The Tenno must prepare for war, now armed with the blueprint for the Shedu.
+**Trivia:**
+Prior to Update 27.2, the Erra Quest was triggered by striking down a red crystal at the end of a Murex with the Paracesis, and did not appear in the Codex until the quest's completion.
+At some point, Hunhow's colors were changed to his current red-and-black with red lights, instead of the red and white with blue he had when the cutscene was first released. This was done to confirm the fact it was him and not another Sentient with a similar appearance who attacked the Moon.
+In the original version of the cutscene, there were Condrix instead of the Sentient fighters.
+iALsWLWm_SM
+
+## The Maker
+The Maker is a short main Quest, released in Update 27.3, and serves as the third and final act of the Prelude to War. In a cutscene taking place in the same Murex from the previous act, Erra urges Natah to "finish the war" in spite of her doubts surrounding Erra's supposed death and the "Maker" Ballas.
+Synopsis
+Inside the Sentient mothership, Erra is telling Natah that their mother, who she wrongly believed to be alive, is dead and urges her to finish the war as "[she has] her fire". Natah notes that she remembers ordering the Tenno to attack Erra and that he was destroyed. Erra objects and states that she remembers wrong and will need time to completely heal from "what the Makers had done to [her]". Natah is not convinced and points at leashed Ballas asking if he is one of the Makers.
+Erra suddenly grabs and throws Natah at the pedestal behind him, where she is trapped in a field of energy. Erra tells her to "finish the war" and drops Ballas's leash. Revealing that his imprisonment was a deception, Ballas stands as he and Erra silently watch Natah.
+**Trivia:**
+Prior to Update 30.3, The Maker was unnamed.
+The Maker is also currently the only quest without a diorama, as selecting it instantly plays the cutscene without the option to [begin].
+
+## Rising Tide
+Quest Description
+Rising Tide is a main Quest, released in Update 26.1. In preparation for the Sentient threat, the Tenno collect the parts they need to construct a Railjack, an Orokin warship dating back to the Old War.
+Synopsis
+With Sentient anomalies appearing in the Veil Proxima, the player reconstructs Cephalon Cy, an Orokin-era Cephalon that fought in The Old War. While searching throughout the Origin System for the missing parts of an ancient Orokin warship, the Railjack, Cy suffers traumatic flashbacks to his original crew, who perished during the Old War while attempting to behead a Sentient fleet. After desperately searching for a viable Cephalon to commandeer the Railjack, Cy realizes there is no one with his expertise or experience that could spearhead the Tenno's space crew in combat against their ancient enemy. With the Railjack repaired, the Tenno arm themselves to face the Sentient threat in the Veil Proxima.
+Walkthrough
+In order to access this quest, the player must have first completed The War Within quest. Players will then be able to start this quest directly from the Codex.
+Upon starting the quest, the player receives an inbox message from Ordis directing them to build the Railjack Cephalon blueprint, alongside a short
+message from Cephalon Cy requesting integration into the Dry Dock.
+The inbox message contains the Railjack Cephalon blueprint which must be built in the Foundry to progress the quest.
+Install Cephalon Cy in the Dry Dock
+Players must head to a Dry Dock, which can be built in a Clan Dojo or visited in Tier 2 or 3 Relays (Saturn or Pluto).
+Upon installing Cephalon Cy in the Dry Dock's central terminal, he will explain the importance of the Railjack in combating the Sentients.
+Recover the Railjack's Fuselage: Ares, Mars
+Enemy Level: 20 - 25
+The player's first mission for Cephalon Cy is retrieving a derelict Railjack Fuselage on Mars, where it is guarded by a contingent of Grineer. Players must plant a scanning beacon on the wreckage, which will trigger a mission to defend the wreckage as Cephalon Cy scans it. A white circular radius will indicate the defense area, and players must stay within the area while preventing enemies from stepping within it. Scanning progress will halt if either of these conditions are not met.
+During the scan a pair of Vomvalyst Interference Drones will show up at 90% scan progress. Scan progress will stall so long as the Drones are alive, even if they are not within the defense area, requiring that players kill them to resume.
+Once the scan is complete, players can head to extraction to finish the mission, which will reward a Fuselage component. With the Fuselage component in hand, players must head back to either their Clan's or a Tier 2-3 Relay's Dry Dock to install the Fuselage, which will materialize the Railjack's incomplete main hull inside the Dry Dock.
+Repair the Railjack Fuselage in the Dry Dock
+In order to complete the repairs to the Fuselage, the player must collect various resources that can be found throughout the Origin System that will be used for the repairs. The following lists the resources needed to initiate repairs:
+Players can deposit any of the required resources they have at hand on the central Dry Dock console similar to depositing resources for Clan Research. Once all the required resources have been deposited, Cephalon Cy will initiate repairs on the Fuselage, which will require 1 real-time minute to complete. This repair process cannot be rushed by the player.
+Recover the Railjack Propulsion System: Cervantes, Earth
+Enemy level: 25-35
+After the Fuselage is complete, Cephalon Cy will send an inbox message directing them to a Propulsion System on another derelict Railjack, this time on Earth. Just as before, it is guarded by Grineer enemies. The player must scan the wreckage and defend it from incoming Grineer trying to interrupt the process.
+During the scan, two waves of Interference Drones will appear, one at 40% and the other at 60%.
+Once the scan is complete, players can head to extraction to finish the mission and acquire the Propulsion component. It must be installed via Dry Dock to progress the quest.
+Repair the Railjack Propulsion System in the Dry Dock
+Once more, the player must collect various resources to repair the engine. The following resources are needed:
+Recover the Port Nacelle: Plato, Lua
+Enemy level: 25-35
+The next section of the Railjack can be found on Lua, where the wreck is now guarded by a contingent of Corpus. Interference Drones will appear at 30%, 60%, and 90% scan progress, and Sentient Conculysts and Battalysts can appear to interrupt the scan.
+Repair the Port Nacelle in the Dry Dock
+On acquiring the Port Nacelle, players must collect the following resources to repair it:
+Recover the Starboard Nacelle: Tessera, Venus
+Enemy level: 25-35
+The other Railjack Nacelle is located on Venus, with defense conditions being similar to the previous recovery mission against Corpus and Sentient enemies. This time, more Interference Drones will appear per wave, with up to 4 drones appearing on the last wave at 90%.
+Repair the Starboard Nacelle in the Dry Dock
+The following resources are required to repair the Starboard Nacelle:
+Recover the Tail Section: Berehynia, Sedna
+Enemy level: 25-35
+The Tail section is the next segment to be located, found on Sedna. A sizable Grineer presence now guards the ship alongside occasional Sentient units. Interference Drones now appear at 30%, 50%, and 80% scan progress in larger numbers, with up to 5 drones in the last wave.
+Repair the Tail Section in the Dry Dock
+The Tail section requires the following resources to repair:
+Recover the Engine Cowling: Orias, Europa
+Enemy Level: 25-35
+The final Railjack section is located on Europa, where a large detachment of Corpus guards the Engine Cowling. Interference Drones will appear at 30%, 50%, and 80% progress, alongside the largest number of Sentient units to appear in the quest.
+Repair the Engine Cowling in the Dry Dock
+Integration
+The Railjack will be completed upon finishing repairs on the Engine Cowling, at which point Cephalon Cy resolves himself to become the Railjack's Cephalon with the Tenno's permission. Players must interact with the central Dry Dock console and confirm Cephalon Cy's integration into the Railjack, which concludes the quest.
+Players can enter the completed Railjack and inspect its interior. The Railjack will also appear above the Orbiter, and can be entered from there through its bottom deck, in the middle between the three rooms.
+Railjack Key Mission
+This section is technically not part of the Rising Tide quest itself, but is included here for the sake of brevity.
+Upon boarding the completed Railjack, Cephalon Cy informs the Tenno that the ship is lacking a power source. Interacting with the Reliquary Drive in the second level midsection of the ship prompts "Investigate Coordinates On Lua?" This triggers a simple snatch-and-grab mission to collect a Void Key on Lua and extract, avoiding the Corrupted and Sentient enemies along the way.
+With the Void Key recovered, the Tenno inserts it into the Reliquary Drive, making the Railjack fully operational. The object inside the Reliquary bumps on the glass, revealing what appears to be a giant finger, as the Operator's doppelganger sits atop the drive waving with their index finger missing. The player is now finally ready to embark on Empyrean missions through the Railjack's navigation console.
+**Notes:**
+A fully built Railjack can be purchased for 175 from the Market. Obtaining the Railjack this way will completely bypass the quest and mark it as completed.
+Unlike the Vomvalysts found in the Plains of Eidolon, the Interference Drones will not enter their "energy form" and thus can be killed with normal weapons and abilities.
+
+## The New War
+Quest Description
+The New War is a solo-only main Quest, released in Update 31. The Sentient, led by Natah, Erra and Ballas, return to wage an all-out war against the Tenno, Grineer, and Corpus for complete domination of the Origin System.
+Synopsis
+The Sentient, led by Ballas and Erra, launch a full-scale invasion on the Origin System. The Tenno are forced to form an alliance with the Grineer and Corpus to unite against a common enemy. However, despite the efforts of Grineer Kahl-175, Corpus Veso, and Teshin, the Origin System falls as Ballas banishes the Lotus and the Operator into a Void portal.
+Without the Tenno, the Origin System crumbles under the Sentients as Ballas becomes its new ruler, brainwashing the masses into subservience under Narmer and using his position to defame the Tenno and manipulate everyone's memories of their actions. The mysterious Drifter fights back against Narmer, having somehow brought back the Lotus, now a dying Eidolon. They team up with Hunhow to claim Sentient shards from Erra's Archons to heal the Lotus. However, she fails to recognize the Drifter and becomes hostile. After a segment about the Operator during the accident on the Zariman Ten Zero where they accept The Man in the Wall's deal, the powers are granted to the Drifter. This act also allows the Operator to return to the Origin System in the Drifter's place, causing the Lotus to cease hostilities and leave with the intent to fight Ballas.
+A confused Operator travels to the Zariman Ten Zero which has come halfway out of the Void, confronting the Drifter, revealing the Drifter to be an alternate reality version of the Operator. Ballas, enraged at Lotus and the return of the Tenno, sets in motion his plan to use the Sentient mothership Praghasa to devour the Origin System's sun to escape to the Tau System alone, thereby ending all life, organic or otherwise, in the entire system. This forces Erra to defect and lend his aid to the Tenno for the survival of his race. After a long battle, the Lotus and the Tenno finally kill Ballas. Their victory is cut short by the arrival of The Man in the Wall, appearing as a giant humanoid embedded into a wall, who bellows in a heavily distorted voice before mysteriously vanishing.
+With Narmer now destabilized, the Origin System begins to slowly recover. The Tenno returns the Lotus to Lua, who reveals conflicting personalities between herself, Natah, and Margulis. The Tenno asks her to choose one voice to lead the others in the near future.
+Walkthrough
+The player must have completed Prelude to War. They must also own a Railjack from completing Rising Tide or purchased with Platinum.
+The Railjack should at least be decently equipped to improve its survivability; Sigma MK I Components and a Crew Engineer will suffice.
+When initiating the quest in the Codex, a disclaimer warns that The New War will take much time to complete (expect a 2-6 hour playthrough with checkpoints to allow completion throughout multiple play sessions), access of the Arsenal is limited, and regular WARFRAME activities cannot be performed until the quest is completed, The player should make sure their Arsenal is well-equipped and are fully prepared before typing NEWWAR to begin the quest.
+Commit to THE NEW WAR?
+THE NEW WAR requires several hours to complete. You will be able to pause the game, and your progress will be saved between missions.
+Prepare wisely. Loadout access will be limited and regular Warframe activities will not be available until this quest is completed!
+THE NEW WAR contains sequences of violence, frightening situations involving teens, and depictions of emotional abuse. It is intended for mature audiences.
+Type NEWWAR to confirm.
+For My Brothers
+Kahl-175
+thumb|400px|Kahl with Corinth Prime
+In Cetus, on Earth, a Murex arrives and crashes into the Unum's Tower. As an Ostron child watches in horror, Erra approaches them and removes up their Excalibur Mask, telling them to not be afraid.
+On the Plains of Eidolon, the Grineer are engaging the Sentient. A Tusk Firbolg engages a Condrix only to be knocked out of the sky, killing all its crew save Kahl-175. He picks up his fallen brethren's Grakata and struggles to stand as Councilor Vay Hek orders him to regroup on his beacon.
+The player now controls the Grineer soldier, who has vastly different gameplay compared to Tenno:
+Kahl has 1,000 health and no shields. Health Orbs dropped by enemies heal 100 instead of the usual 25.
+Kahl's Grakata has 90 Magazine Capacity instead of the usual 60. He is also armed with a Machete, and is capable of "Mercy" finishers.
+Kahl has two "abilities":
+His first ability throws an incendiary grenades. He can carry up to a maximum of four.
+His second ability deploy blunts. It has a 3 second cooldown and deploying a new blunt will destroy the oldest ones.
+Kahl can crouch and roll, but cannot slide, double jump, or bullet jump.
+Kahl can use ammo dispensers to replenish ammunition for his Grakata and grenades.
+Dying at any point throughout the quest will revert progress to the beginning of the mission's current objective.
+As Kahl approaches the beacon, a Tusk Bolkor crashes in front of him. A small squad of Dargyns are chased by Sentients, with one of them being shot down. Kahl chooses to help the downed Dargyn, engaging small resistance, only to find the Dargyn Pilot dead. As he stares at the Condrix in the distance, asking, "what is mission now?" only for Vay Hek to tell him that there is no mission as going near the Condrix would get him eaten alive. However, Kahl has an idea: to feed the Condrix a bomb.
+Kahl's advancement is further met by some resistance, but is aided by a Rampart. As he nears the Condrix, Sentients deploy search parties, forcing Kahl to stealth around them. He reaches an encampment and acquires a bomb. As he readies himself, a small Grineer squad and a Tusk Thumper approach the Condrix, only for the thumper to be shot out of the air mid-jump and crash next to Kahl, knocking him off his feet. As a Sentient approaches and stabs the other Grineer dead, Kahl finds a dead/disabled Rhino and wrestles his gun, using it to kill the approaching enemy. Kahl stands on his feet and pumps his newly acquired Corinth Prime.
+Kahl makes his final stand as he reaches the base of the Condrix, impeded by a Symbilyst. He mercy kills the Sentient by slamming it with the butt of his Corinth Prime before unloading three consecutive shots. Kahl weakly approaches the Condrix, dropping his weapon, and slumps down to arm the bomb. As he is about to declare his speech for his queens, he suddenly pauses and instead declares for his brothers.
+However, the bomb halts midway through the activation process. Kahl opens his eyes and looks in horror as Erra approaches him.
+Veso-R
+thumb|400px|right|Veso's final moments
+On a Corpus Ship, Corpus Veso takes panicked breaths as alarms blare. Outside the window, the Corpus and Grineer fleets have united to push back their common enemy in the Veil Proxima. As Alad V gives a speech, he calls upon all tech to engage the ship's command overrides.
+Veso has 300 health and 150 shields.
+Veso is armed with Plinx and Prova.
+Like Kahl, Veso can crouch and roll, but cannot slide, double jump, or bullet jump.
+Using nearby robotic dispensers, he can summon Breacher MOAs with his first "ability". Using the ability button and aiming at a surface, the MOA can be commanded to move and perform objectives. Shooting the Breacher MOA will cause it to explode and clear debris.
+Veso discovers that Sentients have latched into their grid network, causing some of their robotics to go rogue and turn on the Corpus. He encounters the first override behind a half-opened door that only his Breacher MOA can fit through. His progress is further impeded by a grid laser that can only be bypassed by his Breacher MOA to disable it from the other side.
+He then encounters a Shield Drone dispenser, which can interfaced with his second "ability" to summon a drone that recharges his and his allies shields. Shortly after are indestructible turrets, forcing Veso to rely on the Shield Drone to run past. He then encounters a Striker MOA dispenser to produce a combat MOA ally for his third "ability".
+As Veso nears the second command override, Alad V questions what is taking Veso so long while mentioning needing to stand down fire control. As Veso is confused by the notion, Alad V orders him to look outside and urges him to hurry before they are under new management. The next command override is through a broken glass window with a Breacher MOA dispensary, but the path is blocked by electricity which will kill the MOA; the Shield Drone must be commanded to fly through the window and provide the Breacher MOA with shields to allow it to move past.
+In the next room, debris blocks the way save for a cargo mover. Veso must command his Breacher MOA to interface with a terminal while standing inside the cargo mover to get to the other side.
+Nearing the final command override, the Sentient take control of a Jackal. Veso must attack the Jackal's front legs until it engages its laser, and then continue shooting it to deplete its shields. Once it enters the self-repair routine, Veso must take the opportunity to command a Breacher MOA to self-destruct under it. This must be done twice, with the second phase emitting electricity and requiring the Shield Drone's defense.
+After disabling the final override, Alad V orders the crew to stand down, claiming to have negotiated with his enemies for profit. As the Murex latches on, Veso, realizing Alad V intends to betray the Corpus Board of Directors, angrily reactivates the fire controls and orders to blast into the heart of the enemy ship, destroying it. The resulting shockwave causes the Corpus ship to break apart. Meanwhile, the Tenno's Railjack arrives onto the battle.
+Railjack
+The Tenno have formed an unlikely alliance with the Grineer and Corpus and are engaging the Sentient fleet in the Veil Proxima. Teshin denies the Tenno entrance to the mothership until he has destroyed their Orphix fields. The alliance is able to push onward, only for a boarding party to sabotage the Railjack's slingshot. Once the slingshot has self-repaired, the Railjack must face the mothership to allow Teshin to board.
+Teshin
+thumb|400px|right|Teshin after performing a finisher
+Teshin drops in from the ceiling, killing an Aerolyst.
+Teshin has 500 health and 175 shields.
+Teshin dual wields his unique Sun & Moon dual nikana, but functionally behave as dual swords.
+Teshin has three "abilities":
+His first ability infuses his weapons with Heat and changes his stance to Carving Mantis.
+His second ability infuses with Cold and stance changes to Crossing Snakes.
+His third ability infuses with Electricity and stance changes to Swirling Tiger.
+Sentient enemies are protected by elemental shields that can only be destroyed with the corresponding element.
+Unlike Kahl and Veso, Teshin can slide and double jump.
+Teshin can throw Orvius with the primary fire button to stun enemies. He can then lasso onto it and make long jumps with Alternate Fire.
+While moving forward, Teshin discovers captured Grineer and Corpus. The first Orphix field is guarded by three energy locks that can be destroyed with the Orvius, with only 25 seconds between each lock. He must then fight off Sentient defenders before Ordis can disable the generator surrounding the Orphix field.
+Approaching the second Orphix field has four energy locks. He encounters a strange red projection that makes him slowly recall reprimanding the Tenno before shrugging off its effects. After destroying the field, Teshin must fight a Typholyst.
+The third and final Orphix is protected by five energy locks and another Typholyst. However, he chooses to instruct the Tenno not to join him and decides to scout ahead. As he makes the jump, the view suddenly cuts into first-person of a tired, out of breath character as Ballas forces them to watch Teshin and Erra engage in a Frame Fighter-like duel. Teshin struggles as a mask veil impairs his mind, with Ballas revealing his plans to brainwash the masses to end the war in one fell swoop. Teshin eventually collapses, but is able to remove the veil; Erra deems him a lost cause and crushes his helmet.
+The Operator arrives too late to blast Erra aside and looks on in horror as Ballas steps aside to reveal the Lotus, now heavily burnt and weakened (possibly a consequence of the events of The Maker). Ballas kisses her and takes what seems to be her life essence. A Void portal suddenly opens behind her and pulls her in; the Operator and their Warframe try to hold her back, but Ballas steals the Tenno's Paracesis (regardless of whether the player had crafted or equipped one at the beginning of the quest) and cuts off the Lotus's arm, sending her flying into the portal. Ballas then stabs the shocked Tenno through the back, casting them into the portal.
+The Rise of Narmer
+thumb|400px|right|Narmer console hacking
+The player is taken back to the login menu, with only The New War logo on display. After the player logs in, a cutscene shows Ballas sitting atop a throne as a crowd before him chants "Narmer". With the Tenno banished, the Sentient have won, with Ballas as the sovereign of a system-wide rule of Narmer, twisting history to defame the Tenno and favor himself as much as possible.
+A mysterious figure disembarks from a Tusk Bolkor and lands on Earth.
+They have 250 health and no shields.
+They have a unique Sirocco and Rumblejack. This pistol has 10 rounds and pressing the reload button while reloading while under the white brackets that appear halfway through the reload will immediately finish the reload and overcharge the next shot.
+They have three abilities:
+Their first ability Restorative heals them with a 13 second cooldown.
+Their second ability Smoke Screen (Drifter) deploys an invisiblity field with a 30 second cooldown.
+Their third ability Target Radar shows nearby friendlies and enemies with a 20 second cooldown.
+Like Kahl and Veso, the mysterious character cannot double jump, or bullet jump.
+thumb|400px|right|An Ostron with a Narmer Veil
+The figure approaches a Narmer Outpost. The Security Links feature a new hacking type with a split screen and using the cursor to press nodes on the opposite side. 10 imprisoned Ostrons can also optionally be freed along the way, using Target Radar to find them, however completing the optional objective does not provide any bonus.
+thumb|400px|right|Encounter with Archon Nira
+Deep within, the figure discovers the Narmer are using the same mask implants Ballas attached to Teshin, known as Narmer Veils, to brainwash Grineer and Ostron. The figure is discovered by the newly veiled Ostron, alerting the Sentients. After clearing the field, they approach the veiled Ostron but are unable to remove the mask, summoning an Archon and forcing them to flee the complex. As they escape on the Tusk Bolkor, a closeup of the Archon reveals it to be a Mag Prime with a serpentine head attached to it.
+Drifter's Camp
+The figure, codenamed Drifter by Nora Night, retreats to their camp: a cavern on Earth hiding the Orbiter. As they approach the rear, their hood is removed, revealing the Drifter to be an aged Operator. Ordis, now a floating Sentinel, has been tending to what's left of the Eidolon Lotus. The Drifter leaves, telling Ordis that the Cephalon knows someone who can help. Requiring a Corpus Dropship to be able to move more easily in the Origin System, they head to Fortuna, Venus.
+Stolen Plates
+The Drifter slowly descends into Fortuna as the brainwashed Solaris United sing praises to Narmer and Ballas. They must carefully avoid the patrolling Narmer Deacons as they approach the Orb Vallis elevator. Along the way they are contacted by Little Duck, who has managed to avoid capture. She instructs the Drifter to take a K-Drive to Spaceport and use a Narmer Veil to bypass security. As the Drifter dons the mask, they struggle with distorted visions of the Lotus that attempts to twist the past to say it was Ballas who was their father figure and that the Lotus was manipulating them.
+While they are able to bypass initial security, the Drifter still must take care to avoid the Deacons inside the Spaceport as they can remotely detonate the veil should they detect anomalies. After careful maneuvering and reaching deep inside, they are unable to handle the veil's deception any longer and a quick-time event using the melee button (default E) repetitively prompts the mask's removal. They reach the end console that destroys the Narmer Veil factory, and commandeer a Condor Dropship to escape.
+Enemy of Enemies
+The Drifter heads to Uranus. Moving into the base, they are accosted by Disciple Ka-Nuteru's Narmer forces, but are aided by the Stalker. Deep within, the Stalker brings the Drifter to Hunhow; agreeing that they both want the Lotus to be free, they form an unlikely alliance. Hunhow explains the Archons are twisted abominations of Warframe remains: Archon Boreal the Owl commands a twisted trident and a piercing cry, Archon Amar the Wolf attacks with a fury of flame, slashes, and a pack of mirror clones, and Archon Nira the Snake attacks with crackling whip, lightning, and a deadly petrifying gaze. Each Archon also has powers to raise dead Sentients, which may be used to save the Lotus.
+As they leave, Hunhow bestows them Nataruk, a Sentient bow. He tests them with their skill in the bow: releasing shortly before fully charged will fire an even more powerful shot. The Drifter must backtrack and return to the surface to escape, this time facing both Narmer and Sentient interceptors blocking their way.
+Temporal Axioms
+thumb|400px|right|Students taking a pledge at the beginning of class
+With the Drifter assigned "homework" by Hunhow, the scene cuts to first-person view in the Zariman Ten Zero where Cephalon Melica instructs a classroom, sitting in the far back of the room alongside students Mathon and Jenva. For an unknown reason, the player character is puzzled at being present in the classroom, and is slow to respond to pledges being held. The class studies Temporal Axioms of Void travel narrated by Euleria Entrati, and are quickly quizzed:
+400px|right
+Which of the following is not one of the Theories of Time?
+A) Presentism
+B) Futurism
+C) Eternalism
+What is the principal failing of Presentism?
+A) It considers the Present to be the only reality.
+B) It has never been endorsed by an Archimedean of unblemished standing.
+C) It lacks elegance.
+D) It is not true.
+Lintana's parents have been captured, but she has a choice. The button that opens her mother's cell door will flood her father's cell with deadly radiation, and vise versa. She presses one of the buttons. Under Eternalism, which of the following statements is universally true?
+A) Only one of her parents will survive.
+B) Only one of her parents will die.
+C) Her parents will survive. Her parents will die.
+The player is not penalized for wrong answers. Upon answering the final question, the class is interrupted as the Zariman makes a Void jump.
+The Wild Hunt
+thumb|400px|right|The 3 Archons: Boreal (left), Amar (center), Nira (right).
+Back in the present, the Drifter checks on the Lotus. Hunhow instructs them to defeat the Archons and take their power to heal her. Ordis asks why the Drifter doesn't use their Void powers, only for them to reveal they didn't lose them, but instead have not received them yet.
+The three Archons are spread across different planets of the Origin System. They may be challenged in any order; two are required to progress the quest to the next stage.
+All the Archons can teleport and resurrect Sentient to swarm the player and shield them. At low health, the Archon becomes invulnerable and grapples the Drifter to prompt a quick-time event to break free by rapidly pressing E, and then will flee once. On the first downing by an Archon, the Stalker will appear to revive the Drifter.
+Erra questions Hunhow's interference, refusing to believe Hunhow's argument that he is being used by Ballas. Hunhow demands Erra to stand down, as he is behaving like a Dax in servitude to the Orokin. Erra swears that they will find and bring back Natah.
+Archon Boreal
+Archon Boreal is located on Earth, and has an Owl head attached to a Loki Prime's body. He primarily attacks with focused Electricity beams and uses the Korumm trident to drop hazardous fields on the ground. His screech releases a slowly expanding pulse field that pushes the Drifter away, blocks outside fire, and heals him; the pushback can be negated with Smoke Screen and the screech can be interrupted with a shot from inside the field.
+Archon Amar
+Archon Amar is located on Mars, and has a Wolf head attached to a Rhino Prime's body. He throws Heat projectiles with Nepheri daggers, and can charge or leaping stomp. His primary defense is to clone himself and hide amongst them while he heals; the real one, the one holding weapons as well as having noticeably different visual effects, can be detected with Target Radar.
+Archon Nira
+Archon Nira is located on Jupiter, and has a Snake head attached to a Mag Prime's body. She hurls Toxin projectiles, can strike from afar with her Verdilac whip, and can ripline across the walls before performing a leaping bite. Nira can use her whip to create a shield that heals her slightly before releasing a forward shockwave. Finally, she can screech and release a piercing gaze to petrify the Drifter if they do not look away.
+The Aftermath
+First Archon Shard
+thumb|400px|right|Stalker finishing an Archon
+After depleting the first Archon's health, the Archon rises in front of the exhausted Drifter, only for the Stalker to reveal himself, deliver the final blow and rip out its shard. The Drifter takes the shard back to the Lotus, partially restoring her body. She demands more before suddenly snapping at the Drifter.
+Cutting back to the Zariman Ten Zero incident, the player's Operator has barricaded the classroom door as the Void had made their parents crazed and deranged. The operator is exceptionally calm and pragmatic, and consoles Terolee:
+[Sun] Something went wrong with the jump...
+Something went wrong with the jump. But we'll survive. Promise.
+[Neutral] We need to stay quiet...
+Just, just try to keep quiet... and don't let him fall asleep, okay?
+[Moon] We're in this together...
+I don't know. But we're going to figure it out together. Okay?
+They then console Berryn:
+[Sun] We're on our own...
+Oh please, would you snap out of it? We're on our own now.
+[Neutral] We'll be your family for awhile...
+No. She's not. We're going to be your family for a while, okay?
+[Moon] Your mom will come...
+I know, but go on. Just for now.
+They then walk toward a Tenno tapping on the wall. Offering their light, the tapper turns around, revealed to be The Man in the Wall.
+Second Archon Shard
+After the Drifter deals the decisive blow, they rip out the second Archon shard. They give it to the Lotus, restoring more of her body. However, not recognizing the Drifter, she suddenly turns hostile, forcing them to evade her attacks.
+thumb|400px|right|Drifter and Operator shaking hands during the deal
+The Lotus eventually corners the Drifter, prompting Ordis to sacrifice his drone body to shield them. The scene cuts back to the Operator accepting The Man in the Wall's Void powers which also seem to have passed on to the Drifter, who fires a Void Beam to repel the Lotus's attack. She eases upon seeing the Operator having taken the place of the Drifter after the smoke clears, and departs.
+Table for Two
+Meanwhile, Ballas senses the Tenno's return, his fury remotely detonating the veils on his nearby Deacons. He instructs Erra to recall the Sentient fleet, as Natah will come to them and he will command her to kill the Tenno.
+The Operator heads to the Zariman Ten Zero which appears to have come out halfway from a portal to the void. Picking up a Globelight, they follow visions of and whistling from the Drifter. Arriving at a Dormizone, they sit down at a table and are greeted by the Drifter, revealed to be an alternate reality's version of the Operator. Following the "Eternalism" theory first presented in Temporal Axioms, the Drifter is a version of the Operator who never had Void powers and was never rescued, and hence never escaped the Zariman Ten Zero.
+Choice: Drifter vs Operator
+400px|right
+As the paradox allows only one of them (Drifter or Operator) to exist in regular space, the player is prompted to pick who will take on Ballas. This choice is purely cosmetic and simply affects the visuals and dialogues in the remaining parts of the quest, but does not affect the combat or gameplay in any other way. The Drifter, having received Void powers, now has functional gameplay to the Operator including their base health and shields being bumped up to 350, and no longer has their unique melee or abilities. Once the quest is complete this choice will no longer matter, as the player will have access to identical features regardless of the choice made here.
+The Tenno awakens in the Orbiter, while Ordis has lifted the Orbiter from stasis and Exodus protocols. The Tenno are able to access their Warframe and equipment, as well as a rebuilt version of the Paracesis stolen by Ballas. They then discover through the Lotus's helmet that she is headed to Cetus to commandeer a Murex.
+She Gives, We Live
+Cetus
+The player must equip Paracesis for this mission. If they did not build one prior to starting the quest, they will temporarily have an unranked Paracesis auto-equipped in their loadout, which cannot be modded and will be removed after completion of the quest.
+The Tenno enters through the back of The Quills base, but their Warframe cannot proceed due to an Orphix field. They are able to tear off the Narmer Veil affecting Konzu using Void Sling and a quick-time prompt. They must also rescue Fisher Hai-Luk, Master Teasonai, and Hok, and optionally 10 other Ostrons. Note that Ostrons cannot be rescued if a Deacon has spotted the Tenno and begun to pursue them. The Deacon patrols remain invulnerable, but can be avoided with careful use of Void Mode and by sticking to the rooftops and awnings.
+With Konzu's help, the Tenno take a blimp to the Unum Tower. They recover their Warframe and can optionally save more Ostrons inside. The Tenno must use their Void damage to activate Reactive Crystals to help them scale the tower. At the top, the Murex prepares to retreat; the Tenno has 60 seconds to activate two crystals, reawakening the Unum who stops time around the Tenno and allowing them to board the Murex.
+Murex
+Aboard the Murex, the Lotus engages the Sentients but warns the Tenno that "this is not [their] fight". As they move forward, the Lotus gains control over the Sentient forces as she reveals Ballas's plans to use the Sentient Mothership Praghasa to consume the Origin System's sun, fulfilling its original purpose from the Old War. Deep within the Murex, the Lotus attacks the Tenno with an energy beam, automatically forcing them into Drifter/Operator form; her attack will be held at bay and must be redirected onto her bodyguard Battalysts. The Tenno are then knocked out of the Murex due to the mechanism she uses to leave, but are picked up by Cy and their Railjack.
+No Railjack Crew will be present during this mission. The Tenno opens a hole through the enemy Murex blockade weakened by the Lotus with the Railjack's Tunguska Cannon to clear the way for a Void jump to the sun.
+Approach Praghasa
+Railjack
+The sun's intensity slows the Railjack and periodically produces intense heat waves that deals significant damage, requiring use of Murex wreckage to take cover. Meanwhile, Ballas openly declares his new plan to destroy the Origin System and sacrifice his Narmer empire, using the sun to fuel the mothership so he can escape to the Tau System, but his speech is interrupted as the Lotus rams her Murex into the Mothership, creating a shockwave that instantly causes a catastrophic breach. Once the breach has been dealt with and the Tenno are able to get close enough, they launch their Necramech into the Sentient Mothership.
+On Praghasa
+If the player does not own a Necramech, they will be temporarily placed into a Bonewidow with a Mausolon.
+The Necramech is confronted by a Typholyst on arrival but it is destroyed by Erra, forming a truce after having realized, although too late, that Ballas's machinations will also doom the Sentients. Erra guides the Tenno forward and leads them to the final Archon, holding debris to allow them to proceed before seemingly being crushed.
+The Tenno, in their Drifter/Operator form, must disable the three Orphix generators in the field and their Sentient guardians, allowing their Warframe to be summoned and finish off the final Archon and harvest their shard.
+The Final Showdown
+The Lotus approaches Ballas, who demands her to kneel and beg. The Tenno arrive, Paracesis in hand, distracting the Lotus as Ballas attacks her and prompting the Tenno to push her aside and take the blow. After forcing the Tenno to drop the Archon shard, Ballas claims and absorbs it, taking control of the Lotus and turning the mother against her child.
+Any damage against the Warframe instantly puts the Tenno in their Drifter/Operator form, who takes continual damage due to the sun's presence. The Tenno must wait for the Lotus to attack their Drifter/Operator form to redirect her beam onto the round Narmer lenses in the room. They must then dispatch the Narmer Deacons reinforcements. This repeats until all five projections are destroyed, weakening the control over the Lotus, who attacks Ballas before collapsing.
+Ballas turns his attention to the Tenno, firing a continual beam, which must be lured to one of the four Narmer lenses. Taunting the Tenno, he then attacks the Lotus, lowering his shields and giving an opportunity to attack directly with Void Beam. With all the mirrors destroyed, Ballas makes one final stand and pushes the Tenno aside, seizing their Paracesis and stabs the Lotus with it.
+As Ballas seemingly gains the upper hand, the Tenno jump him and force a Narmer Veil from one of the deacons onto him. Seeing Margulis in place of the Lotus, he is deluded into kissing the illusion, allowing the Lotus to reclaim her essence and end Ballas once and for all. Suddenly, The Man in the Wall emerges in the form of a large multi-armed and multi-legged humanoid embedded into a wall, with its Operator mimic sitting atop it. It overwhelms the Lotus, and before mysteriously vanishing, some words are spoken in a distorted voice.
+Conclusion
+thumb|400px|right|The Lotus back on Lua
+With The New War over, the Drifter/Operator carry the Lotus back to Lua. She claims she did not see The Man in The Wall and saw "nothing". Narmer has been shattered now that their leader is effectively a martyr, but its voluntary loyalists remain active. As the Lotus struggles to balance her personalities between herself, Natah, and Margulis, the Operator/Drifter replies, "I know", and asks her to choose "one voice to lead the others":
+[Sun] Natah
+"The times ahead will need decisiveness. Power. I shall be Natah."
+[Neutral] Lotus
+"I see violence and suffering in our future. We will need compassion and strength in equal measure... I am the Lotus."
+[Moon] Margulis
+"Narmer has divided the world, leaving a deep wound. We need healing. I am Margulis."
+The choice will define both her name and her initial appearance in all interactions with the player after the quest completes. Note that her chosen name will be permanent. Her appearance can still be changed, as well as now being colorable, after the quest by interacting with the Lotus helmet in the Orbiter's Personal Quarters; the chosen and normal Lotus Skins are provided for free, while other skins available for purchase for a one-off price of 165 each. Her transmissions will now use the customized appearance instead of the purple Lotus hologram from Apostasy Prologue.
+The player will receive an inbox message from Natah thanking them and providing the following:
+Sirocco Amp
+Sirocco Amp Skin
+Nataruk
+Rumblejack
+A Lost Time Decoration
+Ballas' Narmer Staff Decoration
+The Drifter Camp Captura Scene
+3 Day Affinity Booster
+3 Day Credit Booster
+The player can now swap between the Operator and Drifter appearances in the Orbiter's Operator Room. Zariman Decorations and Drifter cosmetics as well as Ordis' Sentinel skin become available in the Market.
+Various parts of the gameplay and visuals have changed in the aftermath:
+Narmer Bounties are now available in the Plains of Eidolon and Orb Vallis. These award blueprints for Caliban components, Archon Korumm, Nepheri, and Verdilac weapon blueprints, Archon Set Mods, and Narmer Isoplast.
+Deepmines Bounties are now available in Fortuna, through The Airlock near the entrance. These award blueprints for Nokko components, Arbucep, and Archgun Arcane Adapter.
+Visual changes:
+Above Earth, the player can change their personal hub location between the Orbiter in space and the Drifter's Camp on land.
+Teshin, following his supposed death by Erra's hand for resisting the Veil's influence, is replaced by a gray hologram.
+Cetus and Fortuna contain remnants of Narmer design and other layout changes. This does not affect Captura scenes.
+In Cetus, asides from Narmer's remnants, a large destroyed piece of Unum Tower can be found on the shore close to the bazaar entrance.
+Due to the new map, the NPC that plays the We All Lift Together cutscene is removed. The cutscene prompt has been moved to a series of levers near Rude Zuud.
+Murex that orbited the previously Narmer-occupied planets in the Star Chart are now dead/inactive.
+The Plains of Eidolon and Orb Vallis both feature signs of battle, such as the wreckage of crashed Murexes in the distance, although no damage is seen on the playable area of Orb Vallis. Captura scenes will remain in pre-New War appearance, however.
+The Plains of Eidolon features significant damage, as expected of the initial site of the Sentient invasion. Crashed Condrixes and Grineer Galleons dot the Plains and various landmarks of both Grineer and Sentient origin have been damaged or destroyed.
+The Orb Vallis has become warmer; much of the snow has melted and patches of grass can now be seen. The head of Nef Anyo under construction at Temple Fabrication has been replaced with Ballas's likeness.
+Somachord Fragments for For Narmer, Hybrid Abominations, and Sunkiller can be found in both post-New War landscapes. Each require only one scan and are in fixed spots.
+The Lotus is reborn!
+Narmer is all but decimated, its scattered adherents now rallying in the name of their lost martyr.
+The tenuous alliance against a common enemy has crumbled leaving the Origin system struggling to recover.
+Now the Tenno face new questions... the paradox of the Drifter's origins and the threads binding them to a nameless Void entity.
+**Notes:**
+The quick-time events to remove the Veils in Stolen Plates and She Gives, We Live and escape the Archon's grapple in The Wild Hunt can be changed between tap or hold inputs in Settings > Accessibility > "Repeated Button Presses".
+Veso's Shield Drone can negate status effects and prevent the Breacher MOA from receiving Electricity procs, which is not possible for normal Shield Ospreys.
+The Drifter's appearance can be customized in the Orbiter's Somatic Link room using a hologram placed on the side.
+The player may use their Warframe and Warframe weapons when fighting the final Archon making the fight considerably easier for higher-Mastery Rank players, but is restricted to only use Drifter and Nataruk when fighting the first two Archons.
+Decisions made on replaying the quest will not override those that were made on the first playthrough, including the final Lotus/Natah/Margulis choice.
+When entering either the Plains of Eidolon or the Orb Vallis in a party with a player who has not yet finished The New War, the open field map that will be used is that of the pre-New War.
+Replaying The Second Dream and The War Within after completing this quest will still use the holographic Lotus appearance.
+**Trivia:**
+After Narmer takes over, the Star Chart is altered to feature a reddish backdrop and nearly all planets have their mission nodes replaced by the Narmer symbol with one or multiple Murex stationed in orbit.
+Curiously, all non-Sentient space structures including Relays, Grineer Galleons, Grineer Asteroids, Corpus Ships, and Infested Ships are absent from the Narmer Star Chart.
+Saturn and Eris, despite having a Murex, do not have any Narmer nodes as ground strongholds were never established. Conversely, Kuva Fortress does not have a Murex in orbit due to the Fortress being mobile, but has Narmer nodes as ground strongholds.
+The Void is not taken over, due to being hazardous to Sentients.
+Deimos is not taken over. Daughter reveals during Veilbreaker that Mother ordered the Entrati family to safeguard the Heart of Deimos, repelling Narmer from the moon.
+If the player replays the quest after completing Angels of the Zariman, the Zariman Ten Zero will remain in the Star Chart, though not taken over.
+Originally, the Heart of Deimos update was planned for release after The New War, but was moved ahead of schedule due to the COVID-19 pandemic.
+Between the Drifter's Camp and The Aftermath parts of the quest, the login screen is changed to feature the player's Drifter standing outside of the Drifter's Camp with a Murex in the backdrop.
+Ordis' Sentinel body was first seen in the back of transmissions during The Sacrifice after he "upgrades" to Vitruvian Ordis.
+The New War makes several foreshadowing references to The Duviri Paradox trailer announced in TennoCon 2019:
+In the Zariman Ten Zero, the Duviri mask can be seen hinging from a tree in the courtyard, and the Kaithe Duviri horse can also be seen in paintings and statues in the classroom.
+The Drifter, before performing Transference for the first time, mentions that it "can't be harder than riding a horse."
+After Void jumping to the sun, as they approach Praghasa, The Drifter mentions they "shoulda stayed in Duviri."
+When idle, the Drifter can be occasionally heard whistling The Duviri Paradox trailer music.
+The Duviri Paradox is revealed to run parallel during the early parts of The New War, where the Drifter gets "stabbed" by Ballas as part of Eternalism and shortly afterward the Lotus's severed hand falls into the Drifter's possession. Certain events that Drifter experienced in Duviri allowed them to escape and eventually help the Origin system during the New War. While in Duviri, it is revealed that those same events were actually brought about by the Operator attempting to help the Drifter escape, despite being introduced to them in the New War. Thus, the question of "who helped who first" is a paradox.
+Some of the final gameplay differs from what was shown during TennoCon 2021 and in trailers:
+Erra now possesses a red swirling physical lens in his eyes and core in-game.
+Veso confronted a Bursa before his gameplay showcase ended during TennoCon 2021. That Bursa is entirely absent in-game.
+Presumably due to time constraints or showcase purposes, both Veso and Teshin's segments are smaller than the final release, most prominently shorter objective distances and earlier dialogues.
+Also in the demo, only a few Sentients during Teshin's segment were given elemental shielding, whereas in the final release every Sentient except Brachiolysts has such defense.
+Stalker possessed War in the Official Gameplay Trailer. In-game, he exclusively uses Hate.
+This potentially grants continuity to the events after the Second Dream, in which the War and armor granted by Hunhow to the Stalker was destroyed when it was split in half at the end of the quest, meaning Stalker had to revert back to his old equipment.
+200px|thumb|right|Natah transmission easter egg
+Prior to the quest's release, players may occasionally have Natah appear in Lotus transmissions as an easter egg.
+Before Vox Solaris was made a main requirement for the Mercury Junction, entering Fortuna for the very first time after completion of The New War will still use the Narmer map, also affecting the We All Lift Together cutscene.
+The New War quest marks the ending of overarching storylines regarding the Lotus, the origin of the Tenno and Warframes, Ballas, and the major threat from the Sentients. The story takes a major shift towards a new threat in the form of The Man in the Wall, the Operator's own origins and the mysterious entities of the then largely unknown realm of the Void, as emphasized in the Angels of the Zariman story.
+The release of the Veilbreaker quest signals that Narmer's threat is still far from over and remains a force to reckon with.
+Jade Shadows also reveals that Hunhow and Stalker are no longer actively threatening the Tenno.
+The Man in the Wall's distorted speech lacks subtitles, which led the community to theorize that it said "Oull Riss Xata Vome. Khra Lohk", referencing the Requiem Mods. This was later confirmed during TennoCon 2022's "Sounds of the System" panel by Erich Preston to be incorrect. The line was repeated during Whispers in the Walls, confirming the real transcription to be "VOULL NE XATA VOK, MARA LOHK?"
+The New War began numerous precedents for many future quests and updates:
+It was the first quest that:
+Introduced playable characters that were not Tenno.
+Required players to sign a written agreement stating they acknowledged the quest's length and had depictions of abuse and other potentially disturbing content.
+Typically after large updates, Digital Extremes introduces a smaller update that is themed around reinforcing the previous expansion, called an "Echoes Update". This trend started with Update 31.1 "Echoes of War".
+It is also currently the only known quest to feature "Acts" as segments.
+Coolant Raknoids that spawn during the Orb Vallis section will be hostile to the Narmer and lack Narmer embellishments.
+The solar flare beams aboard the Praghasa deal Tau damage, as shown by the blue glow status effect and "Sentient" debuff.
+The unnamed Sentient dropships that first appeared in the Tombs of the Sentient trailer from TennoLive 2015 make their first and currently sole in-game appearance during the quest.
+Soundtrack
+
+## Angels of the Zariman
+Quest Description
+Angels of the Zariman is a solo-only main Quest, released in Update 31.5. The Zariman Ten Zero has emerged from the Void, haunted by nightmares of the past, that the Tenno need to confront.
+Synopsis
+Due to the events of the New War, the Zariman Ten Zero is accessible from the material world. The appearance of the fabled ship draws the attention of the Worm Queen's Grineer and Parvos Granum's Corpus, while a strange song emanating from within attracts the attention of the Tenno and the Lotus.
+Once aboard, the Tenno finds that the Grineer had arrived first, loses the Lotus' signal, and meets The Holdfasts, the last remaining survivors of the Zariman's crew who were known to be dead. Led by Quinn, they exist in a form in-between life and death, defending the Zariman from that which would destroy it, including the Void itself. They inform the Tenno that the Zariman is suffering a Void Cascade that threatens reality itself, accelerated by the Void Angels such as Kira, who was a former member of the Holdfasts before succumbing to the Void's call. The Tenno is able to stop the Void Cascade with their powers, but the Angels proceed to break through the Albrecht Membrane and cause a Void Flood. After sealing the flood, the invading Grineer along with Kira begin a Void Armageddon and head to attack the Reliquary Drive powering the Zariman directly. Cavalero of the Holdfasts explains that while the Zariman was a colony ship and not provided weapons, the Reliquary Drive was too important to leave unguarded and so it was equipped with Auto-Fabricating Armaments. Using the Armaments, the Tenno is able to successfully defend the Reliquary Drive from the encroaching Grineer troops and destroy Kira, putting a stop to the song and the threat.
+Quinn suggests creating a memorial for everyone that was lost in Kira's favorite location, which the Tenno visits to honor them. The Tenno is encouraged by Quinn and the Holdfasts to continue helping defend the Zariman, and to use it as a new home and fortress against both the Void and the enemies of the Tenno.
+Walkthrough
+The player must have completed The New War. Upon attempting to start the quest, the player is warned they should enhance their Operator/Drifter, spend their Focus points if any are unused, and if equipped with a Mote Amp should consider switching to a stronger Amp such as Sirocco.
+The quest opens to show the Zariman Ten Zero coalescing, for the final time, from the Void, and begins to "sing", releasing a strange sonic transmission. On Lua, Natah and the Operator/Drifter converse, wherein the parental figure says if the Tenno are ever to reclaim the Zariman, it must be now, and that it is their rightful home.
+Find the Song's Source
+The Zariman appears as a new location on the Star Chart, above the Void. Kuva Grineer are already on scene attempting to occupy the Zariman. Communications with Natah are cut as she is drowned out by the song.
+As the Tenno near the Reliquary Drive, a surge forces them out of Transference. Approaching, they are attacked by a mysterious creature before being knocked out.
+The Tenno awaken and are greeted by The Holdfasts the last survivors of the Zariman, who have an ethereal, ghostlike existence due to them being "Conceptual Embodiments", the same interaction between consciousness and the Void that converts thoughts and memories into physical things. Their leader Quinn explains that the creature, Kira, is a Void Angel, a member of the Holdfasts that has succumbed to the song, another manifestation of the Void. They request assistance from the Tenno, as a Void Cascade is breaking down reality.
+Stop the Void Cascade
+The Tenno transfers back into their Warframe. A Holdfast named Hombask communicates with the Tenno and explains that they are hungry just like Kira, and that she has doubts about the resolve of the Holdfasts.
+Void Cascade consists of purging Exolizers of Void energy. The devices are contaminated by three rifts that can be destroyed with the Operator's Void damage or Void Sling, however going near one in this state will force Transference. After the rifts are closed, a Void Manifestation appears above the Exolizer that, once destroyed, spawns a Thrax Centurion, which Quinn recognizes as a facsimile of a Grineer soldier made by the Void. Damage the Thrax enough to force it into a spectral form that can be finished off with Void damage; if the player takes too long, they will repossess the Exolizer. While the Exolizer is freed from the Void Manifestation, standing within their range while killing enemy Grineer will cull the Void Cascade more efficiently. Four Exolizers must be cleansed to prevent Cascade and extract to the Chrysalith. Amidst the chaos, Quinn reminisces about the Zariman's past before the accident, and the Tenno joins in. At the end, Quinn's message is briefly cut off by static, as he grunts in pain - when he regains his composure, he reveals he was fighting off the song, which grows stronger as the Zariman gets more corrupted.
+Talk to Quinn
+Quinn says the Tenno are duty-bound to protect the Zariman, however they are still reluctant to be prisoned by their past. Their conversation is interrupted by warnings of a Void Flood.
+Stop the Void Flood
+Archimedean Yonta gives directions in this mission, and explains more about the nature of the Holdfasts and Conceptual Embodiment. Quinn discusses the nature of the Void Angels, and distinguishes the Holdfasts from them. Yonta says that the Angels are breaking through the Albrecht Membrane, having damaged the Vitoplast system she designed to seal Void Ruptures automatically, and gives the Tenno a drone to gather up stray Vitoplast in order to seal the ruptures manually.
+The goal of Void Flood is to collect Vitoplast from enemies and around the map and deposit them into Void Ruptures. A gauge will fill as the mission progresses, buffing enemies or debuffing Tenno at 40%, 70%, and 100% of the gauge; sealing a Void Rupture reduces the gauge by 30%. After the second rupture, Quinn reminisces about how the Zariman once stood for hope, reciting part of the Zariman Crew pledge that the player completes. Once all three Void Ruptures are sealed, a Thrax Centurion appears and must be dealt with before extracting.
+Void Flood Debrief
+Quinn says that the Grineer are damaging the Reliquary Drive, and that the Angels are flocking to it. Cavalero will show the Tenno how to use deployable defenses to assist with stopping the damagers. The Tenno is now eager to help after reminscing about their shared positive memories of the Zariman, which Quinn acknowledges. They promise to Quinn that they will take care of the Zariman after the Holdfasts are gone.
+Protect the Reliquary Drive
+In Void Armageddon, Cavalero explains that there are Auto-Fabricating Armaments designed to protect the Reliquary Drive's Eternal Relic which are built using Argozene. These Armaments will protect the Exodamper, which suppress enemy combat abilities until destroyed. While securing Argozene, Cavalero and Archimedean Yonta discuss the nature of the finger-relics.
+Collect Argozene from the Argozene Drop by standing near it for a few seconds, then proceed to the Armament to construct it:
+Mazuka: Corrosive. Minigun turret that focuses on one target at a time. Costs 40 Argozene.
+Faradon: Magnetic. Arc lightning turret that can strike multiple targets at once. Costs 50 Argozene.
+Corralizer: Cold. Trap turret that grabs enemies and pulls them in. Costs 60 Argozene.
+Giottica: Puncture. A laser targeted missile launcher. Costs 60 Argozene.
+The Armament lasts 2 minutes. Once one Armament is built, Grineer start pouring in and attack the Exodamper. Defeated enemies will drop additional Argozene.
+After two Exodampers are defended, Kira appears. The Void Angel's first health bar must be depleted, after which it will enter a recovery state indicated by a green gauge and release a Void bubble above its head. Jump into the bubble to enter the Void Angel's realm in Operator form and attack the Ethereal form, with its health bar indicated blue. Falling out of bounds or being defeated in the Void realm will eject the player. After taking some damage, the Ethereal releases two spheres that protect it from further damage, which can be removed with Void Sling.
+Once the Ethereal form is destroyed, the Angel's body can be killed, dropping a Voidplume Quill and a Zariman Arcane. As Kira perishes, Quinn says he is done for and tells the Tenno to remember the Zariman's crew before ceasing contact; Natah reestablishes connection but the disheartened Tenno feels defeat in saying they only found ghosts.
+Retrieve Quinn's tablet
+Quinn is revealed to have survived, the Holdfasts are now drawing from the radiance of the Tenno's Void powers instead of the Zariman's Reliquary Drive. He asks that the Tenno remember the good things about the Zariman and to create a memorial in the name of Kira and others who were lost, ending the quest.
+Conclusion
+Completion of Angels of the Zariman unlocks the following:
+The Zariman is now available as a mission system where Extractors may be deployed, with both Grineer and Corpus attempting to occupy it, containing 7 nodes (2 social, and 5 mission nodes playable in both normal (Lv 50-55) and The Steel Path (Lv 150-155) modes):
+Exterminate (Halako Perimeter)
+Mobile Defense (The Greenway)
+Void Cascade (Tuvul Commons)
+Has a chance to award Aeolak Barrel and Hespar Handle components.
+Void Flood (Everview Arc)
+Has a chance to award Aeolak Receiver and Stock components.
+Void Armageddon (Oro Works)
+Has a chance to award Hespar Blade component.
+Chrysalith
+Dormizone
+A personal space that can be visited and decorated. Also available through the elevator in the Chrysalith next to Hombask.
+The player now has access to The Holdfasts Syndicate in the Chrysalith:
+Quinn provides rankups and Bounties awarding blueprints for the Gyre Warframe and the weapons Aeolak and Hespar.
+Cavalero sells Incarnon weapons Phenmor, Laetum, Praedos, Felarx, and Innodem, and Arcane Enhancements. If the player has completed The Duviri Paradox and unlocked The Steel Path, Incarnon Genesis Adapters earned from The Circuit can be used with Cavalero's assistance.
+Hombask sells Dormizone Decorations, Voidshell skin materials, and Captura scenes.
+Archimedean Yonta exchanges Voidplumes for Standing Standing as well as selling Voidplumes and Decorations.
+After returning to the Orbiter, the player will receive an inbox message from Hombask containing Voidshell cosmetics for the Operator and Drifter.
+Inbox message
+**Notes:**
+The exchanges between the Tenno and the Holdfasts in the early part of the quest line will differ depending on whether the player chose to do the quest as either the Operator or as the Drifter.
+
+## The Duviri Paradox
+Quest Description
+The Duviri Paradox is a solo-only main Quest, released in Update 33. This quest follows the journey of the paradoxical Drifter in the kingdom of Duviri.
+Synopsis
+Trapped within the Void in an endless loop, the Drifter time and time again fails to escape Duviri as they are repeatedly sentenced to death by the time-resetting mad ruler Dominus Thrax, leaving them in a depressed and apathetic state, no longer remembering who they are. One day, following a strange sensation of being stabbed, a mysterious hand appears providing the Drifter with strange powers. The hand guides the Drifter to Teshin, an old wizened man, who explains that they have received aid from beyond the Void-made "walls" of their "prison" and gradually teaches them about the ways of the Tenno and the Warframes sent as aid through the paradox from a storybook titled Tales of Duviri.
+Drifter acquires a piece of a toy figurine, after being momentarily transported aboard an abandoned derelict, through a "paradox;" and are led to Teshin who explains that gaining more pieces from the paradox is the key to escaping their prison. The Drifter sets forth to collect the remaining pieces, experiencing days from the "Duviri Tales" brought to life in the world around them - each day molding the world after the emotion Thrax felt at the time. With each obtained piece, the Drifter experiences a memory about the emotion of that day. Teshin tells the Drifter that these memories may belong to Thrax himself, who may be a Tenno from the Zariman, the derelict spaceship in the background of Duviri. In Teshin's history, this ship was lost traversing the Void and was recovered after the ordeal granted the Tenno mysterious powers of the Void. But here, the ship seems to be stranded instead.
+Meanwhile, Dominus Thrax grows increasingly frustrated and eventually has Teshin tracked down and killed. Enraged, and finally feeling strong emotions again for the first time, the Drifter is able to possess an Orowyrm and raid Thrax's throne, claiming the final part of the figurine. Upon seeing that the figurine is one of Thrax, the Drifter realizes that they themselves were the Tenno that inadvertently created Duviri - a manifestation of their emotional trauma aboard the Zariman, based around the Tales of Duviri. The Drifter takes control for a brief moment to reset the world and resurrect Teshin, thereby giving back Thrax the throne.
+No longer bound to Duviri, the Drifter can choose to leave to the Origin System to repay their assistance. Teshin warns that if they do leave, they will not be who they are now, but who they were then.
+Walkthrough
+The Duviri Paradox is available after completing the Junction to Uranus on Saturn.
+The Spiral
+The Drifter, trapped in an eternal loop as they attempt to escape the colorless Duviri, is repeatedly brought forth by Dax soldiers to be executed before the king of Duviri, Dominus Thrax. Here, the player is prompted to customize the Drifter's appearance. One day on the execution, they are mysteriously stabbed by an ethereal sword, followed by a meteor descending from the sky which the Drifter dodges as it lands on the executors. In the crater is a hand that suddenly bonds itself to the Drifter.
+They pick up the weapon dropped by the executor, the Sirocco sidearm, before being besieged by Dax soldiers. The Drifter possesses the following abilities:
+Guiding Hand (default 2): Uses the hand's mysterious powers to guide the Drifter. 6s cooldown.
+Restorative (default 3): Heals the Drifter for 100 HP and clears all Status Effects. 15s cooldown.
+Smoke Screen (default 4): Deploys an invisibility field that lasts 7-seconds. 60s cooldown.
+If the Drifter dies, they are greeted by a vision of Dominus Thrax who demands they repeat the loop.
+The Drifter follows the hand's guidance and attempts to cross a bridge, which is destroyed by an Orowyrm before they can cross. Doubling back, they find a Kaithe, a horse-like steed, to leap over the gap. Traversing the planes, the Drifter comes across Bombastine and his theater. Bombastine directs them down a path that contains a table for two with snacks. As they interact with it, the Drifter is transported inside colorful ruins and comes face-to-face with a what appears to be a younger version of themselves that mirrors their actions. Guiding the mirrored version of the Drifter into the four purple zones creates a toy figurine, also awarding 20 Drifter Intrinsics.
+Taken back to Duviri, the Drifter finds their way to a giant hand with a portal on its palm. Inside they find a cave with the Warframes Excalibur, Mag, and Volt, an experience all too familiar, and speak to the old man Teshin. In his arms is a Rablit, reminding the Drifter that in a previous loop they named it:
+[Sun] Sol
+[Neutral] Terra
+[Moon] Lua
+Teshin urges the Drifter to break the eternal loop, offering his dual nikanas Sun & Moon. The acquired Drifter Intrinsics are to be used on the nearby discs to acquire the Summon Kaithe ability (default 1). Leaving the cave, the Dominus Thrax's anger manifests as the Drifter is ambushed by Dax. This next fight serves as a tutorial for the Drifter's melee (default E), target locking (default R), blocking (default RMB), heavy attacks (default MMB), parrying and projectile reflecting (blocking right before being hit), Power Strikes (heavy attack while blocking), rolling to evade unblockable attacks (default Shift), and firing to interrupt enemy special attacks (default LMB).
+The Drifter uses the Kaithe as a flying steed (default Ctrl + Space) to return to the mainland, but is killed by the Orowrym. They find themselves back in Teshin's cave, agreeing to try his method. He introduces them to the Warframes, brought to Duviri by the paradox and used by a warrior caste called the Tenno, which the mysterious hand will allow the Drifter to control.
+Excalibur, a melee-oriented Warframe with balanced mobility and offense.
+Mag, a caster Warframe with great crowd controlling abilities.
+Volt, a speedy Warframe that deals Electricity damage to his surroundings.
+They successfully control their chosen Warframe and arm themselves with a selection of secondary weapons (Akvasto, Pyrana, or Lex), melee weapons (Fragor or Kronen), and primary weapons (Boltor or Tigris). They are then brought into The Undercroft, where Dominus Thrax's influence is weaker, to Exterminate two waves of 20 and 40 Corrupted. The Drifter then finds the paradox: a book titled Tales of Duviri.
+The Prince of Fire
+Leaving The Undercroft, the Drifter appears in the Dormizone of the colorful ruins from earlier, before a doorway into Teshin's Cave. Teshin instructs the Drifter to look around, before gearing up. Here, the player can customize their Drifter or Kaithe's appearance, upgrade Drifter Intrinsics, or practice their combat on a training dummy. On Duviri, the wrath of Dominus Thrax manifests affecting the entire world.
+Beginning the fight against Dominus Thrax, the Drifter is guided by Lodun's wrath. As the Drifter completes these objectives, they earn Decrees that provide randomly selected buffs for their duration on Duviri.
+Defeat the Dax: The Drifter fights 6 Dax on patrol.
+Open Chest and defeat its Guardian: A Void entity called Hollow Thrax Centurion guards a treasure chest.
+Exterminate: The Warframe slaughters a specified number of enemies.
+After completing the objectives, they recover a part of the figurine and return to Teshin's cave. Assembling the figurine, the Drifter sees a flashback of a shadowy figure breaking the toy in anger, feeling enraged themselves for a moment when it ends and coming to an understanding of why people feel anger.
+Teshin explains that memory might belong to Dominus Thrax, who might be a Tenno from the looming spaceship in the background, the Zariman Ten Zero. He clarifies that in the history that he knows, it traversed the Void and returned with its passengers having been granted mysterious powers over the same Void that makes up the Walls of their prison. But in the current one, the ship seems to be stranded in Duviri, a difference of history in parallel - another paradox. Teshin instructs the Drifter to rest for the next day.
+The Harbinger of Joy
+In this cycle of Dominus Thrax's happy mood, the Drifter contends to Mathila's joy. The Drifter recovers another part and experiences the happy moments of the same shadowy figure, where they were dining and partying with other Tenno aboard the Zariman, coming to understand how happiness comes to oneself. Teshin catches them smiling for a moment upon returning.
+Conquer the Maze: The Drifter must shoot their firearm at a device while following the maze-like trail it leaves behind.
+Purge the darkened areas of Liminus: Three shadowy-like creatures called Liminus guard a treasure chest.
+Hacking: A hidden treasure chest in the area must be hacked to gain access. This version of hacking contains a multiple spirals of rings that spin in a circle and the player must click on the ring as they align with the cursor. The cursor locked to moving up and down, and the speed at which the rings move can be adjusted (default A or D).
+Survival: The Warframe endures endless waves of enemies for 5 minutes.
+The Dormizone at the far end of the cave becomes accessible again. The Drifter finds a tray of food and helps themselves before returning to the cave.
+The Covetous Courtier
+Featuring Dominus Thrax's envy, Bombastine leads the Drifter.
+Reconnect the Power Lines: The Drifter must shoot their firearm at a line of devices to power a windmill.
+Defeat the high ground Dax: The Drifter fights a small group of Dax positioned on a high structure.
+Defense: The Warframe defends an object from 3 waves of enemies.
+Upon their return, Teshin remarks oddly to a question of the Rablit's whereabouts, but the Drifter proceeds to adding the next piece to the figurine. After experiencing a memory of envy and coming to an understanding of the emotion, Drifter returns only to find themselves held at sword-point by Teshin, who goes on a tirade about how Duviri is the only place in the universe that's actually safe. Drifter once again puzzles him with a mention of the Rablit's name, and assumes command of their Warframe to fight back, but "Teshin" is revealed to be a Dax Gladius impostor controlled by Dominus Thrax, who throws them into the Undercroft.
+Shades of the Undercroft
+The Undercroft, now colorless and influenced by Dominus Thrax, assaults the Warframe with waves of Liminus, all while narrating a classic tale but with a betrayal themed twist on it. They are able to escape and beat the impostor; as the Drifter prepares to deal the finishing blow, the Rablit suddenly finishes it instead.
+The Execution
+The Drifter, unable to call their Kaithe due to Dominus Thrax's power, battles their way to Thrax's stronghold on foot. They manage to commandeer a Dax's Kaithe to go over the broken bridge but are suddenly knocked into the sky by the Orowyrm coming up from under. Hearing a voice from the hand, the Drifter uses its powers to cushion their fall. However, this scene may have more significance than it seems, as the bridge is shown to have somehow been restored.
+The Drifter arrives too late and finds Teshin fatally wounded. Requesting they care for his Rablit and pleased with the fact that Drifter can finally feel emotion again, Teshin passes. As the Orowyrm looms over, the Drifter uses their newfound anger and the hand's power to possess it.
+Using the Orowyrm to defeat Thrax's reinforcements of other Orowyrms, the Drifter closes in on Thrax's throne and recovers the final piece of the figurine, which is revealed to be of Dominius Thrax, and realizes that Duviri and its inhabitants were actually, manifested by the trauma felt by their younger self aboard the Zariman, based from the Tales of Duviri storybook featuring Thrax and his courtiers, all of which they had since long forgotten. They assume their position on Duviri's throne, walking around a Thrax who has been reduced to an exposed, crying child holding on dearly to the figurine.
+alt=Sun in the background with debris in front of the view|thumb|width=160x160|Sol
+alt=Pinkish-red sky, Sun shines in the horizon between trees and the ocean water flows|thumb|width=160x160|Terra
+alt=The Orokin Moon encompasses the screen in the background, with a lone grayish-green tree upfront|thumb|width=160x160|Lua
+The world is then reset by Drifter, resurrecting Teshin but returning the throne to Thrax. During the final dialogue, Teshin acknowledges the Drifter earned a way out of the spiral and asks "Do you see it? The other side?" to which the Drifter will reply "I see it.", with the imagery on the background changing depending on the player's choice for the name of the Rablit.
+Now freed from Duviri's chains, the Drifter is indebted to the assistance from beyond the Void.
+Conclusion
+The player will receive an inbox message from Acrithis, Duviri's archivist, containing the Sun & Moon blueprint and the stance Mountain's Edge to be used by Warframes in the Origin System, as well as the Tales Of Duviri Storybook decoration.
+Duviri can continue to be explored with three unique game modes, accessed from the Navigation console in the Warframe Path or the Dormizone:
+The Circuit is a Warframe-only venture through The Undercroft, fighting through various cycling game modes to earn Warframe components, mods, and resources. If the player has also unlocked The Steel Path, Incarnon Genesis Adapters can be earned as well.
+The Duviri Experience is a fully open world experience within Duviri. In addition to the Spiral's story, side objectives such as Fishing, Conservation, Shawzin, or Komi can be performed.
+The Lone Story is a streamlined version of Duviri to complete the Spiral's story as fast as possible, without any side content.
+Defeating the Orowyrm in The Duviri Experience and The Lone Story awards Pathos Clamp, which can be used to unlock the weapons Syam, Azothane, Edun, Argo & Vel, and Sampotes in Teshin's Cave for both Duviri and Origin System use, traded to Acrithis for a variety of Warframe and weapon enhancements, or if the player has completed Angels of the Zariman install Incarnon Genesis Adapters.
+Defeating the Kullervo Boss that appears during the Anger, Fear, or Sorrow Spirals in The Duviri Experience and The Lone Story awards Kullervo's Bane which can be traded to Acrithis for the Kullervo Warframe and the weapon Rauta.
+These modes do not retain the acquired Warframe or weapons picked up from the quest. Instead, Duviri is a roguelike experience with equipment being randomly generated at the start of every Spiral, including ones the player does not own in the Origin System. Three Warframes and one of primary, secondary, and melee weapon are generated; these available options can be increased with Drifter Intrinsics. All equipment come pre-Modded, and will carry over loadouts if any. Unowned equipment will only use the base variant, but the most powerful version of owned equipment will use their strongest variant (e.g. Prime, Vandal, etc.).
+Normal content within the Origin System, such as Nightwave, Affinity, Syndicate Standing, Affinity Booster, Resource Booster and Resource Drop Chance Booster, and Focus, can still be acquired within Duviri. Affinity Booster does not affect Drifter Intrinsics acquisition.
+Players who have completed The Duviri Paradox and The Lotus Eaters quests may start The Hex quest.
+**Trivia:**
+During TennoCon 2019, at the end of "Warframe: Empyrean - Gameplay Demo Reveal" part, before the Duviri Paradox trailer is shown, the Operator piloting the Railjack is seen hit by a Void surge and forced to end Transference, being pulled out of their Warframe, then the screen fades black. However, in the final build Railjack and Duviri gameplay are unrelated, with this scene being used to transition and showcase the Duviri trailer.
+It was first announced as the "Planes of Duviri", most likely as in "planes of existence".
+Before Duviri's release, the Orowyrm could be seen in the Void during the Railjack Mission Demo and can occasionally be seen when traveling to new mission locations, appearing off the port or starboard bow of the Railjack. It can occasionally be seen floating around void space inside some mirrors found in the Isolation Vault and the Circulus, as well as the Void tunnel in Tyana Pass.
+Possible meanings/terms Duviri derived from:
+In Sanskrit, द्वारी (dvArI) means 'door'. The Temporal Studies class seen in New War covers the concept of all possible timelines being true, and that there may be some way to reach them; in this case Duviri could be the means to do so, making it like a doorway between the timelines.
+In Sicilian, duviri could mean 'duty'.
+In Latin, "Duoviri" means "Two Men", which could reference the Drifter and the Operator, and the paradox of them existing together.
+In a Twitch stream, DE_Steve hinted that the Duviri Paradox' name comes from the Twin Paradox. (Which is a thought experiment about a paradox caused by time dilation in special relativity.)
+The New War makes several callbacks to The Duviri Paradox trailer:
+In the Zariman Ten Zero, the Duviri mask can be seen hanged to a tree in the courtyard, and the Duviri horse can also be seen in paintings and statues in the classroom.
+The Drifter, before performing Transference for the first time, mentions that it "can't be harder than riding a horse."
+The Drifter mentions they "shoulda stayed in Duviri."
+When idle, the Drifter can be occasionally heard whistling The Duviri Paradox trailer music.
+During the Angels of the Zariman quest, the Zariman emerges back into real space. In the skybox, Duviri can be seen in the Void tear behind the ship, trapped within the Albrecht Membrane.
+[DE]Pablo stated during the Tennocon 2022 developer Q&A panel that it is the only open world to not have mining, fishing, bounties, or conservation.
+This was later clarified by [DE]Megan in Devstream 168, as she stated that depending on the mode selected to play Duviri, side objectives (notably fishing, Komi, or the Paradox's version of conservation) may not spawn in.
+While the demo showcased in Tennocon 2022 has the same basic gameplay, the quest itself largely differs from its appearance in the final game:
+With the exception of the three Duviri citizens that cowered under the Orowyrm, almost all dialogue has been changed entirely, notably Dominus Thrax, Bombastine and Teshin's tone.
+The executioner in the demo was named Lequos while Lodun is the name of the prominent Orowyrm. The final game merges the two characters into one, with Lodun now being both the executioner and one of the Orowyrms.
+The part after exiting Teshin's Cave originally consisted of a boss fight against a Dax Gladius called Denphius. The final game has altered it into a tutorial for the Drifter's melee combat against multiple generic Dax.
+The ending scene of the demo had Dominus Thrax lamenting at the Drifter's constant attempts to leave before expressing interests to go "out". While in the final game Thrax does not address this at all, remnants of this setting seems to be referenced during Operation: Eight Claw as Thrax talks about reaching the Origin System through "sheer force of will" and "venturing beyond the wall"
+Rather than having the Scirocco. the Lotus Hand that the Drifter picked up instead serves as the secondary weapon in the demo. This weapon briefly ended up in the final game as a bug. The hand also simply rests above the Drifter's arm in the demo, while the final release has it replacing theirs forcefully.
+After approaching Bombastine in the demo, the Drifter obtains a mask after interacting with the Operator reflection and returns to Bombastine for a decree. In the final game, the Drifter was sent into the Zariman for the reflection part to retrieve a part of the Thrax figurine, while Bombastine gave them resources and a Decree without having to go back. The Kaithe summon is also moved from a Decree to an Intrinsic.
+Since the Angels of the Zariman update, the door right of the Vista Suite in the Dormizone has featured hints to The Duviri Paradox in Teshin's swords, monochromatic energy and a sample of Duviri music when the Drifter stands next to the door. The swords have since disappeared in Update 32.3. Said door was revealed to house an entryway to Duviri in Devstream 168.
+In the five days before Duviri's release, Warframe's social media channels profile icons and banners shifted between Dominus Thrax's five moods on each day, in order of Anger, Envy, Sorrow, Fear, and Joy.
+Prior to Update 33.6, The Duviri Paradox was originally intended to be an alternate start to WARFRAME under the "Paradox Path", with the main "Warframe Path" leading to Awakening and Vor's Prize. Due to confusion regarding the core Warframe gameplay, The Duviri Paradox was moved to after Vor's Prize as an optional quest. On Update 36.0.8 additional feedback moved the quest to the Saturn to Uranus Junction to reduce confusion along the New Player Experience progression. On Update 38, The Duviri Paradox returned to a main quest and is now a requirement for The Hex quest.
+The Paradox in question appears to be a Bootstrap Paradox, as the events that occur within the campaign are caused by the events in The New War - with neither being able to take place without the other in a self-sustaining loop.
+When the player first picks up the Sirocco pistol, they are directed to shoot a Dax enemy. However if the player manages to avoid the enemy and reaches the Orowyrm checkpoint, the enemy will automatically die.
+When replaying the quest, the player is locked into using the Sun & Moon for the initial combat tutorial sequence, regardless of which weapon was last equipped in Duviri.
+Once the combat tutorial is over, the players' regular choice of weapon will be restored. However, the plinths to unlock or switch weapons ar not present within Teshin's Cave during the quest.
+External Links
+
+## Whispers in the Walls
+Quest Description
+Whispers in the Walls is a solo-only main Quest, released in Update 35. With The Man in the Wall growing restless, the Tenno venture deep within Deimos's subterranean laboratories to uncover secrets left behind by renowned Orokin scientist Albrecht Entrati. The Quest was made replayable in Update 36.0 (2024-06-18).
+Synopsis
+Due to Ballas's attempts to open Void portals on an unprecedented scale during The New War, the Indifference grows increasingly restless. In response, Loid awakens "The Kalymos Sequence" precept and urges the Tenno to Deimos. Behind the Entrati family's back, Loid guides them to Albrecht's Laboratories hidden beneath the Necralisk, revealing that Albrecht Entrati has been engaged in an ongoing battle with the Indifference's forces: The Murmur.
+After awakening the Sleeper, the original human Loid, and meeting with the Cavia, Albrecht's animal experiments that speak only Voidtongue, the Tenno interact with Albrecht's incomplete Vessels project and discover that Albrecht Entrati fled to the year 1999 to escape the Indifference. Meanwhile, Loid becomes increasingly aggravated as the Murmur escalates their attacks.
+Tracking down Albrecht's messages, the Tenno are able to produce the Jahu Gargoyle that auto-translates the Cavia's Voidtongue, who reveal one final message from Albrecht that Loid threw away. The message reveals Albrecht's praise for Loid's devotion, displaying an emotion of love that Loid long since craved which pacifies the Indifference. With renewed determination, Loid makes preparations to send the Tenno to 1999 and find Albrecht.
+Walkthrough
+The player must have completed Heart of Deimos and The New War.
+An inbox message from Loid urges the Tenno to meet with him discreetly in the Necralisk.
+The Kalymos Sequence
+In the ensuing cutscene, The Man in the Wall's ominous voice can be heard. The view shifts to the Entrati underground complex, centered on a man. He interacts with a pager and a 1990s computer before climbing into a coffin along with his Kavat, whispering to his attendant. After the coffin closes, the attendant smashes it and the screen fades to black.
+In the Necralisk, the Tenno meet with Loid, who reveals to be impossibly dreaming about one repeated name: Kalymos. He explains that this dream is a precept dubbed "The Kalymos Sequence", requiring him to wake the Sleeper. Entering the Necraloid, the Cosmic Clock suddenly collapses on itself and descends into the Void as the walls open to reveal a staircase, leading down into the laboratory from the opening cutscene, containing a giant humanoid: an unfinished project called Vessels.
+The Murmur
+Exploring Albrecht's Laboratories, the Tenno fights off hostile Necramechs before hearing The Man in the Wall's ominous voice, which Loid claims Master Entrati dubbed Voidtongue. They then acquire a Grimoire and channel its mysterious Void powers as a secondary weapon. The Grimoire is fully automatic with Electricity damage and infinite ammunition with a gauge that fills over time or by killing enemies; a full gauge can be released with Alternate Fire to throw a slow traveling orb with a large damaging radius.
+Proceeding further, the Tenno encounter The Man in the Wall's Operator form, staring at a wall. The walls of the complex suddenly tear open and pull away, revealing a eldritch Void expanse. They then stumble upon hostile creatures called The Murmur, which appear to be geometric constructs with human limbs attached to them. After defeating The Fragmented Tide, the Tenno return to Entrati space as a train suddenly passes by them.
+Approaching the Sleeper's cryopod, the sound of a pager can be heard. Awakening the Sleeper, revealed to be the attendant from the opening cutscene, Loid reveals him to be the original Loid; the Necraloid Loid was created by Albrecht to accompany the real Loid following his passing. The original Loid leads the Tenno into a portal that warps them back to the main lab.
+Into the Void
+While the original Loid inspects the lab of Sanctum Anatomica, the construct Loid instructs the Tenno to meet with the Cavia: Master Entrati's incomplete animal experiments - Fibonacci, Bird 3, and Tagfer - who attempt to communicate vainly in Voidtongue. The original Loid informs the Tenno that the Vessel requires an Operator. By Hacking into the 1990s computer, by matching scrolling symbols while avoiding the red corruption dots, the Tenno appear to perform Transference into the Vessel. Loid notes something is wrong with the Transference stream as the scene suddenly shifts to 1999.
+????
+In 1999, a human man named Arthur, wearing armor that bears a striking resemblance to Excalibur with an AX-52 and longsword, fights off what appears to be Infested humanoids possessing 1990s computers in an abandoned subway. His partner Aoi instructs him to link up with a terminal and find Dr. Entrati. Upon interfacing with a computer, Aoi declares to be under attack as the sound of Mag's Crush can be heard. Arthur is then attacked by the creatures from earlier, and after holding them off for a minute, he passes out.
+Upon waking up, Arthur is confronted by the man and the Kavat from the opening cutscene, who grins ominously as The Man in the Wall's Voidtongue can be heard.
+Back to the Future
+Back in the present, the original Loid reveals that Albrecht Entrati traveled to 1999 to escape The Man in the Wall, but it was still able to follow him through time. The Murmur continue their attack on the laboratories. The construct Loid is ordered away to keep the Entrati family unaware of the current transpiring events.
+The Tenno is instructed to equip the Grimoire in their Arsenal, fully ranked and complete with a pre-installed Orokin Catalyst and weapon slot.
+Eyes and Ears
+This mission is effectively a two wave, five minute Mirror Defense where the Tenno must fend off an onslaught of The Murmur and rogue Necramechs while collecting Vosphene Glyphs to reinforce the defense objective.
+The Keyglyph
+Back in Sanctum Anatomica, Fibonacci vainly attempts to communicate as The Man in the Wall's Operator form mocks Loid. Loid learns that the Vessel contains a transmission from 1999 Albrecht Entrati that requires a Pom-2 Board to access. He instructs the Tenno to head to the Netracells, which requires a Keyglyph that Tagfer provides.
+The Netracell
+Loid warns that the Keyglyph required to access the Netracell places a burden on its bearer. The Tenno must find the Netracell's vault, whose search can be narrowed down by hacking three marked terminals within the area. Upon attempting to access the Netracell, the vault enters high security which must be brought down by eliminating hordes of enemy Murmur and Necramech, as well as Necramite drones that appear. After acquiring the Pom-2 Board from within the vault and listening to The Man in the Wall's rambling, the Tenno must reach extraction.
+POM-2 Repair
+Delivering the Pom-2 Board to Loid, he and the Tenno watch a series of recordings left behind by 1999 Albrect Entrati, explaining that he left the laboratory in an attempt to draw The Man in the Wall away from Loid. He leaves behind a blueprint and instructs the Tenno to complete the Kalymos Sequence, before urging them to find him when the time is right.
+Construct Albrecht's Blueprint
+The Tenno receives "Albrecht's Blueprint" which must be constructed in the Foundry. Completion of it grants the Jahu Gargoyle.
+A New Voice
+Loid warns that Albrecht may not be concerned for the Tenno's safety and asks them to throw away the Gargoyle if it proves to be a danger. Activating the item finally allows the Tenno to properly communicate with the Cavia and understand their Voidtongue. Fibonacci tells the Tenno that the Grimoire is missing a page which is necessary to finish the Kalymos Sequence.
+Lost and Found
+This mission is an Exterminate. After eliminating the necessary amount of enemies, the Tenno are able to retrieve the missing page and extract.
+Sanctum Under Siege
+The extraction warp is diverted by the Murmur, forcing the Tenno to return to the Sanctum on foot. Joined by Loid and his Zylok Prime, the Fragmented Tide have escalated their assault, eventually forming into The Fragmented Suzerain. Fibonacci urges the Tenno to retreat and connect the Grimoire to the Gargoyle, allowing the Tenno to damage the Murmur. The final page narrates Albrecht's praise for Loid's servitude as his right-hand man.
+After defeating The Fragmented One, the Operator is forced out of their Warframe and is attacked by a Void-controlled Vessel. As the Operator is seemingly crushed, they perform Transference to another Vessel, grasping the Void-controlled Vessel's cheek and pacifying it.
+Loid, witnessing this act of love he had long since craved from Albrecht, is determined to see things through to the end and makes preparations to send the Tenno to 1999. He tells the Tenno of Albrecht's last words before he left:
+[Sun]...that it was always watching.
+[Neutral]...that this was no way to remember me.
+[Moon]...that he wasn't worthy.
+Meanwhile, The Man in the Wall monologues to themselves about their handshake deal with the Tenno. They are abruptly joined by Albrecht Entrati, citing "WE END AS WE BEGAN".
+Conclusion
+The player receives two inbox messages: one from Loid awarding the blueprint for the Qorvex Warframe; the other from Fibonnaci a Melee Upgrade Segment to unlock Exilus slots for Melee weapons, Mentor's Legacy mod that enables Tennokai, and a Melee Arcane Adapter to equip Melee Arcane Enhancements. The player can also now purchase the Essential Tennokai Mod Bundle from the Market for additional Tennokai mods.
+Completion of Whispers in the Wall unlocks the following:
+Additional mission nodes on Deimos:
+Exterminate (Nex)
+Survival (Persto)
+Has a chance to award Mandonel components.
+Mirror Defense (Munio)
+Has a chance to award Mandonel components and Tome Mods that can be equipped on the Grimoire.
+Disruption (Armatus)
+Requires completion of The Deadlock Protocol.
+Has a chance to award blueprints for the Dante Warframe and the weapons Onos and Ruvox.
+Alchemy (Cambire)
+Has a chance to award Mandonel components and Tennokai mods.
+Assassination: The Fragmented (Effervo)
+Source of Melee Arcanes.
+The Cavia Syndicate is now available:
+Loid offers Voca and Arcane Enhancement Dissolution
+Fibonacci offers bounties awarding Qorvex's component blueprints and Mandonel's main blueprint.
+Bird 3 sells Captura scenes, Cavia Sigils, Eidolon Lens, Melee Arcane Adapter, Melee Arcanes, Necramech Mods, Qorvex component blueprints, Ekhein blueprint, and Orbiter decorations.
+Tagfer grant access to the Netracells weekly mission, awarding Archon Shards, Melee Crescendo and Melee Duplicate, and Melee Arcane Adapters.
+Players who reach Rank 5 - Illuminate with Cavia will have Necraloid arrive in Sanctum Anatomica for the Deep Archimedea weekly mission, with similar and more numerous rewards to Netracells.
+A vision of the past promised a bleak future, but the unexpected assistance of the Cavia offered a precious second chance. With a memory of love holding the Indifference at bay, Loid prepares to send you back... and perhaps this time, you will not be late.
+**Trivia:**
+In the leadup to TennoCon 2023, Nora Night received three unauthorized transmissions:
+The first caller, Latrox Une, described that the ecosystems of Deimos had changed, as if the Infested was afraid. He also described a knocking that repeated in a one-two-three rhythm.
+The second caller, a doctor named Fidelia "Delia" Scorse who treats a mining colony, received numerous patients with damaged fingernails. Upon investigating the mine, Delia discovered the miners were single-mindedly digging regardless of exhaustion or broken tools, all while grinning. This prompted Delia to blow up the mine, killing three miners in the process, piecing together with Latrox Une's call that the miners were attempting to dig to reach Deimos.
+The third caller, Loid (who wished to remain anonymous using the name "Bones"), reveals that his partner is missing and requests immediate assistance from someone capable of dealing with the unknown.
+Just the day before TennoCon 2023, Update 33.6.6 added audible knocking and whispering sounds in the Necraloid backroom.
+Additionally, knocking can now occasionally be heard in various areas of the Zariman's mission tileset.
+In the leadup to Whispers in the Walls update, the Operator Report was added to the WARFRAME website, detailing the Cavia's reports on monitoring the "awaited Operator".
+In a pivotal event during the quest's runtime, an Indifference-possessed "vessel" repeats text spoken to the Tenno during the ending of The New War by The Man in the Wall. During the final fight with the Fragmented Tide, subtitles reveal this to be as "VOULL NE XATA VOK, MARA LOHK?"
+During the 1999 section of the quest:
+The song used in the opening sequence is a licensed track called Into the Void from American industrial rock band Nine Inch Nails. It released on September 21, 1999 as part of the album The Fragile.
+If the player makes the first left turn into the other train car and continues backwards towards the ominous red light, they will find The Man in the Wall, disguised as their Operator, at the end of the tunnel. The Man in the Wall will laugh hauntingly and disappear.
+Concept art of Digital Extremes' previous title, Dark Sector, can be seen on the subway walls.
+A large TV screen features the names of video games developed by Digital Extremes: Solar Winds, Silverball, Pariah, and Warpath.
+At the end of the quest's reveal demo - before the title reveal - a countdown from 10 can be heard right before hearing "Happy New Year!". This was actually recorded a few hours prior by Digital Extremes, the crowd being the people who attended TennoCon 2023 in person.
+There are some design changes in some characters in this quest compared to The Hex quest:
+Here, Albrecht Entrati has gray eyes bordering on white in the 1999 cutscene with Arthur, while on the latter quest, his eyes look more like dark blue/gray. However, it is to be noted that his appearances in this quest (with the exception of the opening cinematic which doesn't show his face) are considered to be The Indifference wearing Albrecht Entrati's appearance.
+This applies to Arthur as well, as in this quest, he is missing several details that were later used on "The Hex", such as his military insignia underneath his Hex patch. This is also noticeable when comparing the 2024 Tennocon demo and even some of the teasers to the actual quest.
+After awakening the human Loid, the construct Loid is simply named as "Necraloid" for the remainder of the quest to prevent confusion with his human counterpart.
+If the quest is replayed after reaching Rank 5 - Illuminate with the Cavia and unlocking the ability to recolor them, any customized colors will be carried over into the quest.
+
+## 1999
+1999, named The Plague Year by Albrecht Entrati, is a year in WARFRAME's history, taking place in the distant past.
+Overview
+Taking place in the distant past, the year of 1999 was rediscovered by Orokin scientist Albrecht Entrati, who traveled back in time to use it as a shelter to escape from The Indifference and their thrall The Murmur.
+Lore & History
+Background
+The year of 1999 in WARFRAME is similar to the real world year of 1999, with computer technology becoming a more and more prominent aspect of everyday life yet remaining comparatively primitive - the KinePage boasted a 2 megabyte storage, while CDs and floppy disks were still actively used as a method to store data. Phones that resembled real-world Motorola brand phones were also widespread, with Entrati having used several during his time in 1999. Issues such as the Y2K problem were also prominent enough to be common knowledge.
+Most of history prior to 1999 lines up with real life, with time periods such as the Cold War remaining in place.
+On Earth, the most common religious denomination was Dualism, with Sol (the Sun) and Lua (the Moon) being considered deities of their own right. The exact details are unclear, but most people generally invoke the names of Sol or Lua similarly to how followers of Abrahamic religions invoke the name of God.
+According to Eleanor, humanity has yet to expand to the solar system like the Orokin did.
+1999 also possessed a variety of games, including the real-world first-person shooter game Half-Life, the fictional War Sector (most likely a reference to the real-world Dark Sector also developed by Digital Extremes), and "Fables and Frontiers" (a stand-in for tabletop game Dungeons & Dragons). There is also the collectible card game, JINYMON (most likely a stand-in for the real-world Pokémon, especially since the card game is apparently based off of a show).
+Techrot Outbreak
+Sometime prior to 1999, a Techrot outbreak occurred in Höllvania, and the national government replied by establishing martial law, allowing the Scaldra, a private military company with ties to the government, to seize total control of the city-state, banning any technology vulnerable to the Infestation, and exterminating any Techrot that went up to the surface with Efervon gas. Despite their efforts, most of Höllvania's underground has been choked out by the Infestation, with growths covering up entire subway stations. The Scaldra also seemed to be more concerned with retaining power rather than keeping the people safe, as there have been reports of civilians being targeted and Lieutenant Viktor Voydanoi admitting that he is using the Scaldra to purge "undesirable" traits from the city.
+However, shortly prior to the outbreak, Albrecht Entrati would arrive under the title of "Doktor Friday", offering healing and treatment to those that came to him. He would use samples of the present-day Helminth Strain to create Protoframes - humans who would partially transform into Warframes, but retain their personality and mind, for samples while he developed his Vessels. The Hex are all such subjects, having met Entrati one way or another and consequently becoming Protoframes.
+1999 Characters
+The Hex
+Arthur Nightingale, Protoframe of Excalibur
+Aoi Morohoshi, Protoframe of Mag
+Amir Beckett, Protoframe of Volt
+Eleanor Nightingale, Protoframe of Nyx
+Leticia Garcia, Protoframe of Trinity
+Quincy Isaacs, Protoframe of Cyte-09
+After reaching rank 4 with The Hex, the following Protoframes will appear. They are known as the "Round Table".
+Flare Varleon, Protoframe of Temple
+Minerva Hendricks, Protoframe of Saryn
+Velimir Volkov II, Protoframe of Frost
+Kaya Velasco, Protoframe of Nova
+Scaldra
+Major Neci Rusalka, commanding officer of Scaldra
+Lieutenant Viktor Vodyanoi, second-in-command of Scaldra
+Other
+On-lyne, superstar boyband
+Harddrive
+Zeke
+Drillbit
+Packet
+DJ RoM
+Gregory V, On-lyne's manager
+Interlopers
+Interlopers refer to characters that do not come from 1999, yet at one point had made an appearance there for their own reasons.
+The Drifter
+Albrecht Entrati, of the Entrati
+Kalymos, Albrecht's Kavat
+The Indifference, master of The Murmur
+Regions
+Höllvania
+A city-state implied to be located in the Warframe equivalent of Central or Eastern Europe, formerly within the sphere of influence of Rus, currently grappling with the Techrot outbreak and isolated from the rest of the world.
+Höllvania Central Mall: an abandoned commercial center, and the Hex's base of operations.
+Princess Lucina Zoological Gardens: A zoo.
+Britannia
+The Warframe equivalent of Great Britain, the birthplace of Arthur and Eleanor Nightingale. It is referred to as a principality and is ruled by a Prince.
+Ludston, home city of the Nightingales and Quincy, and the Warframe equivalent to London, capital of the United Kingdom.
+Mancunia, the Warframe equivalent to Manchester. Alongside Ludston, home to several top-security nuclear bunkers.
+Lothian City, likely the Warframe equivalent to Edinburgh, capital of Scotland.
+Jipangu
+The Warframe equivalent of Japan, where Aoi's family traces its origins.
+Canata
+The Warframe equivalent of Canada, home to the real-world studio Digital Extremes and Aoi's birthplace.
+United States of Libertatia (USL)
+The Warframe equivalent of the United States of America, home country of Amir Beckett, Velimir Volkov II and Minerva Hendricks.
+Furnace Flats, a region of Libertatia on its west coast. Known for its technology. Potentially the Warframe equivalent of California or Arizona.
+Amberstone, a small town on the edge of Furnace Flats. Amir's hometown.
+Xaymaca
+The Warframe equivalent of Jamaica, country of origin of Quincy's family prior to their move to Britannia.
+Aztlán
+The Warframe equivalent of México, country of origin of Lettie and her family.
+Tenochtitlán City, Lettie's birthplace and the Warframe equivalent of México City, México's capital.
+Chichén Itzá, a region of Aztlán, mentioned by Lettie. Most likely analogous to the real-world Mayan site of the same name.
+Yalchesko
+A region mentioned by Minerva.
+Uyrtichesko
+A region mentioned by Minerva.
+Afuru Atol
+A deserted island mentioned by Velimir.
+Kemet
+The Warframe equivalent of Egypt, mentioned by Minerva.
+Gaule
+The Warframe equivalent of France and homeland of Marie Leroux and Lyon Allard. They speak a language known as Gaullique.
+Cité de la Lumière, the Warframe equivalent of Paris, France's capital, mentioned by Minerva.
+Catacombs, likely the Catacombs of Paris. Temple and the Rippers were planning to play here on June 1st, as part of their tour.
+La Cathédrale, a Dualist cathedral in which Albrecht lived for 3 years, 2 months and 11 days under the cover identity of "Cardinal Dimanche". It existed in XX99, but its survival in 1999 remains uncertain. Its underground sections act as the base of operations of the Devil's Triad.
+Rus
+The Warframe equivalent of the Soviet Union/Russia. Country of origin of Velimir Volkov I, prior to defecting to the United States of Libertatia. According to his son Velimir II, it no longer existed by 1999. Viktor is also implied to be of Rus descent, given his mention of "[his] father's wars" potentially referring to his world's equivalent of World War II.
+Hibernia
+Likely the Warframe equivalent of Ireland, mentioned by Eleanor.
+Cemaria
+A region mentioned by Flare.
+Other
+Hamburg, a city-sate in real-world Germany and the only known city to share its real-world name.
+Studio Zen, a venue in Hamburg which Temple and the Rippers were planning to play at on December 16th, as part of their tour.
+North/South America, a real-world continent. Canata, the USL, and Aztlán are located on this continent.
+Amazon Rain Forest, a massive real-world forest in South America. In Warframe, it is home to the Wuk.
+Africa, a real-world continent. In Warframe, Kemet is located on this continent, as well as some species of Rhino.
+The Congo, likely the Democratic Republic of the Congo. In Warframe, it is home to the Ape Prelate.
+Asia, a real-world continent. In Warframe, East Asia is home to a distant relative of the Cervulite species.
+Sparrows Bar, a venue in an unknown city that Temple and the Rippers were planing to play at on November 11th, as part of their tour.
+Unknown region which is possibly the equivalent of Romania, since Minerva cusses Velimir in Romanian in one of their conversations.
+**Trivia:**
+The Mire's description references an event known as the Great Plague, predating the introduction of Update 38 by over a real-world decade. The Coda Mire instead refers to The Plague Year, seemingly clarifying that 1999 would come to be known as the Great Plague in the era of the modern Origin System.
+The names of several of the 1999 era countries are based on ancient names of those same areas.
+Britannia was the Roman name for the British Isles, and is still used today in some contexts.
+Aztlán was the fabled homeland of the Mexica (Aztec) people, while Tenochtitlán (now modern-day Mexico City) was the capital of their empire. Chichén Itzá was an ancient Mayan city in the Yucatán peninsula.
+Tenochtitlán is also the name used for the real-world Spanish Lettie occasionally speaks, per her KIM dialog.
+Canata/Kanata is the Iroquois word for "settlement", and Canada's name is derived from it.
+Xaymaca ("Land of Springs") was the Taíno name of Jamaica.
+Kemet ("Black Land") was the Ancient Egyptian name of Egypt.
+Jipangu was a transliteration of the Chinese name for Japan created by Marco Polo, once commonly used in Europe.
+Rus is named after the Kyivan Rus', an ancient Eastern European kingdom that was a precursor country to both Ukraine and Russia.
+Hibernia was the classical Latin name for Ireland.
+Gaul was the name for the Roman province from which France emerged.
+Hamburg's unchanged name may be due to the etymology of "(ham)burger", which originates from Hamburg.
+The antique technology featured in this age are modeled after real-world devices:
+Albrecht's KinePage is based on the Motorola Tango.
+The Pom-2 computer is based on the Apple II, with the logo on its front resembling a stylized pomegranate. Alternatively, "Pom" may also be derived from the French "pomme", meaning apple. However, its appearance more closely resembles an IBM personal computer. The operating system is inspired by Windows 3.1.
+The default wallpaper for the Pom-2 is based on the photograph Bliss, which was the default wallpaper for Windows XP (although the operating system was only available to the public in 2001, the photograph was taken in 1996). In addition, the pictured skybox resembles that of Duviri's Joy Spiral.
+The circuit board retrieved from the Netracell is based on the Pentium III Katmai microprocessor, first released in February 1999.
+The phone beside the Pom-2 computer is based on the Nokia 3310. Unlike the previous devices, the Nokia 3310 was only released in September 2000.
+Albrecht's Jahu Gargoyle Blueprint costs 19 credits to build and has a build time of 99 seconds, which when put together forms "1999".
+JINYMON appears to be a stand-in for collectible card games that were popular during that era (such as Pokémon or Yu-Gi-Oh!).
+Specifically, it seems to be a stand-in for Pokémon given its name and the fact that, according to Kaya, it has a videogame where the Jinymon battle for the player and travel the world (a core mechanic in the mainline Pokémon games) and has a TV show (which would line up with the Pokémon anime launching around that era.)
+Caliber Chicks 2 seems to be a reference to the real-life Metal Slug and Contra franchises, sharing similar mechanics with both.
+The only franchise to not have been modified or parodied when appearing in 1999 is Half-Life, though it is never mentioned by name. However, cutouts of Gordon Freeman in his HEV suit are placed in several locations around the Hollvania central mall, along with posters derived from Half-Life's boxart.
+These cutouts/posters only appear if the player is running WARFRAME through Steam, on other platforms, including running the game launcher directly, they are replaced with On-lyne-related material.
+The second wave of the Hex are known as the "Round Table", a clear reference to the legend of "King Arthur and the Knights of the Round Table."
+
+## The Lotus Eaters
+Quest Description
+The Lotus Eaters is a short solo-only main Quest, released in Update 36.1. The Lotus receives a call from The Man in the Wall and instructs only the Drifter to answer. The Quest serves as a prologue to The Hex.
+Synopsis
+At Sanctum Anatomica, the Lotus warns the Operator that she is influenced by The Indifference and requires their Drifter paradox to return to the past to find Albrecht Entrati before The Man in the Wall does. Meanwhile, Loid is preparing Albrecht's Vessel for the Drifter to travel through to find Albrecht in Höllvania in 1999.
+Walkthrough
+The player must have completed Whispers in the Walls.
+Investigate The Sound
+At Sanctum Anatomica, the Tenno approach the Void expanse behind the defeated The Man in the Wall's Vessel, encountering the Lotus singing and waiting at the edge with a KinePage in their hands. The Operator and Drifter then appear simultaneously as the Kinepage begins ringing and the Lotus warns the former that she is being affected by The Man in the Wall and instructs only the latter to answer the call.
+The Drifter is warped to an abandoned mall and encounter Albrecht Entrati's pet Kavat Kalymos, who leads them to another ringing pager. They are warped back to the present as the Lotus acknowledges they have created a link to the past and must find Albrecht before The Man in the Wall does, completing the quest.
+The player will receive an inbox message titled "The Visitor" from Loid, who is almost finished with preparations to send the Tenno to the city of Höllvania in 1999 with the help of Albrecht's Vessels, containing Arthur's KinePage Orbiter Decoration. The Visitor
+Tenno,
+None of us could hear the Device that was calling from the abyss of history. The Daughter of Hunhow heard it, and almost succumbed to its call. She raised her voice in song to drown it out, and that we did hear.
+I should have known she was waiting for you.
+You answered a call and in a way, found an answer. For me. The time is almost right to finish the Kalymos Sequence.
+I will soon be able to send you to the city-state of Höllvania, in the plague year of 1999 - a most perilous time. Without your equipment, you would surely perish.
+Luckily, the Vessels have a connection to Albrecht's "volunteers" that I believe I can exploit. You will not arrive unarmed, nor unarmored.
+We won't be late!
+Loid DOpenCin0170Loid_en.oggThe Lotus remains in her spot in the Sanctum Anatomica, monologuing to herself. The quest will be marked completed, its description changed to the following:
+The link to the past is forged, but time is running out. While Loid works tirelessly and the Lotus keeps her lonely vigil, step by step the Indifference draws closer to its coveted prey.
+**Notes:**
+Compared to the TennoCon 2024 relay no members of The Hex appear in the mall, and the stage playing PARTY OF YOUR LIFETIME instead displays the icon of the Lidless Eye with no other sound.
+**Trivia:**
+In Greek mythology, the lotus-eaters are a race of people on an island who enter a perpetual state of bliss and pleasure after consuming lotus plants, ignoring their previous lives.
+The Lotus's dilemma may be both a figurative and literal depiction of the call of the void, also known as the high place phenomenon, the urge to jump off a high place despite not displaying any suicidal thoughts beforehand.
+On its introduction, Arthur's KinePage originally displayed "NO NEW MESSAGES. SCANNING...".
+After Update 36.1.5, the KinePage displayed "WHO STOLE MY KINEPAGE".
+On 2024-09-09, the KinePage displayed "ELEANOR IF YOU STOLE THIS I SWEAR".
+On 2024-09-17, the KinePage displayed "I CANT KEEP BORROWING LETTIES FOREVER".
+On 2024-09-27, the KinePage displayed "AMIR WE TALKED ABOUT THIS".
+On 2024-11-15, the KinePage displayed "GR8 DEALS @ BIG BYTES".
+On 2024-11-21, the KinePage displayed "METRO INCIDENT - EXPECT DELAYS".
+On 2024-11-25, the KinePage displayed "CUSTOM DECALS @ ZEVILA".
+
+## Jade Light
+Crewman Synthesis imprint
+The Jade Light was a method of execution used by the Orokin. Often seen as "honorable", it was mainly used on defectors or apostates to grant them a quick and merciful end. The light basically functioned as a disintegration ray; after a mere flash, the accused is turned into nothing but mist, gore and hot dust.
+Lore & History
+Archimedean Executions
+Many Jade Light executions were directed towards Archimedeans, primarily for violating Orokin law, such as Margulis, an unnamed friend of Perintol, and Yonta, the latter using the Jade Light to commit suicide aboard the Zariman Ten Zero. One Archimedean named Javi was also sentenced to the Jade Light, however it was decided that he would be imprisoned instead due to a superstition that he would somehow survive.
+The Myrmidon
+Historian Porvis has scribed The Secret History of the Orokin Court - amongst one of the tales detailed in this work were about the Myrmidon, a Warframe hunter whose primary weapon of choice was a wrist-mounted version of the Jade Light.
+Jade's Promise
+As punishment for conceiving a child, a warrior named Jade was transformed into the Jade, gifted with the ability to harness the Jade Light. She would be kept on a hibernation pod, and occasionally pulled out to enact Jade Light executions on Lua.
+Granum's Desecration
+When Jade passed, she disintegrated into motes of Jade Light which have now permeated the Stalker's hideout. Sensing opportunity, Corpus Founder Parvos Granum sends his Corpus to collect the motes to further his Jade Eximus project, intent on using her power as a tool of his desire. However, Parvos's current Jade Eximus are unfinished, and he requires Jade's Volatile Motes to perfect them. The Tenno now fight to collect these motes first, consigning them to be burned in the Sun so Jade can fully rest.
+Despite his remaining hatred for the Tenno, the Stalker would provide them aid, and could be seen fighting alongside them.
+The Tenno are ultimately victorious, with Parvos now attempting to harvest Jade's lesser Vestigial Motes to complete his project. However, due to their lack of sheer power compared the Volatile Motes, his progress is virtually halted.
+Known Victims
+Archimedean Margulis - Sentenced by Ballas for protecting the Tenno.
+Archimedean Yonta - Committed suicide to escape the horrors of the Zariman Ten Zero, an "undeserved" honor. Survived due to Conceptual Embodiment.
+Archimedean Javi - Was sentenced due to his forbidden research into alchemy and transmutation. Sentence was overturned into cellular reversal, as his executors believed he would somehow survive the Jade Light.
+Ivara's two Warframe allies - Killed by the Myrmidon, a Warframe hunter whose victims were deemed unworthy of being remembered and thus erased from history.
+
+## Heart of Deimos
+In-game description
+Heart of Deimos is a solo-only main Quest, released in Update 29. Within the infested depths of Deimos lies the Heart, an artifact that the Entrati Orokin family seeks to maintain.
+Synopsis
+The Tenno are summoned to the surface of Deimos by servants Loid and Otak and meet the Entrati, an Orokin family that researches the Void but have now become partially infected by the Infested. Mother, leader of the Entrati, wishes to fix the Heart of Deimos, which powers all Void devices across the Origin System, including Warframes. However, the Entrati are a dysfunctional family, with Father refusing to lend his aid while Daughter and Son are at odds.
+Upon arriving at the Heart, a rogue Necramech, a combat platform that was used in The Old War, ambushes the Tenno and destroys it. This forces the Entrati family to put aside their differences and unite. With the Warframe losing functionality, they are brought aboard a loaner Necramech, repair the Heart, and destroy the rogue.
+Walkthrough
+After completing the Earth to Mars Junction, the player will receive an inbox message from Loid, a Cephalon servant to the Entrati, requesting the Tenno's assistance on Cambion Drift, Deimos. The quest can then be initiated in the Codex.
+Visit Cambion Drift
+As soon as the Tenno land on Cambion Drift, they are greeted by Loid, the sender of the distress signal, and Otak, another Cephalon that shares the same body with Loid. Loid explains that the Infestation's Grey Strain has overrun Deimos, threatening to compromise its very Heart. For the Tenno to enter the Necralisk and meet with Mother, they are required to prove themselves.
+The player is directed to destroy two nearby Infested Hives. Damaging a hive will spawn Infested, all of which must be exterminated before the hive can be destroyed. After destroying both hives, Loid allows the Tenno to enter the Necralisk.
+There, the Tenno meet the Entrati, an Orokin family that researched the Void, now all partly Infested. Mother allows the player to ask her three questions: "Orokin thug?", "Are you Infested?", and "The Heart?", which can be asked in any order but all three are required to advance. In the process, Mother explains that the Heart is her father's family legacy that "pumps the arteries" from the Void to power Orokin devices, including Warframes. The Infested managed to infect the Entrati family, with its hive mind threatening to stop the Heart's beating. The only one who knows how to fix the Heart is Father, who had left the family.
+Locate Father Within the Cambion Drift
+Returning to the Cambion Drift, the Tenno encounter a Necramech, an Entrati combat platform used during The Old War, which Loid believes to belong to Father. The Necramech is already in combat with the Infested, making one final stand before eventually bleeding out and dying.
+After the Necramech dies, the Tenno must search the area for Father. He applauds their combat readiness, but due to his estranged relationship with Mother he does not believe the Heart is breaking down and adamantly refuses to help. Loid suggests the Tenno head back to the Necralisk to speak with Daughter.
+Back at the Necralisk, Daughter agrees to help if they assist her in return.
+The Exocrine Expedition
+The player must have a Fishing Spear in their Gear loadout before proceeding. However, a fishing spear will be provided at the site if the player does not possess one.
+Daughter wants to rebuild her sample collection that her brother destroyed. Shortly after entering the Cambion Drift, the Tenno are introduced to Fass, the orange wyrm that appears in the background. His twin sister, the blue wyrm Vome, rises in the opposite end and fires a laser that destroys Fass, causing Fass Residue to litter the Cambion Drift. Daughter explains that Fass will eventually regenerate and exact revenge, repeating the cycle.
+The Tenno must collect at least 10 Fass Residue. The impact zone of Fass's remains creates some minor static distortions in the HUD. The Residue act like Fishing Bait; the fishes in the Cambion Drift swim out of the exocrine and float around in the air, however the player's own fishing spear cannot penetrate the viscous surfaces of the exocrine. The Tenno must fish for 3 specimen before returning to the Necralisk.
+A group of Infested lie in wait to ambush the Tenno outside the Necralisk; Loid refuses to open the doors until they are exterminated.
+Daughter explains she remembers a present for one of her birthdays, and asks the player to guess what they think the present was: "A fish?", "Something sweet?", or "I don't know..." Regardless of the guess, Daughter tells the Tenno that she received her collection back in a destroyed form from Son, and warns them to be wary of him when they venture to the Heart.
+Descent to the Heart
+Just outside of the Necralisk is an Esophage that will take the Tenno to the cave system that contains the Heart. Along the way, they meet Son, the disowned Entrati member who unleashed the Grey Strain into the Necralisk in an attempt to gain attention from his parents.
+The door guarding the Heart contains a Requiem Cipher, locked by four Requiem symbols on its panel. The player is only given a brief moment to memorize the pattern before interacting with the nearby Reactive Crystals, in the order of the symbols from top to bottom, but can retry as many times as needed until the door opens. As the Tenno approaches the Heart, it releases a pulse that abruptly disables the player's Warframe. A rogue Necramech emerges from the Void door and opens fire on them before destroying the Heart.
+Without the Heart, the Warframe has lost most of its power and remains barely functional: the HUD is covered in static, their shields are depleted and their health severely reduced, all of their weapons are disabled, and they are no longer able to use their abilities, as well as slide and bullet jump. The player must return to the surface while carefully avoiding the patrolling Necramechs, although they will immediately respawn if killed making it impossible to fail. Once they return to the surface, they must take the Esophage back to the Necralisk.
+The Entrati family realizes they need to unite to restore the Heart. Father has something to prepare for the Tenno's descent: a Voidrig Necramech, dubbed Snake.
+Through, and Beyond
+Father proceeds to guide the Tenno through their first Necramech control, but Mother insists they don't have time and they'll just have to learn as they go.
+The Voidrig Necramech has 1,000 shields and 3,000 health.
+The Mausolon is a fully automatic Archgun with 300 rounds, and recharges when not in use. It possesses an Alternate Fire that can be used after 5 primary fire kills, charging a destructive explosive laser.
+The Necramech's melee is a slow arm swipe that does moderate damage and knocks back enemies.
+The Necramech uses a charge as its slide, and can hover during an aim glide. Both actions, along with sprinting, use the Engine Gauge, which slowly replenishes when not in use.
+The Necramech has three abilities that gradually unlock as the player progresses the mission.
+The first ability, Necraweb, deploys a canister that can be thrown with Alternate Fire, creating a large explosion when shot out of the air.
+The second ability, Storm Shroud, provides an electrical damage buffer that grants a brief invulnerability period and converts any taken damage to increase the damage buffer's health similar to Iron Skin, and reflects damage to enemies striking it.
+The third ability, Gravemines, launches a cluster of mines around the Necramech that explode.
+The player will respawn if they die, making it impossible to fail the mission.
+Waves of Infested will attempt to impede the Tenno's progress as they reach the Heart, including three Infested Hives. After destroying all hives, the five panels on the ground will light up and float when stood on, and the Necramech will auto-equip an Omni to patch the fires surrounding the Heart.
+With the Heart patched, Mother successfully restarts the Heart, but the enemy Necramech reemerges from the opened Void. The enemy Necramech is only vulnerable to its shoulder joints, its skull-like face plating, and the blue Void scar on its back, with the former blasting off its arms and removing its ability to use guns and melee. After the enemy Necramech is defeated, the Tenno's Necramech will exhaust itself and collapse. With the job completed, they are sent back to their Warframe and are cleared to return to the Necralisk.
+Epilogue
+Back in the Necralisk, the Tenno meet Grandmother, who notes that the Entrati, despite its dysfunctional family members, will come together in a crisis. The dialogue prompt "Wait... did you?" and Grandmother's sarcastic rebuff heavily implies that Grandmother caused the events surrounding the Heart's destruction to unite the family. She awards the Tenno the blueprint for the Xaku Warframe, a "family of themselves", and the Deimos Necralisk Captura Scene.
+The Entrati syndicate is now available:
+Mother offers Bounties for Xaku's component blueprints and the weapon Quassus.
+Father sells Kitgun components for modular primary and secondary weapons, the weapon blueprint and parts for Keratinos, Zymos, Sepulcrum, Trumna, and Cedo, and the blueprints for the Lavos Warframe.
+Daughter handles fishing.
+Son handles wildlife conservation.
+Otak handles mining.
+Grandmother handles Standing transaction and sells unique Captura Scenes and Orbiter Decorations.
+The player will also receive an inbox message containing blueprints for the Voidrig, Voidrig Casing, Voidrig Engine, Voidrig Capsule, and Voidrig Weapon Pod.
+Mirror Defense on Tyana Pass, Mars is available, which can be played to earn blueprints for the Citrine Warframe and the weapons Corufell and Steflos.
+**Notes:**
+Players who already have a fully built Xaku prior to completion of this quest will additionally receive a Riven Mod.
+**Tips:**
+After destroying the two tumor nodes in the beginning of the quest, the entire open world is available to grab free resources by breaking containers as enemies rarely spawn in this instance. This can give new players a small (and rng dependent) start on the various resources dropped in this zone.
+**Trivia:**
+Father's Necramech named Snake, along with Father shouting "Snake? SNAAAAAAKE!!!!" when the player dies in the Necramech is a reference to the Metal Gear Solid series. In this franchise, the protagonist is named Snake, and the mission control characters shout similar lines when Snake dies.
+The enemy Necramech is depicted in the cutscenes as wielding a Cortege, which is depicted as firing Mausolon-like full-auto rounds. When fought, it is instead wielding a Mausolon. At one point, it also casts Minelayer - except that each mine is instead a homing missile that seeks the Heart.
+When meeting the first time with Mother, she tells a dream she had, saying: "--The Wall of Lohk was before us, I had my proofs, my father's. I could hear him... I could hear him tapping... tapping at the Untime door--" This is likely a reference to a line from Edgar Allan Poe's poem The Raven: "[...] While I nodded, nearly napping, suddenly there came a tapping, As of some one gently rapping, rapping at my chamber door.[...]"
+Despite this quest now being set before The Archwing quest in Update 35, the player Tenno can still be seen equipping the Archwing during the beginning scene where they first land on Deimos, even though timeline wise they wouldn't be able to obtain it until the latter quest.
+Prior to becoming a main quest in Update 35, players who have not completed The Second Dream before entering the Necraloid backroom adds unique dialogue where Loid mentions that it's "too soon" for the Tenno to pilot a Necramech.
+If this quest is replayed after completing The Second Dream, this line of dialogue is removed.
+Any new names the Entrati Family has will be retained upon replay if their syndicate is beyond Rank 0 - Neutral beforehand.
+none|thumb|Heart of Deimos (captura scene)
+
+## Vox Solaris (Quest)
+Quest Description
+Vox Solaris is a solo-only main Quest, released in Update 24. The Tenno aids the people of Fortuna to reignite the Solaris United rebellion against Corpus plutocrat Nef Anyo.
+Walkthrough
+Vox Solaris is available after completing The Teacher. To reach Fortuna, players must complete the Junction leading to Venus.
+Talk to Thursby in Fortuna
+Floor boss Eudico explains that the Solaris work for a living and if the Tenno want to help, they should buy from Thursby, who is threatened with a repo order. Thursby had taken on his parents' debt and if he fails to make ends meet Nef Anyo will claim repossession and take away mechanical body parts and even his organic arms and legs.
+Thursby is a merchant desperately trying to meet his quota from selling useless scrap, so he asks the Tenno to steal better goods from the Corpus in Orb Vallis. When asked about Eudico, he explains that she once led the people of Fortuna under the name "Vox Solaris", the voice of Solaris United, until an incident caused her to step down.
+In Orb Vallis, Thursby points the Tenno to a Corpus supply drop. There, they must loot three caches within the marked area, which appear as barrel-like containers that can be identified by the smoke rising out of them.
+Impressed with the Tenno's work, Thursby suggests they could assault Nef Anyo by blowing up his coolant tower before he can present it to his board. However, Eudico cuts off his transmission, warning that he was speaking through an unsecured channel that had been tapped by the Corpus. The Tenno must pursue and shoot down a Corpus spy drone, then kill 20 enemy reinforcements all while defending the drone as Eudico hacks and erases the recording of Thursby.
+Once complete, Eudico ponders on having the Tenno for the resistance, but she stops herself and warns them not to help Thursby again. They must now head back to Fortuna.
+Talk to Thursby in Fortuna
+Thursby, now with the proper supplies to start a shop, gives the Tenno his thanks, and refers them to The Business. The Business explains that he wishes to preserve the unique species in Orb Vallis before they are driven to extinction and tells the Tenno to head topside if they wish to help.
+The Business wants to send a message to the Corpus by delivering a K-bomb to their repo squad, who have made a hit list of indebted Solaris. Eudico immediately intervenes and orders them not to use the K-bomb and instead stealthily take the list, prompting The Business to argue against Eudico's methods. The Tenno must head into a bunker and hack a terminal to take the hit list and must avoid the cameras and drones otherwise the Corpus will attempt to delete their data. The hit list reveals that the repo squad is after The Business's field squad, who are overdue for a check-in.
+The Tenno arrives too late to find that the Corpus have already reached the field squad, but the whole team isn't present. They must investigate the four deceased bodies in the area, learning that the rest of the squad has been captured and are awaiting "processing."
+At the site where the field squad are being held, the Tenno must hack a terminal and defend the area until the hacking is complete. Killing the Terra Jailers reinforcements drops a data key that speeds up the hacking process.
+Once the hostages are rescued, Nef Anyo contacts the Tenno informing them that Thursby's stunt had not gone unnoticed, and has him repossessed. The lift will also be disabled during this time.
+Talk to Eudico in Fortuna
+Eudico laments at Thursby's repossession, mentioning that the medics are unsure if they can stabilize him due to "so much missing." She blames the Tenno before deciding to attempt an appeal to Nef Anyo and instructs them to head back to Orb Vallis.
+Nef Anyo is pushing to activate an Orokin coolant tower, but due to its unfinished state it will release a heat cascade that threatens the Vallis. To counteract this, the Tenno must defend a single excavator as they drill for Amarast. However, The Business warns Eudico that her attempts to appeal to Nef Anyo are in vain, and Fortuna needs the rebellious Eudico.
+Eudico urges the Tenno to hurry and deliver the Amarast to the coolant tower. However, Nef Anyo broadcasts to the Solaris that his investor showcase is coming soon and decides to perform a test run. By the time the Tenno arrive, they are too late and the tower malfunctions, and are told to return to Fortuna. Nef Anyo demands the Solaris' floor boss turn in fifty workers for repossession.
+Talk to Eudico in Fortuna
+Eudico explains that since Nef Anyo crushed the resistance, she had been focused on attempting to appease him, now realizing that her efforts are in vain. She tells the Tenno that they can leave if they wish, but are the only obstacle between Solaris and oblivion from Nef Anyo's men. The Tenno resolve to stay and fight, and receive a "present" to be delivered.
+The Business assumes Eudico is attempting to buy off Nef Anyo, before realizing his K-bomb is missing. At topside, Nef Anyo's troops have amassed right outside of Fortuna. The Tenno must detonate the K-bomb before fighting off waves of Corpus.
+Eudico, returning to her "Vox Solaris" identity, announces the return of Solaris United and that the Tenno is their messenger, demanding a halt on repossessions. Nef Anyo disbelieves Vox's return as a nothing but a ghost and sends in a Profit-Taker Orb, a gargantuan spider machine. As the Tenno currently has no means to combat the Orb, Eudico orders a retreat, claiming Nef Anyo won't destroy Fortuna with it.
+The Business apologizes to Eudico, but instead she thanks him for not giving up on her.
+Talk to Eudico in Fortuna
+Eudico explains to the Tenno that Nef Anyo placed the Profit-Taker Orb to prevent Solaris from interfering with his investor showcase, and tells them that she arranged something for them back on Orb Vallis.
+Just outside of Fortuna is a K-Drive. The Tenno must head toward the coolant tower, slipping past the Profit-Taker Orb, and hack into the control terminal to repossess the tower, then defend it from Corpus as Eudico attempts to overheat the tower. Vox threatens Nef Anyo, right in front of his investors, with the destruction of the coolant tower if he does not comply with their demands. Nef Anyo tries to pass it off as security detail and attempts to call their bluff, but Vox counters that they'd rather go down with his fortune than continue living in poverty. When the overheat nears completion, Nef Anyo finally relents and Vox reminds him that the Solaris are the people who make the Vallis work.
+Eudico instructs the Tenno to deliver the Amarast, remedying the heat cascade, before they return to Fortuna. Meanwhile, Nef Anyo attempts to appease his angry investors, to no avail.
+Epilogue
+On returning to Fortuna, the player will receive the K-Drive Launcher, and an inbox message stating Smokefinger found a main blueprint for the Garuda Warframe.
+The Solaris United and Ventkids syndicates are now available:
+Eudico manages rankups and offers Bounties for Garuda's component blueprints
+The Business handles fishing and wildlife conservation.
+Rude Zuud manages Kitgun parts and construction for modular primary and secondary weapons.
+Smokefinger handles mining.
+Ticker trades in resources from Orb Vallis and Star Chart for Debt-Bonds which can be traded back to her for Standing.
+Thursby is revealed to have survived and gained mechanical legs, earning him the new name Legs, managing MOA parts and construction.
+Ventkids Boon manages rankups, sells K-Drive parts and mods, and manages K-Drive construction.
+The Vox Solaris syndicate will also be available if the player has also completed The War Within.
+**Trivia:**
+The description of the Solaris United Syndicate changes after the quest is completed to reflect the resurgence of the Solaris United movement. Prior to the quest's completion, the text is a more general description of the Solaris people and their state of debt-slavery:
+"Indentured workers to the Corpus; the indispensable backbone of the Corpus business model on Venus. Manning factories, rail tractors and mines they work to pay off the artificial bodies (rigs) they bought in order to work."
+
+## Saya's Vigil
+Quest Description
+Saya's Vigil is a solo-only side Quest, released in Update Plains of Eidolon. The Tenno are tasked with helping the chief elders of the Ostron people uncover the mystery of a long-lost Eidolon researcher.
+Walkthrough
+Saya's Vigil is available after completing Vor's Prize. Upon talking to Konzu, he will ask the player to prove themselves by completing a single-stage Bounty in the Plains of Eidolon. Returning to Konzu will begin the quest.
+A Personal Favor: Cetus, Earth
+Konzu converses with the Tenno about Saya, a woman who lives on the outskirts of Cetus. Konzu then shows a sketch showing him, Saya, and a man named Onkko, Saya's husband, and he tells of how Onkko disappeared five years ago leaving a distraught Saya. Now, Konzu is hearing whispers from The Quills about the Grineer finding leads on Onkko's whereabouts, and Konzu fears that Saya may do something rash. He asks the Tenno to talk to Saya for him, since he has not spoken to her in a long time.
+A white objective marker will appear on the map, showing Saya's location within Cetus. Players can talk to Saya, who will express her desire to go out and search for her husband, along with her annoyance at Konzu, who was apparently involved with Onkko's disappearance. Saya will ask the Tenno if they want to help, and players can either accept or reject her: accepting her will immediately load the Tenno out onto the Plains to begin the quest. As an option, players can also talk to Saya with the prompt "Hasn't it been five years?" where she expresses her disdain at the Quills' self-centered nature.
+Find Onkko: Plains of Eidolon, Earth
+Players must go to the waypoint marked on the Plains, located to the west just outside of Cetus walls. There, they will encounter a Grineer drilling operation where they are apparently looking at Onkko's research. Councilor Vay Hek then contacts the Tenno, irritated at their involvement with the Ostrons, and the Lotus mentions how only Hek would lead outmatched Grineer to their deaths against an Eidolon, with Vay Hek gloating that he will gladly send more to their deaths for a chance at killing the Lotus. Then the Grineer will start dropping in reinforcements to the dig site. Players must eliminate all enemies that arrive within the dig site, whose area is denoted by a red circle on the minimap.
+Once the area is clear, the Lotus will detect strange readings from a nearby cave in the area, which is currently covered up by a Grineer drilling machine. Konzu remembers that the cave was where he and Onkko often took shelter in the past before a rockslide sealed it, and wonders if Onkko is inside, raising Saya's hopes up. Players must destroy the drill's augers, which will be indicated by a white gleam on its surface, by attacking it with any weapon in order to access the cave.
+thumbnail|250px|An Ostron Coffer
+Inside, players will find an Ostron Coffer, a white locked box, at the end of the cave. Players can pick up the coffer by interacting with it (default X), at which point Saya wonders if the coffer is Onkko's to her dismay, while ignoring Konzu's attempt to comfort her as she mentions how he was there when Onkko disappeared. The Lotus is unable to figure out the lock on the coffer, and asks players to return to the Orbiter to examine it. An extraction waypoint will be provided to the player out on the Plains, marked by a green radius on the minimap, to allow players to exit the Plains and go back to their ship directly without returning to Cetus.
+Back in the Orbiter, Lotus asks the player to examine the coffer using the Codex, which automatically brings up a close-up view of the box. The Lotus, seeing the box's lock is damaged, suggests forcing it open. Saya, however, explains that the box is protected by a Shatter-lock, which uses a glass key that was broken, and that forcing it open would only destroy the contents inside. She suggests rebuilding the glass key instead, and the Lotus will send the player 25 Codex Scanners in their inventory for use in locating the Shatter-lock's shards out on the Plains.
+To equip the Codex Scanners, players must go to their Arsenal, and bring up the Gear menu before putting the Codex Scanner in one of the 12 Gear slots available. Players will be unable to progress to the next mission if the Codex Scanners are not equipped.
+Locate the Shatter-Lock pieces: Plains of Eidolon, Earth
+Location: Plains of Eidolon, Earth
+Enemy Level: 5 - 8
+Note: this phase of the quest will always put players at the Plains of Eidolon in daytime, regardless of the Plain's actual time of day.
+thumbnail|200px|A broken shard
+Returning to the Plains, players must find a small Grineer camp marked by a waypoint. En route, Konzu offers his assistance in finding Onkko only to be rebuffed by Saya, who believes in Konzu's involvement due to her rejecting his declaration of love in the form of an iron flower, an accusation that Konzu denies.
+Once players arrive at the Grineer camp, their task is to find the broken shards of the Shatter-lock key located within the yellow radius marked on the map. To do so, players can equip their Codex Scanner by bringing up the Gear menu (default Q) which will put them into a scoped first-person view. As the Shatter-lock key is a viable target for the Codex Scanner, it will flash orange within the Codex Scanner's sight, which can be seen even through obstacles. Once located, players must then scan the Shatter-lock shard by aiming the Codex Scanner at it and holding down the Fire key (default LMB). There are three shards on the Grineer camp, and players must find all three to complete the objective.
+At this point, Vay Hek will transmit his intention to retrieve the glass shards, as he believes it to be the key to unlocking a power that can defeat the Sentient. Multiple enemy reinforcements will then arrive in the camp, and the player must kill all Grineer within the camp. In particular, a Tusk Bolkor assault transport will fly in to provide close-air support for the Grineer, and players must destroy it in order for the Lotus to extract them. Once it is destroyed, an extraction waypoint will be provided nearby.
+The Lotus will ask what power Vay Hek was referring to, and Konzu explains that Onkko found the remains of "Unum's Champion", a woman of Glass, and studied it. The knowledge was kept secret by the Quills until the Grineer captured one of them, leading to their current pursuit. Figuring out the possibility of Onkko having been captured by the Grineer, Saya wonders if Vay Hek might trade the Onkko in return for the relic, before berating herself for thinking about treacherous thoughts.
+Tracking an off-world shipment of supplies to a Grineer ship in orbit, the Lotus surmises that Hek would bring any shards he's found there and asks the Tenno to infiltrate it.
+Board Hek's Galleon: Pacific, Earth
+Tileset: Grineer Galleon, Earth
+Enemy Level: 4 - 5
+Arriving at the Grineer ship, the Lotus finds her scans are being blocked, making her unable to scan for shards. Saya mentions how she and Onkko discovered that the shards respond to a unique harmonic, and laments that they can't subject the ship to a wideband harmonic. The Lotus, however, claims that she can do so, and subjects the vessel to a broad frequency sweep, visible as blue pulses of light passing through the ship. With the fragments located, Konzu discusses how Saya and Onkko's work was beneficial for Cetus, and Saya explains that it came at the cost of their personal relationship due to their dedication to Cetus.
+The objective in this mission is to find a vault holding the shard marked by a waypoint. Along the way, players will enter a shuttle bay room, at which point the Grineer will launch an ambush led by a Nox, which players must defeat to proceed. The Nox is a highly dangerous enemy, firing toxic sludges that can slow down the player, and takes significantly less damage anywhere on its body except for its head. Once players reach the designated vault, they must hack the marked console and scan the fragment in the vault, allowing them to go to extraction to finish the mission.
+Saya points to Vay Hek digging in the Central Plains, where Onkko once found some artifacts, and surmises that the last piece of the lock is there. This makes Konzu and Saya reminisce over a past memory involving Onkko, causing Saya to realize where they should look for the last piece. Saya suggests waiting until nightfall, as there won't be any Grineer patrolling the plains then.
+Saya's Vigil: Plains of Eidolon, Earth
+Location: Plains of Eidolon, Earth
+Enemy Level: 5 - 8
+Note: this phase of the quest will always put players at the Plains of Eidolon in nighttime, regardless of the Plain's actual time of day.
+Back on the Plains, a waypoint has been provided which players must reach to find the last Shatter-lock shard. Arriving at the site near a small lake, players will find an entire battalion of Grineer in combat against a lone Eidolon Teralyst, a gigantic Sentient construct roaming the Plains. The Lotus advises the Tenno to seek cover, as they are currently no match for the Sentient. Players must get past the ensuing battle and into a cave near the lake, where players can find a large Orokin object inside.
+To find the last shard, players must find a small rock shaped in a perfect circle on top of a mound, and then remove it by interacting with it, revealing the shard underneath. Once players have scanned the Shard with their Codex Scanner, they can use an alternate cave opening that leads away from the battle outside, then proceed to a designated extraction waypoint.
+Conclusion
+On the Orbiter, the Tenno complete the Shatter-lock and open the coffer, only to find an iron flower inside, the one Konzu gave her in the past. Saya, after five years of distraught, finally accepted that her love is gone for good, and eventually began to follow her heart to her other love: Konzu. Saya can now be seen standing next to Konzu whenever the player visits Cetus.
+An inbox message from the Lotus will be sent, with a transmission telling them how she used a harmonics sweep to examine the Shatter-lock key and found data for Gara, the Glass Warrior.
+Players can continue to work alongside the Ostron and participate in activities involving the Plains of Eidolon:
+Konzu manages rankups and offers Bounties for Gara components.
+Fisher Hai-Luk handles fishing.
+Master Teasonai handles wildlife conservation.
+Old Man Suumbaat handles mining.
+Hok manages Zaw parts and construction to create a modular melee weapon.
+Nakak sells a few cosmetics and decorations.
+If the player has also completed Once Awake, the Shrine Defense mission becomes unlocked which awards blueprints for the Koumei Warframe and the weapons Higasa and Amanata.
+**Notes:**
+Players who already own Gara by buying her from the Market before completing the quest will receive a veiled Riven Mod in addition to the blueprint.
+While players need to equip Codex Scanners to progress through the quest, the Shatter-lock key shards can also be located and scanned using Synthesis Scanners.
+**Tips:**
+Bringing Helios modded with Investigator greatly simplifies searching for glass shards, as Helios will automatically scan them if the player is within range.
+
+## The Deadlock Protocol
+In-game description
+The Deadlock Protocol is a solo-only side Quest, released in Update 28. Nef Anyo seeks to gain control of the Corpus by claiming to have found an heir to their Founder, Parvos Granum.
+Synopsis
+The Corpus Board of Directors is indecisive. To prove that he is the rightful heir, Nef Anyo has been trying to find genetic proof of his ancestral ties with the Corpus founder Parvos Granum by finding his remains, which would allow him to gain control over the Board. Finding traces of Parvos's personal bodyguard Protea, his search leads to the Granum Void where he has been sacrificing Solaris United workers in order to see inside this interdimensional realm.
+The Tenno follows one of these Solaris workers and discovers that Parvos has been alive since the Orokin Era, saved by Protea who traded her life to encase Parvos in the timeless Void. Turns out Parvos lured the Tenno into the Void in order for Protea to scan their Warframes and become functional again, as a Specter.
+Nef decides to ally with the Tenno to stop Parvos and his Protea Specter from escaping the Granum Void, giving them ciphers to access Corpus files on Parvos. After hacking into Corpus databases in order to build the Xoris, Parvos's invention linked to Specter technology, the Tenno reenter the Granum Void, freeing the Solaris captives and defeating the Protea Specter.
+However, Parvos successfully escaped into reality, laying out plans to restructure the Corpus faction or start a new philosophy under the pretense of "an impending threat from Tau", offering the Tenno a spot on his bargaining table.
+Walkthrough
+This quest can be accessed directly from the Codex, after completing the Saturn Junction and being Mastery Rank 4.
+A short cinematic will play, where Nef Anyo has begun to restructure the Corpus fleet by invoking the "Deadlock Protocol": a contingency initiative in case the Corpus Board of Directors should ever be caught in a permanent voting impasse; having unsuccessfully voted seven times so far with seven directors for and seven opposed, again and again each time. The Tenno then receives a broadcast from Vox who announces that the power structure within the Corpus is failing and that it is Solaris United's time to rise.
+Decrypt Nef Anyo's Deadlock memorandum (Interception, Venus)
+Eudico contacts the Tenno informing them that the Deadlock Protocol is costing Solaris lives; Nef Anyo has claimed to have found an heir to the Corpus Founder, Parvos Granum, who can potentially unite the Corpus Board of Directors and bring about disaster to Solaris United.
+This mission is a three-round Interception with only two towers. Eudico uses these towers to decrypt Nef Anyo's memorandum, where he explains his birth history within the Corpus before boldly claiming that he himself is the genetic heir to the Founder, and he only needs to prove this.
+Visit Eudico in Fortuna
+Eudico calls the Tenno to meet within the backroom of Fortuna. The Business introduces Protea, a Warframe personally assigned to Granum by the Orokin themselves. Granum was assassinated, presumably by a Board member, when the Void drive of his personal transport was sabotaged, and Nef Anyo is searching for remains of Protea who was supposedly with Granum during his death.
+Learn the fate of missing Solaris ("Volunteers", Venus)
+On landing, The Business directs the Tenno to locate a Protean Sensor, which is a giant hand in gold, a tribute to the late Granum who was missing his left hand. They are interrupted by a Void-temporal shift and an announcement of Nef Anyo bringing in "volunteers". In order to understand the situation, The Business directs the Tenno to take control of a nearby Corpus Systems and then defend it.
+The Tenno are then directed to another Protean Sensor. Upon arrival, they see a Solaris worker being vaporized by the hand, much to Eudico's shock. After defending the next Corpus Systems, the Tenno receives a live feed from the vaporized Solaris, who has been transported to the Void, much to Nef Anyo's delight.
+Return to Fortuna
+Back in the backroom, The Business reveals how to operate the Granum Tributes, using an item called a Granum Crown located somewhere on the Corpus ships.
+Beat Nef to Granum Void (Tributes, Phobos)
+While searching for the Granum Crown, Nef Anyo declares he is ready to send a Treasurer to make a tribute himself. The Tenno must intercept the Treasurer and loot the Granum Crown they drop, then make their way to a Granum Tribute.
+Upon offering the tribute, the Tenno are transported to the Granum Void, discovering a very much alive Parvos Granum who has been preserved thanks to Protea's time-manipulating abilities, but has become but a Specter of herself. As the Tenno fight off Errant Specters, Granum does not deny that Nef Anyo is his son, but disowns him and rejects his twisted and selfish methods within the Corpus; Granum reveals that he had simply been using Nef Anyo to summon the Tenno. Protea had become reinvigorated with her kin, before promptly ejecting them from the Void with a Temporal Anchor. A time dilation brings the Tenno back onto the ship as if they had never entered the Void; a confused Business tells the Tenno to extract as the Errant Specters begin to appear.
+Acquire parts to build the Xoris (The Xoris, Europa)
+On the Orbiter, the Tenno receive an inbox message from an enraged and betrayed Nef Anyo, who is willing to call truce with Solaris United due to the threat of the Protea Specter: if the Tenno are able to defeat it, they in return will be able to rescue the Solaris trapped in the Void. To that end, he supplies the Tenno with a blueprint for the Xoris Glaive.
+This mission is a Spy. All three vaults need to be hacked to obtain the Xoris Handle, Core, and Blade. The vaults reveal that Parvos Granum was developing the Specter Particle Theory, and used it to wipe out a Warframe strike force during the old Orokin Era. The Business declares that Granum's high intelligence could be seen as a threat to Solaris United.
+Use your Xoris to free Solaris captives in Granum Void (Parvos Granum, Neptune)
+With the parts in hand, the Tenno must build the Xoris in the Foundry. While crafting, The Business discovers that Granum may soon be capable of leaving his Void domain.
+Returning to the Corpus fleet, Nef Anyo, declares the Tenno are too late as the Errant Specters have overrun his fleet. Unwilling to let his ships be captured, he breaks his deal with Solaris United and engages the self-destruct sequence on his ships. The Tenno is able to retrieve the Treasurer's Granum Crown and enter the Granum Void just before the ship explodes.
+To save the three Solaris workers trapped within the Granum Void, the player must "charge" the Xoris by killing the Specter Particles with its melee attacks. After accumulating three charges, they must detonate the Xoris mid-flight via the Alternate Fire button near the Solaris worker.
+After freeing the Solaris workers, the Protea Specter leaves her pedestal to do battle, armed with her signature Velox sidearm and a Gunsen. After depleting her health, she will activate Temporal Anchor to regain all her health; the player must stop this using the Xoris's discharge. The process must be repeated three more times to defeat the Protea Specter.
+Upon defeating Protea, the Tenno are ejected from the Granum Void and are warped back in time, to the beginning of the mission, just before Nef Anyo decides to activate the ship's self-destruct. The Tenno extract from a confused Nef Anyo and his specter-less ship.
+Upon returning to the Orbiter, Vox broadcasts for the Solaris to celebrate their united front with the Tenno. The player is rewarded a blueprint for the Protea Warframe. Meanwhile, Parvos Granum delivers an inbox message to the Tenno informing them of his intentions to restructure the Corpus to counter the impending threat from Tau, otherwise, he will abandon his children to create a new doctrine, inviting them and Solaris United a seat at his new table, also awarding them the Granum Void Captura Scene.
+**Notes:**
+Players who already have a fully built Protea prior to completion of this quest will additionally receive a Riven Mod.
+The Solaris Captive 2, the nervous/twitchy one, is voiced by voice actor Oliver Koppert.
+The voting requirements to invoke the Deadlock Protocol - "Seven for, seven against. Cast and recast, seven times." - possibly references a jackpot, which is a top prize within lotteries typically consisting a huge amount of money and is usually identified as 777 in slot machines.
+
+## Call of the Tempestarii
+In-game description
+Call of the Tempestarii is a solo-only side Quest, released in Update 30. Corpus captain Vala Glarios attempts to seek out the Tempestarii, a vessel which was lost to the Void during the Old War.
+Synopsis
+Cephalon Cy discovers Corpus convoys exploring Void anomalies in Veil Proxima and decides to bring the Tenno along to investigate. Upon arrival, the Tenno gets intercepted by Vala Glarios and her fleet, followed by the ghost ship the Tempestarii, helmed by Sevagoth's Shadow. Escaping the ambush, the Tenno infiltrates a Corpus ship and hacks into their data vaults to discover the mysterious origins of the ghost ship. With this information, Cephalon Cy releases a distress signal to summon the Tempestarii and establishes communication with the ship. Vala returns to destroy the Tempestarii, but Sevagoth's Shadow fends off the invaders. The Tenno successfully sends Vala's capital ship into the Void and returns the Shadow to its body. In the end scene, Parvos Granum is seen with Vala in the Granum Void.
+Walkthrough
+This quest can be accessed directly from the Codex, after owning a Railjack and completing the The Deadlock Protocol and being Mastery Rank 4.
+The player will receive an inbox message from Cephalon Cy, informing the Tenno that the Corpus are mobilizing towards Void Storms and they should investigate in their Railjack.
+Intercept Corpus shipping convoy (Arc Silver Lvl 15-18, Veil Proxima)
+thumb|right|x200px|The Tempestarii
+The Tenno travel to the Veil Proxima to scavenge resources from wrecked ships. During the Void jump, a ghostly Void Railjack passes by the cockpit, which Cy initially dismisses as a visual sensor glitch. After gathering from one spot, several Vorac Basilisks and Gox Scavengers will appear and must be fended off.
+After the third scavenge, a Corpus Ship comes into view and its captain, Vala Glarios, introduces herself as a servant under Parvos Granum. Shortly after, the same Void Railjack emerges from the Void Storm, which Vala recognizes. As the Void Railjack is hostile to both Tenno and Corpus and invulnerable to fire, Cy has the Tenno's Railjack evacuate and activates a Void jump, suggesting they find what Vala knows about the Void Railjack.
+Infiltrate Corpus archives (Seven Sirens Lvl 17-20, Pluto Proxima)
+Automatically transitioning into the Pluto Proxima, the Tenno infiltrates the Corpus Ship in a Spy mission where all three vaults must be hacked. Cy learns the Void Railjack was an Old War rescue ship called the Tempestarii, but disappeared into a Void Storm during a mission. A Somachord fragment can be found above one of the spy vaults.
+After regrouping at a Dry Dock, Cy believes that the Tempestarii is searching for its final rescue mission and suggests delivering it a distress signal.
+Signal the Tempestarii (Obol Crossing Lvl 21-24, Pluto Proxima)
+Deep within a Pluto Proxima Void Storm, Cy launches a distress signal to summon the Tempestarii. The Void Railjack turns hostile after Cy responds to it incorrectly, prompting the Tenno to hold out until he can reestablish communications. After Cy successfully appeases the Tempestarii, the Tenno must then board it. A Somachord fragment can be found in the Tempestarii's forge area.
+The Tenno meets the Tempestarii's captain, Sevagoth's Shadow, who gives them the corrupted navigation data of their final rescue mission. The Tenno starts repairing the data via Parazon but Vala appears. She thanks the Tenno for subduing the Tempestarii before knocking them out.
+The player now controls Sevagoth's Exalted Shadow in a void space against waves of Corpus enemies, and will instantly revive on death. During this, they learn that Vala was the sole survivor of a Tempestarii attack, dreaming that the fragments of her dead crew were singing, thus seeking revenge against the Void Railjack. After the song ends the Tenno awakens, protected by Sevagoth from Corpus boarders, as the Tempestarii is seized by a beam generator.
+The Tenno must board the Corpus vessel to destroy the beam generator. After hacking a console, they must fend off Jamming Drones (Taro Secura Ospreys) and an Optio. Once all are defeated and the hacking is complete, they must interface with a final console to destroy the station.
+The Tenno must then return to the Tempestarii and repel Corpus fighters until it readies an Ordnance. The countermeasures tears apart Vala's ship. Vala charges her sisters with the duty of avenging her.
+Cy directs the Tenno to finish the Tempestarii's final mission, triggering a jump into the Void to retrieve a lifepod. This lifepod contains the corpse of Sevagoth, who created his Shadow to continue piloting the Tempestarii and search for his body. Now reunited, Sevagoth is given a ship burial as his body is launched back into the Void. Meanwhile, Vala emerges in the Granum Void as Parvos Granum appears before her, extending his golden hand.
+The player will receive Sevagoth's blueprint. They will also receive an inbox message from Cephalon Cy containing the Tempestarii Railjack Skin, Sevagoth's Prex and Sevagoth Statuette Orbiter Decorations, and The Cold Below Captura scene. Additionally, if the player has completed The War Within, they will begin to encounter Candidates upon qualifying for minimum rewards in the Granum Void, who can be mercied to generate their own Sisters of Parvos.
+**Notes:**
+Players who already have a fully built Sevagoth prior to completion of this quest will additionally receive a Riven Mod.
+Upon completion of "Intercept Corpus shipping convoy", a Void jump will automatically transition directly into "Infiltrate Corpus archives" without docking. Should the player fail or abort the second mission, it will appear in the World State Window.
+Somachord Fragments can be found in the second and third missions, with predetermined positions. The fragments must be scanned in mission order; if players miss a fragment, they are required to replay the quest, as subsequent fragments will simply not appear. Sleeping In The Cold Below only requires two scans.
+Infiltrate Corpus archives: Random location in the Corpus Ship tileset.
+Signal the Tempestarii: The player's Railjack's or Tempestarii's forge area.
+**Trivia:**
+Call of the Tempestarii is the first quest that involves Empyrean missions.
+Tempestarii (singular Tempestarius) were medieval weather-making magicians who allegedly possessed the power to raise or prevent storms at will, alluding to the titular Railjack being bound to Void Storms.
+c6mhkhPQ0Ts
+
+## Waverider
+Waverider may refer to the following terms:
+The Waverider, a quest centered around the Ventkids and Yareli.
+Waverider #1, the first issue in an in-universe comic about Yareli.
+Yareli Prime Theme "Waverider", the song featured in Yareli Prime's trailer.
+
+## The Jordas Precept
+Quest description
+The Jordas Precept is a side Quest, released in Update 17.5 (2015-10-01). A Cephalon in distress turns to the Tenno for help in eradicating an Infested that has beset them.
+Walkthrough
+The quest is automatically acquired after the player completes the Pluto-Eris Junction, which will prompt the following message to be sent to their inbox:
+Cephalon Jordas
+The quest must then be initiated by finding "The Jordas Precept" under Quests in the Codex, and clicking Begin.
+Contact the Stranded Cephalon
+The quest begins with Cephalon Jordas, the sender of the distress signal, asking for help in eradicating the Infestation that has beset him. Ordis, compelled by his protocol to assist his fellow Cephalon, offers the aid of the Tenno to assist Jordas. Jordas, however, appears to be unable to make up his mind whether he wants the Tenno to rescue him or not. He laments the chances of the Tenno's success, though he mentions that they may have a chance if they can acquire Pherliac Pods. Though unaware of what a Pherliac Pod is, Ordis nonetheless asks the Tenno to acquire them. Jordas also mentions that the fossilized parts of a fallen Warframe could be found at his location, though Ordis claims that the Tenno do not work for rewards.
+Harvest Pherliac Pod Parts from Juggernauts
+In order to create Pherliac Pods, players must hunt down Infested Juggernauts that can be found throughout any Infested-occupied space, and harvest the parts and blueprint necessary to build them. This part of the quest is not tied down to any one node and can be accomplished in any node the player desires, so long as they can find Juggernauts and defeat them for the Pherliac Pod components.
+The Juggernaut makes its presence known with a roar and flickering lights similar to Assassins. The player has a limited time to kill as many Infested enemies as possible to spawn the Juggernaut, indicated by a second roar.
+It attacks using charges, stomps that produce a tar-like substance, and gaseous and spine-like projectiles. The Juggernaut also takes significantly less damage on its outer shell, with weak points limited to the glowing stomach on its underside and the open maw on its back, which are only vulnerable while it is attacking.
+Craft Pherliac Pods in Foundry
+The Pherliac Pods Blueprint as well as Pulsating Tubercles, Infected Palpators, Chitinous Husk andSevered Bile Sac. are found by killing Juggernauts. Once the player has collected all the necessary parts, they must then craft the Pods in the Foundry.
+If the player already has Pherliac Pods prior to the quest, they will immediately be skipped to the next part of the quest.
+Test the Pherliac Pods on Infested: Isos, Eris
+This mission requires that the player equip their newly completed Pherliac Pod in their Gear.
+After acquiring a Pherliac Pod, Jordas and Ordis task the player with testing the effectiveness of the Pods against Infested on an Exterminate mission in Isos, Eris.
+Upon deploying a Pherliac Pod, Jordas informs the player that they require a more potent Pod stating that the Golem requires more, and tells them that he has sent them a blueprint for an irradiated Pod.
+Craft Potent Pherliac Pods in Foundry
+After completing the Isos mission, Jordas will send an inbox message that contains the blueprint to construct a Potent Pherliac Pod, which will need to be built. If the Potent Pherliac Pod cannot be found in the foundry, be sure to check your inbox to receive Jordas' message as well as the blueprint.
+Once built, Ordis extols the player's greatness, while Jordas appears eager to have the Tenno come to him.
+Assassinate the Golem: Eris
+Before embarking on this mission, players must ensure that they are capable of using an Archwing.
+The Tenno must now find the Golem in order to defeat them, which can be located in its own node on Eris. As the Tenno go deeper into the Infested Ship, Jordas, questioning the player about their Pherliac Pods, begins to accuse the Tenno of being greedy scavengers only there for the Warframe parts, at which point Ordis begins to question Jordas' actions with foreboding, asking the Tenno what he has gotten them into.
+Upon reaching a massive room with a large Infested mass in the middle, the Tenno will fight a Juggernaut Behemoth, with Ordis realizing that Jordas' strange and conflicting actions were him luring them into a trap. The Behemoth fights the same way a normal Juggernaut does, but is even more resilient. Once the Juggernaut Behemoth is defeated, Ordis detects a much larger Infested lifeform as the spacecraft they are in begins to break apart.
+Transitioning into an Archwing Free Space environment, the player then encounters the gigantic Jordas Golem, which they must defeat in order to clear the mission. The Golem attacks using beams, seeking projectiles, and a large expanding sphere that can stun. It constantly flies around the area, occasionally stopping to attack, and its weakpoint is exclusively limited to the engines on its back.
+During the battle, Jordas warns that there are more Golems out in the Origin System. Upon defeating the Golem, Jordas, free from Infested influence, thanks the player as his final words.
+After Ordis muses upon his feelings on the entire ordeal, the quest will finish by rewarding the player with the blueprint for the Atlas Warframe, and the unlocking of the Jordas Golem Assassination mission on Eris.
+**Notes:**
+The player is not required to ever use the Potent Pherliac Pods or have any remaining before fighting Jordas. They only need to craft them to progress the quest.
+**Tips:**
+The Pherliac Pods' components can be reliably farmed from Demolisher Juggernauts in the Infested Disruption node: Ur, Uranus; and Deimos Juggernauts in Cambion Drift, Deimos. Unlike the normal Juggernaut, these variants can spawn multiple times in a single mission.
+After the Jordas Golem cutscene a player can get stuck in transition skybox and unable to move, the current solution is to leave squad or mission extraction.
+If the player does not kill the Jordas Golem quickly, the Golem may begin to drift out of the playable area.
+
+## Patient Zero
+Quest description
+Patient Zero is a side Quest, released in Update 15.5. The Tenno must find and locate Mutalist Alad V's lab near Eris to stop his plans of dominating the Origin System.
+Synopsis
+Coinciding with the events in Operation: Mutalist Incursions, Alad V, now turned Mutalist, continues to thrive and populate his Mutalist creations throughout the Origin System. The Tenno attempts to triangulate Alad's location by sabotaging Infested ships. Eventually, they reach Alad's lab and destroy it, after which he unveils his newest creation: a Mesa Warframe controlled by the Infested. Putting Mesa out of her misery, the Tenno obtains information on Alad's true location. They eventually assassinate Mutalist Alad V on an Infested Corpus ship, drifting in orbit around Eris.
+Remarkably, Alad V survived, but the Tenno crippled his ability to deal further damage with his experiments on the Infestation.
+Walkthrough
+In order to unlock this quest, the player must complete the Pluto to Eris Junction. Upon completion, the player will be awarded with the Patient Zero Quest, which can be started from the Codex.
+The Lotus
+Mutalist Empire: Naeglar, Eris
+The Tenno receives an inbox message from Alad V himself, heavily infected by the Infestation, announcing the now-evolved Infested species.
+Alad V
+Upon hearing the news, the Lotus immediately sends the Tenno to a Corpus Ship on Naeglar, Eris to extract data that would reveal what the Corpus know about Alad V who had been searching for him for months due to his devastating attacks on their ships, playing out as a Spy mission. Once the second datamass has been collected, Alad V contacts the Tenno about appreciating his "gift" to them, signaling the arrival of Infested units on board the ship that will fight both Tenno and Corpus alike.
+The data collected from the Corpus reveals that Alad V has gotten hold of another Warframe, with plans to infect it.
+Triangulation I: Brugia, Eris
+In order to triangulate Alad V's location, the Lotus sends the Tenno to sabotage three Infested Ships, with the first ship being located on Brugia, Eris. Once again Alad V contacts the player during the mission, telling them of his plans for evolution and further spreading the Infestation. Lotus comments that the Infestation is changing Alad V's mind, making him think like an Infested.
+Triangulation II: Saxis, Eris
+The Hive Sabotage mission takes place on Saxis, Eris. Here, Alad V expresses his admiration for his Mutalists, and details his plans on making a Mutalist Warframe. At the end of the mission, a nervous Ordis asks whether it is possible for a Warframe to be infested.
+Triangulation III: Kala-azar, Eris
+The third and final Hive Sabotage mission is set on Kala-azar, Eris. Alad V now expresses his complete disregard of Corpus philosophy by denouncing the ideals of profit. At the conclusion of the mission, the Lotus finally finishes tracking down the location of Alad V's laboratory.
+At this point, Lotus, referring to how Alad V seems to have changed, remarks that the Infestation has gotten to his mind and that he is not using the Infested as a weapon, he is Infested.
+Mutalist Warframe: Xini, Eris
+With the laboratory's location uncovered, the Lotus sends in the Tenno to Xini, Eris, to destroy the lab, ensuring that Alad V cannot create any more Mutalist Infested even if he has already escaped from the area. Players are tasked with a Sabotage mission aboard a Corpus Ship to destroy its reactor core.
+After the reactor core is destroyed, Alad V will send in an Infested Mesa against the player to show off his work. The Lotus immediately insists that the Mesa, was in fact "not a Tenno. That's a hollow Warframe being puppeted by Infested flesh. Put it out of its misery." The Infested Mesa uses her Regulator Pistols and a Plasma Sword as her weapons, and can parry player attacks. Players must kill the Infested Mesa before they can continue to extraction.
+Completing the mission rewards the Mutalist Alad V Assassinate Key blueprint, allowing the player to hunt for Mutalist Alad V himself and farm Mesa components.
+The Lotus
+**Trivia:**
+Patient Zero is a medical science term commonly used for the initial patient in the investigation of an epidemic.
+In the past, when the player had to face Infested Mesa in the final part of the quest, she used Regulator Pistols and a Plasma Sword as her weapons, and could parry player attacks.
+Even though infested Mesa is a pseudo-boss, melee finishers could be used on it, allowing for a quick dispatch.
+
+## Hidden Messages
+Quest DescriptionHidden Messages is a side Quest, released in Update 14.0. The Tenno must decipher cryptic poems and solve riddles to locate the Mirage Warframe.
+Walkthrough
+In order to unlock this quest, the player must complete the Eris to Sedna Junction. Upon completion, the player will be awarded with the Hidden Messages Quest, which can be started from the Codex.
+Riddle One
+Upon starting the quest, Ordis delivers an inbox message to the player, reciting an inscribed riddle:
+Three parts, three acts, three riddles for thee –
+to revive the one wielding fantasy
+Ancient gods so cruel, once ruled from on high
+Can you name their peak where the land meets the sky?
+RiddleOne
+The answer to this riddle is Olympus, Mars. In Greek Mythology, Mount Olympus, the highest mountain in Greece, was considered as the only place where the land scrapes the sky – At the same time, Mount Olympus is known as the home of the twelve Olympian gods of the ancient Greek world. Olympus Mons, which is located on Mars in real life, is also the tallest mountain in the solar system.
+Olympus
+Olympus on Mars is an Exterminate mission using the Infested Ship tileset, with Infested enemies around level 30. During the mission, the Lotus receives cryptic transmissions about a Warframe fighting Sentient during The Old War, undeterred by the overwhelming odds in spite of the Lotus's orders to retreat.
+After completing the mission, the player will receive the Mirage Neuroptics Blueprint.
+Riddle Two
+Ordis discovers another transcription on the Neuroptics:
+To build the one you think witty,
+seek the nymph who sang oh so pretty.
+She lured him in with her song and grin,
+his wife must've thought it a pity.
+RiddleTwo
+Calypso, Saturn. In Greek Mythology, Calypso was a nymph who is popularly remembered for her role in Homer's epic poem, Odyssey. It is said that Calypso enchanted her singing to trap the fabled Greek hero Odysseus in her island and make him her immortal husband – forcing Odysseus to be separated from his wife, Penelope.
+Calypso
+Calypso on Saturn is a 15-minute Survival mission set in an Infested Ship with their level ranging from 28-35. The Lotus receives more cryptic transmissions where the Warframe has been captured by the enemy, unable to be saved.
+The mission rewards Mirage Systems Blueprint.
+Riddle Three
+The systems reveals one final riddle:
+One more act before your prize is caught.
+An ancient sea creature, take a whirl or not?
+Look for the monster that swallowed sailors of yore.
+Make a mistake and you're sunk. Nothing more.
+RiddleThree
+Charybdis, Sedna. In Greek Mythology, Charybdis was a sea monster, later rationalized as a whirlpool and considered a shipping hazard in Strait of Messina. It is said that three times a day, Charybdis swallowed a huge amount of water, before belching it back out again, creating large whirlpools capable of dragging a ship or even a galleon underwater.
+Charybdis
+Charybdis on Sedna is a Hive Sabotage, levels ranging from 30-40. The Lotus receives the last imprint of Mirage Chassis Blueprint; Mirage tells the Lotus not to despair before she is disintegrated by the enemy.
+With the final component in hand, Ordis reads out the last transcription:
+Three acts complete, the end draws near,
+soon Mirage will cause fear.
+Memory lost, to be reborn,
+a new warrior rises, duty sworn.
+The quest is considered completed and player can start building Mirage with her blueprint from the Market.
+
+## Howl of the Kubrow
+Quest Description
+Howl of the Kubrow is a solo-only side Quest, released in Update 14. It tasks the player with finding the equipment necessary to create their own personal Kubrow.
+Walkthrough
+The quest unlocks after completing the Junction on Venus and must be started from the Codex.
+On starting the quest, the player will receive an inbox message:
+INTERCEPTED CORPUS MESSAGE: Where is my Kubrow?
+Dr. Intehb,
+You have had the Orokin Incubator Segment for months and still you've produced nothing but genetic rejects. You promised me a Kubrow worthy of an Orokin prince, not a misshapen ball of hair and teeth.
+At great expense, I have procured another batch of eggs from the forests of Earth. They will reach your facility on Elara shortly. Do not waste these as you did the last ones.
+I will have my Kubrow of my own. If you are not up to the task, I will find someone who is.
+Frohd Bek
+Acquire the Incubator Segment: Unda, Venus
+Having learned the Corpus acquired an Incubator Segment, the Lotus tasks the player to raid one of their bases on Venus so that a Tenno Operative may steal it as the Corpus are distracted. This is a 5 minute Survival where the player must survive against endless Corpus enemies until extraction is prompted.
+With the segment acquired, the player must install it in their Orbiter.
+Find a Kubrow Egg in Feral Kubrow dens: E Prime, Earth
+With a means to incubate a Kubrow, the player must now find a Kubrow Egg. This can be done in multiple ways:
+On any Grineer Forest tileset on Earth, destroying a Kubrow Den has a chance to yield an egg. The drop rate is increased to 100% during the quest.
+An egg can be purchased from the Market for 10.
+If the player already has an egg, this step is skipped.
+Incubate and mature a Kubrow using the Incubator
+In order to incubate the egg, incubator requires an Incubator Power Core. This can found by:
+Completing the Earth to Mars Junction.
+Purchasing the blueprint from the Market.
+Purchasing a pre-built power core from the Market for 35.
+With the egg and power core in possession, the incubation can now begin. There are three options to begin incubation.
+Random: The egg hatches a Kubrow whose variant, height, gender, color, and fur pattern are completely random.
+Genetic Code Template: A pair of templates with stored data imparts their genetic information onto the egg, making the hatched Kubrow more likely to have predetermined features.
+Helminth Cyst: A fully developed cyst on player's Warframe can be drained to guarantee a Helminth Charger.
+Incubation takes 1 minute to complete, after which the player can name the Kubrow. Future incubations outside of this quest take 48 hours to complete (24 hours if a Nutrio Incubator Upgrade Segment is installed).
+Defend your Kubrow in combat: Gaia, Earth
+250px|right
+To earn the newly hatched Kubrow's favor, the player must now take their new companion to Earth to locate a collar and partake a 3-wave Defense against the Grineer with the Kubrow being the defense objective. The Kubrow does not have much health as a standard defense objective, but can be revived if it goes into bleedout. On completion of the mission, a Taichen Kubrow Collar cosmetic and Balanced Posture mod is rewarded, completing the quest.
+**Notes:**
+The pet that is selected does not necessarily have to be a Kubrow; any pet that can be incubated can be used.
+The final mission of the Quest had a bug on release, where failing it would kill the player's Kubrow permanently. 501 Kubrows were lost before the bug was fixed.
+Howl Of The Kubrow / Getting Your First Kubrow Walkthrough
+ug65DxOZbfw
+23.8.2
+
+## A Man of Few Words
+Quest Description
+A Man of Few Words is a side Quest, released in Hotfix 17.4.3 (2015-09-16). It tasks the player with rescuing a Grineer contractor of Darvo.
+Walkthrough
+Players will receive a message from Darvo in their inbox, asking them to come see him for an urgent matter. Players must then visit Darvo in any of the Relays, and interact with him using the prompt "What's the job?". This will add the Quest to the Codex, from where it can be activated to unlock the first mission.
+Rescue the contractor: Stephano, Uranus
+The first mission takes players to a Rescue mission on Uranus to find and free the contractor, whom Darvo explains is a Grineer soldier that has a genetic flaw making him disobedient to the Queens, and had been on the way to retrieving an artifact when he was captured.
+Upon arriving at the prison complex, the termination timer of 2:30 minutes will immediately start regardless of player action, making the task of freeing the contractor from the pod a race against time. Large amounts of Grineer reinforcements, as well as Leekter of The Grustrag Three, will arrive to hinder any attempts at retrieval. The hostage, revealed to be a Lancer named Clem, must be safely extracted to complete the mission.
+Retrieve Clem's Grakatas: Caliban, Uranus
+DarvoBack on the Orbiter, Darvo informs the player that Clem will need his custom-made Twin Grakatas to be fully combat ready, and thus sends them on a Salvage mission to retrieve them.
+Clem will accompany players on this mission, initially equipped with a Latron to fight off enemies, with Darvo lamenting how Clem is helpless without his custom weapons. The custom-made Twin Grakatas can be picked up at a barracks room, and will be equipped by Clem when acquired. Once retrieved, Darvo informs the Tenno that Clem wants to deal with the ones who took the Twin Grakatas, pointing players to an Assassination target. The target turns out to be Vem Tabook of the Grustrag Three, whom players have to kill before extraction.
+Help Darvo get the relic: Puck, Uranus
+DarvoThe third mission is a Survival mission on Uranus, as Darvo finally assigns the Tenno to recover the artifact that Clem had originally been assigned to.
+Clem again assists players, still armed with his Twin Grakatas, as they distract the Grineer while another of Darvo's agents finds the artifact. This mission will play on as a standard survival mission, until around 3 and a half minutes away from completion, when the Tenno will be attacked by the last remaining member of the Grustrag Three, Shik Tal. Upon finding the relic, Darvo calls it "The Potent Orokin Technical Augmentation and Tactical Offensive device," which he acronyms as POTATO. A Clem Clone Blueprint will be rewarded upon completion and extraction.
+When the player finishes the mission, Darvo will ask them to come to a relay so they can thank the player in person. The player will receive an Exilus Adapter when Darvo finishes talking.
+Weekly Mission
+Completing the quest will unlock weekly "Help Clem" Alert. Every Monday at 00:00 UTC, players will get this mission added to alerts section of the Star Chart that can be clicked to visit Darvo in a relay. Talking to Darvo will give the prompt "Does Clem need my help?", which will trigger a 10-minute Survival mission largely identical to the quest's final mission. At the five minute mark the Cell will be attacked either by Shik Tal, the Lynx, or a Juggernaut, depending on whether the squad is fighting the Grineer, Corpus, or Infested respectively. This mission is repeatable, but can only be performed once every seven days after successfully completing it. As with the quest mission, the weekly mission will reward a Clem Clone Blueprint.
+**Notes:**
+Clem's initial appearance in the first mission will see him have shields as a defense. His succeeding appearances in the next two missions of the quest, however, will see him rely on regenerating health instead.
+Even if the player has not unlocked Uranus yet, they will still be able to do the quest.
+**Trivia:**
+This is the first official appearance of the popular player created character, Clem.
+Clem was created by player Datareaper, who also designed the winning melee contest design Kronen. Datareaper's comics featuring Clem also seem to have inspired the Twin Grakatas, which is Clem's weapon of choice.
+This quest also became the third official concept that was largely inspired by a community-run gag, the first and second were A Favor For Darvo and Derf Anyo respectively.
+Clem wields a Latron in the second portion of the quest to retrieve his weapons, a reference to the original comic where a Tenno insisted Clem use a Latron.
+During the Survival portion of the Quest, Darvo says the artifact obtained by his other operative was "the Potent Orokin Technical Augmentation and Tactical Offensive device", which he shortens to "POTATO"; a reference to the common fandom nickname for Orokin Reactors and Orokin Catalysts, since their appearance is similar to that of a potato.
+isL-fcmzE64
+
+## The Glast Gambit
+Quest Description
+The Glast Gambit is a side Quest, released in Update 19.5 (2016-12-22). The Tenno must stop Nef Anyo's schemes as they attempt to unearth the mysteries behind the people known as the Mycona Colony and the Infested.
+Walkthrough
+In order to unlock the Quest, players must have completed The War Within quest, and then speak to Ergo Glast, the leader of The Perrin Sequence, in their room within any Relay.
+Glast will relay to the Tenno the story of the Mycona Colony, whose inhabitants apparently thrive by harvesting material from the Infested. Nef Anyo however has taken not only the Mycona's resources, but also their children, with Glast showing the Tenno a recording from a child named Neewa, one of the kidnapped children. Before any rescue attempt can be made for the children however, Glast implores the Tenno to first defend the remaining Mycona colonists who are under siege from the Infested.
+If the player accepts the mission, they are prompted to set the quest as active in the Codex. Back on their Orbiter, Lotus expresses her skepticism at a colony surviving an Infested siege. The player will also receive a message from Glast in their inbox, giving them a drawing made by Neewa to remind them of what they are fighting for.
+Help Secure Mycona Colony: Monolith, Phobos
+Enemy Level: 25-30
+Tileset: Infested Ship
+As the Tenno arrive on an Infested Ship, Glast explains that Nef Anyo's actions have left the colony defenseless, and that three gateways have to be closed in order to secure the colony. Along the way, they come across the colony in a section of the ship that is untouched by the Infestation.
+Once players reach the first of the gates defended by armed colonists known as Hunters, the Tenno must destroy three Infested Tumors that bar the gate, after which players must then defend the Hunters as they attempt to close the gate via a security console near the opening. The Hunter closing the gate must remain alive in order for progress to be made; if the Hunter is killed, the gate will stall, and the gate cannot be closed until another Hunter can get to the security console to continue. The mission will fail if all 6 Hunters are killed.
+Upon closing a gate, players must then repeat the process on two more gates to close them. When the gates are sealed, Glast instructs the Tenno to clear out the remaining Infestation inside one of the rooms within the colony. The Infested continuously spawn from 6 Spawn Pods within the room that must be destroyed in order to clear them out.
+On clearing the Infested, Glast asks the Tenno to return to their ship, as he explains that the Myconians are only safe for the moment. The mission ends when the player reaches extraction.
+Back in the Orbiter, Glast explains that the Perrin Sequence had tried to pay a ransom for the stolen Myconian artifact known as the Triuna and the kidnapped children, only for Nef Anyo to reject them. Glast thus suggests that the Tenno use Nef Anyo's weakness for gambling by challenging him to The Index, the Corpus' blood sport. A disbelieving Lotus asks Glast why the Tenno should risk themselves in the Index after they've already helped them. In response, Glast reveals that the Mycona's knowledge of the Infested comes from an Old War relic, and explains that they are offering to share that relic with the Tenno as compensation.
+Challenge Nef Anyo on the Index: Neptune
+Enemy Level: 15-19
+Tileset: Corpus Ship Arena
+Before players can enter The Index, they must first wager 100,000 in order to be allowed into the mission as per the Index's rules. If players win the Index, the credits wagered will be returned to them, along with a 20,000 profit.
+The goal of the Index is to earn Index score for the team through the collection of Index Points, which are dropped by participants killed in battle. Represented as green, glowing diamonds, Index Points can be collected by walking over them, and then deposited to a designated bank location in order to earn the actual Index score.
+A player can hold multiple Index Points at once, and will gain bonuses the more Index Points they deposit at once, increasing the amount of Index score their team receives from said deposit (e.g. depositing 3 Index Points at once will grant 5 Index score instead of 3). Holding large numbers of Index Points will reduce the player's health, however, in a change known as Financial Stress, and if the player is killed their collected Index Points will drop as well, allowing the enemy to pick it up for themselves. The amount of Financial Stress is directly proportional to the number of Index Points being held, which is displayed by the player's HUD to the upper right.
+In this mission, the Index is segmented into rounds of 2 minutes each. In order to win against Nef Anyo, players must win three rounds of the Index by gathering more Index Points than the opposing team before the time runs out for each round.
+If the player is successful, Nef Anyo relents to release one Myconian prisoner, but exclaims that he will keep the girl in his possession. Back on the Orbiter, the Lotus airs her suspicions to Glast at Nef's interest in Neewa, asking him what he is hiding, to which Glast responds that Nef may be trying to bait them back into the Index by withholding prisoners.
+Once more, players must challenge the Index a second time to free two more prisoners, now with a minimum wager of 120,000. As with the previous bout, players must win three rounds of 3 minutes in the Index each in order to win the mission.
+After this second mission, Glast will send another inbox message, this time with a smuggled recording from Neewa, where she describes the "dark eyed man" (Nef Anyo) wanting to put them to work.
+Challenge Nef Anyo on the Index: Neptune
+Enemy Level: 18-22
+Tileset: Corpus Ship and Corpus Outpost Arena
+Again, players must challenge the Index, with the third match requiring 140,000 as a minimum wager. During this match, the first time the player attempts to deposit their earnings they will die from an unusual anomaly, with Glast exclaiming his surprise at what happened, and suggesting sabotage. Once players win this third match, Nef Anyo will relist Glast's brokers into the Index, allowing them to openly wager in the matches. Glast suggests that they use Nef Anyo's greed against him by subtly hustling him along their wagers, and that the Tenno not come on too strongly lest Nef Anyo backs out.
+Players must now play a fourth Index match with the same rules as the previous matches with a 160,000 wager, but with an added condition: players are given a 20-point Victory Margin, which is the difference between points that they must maintain between their team and the opposing team. Unlike in previous matches, players must keep their score within the 20-point Margin, e.g. if Nef Anyo has 5 points, the Tenno's score must not exceed 24 points. Should the player win with a score exceeding the 20-point margin, Nef Anyo will back out, causing the mission to fail, and the player will lose their invested credits and receive no rewards if this happens.
+When players successfully complete the fourth match, Nef Anyo will relent and put forth a trade where he will release the Triuna along with Neewa and the other prisoners if the Tenno win the next round, but if Glast loses then Nef Anyo will take all of his titles and holdings in return.
+Another inbox message will arrive for the player back on the Orbiter, containing another voice recording from Neewa. The message reveals that the Triuna is not an object, but Neewa herself, and that she contains powers kept hidden to keep her safe.
+Challenge Nef Anyo on the Index: Neptune
+Enemy Level: 21-28
+Tileset: Corpus Ship Arena
+Another Index match is held, costing the player 180,000, this time with Neewa on the line, and Glast wagering his entire holdings. As players proceed through the match, however, they will suddenly experience inexplicable deaths whenever they try to deposit their earnings, prompting Glast to accuse Nef Anyo of cheating, who denies the accusations. Meanwhile, Lotus tells the player to continue with the match while she investigates the anomalies.
+As there is no way for the player to deposit Index points without dying during this mission, the mission will eventually end in defeat for the player after one round, with Nef Anyo proclaiming his victory over Glast. However, if the player does not attempt to deposit Index Points at any point, the mission will be a failure without progressing the quest, while still losing the player's wager.
+Find the source of Nef Anyo's cheats: Oceanum, Pluto
+Enemy Level: 24-26
+Tileset: Corpus Ship
+Back in the Orbiter, Lotus confirms that Nef Anyo was indeed cheating during the match, and that she has managed to locate the systems responsible. In order to defeat Nef Anyo's traps, the Lotus assigns the Tenno to steal the control codes for his traps in order to render them unusable and thus give them a fair chance in the Index.
+On arrival, players must complete a Spy mission where two of the three data vaults must be successfully hacked. Once a vault has been successfully hacked, the Lotus learns that what the Tenno managed to retrieve wasn't a control code, but a message from Neewa, which Lotus attempts to decode as the player continues on to the next vault. Players can proceed to extraction once all the vaults have been hacked, with at least two successful hacks.
+Back on the ship, the decoded message from Neewa has her mention a ritual called "The Passing" which involves the transferring of the Triuna to someone else. When the Lotus asks Glast concerning what they found, he finally explains what the Triuna is: a form of command over the Infestation, achieved by infecting a child host with the Infestation, passed down from generation to generation of Myconians in a ceremony involving a pin prick on the finger. It is revealed by the Lotus that the Infested fear hybrids, which Glast confirms is what allows the Myconians to harvest resources from the Infested peacefully. Ergo Glast theorizes that either due to ancestral resistance held by Myconians or due to the disease itself being a weak strain of the infestation, the host of the Triuna is able to survive for several years. When the Lotus learns that the Triuna will eventually kill its bearer, she expresses her shock at the practice, to which Glast counters that the bearers do it for the greater good.
+Win Back Neewa: Neptune
+Enemy Level: 21-28
+Tileset: Corpus Ship Arena
+Glast challenges Nef to the Index one last time for Neewa and his holdings, but Nef refuses seeing as how Glast has nothing more to wager. It is then that Glast reveals the Myconian Old War relic to Nef to be his wager, explaining it to be a product of the Void which Nef would be interested in. Awestruck by the relic, Nef Anyo accepts the wager for another Index match. Unlike previous matches, players will not wager their own credits in the match, and will have the opportunity to regain 200,000 if they win.
+This last Index match will proceed with the same rules as the first 3 matches, allowing players to earn Index points at their leisure. If the player manages to win this match, Nef Anyo demands a rematch, making lucrative offers to Glast as wagers, all of which are refused.
+On the ship, the Lotus hesitates to send Neewa back to her home due to her desire to cure the girl. This prompts an argument between the Lotus and Glast on Neewa's fate and what it could mean for the Myconians: healing Neewa will prolong her life but destroy the Myconian's way of life, while sending her home will allow the Myconians to live on with their traditions at the cost of Neewa's lifespan.
+The Lotus gives the decision regarding Neewa to the Tenno, whom she points out has had similar obligations thrust upon them as children. At this point, players can choose between one of three different Alignment choices regarding Neewa's fate in the form of an inbox message that arrives afterwards:
+[Sun] Cure Her
+Neewa is taken to a relay and the Triuna "disease" is treated. She is unsure of her future and misses her family, but she thanks the Tenno for their actions. A contingent of specters is dispatched to protect the colony from the Infested.
+[Neutral] Let Her Decide
+Neewa chooses to return to the Myconian colony, where she will become the last Triuna and usher a new tradition for her people, one without sacrifices.
+[Moon] Send Her Home
+Neewa returns to the Myconian colony, continuing to serve as the Triuna for as long as she lives. Their way of life, including the Triuna and The Passing, continues.
+Regardless of choice, players will be rewarded with the Myconian's Old War relic upon receiving the following Inbox message: the blueprint for the Nidus Warframe.
+Inbox Message
+**Notes:**
+The quest is not affected by the player's standing with The Perrin Sequence syndicate.
+The version of the Index played during this quest is different from the Index currently implemented in the game.
+**Tips:**
+If you run out of credits during this quest, you can select another active quest to access normal Index missions and win your money back in no time.
+w8fP1Zt05_A
+22.10.3
+
+## Octavia's Anthem
+Quest description
+Octavia's Anthem is a solo-only side Quest, released in Update Octavia's Anthem. After expressing their interest in music and tasking the Tenno with crafting a Mandachord, Cephalon Suda experiences unusual glitches that may have dangerous implications for her.
+The tie-in webcomic What Remains can be found on the official website (Archived).
+Walkthrough
+The Octavia's Anthem quest can only be unlocked once players have completed The Second Dream.
+The quest is started by visiting Cephalon Suda inside a relay where Cephalon Simaris will abruptly tell the player to disregard anything Suda says, complaining about her obsession with music (which he regards as a pointless waste of data). Suda will greet the player and begin expressing her thoughts on music. She will also be noticeably erratic in her train of thought. From there Suda will ask the player to build the "Mandachord", an artifact blueprint given to the player by Suda. Simaris will immediately mock Suda's interest in music, and suggests she be decommissioned due to corrupted precepts.
+Collect the Mandachord Components: Sao, Neptune
+MandachordEnemy Level: 29-31
+Tileset: Corpus Outpost
+On accepting the quest, the player will receive a blueprint for the Mandachord. In order to complete the Mandachord, players must embark on a mission to find the remaining three components - the Mandachord Body, Mandachord Fret, and Mandacord Bridge - on a Corpus base in Neptune.
+Once the player enters the mission they will be accompanied by an unknown white light that leaves behind a bright purple trail as it moves accompanied by music. The player must follow this light as it will guide them to each individual component's location. The components will be inside a container where the player can press the context action to pick up the component.
+Once the Mandachord Body, Fret, and Bridge have been collected the light will fade away and Suda will tell the player to extract.
+Build the Mandachord
+On finishing the Corpus mission, Suda will ask the player to craft the Mandachord.
+Once the Mandachord is built and claimed Suda will begin explaining why the Mandachord is important before going silent and not finishing her statement. After some time Ordis will ask Suda what she was going to say about the Mandachord, to which she will respond as though confused, then claim she made an error and did not actually have any data about the Mandachord.
+Suda will relay Ordis coordinates to the next mission location, though Ordis will express his concern about Suda's state to the player.
+Find the First Song Fragment: Stephano, Uranus
+Enemy Level: 20-20
+Tileset: Grineer Sealab
+The next mission will be a Grineer underwater base in Uranus, with Suda musing about the relationship between the song fragment and the base. The player must find an Orokin artifact the Grineer have recently uncovered called a Hydraulus. On using the Hydraulus with the context key, a special UI will appear, composed of a concave table with several rows and columns, which then begins playing music, and Suda recognizes the music as belonging to "Octavia's Anthem". In order to proceed, players must add resonant beats to the song by activating the appropriate bar positions (out of three possible) in the top row of each column as indicated by the height of the glowing blue symbols that appear on top over of the chart each time the beat passes it. Once the beats are correctly added, Suda remembers that more of the song can be found on Lua, with players being able to extract at this time.
+"Effects Intensity" needs to above 0 in the accessibility settings or the glowing blue symbols will not be visible to the player
+Find the Second Song Fragment: Tycho, Lua
+Enemy Level: 20-20
+Tileset: Orokin Moon
+On the Orbiter, Simaris urges the Tenno to discontinue their quest and destroy Suda lest her corruption affect the other Cephalons. Ordis and Simaris get into an argument regarding their course of action with Suda, with Ordis wanting to help, while Simaris mocks Ordis' "compassion-glitch" and tells him that his actions could endanger both themselves and the Operator.
+During the mission, Suda once more forgets why they came to Lua, and with a reminder from Ordis, realizes that Simaris was right, and that the corruption infecting Suda is not benign. Apart from that, the entire map will be eerily devoid of any enemies, only occasionally encountering groups of Grineer corpses. The player then finally encounters a pair of Sentient Battalysts to Suda's horror, before she is taken over by a malignant presence that Ordis recognizes as Hunhow. Having taken over Suda, Suda-Hunhow orders his Sentients to find the song fragment.
+Players must fight the Sentients in order to get to the Hydraulus, and once located must exterminate all Sentient enemies within the room and any additional ones pouring in, in order to access the Hydraulus. Similar to the previous instance, the correct resonant beats must be added to the musical chart (this time in the second row with five possible positions per column) in order to complete the music. Upon completing the puzzle, Suda regains herself for a moment to ask Ordis to apologize on her behalf to the Operator, before Hunhow once again reasserts control. Ordis then asks players to extract once more, while an infinite amount of Sentients will continue to spawn during their escape.
+Harness the power of an Orokin Tower: Taranis, Void
+Enemy Level: 20-20
+Tileset: Orokin Void
+Another argument ensues between Simaris and Ordis on their course of action against Suda, with Ordis reaffirming his stand to free Suda from Hunhow's control, as he managed to receive the coordinates of the last song from Suda.
+Inside the Tower, the player will be attacked by "Decaying" Sentient enemies, surrounded by a red aura but no less deadly. Ordis expresses surprise at the presence of Sentient units inside the Void - a fact long thought impossible - and surmises that Hunhow is using Suda's energy to shield them (though not perfectly) from the Void's effects. Upon locating the room in which the Hydraulus is located players can use a nearby console to lock the room, preventing additional Sentient units from entering and allowing players to clear the room of any remaining enemies. Only after all enemies are cleared can players start on the Hydraulus puzzle, which like the previous instances requires matching resonant beats with the provided figures.
+Unlike with previous instances, solving the Hydraulus puzzle does not rouse Suda and instead attracts Hunhow's attention who claims that Suda has been eradicated. Ordis draws up a plan to make Suda hear the anthem by using the Orokin Tower to boost the signal. Players must then find a console that they can activate to amplify the signal, which will count up to 100%. Hunhow will send in Sentient units to disrupt the amplification, freezing the counter, and players must destroy them to allow the counter to proceed.
+After the amplification is complete, players have to activate the Hydraulus again, which angers Hunhow, making him try to attack Ordis. Despite this, Ordis is able to point the players to the location of a second amplifier, which players must activate and then bring to 100% amplification similar to the previous one. Completing this task will make Ordis try to save Suda by directly interfacing with her, though he falls silent afterwards, but all sentients will then disappear. afterwards, an extraction marker will note to players that they can extract when ready.
+Go to Simaris in a Relay
+Back on the ship, an inbox message will open, containing a recorded transmission from Ordis stating that the Operator will only receive that message if he failed to save Suda, then asks players to go to Simaris and try to contain Hunhow before the Sentient infects more Cephalons, and finally saying farewell to the Operator after reminiscing about the past.
+Speaking with Simaris in a Relay with the prompt "Suda's Datascape?", he mentions that Cephalons are able to create alternate reality datascapes for various functions, including training rooms and the Sanctuary, and questions if the Tenno wish to go after Ordis despite the risk with the Sentients entangled in his code. Players can either ask Simaris to help them ("Yes, I am. Help me"), or question Simaris more about Hunhow's intentions ("Hunhow's intention?"). Simaris states that while he won't endanger himself or his Sanctuary, he can send the Tenno to Suda-Hunhow's datascape.
+Suda's Datascape
+Upon being synthesized into the datascape, players are greeted by the virtual visage of Hunhow in the middle, and a circular ring made up of floating blocks of differing colors representing the Mandachord. As Hunhow boasts about his successes, Ordis clues in the player that they need to recreate the music of Octavia's anthem inside the datascape's Mandachord in order to defeat Hunhow. This particular part of the mission has unique mechanics:
+A beam emanating from the center of the map will sweep around the field, which will stagger and deal damage to the player if it hits them.
+This can be blocked using melee parry or negated with high-enough stagger/knockdown resistance.
+The beam can be jumped over.
+The pillars that are on the sides are high enough so that standing on them will allow the beam to pass safely underneath without touching you.
+The beam sweeps high enough that you can simply duck under it on all but the outermost ring blocks (though one has to be careful not to accidentally duck while in motion causing you to slide off the small platforms instead).
+Bright yellow balls will emanate from certain dark-brown platforms. Stepping on these platforms will reveal a blue musical note.
+Red energy pillars on dark-brown platforms represent errant notes, and must be erased by stepping on the platform.
+Stepping on a dark-brown platform that doesn't have an errant or musical note will create an errant note on that block, requiring you to jump to a different block and jump back to remove it (simply jumping upwards from the same errant block and touching it again does not count for removing the note).
+Grey blocks are neutral blocks, and can be stepped on safely without affecting the Mandachord.
+Falling off the edge of the world will damage and respawn you at the beginning pillar.
+The player's goal is to step on the blocks with the yellow spheres in order to unveil the musical notes, while removing any errant notes while at the same time preventing the formation of more errant notes. Once the player completes the music, the notes will begin firing rhythmical barrages at Hunhow's avatar, damaging him.
+Upon depleting the first third of Hunhow's health, players are ported into another Mandachord set, where they must repeat the process again but with more dark-brown platforms. In this second stage, Sentient avatars called Eradicysts will spawn, attacking players with ranged projectiles, and preventing players from activating musical notes if they're hovering over one. Despite their menacing nature, Eradicysts can be easily destroyed through most weapons fire in a single hit, having significantly weaker health and defenses than true Sentient enemies, mostly serving as a hindrance rather than a threat. Once enough musical notes are activated on the second stage, Ordis will be able to break free from Hunhow's control and join the battle, attacking any Eradicysts in the way, though he will be forced to retreat should he sustain too much damage.
+A third stage will commence once the second third of Hunhow's health has been depleted, with the same mechanics but with more blocks to contend with, and a greater number of Eradicysts will spawn to attempt to stop the player. During this phase, Cephalon Simaris enters the datascape, providing fire support by spawning in virtual representations of units from his Sanctuary such as Grineer Heavy Gunners. These will invariably be destroyed periodically by Hunhow's beam, but will draw fire from the Eradicysts before then. Completing this final stage will destroy Hunhow's manifestation completely, freeing Suda from his control and restoring her datascape.
+In the aftermath, Suda awakens, but does not remember recent events due to short-term memory loss. She thanks both Ordis and Simaris for saving her, though Simaris (rather unconvincingly) claims that he merely did it to preserve the Cephalons' weave. As gratitude to the player, Suda rewards the blueprint for the Octavia Warframe at the completion of the quest.
+**Tips:**
+It is recommended bringing along strong weapons with different elemental damage mods installed to better deal with Sentients due to their heavy presence in the quest.
+Though both the Sentients and their Decaying counterparts do not fly, Conculysts will quickly locate inclines such as slopes and stairs in order to reach you, while Battalysts will pummel you with deadly homing projectiles.
+If the player had finished The War Within quest, using the Operator makes the fight much easier as the Void Beam removes all of the damage adaptations the Sentients gained during the battle.
+In addition, using Amps acquired from The Quills after finishing The War Within and Saya's Vigil will prove much more effective at fighting Sentients as Amps deal more Void damage against them.
+The final mission of the quest requires frequent jumping. Warframes with good aerial control like Zephyr, Wukong (using Cloud Walker), and Titania are ideal in accomplishing this mission.
+Warframes that either passively or actively regenerate health (such as Oberon using Renewal) are a viable alternative for weathering the damage from the Mandachord beam, the Eradicysts and potentially falling off the map.
+Since the Eradicysts do not drop anything on being killed, it is recommended to bring weapons with high ammo reserves.
+Another way to kill the Eradicysts are to use slam attacks with melee. This also helps in landing on correct notes when bullet jumping and/or gliding.
+Transference cannot be used in the final mission, and will be temporarily replaced by Transcendence while the player is inside Suda's datascape. As of Focus 2.0 this is one of the few missions in which players who have completed The War Within are forced to use Transcendence.
+In the final mission you can avoid the Mandachord beam simply by ducking. This will prevent you from staggering and potentially falling off.
+In the final mission you can more easily see the "Errant Notes" and the correct notes by switching your settings preset to Low. This will give them 3D shapes as well as their particle effects, making them much easier to see. Additionally, this may clear any "Errant Notes" which have become invisible or displaced due to a bug.
+**Notes:**
+If a player has purchased the Octavia Warframe from the Market with Platinum prior to completing the quest, they will receive a Pistol Riven Mod on completion of the quest in lieu of the normal blueprint reward.
+Once Suda has been taken over by Hunhow, players affiliated with her syndicate will not gain any visible standing with her until the quest is complete, nor will she speak to the player on entering a mission for her. The standing is still accumulated, however, and will be added to the existing amount after she has been restored.
+Oddly enough, if the player visited Suda before talking to Simaris in the final mission, she will somehow act normal as if nothing happened at all. Her syndicate can also be fully accessed as well (possibly a bug)
+Ordis' corruption in mission 4 does not prevent Ordis' purple overlay of Lotus.
+Talking to Suda while the quest is active (and before she was taken over by Hunhow) will occur a special dialogue, in which Suda will question if the player has constructed the Mandachord since she "can't hear its music".
+Completing the quest also unlocks a special mission called "Incident Archive 2318-H" in Suda's room, which is a replay of the quest's final level, but with a leaderboard. Incident Archive 2318-H is merely an obstacle challenge, and will not reward anything when completed.
+
+## The Silver Grove
+Quest Description
+The Silver Grove is a side Quest, released in Update The Silver Grove. The Tenno work with New Loka to uncover an ancient, mysterious power on Earth.
+Walkthrough
+The Silver Grove quest can only be unlocked once players have completed The Second Dream and are Mastery Rank 7 or higher.
+The quest is started by visiting New Loka inside a relay and by asking their leader Amaryn about "The Silver Grove". She explains that the Grineer seek to defile Earth's purest location, the aforementioned Silver Grove, and that New Loka have a plan to awaken the ancient defenses that guard the place. The quest can then be activated via the Quest menu on the Codex.
+Nightfall Apothic
+On accepting the quest, players will receive a blueprint for a Nightfall Apothic. In order to craft the Apothic, players must physically interact with specific plants found throughout the Origin System.
+The Dusklight Sarracenia can be found in swampy waters in Grineer Shipyard missions, which are most commonly found on Ceres.
+Both Moonlight Dragonlily and Sunlight Threshcone can be found on Grineer Forest missions on Earth, however the Moonlight Dragonlilies can only be found during the tileset's nighttime phase, and Sunlight Threshcones can only be found during the daytime phase.
+Along with the blueprint, players will also be shown a voice imprint included with the Apothic, which details the log of an unnamed female Orokin-era researcher.
+My bags are packed, I'm all set to leave. I can't believe I'll be working with one of my childhood heroes, Archimidean Margulis! On comms she said she needed the best Infestation biologist there was... I think my knees almost gave out!
+As I log this, I look out the stained plastic of my field tent into the dead-yellow sky of Earth. I smell the vague Sulphur and toxins leaking through the seals, yet somehow I'm going to miss this place. Leaving her feels like I'm giving up my dream. My dream to see green and blue return to this sick and dying mother of us all.
+But I'm frustrated with my lack of progress. I've tried everything to accelerate the ailing vegetation, to guide and nurture the soil, but nothing comes of it. I need a change. Now I have that opportunity... and thanks to Margulis, I'm relieved I won't be drafted into some Orokin War project.
+Once the Apothic has been crafted and then equipped on a player's Gear, players are then tasked with visiting E Prime on Earth in order to find a small shrine, where players must fight past Grineer patrols to locate it, with Amaryn occasionally giving out pointers as to its location.
+Upon locating the shrine, players must then anoint the large stone altar on the top of the shrine, which will consume the Apothic (the altar only requires one player to consume their apothic even though the objective "Anoint the Altar" appears for all players in the party). This prompts a disembodied voice – whom Amaryn believes to be the Grove's sacred voice – to suddenly speak out, demanding the Tenno to know what they are doing. A hostile Loki Knave Specter and its clones will suddenly appear and attack, which players must kill in order to extract.
+Completing this mission will grant players a Titania Systems Blueprint, along with the blueprint for the next Apothic.
+Twilight Apothic
+On receiving the blueprint for the Twilight Apothic, players must once again hunt down for the plants needed to craft it.
+Moonlight Jadeleaf can rarely be found on the Grineer Forest tileset on Earth, but only during the tileset's nighttime phase.
+Ruk's Claw can be commonly found on the Grineer Settlement tileset on Mars, usually on walls and corners.
+Lunar Pitcher can be commonly found on the Orokin Moon tileset on Lua, either in vases or amongst the rubble.
+The Twilight Apothic blueprint also contains a voice imprint, which Ordis will bring up for the player to read:
+My childhood dream has become a nightmare. I don't blame Margulis, she's as much a victim as the children we're working with. At first the project seemed therapeutic and nurturing. I was myself. But now... Transference therapy is being turned into a weapon. Now I build these vile weapons called "Warframes" all for one purpose: death. I've become everything I hate.
+I long for the discomfort of my damp tent. The sick, aimless trees... the barren soil... I know I left my soul back there.
+Titania is the next Warframe I've been commanded to build, but in secret I've been siphoning resources from that project. I have an idea. A way back to that wounded land I call home. A way for me to forget this war and remember what I was.
+Amaryn wonders why the Apothic is 'vandalized' by the presence of the imprint. Nonetheless, she details her plan to seed Earth with the plants found in the Silver Grove due to their purity, while Ordis expresses his wonder at the Silver Grove, stating he's never scanned anything like it on previous missions to Earth.
+Players must return to E Prime upon crafting and equipping the Twilight Apothic to repeat the previous process of anointing the shrine. This time, the disembodied voice outright tells the Tenno to get out, and sends a Saryn Orphid Specter to kill the Tenno. Once the Specter is defeated, the disembodied voice cries out for Titania, pleading her to wake it up. Amaryn is shaken by its words, no longer believing it to be a sacred voice, but a human voice.
+Upon extraction, players will receive the Titania Chassis Blueprint, and the final Apothic blueprint.
+Sunrise Apothic
+Once more, players must find the plants that make up the ingredients for the Sunrise Apothic.
+Sunlight Jadeleaf can rarely be found on the Grineer Forest tileset on Earth, usually in watery areas, but only during the tileset's daytime phase.
+Frostleaf can be found in large batches by cliffs and valleys on the Corpus Outpost tileset on Venus, Neptune and Pluto. Note that the plant does not always spawn. If you can't find any, simply restart the mission and try again. It can sometimes take a couple of tries.
+Vestan Moss can be found scattered on rocks on the Grineer Asteroid tileset, commonly found on Mercury, Phobos, Saturn, Uranus and Sedna. Check under the stairs too.
+As with the previous Apothics, Ordis discovers a voice imprint within it, which he displays to the player:
+Ballas is beyond pleased... but when I look at what I've built... at Titania, I feel sick creep up my throat. I hate her, a killer made by a healer. No more. I'm going back to where I belong, no matter the cost. I'm going back to the trees to find myself again.
+These past weeks, I've been secretly testing Transference on myself. I can only survive short bursts - linking to Titania the way only Tenno can stand. I've never felt anything like it. A tortured presence, like an evil ink, staining my mind. But... it worked. I'm going to use this wrong to make right.
+I'll stowaway with Earth-bound cargo. Just my apothics and these slapdash Somatics I've stolen. By nightfall I'll be home again in my tent under those bitter, acid skies. This time I'm going to fix it. I will seed a mighty forest, stronger than history... and by my will, use it to bring life.
+Amaryn reacts with horrific disbelief at the imprint, realizing that the Silver Grove is not the pure and natural sanctuary she believed it to be, but another artificial creation. Disgusted, Amaryn pulls out of the mission. Ordis, however, urges the Tenno to complete their mission, stating his disagreement with Amaryn's dogmatic beliefs, and how the Tenno are proof one's actions are more important than one's origins.
+Upon crafting the Sunrise Apothic, players must return to the Silver Grove one final time with the Sunrise Apothic equipped. The voice of the Grove will converse with Amaryn, asking the leader if she would rather see the forest she swore to protect burn just to spite the Grove itself; Amaryn has difficulty responding. Once the shrine is anointed, the voice will call out again, declaring that it has gained clarity enough to realize the Tenno is not Titania, but another protector much like her. However, the Grove has no power to stop the remaining guardian, and the player is then attacked by an Oberon Feyarch Specter.
+Once the Specter is defeated, the voice bids the player to flee while it holds off the coming Grineer, but Amaryn will bid the Tenno to stay and defend the Shrine until its defenses are fully activated. The player must then defend the Shrine for 2 minutes while it is attacked by Grineer, including Napalms, Flameblades, Elite Lancers and Hyekka Masters. The voice of the Grove admires that the Tenno fights with the same energy that Titania once did.
+With the Shrine completely defended, the voice introduces itself as Silvana, the Archimedean responsible for both Titania and the Silver Grove, now permanently bound to the latter by Transference. When the Orokin learned that she pilfered their resources to create the grove, a battalion of Dax soldiers was sent to burn down the forest, but they were cut down by Titania. Titania's wounds claimed her in this battle, and she died in the Silver Grove, protecting the woman who hated her the most – Silvana. Amaryn vows that the player will allow Titania to fly once more, earning Silvana's gratitude.
+Upon extraction, players will receive the Titania Neuroptics Blueprint. Amaryn will also send a message to the player's inbox, declaring that the New Loka will need to change its doctrines moving forward to be more accepting of the truth, and giving the Tenno a Titania Blueprint, thus completing the quest.
+Players can continue to encounter the Silver Grove Shrine on any Earth mission that uses the Grineer Forest tileset, with the Lotus detecting its presence once players have reached a tile connected to it. They can continue to offer Apothic to spawn more Specters; the mods they drop appear as a question mark (?) until the mission is completed.
+**Notes:**
+The player does not need to be allied with New Loka to obtain the quest.
+Similar to Sands of Inaros, the main quest mission for The Silver Grove is not randomized, but is instead fixed, making it easy to memorize the layout of the map upon returning to it.
+If you don't receive the blueprint in the mail after completing the quest, it will be there after logging out and back in again.
+Never use Apothic if you have not started the quest mission, as it will spawn Knave Specter but not provide the blueprint or the next step in quest while consuming Apothic.
+If players sold the Apothic blueprints before DE made them unsellable, there is no way for players to re-obtain them, aside from submitting a support ticket and asking for the items to be re-added to the players inventory.
+During the quest, the specters will not drop anything. After completing the quest, the Apothics can still be crafted and used in the Silver Grove to summon specters which are guaranteed to drop a mod.
+**Tips:**
+Resource Boosters will double the amount of plants looted, stacking with the aforementioned Cross-Matrix Widget.
+Oxylus's Botanist will autonomously loot plants.
+The best node for obtaining the Earth plants (Moonlight Dragonlily, Sunlight Threshcone, Moonlight Jadeleaf, and Sunlight Jadeleaf) is Mantle on earth. Completing the capture quickly will allow you to focus on finding the plants.
+The best node for obtaining the other plants are also capture missions for the same reason, with the best nodes being :
+Dusklight Sarracenia - Pallas on Ceres.
+Ruk's Claw - Ara on Mars.
+Lunar Pitcher - Copernicus on Lua.
+Frostleaf - Venera on Venus. Keep in mind Frostleaf does not always spawn, so if you might have to restart the mission a few times.
+Vestan Moss - Elion on Mercury.
+As a few of the plants required for ingredients in this quest - namely Sunlight Threshcone, Sunlight Jadeleaf, Moonlight Dragonlily and Moonlight Jadeleaf - can only appear during particular phases of the Grineer Forest's day and night cycle, it is important to note when each particular cycle takes place in order to minimize the time needed to hunt down the required plants. The day/night cycle now follows the one at Cetus and can be found on the navigation menu when hovering over Cetus. Prior to Update 38.5, this would have been every 4 hours.
+A good resource to find out how long until the time shifts is
+Here is a more compact list of everything needed for all Apothics and the best places to farm them.
+4x-14Sv8Vu4
+
+## The Limbo Theorem
+Quest Description
+The Limbo Theorem is a side Quest, released in Update 15. It tasks the player with uncovering a mysterious theorem left behind by the Limbo Warframe.
+Walkthrough
+In order to unlock this quest, the player must complete the Jupiter to Europa Junction. Upon completion, the player will be awarded with the The Limbo Theorem Quest, which can be started from the Codex.
+Nonsense: Syrtis, Mars
+Ordis sends the player an inbox message, confused about the incomplete Limbo Theorem. The message contains a blueprint for the Limbo Neuroptics Theorem Key, which requires three Proof Fragments to craft.
+He then directs the player to Syrtis, Mars to tap into Grineer communication towers in the hopes of successfully scanning for the Limbo signal. This is a single round Archwing Interception mission. However, the primary objective of the mission is not in the Interception mission itself (which provides no reward), but in collecting Proof Fragments that drop from killed enemies, which resemble Energy Orbs.
+1 Proof Fragment are required to craft a Limbo Theorem key, but players are not prompted that they've collected enough meaning they must manually check the Foundry. A total of 3 fragments are required for the whole quest, and players are allowed to repeat the mission until the quest is complete to continue farming for fragments. Fragments can be traded between players.
+While crafting, Ordis initially expresses curiosity of the Limbo Theorem, only to be annoyed by even more nonsense the supposed evidence provided. He will lead the player to the only coordinate that he managed to obtain from the proof.
+Rift Plane: Cambria, Earth
+The player is directed to Cambria, Earth on an Excavation mission to check out Ordis' lead. This mission requires the player to excavate 300 Cryotic (3 full extractors), after which the player is rewarded with the Limbo Neuroptics Blueprint. Once obtained, Ordis will rethink his opinion on the Theorem and will attempt to make more sense of it.
+Upon returning to the Orbiter, Ordis discovers a Limbo Systems Theorem. The player must return to Syrtis, Mars to gather 1 more Proof Fragments to craft it.
+After Limbo Systems Theorem is completed, Ordis will send the player another coordinate. He will also extrapolate his findings about the existence of the Rift, and its connection to Limbo.
+Magician of Math: Martialis, Mars
+The player will undertake another Excavation mission to extract the Limbo Systems Blueprint on Martialis, Mars.
+After completing the mission, the player will receive a Limbo Chassis Theorem. Once again, it requires 1 Proof Fragment. Meanwhile, Ordis rethinks his opinion on the theorem and shows anticipation.
+Final Jump: Ose, Europa
+The player is finally directed to Ose, Europa to conduct a final Excavation mission in search of Limbo Chassis Blueprint.
+Ordis eagerly reads the rest of the Theorem, only to find out Limbo made a grave miscalculation that ended in disaster, and urges the player to exercise caution with the Warframe. The quest is considered completed and player can start building Limbo with his blueprint from the Market.
+**Notes:**
+It is not possible to obtain Limbo's components by joining the Excavation missions that reward his parts without actively doing the Quest.
+
+## Mask of the Revenant
+Quest Description
+Mask of the Revenant is a side Quest, released in Update 23.5 (2018-08-24). Cetus vendor Nakak sells a mysterious mask to the Tenno, which tells the tale of a Warframe left behind to prevent the return of a Sentient Eidolon.
+Walkthrough
+The quest can be initiated from the Cetus vendor Nakak once the players have achieved the Observer (second rank) with The Quills, and has talked to her with the "Mask?" prompt. She will inform the player that she received a strange mask, called the "Mask of the Lost One", from Onkko, and will sell it for 1 Cetus Wisp.
+A New Threat Looms
+The player must equip the Mask of the Lost One on their Operator (Not as Drifter; as a hood on the transference suit, the hood must be closed to "see Unum things") and head into the Plains of Eidolon at night. They must then follow the marked white waypoint at the southwest side of Gara Toht Lake. Spotting a large spectral silhouette of an Eidolon that vanishes into the ground, the player must look around the shoreline as an Operator (not Drifter) for a small blotch of energy with a hand reaching out from it and interact with it. Nakak will then receive a vision from the Unum, explaining that the lake is where Gara had felled the Sentient, and a warden was placed to prevent the Sentient from resurfacing until the warden was lost.
+Nakak will ask the player to rebuild "the lost one", mentioning that the Grineer have found relics and suggests talking to Konzu. The player must now initiate a Bounty until they find and build any part of the Revenant Warframe.
+If the player already has one crafted component of the Revenant Warframe, or purchased a pre-built Revenant from the Market, Nakak will tell the player to proceed. Note that this will not work if the player has previously subsumed Revenant using the Helminth System or with Revenant Prime parts.
+A Terror Long Forgotten
+The player once again must return to the Plains of Eidolon at night. The white waypoint directs the player to the northeast side of Gara Toht Lake, where the specter appears and the player must interact with another small blotch of energy. Nakak sees another vision from the Unum, mentioning that the warden continued to strike down the Sentient until it briefly hesitated at one point.
+To proceed, the player must return to Bounties to find and build a second part of the Revenant Warframe.
+The Lost One
+The final blotch of Sentient energy resides on a river between Gara Toht Lake and Renthi Spring, and again is only visible during the night. Nakak receives one final vision where the lost one foolishly extended a hand to the Eidolon, allowing it to emerge and use him as an anchor to pull itself up, forcing the Warframe to cast himself into the lake to seal the Eidolon.
+Just as Nakak finishes the tale, a Revenant Specter appears and begins attacking with its Phantasma. Nakak tells the player to defeat the specter that serves as the mask for the Eidolon. Defeating the Revenant Specter will yield the blueprint for the Revenant Warframe.
+After building Revenant, a Warframe now infused with the powers of the Eidolon, Nakak warns the Tenno that she had a dream of a new Eidolon emerging and they will need this Warframe's power to combat the new threat.
+**Tips:**
+If players are having trouble defeating the Revenant Specter, the fight can be cheesed in various ways:
+Eidolon Vomvalysts will attack the specter, which will fight back but has no way to damage them in their spectral state.
+An Archwing Launcher can fly outside the reach of its Phantasma’s shots and repeatedly headshot it with a sniper or bow weapon.
+Using Octavia's Mallet will cause the specter to attack it and constantly damage himself.
+Forced Finishers, such as Excalibur's Radial Blind, Ash's Teleport, or Equinox's Rest & Rage in Night Form, will instantly defeat it.
+Using Protea's Grenade Fan and Blaze Artillery to constantly deal damage.
+Using Ivara's Quiver and following up with a few shots from the Artemis Bow will kill it handily.
+Mesa's Peacemaker makes extremely short work of it, particularly in a Corrosive + Cold configuration.
+Using Atlas's Petrify to lock the Specter in place followed by repeated strikes with Landslide downs the Specter in short order.
+**Trivia:**
+Prior to Update 23.10, this quest was not listed in the Codex.
+Mukha (मुख) is Sanskrit for "face", both rather fitting by virtue of being Nakak's cousin, and ironic as he is only mentioned through dialogue.
+The spectral silhouette of an Eidolon and the Fragments acquired in the mission depict the Ropalolyst, which prior to its inclusion in Update 25 was originally designed to be an Eidolon as stated in Devstream 100.
+Despite Nakak claiming Revenant's power would be needed to combat it, the Warframe has no bearing on the Ropalolyst fight.

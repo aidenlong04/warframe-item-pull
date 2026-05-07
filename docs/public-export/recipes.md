@@ -1,35 +1,26 @@
 # Public Export — Crafting Recipes
-
 All foundry crafting recipes with credit costs, build times, and ingredient requirements.
 
 ## InfestedFishBaitB
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 20 Platinum
-
 | Ingredient | Count |
 |---|---|
 | InfestedFishBaitA | 5 |
 
 ## OrokinFishBaitB
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 20 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OrokinFishBaitA | 5 |
 
 ## GargoyleMiscItem
-
 **Credits:** 19 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EntratiLabDogTagCommon | 1 |
 
 ## FishTrophyHybridRareA
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HybridRareAFishItemLarge | 1 |
@@ -38,9 +29,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 1100 |
 
 ## FishTrophyHybridUncommonA
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HybridUncommonAFishItemLarge | 1 |
@@ -49,9 +38,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 1100 |
 
 ## FishTrophyHybridUncommonB
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HybridUncommonBFishItemLarge | 1 |
@@ -60,9 +47,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 1100 |
 
 ## FishTrophyInfestedCommonA
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | InfestedCommonAFishItemLarge | 1 |
@@ -71,9 +56,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 1800 |
 
 ## FishTrophyInfestedCommonB
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | InfestedCommonBFishItemLarge | 1 |
@@ -82,9 +65,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 1800 |
 
 ## FishTrophyInfestedCommonC
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | InfestedCommonCFishItemLarge | 1 |
@@ -93,9 +74,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 1800 |
 
 ## FishTrophyInfestedCommonD
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | InfestedCommonDFishItemLarge | 1 |
@@ -104,9 +83,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 1800 |
 
 ## FishTrophyInfestedCommonE
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | InfestedCommonEFishItemLarge | 1 |
@@ -115,9 +92,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 1800 |
 
 ## FishTrophyInfestedRareA
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | InfestedRareAFishItemLarge | 1 |
@@ -126,9 +101,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 1100 |
 
 ## FishTrophyInfestedUncommonA
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | InfestedUncommonAFishItemLarge | 1 |
@@ -137,9 +110,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 1800 |
 
 ## FishTrophyOrokinLegendaryA
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OrokinLegendaryAFishItemLarge | 1 |
@@ -148,9 +119,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Tellurium | 1 |
 
 ## FishTrophyOrokinRareA
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OrokinRareAFishItemLarge | 1 |
@@ -159,9 +128,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Tellurium | 1 |
 
 ## FishTrophyOrokinUncommonA
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OrokinUncommonAFishItemLarge | 1 |
@@ -170,27 +137,21 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Tellurium | 1 |
 
 ## AnglerVision
-
 **Credits:** 5000 | **Build Time:** 0.1h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | IraditeItem | 10 |
 | Ferrite | 10 |
 
 ## SoftTouch
-
 **Credits:** 5000 | **Build Time:** 0.1h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | IraditeItem | 10 |
 | AlloyPlate | 10 |
 
 ## BothCommonFishATrophy
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BothCommonFishAItemLarge | 1 |
@@ -199,9 +160,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Cryotic | 2000 |
 
 ## BothCommonFishBTrophy
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BothCommonFishBItemLarge | 1 |
@@ -210,9 +169,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Cryotic | 2000 |
 
 ## BothRareBootTrophy
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GrineerBootItem | 1 |
@@ -221,9 +178,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 5 |
 
 ## BothRareFishATrophy
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BothRareFishAItemLarge | 1 |
@@ -232,9 +187,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 5 |
 
 ## BothUncommonFishATrophy
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BothUncommonFishAItemLarge | 1 |
@@ -243,9 +196,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 1200 |
 
 ## BothUncommonFishBTrophy
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BothUncommonFishBItemLarge | 1 |
@@ -254,9 +205,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 1200 |
 
 ## DayCommonFishATrophy
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DayCommonFishAItemLarge | 1 |
@@ -265,9 +214,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Cryotic | 2000 |
 
 ## DayCommonFishBTrophy
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DayCommonFishBItemLarge | 1 |
@@ -276,9 +223,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Cryotic | 2000 |
 
 ## DayCommonFishCTrophy
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DayCommonFishCItemLarge | 1 |
@@ -287,9 +232,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Cryotic | 2000 |
 
 ## DayUncommonFishATrophy
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DayUncommonFishAItemLarge | 1 |
@@ -298,9 +241,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 1200 |
 
 ## DayUncommonFishBTrophy
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DayUncommonFishBItemLarge | 1 |
@@ -309,9 +250,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 1200 |
 
 ## NightLegendaryFishATrophy
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NightLegendaryFishAItemLarge | 1 |
@@ -320,9 +259,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 5 |
 
 ## NightRareFishATrophy
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NightRareFishAItemLarge | 1 |
@@ -331,9 +268,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 5 |
 
 ## NightRareFishBTrophy
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NightRareFishBItemLarge | 1 |
@@ -342,9 +277,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 5 |
 
 ## CorpusBothUncommonFishATrophy
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CorpusBothUncommonFishALargeItem | 1 |
@@ -353,9 +286,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 1000 |
 
 ## CorpusCoolCommonFishATrophy
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CorpusCoolCommonFishALargeItem | 1 |
@@ -364,9 +295,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 2000 |
 
 ## CorpusCoolUncommonFishATrophy
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CorpusCoolUncommonFishALargeItem | 1 |
@@ -375,9 +304,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 1000 |
 
 ## CorpusWarmCommonFishATrophy
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CorpusWarmCommonFishALargeItem | 1 |
@@ -386,9 +313,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Cryotic | 2000 |
 
 ## CorpusWarmCommonFishBTrophy
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CorpusWarmCommonFishBLargeItem | 1 |
@@ -397,9 +322,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 2000 |
 
 ## CorpusWarmUncommonFishATrophy
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CorpusWarmUncommonFishALargeItem | 1 |
@@ -408,9 +331,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 1000 |
 
 ## CrewmanBootTrophy
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CorpusBootItem | 1 |
@@ -419,9 +340,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 5 |
 
 ## OrokinBothLegendaryFishATrophy
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OrokinBothLegendaryFishALargeItem | 1 |
@@ -430,9 +349,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | NeuralSensor | 20 |
 
 ## OrokinBothRareFishATrophy
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OrokinBothRareFishALargeItem | 1 |
@@ -441,9 +358,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ControlModule | 10 |
 
 ## OrokinCoolRareFishATrophy
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OrokinCoolRareFishALargeItem | 1 |
@@ -452,9 +367,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Gallium | 10 |
 
 ## SolarisBothCommonFishATrophy
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisBothCommonFishALargeItem | 1 |
@@ -463,9 +376,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 2000 |
 
 ## SolarisCoolCommonFishATrophy
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisCoolCommonFishALargeItem | 1 |
@@ -474,9 +385,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 2000 |
 
 ## SolarisCoolUncommonFishATrophy
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisCoolUncommonFishALargeItem | 1 |
@@ -485,9 +394,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 1000 |
 
 ## SolarisWarmRareFishATrophy
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisWarmRareFishALargeItem | 1 |
@@ -496,9 +403,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 10 |
 
 ## BioComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BioFragment | 10 |
@@ -507,18 +412,14 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 250 |
 
 ## CorpusCaptureKey
-
 **Credits:** 1500 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CipherPlus | 1 |
 | DataMassPlus | 1 |
 
 ## ChemComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ChemFragment | 10 |
@@ -527,9 +428,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 250 |
 
 ## EnergyComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EnergyFragment | 10 |
@@ -538,33 +437,19 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 250 |
 
 ## RailjackHoodBraceFeatureItem
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## RailjackHoodFeatureItem
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## RailjackHullFeatureItem
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## RailjackNacelleLeftFeatureItem
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## RailjackNacelleRightFeatureItem
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## RailjackTailFeatureItem
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## FoundryVesselUpgradeFeatureItem
-
 **Credits:** 100000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 1 |
@@ -573,9 +458,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Tellurium | 2 |
 
 ## GeneticFoundryCatbrowUpgradeFeatureItem
-
 **Credits:** 100000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 1 |
@@ -583,9 +466,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 60000 |
 
 ## GeneticFoundryUpgradeFeatureItem
-
 **Credits:** 100000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 1 |
@@ -593,9 +474,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OxiumAlloy | 1200 |
 
 ## InfestedFoundryArchonShardFeatureItem
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ZarimanMiscItemB | 2 |
@@ -604,9 +483,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | VoidWraithItem | 50 |
 
 ## InfestedFoundryArchonShardUpgradeFeatureItem
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | MurmurItem | 50 |
@@ -615,9 +492,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | EntratiLabMiscItemB | 25 |
 
 ## InfestedFoundryItem
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AnimalTagInfestedKdriveCommon | 5 |
@@ -626,9 +501,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | InfMapricoFruitItem | 15 |
 
 ## InfestedFoundryUpgradeFeatureItem
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AnimalTagInfestedPredatorCommon | 5 |
@@ -637,9 +510,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | InfGorgaricusSeedItem | 15 |
 
 ## PersonalQuartersFeatureItem
-
 **Credits:** 100000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 1 |
@@ -648,9 +519,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Tellurium | 2 |
 
 ## BardQuestSequencerItem
-
 **Credits:** 5000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BardQuestSequencerPartA | 1 |
@@ -659,9 +528,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 3 |
 
 ## AssassinateInfestedAladVKey
-
 **Credits:** 20000 | **Build Time:** 1.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | InfestedAladCoordinate | 1 |
@@ -670,33 +537,25 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 750 |
 
 ## LimboChassisTheorem
-
 **Credits:** 6500 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Beacon | 1 |
 
 ## LimboHelmetTheorem
-
 **Credits:** 6500 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Beacon | 1 |
 
 ## LimboSystemsTheorem
-
 **Credits:** 6500 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Beacon | 1 |
 
 ## DojoKey
-
 **Credits:** 1500 | **Build Time:** 12.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -704,9 +563,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 500 |
 
 ## FairyQuestKeyChain
-
 **Credits:** 5000 | **Build Time:** 6.0h | **Rush:** 15 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 5 |
@@ -715,9 +572,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 1300 |
 
 ## GolemQuestKeyChainItem
-
 **Credits:** 5000 | **Build Time:** 6.0h | **Rush:** 15 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NeuralSensor | 2 |
@@ -725,9 +580,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## LimboQuestKeyChain
-
 **Credits:** 5000 | **Build Time:** 6.0h | **Rush:** 15 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NeuralSensor | 2 |
@@ -735,9 +588,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## MirageQuestKeyChain
-
 **Credits:** 5000 | **Build Time:** 6.0h | **Rush:** 15 Platinum
-
 | Ingredient | Count |
 |---|---|
 | MirageCode | 5 |
@@ -745,9 +596,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 1 |
 
 ## MummyQuestKeyChain
-
 **Credits:** 5000 | **Build Time:** 6.0h | **Rush:** 15 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Nanospores | 5000 |
@@ -755,37 +604,22 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 1 |
 
 ## NightmareKeyShipyardsRetrieval
-
 **Credits:** 5000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DataFragment | 6 |
 | AlloyPlate | 1000 |
 
 ## InfestedAladVQuestKeyChain
-
 **Credits:** 5000 | **Build Time:** 6.0h | **Rush:** 15 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Nanospores | 1200 |
 | Plastids | 200 |
 | Neurode | 1 |
 
-## TestKeyShipyardsRetrieval
-
-**Credits:** 5000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
-| Ingredient | Count |
-|---|---|
-| DataFragment | 3 |
-| PolymerBundle | 1000 |
-
 ## DemolitionJetPack
-
 **Credits:** 25000 | **Build Time:** 36.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DemolitionArchwingChassisComponent | 1 |
@@ -794,9 +628,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ControlModule | 5 |
 
 ## DemolitionArchwingChassisComponent
-
 **Credits:** 15000 | **Build Time:** 6.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -805,9 +637,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 3 |
 
 ## DemolitionArchwingSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 6.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 1 |
@@ -816,9 +646,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Cryotic | 3800 |
 
 ## DemolitionArchwingWingsComponent
-
 **Credits:** 15000 | **Build Time:** 6.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 6000 |
@@ -827,9 +655,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 1100 |
 
 ## PrimeJetPack
-
 **Credits:** 25000 | **Build Time:** 36.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PrimeArchwingChassisComponent | 1 |
@@ -838,9 +664,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## PrimeArchwingChassisComponent
-
 **Credits:** 15000 | **Build Time:** 6.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -848,9 +672,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 300 |
 
 ## PrimeArchwingSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 6.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 1 |
@@ -859,9 +681,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 500 |
 
 ## PrimeArchwingWingsComponent
-
 **Credits:** 15000 | **Build Time:** 6.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 150 |
@@ -870,9 +690,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 500 |
 
 ## StandardJetPack
-
 **Credits:** 7000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | StandardArchwingChassisComponent | 1 |
@@ -881,33 +699,25 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 300 |
 
 ## StandardArchwingChassisComponent
-
 **Credits:** 7000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 1000 |
 
 ## StandardArchwingSystemsComponent
-
 **Credits:** 7000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
 
 ## StandardArchwingWingsComponent
-
 **Credits:** 7000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Rubedo | 500 |
 
 ## StealthJetPack
-
 **Credits:** 25000 | **Build Time:** 36.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | StealthArchwingChassisComponent | 1 |
@@ -916,9 +726,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ControlModule | 2 |
 
 ## StealthArchwingChassisComponent
-
 **Credits:** 15000 | **Build Time:** 6.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OxiumAlloy | 180 |
@@ -927,9 +735,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Tellurium | 2 |
 
 ## StealthArchwingSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 6.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 1 |
@@ -938,9 +744,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## StealthArchwingWingsComponent
-
 **Credits:** 15000 | **Build Time:** 6.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 150 |
@@ -949,9 +753,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Tellurium | 2 |
 
 ## SupportJetPack
-
 **Credits:** 25000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SupportArchwingChassisComponent | 1 |
@@ -960,9 +762,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 4 |
 
 ## SupportArchwingChassisComponent
-
 **Credits:** 15000 | **Build Time:** 6.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 2 |
@@ -971,9 +771,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 5500 |
 
 ## SupportArchwingSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 6.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 1 |
@@ -982,9 +780,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 2800 |
 
 ## SupportArchwingWingsComponent
-
 **Credits:** 15000 | **Build Time:** 6.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 5600 |
@@ -993,9 +789,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 2 |
 
 ## HeavyWeaponCatalyst
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CorpusWidgetAItem | 10 |
@@ -1003,9 +797,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusWidgetCItem | 2 |
 
 ## SetThreeChestArmor
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -1014,9 +806,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## SetThreeLegArmor
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -1025,9 +815,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## SetThreeArmArmor
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -1036,9 +824,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## SetTwoChestArmor
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -1047,9 +833,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## SetTwoLegArmor
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -1058,9 +842,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## SetTwoArmArmor
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -1069,9 +851,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## SetOneChestArmor
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -1080,9 +860,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## SetOneLegArmor
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -1091,9 +869,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## SetOneArmArmor
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -1102,18 +878,14 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## OroFusexOrnamentB
-
 **Credits:** 100000 | **Build Time:** 1.0h | **Rush:** 2 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OroFusexOrnamentA | 2 |
 | Elitium | 1 |
 
 ## AncientHealerBall
-
 **Credits:** 7500 | **Build Time:** 8.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Nanospores | 2500 |
@@ -1121,9 +893,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 2500 |
 
 ## BrandRemovalFakeItem
-
 **Credits:** 5000 | **Build Time:** 0.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -1132,18 +902,14 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OxiumAlloy | 20 |
 
 ## BronzeSpectre
-
 **Credits:** 15000 | **Build Time:** 8.0h | **Rush:** 20 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 7500 |
 | Ferrite | 5000 |
 
 ## ChargerBall
-
 **Credits:** 7500 | **Build Time:** 8.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Nanospores | 2500 |
@@ -1151,9 +917,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 2500 |
 
 ## ClemBall
-
 **Credits:** 7500 | **Build Time:** 8.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Nanospores | 2500 |
@@ -1161,9 +925,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 2500 |
 
 ## ControlModule
-
 **Credits:** 15000 | **Build Time:** 1.0h | **Rush:** 2 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 10000 |
@@ -1172,9 +934,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 10000 |
 
 ## CorruptedBombardBall
-
 **Credits:** 7500 | **Build Time:** 8.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Nanospores | 2500 |
@@ -1182,9 +942,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 2500 |
 
 ## CorruptedLancerBall
-
 **Credits:** 7500 | **Build Time:** 8.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Nanospores | 2500 |
@@ -1192,17 +950,13 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 2500 |
 
 ## EliteAlertShipDeco
-
 **Credits:** 100000 | **Build Time:** 8.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Elitium | 25 |
 
 ## FormaAura
-
 **Credits:** 100000 | **Build Time:** 24.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Forma | 4 |
@@ -1210,9 +964,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 10 |
 
 ## Forma
-
 **Credits:** 35000 | **Build Time:** 23.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -1221,9 +973,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## FormaOmega
-
 **Credits:** 35000 | **Build Time:** 24.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -1232,9 +982,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## FormaStance
-
 **Credits:** 100000 | **Build Time:** 24.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Forma | 1 |
@@ -1242,9 +990,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 5 |
 
 ## Gallium
-
 **Credits:** 15000 | **Build Time:** 1.0h | **Rush:** 2 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 10000 |
@@ -1253,9 +999,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 5000 |
 
 ## GoldSpectre
-
 **Credits:** 50000 | **Build Time:** 8.0h | **Rush:** 20 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PolymerBundle | 1000 |
@@ -1264,9 +1008,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 1000 |
 
 ## InfestedBaitBall
-
 **Credits:** 7500 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | JuggernautPartA | 1 |
@@ -1275,18 +1017,14 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | JuggernautPartD | 1 |
 
 ## InfestedIrradiatedBaitBall
-
 **Credits:** 7500 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | InfestedBaitBall | 1 |
 | ArgonCrystal | 3 |
 
 ## MoaBall
-
 **Credits:** 7500 | **Build Time:** 8.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Nanospores | 2500 |
@@ -1294,9 +1032,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 2500 |
 
 ## Morphic
-
 **Credits:** 15000 | **Build Time:** 1.0h | **Rush:** 2 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 10000 |
@@ -1305,9 +1041,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 5000 |
 
 ## NeuralSensor
-
 **Credits:** 15000 | **Build Time:** 1.0h | **Rush:** 2 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 50000 |
@@ -1315,9 +1049,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 25000 |
 
 ## Neurode
-
 **Credits:** 15000 | **Build Time:** 1.0h | **Rush:** 2 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 50000 |
@@ -1325,9 +1057,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 25000 |
 
 ## OrokinCatalyst
-
 **Credits:** 25000 | **Build Time:** 23.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -1336,9 +1066,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## OrokinCell
-
 **Credits:** 15000 | **Build Time:** 1.0h | **Rush:** 2 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 50000 |
@@ -1346,9 +1074,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 25000 |
 
 ## OrokinReactor
-
 **Credits:** 35000 | **Build Time:** 23.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -1357,9 +1083,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## PlatinumSpectre
-
 **Credits:** 60000 | **Build Time:** 8.0h | **Rush:** 20 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Circuits | 500 |
@@ -1368,9 +1092,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Gallium | 1 |
 
 ## PhaseOneClanItem
-
 **Credits:** 5000 | **Build Time:** 3.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 5000 |
@@ -1378,9 +1100,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PhaseThreeEarthEssence | 15 |
 
 ## RollerBall
-
 **Credits:** 7500 | **Build Time:** 8.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Nanospores | 2500 |
@@ -1388,9 +1108,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 2500 |
 
 ## ShieldDroneBall
-
 **Credits:** 7500 | **Build Time:** 8.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Nanospores | 2500 |
@@ -1398,9 +1116,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 2500 |
 
 ## SilverSpectre
-
 **Credits:** 30000 | **Build Time:** 8.0h | **Rush:** 20 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PolymerBundle | 750 |
@@ -1409,9 +1125,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 1000 |
 
 ## StalkerBall
-
 **Credits:** 7500 | **Build Time:** 8.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Nanospores | 2500 |
@@ -1419,9 +1133,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 2500 |
 
 ## UmbraEchoes
-
 **Credits:** 35000 | **Build Time:** 1.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OrokinCell | 1 |
@@ -1429,9 +1141,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | MemoryCryptoFragment | 1 |
 
 ## FormaUmbra
-
 **Credits:** 35000 | **Build Time:** 24.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Forma | 1 |
@@ -1440,9 +1150,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 1100 |
 
 ## UtilityUnlocker
-
 **Credits:** 25000 | **Build Time:** 23.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Forma | 2 |
@@ -1450,9 +1158,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## VorBoltRemoverFakeItem
-
 **Credits:** 100 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -1460,9 +1166,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 240 |
 
 ## WeaponUtilityUnlocker
-
 **Credits:** 25000 | **Build Time:** 23.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Forma | 1 |
@@ -1470,9 +1174,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## NechroTech
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NecromechPartChassisItem | 1 |
@@ -1481,9 +1183,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | NecromechPartWeaponPodItem | 1 |
 
 ## NecromechPartChassisItem
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DamagedMechPartChassisItem | 1 |
@@ -1492,9 +1192,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrbStoneItem | 140 |
 
 ## NecromechPartEngineItem
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DamagedMechPartEngineItem | 1 |
@@ -1503,9 +1201,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## NecromechPartSystemsItem
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DamagedMechPartSystemsItem | 1 |
@@ -1514,9 +1210,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosUncommonOreAAlloyItem | 50 |
 
 ## NecromechPartWeaponPodItem
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DamagedMechPartWeaponPodItem | 1 |
@@ -1525,9 +1219,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosCommonGemBCutItem | 30 |
 
 ## ThanotechArchGunBarrelItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DamagedMechWeaponBarrelItem | 1 |
@@ -1536,9 +1228,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | UncommonOreAAlloyAItem | 20 |
 
 ## ThanotechArchGunReceiverItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DamagedMechWeaponReceiverItem | 1 |
@@ -1547,9 +1237,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisFishDissipatorCoilItem | 15 |
 
 ## ThanotechArchGunStockItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DamagedMechWeaponStockItem | 1 |
@@ -1558,9 +1246,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ConcentratedGas | 250 |
 
 ## ThanoTech
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ThanomechPartChassisItem | 1 |
@@ -1569,9 +1255,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ThanomechPartWeaponPodItem | 1 |
 
 ## ThanotechGrenadeLauncherBarrelItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DamagedMechWeaponBarrelItem | 1 |
@@ -1580,9 +1264,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | UncommonOreAAlloyAItem | 20 |
 
 ## ThanotechGrenadeLauncherReceiverItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DamagedMechWeaponReceiverItem | 1 |
@@ -1591,9 +1273,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisFishDissipatorCoilItem | 15 |
 
 ## ThanotechGrenadeLauncherStockItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DamagedMechWeaponStockItem | 1 |
@@ -1602,9 +1282,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ConcentratedGas | 250 |
 
 ## ThanomechPartChassisItem
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DamagedMechPartChassisItem | 1 |
@@ -1613,9 +1291,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisUncommonGemACutItem | 15 |
 
 ## ThanomechPartEngineItem
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DamagedMechPartEngineItem | 1 |
@@ -1624,9 +1300,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | TitaniumRailjackItem | 750 |
 
 ## ThanomechPartSystemsItem
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DamagedMechPartSystemsItem | 1 |
@@ -1635,9 +1309,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | RareGemACutAItem | 6 |
 
 ## ThanomechPartWeaponPodItem
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DamagedMechPartWeaponPodItem | 1 |
@@ -1646,9 +1318,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | GenericFishScrapItem | 45 |
 
 ## InfestedCritterAntigenA
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | InfestedFishBaitA | 6 |
@@ -1657,9 +1327,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosInfestedFishAPartItem | 15 |
 
 ## InfestedCritterAntigenB
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | InfestedFishBaitA | 6 |
@@ -1668,9 +1336,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosInfestedFishBPartItem | 15 |
 
 ## InfestedCritterAntigenC
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | InfestedFishBaitA | 6 |
@@ -1679,9 +1345,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosInfestedFishCPartItem | 15 |
 
 ## InfestedCritterAntigenD
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | InfestedFishBaitA | 6 |
@@ -1690,9 +1354,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosInfestedFishDPartItem | 15 |
 
 ## InfestedCritterMutagenA
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OrokinFishBaitA | 6 |
@@ -1701,9 +1363,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosInfestedFishEPartItem | 12 |
 
 ## InfestedCritterMutagenB
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OrokinFishBaitA | 6 |
@@ -1712,9 +1372,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosOrokinFishAPartItem | 12 |
 
 ## InfestedCritterMutagenC
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OrokinFishBaitA | 6 |
@@ -1723,9 +1381,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosOrokinFishBPartItem | 8 |
 
 ## InfestedCritterMutagenD
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OrokinFishBaitA | 6 |
@@ -1734,9 +1390,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosOrokinFishCPartItem | 4 |
 
 ## InfestedPredatorAntigenA
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | InfestedFishBaitA | 6 |
@@ -1745,9 +1399,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosInfestedFishAPartItem | 15 |
 
 ## InfestedPredatorAntigenB
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | InfestedFishBaitA | 6 |
@@ -1756,9 +1408,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosInfestedFishBPartItem | 15 |
 
 ## InfestedPredatorAntigenC
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | InfestedFishBaitA | 6 |
@@ -1767,9 +1417,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosInfestedFishCPartItem | 15 |
 
 ## InfestedPredatorAntigenD
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | InfestedFishBaitA | 6 |
@@ -1778,9 +1426,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosInfestedFishDPartItem | 15 |
 
 ## InfestedPredatorMutagenA
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OrokinFishBaitA | 6 |
@@ -1789,9 +1435,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosInfestedFishEPartItem | 12 |
 
 ## InfestedPredatorMutagenB
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OrokinFishBaitA | 6 |
@@ -1800,9 +1444,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosOrokinFishAPartItem | 12 |
 
 ## InfestedPredatorMutagenC
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OrokinFishBaitA | 6 |
@@ -1811,9 +1453,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosOrokinFishBPartItem | 8 |
 
 ## InfestedPredatorMutagenD
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OrokinFishBaitA | 6 |
@@ -1822,25 +1462,19 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosOrokinFishCPartItem | 4 |
 
 ## DeimosCommonGemACutItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DeimosCommonGemAItem | 10 |
 
 ## DeimosCommonGemBCutItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DeimosCommonGemBItem | 10 |
 
 ## DeimosCommonOreAAlloyItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DeimosCommonOreAItem | 20 |
@@ -1849,9 +1483,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrbStoneItem | 15 |
 
 ## DeimosCommonOreBAlloyItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DeimosCommonOreBItem | 20 |
@@ -1860,33 +1492,25 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrbStoneItem | 15 |
 
 ## DeimosEidolonGemACutItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DeimosEidolonGemAItem | 3 |
 
 ## DeimosEidolonGemBCutItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DeimosEidolonGemBItem | 3 |
 
 ## DeimosRareGemACutItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DeimosRareGemAItem | 6 |
 
 ## DeimosRareOreAAlloyItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DeimosRareOreAItem | 20 |
@@ -1895,17 +1519,13 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrbStoneItem | 15 |
 
 ## DeimosUncommonGemACutItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DeimosUncommonGemAItem | 10 |
 
 ## DeimosUncommonOreAAlloyItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DeimosUncommonOreAItem | 20 |
@@ -1914,9 +1534,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrbStoneItem | 15 |
 
 ## ThanoTechMask
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DamagedMechPartSystemsItem | 1 |
@@ -1925,9 +1543,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | UncommonGemACutAItem | 20 |
 
 ## ThanotechSentinelSkin
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DamagedMechPartSystemsItem | 1 |
@@ -1936,9 +1552,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | UncommonGemACutAItem | 20 |
 
 ## ThanoTechTail
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DamagedMechPartSystemsItem | 1 |
@@ -1947,9 +1561,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | UncommonGemACutAItem | 20 |
 
 ## ThanoTechWings
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DamagedMechPartSystemsItem | 1 |
@@ -1958,61 +1570,47 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | UncommonGemACutAItem | 20 |
 
 ## AdvancedResourceDrone
-
 **Credits:** 20000 | **Build Time:** 6.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 500 |
 | Nanospores | 300 |
 
 ## AdvancedUcResourceDrone
-
 **Credits:** 65000 | **Build Time:** 6.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PolymerBundle | 2000 |
 | OxiumAlloy | 300 |
 
 ## BasicResourceDrone
-
 **Credits:** 10000 | **Build Time:** 6.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PolymerBundle | 500 |
 | Ferrite | 300 |
 
 ## BasicUcResourceDrone
-
 **Credits:** 50000 | **Build Time:** 6.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PolymerBundle | 1000 |
 | OxiumAlloy | 150 |
 
 ## CommonGemACutAItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CommonGemAItem | 10 |
 
 ## CommonGemBCutAItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CommonGemBItem | 10 |
 
 ## CommonOreAAlloyAItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CommonOreAItem | 20 |
@@ -2020,9 +1618,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 50 |
 
 ## CommonOreBAlloyBItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CommonOreBItem | 20 |
@@ -2030,25 +1626,19 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 50 |
 
 ## EidolonGemACutAItem
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EidolonGemAItem | 3 |
 
 ## EidolonGemBCutAItem
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EidolonGemBItem | 3 |
 
 ## MiningLaserB
-
 **Credits:** 3500 | **Build Time:** 1.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CommonOreAAlloyAItem | 40 |
@@ -2057,18 +1647,14 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 500 |
 
 ## MiningLaser
-
 **Credits:** 3500 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 2000 |
 | Circuits | 500 |
 
 ## MiningLaserC
-
 **Credits:** 3500 | **Build Time:** 1.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | UncommonOreAAlloyAItem | 40 |
@@ -2076,17 +1662,13 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 500 |
 
 ## RareGemACutAItem
-
 **Credits:** 5000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | RareGemAItem | 6 |
 
 ## RareOreAAlloyAItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | RareOreAItem | 20 |
@@ -2094,17 +1676,13 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 5 |
 
 ## UncommonGemACutAItem
-
 **Credits:** 2500 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | UncommonGemAItem | 10 |
 
 ## UncommonOreAAlloyAItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | UncommonOreAItem | 20 |
@@ -2112,9 +1690,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 200 |
 
 ## InfestedEventClanIngredient
-
 **Credits:** 500 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Plastids | 500 |
@@ -2122,9 +1698,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 1800 |
 
 ## InfestedEventIngredient
-
 **Credits:** 500 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | IraditeItem | 15 |
@@ -2132,9 +1706,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | NistlebrushItem | 10 |
 
 ## QuillsUncommonDogTag
-
 **Credits:** 5000 | **Build Time:** 0.1h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | QuillsDogTag | 10 |
@@ -2142,9 +1714,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | EidolonGemBCutAItem | 1 |
 
 ## BothRareFishBaitAItem
-
 **Credits:** 2000 | **Build Time:** 0.1h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DayUncommonFishAPartItem | 5 |
@@ -2153,9 +1723,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | EidolonFishMeatItem | 20 |
 
 ## BothUncommonFishBaitItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NistlebrushItem | 10 |
@@ -2164,18 +1732,14 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | EidolonFishMeatItem | 20 |
 
 ## GenericFishBait
-
 **Credits:** 500 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NistlebrushItem | 20 |
 | EidolonFishMeatItem | 20 |
 
 ## NightLegendaryFishBaitItem
-
 **Credits:** 5000 | **Build Time:** 0.2h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EidolonFruitItem | 5 |
@@ -2184,9 +1748,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | EidolonFishMeatItem | 10 |
 
 ## NightRareFishBaitAItem
-
 **Credits:** 2000 | **Build Time:** 0.1h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EidolonFruitItem | 5 |
@@ -2195,9 +1757,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | EidolonFishMeatItem | 20 |
 
 ## NightRareFishBaitBItem
-
 **Credits:** 2000 | **Build Time:** 0.1h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EidolonFruitItem | 5 |
@@ -2206,9 +1766,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | EidolonFishMeatItem | 20 |
 
 ## AlchemistAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -2217,9 +1775,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## AnimaAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Cryotic | 600 |
@@ -2228,9 +1784,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Tellurium | 2 |
 
 ## NinjaHelmetAlt
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -2239,9 +1793,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## DecreeAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -2250,9 +1802,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## BardAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 5000 |
@@ -2261,9 +1811,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## BrawlerAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 1200 |
@@ -2272,9 +1820,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## BrawlerAlt2Helmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 4400 |
@@ -2283,9 +1829,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 2 |
 
 ## CalibanAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SentientFragmentLootItem | 2 |
@@ -2294,9 +1838,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | EidolonGemBCutAItem | 4 |
 
 ## ChromaAltBHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 600 |
@@ -2305,9 +1847,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Tellurium | 2 |
 
 ## GeodeAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -2316,225 +1856,169 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 3 |
 
 ## AntiAltHelmetStatless
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AntiAltHelmet | 1 |
 
 ## AspAltHelmetBStatless
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AspAltHelmetB | 1 |
 
 ## AspAltHelmetStatless
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AspAltHelmet | 1 |
 
 ## DecreeAltHelmetBStatless
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DecreeAltHelmetB | 1 |
 
 ## DecreeAltHelmetStatless
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DecreeAltHelmet | 1 |
 
 ## EmberHelmetAltBStatless
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EmberHelmetAltB | 1 |
 
 ## EmberHelmetAltStatless
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EmberHelmetAlt | 1 |
 
 ## ExcaliburHelmetAltBStatless
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ExcaliburHelmetAltB | 1 |
 
 ## ExcaliburHelmetAltStatless
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ExcaliburHelmetAlt | 1 |
 
 ## FrostHelmetAltBStatless
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | FrostHelmetAltB | 1 |
 
 ## FrostHelmetAltStatless
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | FrostHelmetAlt | 1 |
 
 ## JadeHelmetAltBStatless
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | JadeHelmetAltB | 1 |
 
 ## JadeHelmetAltStatless
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | JadeHelmetAlt | 1 |
 
 ## LokiHelmetAltBStatless
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | LokiHelmetAltB | 1 |
 
 ## LokiHelmetAltStatless
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | LokiHelmetAlt | 1 |
 
 ## MagHelmetAltBStatless
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | MagHelmetAltB | 1 |
 
 ## MagHelmetAltStatless
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | MagHelmetAlt | 1 |
 
 ## NinjaHelmetAltBStatless
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NinjaHelmetAltB | 1 |
 
 ## NinjaHelmetAltStatless
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NinjaHelmetAlt | 1 |
 
 ## RhinoHelmetAltBStatless
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | RhinoHelmetAltB | 1 |
 
 ## RhinoHelmetAltStatless
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | RhinoHelmetAlt | 1 |
 
 ## TrapperHelmetAltBStatless
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TrapperHelmetAltB | 1 |
 
 ## TrapperHelmetAltStatless
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TrapperHelmetAlt | 1 |
 
 ## TrinityHelmetAltBStatless
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TrinityHelmetAltB | 1 |
 
 ## TrinityHelmetAltStatless
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TrinityHelmetAlt | 1 |
 
 ## VoltHelmetAltBStatless
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VoltHelmetAltB | 1 |
 
 ## VoltHelmetAltStatless
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VoltHelmetAlt | 1 |
 
 ## CowgirlAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 600 |
@@ -2543,9 +2027,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## DagathAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 1500 |
@@ -2554,9 +2036,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## PagemasterAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 1500 |
@@ -2565,9 +2045,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 2 |
 
 ## DragonAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 600 |
@@ -2576,9 +2054,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Tellurium | 2 |
 
 ## EmberHelmetAlt
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -2587,9 +2063,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## ExcaliburHelmetAlt
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -2598,9 +2072,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## ExcaliburHelmetMordred
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 500 |
@@ -2609,9 +2081,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 2 |
 
 ## FairyAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 5000 |
@@ -2620,9 +2090,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 2 |
 
 ## FaerieAltHelm
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 5000 |
@@ -2630,10 +2098,17 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 | Alertium | 2 |
 
-## FrostHelmetAlt
-
+## InkblotAltHelmet
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
+| Ingredient | Count |
+|---|---|
+| Nanospores | 1500 |
+| Rubedo | 1200 |
+| Plastids | 600 |
+| Alertium | 2 |
 
+## FrostHelmetAlt
+**Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -2642,9 +2117,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## FrumentariusAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 5000 |
@@ -2653,9 +2126,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## GarudaAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Cryotic | 600 |
@@ -2664,9 +2135,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Tellurium | 2 |
 
 ## RunnerAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -2675,9 +2144,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## GlassAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 5000 |
@@ -2686,9 +2153,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## DevourerAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -2697,9 +2162,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## GyreAltHelmetA
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VoidWraithItem | 300 |
@@ -2708,9 +2171,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 2 |
 
 ## HarlequinHelmetAlt
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Plastids | 500 |
@@ -2719,9 +2180,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | NeuralSensor | 2 |
 
 ## ShieldAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -2730,9 +2189,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## ChoirAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Nanospores | 1500 |
@@ -2741,9 +2198,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## KhoraAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 5000 |
@@ -2752,9 +2207,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 2 |
 
 ## KoumeiAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Nanospores | 1500 |
@@ -2763,9 +2216,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 2 |
 
 ## PaxDuviricusAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 600 |
@@ -2774,9 +2225,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 3 |
 
 ## MagicianAltBHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 600 |
@@ -2785,9 +2234,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## MagicianAristeasHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PolymerBundle | 600 |
@@ -2796,9 +2243,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | NeuralSensor | 2 |
 
 ## LokiHelmetAlt
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -2807,9 +2252,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## LokiEnigmaHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Plastids | 500 |
@@ -2818,9 +2261,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## MagHelmetAlt
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -2829,9 +2270,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## MesaAltBHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 600 |
@@ -2840,9 +2279,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## MirageAltBHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Plastids | 500 |
@@ -2851,9 +2288,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ControlModule | 2 |
 
 ## MonkeyKingAltHelmetB
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 2000 |
@@ -2862,9 +2297,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Tellurium | 2 |
 
 ## NecroAraknidHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -2873,9 +2306,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | NeuralSensor | 2 |
 
 ## NecroShroudHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -2884,9 +2315,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | NeuralSensor | 2 |
 
 ## NezhaAlt2Helmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 600 |
@@ -2895,9 +2324,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 5 |
 
 ## NezhaAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 600 |
@@ -2906,9 +2333,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 5 |
 
 ## InfestationAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 5000 |
@@ -2917,9 +2342,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 2 |
 
 ## NidusAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 5000 |
@@ -2928,9 +2351,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 2 |
 
 ## NokkoAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 1500 |
@@ -2939,9 +2360,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 2 |
 
 ## AntiAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -2950,9 +2369,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## NovaQuantumHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -2961,9 +2378,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## NovaSlipstreamHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Plastids | 500 |
@@ -2972,9 +2387,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Gallium | 2 |
 
 ## JadeHelmetAlt
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -2983,9 +2396,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## PaladinHelmetAltB
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -2994,9 +2405,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## PaladinHelmetAlt
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -3005,9 +2414,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## OraxiaAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 1500 |
@@ -3016,9 +2423,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 2 |
 
 ## PacifistAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 5000 |
@@ -3027,9 +2432,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## PirateAltBHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Plastids | 500 |
@@ -3038,9 +2441,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 2 |
 
 ## PirateAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -3049,9 +2450,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## PriestAlt2Helmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 5000 |
@@ -3060,9 +2459,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## PriestHelmetAlt
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 5000 |
@@ -3071,9 +2468,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## OdaliskAlt2Helmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -3082,9 +2477,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | NullstonesRailjackItem | 2 |
 
 ## OdaliskAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CarbidesRailjackItem | 2000 |
@@ -3093,9 +2486,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | KommsRailjackItem | 4 |
 
 ## ConcreteFrameAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 1500 |
@@ -3104,9 +2495,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Tellurium | 2 |
 
 ## RangerAlt02Helmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 20 |
@@ -3115,9 +2504,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 3 |
 
 ## RangerAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Nanospores | 1500 |
@@ -3126,9 +2513,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OxiumAlloy | 600 |
 
 ## RevenantHelmetAlt
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Cryotic | 600 |
@@ -3137,9 +2522,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Tellurium | 2 |
 
 ## RhinoHelmetAlt
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -3148,9 +2531,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## SandmanAlt02Helmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NeuralSensor | 5 |
@@ -3159,9 +2540,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 3 |
 
 ## SandmanAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Plastids | 900 |
@@ -3170,9 +2549,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 5 |
 
 ## AspAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -3181,9 +2558,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## WraithAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NeuralSensor | 5 |
@@ -3191,307 +2566,8 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 2 |
 | Alertium | 2 |
 
-## NinjaHelmetAltStatless
-
-**Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Salvage | 500 |
-| AlloyPlate | 350 |
-| OrokinCell | 1 |
-| Neurode | 2 |
-
-## DecreeAltHelmetStatless
-
-**Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Salvage | 500 |
-| AlloyPlate | 350 |
-| OrokinCell | 1 |
-| Neurode | 2 |
-
-## EmberHelmetAltStatless
-
-**Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Salvage | 500 |
-| AlloyPlate | 350 |
-| OrokinCell | 1 |
-| Neurode | 2 |
-
-## ExcaliburHelmetAltStatless
-
-**Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Salvage | 500 |
-| AlloyPlate | 350 |
-| OrokinCell | 1 |
-| Neurode | 2 |
-
-## FrostHelmetAltStatless
-
-**Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Salvage | 500 |
-| AlloyPlate | 350 |
-| OrokinCell | 1 |
-| Neurode | 2 |
-
-## LokiHelmetAltStatless
-
-**Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Salvage | 500 |
-| AlloyPlate | 350 |
-| OrokinCell | 1 |
-| Neurode | 2 |
-
-## MagHelmetAltStatless
-
-**Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Salvage | 500 |
-| AlloyPlate | 350 |
-| OrokinCell | 1 |
-| Neurode | 2 |
-
-## AntiAltHelmetStatless
-
-**Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Salvage | 500 |
-| AlloyPlate | 350 |
-| OrokinCell | 1 |
-| Neurode | 2 |
-
-## JadeHelmetAltStatless
-
-**Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Salvage | 500 |
-| AlloyPlate | 350 |
-| OrokinCell | 1 |
-| Neurode | 2 |
-
-## RhinoHelmetAltStatless
-
-**Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Salvage | 500 |
-| AlloyPlate | 350 |
-| OrokinCell | 1 |
-| Neurode | 2 |
-
-## AspAltHelmetStatless
-
-**Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Salvage | 500 |
-| AlloyPlate | 350 |
-| OrokinCell | 1 |
-| Neurode | 2 |
-
-## TrinityHelmetAltStatless
-
-**Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Salvage | 500 |
-| AlloyPlate | 350 |
-| OrokinCell | 1 |
-| Neurode | 2 |
-
-## NinjaHelmetAltBStatless
-
-**Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Salvage | 500 |
-| AlloyPlate | 350 |
-| OrokinCell | 1 |
-| Neurode | 2 |
-
-## DecreeAltHelmetBStatless
-
-**Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Salvage | 500 |
-| AlloyPlate | 350 |
-| OrokinCell | 1 |
-| Neurode | 2 |
-
-## EmberHelmetAltBStatless
-
-**Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Salvage | 500 |
-| AlloyPlate | 350 |
-| OrokinCell | 1 |
-| Neurode | 2 |
-
-## ExcaliburHelmetAltBStatless
-
-**Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Salvage | 500 |
-| AlloyPlate | 350 |
-| OrokinCell | 1 |
-| Neurode | 2 |
-
-## FrostHelmetAltBStatless
-
-**Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Salvage | 500 |
-| AlloyPlate | 350 |
-| OrokinCell | 1 |
-| Neurode | 2 |
-
-## LokiHelmetAltBStatless
-
-**Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Salvage | 500 |
-| AlloyPlate | 350 |
-| OrokinCell | 1 |
-| Neurode | 2 |
-
-## MagHelmetAltBStatless
-
-**Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Salvage | 500 |
-| AlloyPlate | 350 |
-| OrokinCell | 1 |
-| Neurode | 2 |
-
-## JadeHelmetAltBStatless
-
-**Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Salvage | 500 |
-| AlloyPlate | 350 |
-| OrokinCell | 1 |
-| Neurode | 2 |
-
-## RhinoHelmetAltBStatless
-
-**Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Salvage | 500 |
-| AlloyPlate | 350 |
-| OrokinCell | 1 |
-| Neurode | 2 |
-
-## AspAltHelmetBStatless
-
-**Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Salvage | 500 |
-| AlloyPlate | 350 |
-| OrokinCell | 1 |
-| Neurode | 2 |
-
-## TrinityHelmetAltBStatless
-
-**Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Salvage | 500 |
-| AlloyPlate | 350 |
-| OrokinCell | 1 |
-| Neurode | 2 |
-
-## TrapperHelmetAltBStatless
-
-**Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Salvage | 500 |
-| AlloyPlate | 350 |
-| OrokinCell | 1 |
-| Neurode | 2 |
-
-## VoltHelmetAltBStatless
-
-**Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Salvage | 500 |
-| AlloyPlate | 350 |
-| OrokinCell | 1 |
-| Neurode | 2 |
-
-## TrapperHelmetAltStatless
-
-**Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Salvage | 500 |
-| AlloyPlate | 350 |
-| OrokinCell | 1 |
-| Neurode | 2 |
-
-## VoltHelmetAltStatless
-
-**Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Salvage | 500 |
-| AlloyPlate | 350 |
-| OrokinCell | 1 |
-| Neurode | 2 |
-
 ## HopliteAltCHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OxiumAlloy | 1200 |
@@ -3500,9 +2576,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | RareGemACutAItem | 15 |
 
 ## HopliteAltDHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 3000 |
@@ -3511,9 +2585,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | VoidWraithItem | 300 |
 
 ## HopliteAltBHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -3522,9 +2594,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosCommonGemBCutItem | 20 |
 
 ## TempleAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Nanospores | 1500 |
@@ -3533,9 +2603,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 2 |
 
 ## TrinityHelmetAlt
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -3543,10 +2611,17 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 | Neurode | 2 |
 
-## AnimaAltHelmetTwo
-
+## DemonFrameAltHelmet
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
+| Ingredient | Count |
+|---|---|
+| Nanospores | 1500 |
+| Rubedo | 1200 |
+| Plastids | 600 |
+| Alertium | 2 |
 
+## AnimaAltHelmetTwo
+**Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
 | Ingredient | Count |
 |---|---|
 | Cryotic | 600 |
@@ -3555,9 +2630,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Tellurium | 2 |
 
 ## NinjaHelmetAltB
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -3566,9 +2639,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## DecreeAltHelmetB
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -3577,9 +2648,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## EmberHelmetAltB
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -3588,9 +2657,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## ExcaliburHelmetAltB
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -3599,9 +2666,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## FrostHelmetAltB
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -3610,9 +2675,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## LokiHelmetAltB
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -3621,9 +2684,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## MagHelmetAltB
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -3632,9 +2693,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## JadeHelmetAltB
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -3643,9 +2702,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## RhinoHelmetAltB
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -3654,9 +2711,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## AspAltHelmetB
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -3665,9 +2720,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## TrinityHelmetAltB
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -3676,9 +2729,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## TrapperHelmetAltB
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -3687,9 +2738,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## VoltHelmetAltB
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -3698,9 +2747,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## ValkyrAltBHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -3709,9 +2756,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## BerserkerBastetHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -3720,9 +2765,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## TrapperHelmetAlt
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -3731,9 +2774,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## TrapperHelmetSoldier
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 500 |
@@ -3742,9 +2783,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | NeuralSensor | 2 |
 
 ## VoltHelmetAlt
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -3753,9 +2792,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## WerewolfAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -3764,9 +2801,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 3 |
 
 ## WispAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -3774,21 +2809,8 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 | Neurode | 2 |
 
-## MonkeyKingAltHelmetB
-
-**Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Plastids | 2500 |
-| OxiumAlloy | 800 |
-| OrokinCell | 1 |
-| Alertium | 2 |
-
 ## MonkeyKingAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Plastids | 3700 |
@@ -3797,9 +2819,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 2 |
 
 ## BrokenFrameAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DeimosCommonGemACutItem | 1 |
@@ -3808,9 +2828,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 1 |
 
 ## YareliAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -3819,9 +2837,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## TenguAltHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Nanospores | 500 |
@@ -3830,9 +2846,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OxiumAlloy | 2 |
 
 ## TenguAltBHelmet
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Nanospores | 500 |
@@ -3841,18 +2855,14 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## PrimeKubrowCollarA
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PrimeKubrowCollarABandComponent | 1 |
 | PrimeKubrowCollarABuckleComponent | 1 |
 
 ## BlankTraitPrint
-
 **Credits:** 10000 | **Build Time:** 6.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Nanospores | 700 |
@@ -3860,9 +2870,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ControlModule | 1 |
 
 ## EggHatcher
-
 **Credits:** 100000 | **Build Time:** 8.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Nanospores | 4500 |
@@ -3870,9 +2878,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 1 |
 
 ## BlueSkyAvionicsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Nanospores | 11000 |
@@ -3881,9 +2887,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ControlModule | 8 |
 
 ## BlueSkyShip
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BlueSkyAvionicsComponent | 1 |
@@ -3892,9 +2896,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## BlueSkyEnginesComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PolymerBundle | 7500 |
@@ -3903,9 +2905,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 3 |
 
 ## BlueSkyFuselageComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 8000 |
@@ -3914,9 +2914,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 4 |
 
 ## GyroscopeAvionicsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Nanospores | 11000 |
@@ -3925,9 +2923,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ControlModule | 8 |
 
 ## GyroscopeShip
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GyroscopeAvionicsComponent | 1 |
@@ -3936,9 +2932,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## GyroscopeEnginesComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PolymerBundle | 7500 |
@@ -3947,9 +2941,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 3 |
 
 ## GyroscopeFuselageComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 8000 |
@@ -3958,9 +2950,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 4 |
 
 ## InsectShip
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | MantysExoskeletonComponent | 1 |
@@ -3969,9 +2959,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## MantysExoskeletonComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 9000 |
@@ -3980,9 +2968,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 10 |
 
 ## MantysPowerCoreComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PolymerBundle | 7500 |
@@ -3991,9 +2977,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 3 |
 
 ## MantysStarChartComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Nanospores | 11000 |
@@ -4002,9 +2986,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ControlModule | 8 |
 
 ## ZarimanShipAvionicsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 2400 |
@@ -4013,9 +2995,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ZarimanMiscItemB | 8 |
 
 ## ZarimanShip
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ZarimanShipAvionicsComponent | 1 |
@@ -4024,9 +3004,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## ZarimanShipEnginesComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 13000 |
@@ -4035,9 +3013,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## ZarimanShipFuselageComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 11000 |
@@ -4046,9 +3022,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 4 |
 
 ## AttackLensGreater
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Forma | 1 |
@@ -4057,36 +3031,21 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AttackLens | 4 |
 
 ## AttackLensLua
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AttackLensOstron | 1 |
 | MemoryCryptoFragment | 5 |
 
 ## AttackLensOstron
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AttackLensGreater | 1 |
 | Eidolonium | 5 |
 
-## AttackLensOstron
-
-**Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 10 Platinum
-
-| Ingredient | Count |
-|---|---|
-| FocusLensOstron | 1 |
-| Eidolonium | 2 |
-
 ## DefenseLensGreater
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Forma | 1 |
@@ -4095,54 +3054,35 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DefenseLens | 4 |
 
 ## DefenseLensLua
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DefenseLensOstron | 1 |
 | MemoryCryptoFragment | 5 |
 
 ## DefenseLensOstron
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DefenseLensGreater | 1 |
 | Eidolonium | 5 |
 
-## DefenseLensOstron
-
-**Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 10 Platinum
-
-| Ingredient | Count |
-|---|---|
-| FocusLensOstron | 1 |
-| Eidolonium | 2 |
-
 ## FocusLensLua
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | FocusLensOstron | 1 |
 | MemoryCryptoFragment | 5 |
 
 ## FocusLensOstron
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | FocusLensGreater | 1 |
 | Eidolonium | 5 |
 
 ## PowerLensGreater
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Forma | 1 |
@@ -4151,36 +3091,21 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PowerLens | 4 |
 
 ## PowerLensLua
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PowerLensOstron | 1 |
 | MemoryCryptoFragment | 5 |
 
 ## PowerLensOstron
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PowerLensGreater | 1 |
 | Eidolonium | 5 |
 
-## PowerLensOstron
-
-**Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 10 Platinum
-
-| Ingredient | Count |
-|---|---|
-| FocusLensOstron | 1 |
-| Eidolonium | 2 |
-
 ## TacticLensGreater
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Forma | 1 |
@@ -4189,36 +3114,21 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | TacticLens | 4 |
 
 ## TacticLensLua
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TacticLensOstron | 1 |
 | MemoryCryptoFragment | 5 |
 
 ## TacticLensOstron
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TacticLensGreater | 1 |
 | Eidolonium | 5 |
 
-## TacticLensOstron
-
-**Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 10 Platinum
-
-| Ingredient | Count |
-|---|---|
-| FocusLensOstron | 1 |
-| Eidolonium | 2 |
-
 ## WardLensGreater
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Forma | 1 |
@@ -4227,36 +3137,21 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | WardLens | 4 |
 
 ## WardLensLua
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | WardLensOstron | 1 |
 | MemoryCryptoFragment | 5 |
 
 ## WardLensOstron
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | WardLensGreater | 1 |
 | Eidolonium | 5 |
 
-## WardLensOstron
-
-**Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 10 Platinum
-
-| Ingredient | Count |
-|---|---|
-| FocusLensOstron | 1 |
-| Eidolonium | 2 |
-
 ## MoaPetEngineArcotek
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisCommonGemACutItem | 15 |
@@ -4265,9 +3160,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishMuonBatteryItem | 10 |
 
 ## MoaPetEngineKrisys
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisCommonGemBCutItem | 15 |
@@ -4276,9 +3169,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishMuonBatteryItem | 10 |
 
 ## MeleeMoaPetEngine
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisRareGemACutItem | 5 |
@@ -4287,9 +3178,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishRotobladeItem | 10 |
 
 ## MoaPetEngineThricore
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisCommonGemACutItem | 15 |
@@ -4298,9 +3187,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishMuonBatteryItem | 10 |
 
 ## MoaPetHeadLambeo
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VenusCoconutItem | 20 |
@@ -4309,9 +3196,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 2 |
 
 ## MoaPetHeadMelee
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VenusCoconutItem | 20 |
@@ -4320,9 +3205,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 2 |
 
 ## MoaPetHeadOloro
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CoolantItem | 20 |
@@ -4331,9 +3214,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 2 |
 
 ## MoaPetHeadPara
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | FungusHeartItem | 20 |
@@ -4342,9 +3223,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 2 |
 
 ## MoaPetLegA
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | FungusHeartItem | 15 |
@@ -4353,9 +3232,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisCommonOreBAlloyItem | 25 |
 
 ## MoaPetLegB
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VenusTreeItem | 15 |
@@ -4364,9 +3241,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishAnoscopicSensorItem | 15 |
 
 ## MoaPetLegC
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VenusTreeItem | 15 |
@@ -4375,9 +3250,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishMuonBatteryItem | 15 |
 
 ## MoaPetLegD
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VenusTreeItem | 15 |
@@ -4386,9 +3259,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisFishDissipatorCoilItem | 15 |
 
 ## MoaPetLegMelee
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | FungusHeartItem | 15 |
@@ -4397,9 +3268,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishMuonBatteryItem | 15 |
 
 ## MoaPetPayloadAegron
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CoolantItem | 20 |
@@ -4408,9 +3277,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 1000 |
 
 ## MoaPetPayloadCryoxion
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CoolantItem | 20 |
@@ -4419,9 +3286,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 1000 |
 
 ## MoaPetPayloadDarta
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | FungusHeartItem | 20 |
@@ -4430,9 +3295,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 1000 |
 
 ## MoaPetPayloadHextra
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VenusCoconutItem | 20 |
@@ -4441,9 +3304,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 1000 |
 
 ## MeleeMoaPetPayload
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CoolantItem | 20 |
@@ -4452,9 +3313,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OxiumAlloy | 1200 |
 
 ## MoaPetPayloadMunitron
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | FungusHeartItem | 20 |
@@ -4463,9 +3322,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 1000 |
 
 ## MoaPetPayloadTazron
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VenusCoconutItem | 20 |
@@ -4474,9 +3331,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 1000 |
 
 ## MoaPetPayloadThermocor
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VenusTreeItem | 20 |
@@ -4485,9 +3340,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ControlModule | 2 |
 
 ## TeshinArmourArms
-
 **Credits:** 100000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 10 |
@@ -4496,9 +3349,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 50000 |
 
 ## TeshinArmourBody
-
 **Credits:** 100000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 5 |
@@ -4507,9 +3358,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Kuva | 10000 |
 
 ## TeshinArmourHead
-
 **Credits:** 100000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 10 |
@@ -4518,9 +3367,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ConcentratedGas | 500 |
 
 ## TeshinArmourLegs
-
 **Credits:** 100000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Tellurium | 10 |
@@ -4528,21 +3375,8 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 1000 |
 | Salvage | 50000 |
 
-## NinjaHelmetAlt
-
-**Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Nanospores | 500 |
-| Rubedo | 350 |
-| OrokinCell | 1 |
-| Morphic | 2 |
-
 ## WolfHood
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Nanospores | 500 |
@@ -4551,9 +3385,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 2 |
 
 ## ApparatistArmourArms
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidMicroidItem | 5 |
@@ -4562,9 +3394,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisEidolonGemACutItem | 10 |
 
 ## ApparatistArmourBody
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidHungerItem | 5 |
@@ -4573,9 +3403,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisEidolonGemBCutItem | 15 |
 
 ## ApparatistArmourHead
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisEidolonGemACutItem | 10 |
@@ -4584,9 +3412,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinFishEcosynthAnalyzerItem | 15 |
 
 ## ApparatistArmourLegs
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidWraithItem | 5 |
@@ -4595,9 +3421,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Tellurium | 20 |
 
 ## GreaseArmourArms
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidMicroidItem | 5 |
@@ -4606,9 +3430,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisEidolonGemACutItem | 10 |
 
 ## GreaseArmourBody
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidHungerItem | 5 |
@@ -4617,9 +3439,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisEidolonGemBCutItem | 15 |
 
 ## GreaseArmourHead
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisEidolonGemACutItem | 10 |
@@ -4628,9 +3448,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinFishEcosynthAnalyzerItem | 15 |
 
 ## GreaseArmourLegs
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidWraithItem | 5 |
@@ -4639,9 +3457,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Tellurium | 20 |
 
 ## SmelterArmourArms
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidMicroidItem | 5 |
@@ -4650,9 +3466,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisEidolonGemACutItem | 15 |
 
 ## SmelterArmourBody
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidHungerItem | 5 |
@@ -4661,9 +3475,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisEidolonGemBCutItem | 15 |
 
 ## SmelterArmourHead
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisEidolonGemACutItem | 15 |
@@ -4672,9 +3484,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinFishEcosynthAnalyzerItem | 15 |
 
 ## SmelterArmourLegs
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidWraithItem | 5 |
@@ -4683,9 +3493,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Tellurium | 30 |
 
 ## SleevesN
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidMicroidItem | 5 |
@@ -4694,9 +3502,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisEidolonGemACutItem | 10 |
 
 ## BodySuitN
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidHungerItem | 5 |
@@ -4705,9 +3511,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisEidolonGemBCutItem | 15 |
 
 ## HoodN
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisEidolonGemACutItem | 10 |
@@ -4716,9 +3520,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinFishEcosynthAnalyzerItem | 15 |
 
 ## SkirtN
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidHungerItem | 2 |
@@ -4727,9 +3529,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisEidolonGemBCutItem | 3 |
 
 ## LeggingsN
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidWraithItem | 5 |
@@ -4738,9 +3538,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Tellurium | 20 |
 
 ## SleevesO
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidMicroidItem | 5 |
@@ -4749,9 +3547,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisEidolonGemACutItem | 10 |
 
 ## BodySuitO
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidHungerItem | 5 |
@@ -4760,9 +3556,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisEidolonGemBCutItem | 15 |
 
 ## HoodO
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisEidolonGemACutItem | 10 |
@@ -4771,9 +3565,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinFishEcosynthAnalyzerItem | 15 |
 
 ## SkirtO
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidHungerItem | 2 |
@@ -4782,9 +3574,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisEidolonGemBCutItem | 3 |
 
 ## LeggingsO
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidWraithItem | 5 |
@@ -4793,9 +3583,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Tellurium | 20 |
 
 ## TechnomancerArmourArms
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidMicroidItem | 5 |
@@ -4804,9 +3592,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisEidolonGemACutItem | 15 |
 
 ## TechnomancerArmourBody
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidHungerItem | 5 |
@@ -4815,9 +3601,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisEidolonGemBCutItem | 15 |
 
 ## TechnomancerArmourHead
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisEidolonGemACutItem | 15 |
@@ -4826,9 +3610,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinFishEcosynthAnalyzerItem | 15 |
 
 ## TechnomancerArmourLegs
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidWraithItem | 5 |
@@ -4837,9 +3619,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Tellurium | 30 |
 
 ## SkirtJ
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidHungerItem | 2 |
@@ -4848,9 +3628,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisEidolonGemBCutItem | 3 |
 
 ## SkirtK
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidHungerItem | 2 |
@@ -4859,9 +3637,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisEidolonGemBCutItem | 3 |
 
 ## MageArmourArms
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Eidolonium | 30 |
@@ -4870,9 +3646,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | EidolonFishScalesItem | 30 |
 
 ## MageArmourBody
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Eidolonium | 15 |
@@ -4881,9 +3655,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | EidolonFishScalesItem | 30 |
 
 ## MageArmourHead
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Eidolonium | 35 |
@@ -4892,9 +3664,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | EidolonFishScalesItem | 10 |
 
 ## SkirtG
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Eidolonium | 10 |
@@ -4903,9 +3673,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | EidolonFishScalesItem | 20 |
 
 ## MageArmourLegs
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Eidolonium | 30 |
@@ -4914,9 +3682,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | EidolonFishScalesItem | 30 |
 
 ## MonkArmourArms
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Eidolonium | 20 |
@@ -4925,9 +3691,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | BothUncommonFishAPartItem | 20 |
 
 ## MonkArmourBody
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Eidolonium | 20 |
@@ -4936,9 +3700,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | NightLegendaryFishAPartItem | 2 |
 
 ## MonkArmourHead
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Eidolonium | 20 |
@@ -4947,9 +3709,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | NightLegendaryFishAPartItem | 2 |
 
 ## SkirtE
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Eidolonium | 10 |
@@ -4958,9 +3718,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | EidolonFishScalesItem | 20 |
 
 ## MonkArmourLegs
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Eidolonium | 20 |
@@ -4969,9 +3727,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DayUncommonFishBPartItem | 20 |
 
 ## SeerArmourArms
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Eidolonium | 20 |
@@ -4980,9 +3736,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DayUncommonFishAPartItem | 20 |
 
 ## SeerArmourBody
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Eidolonium | 20 |
@@ -4991,9 +3745,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | NightLegendaryFishAPartItem | 2 |
 
 ## SeerArmourHead
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Eidolonium | 20 |
@@ -5002,9 +3754,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | NightLegendaryFishAPartItem | 2 |
 
 ## SkirtF
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Eidolonium | 10 |
@@ -5013,9 +3763,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | EidolonFishScalesItem | 20 |
 
 ## SeerArmourLegs
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Eidolonium | 20 |
@@ -5024,9 +3772,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | BothUncommonFishBPartItem | 20 |
 
 ## AucruxRailjackItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 350 |
@@ -5034,9 +3780,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 5500 |
 
 ## BracoidRailjackItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 75 |
@@ -5044,9 +3788,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 13000 |
 
 ## CarbidesRailjackItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PolymerBundle | 4000 |
@@ -5054,9 +3796,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 8500 |
 
 ## CopernicsRailjackItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Rubedo | 13000 |
@@ -5064,9 +3804,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 8500 |
 
 ## CubicsRailjackItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Circuits | 5500 |
@@ -5074,9 +3812,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 8500 |
 
 ## FresnelsRailjackItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OrokinCell | 50 |
@@ -5084,9 +3820,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Cryotic | 200 |
 
 ## GallosRailjackItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ChemFragment | 750 |
@@ -5094,9 +3828,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 18500 |
 
 ## IsosRailjackItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EnergyFragment | 500 |
@@ -5104,9 +3836,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 7500 |
 
 ## KesslersRailjackItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 65 |
@@ -5114,9 +3844,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Cryotic | 400 |
 
 ## KommsRailjackItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NeuralSensor | 100 |
@@ -5124,9 +3852,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 9000 |
 
 ## PustrelsRailjackItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Plastids | 2500 |
@@ -5134,9 +3860,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 8500 |
 
 ## TrachonsRailjackItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BioFragment | 45 |
@@ -5144,9 +3868,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 26000 |
 
 ## ArcDronePowerSuit
-
 **Credits:** 15000 | **Build Time:** 24.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PolymerBundle | 500 |
@@ -5155,9 +3877,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## CarrierPowerSuit
-
 **Credits:** 15000 | **Build Time:** 24.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 1000 |
@@ -5166,9 +3886,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ControlModule | 3 |
 
 ## DethCubePowerSuit
-
 **Credits:** 15000 | **Build Time:** 24.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 500 |
@@ -5177,9 +3895,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ControlModule | 1 |
 
 ## EmpyreanSentinelPowerSuit
-
 **Credits:** 15000 | **Build Time:** 24.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EmpyreanSentinelCarapace | 1 |
@@ -5188,9 +3904,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | NullstonesRailjackItem | 5 |
 
 ## NautilusPrimeSentinelPowerSuit
-
 **Credits:** 15000 | **Build Time:** 24.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NautilusPrimeCerebrum | 1 |
@@ -5199,9 +3913,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 6 |
 
 ## PrimeCarrierPowerSuit
-
 **Credits:** 15000 | **Build Time:** 24.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PrimeCarrierCerebrum | 1 |
@@ -5210,9 +3922,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 6 |
 
 ## PrimeDethCubePowerSuit
-
 **Credits:** 15000 | **Build Time:** 24.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PrimeDethcubeCerebrum | 1 |
@@ -5221,9 +3931,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 6 |
 
 ## PrimeHeliosPowerSuit
-
 **Credits:** 15000 | **Build Time:** 24.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PrimeHeliosCerebrum | 1 |
@@ -5232,9 +3940,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 6 |
 
 ## PrimeWyrmPowerSuit
-
 **Credits:** 15000 | **Build Time:** 24.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PrimeWyrmCerebrum | 1 |
@@ -5243,9 +3949,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 6 |
 
 ## RadarPowerSuit
-
 **Credits:** 15000 | **Build Time:** 24.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisUncommonGemACutItem | 15 |
@@ -5254,9 +3958,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisFishLatheCoogulantItem | 10 |
 
 ## PrimeShadePowerSuit
-
 **Credits:** 15000 | **Build Time:** 24.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ShadePrimeCerebrum | 1 |
@@ -5265,9 +3967,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 6 |
 
 ## ShadePowerSuit
-
 **Credits:** 15000 | **Build Time:** 24.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 500 |
@@ -5276,9 +3976,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ControlModule | 1 |
 
 ## TnSentinelCrossPowerSuit
-
 **Credits:** 15000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 500 |
@@ -5286,9 +3984,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 1 |
 
 ## WyrmPowerSuit
-
 **Credits:** 15000 | **Build Time:** 24.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 500 |
@@ -5297,9 +3993,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ControlModule | 1 |
 
 ## BulletToBattery
-
 **Credits:** 7500 | **Build Time:** 1.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | FungusHeartItem | 20 |
@@ -5308,9 +4002,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisFishLatheCoogulantItem | 5 |
 
 ## EnergyEfficiencyOnHeadshot
-
 **Credits:** 7500 | **Build Time:** 1.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VenusCoconutItem | 20 |
@@ -5319,9 +4011,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinFishEntroplasmaItem | 5 |
 
 ## EyeInTheSky
-
 **Credits:** 7500 | **Build Time:** 1.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VenusTreeItem | 20 |
@@ -5330,9 +4020,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinFishEcosynthAnalyzerItem | 5 |
 
 ## NokkoMushroomScrawlPosterA
-
 **Credits:** 3500 | **Build Time:** 1.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GasMushroomJournalItem | 10 |
@@ -5340,9 +4028,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ColdMushroomJournalItem | 10 |
 
 ## NokkoMushroomScrawlPosterB
-
 **Credits:** 3500 | **Build Time:** 1.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ToxinMushroomJournalItem | 10 |
@@ -5350,9 +4036,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HeatMushroomJournalItem | 10 |
 
 ## NokkoMushroomScrawlPosterC
-
 **Credits:** 3500 | **Build Time:** 1.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ViralMushroomJournalItem | 10 |
@@ -5360,9 +4044,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PunctureMushroomJournalItem | 10 |
 
 ## NokkoMushroomScrawlPosterD
-
 **Credits:** 3500 | **Build Time:** 1.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PlainMushroomJournalItem | 10 |
@@ -5370,9 +4052,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | BlastMushroomJournalItem | 10 |
 
 ## NokkoMushroomScrawlPosterE
-
 **Credits:** 3500 | **Build Time:** 1.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ToxinMushroomJournalItem | 10 |
@@ -5380,9 +4060,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | RadiationMushroomJournalItem | 10 |
 
 ## NokkoMushroomScrawlPosterF
-
 **Credits:** 3500 | **Build Time:** 1.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GasMushroomJournalItem | 10 |
@@ -5390,9 +4068,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | VoidMushroomJournalItem | 10 |
 
 ## NokkoMushroomScrawlPosterG
-
 **Credits:** 3500 | **Build Time:** 1.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ViralMushroomJournalItem | 10 |
@@ -5400,9 +4076,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | VoidMushroomJournalItem | 10 |
 
 ## MiningLaserSolaris
-
 **Credits:** 3500 | **Build Time:** 1.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | MiningLaserC | 1 |
@@ -5411,25 +4085,19 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 1000 |
 
 ## SolarisCommonGemACutItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisCommonGemAItem | 10 |
 
 ## SolarisCommonGemBCutItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisCommonGemBItem | 10 |
 
 ## SolarisCommonOreAAlloyItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisCommonOreAItem | 20 |
@@ -5437,9 +4105,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 100 |
 
 ## SolarisCommonOreBAlloyItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisCommonOreBItem | 20 |
@@ -5447,33 +4113,25 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 100 |
 
 ## SolarisEidolonGemACutItem
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisEidolonGemAItem | 3 |
 
 ## SolarisEidolonGemBCutItem
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisEidolonGemBItem | 3 |
 
 ## SolarisRareGemACutItem
-
 **Credits:** 5000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisRareGemAItem | 6 |
 
 ## SolarisRareOreAAlloyItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisRareOreAItem | 20 |
@@ -5481,17 +4139,13 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 2 |
 
 ## SolarisUncommonGemACutItem
-
 **Credits:** 2500 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisUncommonGemAItem | 10 |
 
 ## SolarisUncommonOreAAlloyItem
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisUncommonOreItem | 20 |
@@ -5499,9 +4153,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Gallium | 2 |
 
 ## EnergyScarf
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OxiumAlloy | 1000 |
@@ -5510,9 +4162,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | NeuralSensor | 2 |
 
 ## RazorScarf
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 5000 |
@@ -5521,9 +4171,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | NeuralSensor | 2 |
 
 ## ArmScarf
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 5000 |
@@ -5532,9 +4180,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## FlareBlue
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EidolonFruitItem | 5 |
@@ -5543,9 +4189,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | BothUncommonFishBPartItem | 5 |
 
 ## FlareRed
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EidolonFruitItem | 5 |
@@ -5554,9 +4198,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | BothUncommonFishAPartItem | 5 |
 
 ## YinYang
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AnimaComponent | 1 |
@@ -5564,9 +4206,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## AnimaComponent
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AnimaHelmetComponent | 1 |
@@ -5575,9 +4215,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## AnimaChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -5585,9 +4223,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 300 |
 
 ## AnimaHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 150 |
@@ -5596,9 +4232,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 500 |
 
 ## AnimaSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 1 |
@@ -5607,9 +4241,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 500 |
 
 ## AnimusComponent
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AnimusHelmetComponent | 1 |
@@ -5618,9 +4250,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## AnimusChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Gallium | 1 |
@@ -5628,9 +4258,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 300 |
 
 ## AnimusHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 150 |
@@ -5639,9 +4267,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 500 |
 
 ## AnimusSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 1 |
@@ -5650,9 +4276,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 500 |
 
 ## Ninja
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AshHelmetComponent | 1 |
@@ -5661,9 +4285,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## AshChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -5671,9 +4293,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 300 |
 
 ## AshHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 150 |
@@ -5682,9 +4302,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 500 |
 
 ## AshPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AshPrimeHelmetComponent | 1 |
@@ -5693,9 +4311,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## AshPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Gallium | 3 |
@@ -5703,9 +4319,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 400 |
 
 ## AshPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 150 |
@@ -5714,9 +4328,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 750 |
 
 ## AshPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 3 |
@@ -5725,9 +4337,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 500 |
 
 ## AshSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 1 |
@@ -5736,9 +4346,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 500 |
 
 ## AtlasPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AtlasPrimeHelmetComponent | 1 |
@@ -5747,9 +4355,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## AtlasPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Tellurium | 2 |
@@ -5758,9 +4364,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 3600 |
 
 ## AtlasPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NeuralSensor | 2 |
@@ -5769,9 +4373,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OxiumAlloy | 200 |
 
 ## AtlasPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -5780,9 +4382,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 3200 |
 
 ## Banshee
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BansheeHelmetComponent | 1 |
@@ -5791,9 +4391,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## BansheeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -5801,9 +4399,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 50 |
 
 ## BansheeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Circuits | 150 |
@@ -5812,9 +4408,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 500 |
 
 ## BansheePrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BansheePrimeHelmetComponent | 1 |
@@ -5823,9 +4417,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## BansheePrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 10 |
@@ -5834,9 +4426,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 7000 |
 
 ## BansheePrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NeuralSensor | 2 |
@@ -5845,9 +4435,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 2 |
 
 ## BansheePrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -5856,9 +4444,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 4500 |
 
 ## BansheeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 1 |
@@ -5867,9 +4453,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 400 |
 
 ## BaruukPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BaruukPrimeHelmetComponent | 1 |
@@ -5878,9 +4462,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## BaruukPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Tellurium | 2 |
@@ -5889,9 +4471,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 4250 |
 
 ## BaruukPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 8 |
@@ -5900,9 +4480,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 3750 |
 
 ## BaruukPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -5911,9 +4489,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 5250 |
 
 ## Berserker
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BerserkerHelmetComponent | 1 |
@@ -5922,9 +4498,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## BerserkerChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -5932,9 +4506,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 50 |
 
 ## BerserkerHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Circuits | 150 |
@@ -5943,9 +4515,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 500 |
 
 ## BerserkerSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 1 |
@@ -5954,9 +4524,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 400 |
 
 ## Brawler
-
 **Credits:** 30000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BrawlerHelmetComponent | 1 |
@@ -5965,9 +4533,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## BrawlerChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -5976,9 +4542,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 1800 |
 
 ## BrawlerHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 1100 |
@@ -5987,9 +4551,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 5 |
 
 ## BrawlerSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OrokinCell | 1 |
@@ -5998,9 +4560,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 4600 |
 
 ## BrokenFrame
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BrokenFrameHelmetComponent | 1 |
@@ -6009,9 +4569,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 3 |
 
 ## BrokenFrameChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CorpusWidgetAItem | 5 |
@@ -6020,9 +4578,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrbStoneItem | 50 |
 
 ## BrokenFrameHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NeuralSensor | 10 |
@@ -6031,9 +4587,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CommonGemBCutAItem | 40 |
 
 ## BrokenFrameSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Eidolonium | 10 |
@@ -6042,9 +4596,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | InfMapricoFruitItem | 60 |
 
 ## CalibanPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CalibanPrimeHelmetComponent | 1 |
@@ -6053,9 +4605,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## CalibanPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 2 |
@@ -6064,9 +4614,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 7800 |
 
 ## CalibanPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 4 |
@@ -6075,9 +4623,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 4750 |
 
 ## CalibanPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -6086,9 +4632,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 4000 |
 
 ## Choir
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ChoirHelmetComponent | 1 |
@@ -6097,9 +4641,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 3 |
 
 ## ChoirChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 600 |
@@ -6108,9 +4650,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 6 |
 
 ## ChoirHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Circuits | 1000 |
@@ -6119,9 +4659,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 4 |
 
 ## ChoirSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 600 |
@@ -6130,9 +4668,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ControlModule | 10 |
 
 ## ChromaBeaconAComponent
-
 **Credits:** 5000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 250 |
@@ -6141,9 +4677,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | NavCode | 10 |
 
 ## ChromaBeaconBComponent
-
 **Credits:** 5000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 250 |
@@ -6152,9 +4686,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | NavCode | 10 |
 
 ## ChromaBeaconCComponent
-
 **Credits:** 5000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 2000 |
@@ -6163,9 +4695,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ChromaBeaconBComponent | 1 |
 
 ## Dragon
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ChromaHelmetComponent | 1 |
@@ -6174,9 +4704,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | VOLTHelmetComponent | 1 |
 
 ## ChromaChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 2 |
@@ -6185,9 +4713,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | FrostChassisComponent | 1 |
 
 ## ChromaHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PolymerBundle | 350 |
@@ -6196,9 +4722,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | EmberHelmetComponent | 1 |
 
 ## ChromaPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ChromaPrimeHelmetComponent | 1 |
@@ -6207,9 +4731,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## ChromaPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 2 |
@@ -6218,9 +4740,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 7800 |
 
 ## ChromaPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 4 |
@@ -6229,9 +4749,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 4750 |
 
 ## ChromaPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -6240,9 +4758,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 4000 |
 
 ## ChromaSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -6251,9 +4767,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OxiumAlloy | 400 |
 
 ## ConcreteFrame
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ConcreteFrameHelmetComponent | 1 |
@@ -6262,9 +4776,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | EntratiLabDogTagRare | 1 |
 
 ## ConcreteFrameChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EntratiLabMiscItemA | 1900 |
@@ -6273,9 +4785,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## ConcreteFrameHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EntratiLabMiscItemA | 2300 |
@@ -6284,9 +4794,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ZarimanMiscItemB | 3 |
 
 ## ConcreteFrameSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EntratiLabMiscItemA | 1500 |
@@ -6295,9 +4803,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ZarimanMiscItemB | 4 |
 
 ## Frumentarius
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Cyte09HelmetComponent | 1 |
@@ -6306,9 +4812,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## Cyte09ChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | 1999ResourceCommonB | 200 |
@@ -6317,9 +4821,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 1000 |
 
 ## Cyte09HelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | 1999ResourceCommonA | 60 |
@@ -6328,9 +4830,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 1 |
 
 ## Cyte09SystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | 1999ResourceCommonA | 20 |
@@ -6339,9 +4839,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | 1999ResourceRareA | 6 |
 
 ## Dagath
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DagathHelmetComponent | 1 |
@@ -6350,9 +4848,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 3 |
 
 ## DagathChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DagathAbyssItem | 34 |
@@ -6361,9 +4857,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## DagathHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DagathAbyssItem | 34 |
@@ -6372,9 +4866,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | NeuralSensor | 3 |
 
 ## DagathSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DagathAbyssItem | 34 |
@@ -6383,9 +4875,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Gallium | 4 |
 
 ## Ember
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EmberHelmetComponent | 1 |
@@ -6394,9 +4884,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## EmberChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -6404,9 +4892,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 300 |
 
 ## EmberHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 150 |
@@ -6415,9 +4901,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 500 |
 
 ## EmberPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EmberPrimeHelmetComponent | 1 |
@@ -6426,9 +4910,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## EmberPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -6436,9 +4918,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 300 |
 
 ## EmberPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 150 |
@@ -6447,9 +4927,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 750 |
 
 ## EmberPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 1 |
@@ -6458,9 +4936,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 700 |
 
 ## EmberSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 1 |
@@ -6469,9 +4945,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 220 |
 
 ## EquinoxPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EquinoxPrimeHelmetComponent | 1 |
@@ -6480,9 +4954,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## EquinoxPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 10 |
@@ -6491,9 +4963,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 4000 |
 
 ## EquinoxPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Tellurium | 2 |
@@ -6502,9 +4972,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 2350 |
 
 ## EquinoxPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -6513,9 +4981,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 5400 |
 
 ## Excalibur
-
-**Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
+**Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 50 Platinum
 | Ingredient | Count |
 |---|---|
 | ExcaliburChassisComponent | 1 |
@@ -6524,9 +4990,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## ExcaliburChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -6534,9 +4998,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 300 |
 
 ## ExcaliburHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 150 |
@@ -6545,9 +5007,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 500 |
 
 ## ExcaliburSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 1 |
@@ -6556,9 +5016,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 220 |
 
 ## ExcaliburUmbra
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OrokinCell | 1 |
@@ -6567,9 +5025,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 1600 |
 
 ## Fairy
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | FairyChassisComponent | 1 |
@@ -6578,9 +5034,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 3 |
 
 ## FairyChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 3 |
@@ -6589,9 +5043,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Tellurium | 1 |
 
 ## FairyHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 1500 |
@@ -6600,9 +5052,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 700 |
 
 ## FairySystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 1 |
@@ -6610,10 +5060,44 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Cryotic | 2200 |
 | Tellurium | 1 |
 
-## Frost
-
+## Inkblot
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
+| Ingredient | Count |
+|---|---|
+| FollieHelmetComponent | 1 |
+| FollieChassisComponent | 1 |
+| FollieSystemsComponent | 1 |
+| OrokinCell | 3 |
 
+## FollieChassisComponent
+**Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
+| Ingredient | Count |
+|---|---|
+| AlloyPlate | 800 |
+| ArgonCrystal | 2 |
+| Ferrite | 800 |
+| Salvage | 600 |
+
+## FollieHelmetComponent
+**Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
+| Ingredient | Count |
+|---|---|
+| Neurode | 2 |
+| Gallium | 3 |
+| Cryotic | 150 |
+| NeuralSensor | 2 |
+
+## FollieSystemsComponent
+**Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
+| Ingredient | Count |
+|---|---|
+| Circuits | 250 |
+| PolymerBundle | 500 |
+| Morphic | 4 |
+| OxiumAlloy | 50 |
+
+## Frost
+**Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
 | Ingredient | Count |
 |---|---|
 | FrostHelmetComponent | 1 |
@@ -6622,9 +5106,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## FrostChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -6632,9 +5114,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 300 |
 
 ## FrostHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 150 |
@@ -6643,9 +5123,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 500 |
 
 ## FrostPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | FrostPrimeHelmetComponent | 1 |
@@ -6654,9 +5132,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## FrostPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -6664,9 +5140,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 300 |
 
 ## FrostPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 150 |
@@ -6675,9 +5149,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 500 |
 
 ## FrostPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 1 |
@@ -6686,9 +5158,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 220 |
 
 ## FrostSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 1 |
@@ -6697,9 +5167,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 500 |
 
 ## GaraPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GaraPrimeHelmetComponent | 1 |
@@ -6708,9 +5176,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## GaraPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Gallium | 7 |
@@ -6719,9 +5185,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 8750 |
 
 ## GaraPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 10 |
@@ -6730,9 +5194,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 6750 |
 
 ## GaraPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 2 |
@@ -6741,9 +5203,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 4375 |
 
 ## Garuda
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GarudaHelmetComponent | 1 |
@@ -6752,9 +5212,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Kuva | 3500 |
 
 ## GarudaChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidHungerItem | 2 |
@@ -6763,9 +5221,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 2200 |
 
 ## GarudaHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidMicroidItem | 2 |
@@ -6774,9 +5230,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 5000 |
 
 ## GarudaPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GarudaPrimeHelmetComponent | 1 |
@@ -6785,9 +5239,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## GarudaPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Tellurium | 2 |
@@ -6796,9 +5248,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 5500 |
 
 ## GarudaPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -6807,9 +5257,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 4975 |
 
 ## GarudaPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 2 |
@@ -6818,9 +5266,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 3800 |
 
 ## GarudaSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidWraithItem | 2 |
@@ -6829,9 +5275,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 2400 |
 
 ## Runner
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GaussChassisComponent | 1 |
@@ -6840,9 +5284,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 3 |
 
 ## GaussChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EidolonGemACutAItem | 3 |
@@ -6851,9 +5293,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | GrokdrulItem | 55 |
 
 ## GaussHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 1 |
@@ -6862,9 +5302,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 2950 |
 
 ## GaussPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GaussPrimeHelmetComponent | 1 |
@@ -6873,9 +5311,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## GaussPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 2 |
@@ -6884,9 +5320,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 5500 |
 
 ## GaussPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Tellurium | 2 |
@@ -6895,9 +5329,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 4975 |
 
 ## GaussPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -6906,9 +5338,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 3800 |
 
 ## GaussSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisEidolonGemACutItem | 3 |
@@ -6917,9 +5347,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CoolantItem | 85 |
 
 ## Geode
-
 **Credits:** 30000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GeodeHelmetComponent | 1 |
@@ -6928,9 +5356,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 3 |
 
 ## GeodeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Cryotic | 1200 |
@@ -6939,9 +5365,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 2000 |
 
 ## GeodeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Rubedo | 1000 |
@@ -6950,9 +5374,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## GeodeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Circuits | 1500 |
@@ -6961,9 +5383,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 2 |
 
 ## Glass
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GlassHelmetComponent | 1 |
@@ -6972,9 +5392,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 3 |
 
 ## GlassChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CetusWispItem | 2 |
@@ -6983,9 +5401,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 800 |
 
 ## GlassHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 2 |
@@ -6994,9 +5410,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 700 |
 
 ## GlassSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 2 |
@@ -7005,9 +5419,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 850 |
 
 ## Devourer
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GrendelChassisComponent | 1 |
@@ -7016,9 +5428,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 3 |
 
 ## GrendelChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ForestRodentPartItem | 30 |
@@ -7027,9 +5437,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | BothRareFishAPartItem | 15 |
 
 ## GrendelHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -7038,9 +5446,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 3800 |
 
 ## GrendelPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GrendelPrimeHelmetComponent | 1 |
@@ -7049,9 +5455,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## GrendelPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Tellurium | 2 |
@@ -7060,9 +5464,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 5500 |
 
 ## GrendelPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -7071,9 +5473,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 4975 |
 
 ## GrendelPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 2 |
@@ -7082,9 +5482,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 3800 |
 
 ## GrendelSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 10 |
@@ -7093,9 +5491,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | EidolonFishOilItem | 100 |
 
 ## Cowgirl
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GunslingerHelmetComponent | 1 |
@@ -7104,9 +5500,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## GunslingerChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -7115,9 +5509,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OxiumAlloy | 50 |
 
 ## GunslingerHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 1500 |
@@ -7126,9 +5518,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 500 |
 
 ## GunslingerSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 1 |
@@ -7137,9 +5527,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 500 |
 
 ## Gyre
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GyreHelmetComponent | 1 |
@@ -7148,9 +5536,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 3 |
 
 ## GyreChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 8 |
@@ -7159,9 +5545,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 3300 |
 
 ## GyreHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NeuralSensor | 6 |
@@ -7170,9 +5554,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 4500 |
 
 ## GyrePrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GyrePrimeHelmetComponent | 1 |
@@ -7181,9 +5563,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## GyrePrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 2 |
@@ -7192,9 +5572,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OxiumAlloy | 300 |
 
 ## GyrePrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NeuralSensor | 3 |
@@ -7203,9 +5581,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 4250 |
 
 ## GyrePrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -7214,9 +5590,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 3175 |
 
 ## GyreSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -7225,9 +5599,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 6500 |
 
 ## Harlequin
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HarlequinHelmetComponent | 1 |
@@ -7236,9 +5608,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 1 |
 
 ## HarlequinChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OrokinCell | 1 |
@@ -7247,9 +5617,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Gallium | 1 |
 
 ## HarlequinHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 250 |
@@ -7258,9 +5626,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## HarlequinSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 1 |
@@ -7269,9 +5635,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## HarrowPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HarrowPrimeHelmetComponent | 1 |
@@ -7280,9 +5644,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## HarrowPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Tellurium | 2 |
@@ -7291,9 +5653,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 5500 |
 
 ## HarrowPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -7302,9 +5662,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 4975 |
 
 ## HarrowPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 2 |
@@ -7313,9 +5671,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 3800 |
 
 ## IronFramePrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HildrynPrimeHelmetComponent | 1 |
@@ -7324,9 +5680,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## HildrynPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Tellurium | 2 |
@@ -7335,9 +5689,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 5500 |
 
 ## HildrynPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -7346,9 +5698,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 4975 |
 
 ## HildrynPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 2 |
@@ -7357,9 +5707,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 3800 |
 
 ## Pirate
-
 **Credits:** 30000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HydroidHelmetComponent | 1 |
@@ -7368,9 +5716,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## HydroidChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -7379,9 +5725,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 1200 |
 
 ## HydroidHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 150 |
@@ -7390,9 +5734,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## HydroidPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HydroidPrimeHelmetComponent | 1 |
@@ -7401,9 +5743,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## HydroidPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -7412,9 +5752,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 6750 |
 
 ## HydroidPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NeuralSensor | 5 |
@@ -7423,9 +5761,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 12750 |
 
 ## HydroidPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 2 |
@@ -7434,9 +5770,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Cryotic | 925 |
 
 ## HydroidSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OrokinCell | 1 |
@@ -7445,9 +5779,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 220 |
 
 ## InarosPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | InarosPrimeHelmetComponent | 1 |
@@ -7456,9 +5788,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## InarosPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 2 |
@@ -7467,9 +5797,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 8 |
 
 ## InarosPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 5500 |
@@ -7478,9 +5806,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## InarosPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 10 |
@@ -7489,9 +5815,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 1450 |
 
 ## IronFrame
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | IronframeChassisComponent | 1 |
@@ -7500,9 +5824,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 3 |
 
 ## IronframeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidCamperTerraItem | 2 |
@@ -7511,9 +5833,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 2300 |
 
 ## IronframeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidCamperTerraItem | 2 |
@@ -7522,9 +5842,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 1600 |
 
 ## IronframeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidCamperTerraItem | 2 |
@@ -7533,9 +5851,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 1500 |
 
 ## IvaraPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | IvaraPrimeHelmetComponent | 1 |
@@ -7544,9 +5860,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## IvaraPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 2 |
@@ -7555,9 +5869,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 1800 |
 
 ## IvaraPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -7566,9 +5878,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 4250 |
 
 ## IvaraPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 4 |
@@ -7577,9 +5887,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 3200 |
 
 ## Khora
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | KhoraHelmetComponent | 1 |
@@ -7588,9 +5896,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 3 |
 
 ## KhoraChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CatbrowGeneticSignature | 5 |
@@ -7599,9 +5905,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 4300 |
 
 ## KhoraHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CatbrowGeneticSignature | 2 |
@@ -7610,9 +5914,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 16000 |
 
 ## KhoraPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | KhoraPrimeHelmetComponent | 1 |
@@ -7621,9 +5923,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## KhoraPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Tellurium | 2 |
@@ -7632,9 +5932,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 5500 |
 
 ## KhoraPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -7643,9 +5941,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 4975 |
 
 ## KhoraPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 2 |
@@ -7654,9 +5950,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 3800 |
 
 ## KhoraSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CatbrowGeneticSignature | 2 |
@@ -7665,9 +5959,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 11500 |
 
 ## Koumei
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | KoumeiHelmetComponent | 1 |
@@ -7676,9 +5968,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ShrineFragment | 30 |
 
 ## KoumeiChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ShrineFragment | 24 |
@@ -7687,9 +5977,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CommonGemBCutAItem | 10 |
 
 ## KoumeiHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ShrineFragment | 24 |
@@ -7698,9 +5986,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | IraditeItem | 50 |
 
 ## KoumeiSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ShrineFragment | 24 |
@@ -7709,9 +5995,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CommonGemACutAItem | 10 |
 
 ## Loki
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | LOKIChassisComponent | 1 |
@@ -7720,9 +6004,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## LOKIChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -7730,9 +6012,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 300 |
 
 ## LOKIHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 150 |
@@ -7741,9 +6021,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 500 |
 
 ## LOKISystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 1 |
@@ -7752,9 +6030,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 220 |
 
 ## Alchemist
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | LavosHelmetComponent | 1 |
@@ -7763,9 +6039,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 3 |
 
 ## LavosChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -7774,9 +6048,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 5500 |
 
 ## LavosHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DeimosEidolonGemACutItem | 6 |
@@ -7785,9 +6057,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 2750 |
 
 ## LavosPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | LavosPrimeHelmetComponent | 1 |
@@ -7796,9 +6066,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## LavosPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 2 |
@@ -7807,9 +6075,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OxiumAlloy | 300 |
 
 ## LavosPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NeuralSensor | 3 |
@@ -7818,9 +6084,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 4250 |
 
 ## LavosPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -7829,9 +6093,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 3175 |
 
 ## LavosSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DeimosEidolonGemBCutItem | 6 |
@@ -7840,9 +6102,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 3000 |
 
 ## LimboPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | LimboPrimeHelmetComponent | 1 |
@@ -7851,9 +6111,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## LimboPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -7862,9 +6120,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 550 |
 
 ## LimboPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NeuralSensor | 2 |
@@ -7873,9 +6129,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 900 |
 
 ## LimboPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 2 |
@@ -7884,9 +6138,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 3000 |
 
 ## LokiPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | LokiPrimeHelmetComponent | 1 |
@@ -7895,9 +6147,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## LokiPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Gallium | 3 |
@@ -7905,9 +6155,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 400 |
 
 ## LokiPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 150 |
@@ -7916,9 +6164,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 750 |
 
 ## LokiPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 3 |
@@ -7927,9 +6173,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 500 |
 
 ## Mag
-
-**Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
+**Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 50 Platinum
 | Ingredient | Count |
 |---|---|
 | MagHelmetComponent | 1 |
@@ -7938,9 +6182,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## MagChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -7948,9 +6190,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 300 |
 
 ## MagHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 150 |
@@ -7959,9 +6199,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 500 |
 
 ## MagPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | MagPrimeHelmetComponent | 1 |
@@ -7970,9 +6208,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 3 |
 
 ## MagPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -7980,9 +6216,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 400 |
 
 ## MagPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 150 |
@@ -7991,9 +6225,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 750 |
 
 ## MagPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 3 |
@@ -8002,9 +6234,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 500 |
 
 ## MagSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 1 |
@@ -8013,9 +6243,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 220 |
 
 ## Magician
-
 **Credits:** 25000 | **Build Time:** 0.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | MagicianChassisComponent | 1 |
@@ -8024,9 +6252,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 3 |
 
 ## MagicianChassisComponent
-
 **Credits:** 15000 | **Build Time:** 0.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NeuralSensor | 1 |
@@ -8035,9 +6261,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 1 |
 
 ## MagicianHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 0.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 150 |
@@ -8046,9 +6270,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 500 |
 
 ## MagicianSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 0.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 1 |
@@ -8057,9 +6279,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 220 |
 
 ## MesaPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | MesaPrimeHelmetComponent | 1 |
@@ -8068,9 +6288,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## MesaPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 2 |
@@ -8079,9 +6297,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 450 |
 
 ## MesaPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -8090,9 +6306,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 1250 |
 
 ## MesaPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 5 |
@@ -8101,9 +6315,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 625 |
 
 ## MiragePrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | MiragePrimeChassisComponent | 1 |
@@ -8112,9 +6324,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## MiragePrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 2 |
@@ -8123,9 +6333,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OxiumAlloy | 350 |
 
 ## MiragePrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 5 |
@@ -8134,9 +6342,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 18000 |
 
 ## MiragePrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -8145,9 +6351,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 23000 |
 
 ## Sandman
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | MummyHelmetComponent | 1 |
@@ -8156,9 +6360,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## MummyChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 3 |
@@ -8167,9 +6369,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OxiumAlloy | 100 |
 
 ## MummyHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 1500 |
@@ -8178,9 +6378,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 500 |
 
 ## MummySystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -8189,9 +6387,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 500 |
 
 ## Necro
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NecroHelmetComponent | 1 |
@@ -8200,9 +6396,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 3 |
 
 ## NecroChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -8210,9 +6404,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 300 |
 
 ## NecroHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 150 |
@@ -8221,9 +6413,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 500 |
 
 ## NecroSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 1 |
@@ -8232,9 +6422,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 220 |
 
 ## NekrosPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NekrosPrimeHelmetComponent | 1 |
@@ -8243,9 +6431,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 3 |
 
 ## NekrosPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -8254,9 +6440,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## NekrosPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 15000 |
@@ -8265,9 +6449,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 5 |
 
 ## NekrosPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 3 |
@@ -8276,9 +6458,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 500 |
 
 ## Nezha
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NezhaHelmetComponent | 1 |
@@ -8287,9 +6467,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## NezhaChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 2 |
@@ -8298,9 +6476,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 1 |
 
 ## NezhaHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 1 |
@@ -8309,9 +6485,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 4500 |
 
 ## NezhaPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NezhaPrimeHelmetComponent | 1 |
@@ -8320,9 +6494,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## NezhaPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 2 |
@@ -8331,9 +6503,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 8 |
 
 ## NezhaPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 5500 |
@@ -8342,9 +6512,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## NezhaPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 10 |
@@ -8353,9 +6521,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 1450 |
 
 ## NezhaSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 1 |
@@ -8364,9 +6530,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 4200 |
 
 ## Infestation
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NidusHelmetComponent | 1 |
@@ -8375,9 +6539,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Kuva | 2000 |
 
 ## NidusChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PolymerBundle | 6000 |
@@ -8386,9 +6548,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 3 |
 
 ## NidusHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BioFragment | 10 |
@@ -8397,9 +6557,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | NeuralSensor | 3 |
 
 ## InfestationPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NidusPrimeHelmetComponent | 1 |
@@ -8408,9 +6566,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## NidusPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Tellurium | 2 |
@@ -8419,9 +6575,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 5500 |
 
 ## NidusPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -8430,9 +6584,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 4975 |
 
 ## NidusPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 2 |
@@ -8441,9 +6593,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 3800 |
 
 ## NidusSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Nanospores | 6000 |
@@ -8452,9 +6602,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 6 |
 
 ## Nokko
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NokkoHelmetComponent | 1 |
@@ -8463,9 +6611,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 3 |
 
 ## NokkoChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CoolantItem | 30 |
@@ -8474,9 +6620,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 700 |
 
 ## NokkoHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VenusTreeItem | 50 |
@@ -8485,9 +6629,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 500 |
 
 ## NokkoSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | FungusHeartItem | 40 |
@@ -8496,9 +6638,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## Anti
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NovaHelmetComponent | 1 |
@@ -8507,9 +6647,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## NovaChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -8517,9 +6655,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 300 |
 
 ## NovaHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 150 |
@@ -8528,9 +6664,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 500 |
 
 ## NovaPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NovaPrimeHelmetComponent | 1 |
@@ -8539,9 +6673,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## NovaPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -8549,9 +6681,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 300 |
 
 ## NovaPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Rubedo | 200 |
@@ -8560,9 +6690,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 500 |
 
 ## NovaPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 1 |
@@ -8571,9 +6699,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 200 |
 
 ## NovaSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 1 |
@@ -8582,9 +6708,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 600 |
 
 ## Jade
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NyxHelmetComponent | 1 |
@@ -8593,9 +6717,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## NyxChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -8603,9 +6725,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 300 |
 
 ## NyxHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 150 |
@@ -8614,9 +6734,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 500 |
 
 ## NyxPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NyxPrimeHelmetComponent | 1 |
@@ -8625,9 +6743,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## NyxPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Gallium | 3 |
@@ -8635,9 +6751,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 400 |
 
 ## NyxPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 150 |
@@ -8646,9 +6760,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 750 |
 
 ## NyxPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 3 |
@@ -8657,9 +6769,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 500 |
 
 ## NyxSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 1 |
@@ -8668,9 +6778,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 220 |
 
 ## PaladinPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OberonPrimeHelmetComponent | 1 |
@@ -8679,9 +6787,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## OberonPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Gallium | 3 |
@@ -8690,9 +6796,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 7500 |
 
 ## OberonPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 10 |
@@ -8701,9 +6805,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 2 |
 
 ## OberonPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -8712,9 +6814,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 1250 |
 
 ## Bard
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OctaviaHelmetComponent | 1 |
@@ -8723,9 +6823,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | BardQuestSequencerItem | 1 |
 
 ## OctaviaChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PolymerBundle | 6000 |
@@ -8734,9 +6832,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 3 |
 
 ## OctaviaHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OxiumAlloy | 1000 |
@@ -8745,9 +6841,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | NeuralSensor | 5 |
 
 ## OctaviaPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OctaviaPrimeHelmetComponent | 1 |
@@ -8756,9 +6850,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## OctaviaPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -8767,9 +6859,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 4250 |
 
 ## OctaviaPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NeuralSensor | 8 |
@@ -8778,9 +6868,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 3750 |
 
 ## OctaviaPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 2 |
@@ -8789,9 +6877,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 4800 |
 
 ## OctaviaSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Kuva | 2000 |
@@ -8800,9 +6886,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## Oraxia
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OraxiaChassisComponent | 1 |
@@ -8811,9 +6895,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 3 |
 
 ## OraxiaChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DuviriMurmurItemA | 50 |
@@ -8822,9 +6904,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 2 |
 
 ## OraxiaHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DuviriMurmurItemA | 50 |
@@ -8833,9 +6913,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | NeuralSensor | 4 |
 
 ## OraxiaSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DuviriMurmurItemA | 50 |
@@ -8844,9 +6922,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## Pacifist
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PacifistHelmetComponent | 1 |
@@ -8855,9 +6931,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## PacifistChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidMicroidItem | 3 |
@@ -8866,9 +6940,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisEidolonGemBCutItem | 5 |
 
 ## PacifistHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidWraithItem | 3 |
@@ -8877,9 +6949,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinFishEcosynthAnalyzerItem | 5 |
 
 ## PacifistSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidHungerItem | 3 |
@@ -8888,9 +6958,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisEidolonGemACutItem | 5 |
 
 ## Pagemaster
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PagemasterHelmetComponent | 1 |
@@ -8899,9 +6967,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 3 |
 
 ## PagemasterChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ZarimanMiscItemB | 2 |
@@ -8910,9 +6976,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 2000 |
 
 ## PagemasterHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ZarimanMiscItemB | 3 |
@@ -8921,9 +6985,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | NeuralSensor | 4 |
 
 ## PagemasterSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ZarimanMiscItemB | 3 |
@@ -8932,9 +6994,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | EntratiLabMiscItemB | 450 |
 
 ## Paladin
-
 **Credits:** 30000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PaladinHelmetComponent | 1 |
@@ -8943,9 +7003,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## PaladinChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Gallium | 1 |
@@ -8953,9 +7011,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 300 |
 
 ## PaladinHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 150 |
@@ -8964,9 +7020,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 500 |
 
 ## PaladinSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OrokinCell | 1 |
@@ -8975,9 +7029,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 220 |
 
 ## PaxDuviricus
-
 **Credits:** 30000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PaxDuviricusHelmetComponent | 1 |
@@ -8986,9 +7038,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriDragonDropItem | 10 |
 
 ## PaxDuviricusChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GenericDuviriFishPartAItem | 125 |
@@ -8997,9 +7047,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriPlantItemG | 100 |
 
 ## PaxDuviricusHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DuviriEnemyDropItem | 50 |
@@ -9008,9 +7056,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriPlantItemC | 100 |
 
 ## PaxDuviricusSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DuviriRockItem | 100 |
@@ -9019,9 +7065,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriPlantItemG | 100 |
 
 ## Priest
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PriestHelmetComponent | 1 |
@@ -9030,9 +7074,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Kuva | 2000 |
 
 ## PriestChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 20000 |
@@ -9041,9 +7083,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## PriestHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Rubedo | 1500 |
@@ -9052,9 +7092,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | NeuralSensor | 5 |
 
 ## PriestSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Circuits | 2500 |
@@ -9063,9 +7101,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ControlModule | 15 |
 
 ## Odalisk
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ProteaHelmetComponent | 1 |
@@ -9074,9 +7110,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 3 |
 
 ## ProteaChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 20000 |
@@ -9085,9 +7119,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 12 |
 
 ## ProteaHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 11500 |
@@ -9096,9 +7128,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | NeuralSensor | 5 |
 
 ## ProteaPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ProteaPrimeHelmetComponent | 1 |
@@ -9107,9 +7137,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## ProteaPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -9118,9 +7146,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 4250 |
 
 ## ProteaPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NeuralSensor | 8 |
@@ -9129,9 +7155,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 3750 |
 
 ## ProteaPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 2 |
@@ -9140,9 +7164,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 4800 |
 
 ## ProteaSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 13400 |
@@ -9151,9 +7173,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ControlModule | 10 |
 
 ## Ranger
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | RangerHelmetComponent | 1 |
@@ -9162,9 +7182,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## RangerChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 5 |
@@ -9173,9 +7191,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 4 |
 
 ## RangerHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 5 |
@@ -9184,9 +7200,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## RangerSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 5 |
@@ -9195,9 +7209,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 1 |
 
 ## Revenant
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | RevenantHelmetComponent | 1 |
@@ -9206,9 +7218,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## RevenantChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -9217,9 +7227,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | IraditeItem | 50 |
 
 ## RevenantHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NeuralSensor | 3 |
@@ -9228,9 +7236,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 2200 |
 
 ## RevenantPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | RevenantPrimeHelmetComponent | 1 |
@@ -9239,9 +7245,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## RevenantPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 2 |
@@ -9250,9 +7254,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 9250 |
 
 ## RevenantPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -9261,9 +7263,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 4600 |
 
 ## RevenantPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 4 |
@@ -9272,9 +7272,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 1175 |
 
 ## RevenantSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 3 |
@@ -9283,9 +7281,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 3000 |
 
 ## Rhino
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | RhinoHelmetComponent | 1 |
@@ -9294,9 +7290,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 1 |
 
 ## RhinoChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Circuits | 450 |
@@ -9304,9 +7298,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 300 |
 
 ## RhinoHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 150 |
@@ -9315,9 +7307,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 500 |
 
 ## RhinoPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | RhinoPrimeHelmetComponent | 1 |
@@ -9326,9 +7316,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 3 |
 
 ## RhinoPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -9336,9 +7324,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 400 |
 
 ## RhinoPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 150 |
@@ -9347,9 +7333,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 750 |
 
 ## RhinoPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 3 |
@@ -9358,9 +7342,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 500 |
 
 ## RhinoSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 500 |
@@ -9369,9 +7351,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 400 |
 
 ## Saryn
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SarynHelmetComponent | 1 |
@@ -9380,9 +7360,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## SarynChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -9390,9 +7368,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 50 |
 
 ## SarynHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Circuits | 150 |
@@ -9401,9 +7377,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 400 |
 
 ## SarynPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SarynPrimeHelmetComponent | 1 |
@@ -9412,9 +7386,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## SarynPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 3 |
@@ -9422,9 +7394,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 1200 |
 
 ## SarynPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 1500 |
@@ -9433,9 +7403,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 750 |
 
 ## SarynPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 3 |
@@ -9444,9 +7412,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 500 |
 
 ## SarynSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 1 |
@@ -9455,9 +7421,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 350 |
 
 ## Sentient
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SentientHelmetComponent | 1 |
@@ -9466,9 +7430,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 12 |
 
 ## SentientChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SentientFragmentLootItem | 3 |
@@ -9477,9 +7439,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisRareOreAAlloyItem | 100 |
 
 ## SentientHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SentientFragmentLootItem | 3 |
@@ -9488,9 +7448,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DayUncommonFishAPartItem | 20 |
 
 ## SentientSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SentientFragmentLootItem | 3 |
@@ -9499,9 +7457,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ConcentratedGas | 30 |
 
 ## SevagothPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SevagothPrimeHelmetComponent | 1 |
@@ -9510,9 +7466,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## SevagothPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 8 |
@@ -9521,9 +7475,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 3750 |
 
 ## SevagothPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NeuralSensor | 4 |
@@ -9532,9 +7484,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 1675 |
 
 ## SevagothPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -9543,9 +7493,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 1200 |
 
 ## Hoplite
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | StyanaxHelmetComponent | 1 |
@@ -9554,9 +7502,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 12 |
 
 ## StyanaxChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ZarimanMiscItemB | 5 |
@@ -9565,9 +7511,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OxiumAlloy | 1200 |
 
 ## StyanaxHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -9576,9 +7520,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | NightRareFishAPartItem | 5 |
 
 ## StyanaxSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Rubedo | 1200 |
@@ -9587,9 +7529,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ZarimanDogTagBounty | 15 |
 
 ## Temple
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TempleHelmetComponent | 1 |
@@ -9598,9 +7538,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 3 |
 
 ## TempleChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | 1999ResourceCommonB | 400 |
@@ -9609,9 +7547,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 1 |
 
 ## TempleHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | 1999ResourceUncommonB | 22 |
@@ -9620,9 +7556,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## TempleSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | 1999ResourceRareA | 6 |
@@ -9631,9 +7565,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ControlModule | 6 |
 
 ## Tengu
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TenguHelmetComponent | 1 |
@@ -9642,9 +7574,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## TenguChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OxiumAlloy | 200 |
@@ -9652,9 +7582,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 50 |
 
 ## TenguHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Circuits | 150 |
@@ -9663,9 +7591,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 500 |
 
 ## TenguSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 1 |
@@ -9674,9 +7600,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 400 |
 
 ## TitaniaPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TitaniaPrimeHelmetComponent | 1 |
@@ -9685,9 +7609,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## TitaniaPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 2 |
@@ -9696,9 +7618,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 8 |
 
 ## TitaniaPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 5500 |
@@ -9707,9 +7627,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## TitaniaPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 10 |
@@ -9718,9 +7636,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 1450 |
 
 ## Trapper
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TrapperHelmetComponent | 1 |
@@ -9729,9 +7645,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## TrapperChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -9739,9 +7653,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 300 |
 
 ## TrapperHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 150 |
@@ -9750,9 +7662,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 500 |
 
 ## TrapperSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 1 |
@@ -9761,9 +7671,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 220 |
 
 ## Trinity
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TrinityHelmetComponent | 1 |
@@ -9772,9 +7680,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## TrinityChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -9782,9 +7688,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 300 |
 
 ## TrinityHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 150 |
@@ -9793,9 +7697,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 500 |
 
 ## TrinityPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TrinityPrimeHelmetComponent | 1 |
@@ -9804,9 +7706,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## TrinityPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -9814,9 +7714,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 1200 |
 
 ## TrinityPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OxiumAlloy | 450 |
@@ -9825,9 +7723,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 1100 |
 
 ## TrinityPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 3 |
@@ -9836,9 +7732,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 1350 |
 
 ## TrinitySystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 1 |
@@ -9847,9 +7741,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 220 |
 
 ## DemonFrame
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | UrielHelmetComponent | 1 |
@@ -9858,9 +7750,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## UrielChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TwelveResourceCommonItem | 925 |
@@ -9868,9 +7758,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | TwelveResourceRareItem | 145 |
 
 ## UrielHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TwelveResourceCommonItem | 625 |
@@ -9878,9 +7766,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | TwelveResourceRareItem | 135 |
 
 ## UrielSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TwelveResourceCommonItem | 425 |
@@ -9888,9 +7774,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | TwelveResourceRareItem | 70 |
 
 ## Volt
-
-**Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
+**Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 50 Platinum
 | Ingredient | Count |
 |---|---|
 | VOLTChassisComponent | 1 |
@@ -9899,9 +7783,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## VOLTChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -9909,9 +7791,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 300 |
 
 ## VOLTHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 150 |
@@ -9920,9 +7800,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 500 |
 
 ## VOLTSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 1 |
@@ -9931,9 +7809,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 220 |
 
 ## ValkyrPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ValkyrPrimeHelmetComponent | 1 |
@@ -9942,9 +7818,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 3 |
 
 ## ValkyrPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -9953,9 +7827,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## ValkyrPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 15000 |
@@ -9964,9 +7836,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 5 |
 
 ## ValkyrPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 3 |
@@ -9975,9 +7845,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 500 |
 
 ## TrapperPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VaubanPrimeHelmetComponent | 1 |
@@ -9986,9 +7854,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 5 |
 
 ## VaubanPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -9997,9 +7863,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 13000 |
 
 ## VaubanPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 5 |
@@ -10008,9 +7872,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 18000 |
 
 ## VaubanPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 5 |
@@ -10019,9 +7881,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 5000 |
 
 ## VoltPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VoltPrimeHelmetComponent | 1 |
@@ -10030,9 +7890,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## VoltPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NeuralSensor | 3 |
@@ -10040,9 +7898,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 400 |
 
 ## VoltPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 150 |
@@ -10051,9 +7907,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 750 |
 
 ## VoltPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 3 |
@@ -10061,10 +7915,44 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 1000 |
 | Circuits | 500 |
 
-## Wisp
-
+## VorunaPrime
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
+| Ingredient | Count |
+|---|---|
+| VorunaPrimeHelmetComponent | 1 |
+| VorunaPrimeChassisComponent | 1 |
+| VorunaPrimeSystemsComponent | 1 |
+| OrokinCell | 5 |
 
+## VorunaPrimeChassisComponent
+**Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
+| Ingredient | Count |
+|---|---|
+| Alertium | 2 |
+| Tellurium | 2 |
+| Ferrite | 3600 |
+| OxiumAlloy | 300 |
+
+## VorunaPrimeHelmetComponent
+**Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
+| Ingredient | Count |
+|---|---|
+| NeuralSensor | 3 |
+| OxiumAlloy | 250 |
+| Plastids | 350 |
+| AlloyPlate | 4250 |
+
+## VorunaPrimeSystemsComponent
+**Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
+| Ingredient | Count |
+|---|---|
+| ArgonCrystal | 2 |
+| Neurode | 3 |
+| Cryotic | 550 |
+| Nanospores | 3175 |
+
+## Wisp
+**Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
 | Ingredient | Count |
 |---|---|
 | WispChassisComponent | 1 |
@@ -10073,9 +7961,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 3 |
 
 ## WispChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ConcentratedGas | 500 |
@@ -10084,9 +7970,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 2750 |
 
 ## WispHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ConcentratedGas | 300 |
@@ -10095,9 +7979,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 2200 |
 
 ## WispPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | WispPrimeHelmetComponent | 1 |
@@ -10106,9 +7988,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## WispPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Gallium | 7 |
@@ -10117,9 +7997,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 8750 |
 
 ## WispPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 10 |
@@ -10128,9 +8006,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 6750 |
 
 ## WispPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 2 |
@@ -10139,9 +8015,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 4375 |
 
 ## WispSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ConcentratedGas | 400 |
@@ -10150,9 +8024,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 10000 |
 
 ## Werewolf
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | WolfFrameHelmetComponent | 1 |
@@ -10161,9 +8033,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | EclipseVoidWraithItem | 50 |
 
 ## WolfFrameChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ZarimanMiscItemA | 20 |
@@ -10172,9 +8042,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | EclipseVoidWraithItem | 25 |
 
 ## WolfFrameHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | MemoryCryptoFragment | 20 |
@@ -10183,9 +8051,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | EclipseVoidWraithItem | 25 |
 
 ## WolfFrameSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 5 |
@@ -10194,9 +8060,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | EclipseVoidWraithItem | 25 |
 
 ## Wraith
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | WraithHelmetComponent | 1 |
@@ -10205,9 +8069,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 3 |
 
 ## WraithChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 8 |
@@ -10216,9 +8078,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 3300 |
 
 ## WraithHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NeuralSensor | 6 |
@@ -10227,9 +8087,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 2750 |
 
 ## WraithSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -10238,9 +8096,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 2950 |
 
 ## MonkeyKing
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | WukongHelmetComponent | 1 |
@@ -10249,9 +8105,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## WukongChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -10260,9 +8114,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 4 |
 
 ## WukongHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Circuits | 1400 |
@@ -10271,9 +8123,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 2 |
 
 ## WukongPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | WukongPrimeHelmetComponent | 1 |
@@ -10282,9 +8132,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## WukongPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -10293,9 +8141,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 2200 |
 
 ## WukongPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 4 |
@@ -10304,9 +8150,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 3550 |
 
 ## WukongPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 2 |
@@ -10315,9 +8159,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 3800 |
 
 ## WukongSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -10326,9 +8168,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 4000 |
 
 ## XakuPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | XakuPrimeHelmetComponent | 1 |
@@ -10337,9 +8177,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## XakuPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 2 |
@@ -10348,9 +8186,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OxiumAlloy | 300 |
 
 ## XakuPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NeuralSensor | 3 |
@@ -10359,9 +8195,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 4250 |
 
 ## XakuPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -10370,9 +8204,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 3175 |
 
 ## Yareli
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | YareliHelmetComponent | 1 |
@@ -10381,9 +8213,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 3 |
 
 ## YareliChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Tellurium | 2 |
@@ -10392,9 +8222,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 1500 |
 
 ## YareliHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -10403,9 +8231,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisCommonGemBCutItem | 10 |
 
 ## YareliPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | YareliPrimeHelmetComponent | 1 |
@@ -10414,9 +8240,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## YareliPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 2 |
@@ -10425,9 +8249,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OxiumAlloy | 300 |
 
 ## YareliPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NeuralSensor | 3 |
@@ -10436,9 +8258,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 4250 |
 
 ## YareliPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -10447,9 +8267,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 3175 |
 
 ## YareliSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 2 |
@@ -10458,9 +8276,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 1750 |
 
 ## ZephyrPrime
-
 **Credits:** 25000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ZephyrPrimeHelmetComponent | 1 |
@@ -10469,9 +8285,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## ZephyrPrimeChassisComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 2 |
@@ -10480,9 +8294,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OxiumAlloy | 300 |
 
 ## ZephyrPrimeHelmetComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NeuralSensor | 3 |
@@ -10491,9 +8303,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 4250 |
 
 ## ZephyrPrimeSystemsComponent
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -10502,18 +8312,14 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 3175 |
 
 ## BatsEphemera
-
 **Credits:** 10000 | **Build Time:** 36.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Kuva | 1000 |
 | BirdOfPreyPartItem | 5 |
 
 ## AvatarBloodA
-
 **Credits:** 1000000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Kuva | 10000 |
@@ -10521,9 +8327,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Elitium | 1 |
 
 ## AvatarSmokeA
-
 **Credits:** 1000000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OrokinCell | 25 |
@@ -10531,27 +8335,21 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Elitium | 1 |
 
 ## EmberAlternateSkin
-
 **Credits:** 25000 | **Build Time:** 0.5h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 500 |
 | ControlModule | 3 |
 
 ## ExcaliburAlternateSkin
-
 **Credits:** 25000 | **Build Time:** 0.5h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 500 |
 | ControlModule | 3 |
 
 ## FootstepsEidolon
-
 **Credits:** 1000000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SentientShardBrilliantItem | 10 |
@@ -10559,9 +8357,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | EidolonGemACutAItem | 1 |
 
 ## FootstepsElectrical
-
 **Credits:** 1000000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Circuits | 100000 |
@@ -10569,9 +8365,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Elitium | 1 |
 
 ## FootstepsHeat
-
 **Credits:** 1000000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 100 |
@@ -10579,9 +8373,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Elitium | 1 |
 
 ## FootstepsIce
-
 **Credits:** 1000000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Cryotic | 20000 |
@@ -10589,9 +8381,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Elitium | 1 |
 
 ## FootstepsPetals
-
 **Credits:** 1000000 | **Build Time:** 72.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ZenPitcherPlantItem | 50 |
@@ -10599,18 +8389,14 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Elitium | 1 |
 
 ## FrostAlternateSkin
-
 **Credits:** 25000 | **Build Time:** 0.5h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 500 |
 | ControlModule | 3 |
 
 ## VoidAngelEphemeraA
-
 **Credits:** 10000 | **Build Time:** 36.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VoidAngelItem | 5 |
@@ -10619,9 +8405,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | VoidWraithItem | 150 |
 
 ## VoidAngelEphemeraB
-
 **Credits:** 10000 | **Build Time:** 36.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VoidAngelItem | 5 |
@@ -10630,9 +8414,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | VoidWraithItem | 150 |
 
 ## PolearmFriendlyMeleeDangle
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -10641,9 +8423,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## ChainTridentMeleeDangle
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -10652,9 +8432,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## CordsMeleeDangle
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -10663,9 +8441,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## GrineerForestDualVastos
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -10674,9 +8450,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## GrineerForestScindo
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -10685,9 +8459,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## GrineerForestSoma
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -10696,9 +8468,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## HoverboardStickerPromoB
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CoolantItem | 120 |
@@ -10707,9 +8477,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 1000 |
 
 ## HoverboardStickerPromoC
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | FungusHeartItem | 120 |
@@ -10718,9 +8486,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 800 |
 
 ## HoverboardStickerPromoD
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VenusCoconutItem | 60 |
@@ -10729,9 +8495,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 1500 |
 
 ## DetronDazzleCamo
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -10740,9 +8504,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## PentaDazzleCamo
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -10751,9 +8513,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## ProvaDazzleCamo
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 500 |
@@ -10762,9 +8522,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## ZarimanDaggerWeapon
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VoidAngelItem | 5 |
@@ -10773,9 +8531,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | VoidWraithItem | 20 |
 
 ## ZarimanHeavyPistol
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VoidAngelItem | 1 |
@@ -10784,9 +8540,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 4000 |
 
 ## ZarimanPumpShotgun
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VoidAngelItem | 10 |
@@ -10795,9 +8549,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 8000 |
 
 ## ZarimanSemiAutoRifle
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VoidAngelItem | 15 |
@@ -10806,9 +8558,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ZarimanMiscItemB | 15 |
 
 ## ZarimanTonfaWeapon
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VoidAngelItem | 15 |
@@ -10817,137 +8567,75 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | VoidWraithItem | 100 |
 
 ## GrnHeavyGrenadeLauncher
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## GrnKuvaLichRifleWeapon
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## GrnKuvaLichScytheWeapon
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## KuvaBrakk
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## KuvaDrakgoon
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
+## KuvaGhoulSaw
+**Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
 ## KuvaGrattler
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## GrnBowWeapon
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## KuvaHekWeapon
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## KuvaHind
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## KuvaKarak
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## KuvaKohm
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## KuvaKraken
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## KuvaNukor
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## KuvaOgris
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## KuvaQuartakk
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## KuvaSeer
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## KuvaSobek
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## KuvaStubba
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## KuvaTonkor
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## KuvaZarr
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## CrpBEArcaPlasmor
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## CrpBECycron
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## CrpBEDetron
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## CrpBEFerrox
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## CrpBEFluxRifle
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## CrpBEGlaxion
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## CrpBEPlinxWeapon
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
+## CrpBEQuanta
+**Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
 ## CrpBETetra
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## CrpBriefcaseAkimboPistol
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## CrpBriefcaseLauncher
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## CrpBriefcaseScythe
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## CrpIgniterPistol
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## ArchonDualDaggersPlayerWep
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NarmerBountyResource | 10 |
@@ -10956,9 +8644,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 2 |
 
 ## ArchonTridentPlayerWep
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NarmerBountyResource | 16 |
@@ -10967,9 +8653,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 3200 |
 
 ## ArchonWhipPlayerWep
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NarmerBountyResource | 12 |
@@ -10978,9 +8662,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisRareGemACutItem | 6 |
 
 ## SentJointedScytheWeapon
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NarmerBountyResource | 16 |
@@ -10989,9 +8671,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | IraditeItem | 60 |
 
 ## TennobaumArcaPlasmorSkin
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -11000,9 +8680,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 350 |
 
 ## TennobaumAtomosSkin
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -11011,9 +8689,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 350 |
 
 ## SolsticeBurston
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -11022,9 +8698,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 350 |
 
 ## CephGaundaoSkin
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -11033,9 +8707,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 350 |
 
 ## CephPyranaSkin
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -11044,9 +8716,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 350 |
 
 ## CephRubicoSkin
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -11055,9 +8725,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 350 |
 
 ## SolsticeCorinthSkin
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -11066,9 +8734,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 350 |
 
 ## TennobaumCycronSkin
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -11077,9 +8743,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 350 |
 
 ## DaggerAxe
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 45 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -11088,9 +8752,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 1200 |
 
 ## DesertAtteraxSkin
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -11099,9 +8761,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 350 |
 
 ## DesertDirigaSkin
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -11110,9 +8770,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 350 |
 
 ## DesertGrinlokSkin
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -11121,9 +8779,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 350 |
 
 ## DesertHekSkin
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -11132,9 +8788,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 350 |
 
 ## DesertKarakSkin
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -11143,9 +8797,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 350 |
 
 ## DesertMarelokSkin
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -11154,9 +8806,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 350 |
 
 ## DesertTonkorSkin
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -11164,21 +8814,8 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 100 |
 | Ferrite | 350 |
 
-## DaggerAxe
-
-**Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Morphic | 1 |
-| PolymerBundle | 500 |
-| Ferrite | 650 |
-| Circuits | 750 |
-
 ## TennobaumDualKeresSkin
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -11187,9 +8824,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 350 |
 
 ## TennobaumFulminSkin
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -11198,9 +8833,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 350 |
 
 ## SolsticeGalatineSkin
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -11209,9 +8842,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 350 |
 
 ## TennobaumGramSkin
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -11220,9 +8851,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 350 |
 
 ## GrnAxe
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Gallium | 3 |
@@ -11231,9 +8860,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 80 |
 
 ## GrnHammer
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Gallium | 3 |
@@ -11242,9 +8869,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 60 |
 
 ## SolsticeGaundaoSkin
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -11253,9 +8878,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 350 |
 
 ## SolsticeIgnisSkin
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -11264,9 +8887,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 350 |
 
 ## SolsticeLenzSkin
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -11275,9 +8896,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 350 |
 
 ## SolsticeScindo
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -11286,9 +8905,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 350 |
 
 ## ShockExergisSkin
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -11297,9 +8914,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 350 |
 
 ## ShockFalcorSkin
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -11308,9 +8923,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 350 |
 
 ## ShockPlinxSkin
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -11319,9 +8932,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 350 |
 
 ## SolsticeTatsuSkin
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -11330,9 +8941,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 350 |
 
 ## 1999EntHybridPistolBarrel
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 1000 |
@@ -11341,9 +8950,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ZarimanMiscItemB | 2 |
 
 ## 1999EntHybridPistolReceiver
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | 1999ResourceCommonA | 120 |
@@ -11352,9 +8959,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 700 |
 
 ## 1999EntHybridPistolStock
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | 1999ResourceUncommonB | 16 |
@@ -11363,9 +8968,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | EntratiLabDogTagUncommon | 2 |
 
 ## CrpArSniperBarrel
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CubicsRailjackItem | 200 |
@@ -11374,9 +8977,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OxiumAlloy | 500 |
 
 ## CrpArSniperReceiver
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CarbidesRailjackItem | 200 |
@@ -11385,9 +8986,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Cryotic | 600 |
 
 ## CrpArSniperStock
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 5 |
@@ -11396,9 +8995,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ConcentratedGas | 10 |
 
 ## DaxDuviriAsymmetricalLongBowGrip
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DuviriPlantItemA | 40 |
@@ -11407,9 +9004,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriRockItem | 80 |
 
 ## DaxDuviriAsymmetricalLongBowLowerLimb
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DuviriPlantItemB | 40 |
@@ -11418,9 +9013,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriPlantItemE | 20 |
 
 ## DaxDuviriAsymmetricalLongBowString
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DuviriPlantItemC | 40 |
@@ -11429,9 +9022,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriProcessedItem | 75 |
 
 ## DaxDuviriAsymmetricalLongBowUpperLimb
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DuviriPlantItemD | 40 |
@@ -11440,9 +9031,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriRockItem | 80 |
 
 ## DuviriHeavyScytheBlade
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VoidWraithItem | 60 |
@@ -11451,9 +9040,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ZarimanMiscItemA | 15 |
 
 ## DuviriHeavyScytheHandle
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VoidWraithItem | 40 |
@@ -11462,9 +9049,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ZarimanMiscItemB | 5 |
 
 ## DuviriRifleBarrel
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VoidWraithItem | 40 |
@@ -11473,9 +9058,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OxiumAlloy | 2000 |
 
 ## DuviriRifleReceiver
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VoidWraithItem | 30 |
@@ -11484,9 +9067,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ZarimanMiscItemB | 5 |
 
 ## DuviriRifleStock
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VoidWraithItem | 30 |
@@ -11494,10 +9075,35 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 3000 |
 | OrokinCell | 5 |
 
+## EnkausBarrel
+**Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
+| Ingredient | Count |
+|---|---|
+| PolymerBundle | 180 |
+| Plastids | 250 |
+| Ferrite | 400 |
+| OxiumAlloy | 20 |
+
+## EnkausReceiver
+**Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
+| Ingredient | Count |
+|---|---|
+| Circuits | 300 |
+| Cryotic | 150 |
+| Morphic | 2 |
+| Plastids | 250 |
+
+## EnkausStock
+**Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
+| Ingredient | Count |
+|---|---|
+| AlloyPlate | 400 |
+| Gallium | 2 |
+| PolymerBundle | 200 |
+| Salvage | 400 |
+
 ## EntFistIncarnonBlade
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EntratiLabMiscItemA | 4500 |
@@ -11506,9 +9112,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Gallium | 8 |
 
 ## EntFistIncarnonGlove
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 1400 |
@@ -11517,9 +9121,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | EntratiLabDogTagRare | 4 |
 
 ## GalariakPrimeBlade
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TwelveResourceCommonItem | 650 |
@@ -11527,9 +9129,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | TwelveResourceRareItem | 70 |
 
 ## GalariakPrimeHandle
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TwelveResourceCommonItem | 450 |
@@ -11537,9 +9137,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | TwelveResourceRareItem | 100 |
 
 ## GrnGhoulSawBlade
-
 **Credits:** 30000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Tellurium | 1 |
@@ -11548,9 +9146,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 2875 |
 
 ## GrnGhoulSawChassis
-
 **Credits:** 30000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 5 |
@@ -11559,9 +9155,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 1825 |
 
 ## GrnGhoulSawEngine
-
 **Credits:** 30000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 5 |
@@ -11570,9 +9164,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 3150 |
 
 ## GrnGhoulSawHandle
-
 **Credits:** 30000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Gallium | 3 |
@@ -11581,9 +9173,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 1700 |
 
 ## GunbrellaBarrel
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ShrineFragment | 14 |
@@ -11592,9 +9182,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CommonGemBCutAItem | 10 |
 
 ## GunbrellaReceiver
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ShrineFragment | 14 |
@@ -11603,9 +9191,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CommonOreBAlloyBItem | 20 |
 
 ## GunbrellaStock
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ShrineFragment | 14 |
@@ -11614,9 +9200,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | IraditeItem | 25 |
 
 ## InfTransformClawsWeaponBlade
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DeimosCommonOreAAlloyItem | 40 |
@@ -11625,9 +9209,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Gallium | 4 |
 
 ## InfTransformClawsWeaponGlove
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DeimosGenericInfestedFishPartItem | 20 |
@@ -11636,9 +9218,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 4 |
 
 ## InfUziWeaponBarrel
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DeimosCommonOreBAlloyItem | 20 |
@@ -11647,9 +9227,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 4 |
 
 ## InfUziWeaponReceiver
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DeimosCommonOreAAlloyItem | 20 |
@@ -11658,9 +9236,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 5 |
 
 ## LasGooAKPlayerWeaponBarrel
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | 1999ResourceUncommonB | 23 |
@@ -11669,9 +9245,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 230 |
 
 ## LasGooAKPlayerWeaponReceiver
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | 1999ResourceCommonA | 130 |
@@ -11680,9 +9254,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 1 |
 
 ## LasGooAKPlayerWeaponStock
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | 1999ResourceCommonB | 150 |
@@ -11691,9 +9263,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 1000 |
 
 ## LasGooPistolPlayerWeaponBarrel
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | 1999ResourceUncommonA | 30 |
@@ -11702,9 +9272,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 600 |
 
 ## LasGooPistolPlayerWeaponReceiver
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | 1999ResourceCommonA | 30 |
@@ -11713,9 +9281,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 2 |
 
 ## LasGooPistolPlayerWeaponStock
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | 1999ResourceCommonA | 30 |
@@ -11724,9 +9290,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 240 |
 
 ## LasGooSicklesPlayerWeaponBlade
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | 1999ResourceCommonA | 200 |
@@ -11735,9 +9299,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 1300 |
 
 ## LasGooSicklesPlayerWeaponHilt
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | 1999ResourceUncommonB | 30 |
@@ -11746,9 +9308,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Gallium | 10 |
 
 ## LasSilencedPistolBarrel
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | 1999ResourceCommonB | 40 |
@@ -11757,9 +9317,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 1 |
 
 ## LasSilencedPistolReceiver
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | 1999ResourceCommonA | 80 |
@@ -11768,9 +9326,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 300 |
 
 ## LasSilencedPistolStock
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | 1999ResourceCommonA | 80 |
@@ -11779,9 +9335,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 200 |
 
 ## LasrianNoxPlayerWeaponBarrel
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | 1999ResourceCommonB | 150 |
@@ -11790,9 +9344,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Gallium | 6 |
 
 ## LasrianNoxPlayerWeaponReceiver
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | 1999ResourceUncommonB | 10 |
@@ -11801,9 +9353,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 260 |
 
 ## LasrianNoxPlayerWeaponStock
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | 1999ResourceCommonA | 50 |
@@ -11812,9 +9362,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 4 |
 
 ## NaginataBlade
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ShrineFragment | 14 |
@@ -11823,9 +9371,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | BothUncommonFishAPartItem | 3 |
 
 ## NaginataHandle
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ShrineFragment | 14 |
@@ -11834,9 +9380,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CommonGemACutAItem | 10 |
 
 ## NokkoArchGunBarrelItem
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BlastMushroomJournalItem | 5 |
@@ -11845,9 +9389,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 500 |
 
 ## NokkoArchGunReceiverItem
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GasMushroomJournalItem | 5 |
@@ -11856,9 +9398,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 300 |
 
 ## NokkoArchGunStockItem
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ViralMushroomJournalItem | 5 |
@@ -11867,9 +9407,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 500 |
 
 ## SagekPrimeBarrel
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TwelveResourceCommonItem | 650 |
@@ -11877,29 +9415,15 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | TwelveResourceRareItem | 65 |
 
 ## SagekPrimeReceiver
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TwelveResourceCommonItem | 750 |
 | TwelveResourceUncommonItem | 220 |
 | TwelveResourceRareItem | 110 |
 
-## SagekPrimeBarrel
-
-**Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
-| Ingredient | Count |
-|---|---|
-| TwelveResourceCommonItem | 650 |
-| TwelveResourceUncommonItem | 160 |
-| TwelveResourceRareItem | 65 |
-
 ## ScyotidBarrel
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EntratiLabMiscItemA | 375 |
@@ -11908,9 +9432,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriProcessedItem | 75 |
 
 ## ScyotidGauntlet
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DuviriMurmurItemA | 50 |
@@ -11919,9 +9441,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriFractalItem | 75 |
 
 ## SpinnerexBlade
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DuviriMurmurItemA | 150 |
@@ -11930,9 +9450,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriProcessedItem | 75 |
 
 ## SpinnerexHandle
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EntratiLabMiscItemB | 350 |
@@ -11941,9 +9459,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriFractalItem | 75 |
 
 ## SpinnerexString
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DuviriMurmurItemA | 100 |
@@ -11952,9 +9468,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriMushroomItem | 75 |
 
 ## ThanotechPistolBarrel
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisCommonOreAAlloyItem | 30 |
@@ -11963,9 +9477,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 5 |
 
 ## ThanotechPistolReceiver
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CommonOreBAlloyBItem | 40 |
@@ -11974,9 +9486,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosEidolonGemACutItem | 2 |
 
 ## ThanotechRifleBarrel
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DeimosCommonOreAAlloyItem | 45 |
@@ -11985,9 +9495,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## ThanotechRifleReceiver
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DeimosCommonOreBAlloyItem | 30 |
@@ -11996,9 +9504,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 1 |
 
 ## ThanotechRifleStock
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | RareOreAAlloyAItem | 45 |
@@ -12007,9 +9513,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosEidolonGemBCutItem | 2 |
 
 ## TnBeltFedRifleBarrel
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | 1999ResourceUncommonA | 40 |
@@ -12018,9 +9522,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 1 |
 
 ## TnBeltFedRifleReceiver
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | 1999ResourceCommonA | 60 |
@@ -12029,9 +9531,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 500 |
 
 ## TnBeltFedRifleStock
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | 1999ResourceCommonB | 60 |
@@ -12040,9 +9540,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## TnDagathBladeWhipBlade
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DagathAbyssItem | 20 |
@@ -12051,9 +9549,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## TnDagathBladeWhip
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TnDagathBladeWhipBlade | 1 |
@@ -12062,9 +9558,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | TnDagathBladeWhipHook | 1 |
 
 ## TnDagathBladeWhipHilt
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DagathAbyssItem | 20 |
@@ -12073,9 +9567,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 2 |
 
 ## TnDagathBladeWhipHook
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DagathAbyssItem | 20 |
@@ -12084,9 +9576,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 500 |
 
 ## TnDagathBladeWhipString
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DagathAbyssItem | 20 |
@@ -12095,9 +9585,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 860 |
 
 ## TnYareliPistolBarrel
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisRareOreAAlloyItem | 10 |
@@ -12106,9 +9594,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | VenusTreeItem | 35 |
 
 ## TnYareliPistolReceiver
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisCommonOreBAlloyItem | 20 |
@@ -12117,9 +9603,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | FungusHeartItem | 40 |
 
 ## VinquibusBarrel
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TwelveResourceCommonItem | 325 |
@@ -12127,9 +9611,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | TwelveResourceRareItem | 120 |
 
 ## VinquibusBlade
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TwelveResourceCommonItem | 825 |
@@ -12137,9 +9619,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | TwelveResourceRareItem | 130 |
 
 ## VinquibusReceiver
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TwelveResourceCommonItem | 725 |
@@ -12147,9 +9627,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | TwelveResourceRareItem | 95 |
 
 ## VinquibusStock
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TwelveResourceCommonItem | 625 |
@@ -12157,9 +9635,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | TwelveResourceRareItem | 85 |
 
 ## 1999EntHybridPistolWeapon
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | 1999EntHybridPistolBarrel | 1 |
@@ -12168,9 +9644,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 3 |
 
 ## AkimboAutoPistols
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AutoPistol | 1 |
@@ -12178,9 +9652,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## PrimeAcceltraWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AcceltraPrimeBarrel | 1 |
@@ -12189,9 +9661,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## PrimeAFurisWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AfurisPrimeBarrel | 2 |
@@ -12199,9 +9669,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AfurisPrimeLink | 1 |
 
 ## AkimboBolto
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CrossBow | 1 |
@@ -12209,9 +9677,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## PrimeAkariusWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AkariusPrimeBarrel | 2 |
@@ -12219,9 +9685,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AkariusPrimeLink | 1 |
 
 ## PrimeAkBoltoWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AkboltoPrimeBarrel | 2 |
@@ -12229,9 +9693,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AkboltoPrimeLink | 1 |
 
 ## PrimeAkimboShotGun
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BroncoPrime | 1 |
@@ -12239,9 +9701,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AkbroncoPrimeLink | 1 |
 
 ## AkJagaraPrime
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AkjagaraPrimeBarrel | 2 |
@@ -12250,9 +9710,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## AkLexPistols
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HeavyPistol | 1 |
@@ -12260,9 +9718,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## AkLexPrimePistols
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PrimeLex | 1 |
@@ -12270,9 +9726,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AklexPrimeLink | 1 |
 
 ## DualMagnusPrime
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PrimeMagnusWeapon | 1 |
@@ -12280,9 +9734,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AkmagnusPrimeLink | 1 |
 
 ## AkimboSomaPistols
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TennoUzi | 1 |
@@ -12290,9 +9742,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## PrimeAksomati
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AksomatiPrimeLink | 1 |
@@ -12300,9 +9750,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AksomatiPrimeReceiver | 2 |
 
 ## PrimeAkstiletto
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AkstilettoPrimeBarrel | 2 |
@@ -12310,9 +9758,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AkstilettoPrimeLink | 1 |
 
 ## AkPrimeVastoPistol
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PrimeVastoPistol | 1 |
@@ -12320,9 +9766,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AkvastoPrimeLink | 1 |
 
 ## PrimeAlternoxWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlternoxPrimeBarrel | 1 |
@@ -12331,9 +9775,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## PrimeAnkyros
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AnkyrosPrimeBlade | 2 |
@@ -12341,9 +9783,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## AntlerBow
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 45 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Gallium | 3 |
@@ -12352,9 +9792,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 1750 |
 
 ## ArchAxeWeapon
-
 **Credits:** 25000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArchAxeBlade | 2 |
@@ -12362,9 +9800,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 3 |
 
 ## ArchBurstGun
-
 **Credits:** 45000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArchBurstGunBarrel | 1 |
@@ -12373,9 +9809,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Tellurium | 2 |
 
 ## ArchCannon
-
 **Credits:** 45000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArchCannonBarrel | 1 |
@@ -12384,9 +9818,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## ArchHammer
-
 **Credits:** 25000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArchHammerHead | 1 |
@@ -12395,9 +9827,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ControlModule | 1 |
 
 ## ArchHeavyPistols
-
 **Credits:** 45000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArchHeavyPistolsBarrel | 2 |
@@ -12405,9 +9835,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ControlModule | 2 |
 
 ## ArchHookSwordWeapon
-
 **Credits:** 25000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArchHookSwordBlade | 1 |
@@ -12415,9 +9843,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArchHookSwordGuard | 1 |
 
 ## ArchLongRifle
-
 **Credits:** 45000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArchLongRifleBarrel | 1 |
@@ -12426,9 +9852,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Tellurium | 2 |
 
 ## ArchRailgun
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArchRailgunBarrel | 1 |
@@ -12437,9 +9861,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ControlModule | 2 |
 
 ## ArchRocketCrossbow
-
 **Credits:** 45000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArchRocketCrossbowBarrel | 1 |
@@ -12448,9 +9870,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## ArchScythe
-
 **Credits:** 25000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArchScytheBlade | 1 |
@@ -12458,9 +9878,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Tellurium | 3 |
 
 ## ArchSwordShield
-
 **Credits:** 25000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArchSwordShieldBlade | 1 |
@@ -12468,9 +9886,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArchSwordShieldHandle | 1 |
 
 ## AstillaPrimeWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AstillaPrimeBarrel | 1 |
@@ -12479,9 +9895,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## AsymetricalBow
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 2 |
@@ -12490,9 +9904,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## TnJetTurbinePistolWeapon
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AthodaiPistolBarrel | 1 |
@@ -12500,9 +9912,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## AutoCrossBow
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 3 |
@@ -12511,9 +9921,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 1200 |
 
 ## AxeWeapon
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Gallium | 3 |
@@ -12522,9 +9930,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 500 |
 
 ## BallasSwordWeapon
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PrimeBucks | 1000 |
@@ -12533,9 +9939,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 15 |
 
 ## PrimeBazaGun
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BazaPrimeBarrel | 1 |
@@ -12544,9 +9948,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## PrimeBoar
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BoarPrimeBarrel | 1 |
@@ -12555,9 +9957,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## CrossBow
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Pistol | 1 |
@@ -12566,9 +9966,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 2 |
 
 ## Boltonfa
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BoltoRifle | 1 |
@@ -12576,9 +9974,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Gallium | 2 |
 
 ## BoltoRifle
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 2 |
@@ -12587,9 +9983,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 600 |
 
 ## PrimeBoltor
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BoltorPrimeBarrel | 1 |
@@ -12598,9 +9992,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## BoomerangWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 8 |
@@ -12609,9 +10001,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 4000 |
 
 ## PrimeHuntingBow
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PrimeBowLowerLimb | 1 |
@@ -12620,9 +10010,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PrimeBowString | 1 |
 
 ## GrineerHandCannon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BrakkBarrel | 1 |
@@ -12630,13 +10018,9 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## Rifle
-
 **Credits:** 25000 | **Build Time:** 12.0h | **Rush:** 0 Platinum
-
 ## BratonPrime
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BratonPrimeBarrel | 1 |
@@ -12645,9 +10029,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## VIPRifle
-
 **Credits:** 25000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BratonVandalBarrel | 1 |
@@ -12655,9 +10037,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | BratonVandalStock | 1 |
 
 ## BrawlerKnuckles
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Gallium | 5 |
@@ -12666,9 +10046,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Gauntlet | 1 |
 
 ## GrnQueenSceptreWeapon
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Kuva | 5000 |
@@ -12677,9 +10055,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 2500 |
 
 ## StalkerTwoSmallSword
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | WarHilt | 1 |
@@ -12688,9 +10064,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## HandShotGun
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 2 |
@@ -12699,9 +10073,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 800 |
 
 ## BroncoPrime
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BroncoPrimeBarrel | 1 |
@@ -12709,9 +10081,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## PrimeBurston
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BurstonPrimeBarrel | 1 |
@@ -12720,9 +10090,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## BurstRifle
-
 **Credits:** 25000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -12731,9 +10099,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 400 |
 
 ## CarminePenta
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CarminePentaBarrel | 1 |
@@ -12741,9 +10107,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CarminePentaStock | 1 |
 
 ## PrimeCedoWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CedoPrimeReceiver | 1 |
@@ -12752,9 +10116,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## CephHammerWeapon
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CSDroidArray | 1 |
@@ -12763,9 +10125,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 1 |
 
 ## CephPrimary
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 1200 |
@@ -12774,9 +10134,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 1 |
 
 ## CeramicDagger
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Gallium | 4 |
@@ -12785,9 +10143,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 600 |
 
 ## PrimeCobraAndCraneWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CobraCranePrimeBlade | 1 |
@@ -12796,9 +10152,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## LowKatana
-
 **Credits:** 5000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 1 |
@@ -12806,9 +10160,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Katana | 1 |
 
 ## PrimeCorinth
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CorinthPrimeReceiver | 1 |
@@ -12817,9 +10169,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## CorpusHammerWeapon
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -12828,9 +10178,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 1200 |
 
 ## CorpusHandRocketLauncher
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 600 |
@@ -12839,9 +10187,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## CorpusHandCannon
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 5 |
@@ -12850,9 +10196,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 500 |
 
 ## CorpusMinigun
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 2 |
@@ -12861,9 +10205,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 1200 |
 
 ## CorpusRailgun
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EnergyComponent | 5 |
@@ -12872,9 +10214,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## CorpusUMP
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 40 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 2 |
@@ -12883,9 +10223,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 100 |
 
 ## CorpusWhipWeapon
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 2 |
@@ -12894,9 +10232,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | NeuralSensor | 3 |
 
 ## PrimeCorvasWeapon
-
 **Credits:** 45000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CorvasPrimeBarrel | 1 |
@@ -12905,9 +10241,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## CrpAirPistolArray
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 6500 |
@@ -12916,9 +10250,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## CrpArSniperRifle
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CrpArSniperBarrel | 1 |
@@ -12926,13 +10258,9 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CrpArSniperStock | 1 |
 
 ## CrpBigSlash
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## CrpBlastorWeapon
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -12941,13 +10269,9 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusWidgetAItem | 10 |
 
 ## CrpBriefcase2HKatana
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 ## CrpChargeGun
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EnergyComponent | 4 |
@@ -12956,9 +10280,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## CrpGhostCatcherGlaive
-
 **Credits:** 15000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CrpGhostCatcherGlaivePartBlade | 1 |
@@ -12966,9 +10288,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CrpGhostCatcherGlaivePartHandle | 1 |
 
 ## CrpGunbladeWeapon
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CrpGunbladeBarrel | 1 |
@@ -12977,17 +10297,13 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CrpGunbladeStock | 1 |
 
 ## CrpHammerShield
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 1 |
 
 ## CrpRubanRifle
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CrpRubanRifleBarrel | 1 |
@@ -12995,9 +10311,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CrpRubanRifleStock | 1 |
 
 ## CrpSentAmalgPistol
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EnergyComponent | 5 |
@@ -13006,9 +10320,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## CrpSentAmlgSniper
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EnergyComponent | 5 |
@@ -13017,9 +10329,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## CrpSentExperimentPistol
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EnergyComponent | 10 |
@@ -13028,9 +10338,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinFishSaganModuleItem | 20 |
 
 ## CrpSentExperimentRifle
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EnergyComponent | 10 |
@@ -13039,9 +10347,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinFishEntroplasmaItem | 20 |
 
 ## CrpShapeBlastShotgun
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -13050,9 +10356,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 8500 |
 
 ## CrpShockGripWhipWeapon
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -13061,9 +10365,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 1000 |
 
 ## CrpTonfa
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 4 |
@@ -13072,9 +10374,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## CrpVenusHatchet
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EnergyComponent | 10 |
@@ -13083,9 +10383,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisFishLatheCoogulantItem | 20 |
 
 ## CutlassPoignardSwords
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 2 |
@@ -13094,9 +10392,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Gallium | 10 |
 
 ## DarkDagger
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 2 |
@@ -13105,9 +10401,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 300 |
 
 ## DarkSwordDaggerHybridWeapon
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DualShortSword | 1 |
@@ -13116,9 +10410,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | BioComponent | 10 |
 
 ## DaxDuviriAsymmetricalLongBowPlayerWeapon
-
 **Credits:** 25000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DaxDuviriAsymmetricalLongBowString | 1 |
@@ -13127,9 +10419,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DaxDuviriAsymmetricalLongBowLowerLimb | 1 |
 
 ## DaxDuviriHammerWeapon
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 40 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DuviriPlantItemE | 20 |
@@ -13138,9 +10428,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriRockItem | 150 |
 
 ## DaxDuviriKatanaWeapon
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GenericDuviriFishPartCItem | 4 |
@@ -13149,9 +10437,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriPlantItemB | 30 |
 
 ## DaxDuviriMaceShieldWeapon
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 40 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DuviriPlantItemE | 20 |
@@ -13160,9 +10446,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriRockItem | 150 |
 
 ## DaxDuviriPolearmWeapon
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DuviriMushroomItem | 30 |
@@ -13171,9 +10455,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriPlantItemC | 40 |
 
 ## DaxDuviriTwoHandedKatanaWeapon
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 40 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GenericDuviriFishPartCItem | 5 |
@@ -13182,9 +10464,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriProcessedItem | 100 |
 
 ## DeraVandal
-
 **Credits:** 25000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DeraVandalBarrel | 1 |
@@ -13192,9 +10472,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeraVandalStock | 1 |
 
 ## DerelictCernos
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 45 Platinum
-
 | Ingredient | Count |
 |---|---|
 | InfCernos | 1 |
@@ -13203,29 +10481,15 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 25000 |
 
 ## DestrezaPrime
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DestrezaPrimeHandle | 1 |
 | DestrezaPrimeBlade | 1 |
 | OrokinCell | 10 |
 
-## CorpusHandCannon
-
-**Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
-| Ingredient | Count |
-|---|---|
-| DetronBarrel | 1 |
-| DetronReceiver | 1 |
-| OrokinCell | 10 |
-
 ## DjinnMachete
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -13234,9 +10498,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 1400 |
 
 ## DoubleBarrelShotgun
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 5 |
@@ -13245,9 +10507,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 400 |
 
 ## DrakeRifle
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SemiAutoRifle | 1 |
@@ -13256,9 +10516,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## DualAxeWeapon
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 4 |
@@ -13267,9 +10525,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 800 |
 
 ## AkimboShotGun
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HandShotGun | 1 |
@@ -13277,9 +10533,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## DualCleaverWeapon
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 40 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Gallium | 5 |
@@ -13288,9 +10542,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 1200 |
 
 ## DualCorpusMinigun
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CorpusMinigun | 1 |
@@ -13299,9 +10551,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## DualDagger
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -13310,9 +10560,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 900 |
 
 ## DualEtherDagger
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 5 |
@@ -13321,9 +10569,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 1200 |
 
 ## DualEtherSword
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -13332,9 +10578,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 800 |
 
 ## DualHeatSwords
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 2 |
@@ -13343,9 +10587,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 700 |
 
 ## DualKamas
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SingleKama | 1 |
@@ -13353,18 +10595,14 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## PrimeDualKeresWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DualKeresPrimeHandle | 2 |
 | DualKeresPrimeBlade | 2 |
 
 ## DualMagnus
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Magnum | 1 |
@@ -13372,9 +10610,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 2 |
 
 ## SomaDualKamas
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DualKamas | 1 |
@@ -13383,9 +10619,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## DualShortSword
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 2 |
@@ -13394,9 +10628,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 300 |
 
 ## DualVastos
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | RevolverPistol | 1 |
@@ -13404,18 +10636,14 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 2 |
 
 ## PrimeZorenAxeWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DualZorenPrimeHandle | 2 |
 | DualZorenPrimeBlade | 2 |
 
 ## DuviriDualSwordsWeapon
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DuviriPlantItemA | 100 |
@@ -13424,9 +10652,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriPlantItemE | 45 |
 
 ## DuviriHeavyScytheWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DuviriHeavyScytheBlade | 1 |
@@ -13434,9 +10660,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | VoidWraithItem | 50 |
 
 ## TnRifleErsatzWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DuviriRifleBarrel | 1 |
@@ -13444,19 +10668,23 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriRifleStock | 1 |
 | VoidWraithItem | 50 |
 
+## TnInkRifleWeapon
+**Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
+| Ingredient | Count |
+|---|---|
+| EnkausBarrel | 1 |
+| EnkausReceiver | 1 |
+| EnkausStock | 1 |
+
 ## EntFistIncarnon
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EntFistIncarnonBlade | 2 |
 | EntFistIncarnonGlove | 2 |
 
 ## EntSphereHammer
-
 **Credits:** 25000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EntratiLabMiscItemA | 2400 |
@@ -13465,9 +10693,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ZarimanMiscItemB | 3 |
 
 ## EntratiWristGunWeapon
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 3000 |
@@ -13476,9 +10702,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ZarimanMiscItemB | 6 |
 
 ## PrimeEpitaphSidearmWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EpitaphPrimeBarrel | 1 |
@@ -13486,9 +10710,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## EtherScytheWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PolymerBundle | 1000 |
@@ -13497,9 +10719,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 1000 |
 
 ## EtherSword
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 4 |
@@ -13508,18 +10728,14 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 700 |
 
 ## FangPrimeDagger
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PrimeFangHandle | 2 |
 | PrimeFangBlade | 2 |
 
 ## FiveShotSniper
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 3800 |
@@ -13528,9 +10744,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## FlowerPowerPolearmWep
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 2 |
@@ -13539,9 +10753,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OxiumAlloy | 100 |
 
 ## PrimeFragor
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | FragorPrimeHead | 1 |
@@ -13549,9 +10761,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## PrimeFulmin
-
 **Credits:** 45000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | FulminPrimeBarrel | 1 |
@@ -13560,9 +10770,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## Fist
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Nanospores | 1000 |
@@ -13571,18 +10779,14 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 500 |
 
 ## FuraxWraith
-
 **Credits:** 25000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | FuraxWraithLeftGauntlet | 1 |
 | FuraxWraithRightGauntlet | 1 |
 
 ## AutoPistol
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 750 |
@@ -13591,9 +10795,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 4 |
 
 ## GrnDrillScythe
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GalariakPrimeBlade | 1 |
@@ -13601,9 +10803,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## GarudaCrossbow
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 3 |
@@ -13612,9 +10812,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 1200 |
 
 ## Gauntlet
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Nanospores | 900 |
@@ -13623,9 +10821,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 450 |
 
 ## LightGlaiveWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 10 |
@@ -13634,9 +10830,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 4500 |
 
 ## PrimeGlaiveWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GlaivePrimeBlade | 2 |
@@ -13644,9 +10838,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## GlassHammer
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OxiumAlloy | 225 |
@@ -13655,9 +10847,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Cryotic | 875 |
 
 ## GlassKunaiWeapon
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Rubedo | 2950 |
@@ -13666,9 +10856,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 2 |
 
 ## HeavyRifle
-
 **Credits:** 25000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 5 |
@@ -13677,9 +10865,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 1000 |
 
 ## WraithGorgon
-
 **Credits:** 25000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GorgonWraithBarrel | 1 |
@@ -13687,9 +10873,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | GorgonWraithStock | 1 |
 
 ## PrimeGram
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GramPrimeBlade | 1 |
@@ -13697,9 +10881,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 15 |
 
 ## GreatSword
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Gallium | 3 |
@@ -13708,9 +10890,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 80 |
 
 ## GrineerAkimboPistol
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 45 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 5 |
@@ -13719,9 +10899,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 1200 |
 
 ## GrenadeLauncher
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 3 |
@@ -13730,9 +10908,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 400 |
 
 ## TnGrimoire
-
 **Credits:** 25000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EntratiLabMiscItemA | 2000 |
@@ -13741,9 +10917,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ZarimanMiscItemB | 10 |
 
 ## GrineerCombatKnife
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 1500 |
@@ -13751,20 +10925,8 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 600 |
 | ArgonCrystal | 1 |
 
-## GrineerCombatKnife
-
-**Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
-| Ingredient | Count |
-|---|---|
-| GrineerCombatKnifeBlade | 1 |
-| GrineerCombatKnifeHeatsink | 1 |
-| GrineerCombatKnifeHilt | 1 |
-
 ## FlakCannon
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 40 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 5 |
@@ -13773,9 +10935,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 1100 |
 
 ## GrineerGooGun
-
 **Credits:** 20000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 3 |
@@ -13783,21 +10943,8 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 3000 |
 | AlloyPlate | 1200 |
 
-## GrineerHandCannon
-
-**Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Neurode | 5 |
-| Circuits | 500 |
-| Salvage | 700 |
-| PolymerBundle | 600 |
-
 ## GrineerJetPolearm
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ChemComponent | 5 |
@@ -13806,9 +10953,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## GrineerLightPistol
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -13817,9 +10962,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 900 |
 
 ## GrineerM16Rifle
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 2 |
@@ -13828,9 +10971,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 100 |
 
 ## GrineerWhip
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 1500 |
@@ -13839,9 +10980,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## GrnAmphisPistol
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -13850,9 +10989,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 12750 |
 
 ## GrnAssaultRifle
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 2 |
@@ -13861,9 +10998,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 100 |
 
 ## GrnBoomerang
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -13872,9 +11007,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OxiumAlloy | 500 |
 
 ## GrnBurstRifle
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 6 |
@@ -13883,9 +11016,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 1200 |
 
 ## GrnCannonWeapon
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 40 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Kuva | 1800 |
@@ -13894,18 +11025,14 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | FlakCannon | 1 |
 
 ## GrnChainSawTonfaWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GrnChainSawTonfaHandle | 2 |
 | GrnChainSawTonfaBlade | 2 |
 
 ## GrnClaws
-
 **Credits:** 40000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Gauntlet | 1 |
@@ -13914,9 +11041,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## GrnDualFireAxe
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DualAxeWeapon | 1 |
@@ -13924,9 +11049,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ControlModule | 2 |
 
 ## GrnGhoulSawPlayer
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GrnGhoulSawBlade | 1 |
@@ -13935,9 +11058,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | GrnGhoulSawHandle | 1 |
 
 ## GrnGrenadeLauncher
-
 **Credits:** 60000 | **Build Time:** 24.0h | **Rush:** 45 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 1500 |
@@ -13946,9 +11067,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## GrnHarpoonGun
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -13957,9 +11076,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 3600 |
 
 ## GrnHeatGun
-
 **Credits:** 60000 | **Build Time:** 24.0h | **Rush:** 45 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 1500 |
@@ -13968,9 +11085,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## GrnHeavyPistol
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 2 |
@@ -13979,9 +11094,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 120 |
 
 ## GrnQueenGuardDualPistols
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 40 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -13990,9 +11103,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 15000 |
 
 ## GrnSharbolaWeapon
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 13000 |
@@ -14001,9 +11112,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Tellurium | 8 |
 
 ## GrnSniperRifle
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 5 |
@@ -14012,9 +11121,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 800 |
 
 ## GrnSparkRifle
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 2500 |
@@ -14023,9 +11130,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## GrnSpiderSparring
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | RareOreAAlloyAItem | 25 |
@@ -14034,9 +11139,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DayCommonFishAPartItem | 20 |
 
 ## GrnStaff
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 2 |
@@ -14045,9 +11148,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 600 |
 
 ## GrnTorpedoPistol
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GrnHeavyPistol | 1 |
@@ -14056,9 +11157,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 3600 |
 
 ## GrnVorStickyBomb
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 8500 |
@@ -14067,9 +11166,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 2 |
 
 ## PrimeGuandaoWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GuandaoPrimeBlade | 2 |
@@ -14077,9 +11174,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 15 |
 
 ## ExaltedAWScytheWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GunScytheBlade | 1 |
@@ -14088,9 +11183,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 3 |
 
 ## ShrineMaidenGunbrellaWeapon
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GunbrellaBarrel | 1 |
@@ -14099,18 +11192,14 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ShrineFragment | 5 |
 
 ## PrimeGunsenWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GunsenPrimeHandle | 2 |
 | GunsenPrimeBlade | 2 |
 
 ## GyreRifleWeapon
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 4000 |
@@ -14119,9 +11208,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## HammerWeapon
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Gallium | 3 |
@@ -14130,9 +11217,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 80 |
 
 ## HarlequinPistols
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 1500 |
@@ -14141,9 +11226,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## Dagger
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NeuralSensor | 1 |
@@ -14152,9 +11235,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 75 |
 
 ## HeatLongSword
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 1 |
@@ -14163,9 +11244,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 300 |
 
 ## HuntingBow
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 45 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -14174,9 +11253,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 2000 |
 
 ## PrimeHystrixWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HystrixPrimeBarrel | 1 |
@@ -14184,9 +11261,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## IceHammer
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PaladinMaceWeapon | 1 |
@@ -14194,9 +11269,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 50000 |
 
 ## ArchMachineGun
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 2 |
@@ -14205,9 +11278,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 300 |
 
 ## ArchMachineGunVandal
-
 **Credits:** 25000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ImperatorVandalBarrel | 1 |
@@ -14215,9 +11286,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Tellurium | 10 |
 
 ## InfBeamPistol
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EntratiWispItem | 5 |
@@ -14226,9 +11295,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosRareGemACutItem | 10 |
 
 ## InfBoomerangWeapon
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | InfBoomerangBlade | 2 |
@@ -14236,9 +11303,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 5 |
 
 ## InfCernos
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 45 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AntlerBow | 1 |
@@ -14247,9 +11312,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 2300 |
 
 ## InfNunchuck
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -14258,9 +11321,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 24000 |
 
 ## InfSniperRifle
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | InfSniperRifleBarrel | 1 |
@@ -14269,9 +11330,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosOrokinFishCPartItem | 2 |
 
 ## InfTipedoStaff
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TnoMonkStaff | 1 |
@@ -14280,27 +11339,21 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 2300 |
 
 ## InfTransformClawsWeapon
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | InfTransformClawsWeaponBlade | 2 |
 | InfTransformClawsWeaponGlove | 2 |
 
 ## InfUziWeapon
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | InfUziWeaponBarrel | 1 |
 | InfUziWeaponReceiver | 1 |
 
 ## InfWarfanWeapon
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | InfWarFanGuard | 2 |
@@ -14309,9 +11362,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosEidolonGemBCutItem | 1 |
 
 ## InfestedDartPistol
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 2 |
@@ -14320,9 +11371,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 100 |
 
 ## InfestedKogake
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BrassKnuckles | 1 |
@@ -14331,9 +11380,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 4600 |
 
 ## InfestedShotgun
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BioComponent | 4 |
@@ -14342,9 +11389,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## JawLongSword
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -14353,9 +11398,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 75 |
 
 ## KarakWraith
-
 **Credits:** 25000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | KarakWraithBarrel | 1 |
@@ -14363,9 +11406,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | KarakWraithStock | 1 |
 
 ## PrimeKrisDagger
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | KarystPrimeBlade | 1 |
@@ -14373,9 +11414,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 15 |
 
 ## Katana
-
 **Credits:** 5000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 3 |
@@ -14384,9 +11423,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## PrimeKestrel
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | KestrelPrimeGrip | 1 |
@@ -14394,9 +11431,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## KickPunchWeapon
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Circuits | 650 |
@@ -14405,9 +11440,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 300 |
 
 ## PrimeKnellWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | KnellPrimeBarrel | 1 |
@@ -14415,9 +11448,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## BrassKnuckles
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Rubedo | 400 |
@@ -14426,9 +11457,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 500 |
 
 ## KogakePrimeKnuckles
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | KogakePrimeGauntlet | 2 |
@@ -14436,9 +11465,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 15 |
 
 ## PrimeKompressa
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | KompressaPrimeBarrel | 1 |
@@ -14446,9 +11473,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## TonfaContestWinnerPrimeWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | KronenPrimeHandle | 2 |
@@ -14456,9 +11481,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 15 |
 
 ## Kunai
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 45 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 5 |
@@ -14467,9 +11490,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 4000 |
 
 ## PrimeLarkspurWeapon
-
 **Credits:** 45000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | LarkspurPrimeBarrel | 1 |
@@ -14478,9 +11499,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## LasGooAKPlayerWeapon
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 45 Platinum
-
 | Ingredient | Count |
 |---|---|
 | LasGooAKPlayerWeaponBarrel | 1 |
@@ -14488,9 +11507,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | LasGooAKPlayerWeaponStock | 1 |
 
 ## LasGooPistolPlayerWeapon
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 45 Platinum
-
 | Ingredient | Count |
 |---|---|
 | LasGooPistolPlayerWeaponBarrel | 1 |
@@ -14498,18 +11515,14 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | LasGooPistolPlayerWeaponStock | 1 |
 
 ## LasGooSicklePlayerWeapon
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 45 Platinum
-
 | Ingredient | Count |
 |---|---|
 | LasGooSicklesPlayerWeaponBlade | 2 |
 | LasGooSicklesPlayerWeaponHilt | 2 |
 
 ## LasSilencedPistolWeapon
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | LasSilencedPistolBarrel | 1 |
@@ -14517,9 +11530,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | LasSilencedPistolStock | 1 |
 
 ## LasrianNoxPlayerWeapon
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 45 Platinum
-
 | Ingredient | Count |
 |---|---|
 | LasrianNoxPlayerWeaponBarrel | 1 |
@@ -14527,22 +11538,16 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | LasrianNoxPlayerWeaponStock | 1 |
 
 ## Pistol
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 0 Platinum
-
 ## LatoVandal
-
 **Credits:** 25000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | LatoVandalBarrel | 1 |
 | LatoVandalReceiver | 1 |
 
 ## SemiAutoRifle
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 5 |
@@ -14551,9 +11556,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 1000 |
 
 ## LatronPrime
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | LatronPrimeBarrel | 1 |
@@ -14562,9 +11565,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## WraithLatron
-
 **Credits:** 25000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | LatronWraithBarrel | 1 |
@@ -14572,9 +11573,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | LatronWraithStock | 1 |
 
 ## PrimeLex
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | LexPrimeBarrel | 1 |
@@ -14582,9 +11581,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## LiDagger
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 45 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Gallium | 5 |
@@ -14592,21 +11589,8 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 800 |
 | Salvage | 4000 |
 
-## LowKatana
-
-**Credits:** 5000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
-| Ingredient | Count |
-|---|---|
-| ArgonCrystal | 4 |
-| OxiumAlloy | 150 |
-| AlloyPlate | 500 |
-| Forma | 1 |
-
 ## Machete
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Gallium | 4 |
@@ -14615,9 +11599,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 900 |
 
 ## Magnum
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OrokinCell | 2 |
@@ -14626,9 +11608,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 100 |
 
 ## PrimeMagnusWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | MagnusPrimeBarrel | 1 |
@@ -14636,9 +11616,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## PrimeMasseter
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | MasseterPrimeBlade | 1 |
@@ -14646,9 +11624,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 15 |
 
 ## MireSword
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NeuralSensor | 2 |
@@ -14657,9 +11633,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 2000 |
 
 ## SawBladeGun
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | MiterBarrel | 1 |
@@ -14668,9 +11642,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | MiterHandle | 1 |
 
 ## MortiforShieldAndSword
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | MortiforShieldAndSwordBlade | 1 |
@@ -14678,9 +11650,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | MortiforShieldAndSwordGuard | 1 |
 
 ## NWOrokinSword
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OrokinCell | 15 |
@@ -14689,9 +11659,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosUncommonGemACutItem | 10 |
 
 ## PrimeNagantakaWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NagantakaPrimeBarrel | 1 |
@@ -14700,9 +11668,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## ShrineMaidenNaginataWeapon
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NaginataBlade | 2 |
@@ -14710,9 +11676,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ShrineFragment | 5 |
 
 ## PrimeNikondi
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NinkondiPrimeHandle | 2 |
@@ -14720,9 +11684,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 15 |
 
 ## NokkoArchGun
-
 **Credits:** 25000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NokkoArchGunBarrelItem | 1 |
@@ -14731,9 +11693,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PlainMushroomJournalItem | 5 |
 
 ## Nunchaku
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 4000 |
@@ -14742,9 +11702,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## PrimeOkina
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OkinaPrimeHandle | 2 |
@@ -14752,9 +11710,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 15 |
 
 ## OperationsLacera
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 8150 |
@@ -14763,9 +11719,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 15 |
 
 ## PacifistShieldSword
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -14774,9 +11728,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 18750 |
 
 ## PaladinMaceWeapon
-
 **Credits:** 25000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Gallium | 3 |
@@ -14785,9 +11737,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 80 |
 
 ## PanderoPrimeWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PanderoPrimeBarrel | 1 |
@@ -14795,9 +11745,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## PrimePangolinSword
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PangolinPrimeBlade | 1 |
@@ -14805,9 +11753,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 15 |
 
 ## PangolinLongSword
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 1 |
@@ -14816,9 +11762,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 80 |
 
 ## PrimePanthera
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PantheraPrimeBarrel | 1 |
@@ -14827,9 +11771,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## ParisScythe
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Gallium | 2 |
@@ -14838,9 +11780,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 4 |
 
 ## PaxDuviricusShotgun
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PaxDuviricusShotgunBarrel | 1 |
@@ -14848,10 +11788,17 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PaxDuviricusShotgunStock | 1 |
 | DuviriDragonDropItem | 10 |
 
-## PhantasmaPrimeShotgun
-
+## PrimePerigaleSniper
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
+| Ingredient | Count |
+|---|---|
+| PerigalePrimeBarrel | 1 |
+| PerigalePrimeReceiver | 1 |
+| PerigalePrimeStock | 1 |
+| OrokinCell | 10 |
 
+## PhantasmaPrimeShotgun
+**Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
 | Ingredient | Count |
 |---|---|
 | PhantasmaPrimeBarrel | 1 |
@@ -14860,9 +11807,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## PlasmaLongSword
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OrokinCell | 1 |
@@ -14871,9 +11816,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 50 |
 
 ## PolearmWeapon
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 4 |
@@ -14882,9 +11825,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 700 |
 
 ## PrimePolearmWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PrimePolearmBlade | 2 |
@@ -14892,9 +11833,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## AllNew1hSG
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Prime1HShotgunBarrel | 1 |
@@ -14902,9 +11841,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## PrimeBallistica
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PrimeBallisticaLowerLimb | 1 |
@@ -14913,9 +11850,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PrimeBallisticaString | 1 |
 
 ## PrimeBoWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PrimeBoOrnament | 2 |
@@ -14923,9 +11858,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## PrimeCernos
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PrimeCernosLowerLimb | 1 |
@@ -14934,9 +11867,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PrimeCernosString | 1 |
 
 ## PrimeCronusLongSword
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PrimeCronusLongSwordBlade | 1 |
@@ -14944,9 +11875,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 15 |
 
 ## PrimeDaikyuBow
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PrimeDaikyuLowerLimb | 1 |
@@ -14955,18 +11884,14 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PrimeDaikyuString | 1 |
 
 ## PrimeDualKamas
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PrimeDualKamasHandle | 2 |
 | PrimeDualKamasBlade | 2 |
 
 ## PrimeGalatine
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PrimeGalatineBlade | 1 |
@@ -14974,9 +11899,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 15 |
 
 ## PrimeHikou
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PrimeHikouStars | 2 |
@@ -14984,9 +11907,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 8 |
 
 ## PrimeLiDagger
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PrimeLiDaggerBlade | 2 |
@@ -14994,9 +11915,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 8 |
 
 ## PrimeLightningGun
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PrimeLightningGunBarrel | 1 |
@@ -15005,9 +11924,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## PrimeNamiSkyla
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PrimeNamiSkylaHandle | 2 |
@@ -15015,9 +11932,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 15 |
 
 ## PrimeNikana
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PrimeNikanaBlade | 1 |
@@ -15025,9 +11940,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 15 |
 
 ## PrimeScindoWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PrimeScindoBlade | 1 |
@@ -15035,9 +11948,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 15 |
 
 ## ReaperWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PrimeScytheBlade | 1 |
@@ -15045,9 +11956,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## PrimeTigris
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PrimeTigrisBarrel | 1 |
@@ -15056,9 +11965,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## PrimeVenkaClaws
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PrimeVenkaClawsGauntlet | 2 |
@@ -15066,9 +11973,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 15 |
 
 ## TnOdaliskSmgPistol
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ProteaSMGBarrel | 1 |
@@ -15076,9 +11981,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 3 |
 
 ## PrimePyranaPistol
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PyranaPrimeBarrel | 1 |
@@ -15086,9 +11989,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## QuadShotgun
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 5 |
@@ -15097,18 +11998,14 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 1000 |
 
 ## PrimeQuassusWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | QuassusPrimeHandle | 2 |
 | QuassusPrimeBlade | 2 |
 
 ## QuillDartGunWeapon
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CrossBow | 1 |
@@ -15117,9 +12014,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ControlModule | 15 |
 
 ## QuillDualSwords
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -15128,9 +12023,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Tellurium | 3 |
 
 ## RailjackRifleGun
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Tellurium | 4 |
@@ -15139,9 +12032,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 15350 |
 
 ## CSDroidArray
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 2500 |
@@ -15150,9 +12041,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## RedeemerPrimeWep
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | RedeemerPrimeHandle | 1 |
@@ -15160,9 +12049,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 15 |
 
 ## RevenantShotgun
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -15171,9 +12058,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 12500 |
 
 ## RevolverPistol
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 4 |
@@ -15182,9 +12067,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 1000 |
 
 ## RubicoPrimeWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | RubicoPrimeBarrel | 1 |
@@ -15193,9 +12076,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## GrnOrokinPistol
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SagekPrimeBarrel | 1 |
@@ -15203,9 +12084,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## SapientPistol
-
 **Credits:** 20000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 3 |
@@ -15214,9 +12093,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 7500 |
 
 ## SapientPrimaryWeapon
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 4 |
@@ -15224,10 +12101,16 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 925 |
 | Nanospores | 8000 |
 
-## PrimeScourgeWeapon
-
+## PrimeVorunaAxeWeapon
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
+| Ingredient | Count |
+|---|---|
+| SarofangPrimeBlade | 1 |
+| SarofangPrimeHandle | 1 |
+| OrokinCell | 15 |
 
+## PrimeScourgeWeapon
+**Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
 | Ingredient | Count |
 |---|---|
 | ScourgePrimeBarrel | 1 |
@@ -15236,9 +12119,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## TnOraxiaFlechette
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ScyotidBarrel | 2 |
@@ -15246,9 +12127,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## SentRifleNewWarGun
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TitaniumRailjackItem | 1500 |
@@ -15257,9 +12136,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | NullstonesRailjackItem | 1 |
 
 ## CryoxionWeapon
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CommonGemBCutAItem | 10 |
@@ -15268,9 +12145,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinFishSaganModuleItem | 5 |
 
 ## TazronWeapon
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CommonGemBCutAItem | 10 |
@@ -15279,9 +12154,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisFishLatheCoogulantItem | 5 |
 
 ## ThermocorMoaWeapon
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | UncommonGemACutAItem | 10 |
@@ -15290,9 +12163,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinFishEntroplasmaItem | 5 |
 
 ## SheduHeavyWeapon
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SheduHeavyWeaponBarrel | 1 |
@@ -15301,9 +12172,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SheduHeavyWeaponReceiver | 1 |
 
 ## PrimeSicarusPistol
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SicarusPrimeBarrel | 1 |
@@ -15311,9 +12180,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## PrimeSilvaAegis
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SilvaAegisPrimeBlade | 1 |
@@ -15322,9 +12189,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## SingleKama
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NeuralSensor | 5 |
@@ -15333,9 +12198,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 1200 |
 
 ## SingleStaff
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NeuralSensor | 2 |
@@ -15344,9 +12207,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Staff | 1 |
 
 ## LongSword
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 3 |
@@ -15355,9 +12216,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 1100 |
 
 ## SniperRifle
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 5 |
@@ -15366,9 +12225,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 900 |
 
 ## VandalSniperRifle
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SnipetronVandalBarrel | 1 |
@@ -15376,9 +12233,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SnipetronVandalStock | 1 |
 
 ## PrimeSomaRifle
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SomaPrimeBarrel | 1 |
@@ -15387,9 +12242,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## CrpLaserPistolVandal
-
 **Credits:** 25000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SpectraVandalBarrel | 1 |
@@ -15397,9 +12250,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SpectraVandalHandle | 1 |
 
 ## SpiderWhipWeapon
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 45 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SpinnerexBlade | 1 |
@@ -15407,9 +12258,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SpinnerexHandle | 1 |
 
 ## Staff
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OrokinCell | 1 |
@@ -15418,9 +12267,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 150 |
 
 ## StalkerBow
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 45 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 6 |
@@ -15429,9 +12276,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 900 |
 
 ## StalkerKunai
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 10 |
@@ -15440,9 +12285,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 4500 |
 
 ## StalkerMios
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 2 |
@@ -15451,9 +12294,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Gallium | 20 |
 
 ## StalkerScytheWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 10 |
@@ -15462,9 +12303,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 4500 |
 
 ## StalkerTwoGreatSword
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | StalkerTwoSmallSword | 1 |
@@ -15473,9 +12312,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 5 |
 
 ## PrimeStradavarGun
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | StradavarPrimeBarrel | 1 |
@@ -15484,9 +12321,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## PrimeStrunWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | StrunPrimeBarrel | 1 |
@@ -15495,9 +12330,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## FullAutoShotgun
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 6 |
@@ -15506,9 +12339,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 900 |
 
 ## ShotgunVandal
-
 **Credits:** 25000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | StrunWraithBarrel | 1 |
@@ -15516,9 +12347,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | StrunWraithStock | 1 |
 
 ## SundialAxeWeapon
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 4 |
@@ -15527,9 +12356,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 2750 |
 
 ## SundialPistol
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 4 |
@@ -15538,9 +12365,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 2750 |
 
 ## SundialRifle
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 4 |
@@ -15549,9 +12374,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 2750 |
 
 ## SundialBoardSword
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 4 |
@@ -15560,9 +12383,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 2750 |
 
 ## SwarmerWeapon
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | RareGemACutAItem | 10 |
@@ -15571,9 +12392,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinFishEcosynthAnalyzerItem | 1 |
 
 ## PrimeSybarisRifle
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SybarisPrimeBarrel | 1 |
@@ -15582,9 +12401,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## TC2024AK47Weapon
-
 **Credits:** 25000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | 1999ResourceRareA | 5 |
@@ -15593,9 +12410,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | 1999ResourceCommonB | 60 |
 
 ## StickyBombs
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 2 |
@@ -15604,9 +12419,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## PrimeTatsuWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TatsuPrimeBlade | 1 |
@@ -15614,9 +12427,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 15 |
 
 ## PrimeTekko
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TekkoPrimeBlade | 2 |
@@ -15624,9 +12435,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 15 |
 
 ## TennoAR
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 7 |
@@ -15635,9 +12444,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 8000 |
 
 ## TennoClaws
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Gallium | 4 |
@@ -15646,9 +12453,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## TennoCutlass
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 1500 |
@@ -15657,9 +12462,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## TennoDoubleBarrelShotgun
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OrokinCell | 3 |
@@ -15668,9 +12471,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 1200 |
 
 ## TennoGreatSword
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Gallium | 4 |
@@ -15679,9 +12480,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 200 |
 
 ## TnoGunblade
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | RevolverPistol | 1 |
@@ -15689,9 +12488,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## TennoHandShotgun
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 2 |
@@ -15700,9 +12497,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## KrisDagger
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 1500 |
@@ -15711,9 +12506,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 1 |
 
 ## TnoLeverActionRifle
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 2 |
@@ -15722,9 +12515,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## TennoSais
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Tellurium | 2 |
@@ -15733,9 +12524,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OxiumAlloy | 1800 |
 
 ## TennoSniperRifle
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 4 |
@@ -15744,9 +12533,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 2500 |
 
 ## TennoStars
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 5 |
@@ -15755,9 +12542,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 4000 |
 
 ## TennoSwordShield
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Gallium | 3 |
@@ -15766,9 +12551,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## TennoTommyGunRifle
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 15000 |
@@ -15777,9 +12560,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## TennoTonfa
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 1500 |
@@ -15788,9 +12569,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## TennoUzi
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Gallium | 2 |
@@ -15799,9 +12578,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## TenoraPrimeWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TenoraPrimeBarrel | 1 |
@@ -15810,9 +12587,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## TnTeshinGlaiveWep
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TeshinGlaiveBlade | 2 |
@@ -15821,9 +12596,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Kuva | 4000 |
 
 ## ThanoTechArchGun
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ThanotechArchGunBarrelItem | 1 |
@@ -15831,9 +12604,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ThanotechArchGunStockItem | 1 |
 
 ## ThanoTechGrenadeLauncher
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ThanotechGrenadeLauncherBarrelItem | 1 |
@@ -15841,9 +12612,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ThanotechGrenadeLauncherStockItem | 1 |
 
 ## ThanotechPistol
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SeriglassShard | 1 |
@@ -15851,9 +12620,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ThanotechPistolReceiver | 1 |
 
 ## ThanotechRifle
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SeriglassShard | 1 |
@@ -15862,9 +12629,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ThanotechRifleStock | 1 |
 
 ## ThreeLeaf
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 12000 |
@@ -15873,9 +12638,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## ThrowingHammer
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 5 |
@@ -15884,9 +12647,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ThrowingHammerMotor | 1 |
 
 ## PrimeTiberonRifle
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TiberonPrimeBarrel | 1 |
@@ -15895,9 +12656,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## TipedoPrimeWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TipedoPrimeOrnament | 2 |
@@ -15905,9 +12664,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 15 |
 
 ## TnAlchemistShotgun
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TnAlchemistShotgunBarrel | 1 |
@@ -15916,9 +12673,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## TnBardPistolGun
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -15927,9 +12682,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 25000 |
 
 ## TnBardRifle
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 5 |
@@ -15938,9 +12691,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## TnBeltFedRifleWeapon
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TnBeltFedRifleBarrel | 1 |
@@ -15948,9 +12699,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | TnBeltFedRifleStock | 1 |
 
 ## TnBrokenFrameWarfanWeapon
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DeimosUncommonOreAAlloyItem | 60 |
@@ -15959,9 +12708,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SeriglassShard | 1 |
 
 ## TnChiselKanabo
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -15970,9 +12717,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 8600 |
 
 ## TnChoirBow
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 45 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 700 |
@@ -15981,9 +12726,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ControlModule | 10 |
 
 ## TnChoirframeKunai
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 45 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 1600 |
@@ -15992,9 +12735,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 4 |
 
 ## TnChoirScythe
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 45 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 5000 |
@@ -16003,9 +12744,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 18 |
 
 ## TnConcreteArchgunWeapon
-
 **Credits:** 45000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TnConcreteArchgunBarrel | 1 |
@@ -16014,9 +12753,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | EntratiLabDogTagRare | 2 |
 
 ## TnGlassShotgunGun
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Tellurium | 4 |
@@ -16025,9 +12762,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 7500 |
 
 ## TnGuandoPistolGun
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 8 |
@@ -16036,9 +12771,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 5000 |
 
 ## TnGuandaoPolearmWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Gallium | 3 |
@@ -16047,9 +12780,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 2500 |
 
 ## TnHalberdPolearmWeapon
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Forma | 1 |
@@ -16058,9 +12789,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OxiumAlloy | 150 |
 
 ## TnHeavyShotgunGun
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 2 |
@@ -16069,9 +12798,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Cryotic | 725 |
 
 ## TnHopliteSpearGunWeapon
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 8000 |
@@ -16080,9 +12807,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## TnModQuestRifleWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 300 |
@@ -16091,9 +12816,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 100 |
 
 ## TnPriestPistolWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -16102,9 +12825,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 20000 |
 
 ## TnPriestSpearGun
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Alertium | 2 |
@@ -16113,9 +12834,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 2500 |
 
 ## TnQuadSniper
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TnQuadSniperRifleBarrel | 1 |
@@ -16124,9 +12843,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | EclipseVoidWraithItem | 50 |
 
 ## TnRailJackGreatKatanaWeapon
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Tellurium | 2 |
@@ -16135,9 +12852,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 5300 |
 
 ## TnRevolverRifleGun
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 10 |
@@ -16146,9 +12861,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## TnSMGWeapon
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 3500 |
@@ -16157,9 +12870,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## TnShieldFrameArchGun
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidCamperItem | 2 |
@@ -16168,9 +12879,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinFishEcosynthAnalyzerItem | 5 |
 
 ## TnTwoHandedKatana
-
 **Credits:** 5000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArgonCrystal | 2 |
@@ -16179,9 +12888,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisRareOreAAlloyItem | 100 |
 
 ## TnYareliPistolWeapon
-
 **Credits:** 20000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TnYareliPistolBarrel | 1 |
@@ -16189,9 +12896,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 3 |
 
 ## TnoBladedPistols
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AkimboBolto | 1 |
@@ -16199,9 +12904,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 2 |
 
 ## TnoGunbladeAutomatic
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TennoUzi | 1 |
@@ -16210,9 +12913,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ControlModule | 2 |
 
 ## TnoLotusPodShotgun
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TnoLotusPodShotgunBarrel | 1 |
@@ -16221,9 +12922,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Neurode | 4 |
 
 ## TnoMiter
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OrokinCell | 1 |
@@ -16232,9 +12931,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SawBladeGun | 1 |
 
 ## TnoMonkStaff
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NeuralSensor | 2 |
@@ -16243,9 +12940,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Staff | 1 |
 
 ## TnoNunchaku
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Nunchaku | 1 |
@@ -16254,9 +12949,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 10 |
 
 ## TnoPrmryXbowWeapon
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 2 |
@@ -16265,9 +12958,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## TnoRapier
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 10000 |
@@ -16276,9 +12967,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## PrimeTrumnaWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TrumnaPrimeBarrel | 1 |
@@ -16287,9 +12976,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## TwinGrakatas
-
 **Credits:** 30000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GrnAssaultRifle | 1 |
@@ -16297,9 +12984,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## GrnTwinKohmaks
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GrnKohmPistol | 1 |
@@ -16307,9 +12992,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## AkimboViperPistols
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GrineerLightPistol | 1 |
@@ -16317,9 +13000,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 1 |
 
 ## WraithTwinVipers
-
 **Credits:** 25000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | TwinVipersWraithBarrel | 1 |
@@ -16327,9 +13008,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | TwinVipersWraithLink | 1 |
 
 ## U18throwingknives
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ControlModule | 2 |
@@ -16338,9 +13017,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## UmbraKatana
-
 **Credits:** 5000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OrokinCell | 4 |
@@ -16349,9 +13026,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 3250 |
 
 ## PrimeVastoPistol
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VastoPrimeBarrel | 1 |
@@ -16359,9 +13034,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## PrimeVectisRifle
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VectisPrimeBarrel | 1 |
@@ -16370,9 +13043,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## PrimeVeloxPistol
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VeloxPrimeBarrel | 1 |
@@ -16380,9 +13051,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## PrimeVentoScythe
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VentoPrimeBlade | 1 |
@@ -16390,9 +13059,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## ArchSwordWeapon
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Rubedo | 500 |
@@ -16401,9 +13068,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 500 |
 
 ## VolnusPrimeWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VolnusPrimeHandle | 1 |
@@ -16411,9 +13076,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 15 |
 
 ## GrnScopedPistolPlayer
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VorsPistolBarrel | 1 |
@@ -16421,9 +13084,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 2 |
 
 ## WarfanWeapon
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OxiumAlloy | 200 |
@@ -16432,9 +13093,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 19750 |
 
 ## TnWispRifle
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Rubedo | 2100 |
@@ -16443,9 +13102,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ConcentratedGas | 350 |
 
 ## WolfFrameAxeWeapon
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | WolfFrameAxeWeaponBlade | 1 |
@@ -16453,9 +13110,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | EclipseVoidWraithItem | 50 |
 
 ## TnWraitheSidearmWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | WraithSidearmBarrel | 1 |
@@ -16463,9 +13118,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 7 |
 
 ## PrimeZaktiPistol
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ZaktiPrimeBarrel | 1 |
@@ -16473,9 +13126,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 10 |
 
 ## ZarimanHeavyScytheWeapon
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DuviriMurmurItemA | 100 |
@@ -16484,9 +13135,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriFractalItem | 150 |
 
 ## RepeatingCrossbow
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Cryotic | 2800 |
@@ -16495,9 +13144,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 2 |
 
 ## PrimeZhugeCrossbow
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ZhugePrimeBarrel | 1 |
@@ -16506,9 +13153,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ZhugePrimeString | 1 |
 
 ## ZylokPrimePistol
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ZylokPrimeBarrel | 1 |
@@ -16516,21 +13161,13 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinCell | 5 |
 
 ## ZanukaPetAPowerSuit
-
 **Credits:** 20000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 ## ZanukaPetBPowerSuit
-
 **Credits:** 20000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 ## ZanukaPetCPowerSuit
-
 **Credits:** 20000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 ## ZanukaPetPartBodyA
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SpecterParticleResidue | 5 |
@@ -16539,9 +13176,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 1500 |
 
 ## ZanukaPetPartBodyB
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SpecterParticleResidue | 5 |
@@ -16550,9 +13185,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 1500 |
 
 ## ZanukaPetPartBodyC
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SpecterParticleResidue | 5 |
@@ -16561,9 +13194,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 1500 |
 
 ## ZanukaPetPartHeadA
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SpecterParticleResidue | 5 |
@@ -16572,9 +13203,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishParralelBiodeItem | 10 |
 
 ## ZanukaPetPartHeadB
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SpecterParticleResidue | 5 |
@@ -16583,9 +13212,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishRotobladeItem | 10 |
 
 ## ZanukaPetPartHeadC
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SpecterParticleResidue | 5 |
@@ -16594,9 +13221,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishVenedoCaseItem | 10 |
 
 ## ZanukaPetPartLegsA
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidWraithItem | 5 |
@@ -16605,9 +13230,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishMuonBatteryItem | 15 |
 
 ## ZanukaPetPartLegsB
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidHungerItem | 5 |
@@ -16616,9 +13239,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishMuonBatteryItem | 15 |
 
 ## ZanukaPetPartLegsC
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidMicroidItem | 5 |
@@ -16627,9 +13248,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishMuonBatteryItem | 15 |
 
 ## ZanukaPetPartTailA
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Salvage | 2500 |
@@ -16638,9 +13257,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 3 |
 
 ## ZanukaPetPartTailB
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 2500 |
@@ -16649,9 +13266,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 3 |
 
 ## ZanukaPetPartTailC
-
 **Credits:** 50000 | **Build Time:** 24.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 2500 |
@@ -16660,9 +13275,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 3 |
 
 ## CronusLongSword
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -16670,9 +13283,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 75 |
 
 ## DarkLongSword
-
 **Credits:** 20000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Neurode | 2 |
@@ -16681,9 +13292,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | PolymerBundle | 75 |
 
 ## CatbrowVampireDisinfect
-
 **Credits:** 2000 | **Build Time:** 1.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NistlebrushItem | 15 |
@@ -16692,9 +13301,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | BothUncommonFishBPartItem | 3 |
 
 ## RobofishSpearB
-
 **Credits:** 2000 | **Build Time:** 1.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NistlebrushItem | 55 |
@@ -16703,9 +13310,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 1000 |
 
 ## RobofishSpearC
-
 **Credits:** 2000 | **Build Time:** 1.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NistlebrushItem | 55 |
@@ -16714,9 +13319,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 1000 |
 
 ## SpearFishingSpearB
-
 **Credits:** 2000 | **Build Time:** 1.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NistlebrushItem | 55 |
@@ -16725,9 +13328,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 1000 |
 
 ## SpearFishingSpear
-
 **Credits:** 1000 | **Build Time:** 0.1h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NistlebrushItem | 10 |
@@ -16735,9 +13336,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 1200 |
 
 ## SpearFishingSpearC
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NistlebrushItem | 70 |
@@ -16746,9 +13345,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | UncommonOreAAlloyAItem | 80 |
 
 ## ArmorBuffSpeedDebuff
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Eventium | 2 |
@@ -16757,9 +13354,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 500 |
 
 ## CloakingBuff
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Eventium | 2 |
@@ -16768,9 +13363,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 500 |
 
 ## Eventium
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 1 |
@@ -16778,9 +13371,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Gallium | 1 |
 
 ## ReviveBuff
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Eventium | 2 |
@@ -16789,9 +13380,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 500 |
 
 ## SpeedBuffArmorDebuff
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Eventium | 2 |
@@ -16800,9 +13389,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 500 |
 
 ## SpecterSummonFeyarchOberon
-
 **Credits:** 500 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 2 |
@@ -16811,9 +13398,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | MossGroundCoverAPlantItem | 12 |
 
 ## SpecterSummonKnaveLoki
-
 **Credits:** 500 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 2 |
@@ -16822,9 +13407,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CommonDayPlantItem | 12 |
 
 ## SpecterSummonOrphidSaryn
-
 **Credits:** 500 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Morphic | 2 |
@@ -16833,43 +13416,33 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ZenPitcherPlantItem | 6 |
 
 ## DayCommonAntitoxin
-
 **Credits:** 500 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CommonDayPlantItem | 4 |
 
 ## DayUnCommonAntitoxin
-
 **Credits:** 500 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | UnCommonDayPlantItem | 2 |
 | CommonDayPlantItem | 2 |
 
 ## NightCommonAntitoxin
-
 **Credits:** 500 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CommonNightPlantItem | 4 |
 
 ## NightUnCommonAntitoxin
-
 **Credits:** 500 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | UnCommonNightPlantItem | 2 |
 | CommonNightPlantItem | 2 |
 
 ## RareAntitoxin
-
 **Credits:** 500 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | RareDayPlantItem | 1 |
@@ -16878,9 +13451,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | UnCommonNightPlantItem | 1 |
 
 ## SoloRareAntitoxin
-
 **Credits:** 2000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | RareDayPlantItem | 4 |
@@ -16889,45 +13460,35 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | UnCommonNightPlantItem | 4 |
 
 ## CreditChipLarge
-
 **Credits:** 100000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PolymerBundle | 5 |
 | Circuits | 1 |
 
 ## CreditChipMedium
-
 **Credits:** 10000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PolymerBundle | 5 |
 | Circuits | 1 |
 
 ## CreditChipSmall
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PolymerBundle | 5 |
 | Circuits | 1 |
 
 ## DamageDebuffKey
-
 **Credits:** 500 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VoidTearDrop | 10 |
 | Ferrite | 250 |
 
 ## FomorianNegator
-
 **Credits:** 1250 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Nanospores | 3500 |
@@ -16935,53 +13496,41 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OmegaIsotope | 4 |
 
 ## HealthDebuffKey
-
 **Credits:** 500 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VoidTearDrop | 10 |
 | Ferrite | 250 |
 
 ## TeamAmmoTotem
-
 **Credits:** 36000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PolymerBundle | 900 |
 | Nanospores | 7200 |
 
 ## TeamEnergyTotem
-
 **Credits:** 3600 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PolymerBundle | 900 |
 | Nanospores | 9000 |
 
 ## TeamHealTotem
-
 **Credits:** 36000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Nanospores | 108000 |
 | PolymerBundle | 1800 |
 
 ## TeamShieldTotem
-
 **Credits:** 36000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Nanospores | 14400 |
 
 ## InfestedSyringe
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EnergyComponent | 2 |
@@ -16990,9 +13539,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Tellurium | 2 |
 
 ## MapMarker
-
 **Credits:** 4000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PolymerBundle | 150 |
@@ -17000,9 +13547,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 100 |
 
 ## RazorbackCipher
-
 **Credits:** 1250 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PolymerBundle | 1500 |
@@ -17010,9 +13555,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | RazorbackCipherPart | 4 |
 
 ## SelfHealLarge
-
 **Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | RareDayPlantItem | 1 |
@@ -17021,151 +13564,56 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CommonNightPlantItem | 15 |
 
 ## ShieldDebuffKey
-
 **Credits:** 500 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VoidTearDrop | 10 |
 | Ferrite | 250 |
 
 ## SpeedDebuffKey
-
 **Credits:** 500 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VoidTearDrop | 10 |
 | Ferrite | 250 |
 
 ## SyndicateTeamAmmoTotem
-
 **Credits:** 9000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PolymerBundle | 300 |
 | Nanospores | 2500 |
 
 ## SyndicateTeamEnergyTotem
-
 **Credits:** 9000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | PolymerBundle | 500 |
 | Nanospores | 3000 |
 
 ## SyndicateTeamHealTotem
-
 **Credits:** 9000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Circuits | 600 |
 | Nanospores | 4000 |
 
 ## SyndicateTeamShieldTotem
-
 **Credits:** 9000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AlloyPlate | 1000 |
 | Ferrite | 2500 |
 
-## TeamAmmoTotem
-
-**Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
-| Ingredient | Count |
-|---|---|
-| PolymerBundle | 25 |
-| Ferrite | 200 |
-
-## TeamEnergyTotem
-
-**Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
-| Ingredient | Count |
-|---|---|
-| PolymerBundle | 25 |
-| Ferrite | 250 |
-
-## TeamHealTotem
-
-**Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Ferrite | 300 |
-| PolymerBundle | 50 |
-
-## TeamShieldTotem
-
-**Credits:** 1000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Ferrite | 400 |
-
-## TeamAmmoTotem
-
-**Credits:** 9000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
-| Ingredient | Count |
-|---|---|
-| PolymerBundle | 225 |
-| Nanospores | 1800 |
-
-## TeamEnergyTotem
-
-**Credits:** 9000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
-| Ingredient | Count |
-|---|---|
-| PolymerBundle | 225 |
-| Nanospores | 2250 |
-
-## TeamHealTotem
-
-**Credits:** 9000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Nanospores | 2700 |
-| PolymerBundle | 450 |
-
-## TeamShieldTotem
-
-**Credits:** 9000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Nanospores | 3600 |
-
 ## Cipher
-
 **Credits:** 100 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 400 |
 | Salvage | 400 |
 
-## Cipher
-
-**Credits:** 90000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Ferrite | 36000 |
-| Nanospores | 36000 |
-
 ## LisetAirSupport
-
 **Credits:** 4000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 1200 |
@@ -17173,30 +13621,8 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 700 |
 | Morphic | 1 |
 
-## LisetAirSupport
-
-**Credits:** 40000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Ferrite | 12000 |
-| Salvage | 20000 |
-| Plastids | 7000 |
-| Morphic | 10 |
-
-## Cipher
-
-**Credits:** 9000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Ferrite | 3600 |
-| Nanospores | 3600 |
-
 ## HoverboardCorpusADeck
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CoolantItem | 20 |
@@ -17205,9 +13631,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisFishNeuralRelayItem | 10 |
 
 ## HoverboardCorpusAEngine
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VenusTreeItem | 15 |
@@ -17216,9 +13640,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisFishDissipatorCoilItem | 10 |
 
 ## HoverboardCorpusAFront
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VenusCoconutItem | 25 |
@@ -17227,9 +13649,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishExaBrainItem | 10 |
 
 ## HoverboardCorpusAJet
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | FungusHeartItem | 30 |
@@ -17238,9 +13658,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishAnoscopicSensorItem | 20 |
 
 ## HoverboardCorpusBDeck
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CoolantItem | 20 |
@@ -17249,9 +13667,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishRotobladeItem | 10 |
 
 ## HoverboardCorpusBEngine
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VenusTreeItem | 15 |
@@ -17260,9 +13676,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishMuonBatteryItem | 10 |
 
 ## HoverboardCorpusBFront
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VenusCoconutItem | 25 |
@@ -17271,9 +13685,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishExaBrainItem | 10 |
 
 ## HoverboardCorpusBJet
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | FungusHeartItem | 30 |
@@ -17282,9 +13694,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishAnoscopicSensorItem | 20 |
 
 ## HoverboardCorpusCDeck
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CoolantItem | 20 |
@@ -17293,9 +13703,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishThermalLaserItem | 10 |
 
 ## HoverboardCorpusCEngine
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VenusTreeItem | 15 |
@@ -17304,9 +13712,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishExaBrainItem | 10 |
 
 ## HoverboardCorpusCFront
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VenusCoconutItem | 25 |
@@ -17315,9 +13721,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisFishLatheCoogulantItem | 5 |
 
 ## HoverboardCorpusCJet
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | FungusHeartItem | 30 |
@@ -17326,9 +13730,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinFishSaganModuleItem | 5 |
 
 ## HoverboardInfestedBDeck
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | InfMapricoFruitItem | 25 |
@@ -17337,9 +13739,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosInfestedFishGPartItem | 15 |
 
 ## HoverboardInfestedBEngine
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | InfGorgaricusSeedItem | 20 |
@@ -17348,9 +13748,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosInfestedFishAPartItem | 10 |
 
 ## HoverboardInfestedBFront
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DeimosRareGemACutItem | 5 |
@@ -17359,9 +13757,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosInfestedFishEPartItem | 10 |
 
 ## HoverboardInfestedBJet
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | InfGorgaricusSeedItem | 35 |
@@ -17370,9 +13766,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosInfestedFishCPartItem | 20 |
 
 ## HoverboardSolarisADeck
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CoolantItem | 20 |
@@ -17381,9 +13775,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishParralelBiodeItem | 10 |
 
 ## HoverboardSolarisAEngine
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VenusTreeItem | 15 |
@@ -17392,9 +13784,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishVenedoCaseItem | 10 |
 
 ## HoverboardSolarisAFront
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VenusCoconutItem | 25 |
@@ -17403,9 +13793,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishExaBrainItem | 10 |
 
 ## HoverboardSolarisAJet
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | FungusHeartItem | 30 |
@@ -17414,9 +13802,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishAnoscopicSensorItem | 20 |
 
 ## AcidDartPistol
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BioComponent | 5 |
@@ -17425,9 +13811,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## BioWeapon
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BioComponent | 2 |
@@ -17436,27 +13820,14 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## ClanTeamHealTotem
-
 **Credits:** 4000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 500 |
 | Nanospores | 600 |
 
-## ClanTeamHealTotem
-
-**Credits:** 9000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
-| Ingredient | Count |
-|---|---|
-| PolymerBundle | 450 |
-| Nanospores | 2700 |
-
 ## InfestedScythe
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BioComponent | 10 |
@@ -17465,9 +13836,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 5 |
 
 ## InfArmCannon
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BioComponent | 10 |
@@ -17476,9 +13845,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Nanospores | 22000 |
 
 ## InfCrpShockSwarmRifle
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BioComponent | 5 |
@@ -17487,9 +13854,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## InfProximityStars
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BioComponent | 4 |
@@ -17498,9 +13863,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 2 |
 
 ## InfQuantaRifle
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BioComponent | 5 |
@@ -17509,9 +13872,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## InfStaff
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BioComponent | 5 |
@@ -17520,9 +13881,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## InfVomitGunWep
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BioComponent | 4 |
@@ -17531,9 +13890,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## InfestedBurstRifle
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BioComponent | 5 |
@@ -17542,9 +13899,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## DualInfestedAxesWeapon
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BioComponent | 4 |
@@ -17553,9 +13908,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## InfestedPistol
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BioComponent | 5 |
@@ -17564,9 +13917,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## InfestedRifle
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BioComponent | 5 |
@@ -17575,9 +13926,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 2 |
 
 ## GubberPowerSuit
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BioComponent | 6 |
@@ -17586,9 +13935,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 2 |
 
 ## InfestedWhipWeapon
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BioComponent | 4 |
@@ -17596,19 +13943,8 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 1200 |
 | Forma | 1 |
 
-## SyndicateTeamHealTotem
-
-**Credits:** 90000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Circuits | 6000 |
-| Nanospores | 40000 |
-
 ## Mios
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BioComponent | 4 |
@@ -17617,9 +13953,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## PunctureGlaiveWeapon
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BioComponent | 4 |
@@ -17628,9 +13962,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## ArchGRNAAGun
-
 **Credits:** 65000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Tellurium | 5 |
@@ -17639,27 +13971,14 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## ClanTeamAmmoTotem
-
 **Credits:** 4000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 600 |
 | Salvage | 600 |
 
-## ClanTeamAmmoTotem
-
-**Credits:** 9000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
-| Ingredient | Count |
-|---|---|
-| PolymerBundle | 225 |
-| Nanospores | 1800 |
-
 ## DualGrnEgyptSwdWeapon
-
 **Credits:** 20000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ChemComponent | 5 |
@@ -17668,9 +13987,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | GrnEgyptSwdWeapon | 1 |
 
 ## FlameThrower
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ChemComponent | 2 |
@@ -17679,9 +13996,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## FlameThrowerWraith
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ChemComponent | 5 |
@@ -17690,9 +14005,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 3 |
 
 ## GLAPistol
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ChemComponent | 2 |
@@ -17701,9 +14014,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## GLARifle
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ChemComponent | 2 |
@@ -17712,9 +14023,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## GrnArchHandWeapon
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ChemComponent | 5 |
@@ -17723,9 +14032,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Fist | 1 |
 
 ## GrnEgyptSwdWeapon
-
 **Credits:** 20000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Tellurium | 5 |
@@ -17734,9 +14041,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 4375 |
 
 ## GrnFlameSpear
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ChemComponent | 5 |
@@ -17745,9 +14050,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | GrnFlameSpearPart | 6 |
 
 ## GrnFourBarrelRifleWeapon
-
 **Credits:** 20000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GrokdrulItem | 75 |
@@ -17756,9 +14059,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | NeuralSensor | 5 |
 
 ## GrnGorgSniperRifle
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ChemComponent | 2 |
@@ -17767,9 +14068,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## GrnHalberd
-
 **Credits:** 20000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ChemComponent | 5 |
@@ -17778,9 +14077,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 8000 |
 
 ## GrnKohmPistol
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ChemComponent | 2 |
@@ -17789,9 +14086,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## GrnKusarigamaWeapon
-
 **Credits:** 15000 | **Build Time:** 24.0h | **Rush:** 30 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ChemComponent | 7 |
@@ -17800,9 +14095,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## LaserAimRifle
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ChemComponent | 5 |
@@ -17811,9 +14104,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## GrnMicrowavePistol
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ChemComponent | 2 |
@@ -17822,9 +14113,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## GrnTridentWeapon
-
 **Credits:** 20000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ChemComponent | 5 |
@@ -17833,9 +14122,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | GrnStaff | 1 |
 
 ## GrnUziWeapon
-
 **Credits:** 20000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GrokdrulItem | 45 |
@@ -17843,19 +14130,8 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 4485 |
 | Neurode | 2 |
 
-## SyndicateTeamAmmoTotem
-
-**Credits:** 90000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
-| Ingredient | Count |
-|---|---|
-| PolymerBundle | 3000 |
-| Nanospores | 25000 |
-
 ## RegorAxeShield
-
 **Credits:** 65000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ChemComponent | 5 |
@@ -17864,9 +14140,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## RocketLauncher
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ChemComponent | 5 |
@@ -17875,9 +14149,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## ChainLightningRifle
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EnergyComponent | 8 |
@@ -17886,44 +14158,21 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | ArgonCrystal | 3 |
 
 ## ClanTeamEnergyTotem
-
 **Credits:** 4000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 600 |
 | AlloyPlate | 150 |
 
 ## ClanTeamShieldTotem
-
 **Credits:** 4000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Ferrite | 600 |
 | AlloyPlate | 150 |
-
-## ClanTeamEnergyTotem
-
-**Credits:** 9000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
-| Ingredient | Count |
-|---|---|
-| PolymerBundle | 225 |
-| Nanospores | 2250 |
-
-## ClanTeamShieldTotem
-
-**Credits:** 9000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
-| Ingredient | Count |
-|---|---|
-| Nanospores | 3600 |
 
 ## CorpusPolearmWeapon
-
 **Credits:** 20000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EnergyComponent | 1 |
@@ -17932,9 +14181,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | NeuralSensor | 3 |
 
 ## CrpBFG
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EnergyComponent | 5 |
@@ -17943,9 +14190,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## CrpBow
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EnergyComponent | 10 |
@@ -17954,9 +14199,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 3 |
 
 ## CrpElectroMag
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EnergyComponent | 10 |
@@ -17965,9 +14208,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Alertium | 3 |
 
 ## CrpFreezeRayRifle
-
 **Credits:** 20000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EnergyComponent | 1 |
@@ -17976,9 +14217,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## CrpGlaive
-
 **Credits:** 20000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EnergyComponent | 5 |
@@ -17987,9 +14226,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## CrpHeavyRifle
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EnergyComponent | 7 |
@@ -17998,9 +14235,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## CrpScopeGun
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EnergyComponent | 5 |
@@ -18009,9 +14244,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## CrpShockRifle
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EnergyComponent | 7 |
@@ -18020,9 +14253,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## CrpShotgun
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EnergyComponent | 5 |
@@ -18031,9 +14262,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## CrpSplitLaser
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EnergyComponent | 5 |
@@ -18042,9 +14271,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## ElectroProd
-
 **Credits:** 20000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EnergyComponent | 1 |
@@ -18053,9 +14280,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## EnergyRifle
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EnergyComponent | 2 |
@@ -18064,9 +14289,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## MeleePetPowerSuit
-
 **Credits:** 5000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EnergyComponent | 10 |
@@ -18074,28 +14297,8 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 5000 |
 | Forma | 1 |
 
-## SyndicateTeamEnergyTotem
-
-**Credits:** 90000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
-| Ingredient | Count |
-|---|---|
-| PolymerBundle | 5000 |
-| Nanospores | 30000 |
-
-## SyndicateTeamShieldTotem
-
-**Credits:** 90000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
-| Ingredient | Count |
-|---|---|
-| AlloyPlate | 10000 |
-| Ferrite | 25000 |
-
 ## CrpLaserPistol
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EnergyComponent | 3 |
@@ -18104,9 +14307,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## CrpLaserRifle
-
 **Credits:** 25000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EnergyComponent | 5 |
@@ -18115,9 +14316,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## Railgun
-
 **Credits:** 30000 | **Build Time:** 24.0h | **Rush:** 35 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EnergyComponent | 5 |
@@ -18126,9 +14325,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Forma | 1 |
 
 ## CorpAmpSet1BarrelPartA
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidMicroidItem | 3 |
@@ -18137,9 +14334,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisFishLatheCoogulantItem | 6 |
 
 ## CorpAmpSet1BarrelPartB
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidMicroidItem | 3 |
@@ -18148,9 +14343,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinFishSaganModuleItem | 6 |
 
 ## CorpAmpSet1BarrelPartC
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidMicroidItem | 3 |
@@ -18159,9 +14352,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinFishEntroplasmaItem | 6 |
 
 ## CorpAmpSet1ChassisPartA
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidHungerItem | 3 |
@@ -18170,9 +14361,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisFishLatheCoogulantItem | 6 |
 
 ## CorpAmpSet1ChassisPartB
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidHungerItem | 3 |
@@ -18181,9 +14370,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinFishSaganModuleItem | 6 |
 
 ## CorpAmpSet1ChassisPartC
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidHungerItem | 3 |
@@ -18192,9 +14379,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinFishEntroplasmaItem | 6 |
 
 ## CorpAmpSet1GripPartA
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidWraithItem | 3 |
@@ -18203,9 +14388,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisFishLatheCoogulantItem | 6 |
 
 ## CorpAmpSet1GripPartB
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidWraithItem | 3 |
@@ -18214,9 +14397,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinFishSaganModuleItem | 6 |
 
 ## CorpAmpSet1GripPartC
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ArachnoidWraithItem | 3 |
@@ -18225,9 +14406,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinFishEntroplasmaItem | 6 |
 
 ## InfModularBarrelBeamPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | InfMapricoFruitItem | 15 |
@@ -18236,9 +14415,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosInfestedFishBPartItem | 10 |
 
 ## InfModularBarrelEggPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | InfGorgaricusSeedItem | 15 |
@@ -18247,9 +14424,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosInfestedFishEPartItem | 10 |
 
 ## InfModularClipBigPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EntratiWispItem | 3 |
@@ -18258,9 +14433,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | InfMapricoFruitItem | 20 |
 
 ## InfModularClipBigCritStatPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EntratiWispItem | 3 |
@@ -18269,9 +14442,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosGenericInfestedFishPartItem | 15 |
 
 ## InfModularClipSmallPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EntratiWispItem | 3 |
@@ -18280,9 +14451,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosGenericInfestedFishPartItem | 15 |
 
 ## InfModularClipSmallCritStatPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EntratiWispItem | 3 |
@@ -18291,9 +14460,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosGenericOrokinFishPartItem | 15 |
 
 ## InfModularPrimaryHandlePart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DeimosGenericSharedFishPartItem | 20 |
@@ -18302,9 +14469,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosCommonGemBCutItem | 5 |
 
 ## InfModularSecondaryHandlePart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DeimosCommonGemACutItem | 5 |
@@ -18313,9 +14478,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DeimosOrokinFishBPartItem | 10 |
 
 ## BalanceDamageI
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NistlebrushItem | 10 |
@@ -18324,9 +14487,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DayCommonFishAPartItem | 5 |
 
 ## BalanceDamageICritI
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NistlebrushItem | 30 |
@@ -18335,9 +14496,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | BothCommonFishAPartItem | 5 |
 
 ## BalanceDamageICritII
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EidolonFruitItem | 5 |
@@ -18346,9 +14505,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DayUncommonFishAPartItem | 5 |
 
 ## BalanceDamageII
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NistlebrushItem | 20 |
@@ -18357,9 +14514,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DayCommonFishCPartItem | 5 |
 
 ## BalanceDamageIICritI
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Eidolonium | 5 |
@@ -18368,9 +14523,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CetusWispItem | 2 |
 
 ## BalanceDamageIIStatusI
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Eidolonium | 5 |
@@ -18379,9 +14532,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CetusWispItem | 2 |
 
 ## BalanceDamageIStatusI
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NistlebrushItem | 30 |
@@ -18390,9 +14541,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | BothCommonFishAPartItem | 5 |
 
 ## BalanceDamageIStatusII
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EidolonFruitItem | 5 |
@@ -18401,9 +14550,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DayUncommonFishAPartItem | 5 |
 
 ## BalanceSpeedI
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NistlebrushItem | 10 |
@@ -18412,9 +14559,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DayCommonFishBPartItem | 5 |
 
 ## BalanceSpeedICritI
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NistlebrushItem | 30 |
@@ -18423,9 +14568,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | BothCommonFishBPartItem | 5 |
 
 ## BalanceSpeedICritII
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EidolonFruitItem | 5 |
@@ -18434,9 +14577,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DayUncommonFishBPartItem | 5 |
 
 ## BalanceSpeedII
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NistlebrushItem | 20 |
@@ -18445,9 +14586,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DayCommonFishCPartItem | 5 |
 
 ## BalanceSpeedIICritI
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Eidolonium | 5 |
@@ -18456,9 +14595,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CetusWispItem | 2 |
 
 ## BalanceSpeedIIStatusI
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Eidolonium | 5 |
@@ -18467,9 +14604,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CetusWispItem | 2 |
 
 ## BalanceSpeedIStatusI
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NistlebrushItem | 30 |
@@ -18478,9 +14613,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | BothCommonFishBPartItem | 5 |
 
 ## BalanceSpeedIStatusII
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EidolonFruitItem | 5 |
@@ -18489,9 +14622,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DayUncommonFishBPartItem | 5 |
 
 ## HandleFive
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EidolonFruitItem | 5 |
@@ -18500,9 +14631,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 600 |
 
 ## HandleFour
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GrokdrulItem | 20 |
@@ -18511,9 +14640,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Salvage | 900 |
 
 ## HandleOne
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | IraditeItem | 20 |
@@ -18522,9 +14649,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 850 |
 
 ## HandleSix
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Eidolonium | 1 |
@@ -18533,9 +14658,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 500 |
 
 ## HandleThree
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CetusWispItem | 1 |
@@ -18544,9 +14667,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 700 |
 
 ## HandleTwo
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NistlebrushItem | 20 |
@@ -18555,9 +14676,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Cryotic | 750 |
 
 ## TipFive
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EidolonFruitItem | 2 |
@@ -18566,9 +14685,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | UncommonGemACutAItem | 8 |
 
 ## TipFour
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Eidolonium | 1 |
@@ -18577,9 +14694,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | UncommonOreAAlloyAItem | 20 |
 
 ## TipOne
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NistlebrushItem | 20 |
@@ -18588,9 +14703,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CommonOreAAlloyAItem | 60 |
 
 ## TipSix
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GrokdrulItem | 20 |
@@ -18599,9 +14712,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CommonOreBAlloyBItem | 60 |
 
 ## TipThree
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CetusWispItem | 1 |
@@ -18610,9 +14721,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | UncommonOreAAlloyAItem | 20 |
 
 ## TipTwo
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | IraditeItem | 20 |
@@ -18621,9 +14730,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CommonOreAAlloyAItem | 60 |
 
 ## HandleNine
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | IraditeItem | 25 |
@@ -18632,9 +14739,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 650 |
 
 ## HandleTen
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GrokdrulItem | 25 |
@@ -18643,9 +14748,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Ferrite | 850 |
 
 ## TipEleven
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NistlebrushItem | 25 |
@@ -18654,9 +14757,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CommonOreAAlloyAItem | 60 |
 
 ## TipNine
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BirdOfPreyPartItem | 15 |
@@ -18665,9 +14766,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CommonOreBAlloyBItem | 60 |
 
 ## TipTen
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GrokdrulItem | 35 |
@@ -18676,9 +14775,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | UncommonOreAAlloyAItem | 20 |
 
 ## InfestedHandleOne
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | IraditeItem | 20 |
@@ -18687,9 +14784,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 1100 |
 
 ## InfestedHandleTwo
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GrokdrulItem | 20 |
@@ -18698,9 +14793,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Plastids | 1100 |
 
 ## InfestedTipOne
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Nanospores | 1600 |
@@ -18709,9 +14802,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CommonOreAAlloyAItem | 60 |
 
 ## InfestedTipTwo
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Nanospores | 1600 |
@@ -18720,9 +14811,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CommonOreBAlloyBItem | 60 |
 
 ## OperatorTrainingAmpWeapon
-
 **Credits:** 1000 | **Build Time:** 0.2h | **Rush:** 5 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CetusWispItem | 1 |
@@ -18731,9 +14820,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | EidolonFishOilItem | 30 |
 
 ## SentAmpSet1BarrelPartA
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | IraditeItem | 40 |
@@ -18742,9 +14829,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CommonGemBCutAItem | 10 |
 
 ## SentAmpSet1BarrelPartB
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | IraditeItem | 60 |
@@ -18753,9 +14838,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | UncommonGemACutAItem | 10 |
 
 ## SentAmpSet1BarrelPartC
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Eidolonium | 3 |
@@ -18764,9 +14847,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | RareGemACutAItem | 6 |
 
 ## SentAmpSet1ChassisPartA
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GrokdrulItem | 40 |
@@ -18775,9 +14856,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | BothRareFishAPartItem | 2 |
 
 ## SentAmpSet1ChassisPartB
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GrokdrulItem | 60 |
@@ -18786,9 +14865,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | NightRareFishAPartItem | 2 |
 
 ## SentAmpSet1ChassisPartC
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | Eidolonium | 3 |
@@ -18797,9 +14874,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | NightRareFishBPartItem | 2 |
 
 ## SentAmpSet1GripPartA
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CetusWispItem | 3 |
@@ -18808,9 +14883,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 6 |
 
 ## SentAmpSet1GripPartB
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CetusWispItem | 4 |
@@ -18819,9 +14892,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | NeuralSensor | 6 |
 
 ## SentAmpSet1GripPartC
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CetusWispItem | 5 |
@@ -18830,9 +14901,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Eidolonium | 3 |
 
 ## SentAmpSet2BarrelPartA
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | IraditeItem | 50 |
@@ -18841,9 +14910,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CommonGemBCutAItem | 15 |
 
 ## SentAmpSet2ChassisPartA
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GrokdrulItem | 40 |
@@ -18852,9 +14919,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | EidolonGemBCutAItem | 1 |
 
 ## SentAmpSet2GripPartA
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NightLegendaryFishAPartItem | 2 |
@@ -18863,9 +14928,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Morphic | 6 |
 
 ## SUModularPrimaryHandleAPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisCommonGemACutItem | 5 |
@@ -18874,9 +14937,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishAnoscopicSensorItem | 10 |
 
 ## SUModularPrimaryHandleBPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisCommonGemBCutItem | 5 |
@@ -18885,9 +14946,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishVenedoCaseItem | 10 |
 
 ## SUModularPrimaryHandleCPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisUncommonGemACutItem | 5 |
@@ -18896,9 +14955,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisFishNeuralRelayItem | 10 |
 
 ## SUModularPrimaryHandleDPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisUncommonGemACutItem | 5 |
@@ -18907,9 +14964,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishRotobladeItem | 10 |
 
 ## SUModularSecondaryBarrelAPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | FungusHeartItem | 15 |
@@ -18918,9 +14973,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | AlloyPlate | 1700 |
 
 ## SUModularSecondaryBarrelBPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CoolantItem | 15 |
@@ -18929,9 +14982,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Circuits | 900 |
 
 ## SUModularSecondaryBarrelCPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VenusCoconutItem | 15 |
@@ -18940,9 +14991,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Rubedo | 900 |
 
 ## SUModularSecondaryBarrelDPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VenusTreeItem | 15 |
@@ -18951,9 +15000,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | Cryotic | 1200 |
 
 ## SUModularCapIClipPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | FungusHeartItem | 20 |
@@ -18962,9 +15009,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishExaBrainItem | 5 |
 
 ## SUModularCapIIClipPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CoolantItem | 20 |
@@ -18973,9 +15018,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishAnoscopicSensorItem | 5 |
 
 ## SUModularCritICapIClipPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisUncommonOreAAlloyItem | 30 |
@@ -18984,9 +15027,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishParralelBiodeItem | 5 |
 
 ## SUModularCritICapIIClipPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisRareOreAAlloyItem | 30 |
@@ -18995,9 +15036,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisFishNeuralRelayItem | 5 |
 
 ## SUModularCritIICapIClipPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | RareOreAAlloyAItem | 40 |
@@ -19006,9 +15045,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinFishEcosynthAnalyzerItem | 5 |
 
 ## SUModularCritIIReloadIClipPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | UncommonOreAAlloyAItem | 40 |
@@ -19017,9 +15054,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisFishLatheCoogulantItem | 5 |
 
 ## SUModularCritIReloadIClipPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CommonOreBAlloyBItem | 40 |
@@ -19028,9 +15063,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishThermalLaserItem | 5 |
 
 ## SUModularCritIReloadIIClipPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CommonOreAAlloyAItem | 40 |
@@ -19039,9 +15072,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishRotobladeItem | 5 |
 
 ## SUModularReloadIClipPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VenusCoconutItem | 20 |
@@ -19050,9 +15081,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishVenedoCaseItem | 5 |
 
 ## SUModularReloadIIClipPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VenusTreeItem | 20 |
@@ -19061,9 +15090,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisFishDissipatorCoilItem | 5 |
 
 ## SUModularStatICapIClipPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisUncommonOreAAlloyItem | 30 |
@@ -19072,9 +15099,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishMuonBatteryItem | 5 |
 
 ## SUModularStatICapIIClipPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisRareOreAAlloyItem | 30 |
@@ -19083,9 +15108,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisFishNeuralRelayItem | 5 |
 
 ## SUModularStatIICapIClipPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | RareGemACutAItem | 10 |
@@ -19094,9 +15117,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinFishSaganModuleItem | 5 |
 
 ## SUModularStatIIReloadIClipPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | UncommonGemACutAItem | 10 |
@@ -19105,9 +15126,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | OrokinFishEntroplasmaItem | 5 |
 
 ## SUModularStatIReloadIClipPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CommonGemBCutAItem | 10 |
@@ -19116,9 +15135,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishThermalLaserItem | 5 |
 
 ## SUModularStatIReloadIIClipPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CommonGemACutAItem | 10 |
@@ -19127,9 +15144,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishRotobladeItem | 5 |
 
 ## SUModularSecondaryHandleAPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisCommonGemACutItem | 5 |
@@ -19138,9 +15153,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishAnoscopicSensorItem | 10 |
 
 ## SUModularSecondaryHandleBPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisCommonGemBCutItem | 5 |
@@ -19149,9 +15162,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishVenedoCaseItem | 10 |
 
 ## SUModularSecondaryHandleCPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisUncommonGemACutItem | 5 |
@@ -19160,9 +15171,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | SolarisFishNeuralRelayItem | 10 |
 
 ## SUModularSecondaryHandleDPart
-
 **Credits:** 5000 | **Build Time:** 1.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SolarisUncommonGemACutItem | 5 |
@@ -19171,9 +15180,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | CorpusFishRotobladeItem | 10 |
 
 ## TnBayonetRifleWeapon
-
 **Credits:** 15000 | **Build Time:** 12.0h | **Rush:** 25 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VinquibusBlade | 1 |
@@ -19182,9 +15189,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | VinquibusStock | 1 |
 
 ## RailjackCephalonShipFeatureItem
-
 **Credits:** 0 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BioFragment | 15 |
@@ -19192,114 +15197,49 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | EnergyFragment | 15 |
 
 ## VizierPredatorKubrowPetPowerSuit
-
 **Credits:** 4000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EntratiFragmentCommonB | 10 |
 
 ## MoaPetPowerSuit
-
 **Credits:** 4000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DebtTokenA | 10 |
 
 ## MirrorCatbrowPetPowerSuit
-
 **Credits:** 0 | **Build Time:** 48.0h | **Rush:** 15 Platinum
-
-| Ingredient | Count |
-|---|---|
-| EggHatcher | 1 |
-| CatbrowGeneticSignature | 10 |
-
-## MirrorCatbrowPetPowerSuit
-
-**Credits:** 0 | **Build Time:** 24.0h | **Rush:** 15 Platinum
-
 | Ingredient | Count |
 |---|---|
 | EggHatcher | 1 |
 | CatbrowGeneticSignature | 10 |
 
 ## AdventurerKubrowPetPowerSuit
-
 **Credits:** 0 | **Build Time:** 48.0h | **Rush:** 15 Platinum
-
-| Ingredient | Count |
-|---|---|
-| KubrowEgg | 1 |
-| EggHatcher | 1 |
-
-## AdventurerKubrowPetPowerSuit
-
-**Credits:** 0 | **Build Time:** 24.0h | **Rush:** 15 Platinum
-
-| Ingredient | Count |
-|---|---|
-| KubrowEgg | 1 |
-| EggHatcher | 1 |
-
-## AdventurerKubrowPetPowerSuit
-
-**Credits:** 0 | **Build Time:** 0.0h | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | KubrowEgg | 1 |
 | EggHatcher | 1 |
 
 ## ImprintedTraitPrint
-
 **Credits:** 0 | **Build Time:** 1.5h | **Rush:** 10 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BlankTraitPrint | 1 |
 
 ## HoverboardSuit
-
 **Credits:** 4000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 ## LotusModularWeapon
-
 **Credits:** 4000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CetusWispItem | 2 |
 
 ## OperatorAmpWeapon
-
 **Credits:** 4000 | **Build Time:** — | **Rush:** 1 Platinum
-
-## OperatorAmpWeapon
-
-**Credits:** 4000 | **Build Time:** — | **Rush:** 1 Platinum
-
-## LotusModularWeapon
-
-**Credits:** 4000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
-| Ingredient | Count |
-|---|---|
-| EntratiFragmentUncommonA | 25 |
-
-## LotusModularWeapon
-
-**Credits:** 4000 | **Build Time:** 0.0h | **Rush:** 1 Platinum
-
-| Ingredient | Count |
-|---|---|
-| DebtTokenB | 10 |
-
 ## AlchemistVialAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthPheromones | 490 |
@@ -19307,9 +15247,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthOxides | 280 |
 
 ## GlaiveAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthSynthetics | 170 |
@@ -19317,9 +15255,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthOxides | 510 |
 
 ## BrawlerGazeAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthCalx | 190 |
@@ -19327,9 +15263,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthPheromones | 600 |
 
 ## SilenceAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthSynthetics | 230 |
@@ -19337,9 +15271,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthCalx | 220 |
 
 ## PacifistWaveAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthBile | 100 |
@@ -19347,9 +15279,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthCalx | 330 |
 
 ## ChoirEyesAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthCalx | 190 |
@@ -19357,9 +15287,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthPheromones | 600 |
 
 ## DragonLuckAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthBiotics | 340 |
@@ -19367,9 +15295,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthOxides | 320 |
 
 ## ConcretePillarAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthCalx | 190 |
@@ -19377,9 +15303,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthPheromones | 600 |
 
 ## DagathVolleyAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthCalx | 190 |
@@ -19387,9 +15311,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthPheromones | 600 |
 
 ## DemonFrameHealAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthCalx | 190 |
@@ -19397,9 +15319,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthPheromones | 600 |
 
 ## FireBlastAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthSynthetics | 180 |
@@ -19407,9 +15327,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthOxides | 180 |
 
 ## YinYangTargetAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthPheromones | 720 |
@@ -19417,9 +15335,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthSynthetics | 150 |
 
 ## RadialBlindAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthCalx | 270 |
@@ -19427,9 +15343,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthSynthetics | 240 |
 
 ## IceSpikeAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthBile | 300 |
@@ -19437,9 +15351,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthOxides | 110 |
 
 ## FrumentariusCloakAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthCalx | 190 |
@@ -19447,9 +15359,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthPheromones | 600 |
 
 ## GlassFragmentAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthPheromones | 490 |
@@ -19457,9 +15367,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthOxides | 280 |
 
 ## GarudaSiphonAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthOxides | 470 |
@@ -19467,9 +15375,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthBile | 370 |
 
 ## RunnerTransferAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthBiotics | 150 |
@@ -19477,9 +15383,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthSynthetics | 350 |
 
 ## GeodeShardsAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthCalx | 190 |
@@ -19487,9 +15391,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthPheromones | 600 |
 
 ## DevourerConsumeAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthBile | 500 |
@@ -19497,9 +15399,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthCalx | 330 |
 
 ## GyreSphereAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthSynthetics | 710 |
@@ -19507,9 +15407,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthOxides | 170 |
 
 ## PriestCondemnAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthBile | 200 |
@@ -19517,9 +15415,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthBiotics | 200 |
 
 ## HelminthEfficiencyAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthSynthetics | 100 |
@@ -19527,9 +15423,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthOxides | 50 |
 
 ## HelminthCompanionAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthBile | 50 |
@@ -19537,9 +15431,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthCalx | 120 |
 
 ## HelminthEnergyShareAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthBiotics | 350 |
@@ -19547,9 +15439,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthSynthetics | 250 |
 
 ## HelminthHackAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthPheromones | 50 |
@@ -19557,9 +15447,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthOxides | 50 |
 
 ## HelminthMaxStatusAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthPheromones | 300 |
@@ -19567,9 +15455,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthBile | 450 |
 
 ## HelminthProcBlockAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthBile | 145 |
@@ -19577,9 +15463,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthCalx | 230 |
 
 ## HelminthShieldArmorAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthOxides | 500 |
@@ -19587,9 +15471,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthPheromones | 200 |
 
 ## HelminthShieldsAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthCalx | 140 |
@@ -19597,9 +15479,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthBile | 240 |
 
 ## HelminthSpeedAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthCalx | 100 |
@@ -19607,9 +15487,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthBile | 70 |
 
 ## HelminthStatusAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthBile | 300 |
@@ -19617,9 +15495,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthBiotics | 370 |
 
 ## HelminthStrengthAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthCalx | 180 |
@@ -19627,9 +15503,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthBile | 60 |
 
 ## HelminthStunAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthBile | 500 |
@@ -19637,9 +15511,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthCalx | 150 |
 
 ## HelminthTreasureAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthBiotics | 250 |
@@ -19647,9 +15519,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthOxides | 250 |
 
 ## IronFrameStripAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthBile | 240 |
@@ -19657,9 +15527,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthOxides | 520 |
 
 ## HopliteBashAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthCalx | 270 |
@@ -19667,9 +15535,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthSynthetics | 240 |
 
 ## CannonBarrageAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthPheromones | 340 |
@@ -19677,19 +15543,23 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthBile | 320 |
 
 ## SandmanBlastAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthOxides | 170 |
 | HelminthPheromones | 700 |
 | HelminthSynthetics | 140 |
 
-## RangerQuiverAbility
-
+## InkCloneAbility
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
+| Ingredient | Count |
+|---|---|
+| HelminthCalx | 190 |
+| HelminthBiotics | 190 |
+| HelminthPheromones | 600 |
 
+## RangerQuiverAbility
+**Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
 | Ingredient | Count |
 |---|---|
 | HelminthSynthetics | 710 |
@@ -19697,9 +15567,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthOxides | 170 |
 
 ## KhoraTwirlAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthPheromones | 180 |
@@ -19707,9 +15575,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthBiotics | 610 |
 
 ## KoumeiBlockAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthCalx | 190 |
@@ -19717,9 +15583,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthPheromones | 600 |
 
 ## BanishAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthBiotics | 620 |
@@ -19727,9 +15591,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthBile | 100 |
 
 ## DecoyAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthCalx | 590 |
@@ -19737,9 +15599,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthSynthetics | 180 |
 
 ## PullAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthPheromones | 230 |
@@ -19747,9 +15607,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthBile | 610 |
 
 ## RussianRouletteAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthSynthetics | 350 |
@@ -19757,9 +15615,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthBile | 150 |
 
 ## LightAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthSynthetics | 340 |
@@ -19767,9 +15623,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthBiotics | 500 |
 
 ## TerrorTotemAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthSynthetics | 120 |
@@ -19777,9 +15631,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthCalx | 150 |
 
 ## NezhaTrailAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthBiotics | 340 |
@@ -19787,9 +15639,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthBile | 330 |
 
 ## InfestTendrilsAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthCalx | 310 |
@@ -19797,9 +15647,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthOxides | 800 |
 
 ## NokkoPowerShroomAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthCalx | 190 |
@@ -19807,9 +15655,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthPheromones | 600 |
 
 ## NullStarAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthBile | 580 |
@@ -19817,9 +15663,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthPheromones | 180 |
 
 ## MindControlAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthCalx | 320 |
@@ -19827,9 +15671,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthSynthetics | 320 |
 
 ## SmiteAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthBiotics | 800 |
@@ -19837,9 +15679,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthSynthetics | 130 |
 
 ## BardCharmAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthPheromones | 320 |
@@ -19847,9 +15687,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthOxides | 340 |
 
 ## OraxiaEntangleAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthCalx | 190 |
@@ -19857,9 +15695,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthPheromones | 600 |
 
 ## PagemasterDeathAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthCalx | 190 |
@@ -19867,9 +15703,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthPheromones | 600 |
 
 ## PaxTeleportAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthCalx | 190 |
@@ -19877,9 +15711,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthPheromones | 600 |
 
 ## OdaliskDispensaryAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthOxides | 210 |
@@ -19887,9 +15719,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthBile | 600 |
 
 ## RevenantAfflictionAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthPheromones | 340 |
@@ -19897,9 +15727,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthSynthetics | 320 |
 
 ## RhinoRoarAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthCalx | 370 |
@@ -19907,9 +15735,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthSynthetics | 120 |
 
 ## ShedAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthOxides | 140 |
@@ -19917,9 +15743,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthCalx | 460 |
 
 ## SentientStompAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthOxides | 470 |
@@ -19927,9 +15751,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthBile | 370 |
 
 ## TempleShredAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthCalx | 190 |
@@ -19937,9 +15759,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthPheromones | 600 |
 
 ## FairyDustAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthSynthetics | 120 |
@@ -19947,9 +15767,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthBiotics | 160 |
 
 ## WellOfLifeAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthBiotics | 170 |
@@ -19957,9 +15775,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthCalx | 380 |
 
 ## BerserkerScreamAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthCalx | 300 |
@@ -19967,9 +15783,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthBile | 100 |
 
 ## ZapTrapAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthSynthetics | 520 |
@@ -19977,9 +15791,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthPheromones | 230 |
 
 ## ShockAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthBile | 610 |
@@ -19987,9 +15799,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthCalx | 310 |
 
 ## WerewolfLeapAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthCalx | 300 |
@@ -19997,9 +15807,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthBile | 100 |
 
 ## WispHarnessAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthBiotics | 260 |
@@ -20007,9 +15815,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthPheromones | 510 |
 
 ## WraithGloomAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthPheromones | 490 |
@@ -20017,9 +15823,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthOxides | 280 |
 
 ## MonkeyDeathNewAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthOxides | 300 |
@@ -20027,9 +15831,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthBiotics | 290 |
 
 ## BrokenRotAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthPheromones | 570 |
@@ -20037,9 +15839,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthBiotics | 190 |
 
 ## YareliDisksAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthPheromones | 340 |
@@ -20047,9 +15847,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthBile | 320 |
 
 ## TenguBurstAbility
-
 **Credits:** 0 | **Build Time:** 23.0h | **Rush:** 50 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HelminthPheromones | 470 |
@@ -20057,9 +15855,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | HelminthSynthetics | 140 |
 
 ## AckAndBruntIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AckAndBruntIncarnonUnlocker | 1 |
@@ -20068,9 +15864,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | GenericDuviriFishPartBItem | 300 |
 
 ## AngstrumIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AngstrumIncarnonUnlocker | 1 |
@@ -20079,9 +15873,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriEnemyDropItem | 80 |
 
 ## AnkuIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AnkuIncarnonUnlocker | 1 |
@@ -20090,9 +15882,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | GenericDuviriFishPartBItem | 300 |
 
 ## AtomosIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | AtomosIncarnonUnlocker | 1 |
@@ -20101,9 +15891,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriEnemyDropItem | 80 |
 
 ## BoarIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BoarIncarnonUnlocker | 1 |
@@ -20112,9 +15900,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriMushroomItem | 60 |
 
 ## BoIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BoIncarnonUnlocker | 1 |
@@ -20123,9 +15909,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriPlantItemA | 80 |
 
 ## BoltorIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BoltorIncarnonUnlocker | 1 |
@@ -20134,9 +15918,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriPlantItemE | 60 |
 
 ## BratonIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BratonIncarnonUnlocker | 1 |
@@ -20145,9 +15927,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriMushroomItem | 60 |
 
 ## BroncoIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BroncoIncarnonUnlocker | 1 |
@@ -20156,9 +15936,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | GenericDuviriFishPartAItem | 100 |
 
 ## BurstonIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | BurstonIncarnonUnlocker | 1 |
@@ -20167,9 +15945,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | GenericDuviriFishPartCItem | 20 |
 
 ## CeramicDaggerIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CeramicDaggerIncarnonUnlocker | 1 |
@@ -20178,9 +15954,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriPlantItemC | 80 |
 
 ## CestraIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | CestraIncarnonUnlocker | 1 |
@@ -20189,9 +15963,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriProcessedItem | 150 |
 
 ## DeraIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DeraIncarnonUnlocker | 1 |
@@ -20200,9 +15972,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriPlantItemG | 70 |
 
 ## DespairIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DespairIncarnonUnlocker | 1 |
@@ -20211,9 +15981,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriPlantItemE | 60 |
 
 ## DreadIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DreadIncarnonUnlocker | 1 |
@@ -20222,9 +15990,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriMushroomItem | 60 |
 
 ## DualIchorIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DualIchorIncarnonUnlocker | 1 |
@@ -20233,9 +15999,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriPlantItemA | 80 |
 
 ## DualToxocystIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | DualToxocystIncarnonUnlocker | 1 |
@@ -20244,9 +16008,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriPlantItemB | 80 |
 
 ## FuraxIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | FuraxIncarnonUnlocker | 1 |
@@ -20255,9 +16017,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | GenericDuviriFishPartBItem | 300 |
 
 ## FurisIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | FurisIncarnonUnlocker | 1 |
@@ -20266,9 +16026,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriEnemyDropItem | 80 |
 
 ## GammacorIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GammacorIncarnonUnlocker | 1 |
@@ -20277,9 +16035,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriEnemyDropItem | 80 |
 
 ## GorgonIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | GorgonIncarnonUnlocker | 1 |
@@ -20288,9 +16044,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriMushroomItem | 60 |
 
 ## HateIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | HateIncarnonUnlocker | 1 |
@@ -20299,9 +16053,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | GenericDuviriFishPartCItem | 20 |
 
 ## KunaiIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | KunaiIncarnonUnlocker | 1 |
@@ -20310,9 +16062,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriPlantItemB | 80 |
 
 ## LatoIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | LatoIncarnonUnlocker | 1 |
@@ -20321,9 +16071,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | GenericDuviriFishPartAItem | 100 |
 
 ## LatronIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | LatronIncarnonUnlocker | 1 |
@@ -20332,9 +16080,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | GenericDuviriFishPartCItem | 20 |
 
 ## LexIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | LexIncarnonUnlocker | 1 |
@@ -20343,9 +16089,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriProcessedItem | 150 |
 
 ## MagistarIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | MagistarIncarnonUnlocker | 1 |
@@ -20354,9 +16098,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriRockItem | 150 |
 
 ## MiterIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | MiterIncarnonUnlocker | 1 |
@@ -20365,9 +16107,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriMushroomItem | 60 |
 
 ## NamiSoloIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | NamiSoloIncarnonUnlocker | 1 |
@@ -20376,9 +16116,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriRockItem | 150 |
 
 ## OkinaIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | OkinaIncarnonUnlocker | 1 |
@@ -20387,9 +16125,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriEnemyDropItem | 80 |
 
 ## ParisIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ParisIncarnonUnlocker | 1 |
@@ -20398,9 +16134,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriPlantItemE | 60 |
 
 ## SibearIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SibearIncarnonUnlocker | 1 |
@@ -20409,9 +16143,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriPlantItemC | 80 |
 
 ## SicarusIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SicarusIncarnonUnlocker | 1 |
@@ -20420,9 +16152,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriRockItem | 150 |
 
 ## SkanaIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SkanaIncarnonUnlocker | 1 |
@@ -20431,9 +16161,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriPlantItemC | 80 |
 
 ## SomaIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SomaIncarnonUnlocker | 1 |
@@ -20442,9 +16170,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriPlantItemE | 60 |
 
 ## StrunIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | StrunIncarnonUnlocker | 1 |
@@ -20453,9 +16179,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriMushroomItem | 60 |
 
 ## SybarisIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | SybarisIncarnonUnlocker | 1 |
@@ -20464,9 +16188,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriProcessedItem | 150 |
 
 ## ToridIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ToridIncarnonUnlocker | 1 |
@@ -20475,9 +16197,7 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | GenericDuviriFishPartCItem | 20 |
 
 ## VastoIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | VastoIncarnonUnlocker | 1 |
@@ -20486,13 +16206,10 @@ All foundry crafting recipes with credit costs, build times, and ingredient requ
 | DuviriProcessedItem | 150 |
 
 ## ZylokIncarnonUnlocker
-
 **Credits:** 0 | **Build Time:** — | **Rush:** 0 Platinum
-
 | Ingredient | Count |
 |---|---|
 | ZylokIncarnonUnlocker | 1 |
 | DuviriDragonDropItem | 20 |
 | DuviriPlantItemD | 70 |
 | GenericDuviriFishPartAItem | 100 |
-

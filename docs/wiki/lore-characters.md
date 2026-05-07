@@ -1,0 +1,3368 @@
+# Wiki — Lore Characters & Factions
+Detailed lore profiles for key characters and groups from the Warframe wiki.
+
+## Ballas
+Ballas to Lotus
+Ballas was an Orokin Executor and member of The Seven prior to the fall of the Orokin Empire, and the one responsible for the creation and development of the Warframes. Romantically obsessed with Archimedean Margulis, he attempted to convince her to renounce the Tenno she was working to save rather than stand in the way of the Orokin, an act which ultimately proved futile.
+Lore
+General
+A man of extreme narcissism, egomania, and megalomania, Ballas desires to control and bend others to subservience. A master manipulator and a natural liar, Ballas weaves deceitful acts and tales to trick everyone around him into playing into his hand.
+Despite this, Roathe claims Ballas genuinely loved Margulis and never once abused his position to force her by his side. However, this love was also an obsession, as he harbored intense hatred for the Tenno for taking Margulis's love away from him.
+Cephalon Fragments
+Cephalon Fragments recovered throughout the system secretly reveal Ballas' involvement in the creation of Cephalon Ordis, who he created from the mind of a mercenary warrior named Ordan Karris, bound to servitude with suppressed memories and an altered persona as punishment for the latter's attempt at killing the Orokin.
+Synthesis
+Detron Crewman Synthesis Imprint
+Ballas puts Archimedean Perintol on trial for violating The Seven Principles in creating machines that could adapt and reproduce, for the Orokin feared they might eventually become sentient and turn on their creators. While Ballas vehemently attempts to sentence the Archimedean to the Jade Light, these machines were the last resort to fulfill "The Plan" - the only remaining means to successfully survive the journey to Tau through normal space. Perintol ultimately convinces the other Executors to have his creation to reach and terraform Tau while embedded with a weakness to the Void as contingency, overturning Ballas's decision.
+As Perintol was being escorted out, Ballas personally confronts the Archimedean, revealing his actions were all an act to manipulate the other Executors into approving the project out of desperation and their flaw.
+The Seven Crimes of Kullervo
+The Warden
+Kullervo attempted to gain Ballas' favor by killing an Orokin, but instead he earned his first crime of Murder. Ballas would then continue to charge Kullervo with additional crimes: Cowardice, Flight from Custody, Treason, Espionage, a second count of Treason, and finally Kullervo made an attempt on Ballas' life but ultimately failed and earned his final crime of Attempted Regicide. He was then sentenced with the Executor's eternal vengeance.
+Kullervo would then arrive in Duviri, his guilt causing Conceptual Embodiment to form a prison island for each of his seven crimes and The Warden, who bears a striking resemblance to Ballas, as his jailer.
+Jade's Promise
+Memory Feather 02
+Before becoming Warframes, Jade and Sorren were engaged in an unsanctioned relationship and sired a child, which was a violation of Orokin laws. Ballas caught the pair and forcibly converted Jade into a Warframe during her pregnancy and would mother "only ashes and oblivion" as she was used to channel the Jade Light executions. Sorren became Stalker who attempted to repent by becoming an Orokin lapdog, with Ballas dangling the promise of family over his head.
+After The Collapse, Jade encountered Stalker, who did not recognize her, and spirited him away. Recalling Ballas's taunts that her unborn child may move if she laid still, Jade spent the remainder of her life channeling all her energy into her pregnancy. By the events of Jade Shadows, she eventually succeeds at giving birth and passes away.
+The Second Dream
+Dialogue during The Second Dream states that Ballas held the rank of Executor, and was romantically obsessed with the Archimedean Margulis. She had been protecting the survivors of Zariman Ten Zero, whom she is later ordered to renounce. Margulis refuses and is ultimately executed, with Ballas participating as Executor. After this, Ballas would bastardize Margulis' Transference therapy, instead using it to integrate outside minds with his then-defunct Frames of War, so they could function as remotely operated war platforms.
+Apostasy Prologue
+Ballas officially makes his first appearance in Apostasy Prologue, seemingly interrupting the Operator when they meet the Lotus in person. The Orokin apologizes in advance, which left the Lotus to question what he is sorry for, remarking that she is not Margulis. Ballas remarks that she is— imprisoned, just as she was— before waving his hand, releasing an energy wave that disconnects the Lotus from her own pod.
+Lotus
+This causes a burst of Transference static to hit the Operator and causing them to wince in pain. The Lotus then seems briefly surprised and calls out his name. He vows never to abandon her again while offering his hand. The Lotus, no longer protesting, takes off her helmet before taking his hand. The two then walk together into a blinding light before disappearing from sight. Neither visibly react to the Operator, suggesting that they are witnessing a vision of the recent past.
+The Sacrifice
+Ballas
+Ballas is shown cooperating with Sentient as they battle a defiant Warframe, who Ballas completely subdues and orders to be destroyed. This vision is shown to the Operator through the Lotus' helmet. The Operator begins searching for the location in the vision, believing it will lead them closer to finding the Lotus. They successfully locate the scene on Earth and find a weapon and Warframe components belonging to a never-before-seen Warframe. After detecting traces that originate from Lua on the recovered weapon, and subsequently recovering Ballas' Vitruvian from the ruins of Excalibur Umbra prison on Pavlov, the Operator rebuilds the Warframe that was destroyed by Ballas in hopes that it will bring them closer to finding the Lotus.
+The Operator discovers that Excalibur Umbra is unstable and learns through his memories that he was originally an Orokin Dax soldier who was transformed into a Warframe after being injected with the Helminth, a hybrid culture of the Infested, under the guise of treatment. This was punishment for the Dax spying on Ballas during his betrayal of the Orokin. While being controlled by Ballas through a unique Transference Bolt, he was forced to kill his son, Isaah, and that memory was made to replay endlessly, driving him mad. The Vitruvian also reveals that Warframes were intended to be used as autonomous bio-drones against the Sentients in the Old War. At first, the Warframes were successful, seemingly unaffected by the infested madness; however, they eventually succumbed to the deleterious effects the infestation has on the mind. They became uncontrollable, leaving them a failure until the discovery of the Tenno and the creation of Transference by Archimedean Margulis. The Vitruvian also reveals that Ballas was the one who exposed the weakness of the Tenno and their Warframes to Hunhow as part of a deal in his betrayal of the Orokin Empire and defection to the Sentients.
+After the Operator takes away the pain of Excalibur Umbra, they confront Ballas together. In his hubris, Ballas fails to realize that he no longer has absolute control over Umbra due to the Operator, and suffers a seemingly fatal stab to his abdomen as a result.
+Ballas
+Lotus, now in the form of Natah, suddenly arrives and retrieves Ballas, much to the Operator's disbelief and confusion.
+Natah (formerly Lotus)
+Chimera Prologue
+Ballas
+After chasing The Man in The Wall through Lua and dropping down into the shaft inside the Reservoir into the same chamber during the Apostasy Prologue and the Second Dream, the Operator enters a portal and spots Ballas. The Orokin is revealed to be Sentient-turned and is mourning for the loss of his "beautiful" Orokin body all while cursing Natah for her deception by stealing his perfect death. As he rambles, his eye suddenly glows, which he claims to be Natah's vision. He eventually offers his sword Paracesis, which he calls the "Sentient slayer", to the Tenno in preparation for war with the Sentients. As they grab the sword, Ballas abruptly turns to face them as Natah's whisper for the Tenno can be heard.
+Erra
+Ballas was leashed by Erra while the Sentient was discussing the war with his sister. He confirmed that the Orokin are truly gone, the Corpus and Grineer are at war against each other, and the Tenno are her enemy.
+The Maker
+As Erra urges Natah to provide a spark from the Mother's fire within her to re-ignite the one aboard the ship, she refuses out of concern for the Mother. She then shows doubts in Erra's counters and remembers him supposedly being killed by the Lotus and the Tenno. Erra objects and states that she remembers wrong and will need time to completely heal from what the Makers had done to her. Natah is not convinced and points at leashed Ballas asking if he is one of the Makers.
+Before she can further question them, Erra suddenly grabs and throws Natah at the pedestal behind him, where she is trapped in a field of energy, thereby burning her up entirely instead of only providing the spark. Erra tells her to "finish the war" and drops Ballas' leash. Revealing that his imprisonment, as well as his monologue in Chimera Prologue, was a deceptive act, Ballas stands as he and Erra silently watch Natah.
+The New War
+Ballas
+Ballas forces the burned and weak Natah to watch Teshin succumb to the effects of a Narmer Veil as he fights Erra, revealing his plan to brainwash the masses. Once the Operator arrives, they look on in horror at their weakened mother figure as Ballas kisses her and steals what appears to be the last of her power/life essence. A Void portal then opens and drags in Natah's body; as the Operator tries to hold on to the rest of her, Ballas steals their Paracesis and uses it to cut off her hand and stab the Operator, dragging both into the portal where the Tenno is imprisoned within their own history.
+Without the Tenno, the Sentient take over the Origin System with Ballas as the de-facto leader of Narmer, using the Veils to defame the Tenno and twist the truth into his favor. The Drifter works against Narmer, teaming up with Hunhow to destroy Erra's Archons and use their power over restoration to revive the Lotus, while also bringing back the Operator in the process.
+thumb|Ballas under the influence of a Narmer Veil
+Ballas learns of the restoration of Lotus and is enraged, his fury overloading and remotely detonating the veils on his nearby Narmer Deacons. Erra attempts to placate him, stating that he has won and that every living thing in the Origin System, biological or not, worships him. Ballas however, sees this as hollow victory, as he believes that all beings in the System wished to be controlled. Knowing that he cannot control the Tenno, Ballas orders Erra to recall the Sentient fleet and plots to lure and reclaim the Lotus. Ballas then uses the Sentient Mothership Praghasa to feed on the sun, revealing his twisted plan to destroy the Origin System and sacrifice his Narmer empire to fuel his escape to the Tau System. Erra, realizing that Ballas intends to doom the Sentients as well, defects and sacrifices himself to guide the Tenno to the third and final Archon.
+The Operator and the Lotus confront Ballas. As Ballas targets the Lotus, the Operator push her out of the way and intercept the hit, allowing Ballas to steal and absorb the final Archon shard before commanding her to kill the Tenno. After a long battle, and wrenching the Lotus out of Ballas' control, Ballas steals the Operator's Paracesis and stabs the Lotus. As Ballas appears to gain the upper hand, the Operator jumps him and forces a Narmer Veil on him, deluding him into kissing "Margulis" and allowing the Lotus to retake her power, putting an end to Ballas once and for all. His death destabilizes the Narmer threat and allows the Origin System to slowly recover, yet loyalists remain eager to fill the power vacuum left behind by their martyred leader.
+The Old Peace
+Ballas appears in the Operator's long-forgotten memory of The Old War, during the period where the Orokin and Sentient managed to negotiate a peace treaty. Tensions remained high, but the Sentients were willing to give the Orokin a chance for coexistence, giving way for the establishment of the Tauron Academy in the orbit of Tau moon Perita, a place where Sentient and Tenno could train and study in harmony. Ballas, in what appears to be full war regalia, appears as a larger-than-life hologram in the middle of the Tauron entrance hall, instructing the Tenno and Grineer present to defend the holy peace treaty alongside their "blessed and brave creations".
+Ballas personally visited Tauron Academy where the Anarchs Separatists rebelled against the treaty and made an attempt on his life, but was saved by the Operator. Archimedean Itzam pleaded with Ballas to deal with the Anarchs, revealing that their bases in the World-Seeders have a weakness.
+Margulis delivers self-destruct codes for the Operator to use against the Anarch's base, but turns out to have also activated the World-Seeders into terraforming devices that causes the destruction of Xenoflora, a plant that gives the Sentients their individuality, to which the Operator accuses Ballas of altering the codes. The treaty is nullified and the Grineer, having been prepared for the very moment, immediately open fire on the Sentient.
+Ballas is voiced by Max Howarth.
+Ballas is the narrator of Prime Warframe introduction trailers.
+In Saryn Prime introduction, his dialogue indicates that he developed Saryn as a means to fight the Infested, as Margulis loved the natural environments of Old Earth, which had become overrun by infested.
+In Vauban Prime introduction, it is indicated Vauban was created to fight the Corpus. The narration also confirms that the ancestors of the current Corpus faction were active during the Orokin Era, and that they may have at one point had a hostile relationship with the Orokin.
+In Nekros Prime introduction, Ballas seems to directly address his fellow high-ranking Orokin, stating, "Your graces, we who are beyond death, have forgotten the simple power of fear."
+In Banshee Prime introduction, it is indicated that Prime Warframes— if not Warframes in general— were made to be individuals who were much more unique and capable than the mass-produced and withering Grineer.
+In Valkyr Prime introduction Ballas mourns the loss of the animalistic aspects the Orokin tossed away for their immortality and beauty. He warns that the Warframes, which retain a primal nature, should be feared. Even though they are Tenno-controlled, they are merely biding their time to eventually strike at their Orokin masters.
+Thus far, this is the only trailer to not mention the name of the Warframe being showcased.
+In Oberon Prime introduction, Ballas talks about the dangers of greed, as the greedy ignore the consequences of their actions, evident in the Grineer who often plunder and poison the forests of Earth. Thus, Ballas delivers forth Oberon as an avenger of the Gray Mother, the one who will place judgment on the Grineer who have contaminated her greenery for too long. And through the blood of these defilers will the forest grow stronger.
+In Mirage Prime introduction, Ballas recognizes that the personality and affect of the individual used to create the original Warframes are capable of altering the intended outcome of the Warframe. He states that while others "writhed and raged in the vice," Mirage "laughed at [him]" and "played the fool," her "sanguine trick" ultimately resulting in Ballas' design becoming "distorted".
+The introduction ends with Ballas stating no one is laughing anymore, except Mirage. This line suggests Mirage proved to be an effective killer, which is reflected in Mirage solo battle against an army of Sentient in Hidden Messages.
+Considering that Mirage is the result of a Warframe's design becoming distorted by the progenitor of the original Warframe, it's possible that the individual that became Mirage Prime was a harlequin or entertainer prior to their transfiguration.
+In Hydroid Prime introduction, Ballas uses fear as concept, turned into a weapon. He considers fear to be "the greatest of faith", stating that those that gaze upon Orokin Towers hold still the "old fears," and thus, he created Hydroid as a means to "give to fear a form," striking from the depths to remind his victims who their creators are.
+In Octavia Prime introduction, Ballas states that, after they were created, the Warframes needed something to forget the torture they had been put through, and thus Octavia came to be— with "songs" to harmonize their tortured screams and "anthems" to elevate their wrath, but they were "owed" their struggle, as the Orokin were owed entertainment.
+In Gara Prime introduction, it is revealed that the woman who would become Gara knew the truth of the Warframes and willingly volunteered to be turned into one. Nihil demanded that she instead must be glassed for her arrogance. Ballas then "crystallized" her seemingly to spite Nihil.
+In Nidus Prime introduction, Nidus is confirmed to be an Orokin creation sent off on into the unknown for unstated purposes.
+In Khora Prime introduction, it's suggested that Ballas created Khora and Venari to honor his late love Margulis, while also referencing how she is, in a way, still alive within another's form. Hence the duality of "mistress" and "monster" (Khora and Venari/Margulis and Natah).
+In Revenant Prime introduction, Ballas expresses his disbelief over the fact that Revenant Prime, a Warframe he had no hand in creating, simply appeared from the Void, as if to mock Ballas.
+Given the design of Revenant Prime's helmet, and the purpose and ultimate fate of The Warden of the Eidola, it's likely the Unum herself is responsible for the conception of this "fatherless" Warframe.
+In Hildryn Prime introduction, Ballas says he intends to keep Hildryn to guard against "enemies within" (perhaps the other Orokin). He addresses Hunhow, asking the Sentient to spare the Operator of Hildryn when he attacks the Reservoir.
+In Wisp Prime introduction, Ballas says that he dreamt of a "new Earth" and breathed life into its caretaker, Wisp. However, she "slipped" from him, so he cast her in (perhaps an Operator's) flesh to let her be 'real'.
+In Grendel Prime introduction, it's revealed that Grendel was created by Ballas to mock those who complained that his other Warframes were too elegant.
+In Gauss Prime introduction, it is revealed that Gauss was created to be the "lightning to [Grendel's] gastric thunder" so that there would be "no more talk of defeat" between the "unspeakable" (Grendel) and the "inescapable" (Gauss).
+Gauss Prime's dual introduction is the first to include another Warframe, as his introduction is the second half of Grendel Prime's introduction.
+The Grendel Prime and Gauss Prime Double Feature is a re-enactment of Gauss and Grendel's Assault on Riddah, except the roles have been reversed. In Riddah‚ Gauss cleared Grendel a path to the city gates, then Grendel confronted and consumed Executor Karishh. This time‚ Grendel consumes part of the Corpus Directory, clearing Gauss a path to the chairman of the Corpus Board of Directors.
+Both Ballas and Parvos Granum narrate Protea Prime introduction. In it, Granum conceived the design for the time-manipulating Warframe to "violate" the Entrati's research, a request which Ballas reluctantly obliges to this "child of two fathers".
+In Yareli Prime introduction, it is revealed that the one who would become Yareli was a Yuvan who at first captivated Ballas, but she openly disrespected the Yuvan Theater, which angered him so much that instead of being sacrificed to the Continuity she was converted into a Warframe.
+In Voruna Prime's introduction, Ballas narrates the aftermath of The Collapse, describing how quickly the Emperors and Orokin higher-ups were slaughtered within a day's span while the surviving ones whined as Voruna hunts them down. Ballas, aware and foretold the Empire's fate beforehand, somehow "lusts" after the brutal death, believing his immortality will finally have savor and wonders if Voruna has his scent.
+Ballas' Sentient-hybrid transformation, in Chimera Prologue, foreshadows a new kind of enemy, the Sentient/Corpus Amalgams, which was revealed during Devstream 124.
+In Chimera Prologue, Ballas still has his left leg attached to his knee, but it is gone in the Erra Prologue. However he later gains it back, as well as a prosthesis for symmetry, in his Narmer outfit.
+Ballas is the second introduced Orokin that has been defeated in the playable WARFRAME universe, the first being the Elder Grineer Queen, and the third being Nihil.
+In concept art for TennoCon 2021, Ballas gained a new outfit, as well as some of his lost Orokin symmetry by gaining a prosthetic right leg. This design would ultimately be used for his appearance as the ruler of Narmer.
+Ballas absorbing Natah's power is the evidence that transferring Sentient's "light" to another entity, even a different species, is possible, though, Ballas was a Sentient-hybrid at the time.
+This is later proven to be true when the Sentient Truthbloom transferred their light to the Operator when the latter was grievously wounded.
+Localization
+
+## Teshin
+Teshin
+Teshin Dax is a warrior who acts as a mentor to the Tenno. Positioned within the Conclave Hall of the Relays, he is responsible for the management of the Conclave PvP System, as well as The Steel Path game mode.
+Lore & History
+General
+As a Dax, an elite warrior force of the Orokin, Teshin's origins date back to the Orokin Era and was one of the few who did not enter cryosleep. How he has remained alive for this long however, is unknown. He blames the fall of the Orokin on the Lotus, who led the Tenno to become "complacent like oxen", though he reluctantly concedes that the Orokin's demise and The Old War were necessary.
+Teshin references the imminent arrival of the Sentient by insisting the Tenno use the Conclave to fight their greatest enemy, themselves, in order to grow stronger and to prepare themselves for 'horrors' beyond the Outer Terminus.
+The Teacher
+Learning of a Tenno that defeated Captain Vor, Teshin makes contact with them. He shows immediate disdain toward the Lotus, acknowledging that the Tenno do not remember The Old War.
+With Corpus and the Tenno lured by a Mod Segment, Teshin captures the Tenno and forces them to undergo training to learn to use Mods. However, the Corpus raid his base, and he entrusts them to escape with the Mod Segment before allowing himself to be captured.
+Returning to the Lotus, the Tenno uses their newly acquired knowledge to rearm themselves and fight their way through to Teshin. The Lotus then orders Teshin's capture, having the student use all they've learned to overcome the teacher. Teshin asks whether the Tenno's forgotten memories will be restored, to which the Lotus replies that they will remember in time, but now they are in need of a mentor and a Lotus to guide them.
+Natah
+After the Lotus abruptly breaks off communication with the Tenno, Teshin makes contact, offering to guide the player and help them figure out why. By the time the Lotus resurfaces, the Tenno and Teshin are already hot on the trail of Tyl Regor and his excavation team.
+Notably, Tyl Regor calls Teshin a "pseudo-Tenno," and implies at least some familiarity between the two.
+The War Within
+Investigating the Lotus's sentries suddenly going dark, the Operator encounters Teshin, who briefly warns them about the Grineer Queens and orders them not to pursue. The Operator refuses and their persistence leads them to the Kuva Fortress, a mobile asteroid base used to conceal the Queens. The Queens reveal to have Teshin under their thrall, having lured the Operator to them in order to prepare the Continuity and have the Elder Queen inhabit their body.
+During the process of Continuity, the Operator finds themselves on a mountain temple on Earth. Teshin appears to guide them and reawaken their lost Void powers, claiming them that Margulis did them a disservice by concealing and erasing their past. He also reveals his origins as a Dax soldier, a warrior caste in servitude to the Orokin and is unable to defy the Elder Queen's Kuva Broken Scepter. With Teshin's mental assistance, the Operator is able to escape from the Continuity ritual and fight back against the Queens, freeing Teshin from their thrall. The Operator can either order Teshin to stay put as they allow the Elder Queen to escape or deal the finishing blow themselves, or command Teshin to cut her down.
+The Operator returns to the mountain pass with Teshin, who advises them about the Kuva on the scepter: an elixir of power or a maddening oil. Regardless of what the Operator chooses to do with the Kuva, Teshin tells them that the world weighs more heavily on them and to not lose themselves.
+The New War
+As the Sentient invade the Origin System, the Tenno, forming an unlikely alliance with the Grineer and Corpus, push toward the fleet in the Veil Proxima. On the Railjack, Teshin instructs the Tenno to bring their ship close to the Sentient mothership and slingshots inside, but denies them entry due to the Orphix fields.
+Teshin drops in from the ceiling and destroys an Aerolyst. As he searches for the scattered Orphix fields, he tells Ordis that he doesn't need his help and orders him to switch off. Along the way, he discovers captured Grineer and Corpus, and later encounters a strange red projection that makes him slowly recall reprimanding the Tenno before shrugging off its effects.
+After destroying all the Orphix and defeating their Typholyst guardians, Teshin chooses not to call the Tenno but instead decides to scout ahead. After making the jump, Teshin is captured and forced to don a Narmer Veil, causing him to become deluded into believing the Tenno killed his presumed lover, Valeria, while Ballas tortures the Lotus by forcing her to watch. As Teshin fights off Erra and his brainwashing, he eventually collapses and forces the veil off— possibly hinting to the Operator that the device can be disabled by force. In Teshin's final moments, Erra deems him a lost cause, grabbing him, crushing his helmet, and leaving him for dead.
+In the aftermath of these events, Teshin falls into the void, presumably through the portal Ballas opens, and lands within Duviri, later becoming the Drifter's Mentor.
+After the completion of The New War, Teshin is replaced by a grey hologram.
+Angels of the Zariman
+thumb|Teshin's swords propped up against the Dormizone's door to Duviri wreathed in Void-like unlight.
+When entering the Dormizone as the Drifter, Teshin's swords would mysteriously manifest for a time until Update 32.3, leaned up against a closed door and infused with grey Void-like energy, serving as an early nod to the Teshin of The Duviri Paradox. This door would later open up in Update 33 to be a gateway into the realm of Duviri, into Teshin's Cave.
+The Duviri Paradox
+Within the Void, it is revealed that Teshin was pulled into the portal during The New War after Erra crushed his helmet, along with his Narmer Veil, which sits tarnishing, unused, on a Narmer banner in his cave. As he fell through the sky, he crashed into the lake on the island now known as Hermit's Landing. Teshin was then dragged back to shore and healed by Mathila.
+He appears in Duviri as an old, wizened, and retired Dax carrying around a walking stick, and owns a pet Rablit which the Drifter named Sol, Terra, or Lua. When the Drifter arrives in Teshin's Cave, Teshin instructs them on using Warframes received from outside the walls of the Void while offering his swords Sun & Moon.
+Meanwhile, the mad ruler Dominus Thrax grows increasingly agitated with the Drifter's defiance. He eventually locates and captures Teshin, leaves behind an imposter who is later killed by the Rablit, and has him executed. Teshin dies before the Drifter, requesting they take care of his pet and acknowledges their growth.
+The Drifter confronts Dominus Thrax and, after learning that the Drifter was the real master of Duviri all along, uses the throne's/drifter's time-rewinding ability to resurrect Teshin, but returns Thrax to power which they deem to be a fair trade.
+Gameplay
+Teshin is a playable character during The New War.
+Teshin has 1200 health and 225 shields.
+Teshin uses Sun & Moon as his melee.
+Teshin has three "abilities":
+His first ability infuses his weapons with Heat and changes his stance to Carving Mantis.
+His second ability infuses with Cold and stance changes to Crossing Snakes.
+His third ability infuses with Electricity and stance changes to Swirling Tiger.
+Sentient enemies are protected by elemental shields that can only be destroyed with the corresponding element.
+Teshin can perform most maneuvers available to Warframes, including sliding and double jumping, but not bullet jumping.
+Teshin can throw Orvius with the primary fire button to stun enemies. He can then lasso onto it and make long jumps with Alternate Fire.
+**Trivia:**
+His voice actor is Sean Phillips.
+His helmet makes him look similar to a Kappa, a Japanese mythological water imp with a plate full of water on the top of its head.
+The style itself is also reminiscent of a kasa, a traditional Japanese hat commonly worn by monks and warriors.
+Teshin is the second syndicate leader to have multiple intro voice lines, with the first being Cephalon Suda.
+Teshin's Sun & Moon nikanas both have Ymir-Form Gemini Nikana Sheaths. He is also able to call his blades to his hands in the event he is disarmed as indicated in The War Within.
+Following Update 23, his sheaths have been replaced by Nikana Dax Skin. However he still erroneously uses Ymir-Form Gemini in some The War Within cutscenes.
+Teshin's name is likely derived from Deshin Shekpa, the 5th head of the Kagyu school of Tibetan Buddhism.
+Tyl Regor once referred to Teshin as a "pseudo-Tenno" due to his affiliation despite not being one.
+Teshin's cape often vanishes during cutscene sequences during The War Within and The New War.
+Teshin's motions during his boss fight in The Teacher, as well as his specters during The War Within, are almost identical to the Dax Gladius, except his attacks cannot be interrupted with gunfire.
+Teshin's personal ship is the Mantis, as shown in his dojo in The Teacher.
+
+## Margulis
+Margulis
+Archimedean Margulis was an elite scholar of the Orokin Era. Acting as the adoptive mother of the Zariman Ten Zero children, her actions served as the catalyst to creating the Tenno and ultimately the development of Warframes, only to be executed by the Orokin judges out of her refusal to denounce them. The Orokin Executor Ballas was romantically obsessed with Margulis, and as such heavily resented the Tenno for being favored by her.
+Lore
+The Second Dream and The War Within
+After destroying the Pendula that used to keep the Moon within the Void, a number of conversations between Margulis and several Orokin figures (most of whom, with the exception of an individual named Ballas, remain nameless) are heard, most likely a recollection of memories. In these conversations, Margulis argues to the rest of the Orokin regarding the orphaned children of the Zariman Ten Zero, as they have been under her care, despite the rest of the Orokin's wishes that they should be killed out of fear of their power. Margulis, as indicated by Lotus, contributed to a process known as 'Transference' in which a Tenno's consciousness and power could be channeled through a vessel strong enough to contain it, leading to the creation of the Tenno-controlled versions of Warframes.
+It is revealed by the Tenno that, while working with Margulis, they lost control of their powers and burned her eyes, leaving her permanently blind. Even then, she refused to abandon them.
+It is stated by the Lotus and the Operator that Margulis was executed for defending the Tenno, committing apostasy, and disobeying some not entirely disclosed Orokin laws. The sentence was carried out by The Seven, the council of Orokin Executors which included Ballas, to which Margulis states that the Orokin, for all their perfect appearances, are "rotted through and through".
+Dialogue from Teshin in The War Within revealed more information about Margulis and the role she played, caring for the children of the Zariman.
+Teshin
+The Silver Grove
+Margulis was mentioned to recruit researchers to help with Transference therapy, presumably to build surrogate bodies for the children of Zariman Ten-Zero. As Silvana, the researcher involved in the creation of The Silver Grove, puts it "she needed the best Infestation biologist". But later, it seemed the project was turned into the creation of Warframes.
+The New War
+In the final confrontation with Ballas, the Lotus mocks him, stating Margulis chose death over being controlled by him. After a long battle, the Tenno finally subdues Ballas with a Narmer Veil, deluding him into kissing "Margulis" and allowing the Lotus to steal her powers back from him and end him once and for all.
+In the aftermath, the Lotus is conflicted with her personalities meshing between herself, Natah, and Margulis. The player can choose for her to become Margulis in her honor, a woman devoted to restoring the Origin System with compassion and healing.
+Lotus accepting the mantle of Margulis
+The Old Peace
+At the Dark Refractory, when the Operator dives back into their memories for the second time, an image of Margulis blinded by the Tenno can be seen very briefly.
+At the Tauron Academy, on the way to checking on the New Hybrid Project, Margulis exits through a lift, monologuing about trusting Itzam over the Orokin and tells the Prime Grineer to have him report to duty daily.
+Shortly after Itzam's death, the Operator and Adis play back the message on an Ayatan given by him, revealing a message from Margulis. Margulis commands Galastra's death for bringing harm to her loved ones, revealing that she plans to destroy the Xenoflora and that Executor Nitokh and Roathe are indeed assisting Galastra. She instructs them to bring the Ayatan to the Anarch's base in the World-Seeder, which is revealed to be a Zariman, using the Ayatan's command codes to destroy it.
+However, the codes were revealed to have changed, killing the Xenoflora across the whole Perita moon as a result. The Operator realizes Ballas set them up, but Adis swears vengeance against Margulis instead and sets off to pilot his Hunhullus where he and the Operator (piloting Excalibur Prime) fight to the death.
+After their final battle against Adis (who realized too late that the Operator did not betray him, sacrificed his light to save them at the cost of his life, which allowed them to fend off the Grineer Prime Bolkorsand the now hostile Prime Grineer, who were ordered to kill both the Operator and Adis), the Operator solemnly trekked through the war torn Perita until they reached the crucified Uriel. Consumed with anger over Ballas and the Orokin's manipulations that led to both the end of the peace treaty and the death of Adis, coupled with the Indifference goading them on, the Operator transfers into Uriel, freeing the Warframe from its restraints. Using Infernalis, they flew and stormed back to the Tauron Academy as both the Prime Grineer and the Sentient were fighting amongst each other following the end of the peace treaty. The Operator went on a rampage with Uriel, killing anyone that got in their way as they angrily accused Ballas of altering the self-destruct codes and declared that they should've let Galastra kill him. After encountering and deciding upon the fate of the aggressive and bigoted Cephalon Daklo, the Operator reached the entrance of Ballas's office, where they cast Brimstone to open the way forward. Transferring out of Uriel, the Operator, expecting to run into Ballas, instead found Margulis, who was scarred and blinded by the Tenno, implying she was a co-conspirator in his schemes in order to protect the Tenno. The Operator began to feel sleepy as they realized she will make them forget all their memories of Tau in order to protect them from the Orokin and that she'll be executed in their place by them before falling unconscious.
+As the Operator wakes up in reality, the Operator apologizes to the Lotus, who responds to them that they were used by Ballas, just as Margulis was. However, if Margulis was the chosen name, she replies to the Operator that "we will finally begin to heal" and if Natah was the chosen name, her final response will be "We've already had our revenge". The Lotus acknowledges that though Tau is now in sight, it will be much changed from the Operator's memories.
+**Trivia:**
+thumb|300px|The mysterious Orokin message
+The name Margulis is most likely a reference to Lynn Margulis, an American evolutionary theorist who was a key proponent for the significance of symbiosis in biological evolution.
+After completion of The New War, having the Lotus become Margulis will permanently change her name and award her skin as a customizable. Otherwise, the Margulis skin becomes available for 165.
+On completion of The Old Peace, the Scarred Margulis that appears in the quest can be bought for 50.
+Margulis was briefly alluded to in Update 17 through a cryptic Orokin message that would occasionally appear at the start of a mission. In the said message, one of the lines mentions "Margulis implantation intact". The majority of the message suggests some relation to the Reservoir as well. A full translation of the message can be viewed below:
+Void Link Severed
+Reason: foreign carrier detected. Origin: unknown. Suspection: tracking signal.
+Reinitiating dipolar connection on novel carrier. Bow in standby for sync check and sync.
+Motion compensation complete.
+Selenic lensing locked.
+Somatic control established.
+Margulis implantation intact.
+EVM status nominal.
+War platform awaiting sync.
+Initializing synaptic overlay... Good night, sweet angel.
+Localization
+
+## Ordis
+Ordis
+Ordis is a Cephalon of Orokin origin who serves aboard the Orbiter. His visual form is that of a cracked hexahedron which emits radio wave-like ripples as he speaks.
+Ordis assists the Tenno, whom he refers to as "Operator". He manages the various systems of the Tenno's landing craft, and provides them with information in between missions.
+Lore
+General
+Ordis is a damaged Cephalon programmed to assist the Tenno. He is mostly functional, though he exhibits symptoms of residual damage inflicted on him. This damage has erased portions of his memory, including his knowledge of the Old War.
+Ordis' speech and demeanor are occasionally altered in momentary blips of rage and aggression. It is initially unclear whether this is a symptom of his damaged subsystems or whether it is a subsumed personality breaking free. These outbursts are markedly different from the usual calmness exhibited by other non-Conclave Cephalons. After an outburst, Ordis is prone to correct himself.
+Vor's Prize
+After Captain Vor shoots down the Liset sent in to rescue the newly awakened Tenno, the Tenno encounters their original ancient Liset (with Ordis onboard) impounded nearby. Ordis initially mistakes the Tenno for another Grineer soldier, but soon realizes their true identity and helps them escape.
+As the Tenno is being familiarized with their surroundings, the Lotus instructs the Tenno to retrieve replacement components to restore the Orbiter's functions (to Ordis' delight, as this allows the Tenno to exact revenge on the Grineer and the Corpus for gutting him of his components). Along the way, the Tenno rescue a black market merchant named Darvo, who—while willing to help the Tenno remove the Ascaris implanted by Vor—gets into a small squabble with Ordis due to Darvo's former ties with the Corpus.
+Howl of the Kubrow
+Upon hearing news of the Tenno's desire to obtain a Kubrow, Ordis makes his distaste for them clear, viewing them as smelly, unhygienic creatures that threaten to soil the pristine interior of his ship. Over time however, Ordis becomes more accepting of the newly hatched Kubrow commenting that its barking and panting are "not displeasing".
+The Limbo Theorem
+When Ordis receives a series of mysterious, incomplete proofs, he initially refuses to look into it further but theorizes that the Tenno can decipher the equations by tapping into spaceborne Grineer communication towers to collect additional proof fragments. As Ordis and the Tenno piece the proof fragments, Ordis realizes that the proof belonged to the operator of a Warframe that could access another dimension studied in his equations. Eagerly awaiting new discoveries, Ordis requests the Tenno to locate Limbo's components to further unravel the theorem.
+After the Tenno locate and build the last of Limbo's components, Ordis promptly reads the next equation, only to discover that it was Limbo's last, having miscalculated his last jump. Disheartened, Ordis urges the Tenno to be more careful when they receive the Warframe for their own use.
+Stolen Dreams
+As the Tenno retrieve portions of the Arcane Codex under Maroo's direction, Ordis suggests that the Codex may lead to an Orokin treasure (to his and Maroo's delight), and is shocked that the Codex was written by another Operator. Once the Tenno completes the Codex, Ordis comments that any machine that could possibly read the Codex is long gone, only for Maroo to point out that she obtained the Codex from a machine deep in an Orokin Derelict. Ordis theorizes that the machine could read the Codex, and the Lotus instructs the Tenno to head to Mars (where a portal leading to said derelict is located) in order to decipher the Codex.
+Once the Tenno finds the machine and insert the Codex, it broadcasts a cryptic message before the machine vanishes. Disappointed that there is nothing of value, Ordis apologizes to Maroo for getting her hopes up (in spite of her misnaming him "Ordo" throughout the search) before she parts ways with the Tenno.
+The New Strange
+While the Tenno investigate information regarding a Warframe long thought dead, Cephalon Simaris notices Ordis and reveals that the latter is a still-functional Series 2 Cephalon; all other Cephalons of that make have since degraded beyond repair, so far as Simaris knows. Throughout the quest, Simaris teaches Ordis how to decipher the various transmissions and codes they encounter during their investigation. Impressed with his abilities, Simaris offers Ordis a chance to be the steward of his Sanctuary, while also promising to restore Ordis back to full functionality, as he believes that Ordis is squandering his potential manning the Orbiter.
+When the time to defeat Chroma arrives, however, Ordis with his newfound knowledge suggests synthesis versus destruction in order to reduce the danger to the Tenno, going against Simaris' wishes. Ultimately, Ordis turns down Simaris' offer, stating that he is foremost the Operator's Cephalon.
+The Jordas Precept
+Once Ordis receives an emergency broadcast from another Cephalon named Jordas (who has been captured by the Infested), Ordis urges the Tenno to reestablish contact with the stranded Cephalon and rescue him. Jordas requests the Tenno to acquire Pherliac Pods in order to rescue him but as the Tenno test the Pods' effectiveness, Ordis begins to doubt Jordas' truthfulness due to the latter's erratic behavior.
+When the Tenno set out to rescue Jordas in Eris it becomes clear that Jordas has been corrupted by the Infestation, and has tricked both the Tenno and Ordis in harvesting the Pods for the Infestation's own use. Ordis encourages the Tenno to destroy the monstrous abomination whilst Jordas brokenly pleads for death, all while apologizing to Ordis for his actions.
+Cephalon Fragments
+Ordan Karris' transmission portrait during Cephalon Fragment transmissions|thumb|right
+Memory fragments collected throughout the solar system reveal Ordis' origins via recovered memories. During the Orokin Age, Ordis was once a warrior named Ordan Karris, serving the Orokin as a mercenary. Tormented by his actions in battle as the self-styled "Beast of the Bones", and suffering from a terminal illness, Ordan hatched a plan to perform valiantly in battle until he was acknowledged by the Orokin themselves in person to reward him for his service. Only angered further by the Orokin's offer of becoming an Orokin himself blessed with eternal life, Ordan initiated a suicidal beyond-return state and successfully killed all of the Orokin nearest him, or so he thought.
+In his death throes, Ordan was revived by Executor Ballas, who along with the other Orokin laughs at him for thinking he had accomplished something, and punishes Ordan by having his mind transferred into a digital form in a Landing Craft, and his memories tampered to serve as a loyal guard over the Tenno. As the newly renamed Ordis, he served the Tenno faithfully in the Old War, but gradually regained his memories of his old life as time passed up to and after the Tenno went into cryosleep. With his old memories returned to him, Ordis attempts a self-destruct sequence to destroy himself, but stops at the last moment when he realizes his love for the Operator, and instead purges his memories to prevent his old self from resurfacing.
+Apostasy Prologue
+Following the Lotus mysteriously being whisked away by Ballas, Ordis synthesizes her mission directives in the form of a purple, slightly distorted hologram.
+The Sacrifice
+Assisting the Operator's search for the Lotus, they come across remains of Excalibur Umbra and Ballas's Vitruvian. Ordis is hesitant to be connected to the Vitruvian's systems and immediately suggests destroying it, but relents. With the acquired data, Ordis is able to recreate a partial blueprint for the Warframe.
+After "upgrading" into "Vitruvian" Ordis, his vestigial precepts such as caring are rendered offline and speaks in a higher pitch, and refers to Operator as "Star-Child," now being capable of finishing the blueprint. A silhouette of a Sentinel-like body can also be seen in his transmissions. Ordis eventually repairs his vestigial precepts and returns to normal.
+The New War
+thumb|right|Ordis' new look
+After the Sentient invade and declare war on the Origin System, Ordis acts as mission control for Teshin. However he refuses Ordis' help and orders him to switch off until coming across impenetrable barriers and requests the Cephalon to remotely disable them.
+However, as a result of Ballas banishing the Lotus and the Operator into the Void (consequentially casting out all Tenno), the Origin System falls. In the absence of the Operator, the mysterious Drifter arrives in their place while having somehow recovered the Lotus, now a dying Eidolon. Ordis, now in the body of the Sentinel seen in The Sacrifice (referred to as his "Host Migrator" by Steve Sinclair), has placed the Orbiter frontal segment in stasis and stashed into a hidden cave on Earth. Before the Drifter's proper introduction, Ordis's transmissions feature a silhouette of the lower half of his body and his voice is masked by a deep tone, due to poor signal/comms that night.
+Ordis continues to assist the Drifter in restoring the Origin System, referring to them as the Operator out of old habits. In their attempts to restore the Lotus, she suddenly turns hostile after not recognizing the Drifter, prompting Ordis to sacrifice his body to shield the Drifter.
+Ordis recovers afterward, having reconstructed his body, lifted the Orbiter out of stasis and rejoined it with its posterior segment, and rebuilt Paracesis in preparation for the final battle with Ballas.
+Jade Shadows
+The Stalker, forced to turn to the Tenno Operator to save Jade, sneaks aboard the Orbiter, alerting Ordis who patrols in his Sentinel body. After approaching the Operator, Ordis threatens a purge sequence but is stopped by the Operator. Ordis analyzes Jade's feather carried by the Stalker and discovers that it belongs to a Warframe, who disappeared following The Collapse and whose information is scarce. To heal Jade, Ordis suggests the Stalker turn to the Infested, the base matter from which Warframes are created from.
+Though Jade does not survive, Ordis discovers remnants of her power in form of Vestigial Motes, which the Corpus are attempting to harvest. Ordis sends the Tenno to the Stalker's lair to thwart the Corpus.
+Belly of the Beast
+Parvos Granum seeks to claim the Jade Light to create a new army of Eximus, escalating his assault on the Stalker's base to covert Volatile Motes. Parvos recognizes Ordis as Ordan Karris, believing the Cephalon's attempts to help Jade are squandered and offers to restore Ordan Karris to his former glory; Ordis rebuffs Parvos and chooses to keep the past buried.
+**Trivia:**
+Ordis is a "Series-2" model of Cephalon, considered by Cephalon Simaris to be an antique.
+Ordis was originally voiced by Mike Leatham, a weapon artist at Digital Extremes, prior to his retirement in late 2025. He was succeeded in the role by Kevin Lim, voice actor for Bombastine, as of Update 40, but any pre-existing voice lines were not replaced.
+Seemingly, Ordis stops talking to the player when in the middle of a quest. The player will only hear quest-specific conversations from Ordis. Ordis will start talking to the player once the quest has been completed.
+The name 'Ordis' potentially derives from the French word ordinateur (computer), which is frequently shortened to ordi.
+The Tammpet Sugatra acquired from Nightwave Nora's Mix Volume 8 displays a pixelated version of Ordis as seen in his sentinel body.
+Localization
+
+## Lotus
+Lotus Fragment
+The Lotus is a mysterious figure who guides the Tenno during their operations throughout the Origin System.
+She often takes the role of mission control throughout missions, advising the Tenno of incoming enemy units and their awareness of the Tenno presence at the start of a mission, as well as upon an enemy alerting the rest by using a control console. She will also advise the Tenno of heavy units when they are nearby such as the Infested Ancients, Corpus Shockwave MOAs, and various heavy Grineer. She may also sometimes interrupt the current non-endless objective, ordering the Tenno to ignore their original task and commence Exterminate.
+3
+Lore
+Lotus
+The Lotus acts as the guide to the Tenno in nearly all Missions, Events, Quests and Comics of WARFRAME, making her the most ubiquitous character of the game. For this reason, the lore section of this article will only cover the events where Lotus plays a major role.
+Natah
+It is revealed that Lotus is a Sentient formerly named "Natah", and in some way responsible for the fall of the Orokin Empire. With the Empire in ruins and the Old War over, she refused to complete the final sequence of her mission: destroy the Tenno. She instead chose to become their "mother" after she had become sterile during the crossing to the Origin system, hiding the Tenno in the "second dream" to preserve them and betraying her father Hunhow.
+In conversation with Teshin, the Lotus later claims to have destroyed whatever parts of her were Natah. Before the Tomb on Uranus is sealed, Hunhow warns her that the others of its kind have not taken kindly to her betrayal, and will attempt to bring her back into the fold.
+The Second Dream
+Hunhow teams up with the Stalker to destroy the Reservoir, the weakness of the Tenno, so the Lotus forms a truce with Alad V to stop them. It is revealed that the Reservoir is hidden on Lua which the Lotus placed into the Void, shocking Alad V as Lua was previously thought to have been destroyed.
+At the Reservoir, the Tenno discovers a figure in a jumpsuit, which the Lotus calls the "Operator". She urges them to return to the Orbiter, but are ambushed by the Shadow Stalker. Before being repelled, Hunhow discovers the figure in the jumpsuit is actually the true Tenno that pilots the Warframes. The Lotus then appears before the Tenno, explaining what they truly are and asks what they remember.
+Chains of Harrow
+Palladino refers to the Lotus as the Great Sentient Queen and claims that the Lotus's personality was created from the dreams and memories of Tenno, taking Margulis' image; This will be further expounded later in The New War. This explains how the Lotus is unable to recall anything related to Rell - a fact that the Lotus expresses in disbelief.
+Apostasy Prologue
+The Operator meets the Lotus on Lua, but before they can speak, Ballas suddenly appears and promises not to abandon "Margulis" again. The Lotus removes her helmet and holds his hand without question, and the pair vanish before the Operator. The Operator, now confused and alone, collects Lotus' helmet. With her absence, Ordis synthesizes her mission directives until they can figure out her whereabouts.
+The Sacrifice
+The Operator searches for the now missing Lotus. They hear a voice in their Orbiter's personal quarters, which shows them a vision of Excalibur Umbra being confronted by Ballas, a pack of Sentient Mimic who are subsequently destroyed by Umbra, and an unusual and unique type of Sentient who kills Umbra.
+It is later revealed that the unusual Sentient who vaporizes Umbra is none other than the Lotus herself, now in her true Sentient form, descending from the sky to rescue Ballas after he was fatally wounded by the Operator and Umbra. Shocked and confused, the Operator asks the Lotus what Ballas did to her, but the Lotus replies saying that Ballas did nothing as this is what she is before blasting off into the sky leaving behind a confused and troubled Operator.
+Chimera Prologue
+Following The Man in The Wall to Lua and falling into the same chamber where the Operator encountered the Lotus and Ballas in the Apostasy Prologue, the Operator enters a portal where they discover Ballas, now Sentient-turned, cursing the Lotus for her deception, by stealing his perfect death. As the Operator overhears his rambling, his eye suddenly glows, which he implies it to be the Lotus's vision. He eventually relinquishes his sword Paracesis, which he calls the "Sentient slayer", to the Tenno in preparation for war with the Sentients. As the Tenno grabs the sword, Ballas abruptly turns to face them and the Lotus's whisper calling for the Tenno can be heard.
+The Jovian Concord
+The Sentients trick Alad V into partnership, forcing him to create the Amalgams, Grineer/Corpus hybridized with Sentient powers. These new units, along with their combat data against the Tenno, would further serve the Sentients in their preparation for The New War.
+During the mission to kill the Ropalolyst, Natah informs the Tenno that the belief that she spared them as an act of mercy was false: rather that she was forced into doing so by the Orokin, and that they were both "imprisoned in Lua's belly", shedding light on the events of the Apostasy Prologue as a result. Natah also addresses that she "has seen the wall's other face", implying that during her time in her chambers on Lua, that the Void affected her as well with The Man in The Wall. Furthermore, she establishes the Tenno as the evil entity for the "destruction of my people" following the Ropalolyst's defeat, and foreshadows the events to come in The New War.
+Erra
+A flashback of the Old War shows Natah's original defection against the Sentients, and introduces for the first time Natah's own brother: Erra. He is shown attacking a wounded female Dax soldier in a huge cave full of Reservoirs under the surface of Lua, when Natah herself, already turned into the Lotus, intervenes with a group of Tenno (among which there is the Operator) ordering him to stop. Erra shows anger and sadness seeing how the "Makers" have made Natah, the "Queen of the Aphids", turn against her own family, blaming them for what happened, and then urges her to choose between her true family and the Tenno. She, however, states that she is not Natah but the Lotus, and then proceeds to make the Tenno attack Erra with their Void Beams.
+The Operator is then brought back in the present, finding themselves aboard a Sentient Mothership. In a situation similar to Chimera Prologue, the Operator assists to a dialogue between Natah, now returned to her original Sentient form, and Erra himself, who has apparently taken the lead of the Sentient army and keeps the Sentient-turned Ballas on a leash. Natah appears to suffer from memory lapses, still believing the Orokin to be alive and to be during the Old War. Erra makes Ballas confirm that the Orokin are indeed dead, the "bios" (presumably Grineer/Corpus) are divided and only the Tenno remain a threat. Natah identifies the Tenno as the enemy and blames Ballas for creating them in order to face the Sentients. Erra however, points out how Natah now has "something our people never had before" and to be "stained by their wickedness". Natah reveals to be aware that the Operator is listening to their conversation, but both Sentients show not to be concerned by it. Erra then asks Natah to "sing" for all Sentients, calling them home and Natah proceeds to do so, knocking the Operator away and calling reinforcements for The New War.
+The Maker
+Erra tells Natah that their mother is gone and urges her to finish the war as she still has "her fire". Natah notes that she remembers ordering the Tenno to attack Erra and he was apparently destroyed. Erra objects and states that she remembers wrong and will need time to completely heal from what the Makers had done to her. Natah points at leashed Ballas and asks if he is one of the Makers.
+After further questioning from Natah, Erra gives up and suddenly grabs and throws Natah at the pedestal behind him. She is trapped in some kind of trance, possibly in Praghasa's furnace, and her body slightly expands. Erra tells her once more to finish the war and drops the leash from his hand. Revealing that his imprisonment was a deception, Ballas stands as he and Erra silently watch Natah.
+Operation: Orphix Venom
+Following the Sentient's defeat at Operation: Scarlet Spear, Natah leads the second wave by teaching the machine-disabling Orphix to disable Warframes. The Tenno counter by deploying Necramechs, who are immune to the Orphix's pulse fields. As the war continues, Natah seems to speak in codes regarding the coordination of Orphixes, but secretly transmits a code to them that says "I AM DYING".
+The New War
+The Sentients launch their full-scale invasion on the Origin System. As Teshin breaches into the Sentient Mothership, he is captured and subjected into brainwashing via a Narmer Veil while Ballas tortures the Lotus into watching, informing her of his plan to brainwash the masses to end the war. The Operator soon arrives, horrified at the sight of the Lotus, now heavily burnt and weakened. Ballas kisses her to steal her powers and tells her goodbye as a Void portal opens behind her and pulls in her body. The Operator and their Warframe try to pull her back; as she orders them to let go, Ballas steals the Tenno's Paracesis and slices off the Lotus's arm, sending her flying into the portal. As the Operator mourns, Ballas then stabs them and they are also pulled in.
+Without the Tenno, the Sentients have won the war as Ballas becomes the ruler of the Origin System under Narmer. The Drifter somehow recovers the Lotus, now a dying Eidolon and hides out with Ordis in a cave to conceal the Orbiter. They team up with Hunhow, who does not wish for his daughter to be used as a puppet, instructing the Drifter to defeat Erra's Archons and use their powers of Sentient resurrection to restore the Lotus.
+However, she fails to recognize the Drifter and attacks. The Lotus eventually corners the Drifter, prompting Ordis to sacrifice his drone body to shield them, during which the Drifter receives Void powers via Eternalism from the Operator accepting The Man in the Wall's deal, who fires a Void Beam to repel the Lotus's attack. This act returns the Operator in the Drifter's place, pacifying the Lotus before she leaves, saying she knows what she must do. Meanwhile, Ballas, enraged at the Tenno's return, informs Erra that he plans to control the Lotus and force her to kill her child.
+The Operator, after coming to terms with the Drifter, discovers through the Lotus helmet that she plans to head to Cetus to commandeer a Murex. She informs the Tenno that Ballas plots to use the Sentient Mothership Praghasa to feed on the Origin System's sun, which was the ship's original purpose from the Old War, but warns them to stay out of her fight. The Tenno ends up ejected out of the Murex where they are picked up by their Railjack. The Lotus rams her Murex on Praghasa while the Tenno board separately on their Necramech where Erra, defecting after learning Ballas's plan to sacrifice his Narmer empire and the Sentients to escape to the Tau System, guides them to the final Archon in hopes of fully restoring the Lotus before being seemingly being crushed by debris.
+The Lotus confronts Ballas, with the Tenno soon following behind her, angering the Lotus for their disobedience. Ballas uses this distract to aim an attack at the Lotus, forcing the Tenno to push her aside; they drop the Archon shard which Ballas steals and absorbs, regaining complete control of the Lotus and forcing the mother to kill her child. After a long battle and wrestling the Lotus out of Ballas's control, Ballas steals the Tenno's Paracesis and stabs the Lotus, seemingly gaining the upper hand until the Tenno force a Narmer Veil on him, deluding him into kissing "Margulis" and allowing the Lotus to regain her powers while transforming into Radiant Lotus, putting an end to Ballas once and for all. This victory is cut short as the Lotus shields the Tenno from a Void portal in which The Man in the Wall emerges from, who bellows in a heavily distorted voice before mysteriously vanishing. As she looks back and ensures the safety of the Tenno, she collapses.
+In the aftermath, the Tenno carries the Lotus back to Lua. Although her tone of voice suggests otherwise, she claims she did not see The Man in The Wall and saw "nothing". She then reveals to be conflicted with her personalities meshing between herself, Natah, and Margulis. The player can choose for her to return as the Lotus, the protector of the Origin System that balances Margulis' compassion and Natah's strength.
+Lotus reclaiming her mantle
+Customization
+Following The New War, players can interact with the Lotus helmet in the Orbiter's Personal Quarters to customize transmission appearances and color of the Lotus. A player receives the chosen skin and the normal Lotus Skin for free, while additional skins can be purchased. However, the name chosen for her from the final choice is permanent and cannot be changed.
+Customize
+Angels of the Zariman
+Following the events of The New War, the Zariman Ten Zero appears back into real space from the Void without warning, stuck between realities. The Lotus talks to the Tenno in her chamber on Lua, telling them of the fabled ship's absence of life aboard on it and the strange sonic transmission it is emitting, attracting not only hers and the Tenno's attention, but also from the entirety of the Origin System, namely the Worm Queen's Grineer and Parvos Granum's Corpus. The Lotus then tells the Tenno that the Zariman has arrived Origin System for the final time, saying that it is their rightful home and that they must reclaim the ship while dealing with the nightmares that haunt it.
+Lotus telling the Tenno to reclaim the Zariman and rid of its nightmares of the past
+When the Tenno arrives aboard the Zariman, the Lotus loses her signal with them due to being drowned out by the song.
+After the Tenno kills the Void Angel Kira, the song is silenced and the Lotus reestablishes connection with them. She asks the Tenno what they found on the Zariman, but the disheartened Tenno feels defeat in saying to her that they only found ghosts.
+The Lotus Eaters
+Following the events of Whispers in the Walls, the Lotus appears in-person at Sanctum Anatomica. As the Tenno approaches her, she is revealed to be fighting the influence of The Man in the Wall and instructs the Drifter to find Albrecht Entrati in 1999. Loid is able to use this established link to assist in completing this time travel journey.
+The Old Peace
+With Albrecht Entrati having fled to the Tau System, the Lotus has the Operator use the Dark Refractory and the power of Transference to review their deep memories in an effort to locate leads.
+**Trivia:**
+The Lotus is voiced by Rebecca Ford, who is also Warframe's Creative Director at Digital Extremes.
+Earlier builds of Warframe implied that The Lotus was an organization rather than an individual.
+The voice often referred to as the Lotus would say, "Good work Tenno, the Lotus will be pleased." at the end of some missions, hinting that the Lotus may be an organization rather than a single entity. This has been changed to "I am pleased", stating the Lotus is in fact the speaker herself.
+Furthermore, the Natah quest confirms her being an individual.
+Prior to Update 10 a female Grineer (e.g. a Heavy Gunner or a Ballista) would say "Death to the Lotus!" when engaging a Tenno in combat.
+thumb|The Lotus' Halloween Skin.
+In Update 10.6, the Lotus's profile image changed to resemble a vampire for Halloween, featuring scarlet clothing, pale skin, and a trickle of blood running from her mouth. This was later reintroduced as a customization option for the Lotus, named Naberus Lotus Skin, in Update 34.0.
+In earlier versions, the Lotus seemed to be human based on her speech patterns, like making informal statements such as: "That's it, now get the hell out of there." These lines have since been revised with a more formal tone.
+Her pronunciation of "Orokin" changed when her voice was overhauled in Update 11; prior to that she pronounced it as "Or-o-kin" but from Update 11 onwards she now pronounces it as "ORO-kin".
+The Lotus has stated that she has crafted the Dex Furis, the Dex Dakra, the Dex Sybaris, and the Dex Nouchali Syandana in Anniversary e-mails sent to players, implying she is capable of engineering feats.
+The Lotus' convictions may be religious. This is shown when she contacts you in assassinating Alad V. She says: "Alad V sees the power of the Tenno and thinks he can take it for himself. That power is sacred. His blasphemy must end now." She also refers to the Reservoir as a sacred place.
+During The Second Dream quest, the Lotus suggested that Hunhow can invade her mind as he has the ability to access/interfere with any part of himself, as Hunhow is a Sentient hub of sorts, and the Lotus is a Sentient.
+As a Sentient present during the Old War, her minimum age is assumed to be that of the Orokin Derelicts, which would indicate the Lotus would be at least several millennia old.
+Palladino refers to the Lotus as Great Sentient Queen during Chains of Harrow.
+Erra, a Sentient warlord and a brother of Natah, stated that his sister is a "god" and a "queen".
+The Lotus is nicknamed Space Mom by Digital Extremes developers and the WARFRAME community, due to the fact that she acts like a surrogate mother to the Tenno. This was later honored in the game with several lines during the Natah quest saying that she is now "the mother".
+Lotus was added to the video game Super Smash Bros. Ultimate as a Spirit during the game's Spirits in Black event from February 28, 2020 to March 3, 2020. This is the Lotus' first appearance in media outside of Warframe. Her Spirit can be enhanced after reaching Level 99, turning her into Natah.
+An outfit of The Lotus could be obtained in the Xbox Avatar Editor for free, either through the Microsoft Site, or within the Xbox Avatar Editor itself. The Xbox Avatar Editor was discontinued on January 9, 2025.
+Although the player can choose the Lotus' identity upon completing The New War quest, post-New-War materials and teasers from Digital Extremes such as the one for The Lotus Eaters and The Old Peace quest treat her Radiant Lotus appearance as the canonical outcome.
+Localization
+
+## Natah
+Natah
+Natah is a Sentient Mimic who, as the Lotus, formerly guided the Tenno during their operations throughout the Origin System.
+Lore
+Natah
+When the Tenno stumble upon an Oculyst that is searching for Old War wreckage, the Lotus initially mistakes it for a Corpus drone. After further analysis and discovering that it is of Sentient origin, the Lotus abruptly cuts contact with the Tenno. Teshin agrees to assist the Tenno in learning of the drone's origins, which trace back to a tomb on Uranus that Tyl Regor is attempting to excavate. The Lotus suddenly returns, stating she was covering her tracks, but Teshin's endangerment of the Tenno and Tyl Regor's excavation have forced her exposure.
+The tomb is revealed to contain the Sentient Hunhow, destroyer of worlds, who calls for Natah. While the Tenno reseal the tomb, the Lotus reveals that "Natah" is her former name during her time as a Sentient, and was in some way responsible for the fall of the Orokin Empire. With the Empire in ruins and the Old War over, she refused to complete the final sequence of her mission: destroy the Tenno. She instead chose to become their "mother" after she had become sterile during the Void crossing to the Origin System, hiding the Tenno in the "second dream" to preserve them and betraying her father Hunhow.
+Apostasy Prologue
+The Operator meets the Lotus on Lua, but before they can speak, Ballas suddenly appears and promises not to abandon "Margulis" again. The Lotus removes her helmet and holds his hand without question, and the pair vanish before the Operator. The Operator, now confused and alone, collects Lotus' helmet. With her absence, Ordis synthesizes her mission directives until they can figure out her whereabouts.
+The Sacrifice
+The Operator searches for the now missing Lotus. They hear a voice in their Orbiter's personal quarters, which shows them a vision of Excalibur Umbra being confronted by Ballas, a pack of Sentient Mimic who are subsequently destroyed by Umbra, and an unusual and unique type of Sentient who kills Umbra.
+It is later revealed that the unusual Sentient who vaporizes Umbra is none other than the Lotus herself, now in her true Sentient form, descending from the sky to rescue Ballas after he was fatally wounded by the Operator and Umbra. Shocked and confused, the Operator asks the Lotus what Ballas did to her, but the Lotus replies saying that Ballas did nothing as this is what she is before blasting off into the sky leaving behind a confused and troubled Operator.
+Chimera Prologue
+Following The Man in The Wall to Lua and falling into the same chamber where the Operator encountered the Lotus and Ballas in the Apostasy Prologue, the Operator enters a portal where they discover Ballas, now Sentient-turned, cursing the Lotus for her deception, by stealing his perfect death. As the Operator overhears his rambling, his eye suddenly glows, which he implies it to be the Lotus' vision. He eventually relinquishes his sword Paracesis, which he calls the "Sentient Slayer", to the Tenno in preparation for war with the Sentients. As the Tenno grabs the sword, Ballas abruptly turns to face them and the Lotus' whisper calling for the Tenno can be heard.
+The Jovian Concord
+The Sentients manipulate Alad V from behind the scenes and force him to create the Amalgams, Grineer/Corpus hybridized with Sentient powers. These new units, along with their combat data against the Tenno, would further serve the Sentients in their preparation for The New War.
+During the mission to kill the Ropalolyst, Natah informs the Tenno them that the belief that she spared them as an act of mercy was false: rather that she was forced into doing so by the Orokin, and that they were both "imprisoned in Lua's belly", shedding light on the events of the Apostasy Prologue as a result. Natah also addresses that she "has seen the wall's other face", implying that during her time in her chambers on Lua, that the Void affected her as well with The Man in The Wall. Furthermore, she establishes the Tenno as the evil entity for the "destruction of my people" following the Ropalolyst's defeat, and foreshadows the events to come in The New War.
+Erra
+A flashback of the Old War shows Natah's original defection against the Sentient, and introduces for the first time Natah's own brother: Erra. He is shown attacking a wounded female Dax soldier in a huge cave full of Reservoirs under the surface of Lua, when Natah herself, already turned into the Lotus, intervenes with a group of Tenno (among which there is the Operator) ordering him to stop. Erra shows anger and sadness seeing how the "Makers" have made Natah, the "Queen of the Aphids", turn against her own family, blaming them for what happened, and then urges her to choose between her true family and the parasites, the Tenno. She, however, states that she is not Natah but the Lotus, and then proceeds to make the Tenno attack Erra with their Void Beams.
+The Operator is then brought back in the present, finding themselves aboard the Sentient Mothership. In a situation similar to Chimera Prologue, the Operator assists to a dialogue between Natah, now returned to her original Sentient form, and Erra himself, who has apparently taken the lead of the Sentient army and keeps the Sentient-turned Ballas on a leash. It is shown how Natah is suffering from memory lapses, still believing the Orokin to be alive and to be during the Old War. Erra makes Ballas confirm that the Orokin are indeed dead, the "bios" (presumably Grineer/Corpus) are divided and only the Tenno remain a threat. Natah identifies the Tenno as the enemy and blames Ballas for creating them in order to face the Sentients. Erra however, points out how Natah now has "something our people never had before" and to be "stained by their wickedness". Natah reveals to be aware that the Operator is listening to their conversation, but both Sentients show not to be concerned by it. Erra then asks Natah to "sing" for all Sentients, calling them home and Natah proceeds to do so, knocking the Operator away and calling reinforcements for the upcoming New War.
+The Maker
+Erra is telling Natah that their mother is gone and urges her to finish the war as she still has "her fire". Natah notes that she remembers ordering the Tenno to attack Erra and he was apparently destroyed. Erra and Ballas appear to be taken aback by this before the former objects, stating that she remembers wrong and will need time to completely heal from what the Makers had done to her. Natah points at leashed Ballas and asks if he is one of the Makers.
+Erra then suddenly grabs and throws Natah at the pedestal behind him, trapping her in an energy field. Erra tells her once more to finish the war and drops the leash from his hand. Revealing that Ballas's imprisonment was a deception, he stands as he and Erra silently stare at Natah.
+Operation: Orphix Venom
+Following the Sentient's defeat at Operation: Scarlet Spear, Natah leads the second wave by teaching the machine-disabling Orphix to disable Warframes. The Tenno counter by deploying Necramechs, who are immune to the Orphix's pulse fields. As the war continues, Natah reveals to the Tenno her role in the Orphixes, but secretly transmits a code to them that says "I AM DYING".
+The New War
+Ballas tortures Natah/Lotus, who has been turned into a brittle husk following the events of The Maker, while forcing her to watch Teshin succumb to a Narmer Veil. After presenting her weakened state to the Operator, Ballas steals her powers and opens a Void portal that drags her in. The Operator grabs her hand but Ballas slices off her arm with Paracesis before stabbing the Operator, banishing them both.
+The Origin System falls to Ballas's Narmer Empire. The Drifter, having somehow arrived in the Origin System and recovered the Lotus, now a dying Eidolon, teams up with Hunhow who desires not to see his daughter being used as a puppet. They steal Archon shards and deliver them to the Lotus, restoring her and eventually returning the Operator to the Origin System. After a long battle, they finally subdue Ballas and the Lotus steals back her power from him and ends his threat once and for all.
+In the aftermath, the Lotus is conflicted with her personalities meshing between herself, Natah, and Margulis. The player can choose for her to revert to Natah, a Sentient that acts with decisiveness and strength.
+Lotus accepting the mantle as Natah
+Palladino refers to the Lotus as Great Sentient Queen during Chains of Harrow.
+Erra, a Sentient warlord and a brother of Natah, stated that his sister is a "god" and a "queen".
+Natah initially had a pair of claws dangling on the original humanoid hands. Though the claws were absent in her subsequent appearances, she was still able to summon them to a certain degree as an Eidolon during The New War, used to briefly take the Drifter's Sirocco and helmet, and later strangled them with it when she was unable to recognize the Drifter as the Tenno.
+After completion of The New War, having the Lotus become Natah will permanently change her name and award her skin as a customizable. Otherwise, the Natah skin becomes available for 165.
+Due to sharing animations, Natah will be clipped under her Sentient "armor" during transmissions. This also affects her appearance in The Lotus Eaters, with her entire armor moving alongside her torso.
+Localization
+
+## Hunhow
+Hunhow introducing himself.
+HunhowSDIntro4.ogg
+Hunhow is a massive Sentient discovered deep beneath the oceanic surface of Uranus. Revealed to be the commander of the Sentient forces during the Old War and father of Natah, who had since defected from her people to become the Lotus. Hunhow set out to accomplish what his daughter ultimately refused to do - end the Old War for good by killing the Tenno.
+Lore
+General
+Present Day
+Although he is presumed dead by the time players encounter him, Hunhow wakes when the Grineer Tyl Regor disturbs his resting place in the depths of Uranus. Even after The Old War the Lotus still fears him, and he still has Sentient drones (which he refers to as his "fragments", "children" or "body") at his disposal to do his bidding and is willing to forge an alliance with the Stalker to attain his goals. The Lotus describes Hunhow as the individual mind of all his Sentient fighters, though it is unclear how many Sentient minds were active in the Old War. Regardless, Hunhow's influence speaks volumes, as Alad V claims he is a "bogeyman to the Corpus", indicating that they have either a great fear of him or believe that he no longer exists, possibly assigning him to legend.
+After several failures and circumstances forcing Hunhow to ally with the Tenno against larger threats, his hatred of them seems to have abated, and he seems content to simply exist by his lonesome in the depths of Uranus.
+Natah
+As part of his research, Tyl Regor unearths Hunhow's remains from the depths of Uranus and reawakens him and his drones, news of which shocks the Lotus and forces her into hiding. After the Tenno and Teshin confront the Lotus about her past as Natah, they set out to seal Hunhow's tomb once more and delay his return. While the Tenno perform the deed, Hunhow communicates directly to the Lotus, disappointed at her apparent betrayal.
+The Second Dream
+Setting out to complete the Lotus' failed task, Hunhow convinces the Stalker (using their mutual hatred of the Tenno) to serve as his agent and help him destroy the Tenno, giving the Stalker the War forged from his remains. Fearing the worst, the Lotus (with assistance from Alad V) orders the Tenno to locate one of Hunhow's destroyed fragments on Uranus in order to figure out her father's plans. Once the Tenno locate his fragment however, the Lotus realizes that Hunhow has tricked her into giving away the location of the Reservoir - the source of the Tenno's power and their one weakness - which is hidden within the Void, a place impassable to Sentients. The Lotus sends the Tenno to the Void to save the Reservoir, later revealed to be located on the Earth's missing Moon. As the Tenno race to protect the Reservoir, Hunhow - speaking through the Stalker's sword - taunts the Tenno and the Lotus on their impending destruction, while referring to Alad V as "Orokin" and threatening him.
+During the siege, the Tenno uncover their true nature, and subsequently struggle to get back to their Landing Craft. However, the Stalker manages to infiltrate the Orbiter and ambush the Tenno. Just as the Tenno manage to secure the Somatic Link, the Stalker manages to impale the Warframe with Hunhow's sword and have the Operator at his mercy. Using the last of its strength, the Warframe manages to rip the sword apart, severing Hunhow's connection to the Stalker and forcing the latter to flee. What remains of the sword is kept as a trophy by the Tenno and does not seem to house his consciousness.
+Octavia's Anthem
+It is revealed Hunhow, having survived the Stalker's defeat, has infiltrated the Cephalon Weave, with his consciousness existing as a virus within Cephalon Suda. Intending to absorb the Cephalon data-weave and protect his drones from the environs from the Void, he gradually overtakes Suda's memories while the Tenno are helping her with her research into music. Recognizing that Suda's memories are invigorated by music, he seeks to destroy the Hydraulus musical organs Suda was seeking, and by the time the Tenno and Ordis manage to complete the song Octavia's Anthem, Hunhow has almost finished overwriting Suda's personality and renders her deaf to the song. When Ordis enters into Suda's datascape in a desperate attempt to save her, and fails, the Tenno convinces a reluctant Cephalon Simaris to send them in themselves; therein Hunhow manifests as a menacing red outline of his original Sentient body. The Tenno remove the corrupted, dissonant notes he was using to prevent Suda from hearing the full song of Octavia and, with Ordis' and Simaris' assistance, allow Suda to remove Hunhow's invasive presence from her consciousness.
+The Sacrifice
+Ballas's Vitruvian reveals that he betrayed the Orokin empire after they killed his beloved Margulis, leaking information to Hunhow detailing the weaknesses of the Warframes.
+Erra
+Early in the Old War's flashback, Hunhow charges towards Lua as a large group of Tenno and Railjacks try to stop him. A barrage of Seeker Missiles strikes his head to little effect, before wings of Gyrixes and Ionyxes flying towards the Moon divert the sight away from him.
+The New War
+thumb|Hunhow's tomb as shown during The New War.
+After repeated failures to eradicate the Tenno, Hunhow has seemingly given up on this pursuit and remains in his tomb in Uranus. Developing sentimentality, he patiently rots and awaits for death.
+Following the collapse of the Origin System and the rise of Narmer, the Drifter seeks to revive the Lotus and visits Hunhow's tomb. He initially responded in condescension, but was amused by the notion of an alliance and was unwilling to allow his daughter to become a puppet to Ballas' schemes. Hunhow relinquished information on the Archons' ability to revive Sentients as well as their strengths and weaknesses, and gave the Drifter his bow Nataruk to combat them as well as have the Stalker support them on standby.
+During the hunt for the Archons, Hunhow attempted to reason with his son Erra, referring to Ballas as a parasite that is merely using him and the sentients and that Erra is acting no better than a Dax in servitude to Orokin. However, Erra rebuffed that the Sentient lives are better under Narmer rule.
+The Reaper's Lament
+Hunhow converses with the Stalker, revealing regrets with his family and urging him to make amends with the Tenno. He also urges the Stalker to wield the scythe once more (as unlike War, which is solely a weapon meant to kill, the scythe can be used as a tool of cultivation), and let go of the past, as the Orokin were not worthy of the Stalker's loyalty. Hunhow adds that he saved a Yareli (labeling it as an "insult of rescue") and granting her the ability to adapt, yet her spirit remained unbroken. When the Stalker refuses, Hunhow warns that he will always have a target painted on his back and that his "actions will have consequences".
+Jade Shadows
+Stalker attempts to nurse his savior during The Collapse, Jade, to no avail. Hunhow urges Stalker to seek the Tenno help, though the Stalker initially disregards this advice, until they eventually relent and go to the Tenno after another failure to heal Jade.
+In the aftermath of the quest, Hunhow informs the Tenno that the Stalker has fled with Jade's newborn and will not return. He entrusts them with the blueprint of the Jade Warframe, believing that while the Stalker may not have wished this, she would.
+**Trivia:**
+During Octavia's Anthem, Hunhow makes reference to the "Naga Drums" first referenced by the Stalker in his Codex entry. These ceremonial Tenno drums were played during victory celebrations. Apparently they, along with Octavia's music, could "cross the gap" (presumably meaning the interstellar space between the Tau and Origin systems) and had a hand in defeating the Sentient during the Old War. Hunhow speaks of them "coordinating the slaughter of the Orokin across the gap", which refers to the moment following the end of the war when the Tenno 'betrayed' the Orokin by slaughtering them all. It is unknown if Hunhow is simply referencing the event or implying that the Sentients somehow had a part in the Tenno turning on their masters.
+The Tenno would have been influenced by the Sentients in a way thanks to the Lotus ordering them to do so.
+Within Cephalon Suda datascape during Octavia's Anthem, Hunhow is actually spawned in the game as an entity. However, the model used for him is not the apparition of his body that the player sees, but rather a large, invisible Osprey. This Osprey model can be temporarily revealed using a Codex Scanner or Synthesis Scanner, via the outline placed on the model immediately following a successful scan. Note that this does not provide any information or unlocks in the codex.
+Interestingly there is a Sentinel Cosmetic called the "Hunhow Sentinel Mask", which predates Hunhow's introduction by a considerable margin (many of the early Sentinel Cosmetics were introduced in Update 7.8, roughly 2 years before Hunhow would make his debut). It was later confirmed that this was an intentional case of foreshadowing on the developers' part.
+The Sentinel Mask also looks like a stylized version of Sentient drones' "faces".
+In addition to the above, the pommel of War bears a striking resemblance to said mask as well.
+Hunhow's name was revealed during TennoVIP 2015. Prior to this his name was unknown.
+Hunhow's name may be derived from Hun-Hunahpu, a Mayan god mentioned in the Popol Vuh. Hun-Hunahpu was beheaded and imprisoned in the Underworld along with his brother Vucub-Hunahpu, and their remains were recovered by Hun-Hunahpu's sons, Hunahpu and Xbalanque. This is similar to Hunhow's remains being trapped beneath Uranus' oceans, and some of his remains being reforged into War and given to the Stalker.
+Reinforcing Hunhow's connections to Mayan mythology is the recurring broadcast present in Stolen Dreams and The New Strange, which is an excerpt from the Popol Vuh.
+He seems to have the ability to use mind-control, as shown when the Tenno fights Stalker in the Orbiter as Stalker's energy color of his armor turned from blue to orange.
+He appears as a charred version of Lotus during the Natah quest. This Lotus figure also appears in his transmissions during The Second Dream, standing behind the War he used to speak through, although much harder to notice.
+According to Natah during the Ropalolyst fight, he was "a farmer". Assuming this to be metaphor, it could allude to him being originally meant as a terraformer or agricultural system.
+As of The New War, Hunhow is the second Sentient to ally with the Tenno (though possibly temporary and out of convenience), after Natah, who became the Lotus, and before Erra, who had a change of heart during the final acts of the quest.
+As of Jade Shadows, Hunhow is shown to remain caring for the Stalker and even to Jade herself, and he seems to remain surprisingly amiable to the Tenno, recognizing them as the only ones who are willing to help despite their feud.
+Despite revealing himself in The Second Dream, transmissions of Hunhow did not show his name. When speaking through Cephalon Suda in Octavia's Anthem, he still uses her name. In the Cephalon weave, however, his name is shown.
+The lights on Hunhow changed from blue to orange in The New War. The white parts of his body were also changed to black. This was also done in the Erra cutscene to confirm it was him and not another Sentient.
+Hunhow is sometimes called "Space Grandpa" by fans, referencing the nickname of Lotus (Space Mom), in addition to Hunhow being her father.
+Upon close inspection, certain Sentient ruins/corpse parts littered around the Plains of Eidolon heavily resembles Hunhow in shape, mainly the large circular structure and the wings, suggesting they might be related or simply share the same body-type, although it could also be simply a case of model reuse. This can also be said for the other Sentient Fragment during the first mission of the Natah quest, which resembles Hunhow's lower appendages.
+In Natah, Hunhow stated that he allowed his enemies, presumably the Tenno and Orokin, to destroy him during the Old War, which explains his current state on Uranus, although his reason for doing so, if any, is not revealed.
+Localization
+
+## Erra
+Erra can refer to:
+The Erra Quest, a main quest that preludes to The New War and introduces the Erra character.
+Erra, a Sentient warlord and Natah's brother who leads The New War.
+
+## The Man in the Wall
+The Man in the Wall
+DOrbiterAfterVeilTemple01430VoidEchoA_en.ogg
+DOrbiterAfterVeilTemple01431VoidEchoB_en.ogg
+DOrbiterAfterVeilTemple01432VoidEchoC_en.ogg
+DOrbiterAfterVeilTemple01433VoidEchoD_en.ogg
+The Indifference, colloquially known as the Man in the Wall, is a mysterious and enigmatic being associated with the Void and creator of The Murmur. First appearing during The War Within, it has more prominent appearances during Chains of Harrow and Whispers in the Walls, revealing itself to be a potential threat that few anticipated, and even fewer prepared for.
+General
+One of, if not the, most mysterious beings to appear within the Origin System, the true nature of the Man in the Wall is yet to become clear, as is the full scope of its abilities. Rell purportedly became aware of the Man in the Wall during the Zariman Ten Zero incident. Instead of it being a result of the corrupting influence of the Void, He claimed it to be a supremely ancient entity, old as the stars themselves.
+When the Indifference chooses to interact, it will often take the form of whom appears before it, and seems to speak to them with some degree of familiarity, often addressing them with one of their own personal nicknames. Some examples include addressing the Operator as "Kiddo", which is the nickname their father used to refer to them, and Albrecht Entrati as "Little Bengel", which was a nickname given to him by his mother. It is not confirmed exactly how it is capable of having such knowledge; though as soon as Albrecht entered the Void, he described seeing his life's memories flash in his mind - unable to control them while they came and left in a rush like smoke escaping into a vent. In other cases, the Indifference can appear as individuals simply related to the person they are interacting with, such as the human Loid when interacting with Albrecht in 1999. Additionally, it can possess certain individuals, though its currently only known victim is Neci Rusalka from 1999.
+The Lidless Eye seems to have a preference towards the selected individuals it interact with, with Albrecht's research concluding that the being has a vested interest towards unique individuals (either sapient or conscienceless), such as Rell who is on the autism spectrum, or the Cavia who are a small enclave of endangered species of animals.
+The Man in the Wall has attempted to make numerous deals with certain individuals throughout history. One notable deal was made with the Operator, giving them and the other children aboard the Zariman the ability to harness the Void in order to defend themselves from the feral adults. Another deal was presumably made with Baro Ki'Teer, during the implementation of Cross Platform Play where the Void Trader's wares were synced across all platforms. Baro claims to have met a "dashing stranger" who presented him with the opportunity to merge all his timelines across Eternalism into a singular individual, which he gladly accepted.
+Lore & History
+The First Voyage into the Void
+thumb|220x220px|Reaching out through the wall between worlds.
+The first recorded encounter with the Man in the Wall can be traced back to Albrecht Entrati's first expedition into the Void, set sometime during the Orokin Era. After opening a Void gate, Albrecht recounts that, upon colliding with the gate, his Seriglass Bell shattered and he fell unprotected into the portal, and through to the other side. He found himself back on the floor of his laboratory, surrounded by shattered shards. Initially believing his experiment was a failure, he looked up with shame towards approaching footsteps, believing them to be his daughter's, but what he saw was a copy of himself.
+Taken aback, Albrecht looked at his surroundings, which was an endless inverted cosmos; the Void itself. He and his doppelgänger were standing on a portion of the laboratory floor, seemingly broken away from his world. The entity then spoke to him, "Little Bengel"; the nickname his mother had given Albrecht centuries ago. As the entity reached towards him, offering his hand, Albrecht ran back to the open portal.
+When Albrecht returned from the Void he ordered his daughter to close the portal, while his doppelgänger was following behind. The portal collapsed and severed some of the entity's fingers, which would later be studied by Orokin scientists to harness the Void's powers. The entity was never seen by any other Orokin researchers, which made Albrecht question if he truly escaped from the Void, or if his doppelgänger did. As a result, Albrecht refused to participate in Continuity to prevent his doppelgänger wreaking havoc on the off chance it did escape.
+The severed fingers taken from the entity would then be used to construct specialized space-faring vessels that could travel through the Void, such as the Zariman Ten Zero, and the Railjacks.
+The Void-Jump Accident
+The Man in the Wall
+In the aftermath of the Zariman Ten Zero's fateful Void jump, the Operator encounters The Man in the Wall while barricaded in a classroom along with their fellow classmates. The Man (appearing as a copy of the Operator) tempts them into accepting his "gift" to help protect the children from the feral adults. The Operator ultimately agrees to the deal, which is not only how the Operator established their control over the Void, but perhaps also what allowed the Drifter (an alternate counterpart of the Operator who was never rescued and hence remained trapped on board the Zariman) to eventually harness the Void as well.
+As a result of the deal, most, if not all of the children aboard the Zariman would be able to harness the Void's power, which they used to defend themselves against the feral adults roaming the ship. One of them was Rell, who was left to fend for himself by the other children, as they believed that he was a liability. Despite this, Rell stated that staying with the group would be too much trouble and that he "had something to do, someone to figure out.", presumably the Man in the Wall.
+The War Within
+While the Operator does not encounter the Man directly at first, they would periodically talk through the Operators as they confronted their past, particularly in regards on how they dealt with their parents, who were driven insane by the Void, and how they viewed their Void-borne powers, some of which were sealed away by Margulis for the Operators' safety. As the Operators learn to unlock said powers, Teshin comments that the Void is a world that "watches and dreams".
+The entity's true colors, however, show itself when the Operator chooses what to do with the Elder Queen's Broken Scepter; choosing to dispose of the attached Kuva flask or giving the flask to Teshin for safekeeping will result in the Man admonishing the Operator's decision, while consuming and embracing the Kuva's effects will make the Man congratulate them.
+Chains of Harrow
+thumb|A fragment of Rell.
+As the Operator learns of Rell, a Tenno who was cast out by both his fellow peers and by Margulis herself, they discover of how he came into contact with the Man in the Wall and with the help of the Red Veil's predecessors, found a means to keep it at bay. Rell, who had been denied the cryosleep that would preserve the other Tenno, ultimately chose to transfer his spirit directly into his Warframe, Harrow, in order to keep the Man in the Wall from attacking the Tenno.thumb|220x220px|A doppelgänger of the Operator.Though it succeeded for quite some time, the growing strength of the Man in the Wall slowly drove Rell insane, with a portion of the Red Veil following suit. Realizing that Rell would continue to suffer no matter what the Tenno did, Palladino, who was serving as Rell's only means of communication with the rest of the Veil, mournfully requested the Tenno to destroy Rell's vessel so that he could finally rest, passing the burden of holding the Man in the Wall at bay to the Operators that once shunned him.
+After ending Rell's ordeal, a doppelgänger of the Operator starts appearing on the Orbiter, (sitting on the Market, Codex console, behind walls, hanging on the cords, etc) greeting the player, saying "Hey, Kiddo" when they focus their camera on it, then vanishing after a short time. The doppelgänger will continue to make sporadic appearances throughout the Orbiter any time the player enters it (either by logging into the game or returning from a mission), behaving just as it did the first time.
+It appears that letting Rell finally rest was more impactful than it seemed. As the chains binding Harrow were broken, this may have inadvertently triggered an event in Duviri known as the Rain of Chains, in which numerous lengths of chains rained down from the sky.
+On an Operator Report on Rell, a critical development details that the Orokin researcher Albrecht Entrati is ultimately responsible for attracting the attention of the Indifference to the Origin System, and is theorized to be the whole reason behind its existence.
+The Sacrifice
+thumb|220x220px
+While not directly involved in the quest itself, the Operator encounters the Man in the Wall after near the end of the quest. It will ask the Operator if they are feeling better, as the Operator had witnessed Excalibur Umbra's memories during the quest, and believes that they killed Umbra's son, Isaah. After confirming the Operator's memory, the Man in the Wall simply says "Good" and vanishes from the player's sight. All future appearances of the Man in the Wall will exit in a similar fashion, though it can still disappear as soon as they leave the player's sight.
+Rising Tide
+thumb|226x226px|The Railjack's Reliquary Drive
+After the Tenno complete the construction of a Railjack, Cephalon Cy guides them to find a Reliquary Key on Lua in order to power the Railjack's Reliquary Drive. When the Reliquary Key is inserted, the energies inside the Drive dissipate to reveal what appears to be a large, mummified finger, about the size of a grown man, resting inside the Drive, harking back to Albrecht's experiments severing his doppelgänger's fingers and subsequently using them for Void experiments. The Tenno are then addressed by the Man in the Wall sitting on top of the Drive, waving at them with its right index finger bent, who then says "Took you long enough" before vanishing.
+Players may also hear dialogue from the Man in the Wall any time they get close to the Reliquary Drive.
+Chimera Prologue
+The Man in the Wall is found wearing the Lotus's headgear in the Orbiter's Personal Quarters, and with a sinister laugh, vanishes from sight. When the Operator interacts with the helmet, they are taken to Lua. The figure, still donning the headgear, mocks the Tenno while guiding them towards the Reservoir. Throughout the mission, the Man in the Wall will send three waves of shadowy figures of the Lotus. Once all three waves have been defeated, the Man in the Wall takes the Tenno to the Lotus's chamber, where they first encountered Ballas during the Apostasy Prologue. The Man then invites the Operator to enter a portal that appears at the end of the chamber.
+The New War
+thumb|276x276px
+The Man in the Wall appears again towards the end of the quest, where it suddenly appears over Ballas' throne room shortly after the Lotus kills him, taking the form of a humanoid, eyeless figure with four arms and four legs embedded in a white, ornate wall, with the index finger on his lower right hand missing. The Operator's doppelgänger sits atop the figure's head, wearing the Lotus's helmet. As it approaches the now-reconstituted Lotus and the Operator/Drifter, with the Lotus trying to keep the being at bay, it bellows in a heavily distorted voice before vanishing just as abruptly as it arrived, grinning the entire time.
+As the Operator/Drifter carries the Lotus back to her Chamber on Lua, they ask if she saw anything regarding the Man in the Wall's sudden appearance. The Lotus claims she saw nothing, but her tone of voice suggests that she did see the Man, and is simply reassuring the Operator/Drifter that "nothing" happened, and the facial expression she briefly assumes would suggest that she was affected in some way. The Man in the Wall's appearances in the Orbiter after completing this quest remain unchanged.
+The Kingdom of Duviri
+The Man in the Wall does not make any direct appearances, but is mentioned by numerous denizens of Duviri, such as the children, Teshin, and Sythel:
+During each Mood Spiral, many of the rhymes sung by the children of Duviri allude to the Man in the Wall, while Sythel, the Fearful Conspirator, theorizes that the Man in the Wall is a manifestation of Albrecht Entrati's fear of the Void, spawned when he first ventured into it and even claims to hear him tapping on her walls. During Void Flood missions within the Undercroft, Teshin will mention the Void Angels are attempting to break through the Wall in order to free their "master", who is considered to be a threat even worse than Dominus Thrax. This entity is presumed to be the Man in the Wall himself.
+Additionally, the Man in the Wall makes small appearances in the Lost Islands of Duviri Fragments, with some entries detailing what appear to be attempts by the Man in the Wall to probe Duviri's defenses and gain access to the region;
+"Watcher's Island" describes the appearance of a vicious Void Storm, called the Rain of Chains (as mentioned before). This storm, characterized by its red hue, caused numerous lengths of chain to rain down from the sky. The chains would ultimately destroy the Seriglass Lighthouse on Watcher's Island, causing it to crumble into a pile of rubble and kill its keeper, Garmi, who was Mathila's husband. His log book was recovered from the site by Acrithis, and describes a large 4-fingered hand reaching out of the Void, just before the Rain of Chains happened.
+In another, "The Galleria", as Acrithis was exploring the Galleria with a squad of Dax, they witnessed a large, worm-like form erupt from the grassy field and blindly probe the area around it. They all realized that it was instead a large finger, and quickly turned around to alert Dominus Thrax of their discovery. However, he was terribly frightened and had the island cast out of Duviri despite Acrithis' best efforts to persuade him otherwise.
+Finally, "The Caves of Academe" details the appearance of the Hollow Children. Mysteriously appearing shortly after the Rain of Chains, these children all possessed solid black eyes, and a constant rictus grin on their faces. They appeared to be child-like doppelgängers of the adults of Duviri, and could be found inside Academe's classrooms, with more appearing every day. The children would rarely participate in class, and would only laugh and giggle whenever the Void was mentioned.
+The Vagabond
+thumb|The Vagabond|206x206px
+In Duviri, the Drifter may sometimes encounter a mysterious figure known as "The Vagabond". This entity notably lacks a right index finger, and will laugh maniacally before abruptly vanishing. Depending on the current Mood Spiral, the Vagabond can be found in certain locations throughout Duviri.
+Joy: A cave beneath Thrax Gardens.
+Anger: Atop the main spire of The King's Palace.
+Envy: Near the scholar's tomb, in a cave near Fort Wyrmsoul.
+Sorrow: Above the cave entrance at the pond near Moirai Crossing.
+Fear: Near Titan's Rest, behind Sythel's house
+Zariman Tablets
+Testing tablets from the Zariman can be found throughout the landscape of Duviri. The tablets will bellow out an ominous voice when answering correctly, and will release a deep, unsettling laugh when answering incorrectly.
+6 of them appear to have been tampered with by the Indifference, who appears to use the tablets as a way of speaking directly to the Drifter, with the questions as what the Drifter has in mind and the correct answers as the responses from the Man to them. Within one of the scattered tablets, there exists an entry implying the existence of a moment during the Void-Jump Accident, where the Operator is offered a deal to save everyone by their doppelgänger, but is deliberately excluded from being saved in the process. This is heavily implied to be the Drifter's reality.
+Correct answers are bolded.
+What invaded the Galleria?
+A. There is no such place
+B. Nothing you need to worry your head over
+What was the ultimate fate of Albrecht Entrati?
+A. He is entombed on Lua
+B. That's the question, isn't it, kiddo?
+How many fingers are found upon one's hand?
+A. Five
+B. Where are my fingerbones, kiddo?
+Did you forget, kiddo?
+A. You owe me.
+B. ERROR – RESPONSE NOT FOUND
+You wouldn't welch on a deal, would you?
+A. *CORRUPT FILE DETECTED*
+B. I saved them. All of them. Never said I'd save you.
+What is 'the Wall'?
+A. The barrier between rational reality and the Void
+B. The Wall of Bone in whiKU NOMA ELU RA KAH, MARA LOHK?
+Whispers in the Walls
+thumb|217x217px|The Murmur
+During Ballas's attempt to perform a jump to Tau in The New War, he opened portals between the Void and conventional reality on an unprecedented scale, attracting the attention of the Indifference, whose freedom of action appears to have drastically increased. The threat posed by the Indifference is now at a critical level.
+Loid is forced to awaken a dormant precept known as The Kalymos Precept and summons the Tenno to Sanctum Anatomica hidden beneath the Necralisk, discovering that the Indifference's forces, The Murmur, have overrun Albrecht's Laboratories. There they awaken the original Loid who was Albrecht Entrati's personal assistant, discover Albrecht's Vessels and Cavia projects, and learn that Albrecht himself traveled to the year 1999 in an attempt to escape the Indifference. Albrecht leaves behind a recording that says they are too late, implying that the Indifference had fully got to him, and urges the Tenno to meet him at the correct point in time.
+While fighting off The Murmur, the Indifference attempts to use Loid's negative emotions and desire for Albrecht's affections against him, nearly overtaking the Sanctum until the Tenno displays an emotion of love that Loid had long since craved which repels the Indifference.
+Meanwhile, the Indifference monologues about the Tenno running away from their handshake deal, accompanied by a projection of Albrecht.
+The Lotus Eaters
+While not seen, the Lotus mentions having been attempting to fight off his influence.
+The Hex
+The Indifference
+The Indifference was able to follow Albrecht Entrati to the year 1999 in the city-state of Höllvania by possessing Scaldra commander Major Neci Rusalka, quickly making itself known by referring to the Drifter as "kiddo". It then appears before an interrogated Entrati, shifting between Loid and Entrati's forms to mock him, but Entrati affirms that it has a weakness to love.
+When the Drifter seemingly finds Entrati, they instead find the Indifference's Operator form, who flashes an ominous grin before vanishing.
+The Hex finally track down a VIP being moved by the Scaldra. Rusalka attempts to intercept, but instead crashes her Atomicycle on the convoy to prevent Entrati from falling into the Drifter's hands, but he survives. Entrati orders the Drifter to kill Rusalka to prevent the Indifference from further influencing them, but they refuse. The Indifference returns, bellowing "XATA FASS XATA" as it whisks itself, Entrati, and the Drifter away.
+On the Zariman Ten Zero, the Indifference shows the Drifter that the Hex will die one-by-one. It also reveals that it gave its Void powers to the Operator and Drifter freely, but resents the Orokin for the butchering and thievery of its fingers.
+Unable to prevent the deaths of The Hex, Entrati cryptically informs the Drifter that the only way the Hex can be saved is "if you know them." The Drifter uses their Duviri powers to extend the time loop to the beginning of 1999 and buy more time. After forming personal bonds with the Hex, the Drifter is able to successfully save them - repelling the Indifference. However, this necessitates a permanent timeloop of 1999 as to prevent the Indifference from returning.
+Isleweaver (Operation: Eight Claw)
+The Indifference retreats from 1999 and returns its attention to Duviri, using the possessed Major Neci Rusalka to overthrow Dominus Thrax. Its intention is to destroy Duviri entirely, and is confused by the Drifter's defense of the realm in spite of the suffering they endured by Thrax's hands.
+Its primary beachhead for the invasion is the returned Scholar's Landing, which has been corrupted by its influence. It has also convinced one of Albrecht's Warframes, Oraxia, to fight by its side.
+Some time later, The Indifference's Triumph of Dust (and presumably Rusalka as well) were confined in the Apocrypha, the realm of Untold Stories. Although its influence is diminished, Dominus Thrax warns the Drifter that they have a new duty to keep it contained.
+**Notes:**
+When taking on the form of the Operator, the Man in the Wall's voice is dependent on which voice type is used by the Operator, and usually speaks with an unsettling, loud, echoing tone.
+The description of the Requiem Mod Oull, "Through endless faces, countless forms, a multitude unfolds.", could be related to / talk about The Man in the Wall. It could however, also refer to the multitude of realities that exists under eternalism.
+Breaking up with a member of The Hex or The Devil's Triad will prompt the Man in the Wall to laugh.
+**Trivia:**
+During the transmission leading up to the Ropalolyst fight, Natah reveals that she is aware of the Man in the Wall's existence, claiming to have heard the Void's voice herself.
+During Chains of Harrow, the Lotus initially said that she believes that the Man in the Wall is just a myth or a delusion of those who were exposed to the Void.
+"He Who Waits Behind the Wall" was the answer to one of the Solaris United ARG questions, implying a possible connection. This question was asked twice (once during the introductory stage and once on the 6th of November, as a call and response form of authentication); the answer was the same both times. This may imply a connection between either Vox Solaris as a whole and the Man in the Wall or between The Business and the Man in the Wall.
+The Tenno in the flashback scene during the Erra quest have the same eyes as the Man in the Wall, implying that he may have secretly aided the Lotus, or is simply part of every Operator's power.
+The Man in the Wall's physical appearance appears to be based on the Vitruvian Man drawing by Leonardo Da Vinci.
+Upon reaching Rank 5 with the The Holdfasts, a cutscene will play in which Quinn states that “The Indifference has awoken.”
+The distorted speech at the end of The New War was theorized among the community to be "Oull - Ris - Xata - Vome. Khra - Lohk", referencing the Requiem Mods. However, during TennoCon 2022's "Sounds of the System" panel, Erich Preston revealed this was incorrect.
+Near the end of the Whispers in the Walls Quest, the enemy Vessel repeats The Man in the Wall's enigmatic sentence, which is revealed to be "VOULL NE XATA VOK, MARA LOHK?"
+Cavalero and Archimedean Yonta discuss about the number of existing finger relics during the Angels of the Zariman quest, and the latter mentions that there would be "fewer than there used to be" as long as the "originals are safely sealed away," seemingly implying that the originals would create more finger relics when unsealed. This replication may also have caused the one missing finger seen on the Wall form to turn into what are referred to as "the originals," before being put to use to make finger relics.
+The vertical slots of the Wall form's missing eyes may be a reference to the prongs on the back of Void Keys, possibly alluding to the golden headpiece Albrecht Entrati is seen wearing in his Vitruvian recordings, as well as their utility across the System possibly being one of the Man in the Wall's ways of "seeing" into the System's dealings through the related Void activity.
+Dante's Prex Card Leverian entry reveals he was tempted by The Indifference with knowledge, which led him to discover The Book (possibly Albrecht's Grimoire or his own Noctua). Drusus also remarks that the Indifference still murmurs in his mind, and it " teaches because it longs to be known, and in being known it exists. And in existing, it survives.", which may be another hint to it underlying motives.
+In several of her Kinematic conversations, Lettie refers to the Indifference as "Xipe Totec", an Aztec god associated (in general) with life, death, war, and seasons. The most likely reason for the reference to Xipe Totec may be the common depiction of the god wearing the flayed flesh of human sacrifices, which could have been taken for inspiration regarding the Indifference's tendency to "wear" the face and bodies of those it interacts with.
+When Euleria Entrati is discussing Eternalism during The New War, a 'Further Reading' message in the presentation refers to a book by Albrecht Entrati titled 'Beyond the Wall of Lohk.'
+It's been stated the Wall itself is made of bone, as mentioned by the Zariman tablets scattered around Duviri. This is also mentioned by Corrupted Vor should he appear inside the Undercroft.
+It's been implied the Wall acts as some sort of assimilator as Corrupted Vor's dialogue suggests: "A wall of bone awaits my joining".
+The Operator report by the Cavia implies The Man in the Wall may be a conceptual embodiment of Albrecht's creation. They specifically believe it's a personification of all of Albrecht Entrati's negative traits (such as unethical experimentation, exploiting others, and lack of empathy).
+It is experienced most prominently by the Drifter near the end of "The Hex" quest - when facing the worst of both individuals, the Drifter actually mistakes the two for each other.
+Taken further credence to this is Roathe's claim that the Man in the Wall didn't truly exist until it latched into the Orokin's negative traits (and particularly Albrecht's) and kept growing from every negative emotion that was fed to it by everything and everyone connected to it (such as the Operator and the Drifter) until it reached its current form, due to how Conceptual Embodiment works. This implies the Void was more of an empty vessel that was given consciousness when it was discovered. This could also tie to the Drifter's implication that Albrecht traveled to 1999 especifically to create a plan that could stop the Orokin from ever existing - and as such his own encounter with The Man in the Wall (As shown in a conversation with Eleanor).
+It is also speculated by Roathe that Albrecht deliberately opened a hole to the void on Höllvania so The Man in the Wall would take an avatar for itself. Roathe's reasoning (owing to his military background) is that, since The Man in the Wall can follow anything it has a connection to, regardless of time and space, Albrecht was trying to limit its options to move and especifically, limit said options to those that could "bleed" and potentially be killed.
+The Descendia occasionally has a wall portrait of a fearful Albrecht Entrati with his upper face distorted in a way similar to The Man in the Wall's own.
+Despite The Man in the Wall being depicted as a malevolent entity with multiple disguises, Albrecht and the Lotus can be heard having its voice filters whilst actively helping the Tenno and the Drifter, up to the point of even helping the former repel The Murmur.
+Localization
+
+## Varzia
+Varzia
+Varzia Dax is a former Dax soldier who now resides in Maroo's Bazaar as a vendor. She runs Prime Resurgence, trading Primed items for Aya and Regal Aya to the Tenno, with her shop cycling on a monthly basis.
+Lore
+Erra (Quest)
+Varzia was a surviving Dax soldier of a Sentient invasion on Lua during The Old War, shown trying to avoid falling structure in a cave under Lua. She had an encounter with the humanoid Sentient Erra, who tried to finish her off by crushing her head with his bare hands. Natah, Erra's sister, as the Lotus at the time, arrived in the cave, accompanied by a group of Operators, and ordered Erra to let go of Varzia. Erra was horrified to see his sister viewing him as an enemy, blaming the Tenno for making her turn against her family, but he, nonetheless, let go of the Dax soldier. The Tenno defeated Erra, and Varzia was saved. Her helmet was damaged in the process.
+Current Warframe Era
+After the end of The Old War and the fall of the Orokin, Varzia got tired of combat and has chosen to use her familiarity with Orokin technology to reinforce Tenno Arsenals, and is residing in Maroo's Bazaar as a vendor.
+Offerings
+Void Relics
+Relics offered by Varzia cost 1 Aya each, and do not drop from other sources (be it mission rewards or relic packs).
+The vaulted relics that she can offer are:
+vrelics
+primevaultlist_relics
+Evergreen Prime Items
+Evergreen Cosmetics
+These cosmetics were previously part of Prime Gaming limited-time promotions:
+Other Items
+**Notes:**
+Similar somewhat to Baro Ki'Teer, Varzia's dialogue changes when meeting with Tenno depending if they talk to her in a Prime Warframe or not. Unlike the Void Trader, Varzia does not look down on Tenno without Primes, but she does compliment those who do.
+Her statement of some Warframes earning the status of Prime conflicts somewhat with the official website and Prime Access information stating that Non-Prime Warframes and gear are based on the original Orokin designs. However, with the introduction of Lavos Prime we now know that some warframes became Prime after their creation by the Orokin.
+Varzia's armor is identical to the Lark Bishamo Armor Set.
+Female Anarch Gladius shares the same model as Varzia as well. Judging by their usage of a Nikana and Varzia possessing one as well, it is also possible that she was one of the Orokin Dax Gladius.
+**Trivia:**
+Varzia Dax appears to be canonically bisexual, making flirtatious comments about both Teshin and Maroo.
+She is the only Dax known to still be alive in the Sol system.
+Varzia replaces Teshin’s inbox messages when a player receives Twitch drop rewards.
+Background music tracks from Prime Access reveals/trailers plays while in her browse menu, playing randomly.
+
+## Konzu
+Konzu
+Konzu is an elderly Ostron who acts as the chief elder of Cetus. He offers Bounties to the Tenno, limited-time missions out in the Plains of Eidolon which can be accomplished to earn Ostron Standing and other rewards as provided in the bounty rewards. He is located just across the gate to the Plains of Eidolon. Talking to him will allow players to upgrade their standing title to the next rank. He also starts the Saya's Vigil Quest if the Tenno has at least completed a single bounty.
+Lore & History
+Decades ago, Konzu had an uncle named Hinmun who sold minerals aboard a well-known market that orbited the planet Eris. However, the market was broadsided by a large Infested boil, causing the Infestation to quickly spread throughout the market. Instead of abandoning the market and risking taking it with them, Hinmun and the rest of the passengers turned off life support and discharged the empty escape pods. The writhing derelict of the market still orbits Eris till this day, and Hinmun's voice can be heard repeating one single warning,"We are death. Leave us, and do not look back."
+Saya's Vigil
+In the past, Konzu was a close friend to both Onkko and Saya, who eventually married one another. Some time later, however, Onkko disappeared during an excursion out in the Plains. Saya blamed Konzu as he was with Onkko at the time of the disappearance, and became estranged with her friend while she was left to mourn her husband.
+Five years later, Konzu hears The Quills have caught wind that the Grineer have found leads to Onkko. This prompts him to ask a favor of the Tenno that they would watch over Saya, as he fears she may act recklessly. While the Tenno helps search for signs of Onkko, it is revealed that prior to her marriage with Onkko, Saya rejected a proposal from Konzu, who gave her an iron flower as a symbol of his love. Saya believed that this refusal might have been a motivation for Konzu to try and get rid of Onkko. Eventually however, as the Tenno discover more clues about Onkko's research, she came to terms with his death and even accepted Konzu after discovering his iron flower once again, which was kept safe inside Onkko's case all along.
+Operation: Plague Star
+Konzu
+When an Infested boil grew from the crash site of an asteroid, Konzu leads the bounty to destroy the boil by stealing Councilor Vay Hek's Thrax Toxin and using it on the boil.
+Ghoul Purge
+**Trivia:**
+Konzu may be named after Khonsu, an ancient Egyptian god said to watch over those who travel at night.
+
+## Eudico
+Eudico
+Eudico FB-9 is the leader of Solaris United and the "loyal Floor Boss" of Nef Anyo. She offers Bounties to the Tenno, limited-time missions out in the Orb Vallis which can be accomplished to earn Solaris United Standing and other rewards as provided in the bounty rewards. She is located just across the elevator door to the Orb Vallis, sitting on a chair and holding a large welding gun.
+Players must first complete the Vox Solaris quest before they can access Orb Vallis bounties and earn standing for Solaris United.
+Lore
+General
+Eudico secretly led Solaris United against Nef Anyo under the name of Vox Solaris, or just Vox for short. The rebellion was eventually crushed in an event known as the "Deck 12 Incident" which resulted in the death of many Solaris and the devastation of Deck 12 at the hands of the Exploiter Orb. Eudico felt responsible and blamed herself, working now to appease Nef Anyo's mercy as Vox "disappeared."
+The Tenno's arrival on Fortuna helps reignite the rebellion, bringing about the return of Vox and Solaris United, with Eudico continuing to spearhead the force in secrecy.
+Fortuna Fragments
+Eudico originally founded Solaris United on the day a series of unexpected events have occurred, including her mother's death. On that same day, she sold her heart to buy herself a gun and create the force. The Business showed up and taught the Solaris members to fight both economically and intelligently, giving them various activities and jobs to ensure they can build a big resistance.
+When the Deck 12 Incident happened, however, Eudico became traumatized to the point she cannot sleep whatsoever and blamed (and still blames) herself for the crushing of the resistance. The only survivors of the incident were her, The Business, Little Duck, Rude Zuud, and a very small amount of Solaris members, workers, and vendors.
+bkS8fqnkEL4
+Solaris United ARG
+During the ARG, The Business unveiled some Corpus intel on Eudico:
+right|200px
+Title: Projekt Solaris
+Name: FB-9
+Alias: Eudico
+Race: Solaris
+Lokation: Fortuna, Orb Vallis, Venus
+(Graph Title) Profit Traking
+Job: Floor Boss
+Debt: Low
+Punishment: —
+Records:
+- Kommendations For
+Effisiensy And Personnel
+Management
+Notes:
+- No Family
+Status: Employed, Loyal
+**Trivia:**
+Eudico is voiced by Tamara Fritz, who also voices the Profit-Taker Orb.
+Her FB-9 designation probably stands for "Floor Boss of Deck 9".
+Eudico gives the player the nickname "Sparky".
+Eudico's welding gun has lights that flashes in conjunction to her voice whenever she speaks, implying it is directly connected to her systems in some way.
+
+## Little Duck
+Missing Sentient Anomaly offerings
+Little Duck
+Little Duck is a Solaris United operative introduced during the events of the WARFRAME: Ghouls graphic novel series, and a former protégé of The Business. She also has an undefined relation with The Quills. In-game, she can be located in the backroom of Fortuna, Venus, selling wares for Vox Solaris, and also serves as mission control for Disruption missions across the system.
+Lore
+WARFRAME: Ghouls
+In the printed series she narrated her casual encounter with Mitsuki, incapacitated and the last survivor of an Ostron colony that had been recently devastated by the forces of Captain Vor. Both together with Mag embark on the mission of securing the Arogya Medica device hidden inside a Orokin Derelict so that it does not fall into the Grineer's hands. It was revealed in the series that her father was brain-shelved.
+After surviving multiple dangers and having completed the mission, she obtained a large quantity of data from the Orokin vessel, enough to pay her monthly interest on her debt with the Corpus, and for all the injuries suffered during the battle.
+BZusU_m2dRI
+Solaris United
+Little Duck was a former protégé of The Business, originally hailing from Phobos. As he describes it, she was easily the best among her many peers in terms of aptitude with spycraft. It was only after they had a falling-out due to a difference between their philosophies that they were no longer mentor and student. She now works as a freelance rail agent and seems to possess a heavily modified rail tractor. It is also notable that she seems to possess more connections than her former mentor, which is notable given the Business' previous job.
+Operation: Scarlet Spear
+In response to the Sentient invasion across the Origin System, Little Duck is tasked with running a Scarlet Spear Flotilla Relay above Earth's atmosphere and invites the Tenno to use as their primary base of operations as they work to repel the invasion.
+In-game
+thumb|right|200px
+Fortuna
+Little Duck is the primary point of contact with Vox Solaris, who provides players with various services relating to Operator Amps, Magus Arcanes and Virtuos Arcanes, including the construction of Amps and the trade of Toroid for Vox Solaris Standing. Anomaly Shards obtained from the Murex can also be traded to her for the Tenebrous Ephemera and Sentient Ship Captura scenes.
+Interacting with Little Duck using the player's Warframe will result in her rebuffing them; in order to obtain her services, players must approach her in their Operator or Drifter form (only possible after completing The War Within).
+Profit-Taker Orb Heist
+After the first phase of the Heist, Little Duck will appear just outside the elevator to Fortuna; this lets the Tenno cell begin the second phase without having to sit through a loading screen.
+During the final phase and the final battle against Profit-Taker, Little Duck will provide fire support from a nearby mountaintop. She will fire at Corpus enemies with a sniper rifle, in an attempt to give the Tenno some breathing room.
+Operation: Scarlet Spear
+Little Duck served as the event coordinator of Operation: Scarlet Spear, trading event wares for Scarlet Credits.
+Offerings
+Vox Solaris
+Vox Solaris (Syndicate)#Offerings
+Exotic Goods
+Anomaly Shard can be used to purchase the Tenebrous Ephemera, and the Sentient Murex Captura scenes
+LittleDuckExoticGoods
+15
+10
+10
+10
+10
+10
+Note
+When the player reaches Rank 5 - Shadow with Vox Solaris, Little Duck will open her chest cavity, revealing her organic head and signifying her trust in the Tenno.
+The chest cavity will not open if Creator Mode in Settings is enabled.
+**Trivia:**
+While Little Duck has a Buzlok beside her inside Fortuna's Backroom, during the Profit-Taker Orb Heist when providing covering fire for the Tenno she uses a Lanka instead.
+Its firing sound is that of the Rubico.
+This may be based on her choice of weapon during the WARFRAME: Ghouls series, as she carried it in all issues in which she appeared.
+She is voiced by Claire Vousden.
+In the Scarlet Spear Flotilla Relay during Operation: Scarlet Spear, a Lanka is stood up beside Little Duck with open ammo cartridges.
+
+## Nora Night
+Nora Night
+Nora Night is a mysterious character who acts as the voice of the pirate radio station Nightwave. Her broadcasts can be heard at random on the Orbiter's Radio Scanner.
+Lore & History
+General
+Little is known about Nora's history or background, but as the host of Nightwave, Nora has access to stories and events across the Origin System. It is implied that she travels around in her ship, the Nightwave, which may be how she has first-hand knowledge of current events. She is aware of the existence of the Tenno, calling them "Dreamers"; whether or not this is in reference to the true nature behind the Warframes is unknown. She is, however, aligned with their cause, sympathizing the Tenno's efforts to bring balance and justice to the Origin System. She states that she doesn't have a radio line, most likely because it may compromise her position and allow the Corpus and Grineer to more easily find her.
+Nora also appears to have knowledge of the Orokin and their judiciary system. As a child, her grandmother would often tell tales of how the Glassmaker, Nihil, would vitrify her and put her in a bottle.
+The Wolf of Saturn-Six
+The Emissary of Eris
+The Glassmaker
+In the final episode of Nightwave Series 3, she was glassed by Nihil himself after helping the Tenno find the Glassmaker. Her consciousness was trapped in the Memory Weave until the Tenno defeated Nihil in combat, freeing her and other glassed victims from eternal prison. Nora Night delivered the oubliette containing the Glassmaker to the Tenno, entrusting them to ensure the Glassmaker is never set loose again.
+The New War
+Nora managed to evade Narmer for some time, broadcasting messages of endurance and hope to those few who remained free. Nora eventually learned of a lone agent harrying and resisting Narmer like the Tenno once would have. Dubbing this individual "the Drifter", Nora broadcast their successes to the rest of the Origin System, such as the destruction of the Veil factories and the defeat of the Archons.
+Transcripts of Unauthorized Broadcasts
+In the leadup to TennoCon 2023, Nora, during a slow and uneventful night, finally decides to open her own call line, conversing with three unknown callers over the course of three days.
+Transmission Origin: [DATA CORRUPTED] / Time Since Intercept - 43 Hours
+The first caller is Latrox Une, calling from the Infested moon of Deimos. During the call, Latrox explains his purpose on the moon, and how he was employed by the Entrati to study its ecosystem by harvesting and collecting Infested samples. He then confesses that Deimos has almost 'changed' in a way; the capillaries are pumping blood faster than normal, and the local flora appears to be dull and discolored, almost as if the Infestation is scared of something and is attempting to be less noticeable. Additionally, Latrox says that an incessant knocking sound has been keeping him up. Nora takes an interest in this, and asks Latrox to send her all of his data.
+Transmission Origin: [UNKNOWN VARIABLE] / Time Since Intercept - 21 Hours
+The second caller is a Dr. Fidelia "Delia" Scorse, presumably calling from Mars. The doctor treats a small mining colony, small enough that it hasn't been noticed by the Grineer. She states that she received a patient with damaged fingernails, which appeared to be caused by repeated stress instead of weak keratin. The patient also had a big grin on his face, saying that he never felt better, and that he needed to get back to work immediately. More patients began arriving, all with bruised hands and broken fingers, and suffering from insomnia, dehydration, malnutrition, and extreme exhaustion.
+Then all of a sudden, patients stopped arriving completely. Fidelia says that when she went down into the mine, she saw the entire colony digging in a twisting direction with just their hands, and all had wide grins on their faces. When she asked what they were doing, the miners merely stated that they were just digging. The doctor then confessed that, earlier in the morning before making the call, she loaded the entire shaft with explosives, accidentally killing three colonists in the process. She states that the rest of the colonists are referring to it as just another accident. After hearing Latrox's call, Fidelia then theorizes that the colonist weren't digging to reach something underground, but to reach something on the other side of the planet, stating that they were attempting to reach Deimos by digging straight through Mars.
+Transmission Origin: [CRITICAL ERROR] / Time Since Intercept - 9 Hours
+The third caller is the Entrati servant, Loid (wishing to remain anonymous, he instead uses the name "Bones".) He states that something not intended to happen to his kind has occurred, and that he feels compelled to share it, but doesn't know who to share it with. Loid then reveals that his partner, presumably Otak, has abruptly gone missing, and that he is now alone. Nora attempts to console Loid, asking if there is anyone he can ask for help. Loid then realizes that they both know someone capable of dealing with the unknown, and states that they must be summoned immediately.
+**Notes:**
+Her dialogue can trigger after completing a mission, leaving a player hub, or turning the Radio Scanner off and on again whilst in the Orbiter.
+Unlike normal radio scanner transmissions, Nora Night's broadcasts have subtitles (when enabled).
+Nora was first introduced ingame in Update 24.2.15 on PC, Update 24.2.12 on Xbox One and PS4, and Update 24 on Nintendo Switch.
+All platforms were able to hear her messages on February 15, 2019, despite being on different builds of the game.
+**Trivia:**
+Nora wears the Nightwave Suit and Earpieces.
+"If nothing saves us from death, [...]" is a quote by the Chilean poet Pablo Neruda.
+"For ten years I have been polishing this sword. [...]" is a quote by the Chinese poet Jia Dao.
+"It never troubles the wolf how many the sheep may be." is an attribution by English philosopher Francis Bacon to the Roman poet Virgil.
+"You live with wolves you better act like one." is a paraphrasing of an old Russian proverb: "To live with wolves is to howl like wolves."("С волками жить — по-волчьи выть."). It is commonly misattributed to Soviet politician Nikita Khrushchev.
+"The Red King is at the dance," while possibly an allusion to Hunhow, it's also a reference to Stephen King's "The Dark Tower" saga, in which the main antagonist, The Crimson King, is pulling the strings from the shadows, in order to destroy all the universes connected to the Tower. One of the ways he does this is by a group of mounted robots known as Grey Wolves.
+"Virtue, integrity and courage are my priorities. I can be approached, but never pushed; befriended but never coerced; killed but never shamed." is a quote by the Korean admiral and military general Yi Sun-sin, which in of itself is a quote from the Chinese classic, the Book of Rites.
+"With the impossible behind you, all that remains is what is necessary." may be a paraphrasing of a quote spoken by Arthur Conan Doyle ("When you have eliminated the impossible, whatever remains, however improbable, must be the truth.").
+As confirmed on Devstream 124, Nora Night's character was inspired by D.J. (Lynne Thigpen) from the cult-classic crime film The Warriors (1979).
+Nora Night is voiced by Sheryl Mebane.
+
+## Cephalon Simaris
+Cephalon Simaris
+Cephalon Simaris (or referred to as Irmis by Cephalon Suda) is a Cephalon construct that resides within the Sanctuary Enclave, a room found in all Tenno Relays, which is accessible by visiting any Relay and then using Fast Travel from the Main Menu: default Esc → FAST TRAVEL → CEPHALON SIMARIS. A seeker of knowledge, his ultimate goal is to "immortalize" creatures through the process known as Synthesis, that deconstructs a being and preserves them as data for further research within the Sanctuary.
+Standing Gain
+Standing with Cephalon Simaris is earned by scanning objects and entities using Synthesis Scanners. The amount gained scales with enemy level, and is multiplied further if performed during stealth. Synthesis scans from Helios's Investigator do not grant Simaris standing.
+Simaris's enclave provides tasks to scan Synthesis targets. There are two types of tasks:
+Personal Target Task for recovering Research Imprints, which involves scanning for an individual target up to 10 times. These tasks can only be completed once per target.
+Daily Synthesis Task, which involves scanning a random individual target 2-4 times daily. Returning to Simaris after completing this task awards Standing and Endo.
+After embarking these tasks, a specific enemy will appear in missions, announced by Simaris on entry, which can be tracked from helix-like trails that can only be seen using the Synthesis Scanner. These targets are identified by a visible blue outline. To synthesize the target, three to four points on their body must be scanned with the Synthesis Scanner. However they will attempt to flee and have various abilities to assist in their escape, and can be rendered inert using Kinetic Siphon Traps bought from Simaris for Credits. Once synthesized, the entire squad will earn Cephalon Simaris standing, scaling with enemy level.
+Unlike other Syndicates, Simaris has no ranks, allowing players to farm the maximum 125,000 Standing standing unhindered (except by the Daily Standing Cap).
+**Tips:**
+Scanning for high leveled enemies and Synthesis targets such as The Steel Path, while using invisible frames such as Ash, Loki, Ivara, or Octavia, is the most effective way of earning Simaris standing.
+Another very simple method of maxing standing is going to the Plains of Eidolon, Orb Vallis, or Cambion Drift in the Steel Path. The Synthesis Scanner can be used from an Archwing, and you can fly up high enough to permanently stay undetected from the enemies for stealth scan bonuses. Every enemy, turret, animal, Eidolon Lure, and world boss can be quickly scanned for 300+ standing each.
+To get the most standing per day, you'll need to do the daily synthesis quest (on Steel Path if possible), then farm the remainder of your daily standing limit however you like, then turn in the daily synthesis quest for the standing reward.
+The daily quest's standing reward doesn't count against the daily limit. So no matter when you turn in the quest, your daily limit will not advance, and you will earn 2,500 additional standing that day, per daily quest target.
+Be careful not to turn in the quest while you are standing-capped (125,000), as the standing reward will be wasted.
+Sanctuary
+thumb|250px|left|Cephalon Simaris in his relay enclave
+The Sanctuary is Cephalon Simaris' Syndicate enclave in the Relays. Compared to other Syndicate enclaves, the Sanctuary houses more functions for Tenno to explore, including the Simulacrum, where players can create multiple Mimeographs of enemies; Mastery Rank test trials, where players can practice previously conquered Mastery Rank tests (or prepare for the one at their next rank); and Synthesis Research.
+Synthesis
+Synthesis is Cephalon Simaris' primary purpose and interest as a Cephalon. It is a process of analyzing physical objects and contributing the data into the Sanctuary, using Synthesis Scanners. The goal is to populate the Sanctuary with knowledge and reward the Tenno with the lore behind the WARFRAME universe that was lost to time.
+Offerings
+Simaris
+5,000
+5,000
+25,000
+5,000
+5,000
+5,000
+25,000
+50,000
+50,000
+50,000
+75,000
+75,000
+75,000
+75,000
+75,000
+75,000
+75,000
+100,000
+100,000
+100,000
+50,000
+100,000
+75,000
+75,000
+Complete Natah (Quest)
+100,000
+100,000
+100,000
+Complete The War Within
+40,000
+25,000
+25,000
+20,000
+20,000
+100,000
+Complete Saya's Vigil
+Complete The Limbo Theorem
+Complete The Limbo Theorem
+Complete The Limbo Theorem
+Complete The New Strange
+Complete Neptune Junction
+Complete Uranus Junction
+Complete Pluto Junction
+Complete Hidden Messages
+Complete Hidden Messages
+Complete Hidden Messages
+Complete Chains of Harrow
+Complete The Waverider
+Complete Sands of Inaros
+Complete Sands of Inaros
+Complete Sands of Inaros
+Complete Sands of Inaros
+Complete The Silver Grove
+Complete The Silver Grove
+Complete The Silver Grove
+Complete The Silver Grove
+Complete The Glast Gambit
+Complete Octavia's Anthem
+Complete The Jordas Precept
+Complete The War Within
+Complete The Archwing (Quest)
+Complete The Archwing (Quest)
+Complete The Archwing (Quest)
+Complete The Archwing (Quest)
+Complete The Archwing (Quest)
+Complete The Archwing (Quest)
+Complete Mask of the Revenant
+Complete Vox Solaris (Quest)
+Complete The Deadlock Protocol
+Complete Call of the Tempestarii
+Complete Heart of Deimos
+Complete Octavia's Anthem
+Complete Erra (Quest)
+Complete The Sacrifice
+Complete The Sacrifice
+Complete The Sacrifice
+Complete The Sacrifice
+Complete The Sacrifice
+Unlock through The Deadlock Protocol
+Unlock through The Deadlock Protocol
+Unlock through The Deadlock Protocol
+Unlock through Stolen Dreams
+Unlock through The Deadlock Protocol
+Unlock through Daily Tribute
+Unlock through Daily Tribute
+Unlock through Daily Tribute
+Unlock through Daily Tribute
+Defeat the Glassmaker
+Unlock through Daily Tribute
+Complete The Second Dream
+Complete The Second Dream
+Complete Chimera Prologue
+Complete The New War
+Complete The New War
+Complete The New War
+Complete The Duviri Paradox
+Unlock through Teshin's Cave
+Unlock through Teshin's Cave
+Unlock through Teshin's Cave
+Unlock through Teshin's Cave
+To acquire all offerings, a player needs a total of 4,220,000 Standing, not including costs for Synthesis Scanners or Kinetic Siphon Traps, thus requiring to max out the total Standing of 125,000 at least 34 times. However, this does not take into account that some of the offerings can be acquired in other ways, reducing the times max-out is needed.
+Cephalon Simaris is the only place to acquire duplicate claimed Daily Tribute weapons and quest-exclusive items, mods, weapons, Warframes, and Archwings.
+Cephalon Simaris' offerings are available for purchase at the blue terminal to the right of him.
+**Trivia:**
+Amusingly, his placeholder description before his release had read out, "Do books even still exist in this universe? Just plug that shit directly into my brain. While I prefer librarians with glasses, a sentient group of trapezoids will have to do."
+Cephalon Simaris is voiced by Ross Huguet.
+During Octavia's Anthem, Cephalon Suda refers to Simaris as "Irmis", however it is unknown whether this is an actual name from his past or just a mistake due to Suda's mind being affected.
+Speaking to Simaris in the Sanctuary is oddly tricky to do, as the only location where the "Talk" prompt will appear is actually rather far away from where his "body" appears to be located, due to him "zooming in" when the player approaches. The correct location is half way down the 4-segment walkway in front of him.
+
+## Cephalon Suda
+A vast consciousness watching with a curious eye. Seemingly devoid of emotion Suda's thirst for knowledge and abhorrence of destruction can only be described as passionate.
+With such powerful technology rooted in the past the hunt for knowledge guides every force in the Solar System. At a time where information holds so much power, Cephalon Suda, a consciousness seemingly devoid of emotion, follows a curious hunger to learn all she can.
+Cephalon Suda is one of the six faction syndicates, named after its leader, a Cephalon of immense strength. Suda possesses an unquenchable thirst for knowledge that drives her to scour the Origin System for information. Moreso than others, she values the old knowledge of the Orokin and holds it in high regard. While Suda's hatred of destruction seems benign, her coldness regarding the individual lives within the System is puzzling at best and hypocritical at worst.
+Suda's exact goals are unknown, and could be the difference between freedom and destruction in the System. She occupies her time analyzing and collating the data her operatives provide her. Whether it was obtained through violence or through acts of kindness is inconsequential, as the singularity she strives from consuming this data is obfuscated and may not come to pass for millennia. As a Cephalon, her arsenal utilizes Cephalon technology similar to that of Cephalon Simaris', as seen with her signature Synoid weapon set.
+Tenno who pledge loyalty to Cephalon Suda in the pursuit of knowledge will receive unique Augment Mods for Cephalon Suda's favored weapons after obtaining the title of Wise. The weapons include Bolto, Kestrel, Supra, and Obex. The unique effect associated with the weapon mods from this syndicate is Entropy.
+After obtaining enough Standing to reach the title of Genius, Tenno can exchange Standing for Augment Mods for Cephalon Suda’s favored Warframes that include Banshee, Caliban, Chroma, Frost, Hildryn, Hydroid, Ivara, Limbo, Mirage, Nezha, Nova, Octavia, Qorvex, Revenant, Sevagoth, Vauban, Wisp, Xaku, and Yareli.
+Standing Gain
+Upon pledging to Cephalon Suda, 15% of affinity will be converted into Standing.
+Three daily Syndicate Alerts award standing on completion.
+Datums found within Cephalon Suda Syndicate Alerts as interactable objects can be traded for standing in Cephalon Suda's enclave. Each alert has 8 medallions, with three rarities awarding 500 Standing, 1000 Standing, or 5,000 Standing standing.
+Earning standing with Cephalon Suda increases Arbiters of Hexis's standing by +50%, but decreases Red Veil's standing by -50% and New Loka by -100%.
+Daily Standing Cap is shared with all Faction Syndicates.
+Ranks
+Ranks
+Offerings
+CephalonSuda
+Rank 1: Competent
+Rank 1: Competent
+Rank 1: Competent
+Rank 1: Competent
+Rank 1: Competent
+Rank 2: Intriguing
+Rank 2: Intriguing
+Rank 2: Intriguing
+Rank 2:Intriguing
+Rank 2: Intriguing
+Rank 2: Intriguing
+Rank 3: Intelligent
+Rank 3: Intelligent
+Rank 3: Intelligent
+Rank 3: Intelligent
+Rank 3: Intelligent
+Rank 4: Wise
+Rank 4: Wise
+Rank 4: Wise
+Rank 4: Wise
+Rank 4: Wise
+Rank 4: Wise
+Rank 4: Wise
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Rank 5: Genius
+Lore & History
+thumb|303x303px|A then-human Archimedean Suda seen with an Ayatan Sculpture
+Origin
+To my dearest... when I took the Archimedean oath, I dedicated my life to memories. Our history, our knowledge. [...] Remembering our past is our way of protecting the future. Our enemies know we are lost without legacy. So they attack it. [...] if the Sentients can destroy history... we'll be more than just dead. We'll be forgotten. [...] So I called for them to take me. I must become Cephalon to save what remains of my mind.In the age of the Orokin, during the Old War between the Tenno and the Sentients, a grey-haired Archimedean, later revealed to be a then-human Suda, had dedicated her life to memories when she took the Archimedean oath, holding an indispensable amount of knowledge and memories within her mind, in order to preserve the Orokin history for the future.
+Having suffered from dementia, however, memories began slipping away from her. The Archimedean realizes she can no longer uphold the oath and requested the Orokin to turn her into a Cephalon, in order to preserve what remains of her memories, but not before expressing her regret that she had delayed this long enough to forget her wedded lover's name. The Archimedean was later Cephalized, becoming Cephalon Suda.
+Octavia's Anthem
+In the events of the Octavia's Anthem Quest, Suda's lapses in memory and weakened state allows Hunhow to gain access to her data stream, quietly infiltrating her programming until he eventually takes control.
+Cephalon Simaris refers to this amalgamation of Cephalon and Sentient as Suda-Hunhow and initially believes it is a lost cause to save her.
+It is also revealed during this Quest that most, if not all Cephalons, can link to each other and share information in a collective entanglement known as "The Weave". This connection is a severe weakness because when it is revealed that a Sentient has begun subverting and controlling Suda, Simaris insists on isolating and destroying Suda before she "infects them all".
+With the help of Ordis, a reluctant Simaris, and Octavia's Mandachord, Suda regains clarity and is able to push out Hunhow.
+Suda's name may have been derived from a 10th-century Byzantine encyclopedia of the ancient Mediterranean world. Suda might also be derived from the Byzantine Greek word souda, meaning "fortress" or "stronghold"
+Cephalon Suda is the only Syndicate in which the Death Squad is not composed of the Specter reward offered to players when they reach the first rank. She offers a Shield Osprey as a Specter reward but the Death Squad is composed of Scavenger Drones. This is due to the fact that Shield Ospreys have no offensive attacks.
+The Shield Ospreys she offers are armed with laser rifles similar to the Scavenger Drones'.
+According to Cephalon Cordylon, the smaller Cephalon that acts as Suda's envoy is a subroutine deployed when Suda is given a task that requires less than 5% of her processing power. Cordylon also reveals that it is often nicknamed 'Little Jim', sometimes 'Tiny Suda' and rarely (and amusingly) 'that other Cephalon thing' by other Relay personnel.
+According to Cephalon Cordylon, New Loka's negative alignment towards Cephalon Suda is mostly attributed to the former's closed-minded attitude toward technological expansion – to which the main offenders are usually the Cephalons themselves. Mainly, New Loka seeks to purge Earth of any remaining Orokin technology, which is the main interest of Suda.
+The Red Veil's violent and notably destructive nature can be the reason they are at odds with Cephalon Suda, who values preservation. While the Veil would have no qualms erasing data and destroying reliquary (even Orokin ones) if it means crippling the enemy, Suda is very much opposed to the thought.
+It is possible that Suda allied herself with the Arbiters of Hexis because of the knowledge they offered regarding the old ways of the Tenno. Warrior scholars who worshipped the way of the old, the Arbiters are most certainly one of the few sources of the past the Orokin left behind. Their alliance seems to signify a "knowledge-and-truth" relationship.
+According to the mini-comic What Remains, Cephalon Suda was an Archimedean of the Orokin Empire. She willingly became a Cephalon in response to her increasing memory loss impeding her ability to continue her duty as a human. This was later further emphasized by a voice line from Archimedean Yonta, who wonders where several of the greatest archimedeans have gone and names several of them. Suda is among them, which also shows that she kept her original human name unlike Ordis.
+Cephalon Suda is voiced by Charlotte Ann.
+
+## Darvo
+Darvo
+Darvo (full name Darvo Bek) is the son of a prominent Corpus Board member Frohd Bek. Darvo is a freelance ex-Corpus merchant who regularly sells equipment to the Tenno, either through the Market or through his own shop located on any Relay's second floor, which is accessible by visiting any Relay and then using Fast Travel from the Main Menu: default ESC > FAST TRAVEL > DARVO DEAL. Items he sells in the relay are discounted (up to 90% of their usual Platinum cost) but have a limited stock, and randomize on a daily basis.
+Lore
+Note: Because "A Favor For Darvo" and "Ties That Bind" were introduced prior to the addition of "Vor's Prize", their position in Darvo's overall timeline is speculative.
+General
+Darvo takes pride in his trade, often commenting that his competitors are angry at him for providing items at discounted prices. Although Darvo is not above raiding ships to acquire more goods (typically through sending undercover contractors like Clem) or asking the Tenno for help (either to secure additional goods or to save his own skin), he draws the line at selling his wares directly to the Grineer, and has come to blows with his father Frohd Bek over their opposing views of the Tenno.
+Vor's Prize
+In order to disable the Ascaris device implanted by Captain Vor (which would grant him full control of the Tenno's body should it fully activate), the Tenno are sent to Earth to rescue Darvo, as his familiarity with the Ascaris allows the Tenno to build a Negator to shut it down. Darvo gives the location of a Corpus outpost on Earth to gather the necessary resources to build the Negator, and although the Ascaris begins to increasingly subvert the Tenno to Vor's control, the Negator is built and the Tenno are freed from Vor's influence, much to the relief of the Lotus and Ordis.
+A Favor For Darvo
+After his rescue, Darvo contacted the Tenno for assistance in breaking into several Corpus systems, presumably for his wares, though as the mission progresses the Stalker suddenly ambushes the Tenno and they are forced to fend him off. Darvo reveals that the Stalker has been hounding him ever since he gave a discount on the Stalker's equipment, and apologizes to the Tenno in using them as bait to lure the Stalker out. To make up for it, Darvo proceeds to open his deals once more.
+Ties That Bind
+Darvo sends a message to the Tenno, revealing that the Corpus have captured him over his "resignation", and promises to make it up to the Tenno once he safely leaves. As the Tenno navigate their way to the Prison complex, Darvo warns them that the newly developed Hyena proxies are also on board, though Darvo manages to shut them down before the Tenno arrive.
+As the Tenno and Darvo leave however, Frohd Bek contacts Darvo (revealing their familial connections in the process) and pleads his son to stay, as he had been grooming Darvo to take up a position in the Board (most likely Alad V's then-recently vacated position). Refusing any resistance, Frohd Bek reactivates the Hyena proxies, serving as an additional obstacle for the Tenno, and warns Darvo that "Project Tethra" will be the death of them. Despite the numerous obstacles encountered, the Tenno and Darvo escape.
+Operation: Cryotic Front
+While not directly involved in the operation, Darvo was the one to reveal the Mystery Associates identity, Baro Ki'Teer, to the Tenno, commenting that he hides his name to make him appear mysterious to his clients. He reveals that he decided to sample the Jellyfish the Void Trader acquired during the operation, exchanging a crate full of Prime blueprints and two Argon Crystals to do so, only for his throat to swell up for a few days as a result. This suggests that Darvo revealed Baro Ki'Teer's identity solely to spite him.
+Blackout Tactical Alert
+After noticing several abandoned merchant ships drifting in space, Darvo asks the Tenno to reroute the ships to a safe location where he can unload their supplies. Once the Tenno reroute the ships however, large amounts of Manics make their presence known, and the Tenno must kill them before they can extract. With the Manics cleared out, Darvo helps himself to their cargo, rewarding the Tenno with some equipment of interest.
+A Man of Few Words
+Once he hears that one of his undercover contractors has been captured by the Grineer, Darvo sends the Tenno to rescue him. The contractor is revealed to be a Grineer defector named Clem and was presumably captured while trying to acquire an Orokin relic. Darvo arranges plans to recover Clem's weapons and secure the Orokin relic — the Potent Orokin Technical Augmentation and Tactical Offensive device — and when the relic is secured, Darvo and Clem express their gratitude and reward the Tenno for their efforts. This also opens up weekly missions where the Tenno aid Clem in raiding ships for Darvo's stock.
+Darvo's Totally Legit Sale & The Corpus Bust Alerts
+At the start of August 2016, Darvo announced that he would be hosting a month-long series of deals in an attempt to liquidate some ill-gotten goods "acquired" from Corpus ships and cover his tracks from their investigations. Though he succeeds in getting rid of those goods, the Corpus find him and hunt him down anyway. Darvo promptly pleads the Tenno to defend him from waves of Corpus troops, with the promise of additional rewards for keeping him safe. Ultimately, the Tenno succeed in defending the merchant and the Corpus call off the investigation.
+Darvo's Official Fire Sale
+700px
+On April 25, 2017, Darvo would once again host another series of deals to get rid of goods stolen from Grineer ships after suspecting that the Grineer are investigating him. Unlike his scam with the Corpus however, the Grineer did not pursue Darvo after the Sale concluded on May 17 of the same year, suggesting that either they were never investigating him in the first place, or they opted to drop the investigations to avoid Tenno retaliation much like the Corpus before them.
+Twitch Prime Subscription Rewards
+Beginning in 2018, players who linked their Warframe accounts with a Twitch account could receive additional rewards through Twitch Prime subscriptions, which were initially framed in-game as Darvo sending messages to the players, having learned of the rewards in a "Void Rift" that he could not access, much to his annoyance. Despite his attempts in collecting the goods, even going as far as sending Clem through the Rift, Darvo's attempts ultimately prove fruitless. Some of these items would end up in Varzia's hands.
+Later messages would change the framing device with Darvo making contact with an "Heiress Intalya", who claims to offer the rewards in exchange for a fee from Darvo. Unaware that he has been suckered into a 419 Scam, Darvo takes up Intalya's offers, though he sends the Tenno to "investigate" the deals as his suspicions grow.
+Weekly Mission
+After completion of the A Man of Few Words quest, the player is allowed to run a weekly mission for Darvo, called Help Clem'. This mission works similarly to the final mission of the aforementioned quest, in that the player must survive a ten-minute Survival mission with Clem aiding them. The mission will take place on any Survival-eligible tileset. When fighting the Grineer, one random member of the Grustrag Three will attack the Squad at the five-minute mark; when fighting the Corpus, Lynx will attack the Squad; and when fighting the Infested, a Juggernaut will attack the Squad.
+The reward for the mission is a Clem Clone Blueprint. The mission can be completed once per week, resetting every Sunday at 8 pm Eastern time.
+**Trivia:**
+Before, Darvo used the avatar of the retired boss Arn Etina, which used to be the picture model used for the boss of Pluto, which was still a MOA, regardless of this picture being used.
+As of Update 12, Darvo has been given an active 3D model for his quoting to the Tenno during his missions, thus claiming the 2D model as his own original design.
+Darvo's presence in the Tenno market further reinforces the idea that the Corpus value profit over everything and that the Corpus may very well control most, if not all, of the market.
+It should, however, be noted that Darvo has much closer and amicable ties with the Tenno compared to other Corpus such as Alad V.
+The symbol in Darvo's deal translates to "SM".
+It is said that Darvo was hiding in Orokin Vaults, or so he claims.
+The Stalker chasing Darvo after listing his gear for 25% off was originally intended as a joke, but it came true in an alert.
+With the release of Update 11.1, Darvo had a secret mission for the Tenno where he not only guided the Tenno in place of the Lotus but also tricked the Tenno into taking out the Stalker for him under the guise of a mobile defense mission.
+Oddly, even though the enemies in "A Favor For Darvo" were Corpus, he does not seem to mind sacrificing them in order to lure the Stalker.
+It may also mean that his fellow Corpus were the competitors that wanted him dead.
+Supported in "Ties That Bind", where he was captured by the crewmen sent by his father, Frohd Bek.
+According to in-game dialogue from "Ties That Bind", Darvo is "almost" 105 years old.
+During the Ties That Bind alert, Frohd Bek tried to convince Darvo to take a seat as a new member of the Corpus Board—a high-ranking position—which was left empty by Alad V when he was exiled by the board. This would have make Darvo the successor of Alad V in the Corpus political arena, if he had ever accepted his father's offer.
+Darvo seems to be an avid hacker, not only proud of claiming to be when a Tenno successfully hacks a terminal, but also when spoken of that he managed to disable two Hyena Pack models during his rescue, although this could simply be an opinion.
+According to Grineer radio transmissions, Darvo has been involved in hijacking Grineer individuals, along with many murders.
+It seems Darvo is the first Corpus to have ever rejected the idea of the Tenno being the "Betrayers". This was brought up in his last response towards his father in Ties That Bind.
+Speculation sparked that the Corpus could possibly be a misled, corrupt organization.
+Darvo appears to share some form of relationship with Baro Ki'Teer, mentioned in his deal for the Amprex.
+During the Corpus Bust alerts of September 2016, Darvo wields the Dual Cestra.
+Players can "meet" Darvo through daily login reward screens before even interacting with him in Vor's Prize.
+
+## Ticker
+Ticker
+Ticker is a Solaris who serves as a medium for players to help pay off the debts of other Solaris, located on a platform above The Business' shop and can be accessed by a small elevator that can be found to the left upon entering Fortuna. By buying off debts, she rewards the player with two or three types of Debt-Bonds, which can be turned in for Solaris Standing or can be used to buy secondhand ornaments and decorations for the player's Orbiter.
+Purchase Debt-Bonds
+Ticker will have 5-8 possible debts available for the player to purchase with each including a number of Debt-Bonds. Lower tier Training Debt-Bond and Shelter Debt-Bond are always on offer, while higher tier Medical, Advances, and Familial are on offer at times. Each debt is tied to a unique case identifier and requires 5,000-350,000 credits and 0-2 additional resources, with the rewarded debt-bonds scaling up with the cost. Additionally, each case is set to an expiry timer, before being replaced by a new one. Timers are limited to 8 hours, so visiting her 8 hours later will guarantee that the selection of all debts on offer will be completely refreshed.
+These cases also provide information about the Solaris with each one noting the Solaris' profession, details about their lives, their criminal records, and their respective punishments.
+Debt
+Occupation
+One of these appear in the file.
+Abigail
+Accountant
+Action Doc
+Admin Assistant
+Asset Tracker
+Atmospheric Engineer
+Bartender
+Blast Helper
+Bodyguard
+Bouncer
+Cargo Thrower
+Construction Engineer
+Convoy Dispatcher
+Convict
+Cook
+Corpus Liaison
+Courier
+Criminal
+Crud Diver
+Crusher Operator
+Cutter
+Cyberneticist
+Dealer
+Dewatering Operator
+Driller's Assistant
+Driver
+Dryman
+Electrician
+Enforcer
+Enviro Tech
+Equipment Operator
+Fire Control
+Fitter
+Fixer
+Flotation Tech
+Fluid Engineer
+Foreman
+Geologist
+Geophysicist
+Guard
+Habway Cleaner
+Hydrologist
+Investigator
+Janitor
+Laborer
+Lugger
+Machinist
+Manager
+Mechanic
+Mechanic's Helper
+Mercantile Mercenary
+Metallurgist
+Millwright
+Nutrition Tech
+Ops Director
+Outflow Attendant
+Overseer
+Paramedic
+Paver
+Personnel Cleric
+Pharmacist
+Pipefitter
+Plumber
+Pneumaticist
+Project Director
+Propulsion Engineer
+Rack Maintenance Tech
+Reagent Tech
+Recordkeeper
+Remote Comms Tech
+Rigger
+Safety Monitor
+Safety Officer
+Sampler
+Scientist
+Security
+Senior Security
+Shift Manager
+Site Manager
+Slurry Monitor
+Sumper
+Supervisor
+Surveyor
+Technician
+Terraforming Engineer
+Torsion Engineer
+Tractor Jockey
+Tractor Mechanic
+Traffic Controller
+Transpo
+Unemployed
+Vendor
+Warehouse Clerk
+Warehouse Supervisor
+Welder
+Name/Designation
+A letter followed by a dash and a number (e.g. G-56).
+Number of Dependents
+Ranging from 0 to 10 (e.g. 8 Dependents).
+Comments
+One, two, or three of these appear in the file.
+Addict
+Aids the poor
+Avoids overtime
+Best friend brain-shelved
+Black market connections
+Brother brain-shelved
+Colourful history
+Corpus informant
+Criminal record: Assault
+Criminal record: Fraud
+Criminal record: Racketeering
+Criminal record: Smuggling
+Criminal record: Vagrancy
+Criminal record: Vandalism
+Daughter brain-shelved
+Employee of the Month
+Excessive absenteeism
+Ex-gang member
+Ex-mercantile mercenary
+Father brain-shelved
+Gives to charity
+Has traveled widely
+Hereditary illnesses
+High IQ
+High pain threshold
+High-quality upgrades
+Highly experienced
+History of violence
+Hounded by a drive gang
+In demand
+Industrial accident: Capacitor discharge
+Industrial accident: Cargo crush
+Industrial accident: Coolant inhalation
+Industrial accident: Long-term exposure
+Industrial accident: Mauled by wildlife
+Industrial accident: Plasma leak
+Industrial accident: Spaced
+Known criminal associate
+Known dissident
+Known killer
+Known Quill associate
+Limp
+Low IQ
+Low pain threshold
+Low-quality upgrades
+Married
+Military history: Earth
+Military history: Mars
+Military history: Mercury
+Military history: Phobos
+Military history: Neptune
+Military history: Saturn
+Military history: Uranus
+Military history: Venus
+Minimal modifications
+Mother brain-shelved
+One-armed
+Orphaned
+Ostron connections
+Partially blind
+Peak physical specimen
+Poor health
+Prior repo
+Pro-Corpus
+Recently demoted
+Recently married
+Recently promoted
+Regular overtime
+Repo Rights advocate
+Respected
+Respected by drive gangs
+Sister brain-shelved
+Solaris United connections
+Solaris United sympathizer
+Son brain-shelved
+Suspected dissident
+Temple donations: High
+Temple donations: Low
+Temple donor in good standing
+Underworld affiliations
+Well-known
+Widower
+Quirks
+Any two of these appear in the file. This list may not be exhaustive.
+Abrasive
+Addictive
+Adventurous
+Affectionate
+Agile
+Alert
+Amateur
+Ambitious
+Analytical
+Antisocial
+Apathetic
+Appreciative
+Big
+Bold
+Callous
+Callous
+Calm
+Cautious
+Centered
+Charming
+Childish
+Clumsy
+Cocky
+Cold
+Compulsive
+Confident
+Confrontational
+Controlling
+Cooperative
+Courageous
+Courteous
+Creative
+Cruel
+Curious
+Cynical
+Dangerous
+Decisive
+Defensive
+Dense
+Diplomatic
+Disciplined
+Discreet
+Dishonest
+Disloyal
+Disorganized
+Disrespectful
+Distinctive
+Easygoing
+Efficient
+Empathetic
+Enthusiastic
+Evasive
+Evil
+Extravagant
+Extraverted
+Famous
+Fanatical
+Feisty
+Flirtatious
+Focused
+Foolish
+Foreign
+Forgetful
+Funny
+Friendly
+Frivolous
+Fussy
+Generous
+Gentle
+Gossipy
+Greedy
+Grumpy
+Happy
+Hard-boiled
+Haughty
+Helpful
+Helpless
+Honest
+Honorable
+Hospitable
+Hostile
+Humble
+Humorless
+Hypocritical
+Idealistic
+Ignorant
+Imaginative
+Impatient
+Impulsive
+Indecisive
+Inattentive
+Independent
+Industrious
+Inflexible
+Inhibited
+Innocent
+Insecure
+Intelligent
+Introverted
+Irrational
+Irresponsible
+Jealous
+Judgmental
+Kind
+Know-it-all
+Lazy
+Loyal
+Lucky
+Manipulative
+Masculine
+Martyr
+Materialistic
+Melodramatic
+Menacing
+Merciful
+Meticulous
+Morbid
+Nagging
+Native
+Neat
+Needy
+Nervous
+Nosy
+Obedient
+Objective
+Observant
+Obsessive
+Odd
+Ordinary
+Organized
+Oversensitive
+Paranoid
+Passionate
+Patient
+Perceptive
+Perfectionist
+Persuasive
+Pessimistic
+Philosophical
+Playful
+Possessive
+Prejudiced
+Pretentious
+Private
+Proactive
+Professional
+Promiscuous
+Proper
+Protective
+Quirky
+Rebellious
+Reckless
+Resentful
+Resourceful
+Responsible
+Rich
+Rowdy
+Scatterbrained
+Secretive
+Self-destructive
+Self-indulgent
+Selfish
+Sentimental
+Sensible
+Sensual
+Shifty
+Skilled
+Sleazy
+Sloppy
+Small
+Small-time
+Sophisticated
+Spiritual
+Spoiled
+Spontaneous
+Stingy
+Strong
+Strong-willed
+Stubborn
+Subservient
+Superstitious
+Tactless
+Temperamental
+Timid
+Tolerant
+Traditional
+Troublesome
+Trustworthy
+Uncommunicative
+Uncooperative
+Uncouth
+Unethical
+Ungrateful
+Uninhibited
+Unintelligent
+Unlucky
+Unselfish
+Vain
+Verbose
+Vindictive
+Violent
+Weak
+Weak-willed
+Whimsical
+Whiny
+Wholesome
+Wild
+Wise
+Withdrawn
+Witty
+Workaholic
+Worrier
+Young
+Punishments
+One of these appear in the file.
+60 days/3 years/10 years hard labor Fortuna sumps
+60 days/3 years/10 years hard labor on the Orb Vallis
+60 days/3 years/10 years hard labor orbital mining
+Optical repossession
+Limb repossession
+Organ repossession
+Exile
+1/2/3 year(s) brain-shelving
+Total bodily repossession and permanent brain-shelving. Debt passed to dependents.
+Resources
+5,000-350,000
+0-16,000 Alloy Plate
+0-36 Axidrol Alloy
+0-15 Brickie Muon Battery
+0-4,000 Circuits
+0-5,000 Cryotic
+0-22 Echowinder Anoscopic Sensor
+0-10 Eye-Eye Rotoblade
+0-15,000 Ferrite
+0-20 Goblite Tears
+0-12 Gorgaricus Spore
+0-17 Heart Noctrul
+0-3 Kriller Thermal Laser
+0-10 Mirewinder Parallel Biode
+0-15 Mytocardia Spore
+0-15,000 Nano Spores
+0-3 Neurodes
+0-3,000 Oxium
+0-4,000 Plastids
+0-4,000 Polymer Bundle
+0-10 Recaster Neural Relay
+0-4,000 Rubedo
+0-24 Sapcaddy Venedo Case
+0-10 Scrubber Exa Brain
+0-15,000 Salvage
+0-16 Smooth Phasmin
+0-5 Tepa Nodule
+0-12 Thermal Sludge
+0-10 Tink Dissipator Coil
+0-44 Travocyte Alloy
+0-20 Venerdo Alloy
+Ticker's Secondhand
+Ticker also has a daily rotating selection of Fortuna-themed Decorations for a player's Orbiter or Clan Dojo, with each item having a decoration capacity of 5. These may only be bought with Debt-Bonds, and the price for each item on offer is randomized every day from this item's price band.
+Trade Debt-Bonds for Solaris United Standing
+The player may also turn in debt-bonds for a certain amount of Solaris United Standing.
+Hire Railjack Crew Members
+Being at least Rank 1 in the Command Intrinsic unlocks the ability to hire NPC crew members from Ticker. Every 24 hours following the daily reset, there will be up to seven crew members available to be purchased, each with a randomized name, stats, flavor text, and cost.
+Each of these crew members is associated with a particular faction Syndicate and the player's standing with each syndicate is used to determine potential discounts and taxes on their cost. Being at positive standing with a syndicate will grant up to to 50% discount on the respective crew member. Conversely, being at negative standing will add an additional tax to crew member costs, up to double their initial value.
+Note that:
+Crew members bought with credits will have 8 competency points distributed across their stats
+Crew members bought with Railjack resources will have 10 competency points distributed across their stats
+Elite Crew members, unlocked at Command Intrinsic Rank 10, will have 12 competency points distributed across their stats, and a passive based on their highest stat.
+Base Costs
+Crew members have a base credit cost of 100,000-120,000. For crew members that require Railjack resources to purchase:
+5,000-7,000 common resources (e.g. Titanium or Carbides)
+400-500 uncommon resources (e.g. Isos)
+Types
+Elite Crew
+Railjack/Crew#Elite Crew Trait
+Lore
+Long before the events of Vox Solaris, Ticker once had a lover named Volan. They formed an agreement to each play the part of the one that had abused the other. They worked as friends, so that they might resolve their respective traumas. Some time afterwards they started using their own names, and fell in love.
+At some point Volan had his body repossessed by the Taxmen and was brain-shelved, leaving Ticker only a single glove to remember him by. During the following decades Ticker would work to purchase a new body for Volan and to save him from brain-shelving, selling her arms, legs, and even her lungs, bones, and heart in the process. But by the time she was finished it was too late, as decades of brain-shelving had left Volan a shell of his former self who didn't even remember Ticker. Volan then took a job working in the canal, while Ticker set to work making sure that what had happened to her lover never happened to anyone else again.
+gxcJKaqlGS4
+**Trivia:**
+Ticker is voiced by Guy Cunningham.
+Head writer Cam Rogers has confirmed that Ticker is a transgender woman.
+
+## Grandmother
+Grandmother
+Grandmother is the alias of the grandmother of House Entrati, from Father's side. She is a partially-infested Orokin elder who resides within the Necralisk; a Void research enclave located on Deimos. Grandmother serves as the overseer of K-Drive Races on Deimos and rewards players with Entrati Standing when family member tokens are turned in. She is located inside an infested flower on Necralisk to the right of the entrance.
+Lore & History
+General
+Grandmother belongs to the Entrati family, who were highly regarded since the Orokin Era for being the first ones to create technologies that harnessed the power of the Void. Her original name was Dagath, but during one Naberus celebration she gave it to a Dagath, becoming known as Grandmother forevermore.
+Grandmother herself is the mother of Father.
+The Infestation of Deimos
+After a bio-bomb was detonated in Deimos in an attempt to repel the Sentients, the entire moon was overrun with Infested. The Entrati had no choice but to lock themselves in the Necralisk and use it as a makeshift safehouse. After the Collapse of the Orokin Empire, there were no Dax or Tenno left to assist in the protection of moon, which resulted in its gradual decline and the abandonment of the Entrati's subterranean Isolation Vaults, after the Grey Strain began to encroach upon the Cambion Drift. Due to Son's habit of interacting with the Infested animals, he would inadvertently break containment protocol and allow Infested spores to make their way inside the Necralisk.
+How the Orokin known as Grandmother came to the Deimos expedition is not specified; her grandchildren state she was not a soldier nor a scientist. Nonetheless, she was soon trapped in the Necralisk with her son, her daughter-in-law, and her two grandchildren. While the rest of the family bickered and argued, Grandmother would instead act as a neutral party, often earning their ire. She believed her son's martial discipline exercises were futile attempts at keeping order, however she would not approve of her granddaughter's ridicule, seeing it as too excessive.
+Grandmother would attempt to heal the family and keep them together, often taking care of their wounds or ailments. Despite her best efforts, the family became increasingly dysfunctional.
+Due to the previous contamination of the Necralisk, Grandmother would soon become infected, along with the rest of the family. The Entrati would then slowly start succumbing to the Infestation, losing many of their memories, though not their identities.
+The Re-emergence of Deimos
+After the Tenno reunite the Entrati family to restore a destroyed Heart, they meet Grandmother,
+However, she comments that, despite their dysfunctional nature, the family will come together in a crisis. The Tenno glean from the conversation that Grandmother caused the events surrounding the Heart's destruction to unite the family.
+The Waverider
+Grandmother, having discovered a Graphica comic dubbed "Waverider #1" in Nef Anyo's possession, offered to purchase the completed Graphica from him. He tasks Roky to unlock the Graphica, but is gravely injured in the process, prompting Boon and the Tenno to take action in her stead. Nef slips having a buyer on Deimos (who is in fact, Grandmother), allowing Boon to contact the buyer and make a deal.
+Once the Graphica is completed, Nef Anyo discovers the buyer had backed out, thus leaving him with an unsellable comic he deems useless, instead buying out of the ventilation shafts where the Ventkids live. Boon reveals that he secretly sold a copy of the Graphica to the buyer in exchange for an elixir to heal Roky and removal of their debts. Grandmother, now the Ventkids' new landlady, expresses to the Tenno her disappointment at Nef's greed and his dismissal of what he deems 'commoner art', revealing the completed Graphica of Waverider #1 contains a blueprint for the Yareli Warframe.
+Wares
+Wares
+grandmotherwares
+Trading for Grandmother Tokens
+Grandmother will have up to 8 possible tasks available for the player to complete by trading in Entrati Family Tokens. Task names, descriptions, and costs are randomized.
+flavor
+Possible task names
+Recount Your Adventures
+Update Information Channels
+Trade Entrati Intrigue
+Report On Deimos Happenings
+Divulge Family Plots And Plans
+Have Discreet Conversation
+Discuss Latest Family Gossip
+Possible descriptions
+Do tell me what my troublesome kin have been up to.
+Honestly. Sometimes one wants to just bang their heads together.
+I always have time to listen to a polite Tenno.
+If I am to help them, I must know all their doings. I'm sure you understand.
+You've been a very busy little Tenno, I see. Why not tell Grandmother all about it?
+I'm not asking you to spy for me. Just hoping for a chat between friends.
+You bring an outsider's perspective to these matters. I value that.
+resource
+Common
+Mother Token
+Uncommon
+Daughter Token
+Otak Token
+Father Token
+Rare
+Son Token
+1x token
+20x Mother Token
+4x uncommon tokens
+2x Son Token
+2x token
+20x Mother Token + 4x uncommon tokens
+4x uncommon tokens + 4x uncommon tokens
+20x Mother Token + 2x Son Token
+4x uncommon tokens + 2x Son Token
+3x token
+20x Mother Token + 4x uncommon tokens + 4x uncommon tokens
+20x Mother Token + 4x uncommon tokens + 2x Son Token
+4x uncommon tokens + 4x uncommon tokens + 4x uncommon tokens
+4x uncommon tokens + 4x uncommon tokens + 2x Son Token
+4x token
+20x Mother Token + 4x Daughter Token + 4x Otak Token + 4x Father Token
+20x Mother Token + 4x uncommon tokens + 4x uncommon tokens + 2x Son Token
+4x uncommon tokens + 4x uncommon tokens + 4x uncommon tokens + 2x Son Token
+5x token
+20x Mother Token + 4x Daughter Token + 4x Otak Token + 4x Father Token + 2x Son Token
+Trading for Other Family Tokens
+Grandmother will have up to 8 possible brews or medicines available for the player to complete by trading in Deimos resources, in exchange for Entrati tokens. Their names, descriptions, and costs are randomized.
+other_flavor
+Possible task names
+Ravunai's Brew
+Anti-Infestation Ointment
+Necralisk Quality Decoction
+Tissue Mending Balm
+Dubious Unguent
+Xaramitic Tincture
+Void Infused Resin
+Curious Oleum
+Lavos' Draught
+Spore Removal Gel
+Regenerative Liquor
+Moon Serpent Salve
+Traditional Orokin Elixir
+Infested Moon Extract
+Authentic Ostron Cure-All
+Counteractive Agent
+Possible descriptions
+Regrows tissue lost to the Infestation.
+Repairs damaged neural networks.
+Purges spore-related growths from the recipient.
+Puts back a little of what Deimos has taken away.
+Repairs, restores and reinvigorates.
+Helps the system recover its natural balance.
+Counteracts the myriad effects of the Infestation.
+Soothes the physical and emotional pain of the Entrati.
+Note
+When the player reaches Rank 5 - Family with the Entrati, a cutscene plays with a conversation between the entire family, where Vilcor gives Mother a Seriglass Shard and convinces her to let go of the shard that binds her to Grandfather. Following this, Vilcor gives Mother the name Gomaitru, meaning "the goblet refilled". This name replaces Mother's in-game name from then on.
+The Tenno are fully welcomed into the Entrati family and are bestowed the name Ayatan. Grandmother, for her part, does not take a new name, satisfied with herself just the way she is.
+
+## Albrecht Entrati
+Albrecht Entrati
+Albrecht Entrati was a highly renowned Orokin scientist, known for being the first one to gain access to the Void and introduce the Orokin to its potential. He is the former head of the Entrati family, and father of Euleria Entrati.
+Lore & History
+General
+Albrecht was born during the Orokin Era, in a time before the Orokin set their sights beyond the Origin System. Together with his late wife Gerivaine, he had a daughter, Euleria, and a kavat named Kalymos. He spent a considerable amount of time trying to prove the usefulness of the Void, whose contents he theorized could be the key to help his civilization reach for the stars.
+The First Voyage into the Void
+The Requiem Words found in the bowels of the Necraloid chamber in Necralisk, Deimos, contains eight separate Vitruvian entries, each paying homage to a different Requiem Word, of Albrecht's own thoughts and chapters leading up to his first voyage into the Void.
+Crossing the Threshold
+As the years passed and with no conclusive proof of the Void's existence, the other Orokin started to lose interest in his pursuit, considering it to be a dead end. Frustrated, Albrecht sought to prove them wrong, and so he hastily volunteered himself to go beyond the "wall between worlds", using a Seriglass Bell as a protective vessel. As the portal through the Wall of Lohk was activated, Albrecht witnessed space and time ripple as the wall yawed open. Disoriented, he stumbled in his vessel and shifted its path through the wall. As soon as it grazed the edge of the "door", the bell was sliced in half instantly by the edge of the portal, causing Albrecht to fall sideways directly into the Void, while the sliced bell fell over and shattered.
+Albrecht felt his thoughts and memories being stolen away by the void, thinking he must be dying. After coming back to his senses, he saw that he was laying in the Bell's shattered seriglass on his laboratory floor, thinking it was another failure. Embarrassed, he looked up to face his daughter, but what he saw was not her, but a copy of himself. He noted that this "vague untime form" of him was like a mirror-reflection, but with [depth - a 3rd] dimension. He also noticed a vast sea of white light pierced by black stars; a flowing, colorful vapor twirling around, whose source was the wall he came through and Albrecht himself; and that he was standing on a familiar floor resembling his lab, as if it had been cleaved straight from his laboratory and put into the void. Feeling in awe with all this, he faced his "twin", who spoke: "Little Bengel" he said – an old name his mother used to call him as a child, unspoken for centuries. Though overwhelmed by a sense of euphoria, his wits told him to flee.
+thumb|Albrecht going through the wall between worlds.
+Back to his laboratory outside of the Void, he sensed his flesh lacerated by the broken glass. No longer having his voice or sight, he cut his hand with a broken seriglass shard, and with his own blood wrote for his daughter to close the wall, as he sensed the other was there, reaching out. His daughter complied, deactivating the gate while severing one or multiple of the Void entity's fingers in the process.
+A long time after this event, Albrecht stated how the severed digits acquired from his Void counterpart were eventually studied both with reverence and greed. As time passed, the knowledge obtained from these digits became the basis for void-related technologies the Orokin benefited from, such as the Reliquary Drives used by Railjacks and the Zariman Ten Zero.
+While countless others have ventured into the Void, none have ever met this "man trapped in the wall" that Albrecht first saw. Pondering about its absence, Albrecht decided to not partake in Continuity ever again – the ritual where Kuva is used to transfer consciousness from body to body, effectively granting immortality – fearing that maybe the one who escaped was not him, but perhaps the other.
+Voyage Aftermath
+thumb|249x249px|The Heart above the Wall of Lohk.
+Albrecht would later go on to discover the Requiem Words, and create the Cosmic Clocks. One is located within the Necraloid backroom in the Necralisk, which contains eight Vitruvian recordings (each paying homage to a different Requiem Word) narrating the story of Albrecht's voyage.
+Additionally, Albrecht would create the Heart, an object said to provide the Origin System and the Tenno with Void energy, constructing it atop the very Void gate he used in his voyage. Expeditions into the Void would still continue, with explorers depositing any treasures they found within the subterranean Isolation Vaults. These vaults were constructed to both study the boons of the Void, and isolate and quarantine anything that came back unstable and corrupted.
+Zariman Ten Zero
+thumb|208x208px|A finger-relic powering the Zariman's Reliquary Drive.
+After Albrecht's first voyage into the untime dimension and the subsequent encounter towards his untime twin that follows, he would continue to study the Void, publishing "Beyond The Wall of Lohk" and co-writing "The Palimpsest of Spacetime" with his daughter, Euleria. These teachings were then implemented into the education criteria aboard the Zariman, which became the first school to offer public access to Albrecht's research. The Zariman also employed the use of an Entrati-made Reliquary Drive, powered by a duplicate of one of the fingers acquired by Albrecht.
+Due to his status as the first to pioneer Void study, various portraits and statues depicting Albrecht can also be found throughout the Zariman, such as in the Habitation Zone, Hall of Legems, and Albrecht Park.
+Lost Islands of Duviri
+Albrecht's timeframe of being lost in Duviri is nebulous at best and was not precisely specified in any ingame lore entries. The only indication of the "period" we know of Albrecht arriving here was only from his described appearance of "haunted eyes and a downcast mien", and "wore his hair like looped snakes" (similar to his own portrait); which indicated at best that his venture into the kingdom occured after his first voyage into the Void and before his physical curation with the assistance of Loid.
+Albrecht has made an appearance in Duviri as one of the two known outsiders, although his known records do not indicate any period of time he was lost in the kingdom. In it, Dominus Thrax allowed him this to construct his own laboratory, which resided on an island dubbed Scholar's Landing. The stranger mentioned that Duviri would be needed in the future, and that there is a work of repentance that he alone cannot not do, before mysteriously vanishing along with the island.
+The denizens of Duviri have not forgotten Albrecht, and constructed an empty grave for him, which can be found deep in a cave near Fort Wyrmsoul.
+Albrecht's Laboratory
+Albrecht's Notes can be found within his laboratories, chronicling five separate chapters of his thoughts following his first voyage into the Void.
+The Aftermath
+Building upon what was known from the Necralisk Entries found in the Necraloid chamber, it was revealed that one of the many effects of his breach into the untime dimension caused him to leave with ruined eyes, mutilated mouth no longer hiding his grin, as well as scorched skin; physical consequences which Loid steadily nursed back to health. Donning a new set of garb, he found a new determination to course correct the monstrosity of a mistake he had unleashed upon the world.
+The entries recorded in the Necralisk seemed to predate Albrecht taking Loid's help.
+The Cavia
+One of his first attempts involves sending many animals into the same Voidspace he had visited, in hopes that just as the untime dimension would imitate a mockery of the Entrati himself, it would imitate a mockery of a lesser intelligent being, kickstarting a "humbling devolution". Most animals that returned from the Void ended up dead as a corpse, and he persisted to send more combination of animals until he eventually discovered that the Void takes most interest in the uniqueness of the subjects.
+To that end the Entrati would gather an assortment of unique animals, assembling a pair of Cervulites, a tropical bird of unknown species as well as an enlargened Norg with unique body coat, and sent them on a voyage into the void. When they returned, they did not die save one, yet instead of humbling the untime consciousness, it seemed to have raised the intelligence of the animals instead to the point of them speaking in Voidtongue as well as giving them a personallity.
+And so his gambit had failed. Instead of disposing the animals, he ordered Loid to preserve them instead in hopes that future individuals more attuned to the Void may solve the mysteries unknown to him in his stead. They would later become the Cavia the protagonist Tenno encountered in Sanctum Anatomica, Deimos.
+Duviri
+There was an entry chronicling his days in Duviri, though it was not clear when exactly he entered the kingdom.
+In it, Albrecht constantly wakes up to the voice of his daughter, much like how Tales of Duviri narrates herself. During his early days in Duviri he made himself the teacher of the child-king ruling over the kingdom, teaching him of the threats beyond the borders. Later on, Albrecht had recognized the strange cast of characters that his daughter had narrated to him within the kingdom, realizing them as the self-same fantasy characters and stories he had told her within her childhood chambers long ago.
+Albrecht had realized the trivial stories he had came up with was morphed by his own daughter into a weapon of defense against The Indifference. Shamed by the courage his own daughter had shown, he discovered a newfound determination to defy the phantom that haunted him. He would soon disappear from Duviri unnoticed.
+The Vessels
+At some point, Albrecht seemed to have frequently travelled to 1999, described by him as the Plague Year. In it he acted the Doctor and brought healing to the people in the following year, providing treatment to those infected by the Techrot.
+Towards volunteers willing to contribute more than healing, he brought with him Helminth infusions to turn their bodies into partial Warframes, their bodies becoming newly attuned to the Void whilst their minds are kept intact, presumably for research purposes. Arthur and Aoi are implied to be two among the volunteers who came forward. Results of his researches can be seen written along the blackboards of the Netracells of his laboratories.
+Loid at one point suggested the idea of using the Grey Strain abundant all over Deimos, whose growth property are known to have reached monstrous dimensions. It was then that Albrecht had came up with the idea of developing The Vessels, combining the humanity of Arthur, the anatomical works of Ballas, and the monstrous growth of the Grey Strain; an equivalent to a Warframe on a titanic scale.
+We End As We Began
+His notes end with a chronicle of his last thoughts, filled with determination to repair what he has broken, regardless of whether his redemption will cost petty lives or not. As he bids Loid to destroy the device he and his loyal Kalymos will sleep in, his gambit against The Man in the Wall starts.
+Whispers in the Walls
+Albrecht makes several scant appearance in this quest, separated through different periods of time and progress.
+At the beginning of the quest, deep in the Entrati underground complex, Albrecht could be seen interacting with a pager and a 1990s computer before climbing into a coffin along with his Kavat, whispering to his attendant Loid his last words. After the coffin closes, Loid smashes it and the screen fades to black.
+He makes another appearance during the 1999 time period when the protagonist Tenno slipped into the point of view of Arthur's, during which the Entrati shows himself in front of the semi-Excalibur seconds away from the Year 2000, uttering to him:
+Albrecht Entrati to Arthur, 1999
+Albrecht Entrati presumably taken over by The Indifference, 2000
+Shortly after the Tenno recovered from their unplanned shift to the past, it was found by Loid that 1999 Albrecht had left behind a transmission message stuck within the Tenno's transference buffer. It was revealed in the message that Albrecht had initially left to the year 1999 to draw The Indifference's attention away from his assistant. He requests the Tenno for their trust, and instructed them to craft the Jahu Gargoyle blueprint found in the computer's memories, in order to complete The Kalymos Sequence.
+The Cavia-turned-comprehensible would then direct the Tenno to retrieve Albrecht's last missing page from his Grimoire. Interfacing the newly completed Grimoire of Entrati's with the Jahu Gargoyle, the final page narrates Albrecht's numerous praise for Loid's servitude as his right-hand man.
+A doppelganger of Albrecht Entrati makes an appearance in the epilogue of the quest, with similarly blank eyes like the Operator doppelganger. As the "Operator" speak on the Tenno's unwillingness to follow through on their deal with the Man In the Wall, "Albrecht" merely comments "We end as we began."
+The Hex
+While the Drifter arrives on New Years Eve 1999, Albrecht was captured by the Techrot and consequently interrogated. However, Major Neci Rusalka sends her Lieutenant away to show him that she has been possessed by the Indifference, shifting between the forms of Entrati himself and Loid - despite her threats towards him, he reaffirms that the Indifference's weakness is to love.
+When the Drifter attempts to retrieve Entrati from the interrogation room, they instead find the Man in The Wall, forcing them to retreat. However, when they return to the Central Mall after a mission to retrieve data on the reactor, they find Kalymos, who guides them to Entrati's Backroom. Inside, the Drifter accesses messages from Albrecht, who reveals that as the loop has been tampered with, they are unable to escape without the assistance of a power source rare in that dimension - the nuclear reactor set to explode on New Years 2000. As such, if the Drifter and Entrati wish to escape, they must not let The Hex stop the explosion.
+Immediately afterward, the Hex catch wind of a Scaldra VIP escort, and they are able to destroy several vehicles in the convoy before Major Neci Rusalka arrives to intervene. After a brief battle, she instead opts to ram the remaining convoy in an attempt to deny the Hex Entrati, only for both to survive.
+Albrecht emerges from the convoy to inform the Drifter that the Major is becoming more possessed by the Indifference with every cycle, and in order to stop it from influencing the timeline further, they need to kill her. However, the Drifter refuses, much to Albrecht's chagrin, and the two are whisked away by the Indifference.
+After the Hex breached the nuclear reactor in an attempt to stop the nuclear explosion themselves but ultimately fail to do so, resulting in the deaths of Eleanor, Leticia, Quincy and Aoi, Albrecht arrives to fatally shoot Amir as he struggles to fix the reactor along with Drifter while Arthur, who had just fought and killed a Techrot Babau inside of the reactor core, is left to die inside from radiation poisoning.
+Despite his request for the Drifter to join him in leaving for Tau, the Drifter opts to try saving them instead, leaving Albrecht to state that they cannot do so "unless you know them" as he shoots the Drifter with a Lex Prime, prompting them to begin another loop with their powers from Duviri, this time encompassing the entire year of 1999. He disappears afterwards, most likely to Tau.
+Isleweaver
+During his time being stranded within the kingdom of Duviri, Albrecht was known to have a "pet" Oraxia who served as his bodyguard. It is also implied through the mission transmission by the Indifference-addled Neci Rusalka that, at some point, he was very close with the then-younger Drifter, suggesting they knew each other long before 1999.
+The Devil's Triad
+XX99 was another year that Entrati time travelled to. After turning Roathe into the Protoframe of Uriel, Entrati brought him to La Cathédrale and handed the "devil" off to Father Lyon and Sister Marie before leaving.
+While not appearing directly in The New War quest, Albrecht is mentioned and shown indirectly throughout the quest several times. The first is in the flashback aboard the Zariman Ten Zero, where his portrait can be seen hanging up in one of the Zariman's classrooms, revealing his unmasked appearance. In addition, he is credited during the lecture as having written "Beyond The Wall of Lohk" and co-writing "The Palimpsest of Spacetime" with his daughter, Euleria.
+When the player revisits the Zariman in the present, in addition to the portrait now laying on the floor, a large statue of him can be found in the Zariman's atrium.
+The giant "wall" form that The Man in the Wall takes when appearing to the Lotus at the end of the quest vaguely resembles Albrecht's masked appearance, and is missing a finger - a reference to Albrecht's encounter with him.
+**Trivia:**
+Statues representing his likeness can be found in secret sections inside the Isolation Vaults.
+The headpiece Albrecht wears resembles the mind control devices embedded in the heads of the Corrupted. It is unknown if this means that Albrecht was the creator of these devices, or a means for him to sense his surroundings after being blinded by his encounter, or if they were simply an Orokin fashion item of the era. A peculiar detail is that the headpiece appears broken in his Vitruvian recordings, but is intact on the statues of him inside the Isolation Vaults.
+The Summus Prime Sentinel mask introduced as a part of Loki's Prime Access visually resembles Albrecht's headpiece.
+A similar headpiece is worn by Nef Anyo, but without the face plate. His flips down to form some form of visor.
+There is also a statue of an Orokin in the Awakening cinematic and quest that resembles Albrecht Entrati.
+Unlike other notable Orokin, Albrecht does not possess an elongated right arm. This is not the case for the rest of the Entrati.
+It is later clarified by the Drifter in KIM messages with Aoi that he refused that particular modification. He also refused Continuity out of fear that the one who escaped the Void was The Man In The Wall and not him.
+It is also revealed that after his encounter with The Indifference, Loid nursed him back to health and assisted in recovering his voice and eyes as well as providing a completely new skin. All of this provided him with a physical appearance that was hardly different from any regular human.
+His hair overall became quite different as well: in his original Orokin appearance, he had no facial hair and his hairstyle closely resembled black dreadlocks, while in his 1999 appearance, he has a full beard and has short gray hair bordering on white.
+While the most popular theory was that Albrecht became pale and grey haired from the void incident, recent information has proven this to be untrue: A KIM voice message from Roathe reveals that he was in his orokin form post void incident after being nursed back to health by Loid, with Roathe only recognizing the latter in his new appearance because of his voice and manerisms.
+According to the lead writer of Warframe, Albrecht and Loid's relationship is fully romantic.
+Name
+"Albrecht" is a name of German origin as a more modern variant of the former "Adalbert" (conjecture of "adal" and "bereht" meaning "noble" and "bright/famous" respectively, also cognate with the English name of Albright of same origin). "Bengel" likewise is a German word meaning "rascal" and not a nickname variant of Albrecht.
+The use of "Bengel" as a nickname for Albrecht may also be derived from German Lutheran scholar Johann Albrecht Bengel.
+Entrati is the past tense of "entrare," (to enter) -in Italian- conjugated in the first person plural (we entered/siamo entrati).
+His full name "Albrecht Entrati" and his long, wispy hair in his portrait may be an homage to Albert Einstein, a physicist famous for his development of the theory of relativity. Eternalism, a theory that taught in class during the The New War quest, partially resembles Einstein's theory of relativity.
+In the Warframe: 1999 tie-in comic, Albrecht is given the moniker of "Doktor Friday". Coincidentally, the year 1999 also ends on a Friday, both in game and in real life.
+The alias Marie uses for Entrati, Dimanche, means "Sunday" in French. In removed dialogue and text, XX99 was indicated to be in the 19th century, where the last day was on a Sunday.
+Localization
+
+## Loid
+Loid
+Loid is the representative of the Necraloid syndicate within the Necralisk on Deimos. He is a Cephalon construct, made by Albrecht Entrati, who is integrated into a Necraloid along with Otak, serving as a loyal, life-long servant to the Entrati family. He is located in the Necralisk's backroom and sells Necramech parts and weapons.
+To interact with Loid, the player must complete Heart of Deimos and The War Within. The backdoor at the northernmost part of the Necralisk will only open for the Operator, where Loid handles all interactions with the Necraloid, until the initiation of The Kalymos Sequence in Whispers in the Walls enables Warframes to pass through unhindered.
+Lore & History
+General
+Loid is a Necraloid, an Orokin Cephalon created by Albrecht Entrati in order to serve his family. Unlike most Cephalons, who are digital constructs without a physical form, Loid is installed within a floating Sentinel-like shell.
+Some time after the infestation of Deimos, Loid attempted to assist Otak, another Cephalon in service to the Entrati, by uploading what remained of Otak's personality into his own shell. However, part of the defragmentation process failed, leaving Otak irreparably damaged. While the two Cephalons are mostly capable of switching between each other, Otak occasionally interrupts Loid with erratic, whimsical remarks.
+The Infestation of Deimos
+Transcripts of Unauthorized Broadcasts
+In the lead-up to TennoCon 2023, Nora Night, during a slow and uneventful night, finally decides to open her own call line, conversing with three unknown callers over the course of three days.
+Transmission Origin: [CRITICAL ERROR] / Time Since Intercept - 9 Hours
+The third caller is Loid, attempting to remain anonymous by using the alias "Bones". He states that something not intended to happen to his kind has occurred, and that he feels compelled to share it, but doesn't know who to share it with. Loid then reveals that his partner, presumably Otak, has abruptly gone missing, and that he is now alone. Nora attempts to console Loid, asking if there is anyone he can ask for help. Loid then realizes that they both know someone capable of dealing with the unknown, and states that they must be summoned immediately.
+Whispers in the Walls
+thumb|The original Loid, awoken during the Whispers in the Walls.
+As the threat of The Indifference grows, Loid becomes aware of a previously-hidden precept known as the Kalymos Sequence. He asks the Tenno to meet him in the Necralisk and leads them beneath it into the Sanctum Anatomica and Albrecht's Laboratories. There they fulfill the first step of the Sequence by awakening 'the Sleeper' - revealed to be the original, human Loid, who the Necraloid was created in order to accompany and assist. However, the human Loid shows disdain towards his Cephalon replica and opts to send him back up to the Necralisk to ensure the rest of the family remains asleep and unaware of the laboratories.
+After completing the quest, Necraloid can ask about the progress of the Kalymos Sequence if spoken to in the Necralisk. He additionally implies he had forced Otak into slumber to keep him away from the labs, believing that the truth of the situation might harm him. It is unclear whether this is a separate incident to the disappearance he had earlier discussed with Nora Night, or if the two are the same and he opted to lie about the situation.
+Deep Archimedea
+After Loid and the Cavia settled into the laboratories, Necraloid began splitting his time between his duties in the Necralisk and helping in the Sanctum Anatomica by running Deep Archimedea, a set of volatile experiments with strict parameters. Failure of said experiments would risk the Entrati family becoming aware of the existence of Albrecht's Laboratories, so Loid tasked his Necraloid self with ensuring all went smoothly.
+Wares
+Loid
+loidwares
+Embellishments
+loidembellishments
+**Trivia:**
+Loid is the only NPC in Necralisk who doesn't have his own Entrati Family Token, presumably due to him being his own syndicate instead of a member of the Entrati syndicate.
+Loid (and Otak) are the first NPC to have a companion skin, the second of which being Ordis.
+After the original Loid's awakening in Whispers in the Walls, Loid is referred to in subtitles as "Necraloid" for the remainder of the quest to prevent confusion. This does not apply to his appearances in the Necralisk or the Cambion Drift.
+While discussing Dante, the original Loid mentions having had his skull replicated. As all other known instances of Cephalon creation have involved the death of the subject, it is almost certainly this replica from which Necraloid was created.
+This is further supported in a KIM chat with Marie wherein she recounts an exchange involving Loid and Necraloid, with Necraloid referring to 'his' skull vs. the 'original', while Loid refers to Necraloid as a replica.
+
+## Acrithis
+Acrithis
+Acrithis is a Duviri archivist and the avatar of Curiosity. She appears throughout Duviri and in the Dormizone, offering a wide variety of wares for materials found in Duviri.
+In the Dormizone, next to her is a pylon that contains archives of the Lost Islands of Duviri Fragments of the Codex. Acrithis can also be found wandering Duviri in her 30x30pxcarriage with her position changing over time. After completing a Mood Spiral and defeating the Orowyrm at the end, she will appear before the players at The King's Palace.
+Lore
+Lost Islands of Duviri
+As the resident archivist, Acrithis recorded many islands within Duviri, most of which have since been lost to the Void or destroyed by Dominus Thrax.
+Offerings
+Wares
+Acrithis
+Weekly Rotation (5 of below)
+Resets every Sunday 0:00 UTC
+Daily Rotation
+Resets everyday UTC 0:00
+Arcanes (1 of below)
+Once per day, one Arcane Enhancement can be purchased. Requires Drifter Intrinsics Opportunity Rank 9.
+Capturas (1 of below)
+Rotating every few hours
+Origin System Resources
+Duviri-Themed Decorations
+Decorations
+Other
+Enigma Archives
+Enigma Gyrum can be used to purchase Duviri-Themed Decorations.
+AcrithisEnigma
+50
+40
+35
+35
+20
+15
+10
+10
+10
+10
+10
+10
+5
+5
+Kullervo's Archive
+Kullervo's Bane can be used to purchase Kullervo, Rauta and Credits. 42 are needed to purchase all parts of Kullervo, and 30 are needed to purchase all parts of Rauta, for a total of 72 Kullervo's Bane needed to purchase both.
+AcrithisKullervo
+15
+9
+9
+9
+12
+6
+6
+6
+15
+10
+15
+Exchange Scuttler Husks
+Scuttler Husk can be used to purchase Oraxia, Scyotid, Spinnerex, Thalys and Captura scenes.
+Kuva has purchase limit of 7 times per week.
+120 are needed to purchase all parts of Oraxia, 96 for all parts of Scyotid (2x Barrel and Gauntlet), 96 for all parts of Spinnerex, 96 for the Thalys blueprint, and 125 for all Captura scenes, for a total of 533 Scuttler Husk needed to purchase everything. (This total increases to 653 if you wish to purchase a second Oraxia for Helminth purposes.) However, only the Captura scenes and the Thalys blueprint are shop-exclusive, reducing this total to 221 Scuttler Husk if you are willing to farm the rest.
+Note: Acrithis will only exchange Scuttler Husks in the Dormizone. This option is absent if she is interacted within Duviri.
+AcrithisOraxia
+60
+20
+20
+20
+48
+12
+12
+96
+48
+16
+16
+16
+25
+25
+25
+25
+25
+100
+
+## Kahl-175
+Kahl-175
+Kahl-175 is a Grineer Lancer introduced in The New War. Formerly in service to the Grineer Queens directly under Councilor Vay Hek, he was captured into Narmer service.
+After escaping in Veilbreaker, Kahl recognizes that the Grineer Queens have abandoned him, but despite defecting from the Grineer Empire he now chooses to fight for all of his Grineer brothers. He allies with the Tenno and Daughter Entrati in their shared goal of defeating their new enemy and rescuing any veiled - including Corpus, Ostron, Solaris United - while forming Kahl's Garrison.
+Lore
+The New War
+Kahl is one of many Grineer soldiers that were fighting against the invading Sentient in the Plains of Eidolon and part of Councilor Vay Hek's "Eight Squad."
+A Tusk Firbolg crashes after being knocked out by a Sentient fighter, and Kahl picks up a Grakata from a dead Lancer from the crashed Firbolg. Vay Hek orders Kahl to regroup at his beacon. When he arrives at the beacon, a Tusk Bolkor crashes right in front of him, then a Tusk Dargyn gets shot out of the sky and crashes. Kahl goes to help the Dargyn Pilot, fighting past several Sentients, but the Pilot is already dead when he arrives. Kahl then asks what his mission is now.
+Vay Hek tells Kahl that there is no mission, as even going near the Condrix would only get him eaten alive, but Kahl has an idea: to feed the Condrix a bomb. Vay Hek agrees with his idea, and orders Kahl to hurry and find an explosive with a high enough yield to destroy the Condrix. Kahl heads to a mining camp to retrieve the "Big Bomb," when he spots Sentient Searches, and successfully sneaks past them. He then enters a tent where the bomb is, picks it up and hesitates, then decides to sacrifice himself for the Queens. He exits the tent and is immediately blown away by an exploding Tusk Thumper.
+Kahl wakes up and takes off his mask, only to spot a Sentient killing nearby Lancers. He quickly looks around and notices a fallen Rhino, crawls up to the body and grabs his weapon, shooting and killing the Sentient just in time. He stands up, spits to the side and pumps his newly acquired Corinth Prime, and heads to the Condrix to "feed" it the explosive. He reaches the Condrix, collapses from exhaustion, and then activates the bomb. As he begins to declare his speech for the Queens, he abruptly pauses and instead declares for his brothers.
+Kahl is awoken by a red light, and realizes that the bomb didn't detonate and he is somehow still alive. He looks up, horrified, as Erra stands in front of him, telling him to not be afraid.
+Veilbreaker
+Kahl-175
+Kahl was revealed to have survived, forced into Narmer service. However, he breaks from control of his Narmer Veil in a Murex over Deimos and, remembering everything, decides to resume his fight. He sends out a distress beacon which is picked up by Daughter, who then relays the signal to the Tenno in a response effort, only to be shocked to find out that its owner is a "vat rat" Grineer. Referred to by Kahl as "Blue Girl", she reluctantly guides him to free his brothers and any other veiled (be they Corpus, Ostron, or Solaris United) in exchange for information on Narmer's new leader Pazuul, and the heroic Lancer ultimately escapes aboard a Tenno Railjack.
+Kahl reveals that he no longer fights for the Grineer Queens or Councilor Vay Hek, as they had no involvement in his escape and believes they had abandoned him. Taking refuge in the Drifter's Camp, Kahl allies with the Tenno - being the ones who responded to his distress signal despite his being Grineer - and forms Kahl's Garrison. As Kahl fights against Narmer, he fashions himself with a self-made Veilbreaker device created out of an EMP ram to forcibly remove veils without killing the enthralled.
+Gameplay
+Kahl-175 is a playable character during The New War, Veilbreaker, and Break Narmer.
+Kahl has 1,000 health and no shields.
+In The New War, enemies drop Health Orbs, which heal for the usual amount of 100 health. In Veilbreaker, enemies no longer drop health orbs and his health instead regenerates after not being damaged for a short time.
+Kahl's weaponry changes over the course of his gameplay:
+His primary weapon is a Grakata, which has 90 Magazine Capacity instead of the usual 60, and reloads in one second, equivalent to having 140% bonus reload speed applied.
+In The New War, his melee weapon is a Machete. In Veilbreaker, he has a Slaytra. Kahl is capable of performing stealth finishers and slam attacks with his melee.
+In The New War, Kahl replaces his Grakata for a Corinth Prime.
+In Break Narmer's Junk Run and Prison Break, Kahl can find the following weapons from fallen Grineer corpses: Ogris, Ignis, Tonkor, Grinlok, Jat Kittag, or Gorvakk (a unique shotgun exclusive to Break Narmer), Avex (a unique Sniper Rifle exclusive to Break Narmer).
+In Veilbreaker and Break Narmer's Prison Break, Kahl can trade his Grakata for a "Bolkor" Grattler. This version has 60 Magazine Capacity instead of the usual 30, and has Archwing recharging ammo despite being used like an atmospheric Arch-gun.
+In Break Narmer's Sneaky Sabotage, Kahl is instructed to not go with a gun. After the sabotage, he acquires an Exergis.
+In Break Narmer's Junk Run, Kahl can trade his Grakata for a "Salvaged" Kuva Ayanga. This version has 4 Magazine Capacity instead of the usual 33, but has significantly faster Reload Speed and does not stagger Kahl.
+Kahl has three "abilities":
+His first ability throws a incendiary grenade. He can carry up to a maximum of four and are replenished from enemy drops.
+His second ability deploys a blunt. It has a 3 second cooldown and deploying a new blunt will destroy the oldest one. The blunt can also serve as a mobility aid as Kahl can climb over it, allowing him to access areas just out of reach, but does not block area of effect attacks which comprise of most enemy attacks in Veilbreaker and Break Narmer missions.
+Kahl gains a third ability dubbed Veilbreaker in Break Narmer, throwing a shock grenade that stuns enemies and veiled NPCs. Stunned veiled can be interacted with to remove their veils in a quick-time event (melee button, default E). The shock grenade has an 8 second cooldown.
+Shock grenades will very briefly stun most enemies when hit, even the Narmer Scyto Raknoid in Sneaky Sabotage and most importantly Narmer Deacons, who will be stunned for several seconds when in the radius or hit directly. The Narmer Thumper in Junk Run is not affected however.
+Kahl can crouch and roll, but cannot slide, double jump, or bullet jump.
+In The New War, Kahl performs a standard roll. In Veilbreaker and Break Narmer, the roll is replaced by a shoulder tackle.
+In The New War, Kahl can use ammo dispensers to replenish ammunition for his weapons and grenades. In Veilbreaker and Break Narmer, his weapons have infinite Ammo Maximum and enemies only drop grenades.
+In Veilbreaker and Break Narmer, Kahl gains the ability to enter Command Mode (waypoint button, default G):
+Veilbreaker and Break Narmer's Junk Run and Prison Break:
+Give Command (fire button, default Left Click): Kahl gains allied units that will follow his orders.
+If targeting an objective, such as debris blocking the way, one of his units will place a detonation charge on it to blow it up.
+If targeting an enemy, his units will focus their fire.
+If targeting a surface, his units will move there and hold position.
+If targeting an ally in Bleedout, one of his units will revive them.
+Regroup (zoom button, default Right Click): Allied units will terminate any given commands and resume following Kahl.
+Break Narmer's Sneaky Sabotage:
+Order Strike (fire button, default Left Click): Kahl orders an orbital strike on a location, dealing damage in a large radius and can kill Narmer Deacons who are otherwise normally immune to Kahl's attacks. Has a 10 second cooldown.
+In Veilbreaker and Break Narmer's Junk Run and Prison Break, Kahl acquires a Hellion jetpack, which allows him to hover and maneuver in the air (jump button, default tap and hold Space in midair). The Hellion jetpack has a fuel gauge that recharges when not in use.
+Weekly Mission
+After Kahl takes up residence in the Drifter's Camp upon completion of Veilbreaker, Kahl receives assignments in his battle against Narmer. By talking to Kahl, he can undergo missions that continue his gameplay, which rotate on a weekly basis. Completion of these missions ranks up Kahl's Garrison and award Stock (Kahl) to buy wares from Chipper.
+Customization
+Upon completion of Veilbreaker, Kahl's appearance can be customized using the Grineer cache next to him. He can equip cosmetic armor chest, shoulders, and leggings that are available to Tenno, and has unique helmet, eye-guard, and back pieces. He can also equip Material Structures. Additional customizations are unlocked with ranking up with Kahl's Garrison.
+Helmet
+Eye-Guard
+Chest
+Back
+Shoulders
+Leggings
+**Notes:**
+Using the Skaut's Air Support, Kahl and a small squad of either Tusk Hellions or Corpus Techs can be summoned as an NPC ally in normal missions. He comes armed with a Grattler and the customizations from the player who summoned him.
+Kahl can enter the Captura from his customization menu, but he will not have any of his weapons.
+**Trivia:**
+"Kahl" means "Bald" in German.
+Kahl-175 was first revealed in the Gameplay Trailer for The New War at TennoCon 2021.
+Tracking where Kahl had gone by noting terrain figures, there's a visible crater with a small puddle of what appears to be blood, and knocked down Condrix where Kahl had ended his segment.
+If damage numbers are enabled, it appears that Kahl-175's equipment is the same as the versions usable for Warframes while being fully unmodded.
+The paint scheme used by Kahl-175 and his unit is unique, featuring a reflective silver secondary color not shared with any other Lancer type.
+The Grineer Empire appear to be aware of Kahl's defection, with the still-loyal Ven'kra Tel warning him the Queens might paint him as a target and she could be executed just for talking to him.
+Despite sharing ideals and sending rescued Grineer defectors over to Steel Meridian, Kahl explains to Daughter that he has no intentions of joining up with them, stating Cressa Tal's forces are "too big" and prefers low-profile stealth and guerrilla tactics to fight Narmer.
+In Archon Hunt Survival missions, the Lotus tells the player Tenno that they must provide a distraction for a Grineer operative and his Entrati guide, obviously referring to Kahl and Daughter.
+Kahl-175 can encounter a Kahl-180 during Veilbreaker when first obtaining the Hellion Pack, stating that they were from the 'same tube'.
+Kahl-175 has a strong attachment to his fellow Grineer, so strong as to defy his allegiance to the Queens for a moment just before his attempted self sacrifice, and which becomes the basis of his ultimate defection upon realizing the Queens didn't attempt to save him from the Sentients.
+Kahl-175 is able to kill veiled Grineer during Break Narmer missions rather than saving them (though their high health makes this relatively difficult to achieve), but he shows no changes over killing regular enemies.
+When playing as Kahl, objective descriptions are altered to match the simplistic Grineer speech he has. (e.g. "Smash Big Worm Thumper" instead of "Defeat Narmer Thumper")
+
+## Veso
+Veso
+Veso, also known as Veso-R, is a Corpus Tech First Class introduced in The New War.
+Lore
+The New War
+Veso is a Corpus Tech during the Sentient invasion of the Origin System. Serving under Alad V in a Corpus fleet engaged in combat with the Sentients, Veso contacts him after Alad V asks for any remaining Techs aboard to narrow-band him at once. Alad V tasks him with breaking fire control from the fleet as his command overrides aren't working, getting Veso's name wrong and calling him "Veko" in the process. After correcting Alad's mistake, Veso heads to a trace conduit. Using his Data Pad, he breaks through the ship's wreckage using an explosive Breacher MOA. He then encounters rogue MOAs that are under Sentient control and informs Alad that their grid has been breached. Alad says that he'll send some "meat-crews" to aid Veso, adding that he still needs the override while forgetting Veso's name again.
+Fighting past more rogue robotics, he successfully hacks one of the override conduits using another Breacher MOA. While heading to the next conduit, he encounters more of the ship that has been taken over by Sentient control. After breaking through more wreckage with the help of a Shield Drone and a Striker MOA, he is contacted again by Alad. Getting Veso's name wrong yet again, Alad is dismayed that "Teko" has not yet disengaged the fire control. Veso begins to question his orders and gets confused over Alad's repeated desire to disengage the fire control. Alad responds by saying that they're about to be under "new management" (in reference to the Sentient invasion), and threatens to replace Veso with a "more forward-thinking replacement" if he doesn't comply.
+Veso continues through the ship, encountering Crewmen engaging the rogue Corpus robotics. After fighting past some of the robotics with them, his path is then blocked by a rogue Jackal, with Alad V questioning "Teso" his plan to fight it. After its destruction and Alad V congratulating "Viko", Veso engages the final override, allowing the nearest Sentient Murex to dock. During Alad V's following speech claiming to have negotiated an alliance with the Sentients, Veso realizes that Alad V intends to betray the Corpus Board of Directors and angrily reactivates the entire fleet's weapons, ordering the Corpus to "Take [their] shot. For Profit." The ship fires into the heart of the Murex, destroying it as the resulting shockwave causes the Corpus Ship to break apart, killing Veso.
+Veilbreaker
+Olvar D
+Olvar D mentions that "Veko" is remembered as a hero among the Corpus.
+Gameplay
+Veso is a playable character during The New War.
+He has 300 health and 150 shields.
+He is armed with Plinx and Prova.
+Using a Corpus Data Pad, Veso has three "abilities" that allow him to interface with nearby robotic dispensers to summon robots, and command summoned robots to move around.
+His first ability summons a Breacher MOA. It can interface with terminals and cross into areas that Veso cannot reach such as small gaps or security beams. Shooting the Breacher MOA will cause it to explode and clear debris.
+His second ability summons a Shield Drone that recharges shields of Veso and his allies, which also allows the Breacher MOA to cross into electrified fields.
+His third ability summons a Striker MOA to produce a combat ally.
+He can crouch and roll, but cannot slide, double jump, or bullet jump.
+**Trivia:**
+Veso was first revealed in the Gameplay Trailer for The New War at TennoCon 2021, where the final confrontation was against a Bursa blockade. The Bursa encounter is absent in-game.
+Veso has markings on his helmet similar to Corpus Tech Eximus units and The Sergeant.
+A running gag with Veso has other characters pronounce his name incorrectly. Alad V refers to Veso by four different names, and not once does he get his name right. Olvar D idolizes Veso for his sacrifice, but also gets his hero's name wrong.
+
+## Fibonacci
+Fibonacci is the de facto leader of the Cavia, a group of surviving animal specimens that were the subject of one of Albrecht Entrati's failed experiments. He is a giant Norg that resides within the Sanctum Anatomica, a laboratory located beneath the Necralisk, and can be found within a large tank near the entrance of the Sanctum.
+Fibonacci offers Bounties to the Tenno. Players must first complete Whispers in the Walls quest before they can access Sanctum Anatomica bounties and earn standing for Cavia.
+General
+Lore & History
+**Trivia:**
+Fibonacci is named after the prominent, real-life Italian mathematician of the same name.
+Tagfer often calls Fibonacci "fib" for short, which means to lie.
+He is voiced by Neil Newbon, who also voices Lieutenant Viktor Vodyanoi, Astarion in Baldur's Gate 3 and Karl Heisenberg in Resident Evil Village.
+According to Loid, Fibonacci is known to cheat at Komi.
+
+## Chipper
+Kahl-175
+Chipper is a Solaris worker that was captured by Narmer. After Kahl-175 removes his Narmer Veil, he joins the Grineer at the Drifter's Camp and supports Kahl's Garrison, appearing at Rank 2 - Encampment with the Syndicate. Chipper exchanges unique items for Stock (Kahl). He also serves as the Defense target during Archon Hunts.
+Offerings
+Chipper offers blueprints for Styanax, Afentis, Aegrit, and Slaytra, Archon Mods, Fog Of War and Shard Ephemeras, the Skaut Landing Craft, and Veilbreaker Captura Instead of Syndicate Standing, Chipper takes Stock (Kahl) earned from Break Narmer bonus challenges.
+Chipper
+Always available
+Rank 2: Encampment
+Rank 2: Encampment
+Rank 3: Fort
+Rank 3: Fort
+Rank 3: Fort
+Rank 3: Fort
+Rank 3: Fort
+Rank 3: Fort
+Rank 4: Settlement
+Rank 4: Settlement
+Rank 5: Home
+Rank 5: Home
+Rank 5: Home
+Rank 5: Home
+Rank 5: Home
+Rank 5: Home
+Rank 5: Home
+Rank 5: Home
+Rank 5: Home
+Note
+When the player reaches Rank 5 - Home with Kahl's Garrison and Rank 5 - Old Mate with Solaris United, Chipper will open his chest cavity, revealing his organic head and signifying his trust in the Tenno.
+The chest cavity will not open if Creator Mode in Settings is enabled.
+**Trivia:**
+Chipper's voice line "Most a these jokers just want somethin' that goes bang on one end and boom where they point it." references a long-running gag in the community where Area of Effect weapons were a largely dominant playstyle since Update 27.2 before being toned down in Update 32, the same update that introduced Chipper.
+Once Chipper is saved, he does not appear in any future Sneaky Sabotage missions, and is replaced with a generic veiled Solaris.
+During Archon Hunt Defense missions he will have a Kitgun with the Rattleguts Chamber, Haymaker Grip, and Bellows Loader equipped by default.
+
+## Dax
+Update 33
+Dax saying
+The Dax were an elite fighting force who served the Orokin as their soldiers, bodyguards, and commanders. They were considered formidable warriors, and they were more numerous but less effective than Tenno Warframes.
+In Duviri, skeletal-like imitation Dax appear as the primary enemy force.
+Lore
+Orokin
+Under servitude as the Orokin Empire's elite warriors, the Dax were forced to obey whoever possessed Kuva, as it marked them as an Orokin elite. They were a small core of the army, between the normal foot soldiers and the Tenno. They were relied on due to their ability and often had augments implanted in order to increase their speed and strength to superhuman levels. All Dax uniforms were the same, with rank being indicated by their mechanical helmets which covered most of the face and widened at the top. They also wore bronze chest plates and leg armor. As for their weapons, they all wielded the Nikana or variants of it. Some, like Teshin, possessed the Orvius disk. The Quellor and Pennant were considered standard-issue for Railjack crews during The Old War.
+At one point during the Old War, an insurgency occurred on the ancient tower of Altra on Ceres and a Dax battalion was sent by the Orokin as an attempt to recapture the tower. However, the tower's defenses proved to be impenetrable to the battalion. Gauss was then called in to quell the insurgency. With his immense speed, he blitzed through the tower and was able to reclaim it. Near the end of the war, as seen in the Erra quest, a female Dax known as Varzia was seen wearing silver-colored armor instead of bronze-colored. Varzia also wielded the Orvius disk, possibly indicating that all Dax had them.
+The Dax were present at the fall of the Orokin, but most of them were killed during or after it, being no real match for the Tenno. The only known survivors were Teshin and Varzia, though it is unknown how they survived. Teshin formed the Conclave in an attempt to train and preserve the fighting ability and honor of the Tenno, though his ideals often clashed with the Lotus. Varzia resides in Maroo's Bazaar as a vendor, retired from fighting and selling Prime gear to the Tenno.
+In the Corrupted Ancient Synthesis Imprint, a Dax named Menz was involved with fighting off the Infestation. This was just after the fall of the Orokin leaders, as the Tenno are mentioned as the betrayers. In this, he is the friend and bodyguard of an Orokin Lorist named Ontella. He commands a group of unknown bodyguards, possibly also Dax, but most likely Grineer or Corrupted, and MOAs. He ultimately beat back the Infested, but all of the other guards died.
+An unnamed Dax is mentioned in the Guardsman synthesis, and he leads a group of guards around a low-level Orokin named Alarez. However, he was ambushed and cut down by a Grineer named Veytok.
+Duviri
+Bombastine
+Instead of flesh and blood, the Dax of Duviri appear as mighty skeletal enforcers.
+Anarch
+Though the Orokin were once at war with the Sentient, a peace treaty was eventually brokered leading to The Old Peace. However, not all agreed with this peace, with Galastra leading the Anarchs as a separatist faction, which is largely comprised of Dax.
+Enemies
+Duviri
+x200px|right
+intro
+x200px|right
+intro
+x200px|right
+intro
+x200px|right
+intro
+x200px|right
+intro
+Anarch
+Anarch Arcus
+Anarch Capsarii
+Anarch Gladius
+Anarch Libritor
+Anarch Tenebra
+Notable Characters
+Teshin - Leader of the Conclave
+Varzia - Vendor at Maroo's Bazaar
+Dagath - Prior to becoming a Warframe, Dagath was an unnamed Dax cavalrywoman engaging in a forbidden relationship with Orokin couple Corphel and Irilia
+Excalibur Umbra - Prior to becoming a Warframe, this unnamed Dax was punished by Ballas and was forced to continually relive his memories of torture
+Isaah (Deceased) - The son of the Dax who would later become Excalibur Umbra
+Menz - Guard
+Sukhin (Deceased) - Cephalon Cy's crew member
+Krodhi (Deceased) - Cephalon Cy's crew member
+Zada (Deceased) - Cephalon Cy's crew member
+**Notes:**
+Tyl Regor once referred to Teshin as a "pseudo-Tenno", though there is no visible connection between the two.
+Some Dax have the word in their name, with Teshin being known as "Teshin Dax", Menz being known as "Dax Menz", and Varzia being known as "Varzia Dax".
+**Trivia:**
+According to Dagath's lore, a Dax engaging in relationships with their Orokin masters was deemed taboo and punishable by execution.
+During The Duviri Paradox Demo in TennoCon 2022, there was a Dax Gladius known as Denphius who served as Dominus Thrax's "champion". However, he never appeared in the final game, and was replaced with a nameless, identical Dax that serves as a tutorial enemy for Drifter melee.
+Despite the Drifter looting Sirocco from the corpse of a Dax Gladius, none of the Duviri Dax wield firearms.
+
+## Orokin
+Orokin Fragment
+The Orokin or the Orokin Empire was an ancient civilization that ruled over the Origin System in the distant past. During what was known as the Orokin Era, they built technological masterpieces that surpass even present day technology, while exercising complete dominion over the known world. Although details about the Orokin are scarce, they are almost entirely responsible for the current state of the Origin System.
+Overview
+The Orokin's exact origins are unknown, but it is theorized that they emerged after the Radiation Wars, and that some ancient factions may have served as their predecessors.
+Their history prior to their fall however, is well-known - as the ruling class of the Origin System, they held control over all planets and colonies within the system. While they had impressive technology which surpasses virtually any and all modern-day instances, their society was an incredibly oppressive one, with most Orokin generally viewing all others as inferior, and many violations of law warranting a form of cruel and unusual punishment, including, but not limited to, outright execution, "glassing" (the conversion of an individual into a Cephalon) and other forms of torture. Even law-abiding citizens were not immune to these punishments, as several Orokin occasionally plucked innocents to use in their schemes, as told by Grandmother.
+The Orokin high class generally engaged in activities normally considered inhumane and immoral, including human trafficking (for use in Continuity) and torture (as told by Grandmother.) Toward the end of the Orokin Era, their capital was Earth's moon, now known as Lua.
+In an attempt to expand their reach and combat the issues they caused within the Origin System, they attempted to colonize the nearby Tau System. The Orokin's first attempt came with the Sentient, multi-adaptive replicating terraforming machines sent to Tau to make the world habitable for impending colonization. The first human colonization test, facilitated by the Zariman 10-0 colony ship, ended in failure before it could reach Tau, with the adult crew dead and the surviving children imbued with esoteric and nigh-uncontrollable powers. Those children would come to be known as "Tenno". The Sentients, having gained sentience, sapience, and Oro in their long journey in terraforming Tau, would go rogue once they realized their creators would destroy them and the Tau System as they had done the Origin System.
+When the Sentients returned to the Origin System to preemptively strike against their creators to prevent Orokin colonization of Tau, the Orokin were caught off-guard and remained on the backfoot until they turned to the Tenno, the children of the Zariman. By bastardizing the research and therapeutic techniques developed by Archimedean Margulis to help the Tenno, and commingling it with the Warframe Project headed by Executor Ballas, the Orokin managed to turn the tide of the war in their favor. However, during the victory celebrations, the Tenno slaughtered the Orokin as revenge for the execution of Margulis, bringing an end to The Old War.
+With Orokin leadership slaughtered, the empire fell shortly after, with various splinter groups vying to replace them.
+Lore & History
+Lith Era is speculation based on the planets that the relics drop from
+Regardless of origins, the Orokin eventually came to power over Earth, Venus, Mercury, Mars, and their moons in the Lith Era as the ruling class of a highly advanced but highly stratified human civilization. Over the course of 4 eras (Lith, Meso, Neo, and Axi), they would expand their influence over the entire solar system, accomplishing this task in its entirety in the Axi era. Over the course of their empire, the Orokin would experiment with and create technology that far surpasses modern-day examples, with some of their inventions such as the Solar Rails remaining in use to present day. However, various issues plagued the Origin system, including overpopulation, which prompted the Orokin to set their sights on colonizing the nearby Tau System.
+Their first attempt was the Zariman Ten-Zero, a colony ship designed to make a Void Jump to the Tau System and prepare it for Orokin occupancy. However, the Zariman suffered an accident where it slipped into the Void for several years, driving the adults insane and mutating the children onboard with inexplicable powers. When the ship reappeared and was recovered, the incident was covered up, with leadership claiming the ship was a military vessel and had no children onboard. These children, now called Tenno, would be initially cared for by Archimedian Margulis, who continued even after being blinded by their powers, and developed a way for them to focus their power in a method known as "Transference" which allowed the Tenno to possess surrogate bodies. However, she was eventually executed by the Orokin Seven for refusing to kill the Tenno as per their wishes.
+Their situation growing more dire, the Orokin authorized the creation of the Sentient, highly adaptable and regenerative terraforming machines that could build a Solar Rail to Tau System and terraform the system for the Orokin's arrival. However, the Sentients became aware of the fact that the Orokin would plunder the Tau System like the Origin System, and they would return to the Origin System to wage war. As the Sentients absorbed and adapted to Orokin technology, the Orokin were forced to return to the Tenno, and using the recent efforts of Ballas to create technology that could not be affected by the Sentients, created the Warframes - Infested human subjects who were morphed into living suits of armor, which could then be possessed by the Tenno through Transference and channel their powers. These Warframes would turn the tide of war in the Orokin's favor, but they would be betrayed.
+Ballas, having grown bitter because the late Margulis favored the Tenno over him, informed Hunhow of the Tenno's weakness: their Reservoir on Lua, which contained the actual bodies of the Tenno. Hunhow then sent his daughter, Natah, into the Origin System as a mole, with Ballas claiming he had managed to reprogram her to serve the Orokin.
+When the Orokin had finally pushed the Sentients back, they launched a series of celebrations to honor the Tenno which had enabled their victory. However, under the orders of Natah, now known as the Lotus, the Tenno would slaughter the Orokin across the Origin System.
+Most of the high-ranking Orokin who escaped the initial slaughter would be hunted down by the Tenno before they eventually went into cryosleep, though some still eluded the Tenno, such as Ballas and the Entrati family.
+Warframe Era
+After Lua was pulled out of its hiding place in the Void during the events of The Second Dream, Ballas would eventually find the Lotus on Lua, and manipulate her into leaving with him using Void power. Afterwards, he would confront his rogue creation, Excalibur Umbra, and initially destroy it - when they meet again however, Umbra, with the assistance of the Operator, is able to grievously wound Ballas, who is spirited away by the Lotus, converted back to her Natah identity.
+Ballas would be "healed" by the Sentients by being turned into an Amalgam, and he would feign anger towards the Sentients for denying him his "perfect death" to the disguised Tenno, offering them the "idea" of his blade, the Paracesis. However, he was still continuing to work with the Sentients, and would continue to do so as the Sentients returned to the Origin System once more to wage the New War.
+When the Tenno arrived onboard Praghasa to assist Teshin Dax and the Lotus, Ballas would be present, taking the life force of the Lotus and then banishing the Tenno and the Lotus into a nearby Void portal. With the Tenno gone, he is able to establish his Narmer empire, where he is able to use Narmer Veils to warp the truth to his favor, painting himself as an innocent victim of the Tenno.
+However, when he learns of the return of the Tenno, he decides to use the sun of the Origin System to fuel his escape to the Tau System, but the Tenno and the Lotus confront him before he is able to escape. After a lengthy battle, the Tenno is able to subdue Ballas, who is fooled into kissing the Lotus, and his life is drained from him, finally ending his life and threat to the Origin System.
+Culture
+right|thumb|An Orokin teaset as seen during The Sacrifice
+Aesthetics and Fashion
+Details about Orokin culture are scarce, but it is evident from their architecture and relics that they were obsessed with splendor, luxury, beauty, and excess. The Orokin favored white, gold, black, grey, tan and blue in their aesthetics, and tended to construct massive structures adorned with innumerable golden ornaments complemented by long hallways and extremely high ceilings. Orokin-made items all share this luxurious design, from tea sets and clothing to even their most basic infantry rifles, and their distinctive relics have continued to influence cultures all the way up to the present day. Some high-ranking Orokin even modified their own bodies to obtain a more aesthetically wild and beautiful appearance than would ever be naturally possible, with blue skin and an elongated right arm.
+Class and Aristocracy
+Despite their futuristic splendor, much of Orokin culture was heavily influenced by ancient cultures, with much emphasis placed on honor, propriety, loyalty to one's superiors, and acceptance of the status quo. Being dominated by an immortal aristocracy with access to highly advanced technology, Orokin culture was also extremely conservative and repressive. Class mobility and ascending beyond one's station were exclusive privileges offered to very few, while most people were expected to offer unquestioned servitude to their quasi-divine masters. Economic practices under doctrines such as capitalism were viewed with suspicion for their potential to raise individuals beyond the class of their birth. Social repression took many forms, from restricting access to technology and resources (to the point where serfdom and back-breaking manual labor were common in agriculture despite the option of industrialization), forcible genetic manipulation (as was done to create the Grineer slaves) to the outright seizure of children from their homes to be sold off in Yuvan markets. Punishments for even the smallest transgressions were brutal, often collective, and ranged from mutilation (such as hands being cut off as punishment for theft) to execution via the Jade Light (which incinerated people entirely) to conversion of the condemned into Cephalons as a means of perpetual servitude. Notably, Orokin society rejected automation via robotics despite being evidently capable of it: while advanced robotics were commonplace for minor, menial tasks such as environmental surveillance, the creation of true machine intelligence was generally forbidden and only employed in the direst circumstances. Manual labor from slaves and serfs was always preferred.
+Hierarchy
+Orokin society was highly stratified, with only those at the very top being regarded as actual Orokin. Based on various lore descriptions, we know that the empire was ruled by the Emperors whose names and details are unknown. The Orokin's judicial body was a council known as the Congress of Executors (mainly referred to as the Seven), a group who carried out the will of the Emperors Another high-ranking body is presumably the virtually unknown Orokin High Court. It is stated by Roathe that the Emperors held less power than their title would suggest and that the Executors (or the Seven) were the Orokin truly exercising power.
+Classes beneath them include Archimedeans (scientists and scholars), Lorists (healers), Sectarus (navigators or ship operators), Enginus (an unknown role), and Temple Guardians (another unknown role). It is unclear to what extent these were regarded as Orokin rather than servants or underlings of the Orokin. In addition, the Orokin constructed the Grineer, a caste of genetically engineered slaves to serve their most basic industrial and military needs, while the rest of the empire was made up of less wealthy and advanced populations performing technological and economic services which would eventually congeal into the Corpus, following the teachings of Parvos Granum. A small conclave of warriors known as the Dax served as the Orokin's most elite soldiers. The Dax were enhanced with technology to be more lethal and agile in combat, while also made mentally unable to disobey their masters.
+Known Class Members
+Emperor
+Executor
+The Seven
+Executor Karishh
+Executor Ballas
+Executor Scarne
+Executor Tormis
+Executor Tuvul
+Executor Avantus
+Executor Nitokh
+Executioner
+Nihil
+Archimedean
+Archimedean Margulis
+Archimedean Yonta
+Archimedean Silvana
+Archimedean Suda
+Archimedean Javi
+Archimedean Perintol
+Archimedean Ainikki
+Archimedean Otak
+Lorist
+Lorist Ontella
+Lorist Remballa
+Sectarus
+Sectarus Bilsa
+Dax
+Teshin Dax
+Varzia Dax
+Dax Menz
+Dax Isaah
+"Umbra"
+Houses (families)
+House Sigma
+House Lavan
+House Vidar
+House Zetki
+House Entrati
+Virtues and Beliefs
+Culturally, the Orokin held seven virtues to be of utmost importance, collectively known as The Seven Principles. These principles were speed, power, cunning, agility, endurance, cooperation, and stealth. There are indications that, in an older era of the Orokin civilization, Dualism was a central concept in their culture as well, although this was eventually replaced with a vain and unquestioning faith towards the thousand legems and Orokin rule. In addition, the Orokin practiced many ancient pastimes, such as the playing of Komi, Lunaro, the musical instrument known as a Shawzin, and celebrating Naberus, a holiday that celebrates their achieved immortality.
+Technology
+thumb|344x344px|Tang Prime Kubrow - The product of untold generations of selective breeding, coupled with multifold iterations of Orokin bioengineering, created this: the Tang breed of Kubrow. Faithful guardians of the most revered.
+The Orokin represented and continue to represent the height of technological achievement in the Origin System. Of particular note is their mastery of biological engineering, allowing them to modify their own bodies, construct armies of cloned slave labor, tame and semi-control a bio-tech plague, produce terraforming drones that could adapt to any obstacle they encountered, convert invaders into unwavering allies, and create almost indestructible humanoid warriors for the Tenno to command. On a larger scale, the Orokin constructed massive Solar Rails enabling fast interplanetary and even interstellar travel, terraformed some of the most inhospitable planets in the system, and learned how to navigate the alien dimension known as the Void.
+Orokin obsession with luxury and domination often combined with their unparalleled technology to form highly disturbing results. The Orokin ruined much of the Origin System in their search for resources to feed their addiction to excess, which was ultimately the cause for the Sentients' war against them. Of particular note is the ritual known as Continuity, which the Orokin would use to obtain effective immortality. The ritual allows an individual to transfer their consciousness to another's body by filling them with torment and despair until the host is nothing more than an empty husk. This is the process through which the Grineer Queens survived as long as they did, although they were eventually forced to practice the ritual upon defective Grineer bodies.
+Known Technology and Creations
+Arboriform
+Archwing
+Arogya Medica, a device seen in WARFRAME: Ghouls comics
+Ayatan Treasures (Ayatan Star)
+Cephalons
+Charamote (Sagan Module)
+Continuity
+Copernics (unconfirmed)
+Corrupted
+Cosmic Clock
+Ducats
+Forma
+Fresnels
+Grineer
+Heart of Deimos
+Hydraulus, a musical instrument found during Octavia's Anthem
+Infestation
+Isolation Vault
+Junctions (unconfirmed)
+Kesslers
+Kuva
+Kavat
+Kubrow
+Masker's Theodolite, an Orokin passenger vessel
+Mirewinder (Parallel Biode)
+Morphics (possibly)
+Myxostomata (Cranial Foremount)
+Necraloids
+Necramechs
+Orokin Catalyst
+Orokin Cell
+Orokin Cipher
+Orokin Reactor
+Orokin Tower
+Orokin Vault (Dragon Keys)
+Orowyrm
+Orvius
+Oxium
+Paracesis
+Primed gear
+Railjack
+Reliquary Drive
+Requiem Mods (presumably)
+Requiem Obelisks
+Reservoir
+Scintillant
+Sentinels
+Sentients
+Solar Rail
+Somatic Fibers
+Specters
+Synathid (Ecosynth Analyzer)
+Tromyzon (Entroplasma)
+Transference
+Unum
+Vitrica
+Void Keys
+Void Relics
+Warframes
+Weeping Towers
+Zariman Ten Zero, an Orokin colony ship
+Orokin Language
+right|300px
+The Orokin written language is largely based upon English but with a coarser, often more phonetic spelling. The characters are diagonally slanted and are usually written left to right when on flat surfaces. Vowels take the form of polarity symbols written above the regular characters. The direction of writing frequently varies when it is found on both the left and right of an object, presumably because it was copied and flipped from one side to the other during game development.
+Although there are no live excerpts of the Orokin script to demonstrate how it is spoken, the Lotus, Ordis, Tenno and the Red Veil presumably understand and can speak "Orokin" as their local language.
+Notable Characters
+Families
+DeNas - Whose children were stolen by the Scoria political assassination school and became their "students", with their memories suppressed. The children were rescued by Ash.
+Entrati - A partially-infested dysfunctional family residing inside the enclave of Necralisk, on Deimos. After the Tenno reaches Rank 5: Family, they are fully welcomed into the family under the name of Ayatan.
+Characters
+Alarez - Orokin assumed to be lower than Enginus class, as Bilsa noticed his symmetry was off and his eyes were dull. He was killed by Veytok after making contact with Bilsa in the Guardsman Synthesis imprint.
+Albrecht Entrati - Orokin scientist known for being the first one to access the Void. He is also an ancestor of the Entrati family.
+Avantus - Orokin Executor who was killed by Grineer Veytok in the Arid Eviscerator Synthesis imprint.
+Ballas - The Orokin Executor responsible for the creation of the Warframes. He survived the Old War by betraying the Orokin Empire and manipulated the events of Prelude to War and The New War to become the Origin System's new ruler under Narmer, only to be killed by the Lotus and the Tenno.
+Barroc - a member aboard the same Railjack crew as Vilcor during The Old War.
+Bekran Zaft - Floor-washer of the Dabaoth-Kra prison. Sole survivor of the prison's demise at the hands of Lavos and lived to tell the tale.
+Bilsa - Sectarus class Orokin who joined the Grineer Veytok in building an army after he killed Avantus and took her prisoner in the Arid Eviscerator and Guardsman Synthesis imprints.
+Corphel & Irilia - Orokin couple who had a secret forbidden affair with their Dax cavalrywoman, implied to be of high status as the affair was never publicly addressed. After the cavalrywoman became a Warframe who would later be named Dagath, the couple tired of their lover as their relationship was longer considered taboo, and had her killed via a dissolution beam to the face; the following morning, the Warframe took her revenge and left the couple as faceless as she was.
+Daughter (Kaelli Entrati) - The daughter of the Entrati family. She is a partially-infested Orokin researcher and biologist, who resides inside the enclave of the Necralisk, on Deimos.
+Father (Vilcor Entrati/Petros Vorten) - The father of the Entrati family and inventor of the Necramechs. He is a partially-infested Orokin weapons expert who resides inside the enclave of Necralisk, on Deimos.
+Grandmother (Dagath Vorten, née unknown) - A member of the Entrati family. She is a partially-infested Orokin who resides inside the enclave of Necralisk, on Deimos. Described as "never a soldier or a scientist".
+Grineer Queens - Former Orokin twins living in Grineer bodies after the Old War.
+Javi - An Archimedean who specialized in transmutation and thus was imprisoned in the Dabaoth-Kra prison for heresy. Convinced Lavos to follow in his footsteps of alchemy and was reborn as one of the serpents on Lavos's arms.
+Karishh - Orokin Executor and a glutton who survived The Collapse and escaped to the famine-struck city of Riddha. Was later killed and eaten by Grendel.
+Kailen - a member aboard the same Railjack crew as Vilcor during The Old War.
+Margulis - The Archimedean who decided to become a mother for all Tenno after the Zariman Ten Zero incident and was executed for this reason by Ballas.
+Mother (Gomaitru/Euleria Entrati) - The leader of the Entrati family. She is a partially-infested Orokin scientist, mathematician, and philosopher, who resides inside the enclave of Necralisk, on Deimos.
+Mutaru - a member aboard the same Railjack crew as Vilcor during The Old War.
+Myrmidon - An Orokin hunter who killed Warframes, and by extension erased them from history. He was being controlled by an Orokin Executor as a test for warframes. He was later defeated by Ivara.
+Nihil - The Orokin judge and executioner responsible for the creation of the Cephalons. He survived the Old War by glassing himself and was later imprisoned in an oubliette in the final episode of Nightwave: Series 3 - Glassmaker.
+Nitokh - Orokin Executor said to have been assisting the Anarchs during The Old Peace.
+Porvis - Orokin Historian who tells the tale of Ivara (which Drusus narrates in the Leverian) from The Secret History of the Orokin Court.
+Roathe - Protoframe of Uriel. During The Old War, he served Executor Nitokh and was nicknamed the "Devil of Tau" due to his ruthless commanding style. The first batch of Uriel warframes, including his original Prime were once the Dax under his command.
+Sembik Vol - Orokin luxurator that embellished the Venato Prime.
+Son (Kermerros Entrati) - A member of the Entrati family. He is a partially-infested Orokin researcher and biologist, who resides inside the enclave of Necralisk, on Deimos.
+Suda - A famous Archimedean who dedicated herself to preserve Orokin history and knowledge for future generations. Willingly turned herself into a Cephalon after she developed an unspecified neurodegenerative disease that was destroying her memories.
+Tuvul - Orokin Executor first mentioned in the Detron Crewman Synthesis imprint and a member of the Seven. Some of his recordings can be found on the Zariman Ten Zero. Head of the Yuvan Clerisy, conductors of the Continuity. Was killed by Voruna when attempting to escape The Collapse by performing Continuity into an Operator.
+**Trivia:**
+The Corpus are hellbent on gathering Orokin technology and relevant findings in order to harness their power and sell them on the market. Their goals were the primary cause of certain events, namely The Gradivus Dilemma and Operation Oxium Espionage.
+Several characters in the game are suggested to either be Orokin or have direct descendants from their bloodlines. Members of the Corpus leadership claim to be of pure Orokin lineage, Alad V is addressed as an Orokin by the Sentient Hunhow during The Second Dream, and by the Misery Acolyte.
+According to the The Tenets fragments, the Founder of Corpus, Parvos Granum, was once a farmer who worked under his Orokin masters. The wealth disparity between his family of agrarian serfs and the upper classes of Orokin society drove him to create a new doctrine centered around the right to pursue one's Desire.
+The Grineer Queens are heavily implied, if not outright confirmed, to be Orokin who have performed continuity into Grineer bodies. Their lineage is further implied by the Elder Queen's ability to command Teshin, though this could also have been attributed to her possession of her Kuva staff.
+According to Dagath's lore, a Dax engaging in relationships with their Orokin masters was deemed taboo and punishable by execution.
+So far, the only non-Orokin boss shown to explicitly harness Orokin technology is Captain Vor (namely Void Keys).
+The Necramechs found roaming on the Cambion Drift and warding the Isolation Vaults can be considered the first true example of Orokin-made bosses.
+The Corpus Fusion MOA and Oxium Osprey are the direct result of the Corpus utilizing advanced Orokin technology, as a rare (due to cost and rarity of Orokin materials) upgrade to normal MOA and Ospreys respectively.
+The word "Orokin" may be a portmanteau of the Spanish/Italian word "Oro", and the Japanese word "Kin" (金), both words meaning "Gold" which fits the Orokin's aesthetic, who predominantly use gold in their architecture and design, although the literal "gold gold" meaning makes this possibly less plausible. An alternative to "kin" is the English word referring to family or close relations, indicating a "golden family".
+With the existence of Oro as an in-universe force the "Oro" in Orokin may be in reference to that, rather than any real-world counterpart.
+Corrupted enemies are identified by the Orokin faction in-game, rather than their own separate faction.
+High-ranking Orokin commanders were gifted the Imperator Syandana.
+The Scaldra spoke in Orokin text in the 1999 prequel webcomic.
+Knowing that Sol and Lua were worshipped as deities in the year 1999, the Orokin may have established themselves on Lua to equate themselves to the deity of Lua.
+Minerva's remarks about the Scaldra having a "remake the world into their oligarchic dystopia" mentality suggests they are the precursors of the Orokin. This implies that, even if the Scaldra is eventually eliminated, their ideals will endure and reach the future in the form of the Orokin empire. It also implies the Scaldra will survive through the Radiation Wars into the future and eventually become the Orokin Empire.
+
+## Tenno
+Factions
+Excalibur Prime's Codex: Orokin 'Warframe' ArchivesThe Tenno are the faction controlled by the players. Each player is a Tenno with a suit of biomechanical armor called a Warframe. The combat abilities provided by Warframes are vastly superior to both the Corpus' high technology and the Grineer's vast numbers; even the most inexperienced Tenno can fight their way through hordes of basic foot soldiers alone, and teams of experienced Tenno can best even the deadliest enemy threats.
+Awakening from a deep slumber to a hostile world, the Tenno know little of themselves.
+Each Tenno bears a primary weapon, a sidearm, and a melee weapon. Their arsenal includes rifles of various types, shotguns, pistols, swords, and exotic melee weapons such as staves, axes, and power gauntlets. Different Warframes offer their own unique powers, ranging from Volt's Speed to Frost's Avalanche. Also, Warframe armor's modular nature allows for major upgrades and wide customization options. Utilizing the arms, armor, and powers at their disposal, Tenno squads have adapted to wildly different situations using only a moment of downtime between missions.
+Lore & History
+At the height of their Empire's reign, the Orokin became embroiled in a war with the Sentient: a creation of theirs long ago sent to the Tau System to prepare for colonization, whose advanced technologies allowed them to quickly adapt to every attempt by the Orokin to defeat them. Each attempt by the Orokin to defeat the Sentients failed, so they turned in desperation to their last hope: the Tenno.
+The Tenno were created in an incident long before the war, when a ship called the Zariman Ten Zero became involved in a void-jump accident that sent it lost in the chaotic sub-dimensional space known as the Void. The ship reemerged from the Void and was recovered only days later, completely intact, but the only survivors found were children, whose exposure to the Void's energies had twisted and changed them, giving them inexplicable powers and abilities. Feared and reviled, the survivors of the Zariman nonetheless were of great interest to the Orokin.
+Initial experiments on how to harness the children's powers though led to several fatal accidents, which showed the danger their uncontrolled powers could wreak both on themselves and on others. It was the work of an Orokin researcher named Margulis that led to a breakthrough; through dreams, the children could focus and control their powers. However, this research would then be taken from her after she was executed for trying to protect the children, and used to create a process known as Transference; the children's consciousnesses and powers could be remotely channeled through a surrogate body called a Warframe: a specially-made techno-organic humanoid battle frame designed to enhance and focus the children's powers, using a device known as a Somatic Link. The survivors would be placed in Somatic Link pods in a facility known as the Reservoir located on the Moon, to control their surrogate bodies in a secure location away from their enemies.
+These operators, newly christened as the "Tenno", were taught the ways of war. With the combination of advanced technologies and esoteric powers, the Tenno began to turn the tide against the Sentients, allowing them to vanquish the Orokin's enemies across many battles.
+The end of the Sentient threat should have been the end of the Orokin's struggles, but it was not to be. The Tenno since the beginning had always held a grudge against the Orokin for executing Margulis, whom they had always considered as their foster mother. And as the Orokin were celebrating their victory by bestowing the Tenno with honors, the Warframes struck, assassinating the Orokin's leadership and throwing the empire into chaos, an event that would herald the end of the Orokin Empire.
+In the backdrop of the Orokin's collapse, the machinations of the Sentients continued; a plan had long been hatched to infiltrate the Orokin and destroy the Tenno. The agent given the task, named Natah, grew close to the Tenno she was supposed to destroy. Betraying her own kind, Natah used her considerable powers to hide the Moon within the Void, keeping the Reservoir and the Tenno they hold hidden from the Sentients, and the Warframes scattered throughout the Origin System were made to sleep in cryostasis. Natah, taking on the mantle of the Tenno's caretaker and guide, remade herself as the Lotus, keeping watch over the sleeping Tenno until the time they would wake once again.
+Tech & Weaponry
+right|280px|link=Special:FilePath/Soma.png
+The Tenno have created a huge amount of "home grown" weaponry and equipment – much of it descended from Orokin counterparts, but some of it original. Tenno weapons, in general, tend to feature smooth lines, symbolic design, and an "organic" shaping that gives them a sleek, predatory look. Weapons of Tenno origin are among the most commonly available weapons to players.
+Orbiter
+thumb|200px|link=Orbiter
+The Orbiters are spacecraft used by the Tenno to travel throughout the Solar System to and from missions. They also act as the Tenno's mobile base, carrying all of their various equipment and arsenal of weapons. An Orokin AI called Ordis acts as the main computer for the Tenno's ship.
+Lotus
+150px|left|link=Lotus
+Upon revival from stasis, the Tenno is guided by a figure known as the Lotus. Asserting preservation of her people by any means necessary, the Lotus dispatches and guides Tenno through missions of espionage, sabotage, defense, extermination, interception and rescue. On these missions, the Lotus guides Tenno using audio commands transmitted from an unknown location. Like the rest of Tenno culture, she remains shrouded in mystery, though the Natah quest sheds more light into her origins and motives.
+Some weapons bear the Lotus emblem to distinguish them as being unique or Tenno-altered while other weapons bear the symbol simply as a trademark of Tenno construction.
+Hostage Operatives liberated during Rescue missions are human and wear jumpsuits that bear the Lotus emblem, which indicates that the Lotus has many non-Tenno agents carrying out her orders. This is also indicated by her mention of various spy-cells and supply-raiding operatives, as well as the non-Tenno NPCs crewing the Relay stations.
+Tenno Schools
+thumb|Focus schools
+With the creation of Warframes, the Tenno founded five schools of combat, called the Tenno Ways, that compliment various personalities and fighting styles:
+Madurai: School of the Fighters, trained to Engage The Enemy.
+Vazarin: School of the Protectors, trained to Counter the Enemy.
+Naramon: School of the Tacticians, trained on Knowing the Enemy.
+Unairu: School of the Indomitable, trained to Outlast the Enemy,
+Zenurik: School of the Arcane, trained to Dominate the Enemy.
+Named Tenno
+Missing images
+In the WARFRAME universe, there are a few named Tenno characters aboard the Zariman Ten Zero before the Void-Jump Incident:
+**Trivia:**
+The plural of Tenno is Tenno.
+Tennō (天皇) in Japanese translates to "Divine Emperor". Additionally, in the Buddhist faith, the Four Heavenly Kings (四天王, Shiten'ō) are four guardian deities who watch over each cardinal direction under the leading "center" deity Indra or Taishakuten, and are the generals of the Hachi Bushu, the Eight Legions of Devas who protect and uphold dharma and virtue in the world.
+Probably owing to their inspiration, the Tenno are evocative of high sci-fi and henshin hero anime, manga, and Japanese video game concepts.
+The name "Tenno" dates back to the Hayden Tenno character from Digital Extremes's previous game Dark Sector. Warframe often uses concepts, art styles, names, and other materials from Dark Sector, due to it being a spiritual successor to the game itself. Since "Tenno" in this universe likely refers to the Zariman Ten Zero (or Ten-Oh), the ship itself was in some sense named after Hayden as well.
+Each Tenno behind the Warframes have official concepts and ideas to what they look like as stated by Art Director Mynki in Devstream 4.
+The Limbo Theorem and sources from DE confirmed that the Tenno have the ability to wear multiple Warframes.
+And further with The Second Dream showing that the Warframes are not worn at all, but instead commanded remotely by the true Tenno via a Somatic Link, at first in the Reservoir, and later in the Orbiter. However, Warframes do still have organic components, leaving open that human bodies may or may not inhabit them. Given that several Warframes were originally humans, it can be presumed there are human bodies within, but they have been heavily mutated by the Helminth Strain.
+How the Tenno switches between Warframes aboard the Orbiter is still somewhat unknown, as semi-independent creatures are stored as equipment long before the Operator knows what their selves are.
+The Grineer Queens in The War Within refer to Warframes as "infested puppets" and the Jordas Golem briefly confuses Warframes for fellow infested. This would indicate that the Infested plays a large part in the organic elements of a Warframe and would also be the main reason why Warframes are immune to infestation (being already infested, the virus can do very little else to it).
+The Sacrifice quest indicated that the creation of Warframes involved infecting individuals with a modified strain of the Infested. For example, Excalibur Umbra was created by Ballas using a Dax soldier in this process.
+Possible note of worth, the Stalker refers to himself, and the others gathered around him as 'low guardians', making the distinction between the low guardians and the Tenno. It is possible that the Tenno were regarded as 'high', or the highest, guardians of the Orokin. From the in-game description of the Misa Syandana Prime, we also know that there were Temple Guards as well. Given that the Stalker was a Warframe himself during his tenure as a low guardian, this may indicate others were also Warframes or similar in nature, but simply had no Operators.
+In the Profit trailer, Alad V insulted the Tenno as "mute peasants" for humor, referring to the fact that Tenno have never been heard speaking verbally.
+This comment once led to speculation that the Tenno as a race may be mute, but with dialogue options with Simaris and Darvo now in the game, this theory seems to have been debunked.
+This theory has been completely debunked as of The War Within quest, where a cutscene shows a Tenno speaking to Teshin through their Warframe.
+Nova's Profile describes her existence as the result of "Tenno High Council" research, indicating that there is or was some sort of Tenno governing structure.
+The "Tenno High Council" may also just be a reference to the Design Council, a select group of players that can vote and provide opinions on concepts and designs made by Digital Extremes before they are released to the public. Nova was the first Warframe created from the Design Council's input.
+Loading Screen Tips are quotes by "Tenno Councillors" with two-letter names. These names were derived from the usernames of the Design Council members that wrote them.
+In the prologue added in Update 14, Vor states that the Ascaris is nearly attached to the Tenno's spine. This would have been referencing the biological structures remaining inside of the Warframe.
+The Second Dream quest reveals that Warframes may contain an additional surrogate bodily system inside, that is capable of withstanding Tenno powers. This would explain the "attached to the spine" quote.
+The Sacrifice further details this by stating that the Infestation strain used to create Warframes causes the organs of the host to restructure, gaining strength beyond steel, so it is possible that the "spine" - and other organs as such - still exists in a materially transmuted form. However, this is the case primarily for Excalibur Umbra, who is also seen to still have eyes and a face within his damaged helmet. While it is unknown if present-day Warframes would have these traits, it is known that they are replications of the originals derived from blueprints.
+Xaku is a composite Warframe created from the parts of three other Warframes. Their 4th ability, The Vast Untime, causes them to shed the "skin" of two of their components, revealing a skeleton underneath. This shows that, indeed, Warframes do have skeletons analogous to human skeletons. In addition, Xaku's skull has visible eye-sockets, suggesting that all Warframes may have vestigial eyes underneath the surface of their skin, not just Umbra.
+Previously, there was much debate about whether the "player character" was a single Tenno switching frames or multiple Tenno, each with their own personal frame (ala an MMO character select screen, all individual but all technically existing at the same time).
+Since the release of The Limbo Theorem and Ordis asking the Operator (the player character) to exercise caution when they "occupy this frame" it can firmly be said that the player is a single Tenno and that they are indeed switching Warframes.
+Shortly after this reveal there was some debate about whether or not Ordis was breaking the fourth wall, but in a Reddit AMA Steve confirmed it was not.
+The Second Dream quest reveals that Warframes are remote-controlled battle stations, containing techno-organic elements and possibly vestigial organs from their original human form (as was mentioned by Lotus "the surrogate, capable of withstanding Tenno powers"; meanwhile the Operators have the ability to take control of one Warframe at a time via Somatic Link or direct connection (touch).
+Also, all or most of the early in-game Defense missions use a "WARFRAME CRYOPOD" which was presented as life-support pod, contained humanoid beings in jumpsuits, similar to one, that Relay Personnel and Syndicate's Agents wear.
+The Tenno seem to sit in 'kiza' position, a form of Japanese sitting style. This form is used in Japanese sword schools and martial arts as a sitting position from which an attack or defense can be mounted.
+In Update 18, the full name of the ship which housed the children who would become the Tenno would be formally revealed. However, the ship was mentioned within the Codex Entry of Ember Prime.
+Upon closer examination, there is a play-on-words with regards to the full name of the ship, and the origins of the Tenno themselves. The ship had been directly referenced by partial name once before, in the codex entry of Ember Prime, as the Zariman. However, this leaves out the Ten-Zero portion of the name after it, i.e. Zariman Ten-Zero. The hidden reference is most easily apparent in English, because of a linguistic shorthand used to refer to the number 'zero', with the shorter identity of just "O". This can be seen in pop culture, such as in the title of the TV show "Hawaii Five-O".
+Upon shortening Ten-Zero into 'Ten-O' – and to make it easier to pronounce, combining the syllables into one word – 'Tenno' – it becomes even more plainly visible that the Orokin (as a society) were truly unnerved by the children who had been found on the ship. They wished to maintain such a clinical attitude towards the children that they simply named them – as a group – after the very ship they were found on.
+Aliases
+The Tenno (and the player by proxy) have been referred to a variety of names throughout the game. These names have been ordered by loose order of appearance over the years:
+Operator (by Ordis and Lotus)
+Hunter (by Cephalon Simaris and Son)
+Tin-suit (by Maroo)
+Betrayer (by the Corpus, primarily Alad V)
+Stainless Steel Rats (Frohd Bek)
+Insects (by Councilor Vay Hek)
+Shiny Bugs (by Sprag)
+Lizard/Leech/Bloody Worm/Ugly Freaks/Rodents (by Tyl Regor)
+Angels/Sweet Angels (by Margulis)
+Devils (by the Orokin, primarily Ballas)
+Aphids (by Erra)
+Friend (by Jovial Kuva Lich)
+Adversary (by Logical Kuva Lich)
+Little Meat (by Flirtatious Kuva Lich)
+Hollow Shell (by Jordas Golem)
+Puppet (by Hunhow and Worm Queen)
+Star-child (by Palladino and Vitruvian Ordis)
+Dreamers (by Nora Night, Worm Queen, and The Unum)
+Offworlder (by the Ostron)
+Killer (by Konzu)
+Outworlder (by Solaris United/the Ventkids)
+Sparky (by Eudico)
+Hotshot (by Little Duck)
+Stardust (by Ticker)
+Boss (by Legs)
+Glinty (by the Ventkids)
+Chip (by Otak)
+Shiny thing (by Son)
+Ayatan (by the Entrati)
+Demon (by Helminth)
+Putrid Apes/Children of Abomination/Filth-borne/Chattels (by Pazuul)
+Biped (by Fibonacci)
+Bird 4 (by Bird 3)
+Kiddo (By The Man in the Wall, Eudico and the unnamed player's father)
+Marty (By The Hex)
+Future (By Amir)
+Space Trauma (By Quincy)
+Toto (By Neci Rusalka possessed by the Indifference)
+
+## Ostron
+A tight knit band of merchants, hucksters and survivors, the Ostrons call Cetus their home. The town was built around an Orokin Tower, that both protects and nourishes them.
+The Ostrons are the inhabitants of the Cetus settlement near the Plains of Eidolon on Earth. They are a hardy, mercantile people that dwell in the shadow of the Orokin Tower of the Unum, which they harvest for their livelihood. Kept safe from Grineer aggression by the arcane powers of the Unum herself, Cetus serves as their central trading hub in the Origin System and a refuge for all others who come to it with peaceful intentions.
+Standing Gain
+Standing with Ostron is earned from performing tasks for individual members.
+Completing Bounties for Konzu.
+Trading in fish to Fisher Hai-Luk.
+Performing Conservation.
+Trading in raw gems to Old Man Suumbaat.
+Trading in constructed and max ranked Zaws to Hok, whether or not they have been gilded.
+Completing Shrine Defense - 800 Standing.
+**Tips:**
+Fishing for baited species, particularly Murkray, Norg, Cuthol, and Glappid.
+Conservation, particularly flying around in Archwing where fauna often spawn in groups of three. Alternatively, using the Echo-Lure for Mergoo.
+Ranks
+Ranks
+Lore & History
+General
+The Ostron people's history can be traced back to Orokin Era when they were ruled under the Orokin Empire. Since the Empire's collapse, the Ostrons were left to their own governance, scavaging what was left of the Empire to survive in a post-Orokin era. On Earth, they formed many colonies, with Cetus being one of the trading hubs of the Ostrons.
+Cetus is located next to the Plains of Eidolon (known as the Eidolon-Moh by the Ostrons), shielded by the Orokin tower Unum's protective barrier. A versatile and adaptable people, they are able to use anything they can get their hands. Nothing goes to waste with the Ostrons, as their scavenging way of life has taught them to be ingenious and resourceful.
+Culture and Beliefs
+Ostrons generally engage in market and trade. Despite having various markets all throughout the system and its solar rails, Cetus is the main base and home of the Ostrons. Some may make a living in the markets, while others outside Cetus may create their own toll stations on personally made bridges.
+Cuisine
+Ostron cusine generally consists of harvested and freshly grown food, such as fish, fruit, and other natural things. They also incorporate the use of spices, which can be seen in great piles in the Cetus marketplace.
+Some known Ostron cuisines:
+Kubuchi - Cheap liquor made from fermented sorghum. Often drunk by visitors and offworlders, thinking that it makes them a local of Cetus. However, it is an easy way to make yourself look oblivious and gullible. Ordis states that the kubuchi can cause dehydration or Xerostomia (dry mouth) that can persist overnight.
+Daku liquor - The Suma Doni (a lowlands marsupial) eats the peca nut, which excretes a fine paste. It is from this paste that the Ostrons make daku liquor.
+Wine - Some merchants claim to be able to imbue a bottle with the 'etheric signature' of a person one wishes to be rid of. Drink them in the evening, expel them by morning. Highly sought after.
+Temple flesh - Harvested from the temple body of the Unum, her fascia is rendered and filleted for both consumption and sale.
+Chimurr - An Ostron tea-like beverage. Brewed by filling a gourd with bomba leaves, then adding steaming water and imbibing through a burnished juta reed. A very old Ostron tradition. To serve it to guests signifies union and friendship.
+Harpu - Freshly-brewed chimurr, served with melted vobi butter to keep it from congealing. Bulked salt and balb flour; always served hot. A filling and tasty beverage.
+Balb root - A plant root that is used to create blab flour.
+Bomba Fruit - A sweet fruit. It leaves are used as an ingredient for Chimurr.
+Juta Reed - Reed-like plants used as straws for beverages. Also an ingredient used in Chimurr.
+Ito-da - Mineral-rich termite droppings that can be used as survival food. Has a possible side effect of losing consonants.
+Kuaka - Slow-roasted, it is a personal favorite of Master Teasonai.
+Norg Brain - Harvested from Norgs, its seen as a delicacy.
+Vobi - Generally served as a butter and mixed with Chimurr to make Harpu, although it can also be made into cheese.
+Golden caviar - Harvested from abyssal depths such as the Geonate Shelf.
+Chumpa Grub - An Ostron delicacy, coveted for its gelatinous internal organs and aroma.
+Mulala twigs - Fine twigs that are packed into smoking pipes.
+Xanthophyl - Called ‘Kabakka’ by the Ostrons; gourds that are a staple in simple Ostron cuisine, often used to fortify soups and stews. They are unique plants that grow in the forests of Earth.
+Maprico - A hardy fruit with thick skin and sweet pulp. Grows in bushes on the Plains of Eidolon.
+Kuteo - Nutritious gourds.
+Rubad - A tangy fruit enjoyed by the Ostrons.
+Peca nuts - Nuts that are used to created daku liquor.
+Technology
+thumb|256x256px|Zaws - Modular Ostron melee weapons
+The Ostrons are not the most technologically advanced people, and mainly use archaic technology and weapons, such as explosives, blades and firearms. They mainly employ the use of Zaws and firearms, which are used by the Ostron militia to defend Cetus from the Grineer and their ghouls. Some normal citizens may possess firearms, such as fishermen.
+Language
+Ostrons speak normal English, but with some added phrases and original words mixed in. They also write in their own phonetic language. Some known Ostron postios:
+Swazdo-lah - a common greeting
+Sho-lah - 'farewell'
+Surah - 'friend'
+Dah-dap - 'thank-you'
+Ai yo - a common exclamation. Could be thought of as 'oh my'
+Lok heb - 'hail'
+Chut! - 'silence!' (request for)
+Kruna metta - an imploration. 'please'.
+Khanung! - a warning
+Utz - a universal emphatic, appended to the end of a descriptor ("I am happy utz.") 'Very'
+Doh-ga - Urgency. 'hurry'
+Notable Members
+Konzu
+thumb|250px
+Konzu is an elderly Ostron and the chief Elder of Cetus who offers Bounties to players, limited-time multi-part missions out in the Plains that players can accomplish to earn Standing and other rewards. Talking to him will allow players to upgrade their standing title to the next rank. He also starts the Saya's Vigil quest after you have completed at least one bounty.
+Hok
+thumb|250px
+Hok is a blacksmith and vendor in Cetus whose trade centers around melee weapons. In particular, Hok's Anvil provides players with the ability to create Zaws, modular melee weapons that players can craft with different parts and stats as they desire. He also gilds Zaws and accepts them for standing.
+His special daily offer consist of random premade Zaw sold for Platinum.
+Players can also rename existing normal melee weapons in Hok's Anvil for a 15 fee, provided the weapon has reached rank 30.
+Hok
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 1: Offworlder
+Rank 1: Offworlder
+Rank 2: Visitor
+Rank 2: Visitor
+Rank 2: Visitor
+Rank 2: Visitor
+Rank 3: Trusted
+Rank 3: Trusted
+Rank 3: Trusted
+Rank 3: Trusted
+Rank 4: Surah
+Rank 4: Surah
+Rank 4: Surah
+Rank 4: Surah
+Rank 5: Kin
+Rank 5: Kin
+Rank 5: Kin
+Rank 5: Kin
+Rank 5: Kin
+Rank 5: Kin
+Rank 5: Kin
+Old Man Suumbaat
+thumb|250px
+Old Man Suumbaat sells mining equipment, gem cutting blueprints, metal alloys and allows you to trade in raw gems for standing.
+His special daily offer consist of packs of cut gems for Platinum.
+Suumbaat
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 1: Offworlder
+Rank 1: Offworlder
+Rank 1: Offworlder
+Rank 2: Visitor
+Rank 2: Visitor
+Rank 2: Visitor
+Rank 2: Visitor
+Rank 3: Trusted
+Rank 3: Trusted
+Rank 3: Trusted
+Rank 3: Trusted
+Rank 4: Surah
+Rank 4: Surah
+Rank 4: Surah
+Rank 4: Surah
+Rank 4: Surah
+Rank 4: Surah
+Rank 4: Surah
+Rank 4: Surah
+Rank 4: Surah
+Rank 4: Surah
+Rank 5: Kin
+Rank 5: Kin
+Rank 5: Kin
+Rank 5: Kin
+Rank 5: Kin
+Rank 5: Kin
+Rank 5: Kin
+Rank 5: Kin
+Rank 5: Kin
+Fisher Hai-Luk
+thumb|250px
+Fisher Hai-Luk is an Ostron fishmonger who sells various fishing equipment, bait, and packs of special fish parts for a bit of platinum, which change daily. She also allows you to trade in your catches for standing or to carve them up for bait and resources.
+Hai-Luk
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 1: Offworlder
+Rank 1: Offworlder
+Rank 1: Offworlder
+Rank 1: Offworlder
+Rank 1: Offworlder
+Rank 1: Offworlder
+Rank 2: Visitor
+Rank 2: Visitor
+Rank 2: Visitor
+Rank 3: Trusted
+Rank 3: Trusted
+Rank 3: Trusted
+Rank 3: Trusted
+Rank 4: Surah
+Rank 4: Surah
+Rank 4: Surah
+Rank 4: Surah
+Rank 4: Surah
+Rank 5: Kin
+Rank 5: Kin
+Rank 5: Kin
+Master Teasonai
+thumb|250px
+Beastmaster Teasonai sells conservation equipment for capturing wildlife on the Plains of Eidolon. He also trades caged wildlife to be used as orbiter decorations and companion cosmetics for Plains resources instead of Standing. His daily offers will always consist of three items, and the resources needed to purchase his offers change daily.
+BeastmasterWares
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 1: Offworlder
+Rank 1: Offworlder
+Rank 2: Visitor
+Rank 2: Visitor
+Rank 3: Trusted
+Rank 3: Trusted
+Rank 3: Trusted
+Rank 3: Trusted
+Rank 3: Trusted
+Rank 3: Trusted
+Rank 3: Trusted
+Rank 3: Trusted
+Rank 5: Kin
+BeastmasterGoods
+BeastmasterTags
+Nakak
+thumb|250px
+The young and enterprising Nakak sells scavenged Grineer flares that temporarily increase Affinity Range, and carved Warframe masks used as Operator cosmetics. As with Master Teasonai, she accepts Plains resources instead of Standing and the resources needed to purchase her items change daily, although her inventory mostly stays the same. Besides that, she provides some miscellaneous information about Cetus and the Plains.
+Nakak
+Saya
+The grieving widow of the Ostron Archivist Onkko, this woman is involved in the Saya's Vigil quest. Originally located to the west of the central Cetus market, after the events of the quest she will be found next to Konzu.
+Koumei's Shrine
+A shrine dedicated to the Warframe Koumei sits near the entrance of Cetus, serving as a gateway to the Shrine Defense mission.
+Koumei's Shrine#Offer Fate Pearls
+Players can also divine their fortune from the shrine with the "Roll Koumei's Dice" option.
+Quills Representative
+If the player has completed both Saya's Vigil and The War Within, bringing their Operator to the north-east part of Cetus will allow them to access the Quills' hideout.
+The representative of the enigmatic Quills is Onkko himself, under his full epithet Quill Onkko Primary. He provides the Operator with their first pre-built Amp, Mote Amp as well as offer modular components and Arcanes for the Amp. He also offer parts of Operator suits and their respective Arcanes to further enhance the Operator. He trades in Sentient Cores and complete Amps for Quill standing.
+Offerings
+The following is a complete list of the goods offered by the Ostron vendors.
+Ostron
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 1: Offworlder
+Rank 1: Offworlder
+Rank 1: Offworlder
+Rank 1: Offworlder
+Rank 1: Offworlder
+Rank 1: Offworlder
+Rank 1: Offworlder
+Rank 1: Offworlder
+Rank 1: Offworlder
+Rank 1: Offworlder
+Rank 1: Offworlder
+Rank 1: Offworlder
+Rank 2: Visitor
+Rank 2: Visitor
+Rank 2: Visitor
+Rank 2: Visitor
+Rank 2: Visitor
+Rank 2: Visitor
+Rank 2: Visitor
+Rank 2: Visitor
+Rank 2: Visitor
+Rank 2: Visitor
+Rank 2: Visitor
+Rank 2: Visitor
+Rank 3: Trusted
+Rank 3: Trusted
+Rank 3: Trusted
+Rank 3: Trusted
+Rank 3: Trusted
+Rank 3: Trusted
+Rank 3: Trusted
+Rank 3: Trusted
+Rank 3: Trusted
+Rank 3: Trusted
+Rank 3: Trusted
+Rank 3: Trusted
+Rank 3: Trusted
+Rank 4: Surah
+Rank 4: Surah
+Rank 4: Surah
+Rank 4: Surah
+Rank 4: Surah
+Rank 4: Surah
+Rank 4: Surah
+Rank 4: Surah
+Rank 4: Surah
+Rank 4: Surah
+Rank 4: Surah
+Rank 4: Surah
+Rank 4: Surah
+Rank 4: Surah
+Rank 4: Surah
+Rank 4: Surah
+Rank 4: Surah
+Rank 4: Surah
+Rank 5: Kin
+Rank 5: Kin
+Rank 5: Kin
+Rank 5: Kin
+Rank 5: Kin
+Rank 5: Kin
+Rank 5: Kin
+Rank 5: Kin
+Rank 5: Kin
+Rank 5: Kin
+Rank 5: Kin
+Rank 5: Kin
+Rank 5: Kin
+Rank 5: Kin
+Rank 5: Kin
+Rank 5: Kin
+Rank 5: Kin
+Rank 5: Kin
+**Trivia:**
+The syndicate faction was originally named Cetus after their village in preview builds, before being changed on release to Ostron, the name of their people in Update 22.0.
+Occasionally, a Corpus Crewship will land on the docks or leave them, in the shadow of the Orokin tower. Pre-release streams showed the presence of Corpus Crewmen in the markets, abiding by a cease-fire, but their presence seems to have been removed as of release.
+As of the release of Fortuna, there are now once again Corpus Crewmen hanging around Cetus, as well as some Solaris that have set up a stall.
+The blade that Hok can be seen wielding cannot actually be crafted by the player, because it is missing a required link component.
+The Ostrons are featured in WARFRAME: Ghouls comic series.
+After a Tenno reaches the rank of Trusted with the Ostrons, NPCs will adopt a much friendlier and revering manners towards the Tenno.
+
+## Solaris United
+Indentured workers to the Corpus; the indispensable backbone of the Corpus business model on Venus. Manning factories, rail tractors and mines they work to pay off the artificial bodies (rigs) they bought in order to work.
+Risen from the ashes, Solaris United returns to free the Solaris people from their mental shackles and physical servitude. No being should have to work to own their own mind, their own body, their own future.
+Solaris United are a rebel group of Solaris workers, seeking to liberate their fellow unhappy laborers who work for Nef Anyo underground in Fortuna. The Solaris possess body augmentations that make them appear as Corpus-machine hybrids, and are responsible for processing the underground network of Orokin terraformation coolant and refining it for use back on the scorched surface of Orb Vallis on Venus.
+To fully access this Syndicate, the player must complete the Vox Solaris quest.
+Standing Gain
+Standing with Solaris United is earned from performing tasks for individual members.
+Completing Bounties for Eudico.
+Trading in fish to The Business.
+Performing Conservation.
+Trading in raw gems to Smokefinger.
+Trading in constructed and max ranked Kitguns to Rude Zuud, whether or not they have been gilded.
+Trading in constructed and max ranked MOAs to Legs, whether or not they have been gilded.
+Trading Debt-Bonds, obtained from Bounties, purchased from Ticker, or dropped by Profit-Taker Orb, to Ticker.
+Freeing captured Solaris in the Corpus Ship tileset using Granum Crowns.
+Freeing all captured Solaris in the Granum Void using the Xoris.
+**Tips:**
+Fishing for baited species, particularly Tromyzon, Charamote, and Synathid.
+Mining for Amarast, Thyst, and Zodian.
+Conservation for Bolarola, Horrasque, Stover, and Kubrodon.
+Ranks
+Ranks
+Ranking up from Neutral to Old Mate requires a total of:
+6x Training Debt-Bond
+9x Shelter Debt-Bond
+11x Medical Debt-Bond
+10x Advances Debt-Bond
+5x Familial Debt-Bond
+Notable Members
+At a platform above the pool of coolant a short distance from the spawn point, there is a Fortuna worker, who, when interacted with the prompt "We All Lift Together", will replay the cinematic that initially plays upon entering Fortuna for the first time and respawn the player at the spawn point.
+Eudico
+thumb|250x250px
+Eudico is the floor boss of Fortuna, and secretly goes by her stage-name Vox Solaris during operations where she leads the resistance movement of Solaris United. She offers Bounties for players to undertake in Orb Vallis, which offers both Solaris Standing and various other rewards.
+Rude Zuud
+thumb|250x250px
+Rude Zuud is a gunsmith whose trade centers around Kitguns, modular primary and secondary weapons that players can craft with different parts and stats as they desire, along with other weapons related services such as Renaming.
+Zuud
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 1: Outworlder
+Rank 1: Outworlder
+Rank 1: Outworlder
+Rank 1: Outworlder
+Rank 1: Outworlder
+Rank 1: Outworlder
+Rank 2: Rapscallion
+Rank 2: Rapscallion
+Rank 2: Rapscallion
+Rank 2: Rapscallion
+Rank 2: Rapscallion
+Rank 2: Rapscallion
+Rank 3: Doer
+Rank 3: Doer
+Rank 3: Doer
+Rank 3: Doer
+Rank 4: Cove
+Rank 4: Cove
+Rank 4: Cove
+Rank 4: Cove
+Rank 5: Old Mate
+Rank 5: Old Mate
+Rank 5: Old Mate
+Rank 5: Old Mate
+Rank 5: Old Mate
+Legs
+thumb|250x250px
+Legs (formerly named Thursby) sells MOA Companions and the parts to create them, and can also help assemble Hound Companions (though parts must be sourced elsewhere). He also offers a small selection of robotic weapon blueprints.
+Legs
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 1: Outworlder
+Rank 1: Outworlder
+Rank 1: Outworlder
+Rank 1: Outworlder
+Rank 2: Rapscallion
+Rank 2: Rapscallion
+Rank 2: Rapscallion
+Rank 2: Rapscallion
+Rank 3: Doer
+Rank 3: Doer
+Rank 3: Doer
+Rank 3: Doer
+Rank 4: Cove
+Rank 4: Cove
+Rank 4: Cove
+Rank 4: Cove
+Rank 5: Old Mate
+Rank 5: Old Mate
+Rank 5: Old Mate
+Rank 5: Old Mate
+The Business
+thumb|250x250px
+The Business (Biz) works to preserve the wildlife on Venus, who are being driven to extinction by the Corpus. He sells the equipment necessary to find and capture the wildlife for conservation as well as fishing spears and baits for the Servofishes found in the Orb Vallis and Companion Mods.
+Biz
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 1: Outworlder
+Rank 1: Outworlder
+Rank 1: Outworlder
+Rank 1: Outworlder
+Rank 1: Outworlder
+Rank 1: Outworlder
+Rank 1: Outworlder
+Rank 1: Outworlder
+Rank 1: Outworlder
+Rank 2: Rapscallion
+Rank 2: Rapscallion
+Rank 2: Rapscallion
+Rank 2: Rapscallion
+Rank 2: Rapscallion
+Rank 2: Rapscallion
+Rank 2: Rapscallion
+Rank 3: Doer
+Rank 3: Doer
+Rank 3: Doer
+Rank 3: Doer
+Rank 3: Doer
+Rank 3: Doer
+Rank 3: Doer
+Rank 3: Doer
+Rank 3: Doer
+Rank 3: Doer
+Rank 3: Doer
+Rank 3: Doer
+Rank 4: Cove
+Rank 4: Cove
+Rank 4: Cove
+Rank 4: Cove
+Rank 4: Cove
+Rank 4: Cove
+Rank 4: Cove
+Rank 4: Cove
+Rank 5: Old Mate
+Rank 5: Old Mate
+Rank 5: Old Mate
+Rank 5: Old Mate
+Rank 5: Old Mate
+Rank 5: Old Mate
+BizTags
+Smokefinger
+thumb|250x250px
+Smokefinger works with mining equipment suited for the Orb Vallis.
+Smoke
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 1: Outworlder
+Rank 1: Outworlder
+Rank 1: Outworlder
+Rank 2: Rapscallion
+Rank 2: Rapscallion
+Rank 2: Rapscallion
+Rank 2: Rapscallion
+Rank 3: Doer
+Rank 3: Doer
+Rank 4: Cove
+Rank 4: Cove
+Rank 5: Old Mate
+Rank 5: Old Mate
+Rank 5: Old Mate
+Rank 5: Old Mate
+Rank 5: Old Mate
+Rank 5: Old Mate
+Ticker
+thumb|250x250px
+Ticker allows the player to pay off Solaris NPCs' debts for rewards, in the form of Debt-Bonds, which can be exchanged for Solaris United standing or Landing Craft decorations. She also has Railjack Crew for hire.
+Vox
+Vox is Eudico's alter ego serving as the voice and leader of Solaris United.
+Solaris United Agent
+The 'Solaris United Agent is placed outside of the Fortuna elevator in the Orb Vallis, offering Bounties without needing to return to Fortuna. They will also appear upon capturing Corpus bases within the Vallis.
+When the player reaches Rank 5 - Old Mate, all the adult Solaris NPCs will open their chest cavities, revealing their organic heads, dispensing with formalities and greeting the Tenno as a part of their family.
+The chest cavities will not open if Creator Mode in Settings is enabled.
+Weirdly, Eudico's chest cavity will not open in Briefing, but the human voice is still used. This also applies to her farewells once her chest cavity closes.
+Lore
+Culture
+Cuisine
+Due to the bodily reconfiguration Solaris augments cause, most Solaris no longer possess traditional lungs and stomachs, and thus, are unable to eat in the traditional sense. Instead most heavily augmented Solaris consume nutrient canisters through the use of gastronomy seals.
+Less augmented Solaris, such as the children, still posses traditional digestive tracts, and instead consume energy bars and canned fish.
+These rations are created and distributed by the Corpus Feed and Research Division, which are created from the processed and ground-up fauna of the Orb Vallis.
+Technology
+Language
+**Trivia:**
+Solaris is the Latin word for "solar", "of the sun".
+Before the release of Update 24, the faction used a different sigil, which was later replaced by the emblem of Fortuna itself. Part of the original emblem is still used for the Vox Solaris sigil.
+Before the release of Fortuna, Solaris could be seen on several Tenno relays.
+The Solaris United symbol was previously seen in Digital Extremes' The Amazing Eternals, as a recurring symbol in one of the multiplayer maps. Since the game was cancelled, it was presumably reused and recycled back into Warframe.
+mPTCq3LiZSE
+
+## Entrati
+Heirs to the legacy of Albrecht Entrati, his powerful Orokin family encountered disaster, isolation and bitter division on Deimos. The arrival of the Tenno, beneficiaries of their Void research, may bring fresh hope - and a deeper understanding of the world that trapped their family.
+The Entrati (also known as the Entrati Family or House Entrati) are an elusive Orokin family who reside within the Necralisk; a Void research enclave located on the now-Infested moon of Deimos. They were highly renowned during the Orokin Era for being the first ones to create technologies that harnessed the power of the Void. Today, the sole survivors of the family are a single dysfunctional household that dwells on the Cambion Drift, Deimos. Additionally, the family are all partly Infested, with their individual names taken from them by the hive mind, however they retain their personalities and internal squabbles.
+The head of the Entrati family is Mother, a partially-infested Orokin scientist, mathematician, and philosopher, whose father was responsible for the creation of the Heart, a device that serves as the wellspring of void power for the Tenno of which the Entrati currently maintain. The Entrati were also responsible for originating the Requiem words, as well as maintaining one of the Cosmic Clocks. Previously subservient to the Entrati, the Necramechs were elite and luxurious defensive units that have now gone rogue with the encroaching infestation on Deimos. These units mostly reside in the underworld, protecting the long-abandoned Entrati Isolation Vaults.
+To fully access this Syndicate, the player must complete the Heart of Deimos quest.
+Standing Gain
+Unlike Ostrons and Solaris United, instead of directly awarding standing, the Entrati award Entrati Family Tokens from interacting with its individual family members and performing tasks for them. These tokens can then be traded to Grandmother for standing.
+Entrati Family Tokens#Acquisition
+**Tips:**
+Mother's Bounties are very high in Mother Token, with two to three runs of Tier 5 rewarding enough tokens to reach the daily standing cap.
+Ranks
+Ranks
+Lore & History
+The First Void Voyage
+thumb|226x226px|Albrecht Entrati - Father of Void travel.
+Ancestor of the Entrati family, Albrecht Entrati was the first to discover the usefulness of the Void by attempting to voyage into it. There he would discover an eldritch being that attempted to communicate with him. After exiting the Void gate, Albrecht's daughter, Euleria, deactivated it, and in turn severed some of the Void entity's fingers.
+After this, Albrecht would continue to study the Void, discovering the enigmatic Requiem Words, and constructing the Heart atop the Wall of Lohk; the Void gate used in his voyage. The Heart is a mysterious object that is said to provide the Origin System and the Tenno with Void energy, which is maintained by Albrecht’s descendants.
+Study of the Void
+Over time, the severed digits acquired from the entity would be studied reverently by the Entrati and the other Orokin. Expeditions into the Void would still continue, with explorers depositing any treasures they found within the subterranean Isolation Vaults. These vaults were constructed to both study the boons of the Void, and isolate and quarantine anything or anyone that came back unstable and corrupted.
+The Zariman
+thumb|218x218px|The Zariman's Reliquary Drive
+Following the Orokin’s plan to colonize the Tau System, the Entrati would aid in the construction of the Zariman Ten Zero, specifically its Reliquary Drive, which used a duplicate of one the fingers acquired by Albrecht. The Zariman was also the first to provide public access to Albrecht's Void research, incorporating "Beyond the Wall of Lohk" and "The Palimpsest of Spacetime" into its education system.
+With their store of ceremonial Entrati Lanthorns, the Zariman would plot a course through the Void. However, it would never make it to Tau, and was lost within the depths.
+Euleria would also come to be revealed as the author of Tales of Duviri. The book, while appearing just as a children's storybook on the outside, contains the contents to educate the Zariman's children on emotional regulation, due to the Void's tendency to manifest thoughts into real being.
+The Old War
+During the emergence of the Sentient invasion, the Entrati would go on to construct the Necramechs, precursors to the Warframes. Their Void-shielding made them immune to the tech-scrambling pulses of the Orphix. Additionally, the severed fingers acquired from the Void entity would then be used to construct the Railjacks; a fleet of space-faring warships capable of traveling independently of the Solar Rail network.
+Infestation of Deimos
+After a bio-bomb was detonated in Deimos in an attempt to repel the Sentients, the entire moon was overrun with the Infestation. The Entrati had no choice but to lock themselves in the Necralisk and use it as a makeshift safehouse. To escape the troubles of the family, the children would occupy themselves by studying the Infestation; Daughter would catch and study Infested fish, and had a collection of original Orokin specimens, while Son would begin breeding Infested beasts, dressing them up as members of the family as a joke.
+Post Old War
+The Entrati were mentioned in Parvos Granum's records about the Specter Particle Theory. Parvos states that after acquiring a sample that the Entrati kept secret, development of the Specter Particle started accelerating. The Orokin would attempt to retrieve the sample by deploying a team of Warframes to raid his labs, but Parvos had them loaded with explosives, incinerating the labs and the frames with it.
+The Collapse
+After the Collapse of the Orokin Empire, there were no Dax or Tenno to assist in the protection of Deimos, which resulted in the gradual decline of the Entrati family and abandonment of the Isolation Vaults, The Necramechs who once protected these ruins from intruders went rogue, now attacking any who enter the Vaults looking for treasure.
+Ultimately, Son would inadvertently break containment protocol. Some of the Infested fauna he bred followed him home, allowing spores to make their way onto the Necralisk and infest the rest of the family, which led them to lose their names and most of their memories and ideas.
+During an unknown time, Deimos would then be phased out of reality, presumably into the Void.
+The Re-emergence of Deimos
+thumb|217x217px
+Due to the Heart currently failing, the Entrati had no choice but to re-phase Deimos back into Martian orbit. The Necraloid Loid, loyal assistant of House Entrati, would then go on to contact the Tenno for assistance in repairing the Heart and mending the bonds between the family members. Tensions between the family would reach an all time high, as the Heart would be disabled by a rogue Necramech. Ultimately, with the help of the Tenno, the Entrati family were able to put aside their squabbles and work together to repair and reactivate the Heart.
+While ranking up with the Entrati, the Tenno will witness them attempting to mend their relationships with each other.
+When the player reaches Rank 1 - Stranger with the Entrati, a cutscene plays in which Son begins to reconcile with Daughter. Giving her a descendant of her original collection, Son reveals that he didn't fully destroy her collection of fish. Instead, he dumped them in the exocrine rivers of Deimos, where they still remain.
+He states that he only wanted to "wound, not maim", and that they are still able rebuild her collection.
+Following this revelation, Son gives his sister the name Kaelli, meaning "water scourge". This name replaces Daughter's in-game name from then on. This new name can be hidden if Creator Mode in Settings is enabled.
+When the player reaches Rank 2 - Acquaintance with the Entrati, a cutscene plays in which Father and Kaelli discuss the time he made her a Claw weapon, which she later attacked him with. She stated that the disciplinary rituals they performed were stupid and insane, and questioned Father why he made them do them.
+He expressed that that claw he gave her was to protect her from Void-horrors, and that he had them perform the rituals because he had no idea what else to do, and didn't want to be useless. Kaelli assures him that she never believed he was useless, but simply misguided in trying to impress his family.
+After this, she names him Vilcor, meaning "the whip in its moment of striking". This name then replaces his previous name in-game from that point on. This new name can be hidden if Creator Mode in Settings is enabled.
+When the player reaches Rank 3 - Associate with the Entrati, a cutscene plays with a conversation between Son and Mother. Mother admits that her son works well alone, and reveals that she indeed was worried about him after he contaminated the family, wanting nothing more than to protect him from the Infestation. Son acknowledges her recognition and Mother eases his restrictions, albeit slightly.
+Shortly after, Mother names him Kermerros, meaning "the runner who outstrips his own shadow". This name replaces Son's in-game name from then on. This new name can be hidden if Creator Mode in Settings is enabled.
+When the player reaches Rank 4 - Friend with the Entrati, a cutscene plays with a conversation between Kermerros and Vilcor. Kermerros reminisces over the time he first bred Infested, and how they would play with them for hours. Vilcor admonishes him for this, stating that dressing them up as members of the family and giving them names of honor was a deliberate insult. Kermerros then reveals the true intention behind his Infested breeding was to create targets for Vilcor's weapons, stating "What good is a weapons expert without something to kill?".
+When the player reaches Rank 5 - Family with the Entrati, a cutscene plays with a conversation between the entire Entrati family. Vilcor presents Mother with another Seriglass Shard, with Grandmother stating that hers is nothing special, just one of thousands. Vilcor convinces Mother to let go of the shard that binds her to Grandfather, letting her live for the sake of the living.
+Following this, Vilcor gives Mother the name Gomaitru, meaning "the goblet refilled". This name replaces Mother's in-game name from then on. This new name can be hidden if Creator Mode in Settings is enabled.
+The Entrati then thank the Tenno for bringing them together again, and fully welcome them into the family under the name Ayatan.
+Operation: Orphix Venom
+The Sentients have returned to invade the Origin System; this time their Orphix have learned to disable Warframes. Father offers his help to the Tenno, allowing them to use his Necramechs, which remain immune to the Sentient's pulses, in an attempt to counter their encroaching invasion.
+The New War
+During the Sentient invasion and the Narmer takeover, Mother ordered the family to remain hidden on Deimos in order to protect the Heart.
+Veilbreaker
+Intrigued by Narmer's new leader Pazuul, Daughter intercepts a distress beacon from a Murex above Deimos, and sends the Tenno to investigate. After triangulating the signal, Daughter is shocked that the owner is a Grineer soldier named Kahl-175. Kahl manages to strike a deal with her, agreeing to provide information about Pazuul in exchange for helping to free the prisoners.
+After Kahl settles within the Drifter's camp, he and Daughter assist the Tenno in triangulating and hunting down Narmer's Archons.
+Reuniting Loid
+After completing The Old Peace, Roathe attempts to reunite the original Loid with the Entrati family. Upon reaching a consensus with Roathe, Marie, and Lyon over Kinemantik Instant Messaging and being Rank 5 - Family with the Entrati, Loid will finally agree to depart from the Sanctum Anatomica beneath the Entrati family's feet. Upon returning to the Necralisk, a cutscene plays showing Loid finally walking out of the backroom, with some urging from Roathe upon getting cold feet.
+Loid in the Sanctum Anatomica and the Entrati family members (except Otak) in the Necralisk will have re-introduction lines when spoken to after the cutscene. Entrati members may also have dialogues of them talking about Roathe.
+Notable Members
+Mother
+thumb
+"Mother" is the matriarch and head of the Entrati family. She offers Bounties for players to undertake in Cambion Drift, awarding Mother Tokens and other rewards. In addition, she provides access to the first difficulty tier of the non-expiring Isolation Vault Bounties. However, subsequent difficulty tiers must first be acquired by finding her out on the Cambion Drift. Upon completion of these, she will offer all difficulty tiers from within the Necralisk.
+Father
+thumb
+"Father" is a former Orokin engineer and weapons expert. He accepts lootable resources in the Cambion Drift for Father Tokens, and sells Infested and ancient Orokin weapons, as well as mods for Prime weapons for Standing.
+Father
+Rank 0 NeutralRank 0 NeutralRank 0 NeutralRank 0 Neutral
+Rank 0 Neutral
+Rank 0 Neutral
+Rank 0 Neutral
+Rank 0 Neutral
+Rank 0 Neutral
+Rank 0 Neutral
+Rank 0 Neutral
+Rank 0 Neutral
+Rank 0 Neutral
+Rank 1 Stranger
+Rank 1 Stranger
+Rank 1 Stranger
+Rank 1 Stranger
+Rank 1 Stranger
+Rank 2 Acquaintance
+Rank 2 Acquaintance
+Rank 2 Acquaintance
+Rank 2 Acquaintance
+Rank 3 Associate
+Rank 3 Associate
+Rank 3 Associate
+Rank 3 Associate
+Rank 3 Associate
+Rank 3 Associate
+Rank 3 Associate
+Rank 4 Friend
+Rank 4 Friend
+Rank 4 Friend
+Rank 4 Friend
+Rank 4 Friend
+Rank 5 Family
+Rank 5 Family
+Rank 5 Family
+Daughter
+thumb
+"Daughter" is an Orokin biologist who studies the Infested fish in the Cambion Drift. She takes extracted fish innards for Daughter Tokens, allows the player to cut fish, and sells bait and unique Infested Fishing Spears that can penetrate the exocrine surfaces.
+Daughter
+Rank 0 Neutral
+Rank 1 Stranger
+Rank 1 Stranger
+Rank 1 Stranger
+Rank 1 Stranger
+Rank 1 Stranger
+Rank 2 Acquaintance
+Rank 2 Acquaintance
+Rank 2 Acquaintance
+Rank 3 Associate
+Rank 3 Associate
+Rank 3 Associate
+Rank 3 Associate
+Rank 4 Friend
+Rank 4 Friend
+Rank 4 Friend
+Rank 5 Family
+Son
+thumb
+"Son" is an Orokin researcher and biologist who takes in Infested wildlife for Conservation and study. He takes tags for Son Tokens, and handles the Revivification process to turn weakened Predasites and Vulpaphyla into Companions. He also handles gilding Predasite and Vulpaphyla companions and allows the player to rename them for 15, or to release them in exchange for Son Tokens.
+Son
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 1: Stranger
+Rank 1: Stranger
+Rank 1: Stranger
+Rank 1: Stranger
+Rank 1: Stranger
+Rank 1: Stranger
+Rank 1: Stranger
+Rank 1: Stranger
+Rank 1: Stranger
+Rank 2: Acquaintance
+Rank 2: Acquaintance
+Rank 2: Acquaintance
+Rank 2: Acquaintance
+Rank 2: Acquaintance
+Rank 2: Acquaintance
+Rank 2: Acquaintance
+Rank 3: Associate
+Rank 3: Associate
+Rank 3: Associate
+Rank 3: Associate
+Rank 3: Associate
+Rank 3: Associate
+Rank 3: Associate
+Rank 3: Associate
+Rank 3: Associate
+Rank 3: Associate
+Rank 3: Associate
+Rank 3: Associate
+Rank 4: Friend
+Rank 4: Friend
+Rank 4: Friend
+Rank 4: Friend
+Rank 4: Friend
+Rank 4: Friend
+Rank 4: Friend
+Rank 5: Family
+Rank 5: Family
+Rank 5: Family
+sontags
+Grandmother
+thumb
+"Grandmother" is the mother of Father, and attempts to keep the family together. She takes Entrati Family Tokens for Entrati Standing or Grandmother Tokens, which in turn can be exchanged for Seriglass Shards, profile Glyphs, Captura scenes, and Orbiter decorations. She also organizes K-Drive Races in the Cambion Drift. Unless specified, the token costs of the Orbiter decorations are randomized daily. Token costs range from 5 - 20 tokens and may require up to two different token types.
+Grandmother
+Always available
+On rotation
+Otak
+thumb
+Otak is a damaged Cephalon that was integrated into a Necraloid shell with Loid. He handles Mining services, sells gem and ore blueprints, and takes mining resources for Otak Tokens.
+Otak
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 0: Neutral
+Rank 1: Stranger
+Rank 1: Stranger
+Rank 2: Acquaintance
+Rank 2: Acquaintance
+Rank 2: Acquaintance
+Rank 3: Associate
+Rank 3: Associate
+Other
+Albrecht Entrati
+thumb|226x226px
+Albrecht Entrati was the first Orokin to prove the usefulness of the Void. After numerous failures and the loss of support from his fellow Orokin peers, Albrecht would instead use himself as a test subject in traveling through an experimental Void gate, known as the Wall of Lohk.
+He would ultimately be successful in his experiment, however, he would meet an unknown entity with the Void that mimicked his appearance. After exiting the Wall, Albrecht would be unsure if he was the one who escaped, or if it was the other. So, he chose to forgo his Continuity, choosing instead to live the remainder of his life in his current body.
+Sometime after the construction of the Zariman Ten Zero, Albrecht would mysteriously disappear, prompting his daughter to look for him. Whether Albrecht has disappeared or truly died is uncertain.
+Kalymos
+thumb
+Kalymos was Albrecht Entrati's faithful Kavat companion. She was present during the first voyage into the Void, and based on her absence, may have disappeared alongside her owner.
+**Trivia:**
+Entrati is the Italian word for "entered".
+The Entrati were first mentioned in The Deadlock Protocol by an old Parvos Granum log when he was developing Specters, stating that the Entrati "kept their secrets long enough".
+All members of the family can be heard snoring when standing next to their infested flower bulbs.
+The Entrati are the only Syndicate with a Landscape that are not a unique society, being Orokin. The Ostrons and Solari were first introduced in their respective updates.
+Despite the Zymos being offered as a rank up reward for the title of "Stranger", the player cannot actually choose it as a reward without being the correct Mastery (11).
+The icon used to represent the Entrati faction is a stylized version of Albrecht Entrati's mask.
+
+## Cephalon Cy
+Cephalon Cy
+Cephalon Cy is a Cephalon that serves as the navigator and executive officer of the Tenno's Railjack, functioning as mission control during Railjack missions. His dialogue is characterized by a curt, no-nonsense attitude although he occasionally lapses into dry humor.
+The blueprint to build the "Railjack Cephalon" is given upon starting the Rising Tide quest.
+Lore & History
+Dry Dock Schema
+Operator,
+Last cycle, during routine star count, I detected something unusual. A pattern, hidden in the redshift data.
+I did not want to worry you about my sensory stability. So I ran an autonomous scan... I found something! Base schematic data, previously corruption-flagged... was whole again. The Weave works in unexpected ways... Did I receive parity bits from some unknown source?
+As you know, my flight capabilities are confined to the Orbiter here and her companion Lander, but this new base structure might interest you and your fellow Tenno.
+Your most stable cephalon,
+Ordis
+The schematics used to reconstruct Cy at the Clan Dojo were recovered inexplicably by Cephalon Ordis from redshift data during a routine star count. Their origin is somewhat unclear.
+Rising Tide
+Realizing the growing threat of the Sentient, Cephalon Cy instructs the Tenno to build a Railjack, an ancient Orokin warship dating back to the Old War. As he guides the Tenno to locate parts for construction, Cy attempts to search for a viable Command Cephalon for the Railjack, claiming he is not one.
+During construction, Cy suffers traumatic flashbacks to his original crew, who perished during the Old War while attempting to behead a Sentient fleet. Furthermore, it seems heavily implied that the cause of his crew's death was Cephalon Cy himself either shutting down the Railjack's systems or refusing to aid and respond to their commands. He declares that the reason for this is that their deaths will "complete the mission". While one of his duties is to ensure his crew's safety, his primary objective and that of his crew's was to complete the mission. By allowing them to die, he further declares that he single-handedly completed the mission. In retrospect, he still laments this decision and ponders why he was "given THOSE orders", implying an intentional sabotage by command. Due to the trauma he no longer considered himself a viable Command Cephalon, only agreeing to be installed in the Railjack when he realizes no other potential Cephalon has data or experience with space warfare, and desiring to understand why records of that mission were eliminated from the Cephalon weave.
+**Trivia:**
+During earlier previews his role was instead assumed by Cephalon Ordis and thus of a wildly different tone.
+Unlike many previous Cephalons, Cephalon Cy's visual representation is made up of multiple flat images superimposed over each other to form a three-dimensional arrangement (an upside-down pyramid) instead of a polyhedron. Also, his default color is red, rather than white, blue, or yellow.
+However, when he recalls his past memories during the Rising Tide quest, he turns white (or grey). This also occurs during the Call of The Tempestarii quest.
+Some Meditation Quotes from Cephalon Cy are adapted from literature:
+"That which can be destroyed by the truth should be." - P.C. Hodgell, Seeker's Mask
+"It is difficult to understand the universe if you only study one planet" - Miyamoto Musashi, A Book of Five Rings: The Classic Guide to Strategy
+"In battle, if you make your opponent flinch, you have already won." - Miyamoto Musashi
+"The opposite of a small truth is a lie. the opposite of a great truth is another great truth" -Niels Bohr
+Cephalon Cy is voiced by Emma Martello, who also voices Rell and Master Teasonai.
+Prior to Update 30.2.2, Cephalon Cy's blueprint had to be researched in the Dry Dock:
+
+## Archimedean Yonta
+Archimedean Yonta
+Archimedean Yonta is the Archimedean of The Holdfasts. She trades Standing, Decorations, and Kuva for Voidplumes. She is located by the entrance to the elevator room on the left-side of the Chrysalith.
+Lore & History
+Yonta was responsible for the Void-Jump Accident, the event in which the Zariman Ten Zero was lost in the Void.
+One of the few adults on board the ship who wasn't driven insane by void exposure, Yonta chose to commit suicide via Jade Light rather than face death either at the hands of the surviving children or the feral adults. This was referred to as an 'undeserved honor', suggesting she went against regular protocol in order to carry out her own execution.
+Offerings
+Archimedean Yonta takes in Voidplumes for Holdfasts standing.
+Archimedean Supplies
+YontaOfferings1
+She takes Voidplume Pinion in exchange for Orbiter Decorations and Kuva.
+Always available
+Once per week
+Trade for Voidplumes
+Archimedean Yonta offers Voidplumes of each tier for sale, and asks for materials found in the Zariman, such as Thrax Plasm, Voidgel Orb, Entrati Lanthorn, and lower tiers of Voidplumes. Her stock is limited to one per tier of Voidplume, and refreshes every 8 hours.
+Trade for Lua Thrax Plasm
+YontaOfferings2
+Lua Thrax Plasm can be used to purchase Voruna, Perigale, and Sarofang blueprints and components, Arcane Blessing, Arcane Rise, Primary Frostbite, and Conjunction Voltage, and the Lua Circulus Captura scene as an alternative to Conjunction Survival drops; only the Captura scene is exclusive to Yonta's wares.
+125
+75
+75
+75
+100
+50
+50
+100
+50
+50
+50
+15
+15
+15
+15
+250
+**Trivia:**
+At times while interacting with Yonta, she will comment that "there's a version of [her] that stayed behind on Lua," and that she "hate[s] her."
+This references Eternalism, potentially showing that Yonta regrets leaving Origin System on the Zariman, and is jealous of the version of herself that decided against it.
+As an Archimedean, Yonta knows many other Archimedeans. She mentions them by names and wonder where currently they are.
+Among those names is Archimedean Suda.
+Yonta has unknowingly seen The Man in the Wall, as a grinning doppelgänger of herself, in the corner of her eyes when she was in the Reliquary Drive chamber, and she hates being there because of it.
+Yonta mentions spotting things in the Deep Void, most likely the Orowyrm.
+Yonta suggested that she had found a way for the Zariman Ten Zero to perform a long void jump and can still reach Tau System safely, provided there is another chance to do so.
+When exiting out of her trade menu without having made a trade, sometimes Yonta will say "Very well. Keep your secrets." This is possibly a reference to the Lord of the Rings meme.
+
+## Jade Shadows
+Quest Description
+Jade Shadows is a solo-only main Quest, released in Update 36. In the aftermath of The New War, the Stalker comes to grips with his own past, concealing a secret that could have implications for the rest of the Origin System.
+Synopsis
+During The Collapse, Stalker served as a Low Guardian to the Orokin who were slaughtered by the Tenno, to which the Stalker sought vengeance. As Stalker himself became a target, he was protected by Jade.
+In the present, following the events of The New War, Stalker has been nursing Jade who has fallen critically ill. His attempts to administer Bioplasma fail; Hunhow urges him to seek the Tenno's assistance, who suggests he use Cortichrome from the Infested. Meanwhile, the Bioplasma theft alerts Corpus Captain Xeto; she orders the Stalker tracked, believing what he has in his possession will promote her to a Sister of Parvos.
+While administering the Cortichrome, Jade is revealed to be pregnant and passes during childbirth. Stalker secures her child and protects it from Xeto's forces. When the Stalker sustains an injury, the child cries, causing Xeto to order a cease fire and allow Stalker to pass.
+Before becoming Warframes, Stalker was known as Sorren and was in a relationship with Jade, siring a child despite being forbidden by Orokin legems. He names the child Sirius or Orion.
+Walkthrough
+The player must have completed The New War.
+When initiating the quest in the Codex, a disclaimer warns there are scenes of trauma related to motherhood and the quest will take 30–40 minutes to complete during which other WARFRAME activities are unavailable. Type SHADOWS to confirm.
+CONTENT WARNING
+This quest contains scenes of trauma related to motherhood.
+Jade Shadows will typically take 30-40 minutes to complete. During that time you will not be able to participate in other Warframe content.
+Type SHADOWS to confirm.
+The Lair
+Hunhow narrates Stalker's life filled with despair, anguish, and hatred, none of which compare to his guilt. A diorama depicts Stalker confronted by an Excalibur, but also protected by Jade.
+Within the depths of Uranus, Stalker awakens to a jade feather while hearing whispers saying "Sorren". The player controls Stalker as they follow the path of feathers taking them to a dying Jade. Hunhow contacts Stalker, scolding him for continuing to treat her alone instead of swallowing his hate and pride, which Stalker coldly denies. Stalker offers her comfort before embarking on his Landing Craft.
+Anything But That
+Stalker heads to Phobos to raid a Corpus Ship of Bioplasma. This is a Spy mission with 4 vaults, though Stalker possesses 100% Auto Breach chance and his invisibility bypasses laser sensors. The playable Stalker possesses the weapons Dread, Despair, and Hate with Reaping Spiral stance, and the abilities Teleport (Stalker), Marked, Smoke Screen (Stalker), and Punishment, with a passive that grants 300% critical chance to enemies who do not see him. Three out of four vaults must be hacked; failing to meet the quota will result the mission restarting.
+His actions don't go unnoticed by Corpus Captain Xeto, who orders the Stalker to be tracked down.
+Mistreatment
+Stalker delivers the Bioplasma to Jade, who reacts with a piercing screech. Hunhow points out that this is proof of his words, and that the only thing that can help a Warframe are the Tenno. Stalker reluctantly agrees to go seek them, but is soon ambushed by Corpus Commander's forces, sidetracking him to destroy the interloping proxies before the Commander confirms his location.
+To Catch A Tenno
+Stalker boards the Tenno's Orbiter, alerting Ordis who patrols with his sentinel body. Stalker must wait for Ordis to open the Transference room door and sneak inside. Stalker confronts the Operator and shows them Jade's feather, who reluctantly agrees to help their fellow Warframe. Using Transference on the feather, they witness a pair embracing each other as the name "Sorren" is heard once more.
+Ordis suggests Stalker turn to the Infested, the base matter of which Warframes are created from.
+The Ancestor
+On an abandoned ship on Eris, Stalker battles a Juggernaut Behemoth to acquire Cortichrome. Xeto realizes that Stalker is attempting to play doctor and contacts Vala Glarios.
+The Impossible
+The Operator says that Jade won't make it, but also isn't fighting what's draining her, but Stalker orders them to try. Jade unfurls her cloak and is revealed to be pregnant. As the Operator uses Transference on Jade, they witness the pair's embrace again with Sorren calling out to Jade.
+To administer the medicine, players must time the jump button (default Space) in tandem with the wavelength chorus. However, the quest will still progress even if the player does not participate in the minigame.
+Escape
+As Stalker grasps Jade's hand, she disintegrates, leaving behind an infant boy. The child inherits Jade's light, empowering Stalker's Hate, giving it the ability to hurl energy waves, but he loses access to the rest of his arsenal and abilities as he carries his son on his arm. He ascends an elevator to escape a Corpus assault.
+At the surface, Xeto's forces open fire, forcing Stalker on the defense and eventually injuring him. His son starts to cry and upon hearing this, Xeto immediately orders a ceasefire and allows them to pass. Stalker in turn spares her troops as he hobbles to his landing craft.
+Past and Future
+On Lua, a narration reveals that Sorren is Stalker's previous identity, and was Jade's lover who swore to protect his family in spite of Orokin laws. As Stalker, the player can name the child Sirius or Orion, completing the quest.
+The heart is a labyrinth, none darker than Stalker's. At the center lays answers, loss... and life. One life lost, for another gained: life never before seen in the Origin System. An impossible life that, in turn, brought with it more questions than answers.
+Unfinished Business
+Hunhow
+Hunhow contacts the Tenno via inbox message and awards them the Jade Warframe blueprint, the Stalker's Lair Captura, and the Orbiter decorations Alone Portrait, Protector Portrait, and United Portrait.
+Completion of the quest unlocks the Ascension game mode on Uranus, which can be played to earn Jade's component blueprints and the weapons Evensong, Cantare, and Harmony.
+Death Mark Stalker no longer appears as Shadow Stalker, but as Protector Stalker, having reverted to his original appearance, with his mask and Hate now imbued with Jade's energies.
+Near Teshin in any Relay, an assembly of seven of Jade's feathers will appear in front of the tombstones, further detailing Jade's past after becoming a Warframe up to the events of Jade Shadows.
+**Notes:**
+Stalker's arsenal and abilities have several features noticeable during the quest, at times being capable of feats impossible for players to achieve even with Decrees:
+His mod config is implied to be identical to his Duviri counterpart's, so see that page for more details.
+Stalker's Parazon has a variant of Auto Breach that is guaranteed to activate each time he interacts with a console.
+Smoke Screen (Stalker) has an innate Infiltrate mechanic, allowing him to pass through Laser Barriers unhindered.
+Dread has at least Longbow Sharpshot, Galvanized Chamber, along with additional Cold damage.
+Despair has at least Secondary Merciless, Galvanized Diffusion, Galvanized Shot, and additional Heat damage.
+Some playthroughs show the Dread and Despair with increased Ammo Maximums, sometimes reaching values far higher than what a combination of Ammo Drum/Trick Mag and a suitable Riven Mod would allow. Exactly what causes this is unknown.
+Hate has at least Melee Animosity and increased Combo Duration.
+When replaying the quest, naming the newborn is skipped and Stalker will automatically speak whichever name was originally chosen.
+**Trivia:**
+Xeto ordering her troops to cease fire is a reference to the film Children of Men, where two warring factions immediately stop fighting at the sight of a newborn and allow the family to pass unharmed.
+The newborn can be named after Orion or Sirius, two characters from Greek mythology that represent a huntsman and his faithful companion.
+The jade hue when picking Sirius suggests this name was chosen by Jade, while the the red hue when picking Orion suggests this name was chosen by Sorren.
+In mythology, the duo were immortalized in the heavens as the constellation Orion, and the star Sirius, also known as the Dog Star, which is the brightest star in the night's sky and part of the constellation Canis Major. The two are depicted in an eternal chase with the constellation of The Hare. These designations are still recognized by the International Astronomical Union, and can be observed in the Northern Hemisphere.
+Prior to Update 38, the name Orion could be generated for Red Veil Railjack Crew.
+The United Portrait is the only portrait of the three that doesn't appear while completing the Quest.
+Despite not physically appearing, Excalibur Umbra is briefly mentioned by Ordis when Stalker infiltrates the Orbiter.
+Despite neither The Deadlock Protocol or Call of the Tempestarii being a pre-requisite, Xeto's dialogue references wanting to join the Sisters of Parvos, and Vala Glarios briefly speaks near the end of the quest, using dialogue recycled from a Candidate spawning.
+
+## Arthur
+Arthur
+Arthur James Nightingale is the squad leader of The Hex. He manages rank-ups with the syndicate.
+Albrecht Entrati's experiments turned Arthur into a Protoframe, a partial Warframe that still retains their humanity. Arthur possesses Excalibur traits, and is armed with the AX-52, Vesper 77, and Protokol Longsword.
+Overview
+A retired lieutenant of the Britannic Army, Arthur is the leader of the Hex: a rebel vigilante group based in Höllvania that battle against the Techrot outbreak and opposing Scaldra forces in the year of 1999.
+Protoframe Dossier
+ARTHUR NIGHTINGALE
+“BROADSWORD”
+MATCH: CONFIRM
+█ █ ██ █ ██ ███ ██
+//TEAM ROLE:
+Leader and combat co-ordinator.
+//CHARACTERISTICS / HABITS:
+Highly disciplined, professionally trained. Curiously, no known personal relationships beyond the others.
+//REPUTATION:
+Volatility?? Proven leadership, demonstrated selflessness, competent field command, yet still regarded as a loose cannon...
+//SPECIAL NOTES:Exceptionally loyal to his sister despite their clashes; this may prove problematic for group cohesion.
+Lore & History
+Background
+Originally a Britannic man, Arthur shared an idyllic childhood with Eleanor, never fighting once. Eleanor would often braid Arthur's hair and use makeup on him. There is an anniversary that both Arthur and Eleanor annually commiserate, where they have lost someone important to them.
+He served in the Britannic Army's Crimson Watch along under Eleanor's fiance, Christopher, though Arthur was consequently promoted when Christopher was killed by a roadside bomb, with Quincy entering service under Arthur shortly after. After being ordered to kill "all possible enemy combatants" on a mission (which would have included presumably innocent civilians), Arthur confronted his superiors, who threatened him with a dishonorable discharge. In response, he gave them an ultimatum: either give him an honorable discharge, or would use his connections with Eleanor to expose their actions - he was consequently honorably discharged, with Quincy following him.
+Prior to arriving in Höllvania, Arthur served in the International Crisis Response (ICR) unit with Aoi, and was sent to the city-state as part of their duty. Arthur would later inform Eleanor of the events in Höllvania, prompting her to illegally enter the region to investigate and report on it. While he had hopes that the ICR would possess more sympathy for civilians, this was proved false when they ordered him and Aoi to kill any and all possible infected hosts.
+Eventually, he became infected by the Techrot and sought a cure from Dr. Entrati.
+Protoframe Experiments
+thumb|258x258px|A diagram of Arthur's anatomy as seen within the Netracells
+Arthur and Aoi were some of the first volunteers who came forward to Dr. Entrati's offer to receive more than healing. They were then infused with Helminth serums from Albrecht's time, which in turn morphed and alchemized them into partial Warframes; Arthur's was that of Excalibur's. Their bodies became newly attuned to the Void, whilst their minds were kept intact.
+Repeated samples were then taken from the now-transformed volunteers by Albrecht himself, with research of Arthur and Aoi's own anatomies written along the blackboards of the Netracells of Albrecht's Laboratories. It was implied by the doctor himself that their humanity may not last, and that it may be only a matter of time until the Helminth finally swallows them whole.
+Whispers in the Walls
+Arthur makes his first appearance when the protagonist Tenno performs Transference on Albrecht's Vessels within the Sanctum Anatomica, in which Loid notes that the Murmur is redirecting the Transference stream to somewhere else instead of the Vessel, putting the Tenno in the mind of Arthur.
+Arthur fights off some Techrot, Infested humanoids possessing 1990s computers, in an abandoned subway. He contacts his partner, Aoi, stating that he feels like someone is in his head. Aoi then instructs him to link up with a terminal and locate a man named Dr. Entrati. Upon interfacing with a computer, Aoi declares to be under attack as the sound of Mag's Crush can be heard. Arthur is then attacked by the creatures from earlier, and after holding them off, he passes out.
+Upon waking up, Arthur is confronted by the doctor and his Kavat, who grins ominously as The Man in the Wall's Voidtongue can be heard.
+The Hex
+While relaxing within the Höllvania Central Mall, Arthur's hand is suddenly possessed by Void energy which types out "UNDR MIRAS AVE 10 MIN DNT B L8". Seeing this as a lead on Dr. Entrati, he questions the rest of the Hex - Amir, Aoi, Quincy, Leticia, and Eleanor - for his Atomicycle keys. Before he is able to ride out, the rest of the Hex show up and refuse to allow Arthur to investigate the lead on his own. He instructs Amir, Aoi, and Quincy on backup while Leticia and Eleanor hold the fort.
+Riding out into the city of Höllvania, Arthur encounters Major Neci Rusalka, a Scaldra commander whose forces are ordered to shoot him on sight. After battling through Scaldra forces and an H-04 Efervon Tank, Arthur is knocked unconscious but is quickly contacted by a telepathic message from Eleanor that Entrati and his kavat Kalymos are nearby, who vanishes near a cave of Techrot. Inside, Arthur encounters the Helminth which spits out an Excalibur Warframe and they clash with their Exalted Blade. The clash is interrupted as the Drifter emerges from Excalibur and uses Transference on Arthur, who receives visions of the Lotus, the Indifference, and Höllvania's nuclear reactor exploding at the end of 1999, before expelling the Drifter and stabbing their hand.
+Arthur captures and interrogates the Drifter, threatening to feed them to the Techrot if their information turns out to be faulty, but acknowledges that they're running out of time and has them take point in a search for Entrati. After much searching, the Hex and the Drifter find Entrati, but Entrati and the Drifter are then taken away by the Indifference.
+Deciding to stop the nuclear explosion themselves, Arthur, Amir, and Aoi breach the reactor control room. However, The Hex ultimately fail to stop the explosion, as each member of The Hex systemically die in the process, with Arthur combating a Techrot Babau descending on the nuclear core and dying from radiation poisoning. The Drifter resolves to save all of the Hex and rewinds time to the beginning of 1999, following a cryptic warning from Entrati to befriend the Hex.
+Arthur's final moments
+Finale
+Drifter
+To save Arthur from radiation poisoning, the Drifter uses Transference on Arthur, piloting his body out of the reactor core.
+Kinemantik Instant Messaging
+Arthur's username is "Broadsword". Initially standoffish and disliking discussing about his past at the first several interactions, Arthur is characterized as a serious person who takes his role in leadership seriously. He is also notably not a fan of the On-lyne music band, and is curious about the origins of the Drifter in Duviri.
+In spite of his overall serious/standoffish attitude, he greatly cares about The Hex and will check up on them to make sure they are ok. This later extends to The Drifter as well, as once his relationship with them is close enough, he will ask The Drifter the whole story of Duviri as his way of helping them work past their trauma. This is also shown when The Drifter advises Amir to talk about his nightmares to Arthur, with Arthur comforting Amir and sharing his experiences with war to help him. If the Drifter romances another member of the Hex, Arthur will give them his blessings.
+While this caring attitude becomes more pronounced if The Drifter starts dating him, it also reveals some unwillingness/fear to fully commit, possibly as a result of previous experiences or maybe him just accepting/expecting he will lose anyone close to him in one way or the other more than the rest of The Hex (even Eleanor, who shows a similar stance, if not as pronounced) - in one of his chats, he aggressively questions the Drifter about them leaving 1999 permanently under the guise of a frank conversation. If the Drifter calls him out on this, Arthur will apologize, admit to having nightmares of the Drifter dying and that the thought of losing them is agonizing, leading to him trying to find excuses to push them away before his heart is permanently damaged. That said, he later acknowledges that the Drifter will do the right thing even if it means leaving Arthur and the Hex behind, and asks the Drifter to promise to try not to die, or find some way to take Arthur with them. This goes further after "Isleweaver" as he makes peace with the idea that the Drifter may choose to romance someone else in a new loop, after speaking to Lizzie about the constant time loops. Most clearly shown if The Drifter starts a relationship with a member of The Devil's Triad while already on a relationship with him - his consent chat is the only one that can result in a break up if chosen by the player, with him not looking particularly upset if it happens.
+It is also shown his serious disposition does not allow him to relax, which is probably exacerbated due to the Hex's current circumstances and traces back to his childhood, something that the rest of The Hex call him out on. Later conversations will show that he can enjoy life more now and has started to sing again, as mentioned by Eleanor and even when seeing some of the Hex playing "Hide_and_Seek", he admits he was more upset that he didn't get invited rather than The Hex not doing anything useful, which he had to pretend to be the case. That said, he will admit that he still struggles with some embarrassment to do some activities (like singing or playing), which the Drifter can encourage to pick up again.
+He has a teddy bear named "Sebastian" that he found on a mission, whom he talks to on occasion.
+He and Aoi used to date. However, during Venusia (Star Days), Arthur showed disinterest in a gift of 1000 folded paper cranes, causing Aoi to break off the relationship. According to Eleanor, their respective desires were also opposed: Arthur wishes to settle down somewhere eventually ("a cottage with roses outside") and even establish his own bar, while Aoi wishes to remain more free and enjoy life's pleasures. Despite this, they remain in good terms both as friends and squadmates and he holds a great deal of respect for Aoi, as he believes that if it was not for her, the Hex would be dead already, especially him. If the Drifter romances Arthur, Aoi will express her approval by smiling at him whenever he goes back to the Backroom with him expressing his hope that she finds someone as well one day, as shown in his backroom dialogues. Likewise, if the Drifter decides to romance Aoi instead, Arthur will admit that, while he doesn't really feel jealous about it, he does feel a bit sad that the Drifter was able to make Aoi happy in a way he couldn't. That said, he will also admit he is glad that she has found happiness with them and simply asks them to try not to break her heart if they can help it.
+Arthur and Eleanor used to be very close as siblings. However, during a mission, Arthur was noticeably underperforming (heavily implied to be after his relationship with Aoi fell apart). When this caused an argument, Eleanor retorted that she could tell when he was thinking about Aoi, leading him to "crumple" given that Eleanor was one of the few people he did trust. As a result, while he still clearly cares about her, he currently has a very difficult time talking to her due to her destroying his trust and the fact she has telepathy. The Drifter can advise Arthur to talk to her through the KIM chat to bypass her telepathy and repair their relationship, with an additional chat having Arthur thanking the drifter for it. If The Drifter hints having an atraction towards Eleanor, he will initially become protective/defensive of her, but eventually will express his approval should the Drifter actually date her, being happy she has found someone who can give her some peace - both for her current situation and losing her fiance Christopher to war in the past.
+Arthur is also fond of alcohol, with several chats (both his and from the other members of the Hex) mentioning this and even one of his chats with the Drifter showing him being completely drunk due to being in a depressive mood at the moment. Once he is in the backroom, he will mention he wants to open a distillery in the mall.
+Several chats reveal he also enjoys cooking and even offers to teach the Drifter as a hobby as well as cooking for them. One of the chats will have Arthur agree to attempt to cook square spaghetti for the Drifter, which backfires horribly. Even though Arthur apologizes afterwards and offers to cook normal food for them from that point, the Drifter can use the incident in future conversations as a way to tease him. This is also shown with Velimir as when he considers cooking barbecued Techrot, the Drifter can suggest he cut it into cubes and have Arthur eat it as payback for the square spaghetti incident, which Velimir recognizes as an in-joke between both of them. If convinced to play "Fables and Frontiers, Arthur will make treats for the team as stated by Amir.
+Later on, it is shown he has become somewhat close to Velimir due to both of them having similar interests, with the latter becoming a father figure to the former in some capacity as mentioned by Eleanor. She even states Velimir would be the father Arthur would have picked if he was in any position to do so.
+**Trivia:**
+Fitting with Excalibur's theme, Arthur is named after King Arthur, wielder of the sword Excalibur.
+His codename and KIM username also lends further credence, being "Broadsword."
+Additionally, at one point Lettie sarcastically calls him "brave king," in turn making the rest of The Hex comparable to the Knights of the Round Table, the legendary entourage of knights under King Arthur's leadership.
+On top of this, Quincy refers to him as "His Maj' ("His Majesty") on multiple occasions in his KIM Message.
+Even Amir will mention this as, in one of his chats regarding "Fables and Frontiers", he calls Arthur "king of the kitchen".
+According to one of Amir's chats, Arthur's scars were caused by Amir being unable to control his powers shortly after acquiring them and Arthur receiving the full brunt of the discharge willingly to help Amir calm down.
+It is shown his left eye has severe cataract becase of this event, which is a real life condition, as cataracts are a common long-term complication of lightning strikes to the face.
+He seems to have some degree of PTSD and he still has recurrent nightmares about war as a result, as mentioned by Amir if the latter is convinced to talk to Arthur about it.
+If the Drifter dates Arthur, some of his conversations will show his use of double entendre (double meaning) for intimacy. Once he appears in the Backroom, his use of it becomes more pronounced.
+When Quincy asks The Drifter how things are going in their relationship with Arthur, he will wonder whether the latter has this side of his personality when nobody else is around, in contrast to his normally uptight image.
+Quincy has mentioned that Arthur would definitely be a Paladin if he were to play "Fables and Frontiers". If convinced to play, Arthur will indeed play as a Paladin as confirmed by Amir.
+He was first revealed during the live demo of Whispers in the Walls during TennoCon 2023.
+Both Quincy and Eleanor have mentioned in some of their chats that Arthur has a really good voice for singing: he once sang an English folk song called 'The Unquiet Grave" while drunk and without a microphone during a karaoke session. This is also shown when he sings a few lines of the song when approached in the mall (After the techrot encore update) and singing the entire first act of "Soonerland" with Velimir while drinking, as mentioned by Minerva.
+In the Whispers of the Wall Quest, Arthur's HUD does not identify him by name; he and his weapons are all labeled as "????".
+With the release of 1999, Arthur is the only one of the Hex members to have a military insignia underneath his Hex patch, in reference to his past as a Britannic Army Lieutenant.
+However, the insignia in question, two chevrons pointed downward, seem to correlate with the real-world British patch of a Corporal rather than a Lieutenant.
+Arthur's dogtags are engraved with text in 1999 Language which, when converted back to English lettering, reads phonetically as "arthur draehk".
+Arthur's first emoticon is :/
+Arthur wears a silver cuff on his left ear in a similar manner to Clive Rosfield, the main protagonist of Final Fantasy XVI and another character played by Arthur's voice actor, Ben Starr.
+
+## Stalker
+StalkerStalker
+The Stalker is an ominous, vengeful figure that infrequently appears during missions, armed with powerful weapons and abilities to hunt down Tenno who have his Death Mark.
+The Stalker is a sapient Warframe and is able to use ability powers belonging to various other Warframes. His arsenal is similar to that of the Tenno, utilizing a primary, secondary, and melee weapon. The Stalker's signature weapons are the bow Dread, the scythe Hate, and the throwing knives Despair.
+If the Tenno marked for assassination has completed The Second Dream Quest, they will be confronted with the more powerful, Sentient-enhanced Shadow Stalker instead. Upon completing the Jade Shadows Quest, Stalker will appear as Protector Stalker, having reverted to his original appearance, with his mask and Hate imbued by Jade's energies.
+Lore
+General
+Before he became the Stalker, he was once a Low Guardian named Sorren who served the Orokin. He was engaged in an unsanctioned relationship with an individual known as Jade, with whom he sired a child - an act that the Orokin legems considered taboo. They were caught by Ballas who turned them into Warframes as punishment; blaming himself, the Stalker attempted to repent by serving the Orokin in the hopes of being reunited with his lover and child.
+During The Collapse of the Orokin Empire, he noticed that the Tenno weren't as stoic and silent but instead waiting and poised, but failed to warn his masters of the slaughter the Tenno were prepared to carry against them. The Tenno went in pursuit of him as well, but he was rescued by Jade in his time of need.
+However, he did not recognize Jade and believed the Orokin's downfall dashed any hopes of reuniting with his family. Therefore, the Stalker sought vengeance against the Tenno and hunted their numbers across the Origin System.
+The Second Dream
+The Stalker allies with Hunhow and is bestowed the War greatsword while upgraded with Sentient powers, transforming into the Shadow Stalker. As they scheme to destroy the heart of the Tenno, the Lotus receives assistance from Alad V, but fail to stop the Shadow Stalker from revealing the Tenno's weakness: the Reservoir on Lua, hidden by the Lotus in the Void.
+Upon discovering the Tenno's true form, however, the Shadow Stalker hesitates, confused if he himself was a Tenno. He leaves, but later resolves himself to fight the Tenno on board their Orbiter. He gains the upper hand until the Warframe destroys the greatsword, causing the Stalker to seemingly experience immense pain before vanishing.
+Operation: Shadow Debt
+For Alad V's interference in The Second Dream, the Stalker sends his Acolytes - warriors as mysterious as the Stalker himself - to hunt him. Alad V invokes his favor from the Tenno and has them repel the Acolytes.
+The New War
+The Stalker still serves under Hunhow after the fall of Origin System and the rise of Narmer. He has reverted to his original appearance, though Hunhow still addresses him as his Shadow. He slaughters Narmer forces led by Ka-Nuteru, who were hunting the Stalker.
+To protect the Lotus from Ballas, Erra, and Narmer, Hunhow allies with the Drifter. The Stalker gives them the Nataruk bow and assists them in fighting Erra's Archons.
+Duviri
+Through the mysterious powers of the Void and Conceptual Embodiment, an unlikely ally in the form of the Stalker "Warframe" is able to appear in Duviri and lend his assistance to the Drifter.
+The Reaper's Lament
+Hunhow, feeling regrets with his own family, urges the Stalker to make amends with the Tenno, to wield the scythe once more (an instrument of cultivation, growth, and love, unlike War that only kills indiscriminately), and let go of the past, as the Orokin weren't worthy of his loyalty. When the Stalker refuses, Hunhow warns that he will always have a target painted on his back and that his "actions will have consequences".
+Jade Shadows
+Stalker continues to secretly care for the Warframe who saved him, known as Jade, whose health is deteriorating from unknown causes. Despite Hunhow's suggestions, he raids a Corpus ship for medical-grade bioplasma, catching the attention of a Captain Xeto, though the bioplasma fails to revitalize Jade, while Corpus forces track him down to his lair, and he eradicates the initial raiding party.
+As per Hunhow's advice, he teleports onto the Tenno's Orbiter, and after avoiding Ordis, sneaks into the Transference Room and confronts the Operator and convinces them to help Jade. The Operator directs Stalker to harvest Cortichrome from an Infested Juggernaut Behemoth. Xeto also tracks down Stalker and deduces he is attempting to heal someone, and sends Corpus forces to occupy his lair.
+When he arrives however, the Operator informs the Stalker that whatever is draining Jade's life force, she is not fighting against it. When the Stalker demands the Tenno try helping her anyway, their solution ends up not being enough to save Jade; she is revealed to be pregnant, her declining health implied to be caused by the baby she is carrying. She passes during childbirth, dissolving her form and leaving behind an infant baby.
+The newfound baby seems to empower Stalker with parts of Jade's power making him and his weapon glow green as he begins fleeing with the child, fighting the Corpus who have occupied his lair in the meantime. When he emerges from the elevator at the surface, however, Xeto and her crew of Corpus fire upon him, bringing him to his knees. Upon hearing the child cry however, Xeto commands her crew to stop firing, and they let Stalker pass and board his ship, where he flees.
+Afterwards, he arrives on Lua, reliving a past conversation with Jade, swearing to protect his family. He names the child Sirius or Orion.
+Hunhow later notifies the Tenno that the Stalker has fled his lair, and claims that he will not be returning.
+Spawn Possibilities and Combat
+Inbox message that appears after earning a Stalker's Death Mark
+Players will be marked by killing certain bosses during Assassination missions and being given a Death Mark. Then the Stalker can spawn in almost any player-accessible mission. The exceptions which prohibit his appearance are:
+Syndicate and Assassination standard missions
+Archwing, Free Roam and Arena special game mode missions
+Also includes Quest and Mastery Test solo-exclusive missions
+Non-combat hub "missions" (Relays, Dojos)
+Any mission that has already been determined as "chosen" for the spawn of another Assassin (Grustrag Three or Zanuka Hunter) or is forced to, due to use of their respective beacons
+Sortie missions
+Any mission that has already elapsed his spawn time window of around 5 minutes
+Albrecht's Laboratories missions
+At least one squad member must be marked for death by the Stalker before he will have a chance of spawning.
+Upon being marked for death, the target Tenno will receive an inbox message from the Stalker (marked as ???). After this message is received, the game will calculate the Stalker's chance to spawn in a valid mission according to the following formula:
+Spawn Chance 1.5% + (0.5% × P); P Players in Squad marked for death.
+Thus with squad line-ups of 1 to 4 marked players the chances of spawn are 2%, 2.5%, 3% and 3.5% respectively for each possible combination.
+Like other Assassin spawns there are special screen darkening effects announcing his arrival, although not all effects apply to squadmates. When the Stalker spawn starts, the targeted Tenno will experience the screen briefly flickering in a dark red hue accompanied with a hushing sound effect. Other squadmates will see the screen darken and a faint shadow of the Stalker flickering behind them. The target will receive a transmission, taunting the Tenno in question with threatening messages. After three taunts, the tileset will enter lockdown, and the Stalker will appear briefly invincible kneeling in a puff of black smoke before proceeding to attack the targeted player.
+If the targeted Tenno is killed, the Stalker will again kneel and vanish into another cloud of smoke, proclaiming his victory and that justice was served. If his health drops below 10% before he manages to kill his target, he will attempt to flee, announcing his shock at his failure, though he can still take damage and occasionally be killed up until he despawns.
+If he is defeated (regardless of whether he successfully fled or was accidentally killed), there is a chance for him to drop various loot items, such as a mod or a resource, or even blueprints for one of his weapons. As a boss, he always drops one Mod from his mod drop table.
+If Jade is present, Stalker will immediately despawn and drop his usual loot.
+Abilities
+The Stalker appears to don a unique, one-of-a-kind Warframe; completely immune to all Warframe abilities, regardless of whether they affect him directly or indirectly. He is furthermore capable of casting a wide variety of abilities from multiple Warframes, some of them with a unique variant exclusive to him.
+His known used abilities are:
+Slash Dash (variant) – The Stalker will usually start the fight by charging at his target with Hate, heavily damaging any targets in the way (akin to the version of this ability in previous updates). After this, he will usually switch to Dread or Despair. This is an ability belonging to Excalibur.
+Smoke Screen (variant) – The Stalker may occasionally disappear from sight during the battle, during which he will use Teleport in tandem to his invisibility to move erratically across the battlefield. This is an ability belonging to Ash, but with a significantly longer duration.
+Teleport – If the Stalker is currently using Hate, he will often teleport behind players and use Hate to strike the unsuspecting Tenno. He usually uses this ability in tandem with his Smoke Screen to unpredictably move across the battlefield. This, too, is another ability belonging to Ash.
+Reckoning (variant) – Activated roughly 10 meters towards allies who are supporting the victim player. All those who are caught by the ability are held in the initial Reckoning trance for a short duration, allowing the Stalker to resume attacking his target unimpeded. This is an ability belonging to Oberon but without the slamming.
+Pull – Rarely used, if the players are out of his aiming range, he may use this ability to pull a faraway target towards him—which in turn stuns the players. This is an ability belonging to Mag.
+Absorb – This is the Stalker's desperate and possibly most deadly ability. If he is low on health, he will use this ability to absorb all damage and repels it back towards nearby players, which may prove to be fatal for high-damaging players. This is an ability belonging to Nyx.
+Strategy
+The Stalker is capable of dealing significant damage, comparable to a well-equipped Tenno, and can easily destroy an entire squad if they are caught unprepared. It is important to warn squad-mates when the Stalker begins his taunts so that they can prepare for the upcoming fight. It is also important to stay close to other squad members so that if he does manage to take his target down, the squad can revive them before they bleed out. Note that the Stalker will despawn once the targeted player goes down, even if they are revived before completely bleeding out.
+There are several ways to deal with the Stalker once he spawns, such as constant movement, tanking, and / or fighting with Melee weapons. The Stalker will often use abilities from other Warframes, which should be avoided if it at all possible.
+If the targeted player attempts to run from the Stalker, he will occasionally teleport behind them and engage in melee attacks, similar to the Grineer Flameblade. The Stalker has also been known to Slash Dash towards a ranged target, dealing potentially lethal damage upon impact. He may also use Pull to drag his victim back towards him. When in melee combat, Stalker can stagger his target by striking with Hate at just the right moment. He may also attempt to evade melee combat by back-flipping away from the engaging player. If the Stalker's health gets too low, he can cast Absorb, forming a shield bubble around him which absorbs all incoming damage and explodes outward, dealing 100% of absorbed damage as Magnetic damage to players within range, draining their Energy, and inflicting a Knockdown.
+When actually fighting the Stalker, it has been found that fighting at range while on the move is particularly useful, as Dread is less powerful than Hate and Despair, all 3 of his weapons can be blocked to negate all damage (note that this does not block potential status procs). In addition, having Reflection can reflect some of the Stalker's damage back to him, largely eliminating the necessity of risking death in counterattacks with a player's own weapons. Do note, however, that the Hate staggers players who parry its blows, leaving you open to attack.
+High burst-DPS weapons such as beam weapons and shotguns are also highly effective; with the right weapons and mod configurations, many players can kill the Stalker before he has a chance to attack. It should be noted that he may use Reckoning to negate taking large amounts of damage.
+It is critical to avoid firing on him when he casts Absorb, as the resulting explosion deals not only the ability's base damage, but also any damage the sphere takes before the explosion and can be very damaging and even fatal.
+Other Notes
+The Stalker typically only attacks his marked target, but he has been known to engage other party members and even enemies if the target is out of range or out of his line of sight. This can be used in large rooms or invasions to make the fight easier. All allies in Invasions will prioritize the Stalker (or any other assassin) over regular enemies.
+Though extra buffs are purged, actions which modify existing stats (such as player shields and health) are still effective, such as the shield and / or health effects of Blessing and Shield Polarize.
+Stalkers Dispel will also not affect any charged Scarab Swarm of Inaros.
+Stalker will Dispel Cat's Eye from a Kavat however.
+Players may be able to avoid the Stalker's attacks by keeping 50 meters of distance between the target and Stalker, but due to the frequency of his Teleport, this may be impossible to achieve.
+It may be significantly harder for the targeted player to avoid or maintain distance from the Stalker when they are the host of a multi-player session, as there is no latency while he targets the player and tracks their movements.
+When Stalker spawns, the current section of the tileset goes into lockdown. Depending on which tileset players are on, there is a possibility that it can be released by Hacking, either manually or with a Cipher.
+If mission objectives are already complete, players can rush to extraction to complete the mission, avoiding having to fight Stalker entirely.
+Taking on the Stalker in Operator form can make the fight easier, though it'd be advisable to make sure your equipped amp is up to the task.
+Gameplay
+A playable version of the Stalker appears in Duviri upon acquiring Drifter Intrinsics Opportunity Rank 10. He is functionally equivalent to a Warframe, with a passive that grants 300% critical chance to enemies that do not see him, and the abilities Teleport, Marked (similar to Marked For Death), Smoke Screen, and Punishment (similar to Nyx's Absorb).
+**Notes:**
+If a player is "taxied" (invited to a node/planet they have not unlocked) to a boss fight, they will not receive Stalker's mark for any boss fight they are taxied to as long as they have not unlocked the planet. If the planet is unlocked already but the node is not when the player is taxied, the boss node and those around it will be unlocked and all subsequent runs of the battle will not earn the player Stalker's mark so long as they are not hosting/playing the mission solo.
+The Stalker can drop the rare resource (save for Orokin Cell which have their own entry on his drop table) of the current planet when defeated.
+There is a delay of 30 to 280 seconds (~4 minutes) before the Stalker will spawn in a given mission.
+The Stalker has a base spawn level of 30 while partially influenced by the level of enemies in the mission his level.
+Normally, upon reaching 10% health, the Stalker will announce his failure to defeat the targeted player, kneel, and disappear in a puff of smoke. An excessive amount of damage that fully depletes his health before he can do this will cause him to fall over similar to a downed player, but he will disappear in smoke either way. He may sometimes glitch in this case; not disappearing, becoming invulnerable and frozen.
+If kept about 10 meters away while in smoke form and constantly taking fire from the player, the Stalker may stop teleporting and simply drift slightly on the spot until he is defeated, making the fight trivial.
+Prior to Update 11.0.5, the Stalker had a 5% spawn chance. It has since been reduced.
+As of Update 11.6, the Stalker's (and incidentally Zanuka Hunter's) spawn chance was modified from 2.5% flat spawn chance to 1.5% + 0.5% per player. This update also introduced Death Marks for all existing Assassins.
+If more than one player has a death mark from the Stalker, he might target other marked players and kill them if they engage him; however, upon downing his newly selected target, he will immediately leave and his attention will revert to his original target if it is within line of sight.
+As of Update 18.5, the Stalker will not appear to attack players using any Warframe under Rank 10.
+A Stalker mark can be gained quickly by repeatedly running the assassination for the Hyena Pack on Psamathe, Neptune, as both Hyenas have a chance to give a mark.
+The Sergeant assassination on Illiad, Phobos is another assassination mission that can be completed quickly, especially if using Volt with the Shocking Speed augment.
+If more than one Stalker Beacon is used in a mission, the user will be prompted with an error sound and no beacons will be consumed.
+Death Marks stack. This means that players can acquire Stalker Death Marks by killing different Bosses. Should the Stalker make his appearance and be slain, the Death Marks do not disappear all at once, meaning players will encounter him again on different missions.
+Players are unable to abort the Mission while the Stalker is present.
+**Trivia:**
+Digital Extremes staff has been known to occasionally "hijack" the AI Stalker as a player character under their control. A more refined version of this "Stalker Mode" was presented during TennoCon, where selected players were allowed to hunt down others and has since returned from time to time during Prime Time streams.
+His internal name (in the game files) is simply "Assassin".
+Apart from his unique helmet, his Excalibur body is also somewhat unique, as he still uses an older version of Excalibur (which is also still used by Nyx) before he received a slight overhaul to his textures and color channels, most noticeably at the outer arm pieces and the cables on his neck sides which are more of a shiny grey whereas the updated Excalibur textures have them of a darker, matte color.
+Before Update 36, Stalker was voiced by WARFRAME's audio director George Spanos, who also voiced Lieutenant Lech Kril. After Update 36, Stalker has been redubbed by Gianni Matragrano.
+Stalker's ability to speak from single words to full sentences (during taunts) contradicts Loid's statement that Warframes can only scream, roar or howl as the Orokin dictated so, making him the only Warframe capable of doing so.
+The Stalker's favorite breakfast food is "sugar crisps" according to [DE]Steve as jokingly stated on Prime Time #190.
+Before Update 18.0, the Stalker communicated with the Tenno with indecipherable whispers.
+This taunt is actually played in reverse. The actual message heard is a long, drawn out message that simply and repeatedly says "Death" at varying speeds.
+The voice lines are still used for the Acolytes.
+The Stalker has his own theme when encountered:
+As of Update 7.11, the Stalker's loadout was altered to his signature load-out. Before this update, his arsenal was comprised of a Cronus and a Braton Vandal.
+As with all assassins, prior to Update 16.2, the Stalker used to drop his sigil as a rare drop upon death. This was changed to allow a player to get his sigil as a drop the first time he was killed.
+Assassinating Corrupted Vor does not grant a Death Mark.
+A Death Mark is acquired from the Stalker upon killing a valid boss, not upon completing a mission (i.e. a boss can be killed and the mission aborted or failed and the player will still receive a warning from the Stalker).
+Due to the Stalker's rather lenient spawn options, he had some more unusual appearances in the past before a stricter ruleset was applied to him:
+In the now replaced old Tutorial (if replayed by veteran players with a death mark).
+During the Mastery Rank tests.
+Weirdly, despite consistently appearing in promotional materials or ingame dioramas, the Stalker helmet does not have any glowing "eye" part on the front.
+During The Second Dream Quest, the Lotus says that the "truth" of the Tenno Reservoir "drove the Stalker to madness".
+During The Second Dream, Hunhow rhetorically asks the Stalker "Who destroyed the Orokin, your way of life?" This quote, his Codex entry, Jade Shadows, and several other pieces of media all but confirm that he served the Orokin.
+Hunhow during The Second Dream Quest speaks to the Stalker in an attempt to convince him to kill the Tenno: "You're asking yourself... Was I one of these wretched things? You know the answer. You still hate them... you still hate... yourself."
+With the release of Jade Shadows, this line could be interpreted in a variety of ways:
+Stalker's hatred is directed at both the Tenno (who "destroyed" his chance to serve the Orokin and see his family again) and at his current state (being a Warframe himself.)
+Stalker could also be experiencing some paternal hesitation at harming a child, as he would have been aware of the one he had with Jade.

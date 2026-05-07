@@ -1,9 +1,7 @@
 # Worldstate Reference Data
-
 Reference data used by Warframe's world state system. Includes Sol node mappings, mission types, faction data, fissure modifiers, sortie conditions, syndicate info, and more. English locale.
 
 ## arcanes
-
 - **Arcane Acceleration**
 - **Arcane Aegis**
 - **Arcane Agility**
@@ -57,7 +55,6 @@ Reference data used by Warframe's world state system. Includes Sol node mappings
 - **Exodia Epidemic**
 
 ## archonShards
-
 | Key | Value |
 |---|---|
 | ACC_BLUE | Azure |
@@ -74,7 +71,6 @@ Reference data used by Warframe's world state system. Includes Sol node mappings
 | ACC_GREEN_MYTHIC | Tauforged Emerald |
 
 ## conclave
-
 | Key | Value |
 |---|---|
 | modes | {"PVPMODE_ALL":{"value":"Any Mode"},"PVPMODE_DEATHMATCH":{"value":"Annihilation"},"PVPMODE_TEAMDEATHMATCH":{"value":"Tea |
@@ -83,7 +79,6 @@ Reference data used by Warframe's world state system. Includes Sol node mappings
 | affectors | {"PVPTimedAffectorSuperEnergy":{"title":"Energy Surge","description":"Energy Surge - Regain energy at a faster pace"},"P |
 
 ## events
-
 | Key | Value |
 |---|---|
 | tags | {"KelaEvent":{"value":"Operation: Rathuum"},"KelaEventB":{"value":"Operation: Rathuum pt. 2"},"KelaEventBonus":{"value": |
@@ -91,7 +86,6 @@ Reference data used by Warframe's world state system. Includes Sol node mappings
 | scoreMaxTags | {"KelaEventMax":{"value":{"value":"100 Judgement Points"}}} |
 
 ## factions
-
 | Key | Value |
 |---|---|
 | FC_CORPUS | Corpus |
@@ -106,7 +100,6 @@ Reference data used by Warframe's world state system. Includes Sol node mappings
 | FC_TECHROT | Techrot |
 
 ## fissureModifiers
-
 | Key | Value |
 |---|---|
 | VoidT1 | Lith |
@@ -117,214 +110,212 @@ Reference data used by Warframe's world state system. Includes Sol node mappings
 | VoidT6 | Omnia |
 
 ## languages
-
-*6451 entries — showing first 200*
+*6460 entries — showing first 200*
 
 | Key | Value |
 |---|---|
-| /Lotus/Language/Events/ValentinesFortunaName | Star Days |
-| /Lotus/Language/G1Quests/HeatFissuresEventScore | Thermia Fractures Sealed |
-| /Lotus/Language/Isleweaver/DuviriMurmurEventDescription | Recover stolen Dominus Aureus to take down Neci Rusalka and return Dominus Thrax to his throne! Obtain them from Operation: Eight Claw spirals in Duviri.  Visit Thrax in the Dormizone to exchange Dominus Aureus for rewards. Invictus Signas will be unlocked as the community returns stolen Aureus to Thrax. |
-| /Lotus/Language/Isleweaver/DuviriMurmurEventScore | Dominus Aureus Collection Progress: |
-| /Lotus/Language/Isleweaver/DuviriMurmurEventTitle | Operation: Eight Claw |
-| /Lotus/Language/JadeShadows/JadeShadowsEventName | Operation: Belly of the Beast |
-| /Lotus/Language/JadeShadows/JadeShadowsEventScore | Volatile Motes Collection Progress |
-| /Lotus/Language/JadeShadows/JadeShadowsShortEventDesc | Stop Parvos Granum! Collect Volatile Motes from Operation Ascension missions on Brutus (Uranus) and special Operation Alerts. Visit Ordis on Larunda Relay (Mercury) to claim rewards. |
-| /Lotus/Language/TauPrequel/TauPrequelFinal/BloodOfPeritaDetails | Collect Marks of Valiance by facing the darkest of memories in exchange for lucrative rewards. Obtain them from Perita Rebellion missions and special Void Alerts.  Visit Roathe in La Cathédrale to claim rewards and show the remnant of the Orokin true valor. |
-| /Lotus/Language/TauPrequel/TauPrequelFinal/TauPrequelEventName | Operation: Blood of Perita |
-| /Lotus/Powersuits/Odalisk/Odalisk | Protea |
-| /Lotus/StoreItems/Powersuits/Bard/OctaviaPrime | Octavia Prime |
-| /Lotus/StoreItems/Powersuits/IronFrame/IronFramePrime | Hildryn Prime |
-| /Lotus/StoreItems/Powersuits/Nezha/NezhaPrime | Nezha Prime |
-| /Lotus/StoreItems/Powersuits/Trapper/TrapperPrime | Vauban Prime |
-| /Lotus/StoreItems/Powersuits/Wisp/WispPrime | Wisp Prime |
-| /Lotus/StoreItems/Types/BoosterPacks/CalendarArtifactPack | Arcane Enhancements |
-| /Lotus/StoreItems/Types/BoosterPacks/CalendarMajorArtifactPack | Arcane Enhancements: Double Pack |
-| /Lotus/StoreItems/Types/BoosterPacks/CalendarRivenPack | Riven |
-| /Lotus/StoreItems/Types/Game/ActionFigureDioramas/EmpyreanRegionADiorama | Empyrean Vignette |
-| /Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionMagNovaVaultABronze | Lith M2 Relic |
-| /Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionNezhaOctaviaVaultABronze | Lith O3 Relic |
-| /Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionNezhaOctaviaVaultBBronze | Lith G7 Relic |
-| /Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionWispHildrynVaultABronze | Lith L6 Relic |
-| /Lotus/StoreItems/Types/Game/Projections/T1VoidProjectionWispHildrynVaultBBronze | Lith F3 Relic |
-| /Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionMagNovaVaultABronze | Meso B3 Relic |
-| /Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionNezhaOctaviaVaultABronze | Meso N15 Relic |
-| /Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionNezhaOctaviaVaultBBronze | Meso Z5 Relic |
-| /Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionWispHildrynVaultABronze | Meso G10 Relic |
-| /Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionMagNovaVaultABronze | Neo N9 Relic |
-| /Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionNezhaOctaviaVaultABronze | Neo T8 Relic |
-| /Lotus/StoreItems/Types/Game/Projections/T3VoidProjectionWispHildrynVaultABronze | Neo H4 Relic |
-| /Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionBaroAkmagnusPrimeBronze | Axi M5 Relic |
-| /Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionMagNovaVaultABronze | Axi S4 Relic |
-| /Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionMagNovaVaultBBronze | Axi A5 Relic |
-| /Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionNezhaOctaviaVaultABronze | Axi P5 Relic |
-| /Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionPBronze | Axi A2 Relic (Intact) |
-| /Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionWispHildrynVaultABronze | Axi W4 Relic |
-| /Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionWispHildrynVaultBBronze | Axi S19 Relic |
-| /Lotus/StoreItems/Types/Game/QuartersWallpapers/LavosAlchemistWallpaper | Javi's Scrawling |
-| /Lotus/StoreItems/Types/Game/ShipScenes/CorpusShipScene | Corpus Interior Decorations |
-| /Lotus/StoreItems/Types/Game/ShipScenes/PrimeLisetFiligreeScene | Filigree Prime Decoration |
-| /Lotus/StoreItems/Types/Gameplay/NarmerSorties/ArchonCrystalAmar | Crimson Archon Shard |
-| /Lotus/StoreItems/Types/Gameplay/NarmerSorties/ArchonCrystalGreen | Emerald Archon Shard |
-| /Lotus/StoreItems/Types/Gameplay/NarmerSorties/ArchonCrystalNira | Amber Archon Shard |
-| /Lotus/StoreItems/Types/Items/MiscItems/WeaponMeleeArcaneUnlocker | Melee Arcane Adapter |
-| /Lotus/StoreItems/Types/Items/MiscItems/WeaponSecondaryArcaneUnlocker | Secondary Arcane Adapter |
-| /Lotus/StoreItems/Types/Items/MiscItems/WeaponUtilityUnlocker | Exilus Weapon Adapter |
-| /Lotus/StoreItems/Types/Items/ShipDecos/BaroKiTeerDecorationB | Akka Luxxum Ornament |
-| /Lotus/StoreItems/Types/Items/ShipDecos/BaroPlanter | Clatharc Planter |
-| /Lotus/StoreItems/Types/Items/ShipDecos/BekranZaftBucketBroom | Bekran Zaft's Equipment |
-| /Lotus/StoreItems/Types/Items/ShipDecos/DomsFinalDrink | Aged Claret of Denas |
-| /Lotus/StoreItems/Types/Items/ShipDecos/ErraBobbleHead | Noggle Statue - Erra |
-| /Lotus/StoreItems/Types/Items/ShipDecos/GarvLatroxPoster | Garv & Latrox Poster |
-| /Lotus/StoreItems/Types/Items/ShipDecos/GrendelOrokinDishSet | Karishh's Dinnerware |
-| /Lotus/StoreItems/Types/Items/ShipDecos/HildrynPrimeBobbleHead | Noggle Statue - Hildryn Prime |
-| /Lotus/StoreItems/Types/Items/ShipDecos/Leverian/IvaraLeverianPovisRecordsDecoration | Secret History Replica |
-| /Lotus/StoreItems/Types/Items/ShipDecos/LisetPropCleaningDroneDuviri | Domestik Dais Drone |
-| /Lotus/StoreItems/Types/Items/ShipDecos/LisetPropCorpusBasilisk | Basilisk Fighter Decoration |
-| /Lotus/StoreItems/Types/Items/ShipDecos/LisetPropGrineerCutter | Cutter Fighter Decoration |
-| /Lotus/StoreItems/Types/Items/ShipDecos/LisetPropGrineerFlak | Flak Fighter Decoration |
-| /Lotus/StoreItems/Types/Items/ShipDecos/LisetPropShawzinPrime | Aristei Prime Shawzin |
-| /Lotus/StoreItems/Types/Items/ShipDecos/MagPrimeBobbleHead | Noggle Statue - Mag Prime |
-| /Lotus/StoreItems/Types/Items/ShipDecos/NezhaPrimeBobbleHead | Noggle Statue - Nezha Prime |
-| /Lotus/StoreItems/Types/Items/ShipDecos/NovaPrimeBobbleHead | Noggle Statue - Nova Prime |
-| /Lotus/StoreItems/Types/Items/ShipDecos/OctaviaPrimeBobbleHead | Noggle Statue - Octavia Prime |
-| /Lotus/StoreItems/Types/Items/ShipDecos/ParazonPoster | Parazon Poster |
-| /Lotus/StoreItems/Types/Items/ShipDecos/Plushies/Plushy2021QTCC | Conquera Kuaka Floof |
-| /Lotus/StoreItems/Types/Items/ShipDecos/Plushies/Plushy2022QTCC | Conquera Sawgaw Floof |
-| /Lotus/StoreItems/Types/Items/ShipDecos/Plushies/PlushyVirminkQTCC | Conquera Virmink Floof |
-| /Lotus/StoreItems/Types/Items/ShipDecos/SummerGameFestPoster | Dog Days Protea Display |
-| /Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConA | Deimos Fass Prex |
-| /Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConF | Deimos Jugulus Prex |
-| /Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConG | Deimos Saxum Prex |
-| /Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConI | Xaku Prex |
-| /Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConJ | Deimos Kymaeros Prex |
-| /Lotus/StoreItems/Types/Items/ShipDecos/UmbraPedestal | Umbra Pedestal |
-| /Lotus/StoreItems/Types/Items/ShipDecos/Vignettes/Warframes/ArchwingAFItem | Archwing Articula |
-| /Lotus/StoreItems/Types/Items/ShipDecos/WispPrimeBobbleHead | Noggle Statue - Wisp Prime |
-| /Lotus/StoreItems/Types/Items/SongItems/LotusEatersSongItem | The Lotus Eaters Login Music |
-| /Lotus/StoreItems/Types/Recipes/Components/WeaponUtilityUnlockerBlueprint | Exilus Weapon Adapter Blueprint |
-| /Lotus/StoreItems/Types/Recipes/WarframeRecipes/DagathBlueprint | Dagath Blueprint |
-| /Lotus/StoreItems/Types/Recipes/WarframeRecipes/DagathChassisComponent | Dagath Chassis |
-| /Lotus/StoreItems/Types/Recipes/WarframeRecipes/DagathHelmetComponent | Dagath Neuroptics |
-| /Lotus/StoreItems/Types/Recipes/WarframeRecipes/DagathSystemsComponent | Dagath Systems |
-| /Lotus/StoreItems/Types/Restoratives/Consumable/AssassinBait | Stalker Beacon |
-| /Lotus/StoreItems/Types/Restoratives/Consumable/AssassinBaitB | Zanuka Hunter Beacon |
-| /Lotus/StoreItems/Types/Restoratives/Consumable/AssassinBaitC | Grustrag Three Beacon |
-| /Lotus/StoreItems/Types/Sentinels/SentinelPowersuits/PrimeShadePowerSuit | Shade Prime |
-| /Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageBaruukDoanStyle | Baruuk Doan Silhouette Glyph |
-| /Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageDogDaysHydroidGlyph | Community Dog Days Hydroid Glyph |
-| /Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageDogDaysLokiGlyph | Community Dog Days Loki Glyph |
-| /Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageDogDaysNovaGlyph | Community Dog Days Nova Glyph |
-| /Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageDogDaysValkyrGlyph | Community Dog Days Valkyr Glyph |
-| /Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageIvaraAction | Ivara In Action Glyph |
-| /Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageTeshinVed | Teshin Glyph |
-| /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageBaroKiteer | Baro Ki'teer Glyph |
-| /Lotus/StoreItems/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphA | Giving Snake Glyph |
-| /Lotus/StoreItems/Types/StoreItems/AvatarImages/TwinSnakesGlyph | Vome-Fass Glyph |
-| /Lotus/StoreItems/Upgrades/CosmeticEnhancers/Peculiars/EvilSpiritMod | Peculiar Audience |
-| /Lotus/StoreItems/Upgrades/Mods/Archwing/Rifle/Expert/ArchwingRifleDamageAmountModExpert | Primed Rubedo-Lined Barrel |
-| /Lotus/StoreItems/Upgrades/Mods/FusionBundles/CircuitSilverSteelPathFusionBundle | 6,000 Endo |
-| /Lotus/StoreItems/Upgrades/Mods/Melee/WeaponGlaiveOnKillBuffSecondary | Combo Fury |
-| /Lotus/StoreItems/Upgrades/Mods/Pistol/DualStat/ElectEventPistolMod | Jolt |
-| /Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/PrimedWeaponElectricityDamageMod | Primed Convulsion |
-| /Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageCorpusExpert | Primed Expel Corpus |
-| /Lotus/StoreItems/Upgrades/Mods/Sentinel/Kubrow/Expert/KubrowPackLeaderExpertMod | Primed Pack Leader |
-| /Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponShotgunConvertAmmoModExpert | Primed Shotgun Ammo Mutation |
-| /Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarShieldMaxModExpert | Primed Redirection |
-| /Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmour/BaroArmourA | Ki'teer Shoulder Plates |
-| /Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmour/BaroArmourC | Ki'teer Chest Plate |
-| /Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmour/BaroArmourL | Ki'teer Leg Plates |
-| /Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmourThree/BaroArmourThreeA | Ki'Teer Greth Shoulder Plates |
-| /Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmourThree/BaroArmourThreeC | Ki'Teer Greth Chest Plate |
-| /Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmourThree/BaroArmourThreeL | Ki'Teer Greth Leg Plates |
-| /Lotus/StoreItems/Upgrades/Skins/Armor/TnShinaiArmor/TnShinaiArmorA | Tannukai Shoulder Plates |
-| /Lotus/StoreItems/Upgrades/Skins/Armor/TnShinaiArmor/TnShinaiArmorC | Tannukai Chest Plates |
-| /Lotus/StoreItems/Upgrades/Skins/Armor/TnShinaiArmor/TnShinaiArmorL | Tannukai Leg Plates |
-| /Lotus/StoreItems/Upgrades/Skins/Catbrows/Armor/CatbrowArmorVoidTraderA | Ki'teer Kavat Armor |
-| /Lotus/StoreItems/Upgrades/Skins/Clan/CNY2022EmblemItem | Lunar Renewal Tiger Emblem |
-| /Lotus/StoreItems/Upgrades/Skins/Clan/CNY2023EmblemItem | Lunar Renewal Rabbit Emblem |
-| /Lotus/StoreItems/Upgrades/Skins/Clan/CNY2025SnakeEmblem | Lunar Renewal Snake Emblem |
-| /Lotus/StoreItems/Upgrades/Skins/Clan/Dragon2024BadgeItem | Lunar Renewal Dragon Emblem |
-| /Lotus/StoreItems/Upgrades/Skins/Clan/TwitchNecraloidBadgeItem | Necraseal Emblem |
-| /Lotus/StoreItems/Upgrades/Skins/Effects/BaroEphemeraB | Ki'Teer Reverence Ephemera |
-| /Lotus/StoreItems/Upgrades/Skins/Effects/EphemeraNezhaPrime | Baurahn Prime Ephemera |
-| /Lotus/StoreItems/Upgrades/Skins/Effects/FootstepsMaple | Fae Path Ephemera |
-| /Lotus/StoreItems/Upgrades/Skins/Infestation/NidusAlternateSkin | Nidus Immortal Skin |
-| /Lotus/StoreItems/Upgrades/Skins/Leverian/NezhaLeverian/NezhaLeverianPolearm | Reshantur Cult Spear Skin |
-| /Lotus/StoreItems/Upgrades/Skins/Liset/LisetSkinTwitchPrime | Spektaka Liset Skin |
-| /Lotus/StoreItems/Upgrades/Skins/Liset/LisetSkinVoidTrader | Liset Prisma Skin |
-| /Lotus/StoreItems/Upgrades/Skins/MeleeDangles/MoonWarfanSugatraMeleeDangle | Renayla Sugatra |
-| /Lotus/StoreItems/Upgrades/Skins/MeleeDangles/TwitchPrimeMeleeDangle | Spektaka Prime Sugatra |
-| /Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/AshLevarianTiara | Scoria Diadem |
-| /Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/BaroHorn | Ki'teer Cornu Diadem |
-| /Lotus/StoreItems/Upgrades/Skins/Operator/BodySuits/BodySuitNovaEngineer | Masker's Theodolite Crewsuit |
-| /Lotus/StoreItems/Upgrades/Skins/Operator/Hoods/HoodDuviriOperator | The Stranger's Hood (Operator) |
-| /Lotus/StoreItems/Upgrades/Skins/Operator/Hoods/HoodNovaEngineer | Masker's Theodolite Crewsuit Hood |
-| /Lotus/StoreItems/Upgrades/Skins/Operator/Leggings/LeggingsNovaEngineer | Masker's Theodolite Crewsuit Leggings |
-| /Lotus/StoreItems/Upgrades/Skins/Operator/Sleeves/SleevesNovaEngineer | Masker's Theodolite Crewsuit Sleeves |
-| /Lotus/StoreItems/Upgrades/Skins/Scarves/AmazonOniSyandana | Stezia Sumbha Syandana |
-| /Lotus/StoreItems/Upgrades/Skins/Scarves/BaroCape2Scarf | Ki'teer Razza Synadana |
-| /Lotus/StoreItems/Upgrades/Skins/Scarves/InfMembraneCape | Apis Syandana |
-| /Lotus/StoreItems/Upgrades/Skins/Scarves/NezhaLeverianCape | Reshantur Cult Syandana |
-| /Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeOctaviaSyandana | Serenidine Prime Syandana |
-| /Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeSuratorSyandana | Surator Prime Syandana |
-| /Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeTwitchScarf | Vistapa Prime Syandana |
-| /Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeWispSyandana | Entheor Prime Syandana |
-| /Lotus/StoreItems/Upgrades/Skins/Scarves/SolsticeBaroCape | Wintercress Syandana |
-| /Lotus/StoreItems/Upgrades/Skins/Scarves/TwitchPrimeScarf | Spektaka Prime Syandana |
-| /Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/GaussSentinelMask | Altra Sentinel Mask |
-| /Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/GaussSentinelTail | Altra Sentinel Tail |
-| /Lotus/StoreItems/Upgrades/Skins/Sigils/1999DrippySigil | Drippy Sigil |
-| /Lotus/StoreItems/Upgrades/Skins/Sigils/TwitchPrimeSigil | Static Reactor Prime Sigil |
-| /Lotus/StoreItems/Upgrades/Skins/Sigils/WeGameNewYearFreeTigerSigil | Lunar Renewal Tiger Sigil |
-| /Lotus/StoreItems/Upgrades/Skins/Sigils/WeGameNewYearOxSigil | Lunar Renewal Ox Sigil |
-| /Lotus/StoreItems/Upgrades/Skins/SummerSolstice/SummerSolsticeTwinGrakatas | Twin Grakatas Towsun Skin |
-| /Lotus/StoreItems/Upgrades/Skins/VoidTrader/AshLeverianLiosPistol | De Nas Pistol Skin |
-| /Lotus/StoreItems/Upgrades/Skins/VoidTrader/ElixisNikana | Nikana Elixis Skin |
-| /Lotus/StoreItems/Upgrades/Skins/Weapons/Rapier/CrpRapierSkin | Rapier Tributaker Skin |
-| /Lotus/StoreItems/Weapons/Corpus/Melee/CrpTonfa/CrpPrismaTonfa | Prisma Ohma |
-| /Lotus/StoreItems/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/WraithMacheteWeapon | Machete Wraith |
-| /Lotus/StoreItems/Weapons/Grineer/Melee/GrnBoomerang/HalikarWraithWeapon | Halikar Wraith |
-| /Lotus/StoreItems/Weapons/Grineer/Melee/GunBlade/GrnGunBlade/GrnGunblade | Vastilok |
-| /Lotus/StoreItems/Weapons/Tenno/Archwing/Primary/ArchwingHeavyPistols/Prisma/PrismaArchHeavyPistols | Prisma Dual Decurions |
-| /Lotus/StoreItems/Weapons/Tenno/LongGuns/PrimeFulmin/PrimeFulmin | Fulmin Prime |
-| /Lotus/StoreItems/Weapons/Tenno/LongGuns/PrimeTenora/TenoraPrimeWeapon | Tenora Prime |
-| /Lotus/StoreItems/Weapons/Tenno/Melee/Polearms/PrimeGuandao/PrimeGuandaoWeapon | Guandao Prime |
-| /Lotus/StoreItems/Weapons/Tenno/Melee/Warfan/PrimeGunsen/PrimeGunsenWeapon | Gunsen Prime |
-| /Lotus/StoreItems/Weapons/Tenno/Pistols/PrimePandero/PanderoPrimeWeapon | Pandero Prime |
-| /Lotus/StoreItems/Weapons/Tenno/Pistols/PrimeZakti/PrimeZaktiPistol | Zakti Prime |
-| /Lotus/Types/Challenges/Calendar1999/CalendarDestroyPropsEasy | Starve the beast |
-| /Lotus/Types/Challenges/Calendar1999/CalendarDestroyPropsHard | Starve the beast |
-| /Lotus/Types/Challenges/Calendar1999/CalendarDestroyPropsMedium | Starve the beast |
-| /Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesEasy | Even the odds |
-| /Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesHard | Even the odds |
-| /Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesMedium | Even the odds |
-| /Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesWithAbilitiesEasy | Demonstration of power |
-| /Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesWithAbilitiesHard | Demonstration of power |
-| /Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesWithAbilitiesMedium | Demonstration of power |
-| /Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesWithMeleeEasy | By The Blade |
-| /Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesWithMeleeHard | By The Blade |
-| /Lotus/Types/Challenges/Calendar1999/CalendarKillEnemiesWithMeleeMedium | By The Blade |
-| /Lotus/Types/Challenges/Calendar1999/CalendarKillEximusEasy | Ex-Eximus |
-| /Lotus/Types/Challenges/Calendar1999/CalendarKillEximusHard | Ex-Eximus |
-| /Lotus/Types/Challenges/Calendar1999/CalendarKillEximusMedium | Ex-Eximus |
-| /Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesEasy | Punish Scaldra |
-| /Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesHard | Punish Scaldra |
-| /Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesMedium | Punish Scaldra |
-| /Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesWithAbilitiesEasy | Shock and Awe |
-| /Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesWithAbilitiesHard | Shock and Awe |
-| /Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesWithAbilitiesMedium | Shock and Awe |
-| /Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesWithMeleeEasy | Make it personal |
-| /Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesWithMeleeHard | Make it personal |
-| /Lotus/Types/Challenges/Calendar1999/CalendarKillScaldraEnemiesWithMeleeMedium | Make it personal |
-| /Lotus/Types/Challenges/Calendar1999/CalendarKillTankHard | Tankless Work |
-| /Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesEasy | Purge the infection |
-| /Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesHard | Purge the infection |
-| /Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesMedium | Purge the infection |
-| /Lotus/Types/Challenges/Calendar1999/CalendarKillTechrotEnemiesWithAbilitiesEasy | Null and Void |
+| | Star Days |
+| | Thermia Fractures Sealed |
+| | Recover stolen Dominus Aureus to take down Neci Rusalka and return Dominus Thrax to his throne! Obtain them from Operation: Eight Claw spirals in Duviri. Visit Thrax in the Dormizone to exchange Dominus Aureus for rewards. Invictus Signas will be unlocked as the community returns stolen Aureus to Thrax. |
+| | Dominus Aureus Collection Progress: |
+| | Operation: Eight Claw |
+| | Operation: Belly of the Beast |
+| | Volatile Motes Collection Progress |
+| | Stop Parvos Granum! Collect Volatile Motes from Operation Ascension missions on Brutus (Uranus) and special Operation Alerts. Visit Ordis on Larunda Relay (Mercury) to claim rewards. |
+| | Collect Marks of Valiance by facing the darkest of memories in exchange for lucrative rewards. Obtain them from Perita Rebellion missions and special Void Alerts. Visit Roathe in La Cathédrale to claim rewards and show the remnant of the Orokin true valor. |
+| | Operation: Blood of Perita |
+| Odalisk | Protea |
+| OctaviaPrime | Octavia Prime |
+| IronFramePrime | Hildryn Prime |
+| NezhaPrime | Nezha Prime |
+| TrapperPrime | Vauban Prime |
+| WispPrime | Wisp Prime |
+| CalendarArtifactPack | Arcane Enhancements |
+| CalendarMajorArtifactPack | Arcane Enhancements: Double Pack |
+| CalendarRivenPack | Riven |
+| EmpyreanRegionADiorama | Empyrean Vignette |
+| T1VoidProjectionMagNovaVaultABronze | Lith M2 Relic |
+| T1VoidProjectionNezhaOctaviaVaultABronze | Lith O3 Relic |
+| T1VoidProjectionNezhaOctaviaVaultBBronze | Lith G7 Relic |
+| T1VoidProjectionWispHildrynVaultABronze | Lith L6 Relic |
+| T1VoidProjectionWispHildrynVaultBBronze | Lith F3 Relic |
+| T2VoidProjectionMagNovaVaultABronze | Meso B3 Relic |
+| T2VoidProjectionNezhaOctaviaVaultABronze | Meso N15 Relic |
+| T2VoidProjectionNezhaOctaviaVaultBBronze | Meso Z5 Relic |
+| T2VoidProjectionWispHildrynVaultABronze | Meso G10 Relic |
+| T3VoidProjectionMagNovaVaultABronze | Neo N9 Relic |
+| T3VoidProjectionNezhaOctaviaVaultABronze | Neo T8 Relic |
+| T3VoidProjectionWispHildrynVaultABronze | Neo H4 Relic |
+| T4VoidProjectionBaroAkmagnusPrimeBronze | Axi M5 Relic |
+| T4VoidProjectionMagNovaVaultABronze | Axi S4 Relic |
+| T4VoidProjectionMagNovaVaultBBronze | Axi A5 Relic |
+| T4VoidProjectionNezhaOctaviaVaultABronze | Axi P5 Relic |
+| T4VoidProjectionPBronze | Axi A2 Relic (Intact) |
+| T4VoidProjectionWispHildrynVaultABronze | Axi W4 Relic |
+| T4VoidProjectionWispHildrynVaultBBronze | Axi S19 Relic |
+| LavosAlchemistWallpaper | Javi's Scrawling |
+| CorpusShipScene | Corpus Interior Decorations |
+| PrimeLisetFiligreeScene | Filigree Prime Decoration |
+| ArchonCrystalAmar | Crimson Archon Shard |
+| ArchonCrystalGreen | Emerald Archon Shard |
+| ArchonCrystalNira | Amber Archon Shard |
+| WeaponMeleeArcaneUnlocker | Melee Arcane Adapter |
+| WeaponSecondaryArcaneUnlocker | Secondary Arcane Adapter |
+| WeaponUtilityUnlocker | Exilus Weapon Adapter |
+| BaroKiTeerDecorationB | Akka Luxxum Ornament |
+| BaroPlanter | Clatharc Planter |
+| BekranZaftBucketBroom | Bekran Zaft's Equipment |
+| DomsFinalDrink | Aged Claret of Denas |
+| ErraBobbleHead | Noggle Statue - Erra |
+| GarvLatroxPoster | Garv & Latrox Poster |
+| GrendelOrokinDishSet | Karishh's Dinnerware |
+| HildrynPrimeBobbleHead | Noggle Statue - Hildryn Prime |
+| IvaraLeverianPovisRecordsDecoration | Secret History Replica |
+| LisetPropCleaningDroneDuviri | Domestik Dais Drone |
+| LisetPropCorpusBasilisk | Basilisk Fighter Decoration |
+| LisetPropGrineerCutter | Cutter Fighter Decoration |
+| LisetPropGrineerFlak | Flak Fighter Decoration |
+| LisetPropShawzinPrime | Aristei Prime Shawzin |
+| MagPrimeBobbleHead | Noggle Statue - Mag Prime |
+| NezhaPrimeBobbleHead | Noggle Statue - Nezha Prime |
+| NovaPrimeBobbleHead | Noggle Statue - Nova Prime |
+| OctaviaPrimeBobbleHead | Noggle Statue - Octavia Prime |
+| ParazonPoster | Parazon Poster |
+| Plushy2021QTCC | Conquera Kuaka Floof |
+| Plushy2022QTCC | Conquera Sawgaw Floof |
+| PlushyVirminkQTCC | Conquera Virmink Floof |
+| SummerGameFestPoster | Dog Days Protea Display |
+| TarotCardTennoConA | Deimos Fass Prex |
+| TarotCardTennoConF | Deimos Jugulus Prex |
+| TarotCardTennoConG | Deimos Saxum Prex |
+| TarotCardTennoConI | Xaku Prex |
+| TarotCardTennoConJ | Deimos Kymaeros Prex |
+| UmbraPedestal | Umbra Pedestal |
+| ArchwingAFItem | Archwing Articula |
+| WispPrimeBobbleHead | Noggle Statue - Wisp Prime |
+| LotusEatersSongItem | The Lotus Eaters Login Music |
+| WeaponUtilityUnlockerBlueprint | Exilus Weapon Adapter Blueprint |
+| DagathBlueprint | Dagath Blueprint |
+| DagathChassisComponent | Dagath Chassis |
+| DagathHelmetComponent | Dagath Neuroptics |
+| DagathSystemsComponent | Dagath Systems |
+| AssassinBait | Stalker Beacon |
+| AssassinBaitB | Zanuka Hunter Beacon |
+| AssassinBaitC | Grustrag Three Beacon |
+| PrimeShadePowerSuit | Shade Prime |
+| AvatarImageBaruukDoanStyle | Baruuk Doan Silhouette Glyph |
+| AvatarImageDogDaysHydroidGlyph | Community Dog Days Hydroid Glyph |
+| AvatarImageDogDaysLokiGlyph | Community Dog Days Loki Glyph |
+| AvatarImageDogDaysNovaGlyph | Community Dog Days Nova Glyph |
+| AvatarImageDogDaysValkyrGlyph | Community Dog Days Valkyr Glyph |
+| AvatarImageIvaraAction | Ivara In Action Glyph |
+| AvatarImageTeshinVed | Teshin Glyph |
+| ImageBaroKiteer | Baro Ki'teer Glyph |
+| AvatarImageCNY2025SnakeGlyphA | Giving Snake Glyph |
+| TwinSnakesGlyph | Vome-Fass Glyph |
+| EvilSpiritMod | Peculiar Audience |
+| ArchwingRifleDamageAmountModExpert | Primed Rubedo-Lined Barrel |
+| CircuitSilverSteelPathFusionBundle | 6,000 Endo |
+| WeaponGlaiveOnKillBuffSecondary | Combo Fury |
+| ElectEventPistolMod | Jolt |
+| PrimedWeaponElectricityDamageMod | Primed Convulsion |
+| WeaponPistolFactionDamageCorpusExpert | Primed Expel Corpus |
+| KubrowPackLeaderExpertMod | Primed Pack Leader |
+| WeaponShotgunConvertAmmoModExpert | Primed Shotgun Ammo Mutation |
+| AvatarShieldMaxModExpert | Primed Redirection |
+| BaroArmourA | Ki'teer Shoulder Plates |
+| BaroArmourC | Ki'teer Chest Plate |
+| BaroArmourL | Ki'teer Leg Plates |
+| BaroArmourThreeA | Ki'Teer Greth Shoulder Plates |
+| BaroArmourThreeC | Ki'Teer Greth Chest Plate |
+| BaroArmourThreeL | Ki'Teer Greth Leg Plates |
+| TnShinaiArmorA | Tannukai Shoulder Plates |
+| TnShinaiArmorC | Tannukai Chest Plates |
+| TnShinaiArmorL | Tannukai Leg Plates |
+| CatbrowArmorVoidTraderA | Ki'teer Kavat Armor |
+| CNY2022EmblemItem | Lunar Renewal Tiger Emblem |
+| CNY2023EmblemItem | Lunar Renewal Rabbit Emblem |
+| CNY2025SnakeEmblem | Lunar Renewal Snake Emblem |
+| Dragon2024BadgeItem | Lunar Renewal Dragon Emblem |
+| TwitchNecraloidBadgeItem | Necraseal Emblem |
+| BaroEphemeraB | Ki'Teer Reverence Ephemera |
+| EphemeraNezhaPrime | Baurahn Prime Ephemera |
+| FootstepsMaple | Fae Path Ephemera |
+| NidusAlternateSkin | Nidus Immortal Skin |
+| NezhaLeverianPolearm | Reshantur Cult Spear Skin |
+| LisetSkinTwitchPrime | Spektaka Liset Skin |
+| LisetSkinVoidTrader | Liset Prisma Skin |
+| MoonWarfanSugatraMeleeDangle | Renayla Sugatra |
+| TwitchPrimeMeleeDangle | Spektaka Prime Sugatra |
+| AshLevarianTiara | Scoria Diadem |
+| BaroHorn | Ki'teer Cornu Diadem |
+| BodySuitNovaEngineer | Masker's Theodolite Crewsuit |
+| HoodDuviriOperator | The Stranger's Hood (Operator) |
+| HoodNovaEngineer | Masker's Theodolite Crewsuit Hood |
+| LeggingsNovaEngineer | Masker's Theodolite Crewsuit Leggings |
+| SleevesNovaEngineer | Masker's Theodolite Crewsuit Sleeves |
+| AmazonOniSyandana | Stezia Sumbha Syandana |
+| BaroCape2Scarf | Ki'teer Razza Synadana |
+| InfMembraneCape | Apis Syandana |
+| NezhaLeverianCape | Reshantur Cult Syandana |
+| PrimeOctaviaSyandana | Serenidine Prime Syandana |
+| PrimeSuratorSyandana | Surator Prime Syandana |
+| PrimeTwitchScarf | Vistapa Prime Syandana |
+| PrimeWispSyandana | Entheor Prime Syandana |
+| SolsticeBaroCape | Wintercress Syandana |
+| TwitchPrimeScarf | Spektaka Prime Syandana |
+| GaussSentinelMask | Altra Sentinel Mask |
+| GaussSentinelTail | Altra Sentinel Tail |
+| 1999DrippySigil | Drippy Sigil |
+| TwitchPrimeSigil | Static Reactor Prime Sigil |
+| WeGameNewYearFreeTigerSigil | Lunar Renewal Tiger Sigil |
+| WeGameNewYearOxSigil | Lunar Renewal Ox Sigil |
+| SummerSolsticeTwinGrakatas | Twin Grakatas Towsun Skin |
+| AshLeverianLiosPistol | De Nas Pistol Skin |
+| ElixisNikana | Nikana Elixis Skin |
+| CrpRapierSkin | Rapier Tributaker Skin |
+| CrpPrismaTonfa | Prisma Ohma |
+| WraithMacheteWeapon | Machete Wraith |
+| HalikarWraithWeapon | Halikar Wraith |
+| GrnGunblade | Vastilok |
+| PrismaArchHeavyPistols | Prisma Dual Decurions |
+| PrimeFulmin | Fulmin Prime |
+| TenoraPrimeWeapon | Tenora Prime |
+| PrimeGuandaoWeapon | Guandao Prime |
+| PrimeGunsenWeapon | Gunsen Prime |
+| PanderoPrimeWeapon | Pandero Prime |
+| PrimeZaktiPistol | Zakti Prime |
+| CalendarDestroyPropsEasy | Starve the beast |
+| CalendarDestroyPropsHard | Starve the beast |
+| CalendarDestroyPropsMedium | Starve the beast |
+| CalendarKillEnemiesEasy | Even the odds |
+| CalendarKillEnemiesHard | Even the odds |
+| CalendarKillEnemiesMedium | Even the odds |
+| CalendarKillEnemiesWithAbilitiesEasy | Demonstration of power |
+| CalendarKillEnemiesWithAbilitiesHard | Demonstration of power |
+| CalendarKillEnemiesWithAbilitiesMedium | Demonstration of power |
+| CalendarKillEnemiesWithMeleeEasy | By The Blade |
+| CalendarKillEnemiesWithMeleeHard | By The Blade |
+| CalendarKillEnemiesWithMeleeMedium | By The Blade |
+| CalendarKillEximusEasy | Ex-Eximus |
+| CalendarKillEximusHard | Ex-Eximus |
+| CalendarKillEximusMedium | Ex-Eximus |
+| CalendarKillScaldraEnemiesEasy | Punish Scaldra |
+| CalendarKillScaldraEnemiesHard | Punish Scaldra |
+| CalendarKillScaldraEnemiesMedium | Punish Scaldra |
+| CalendarKillScaldraEnemiesWithAbilitiesEasy | Shock and Awe |
+| CalendarKillScaldraEnemiesWithAbilitiesHard | Shock and Awe |
+| CalendarKillScaldraEnemiesWithAbilitiesMedium | Shock and Awe |
+| CalendarKillScaldraEnemiesWithMeleeEasy | Make it personal |
+| CalendarKillScaldraEnemiesWithMeleeHard | Make it personal |
+| CalendarKillScaldraEnemiesWithMeleeMedium | Make it personal |
+| CalendarKillTankHard | Tankless Work |
+| CalendarKillTechrotEnemiesEasy | Purge the infection |
+| CalendarKillTechrotEnemiesHard | Purge the infection |
+| CalendarKillTechrotEnemiesMedium | Purge the infection |
+| CalendarKillTechrotEnemiesWithAbilitiesEasy | Null and Void |
 
 ## missionTypes
-
 | Key | Value |
 |---|---|
 | MT_ARENA | Rathuum |
@@ -356,20 +347,17 @@ Reference data used by Warframe's world state system. Includes Sol node mappings
 | MT_ENDLESS_CAPTURE | Legacyte Harvest |
 
 ## operationTypes
-
 | Key | Value |
 |---|---|
 | MULTIPLY | is multiplied by |
 
 ## persistentEnemy
-
 | Key | Value |
 |---|---|
 | regions | ["0","1","2","Mars","Jupiter","Saturn","6","7","Pluto","Ceres","10","Sedna","12","13","14","Phobos","16"] |
 
 ## solNodes
-
-*451 entries — showing first 200*
+*452 entries — showing first 200*
 
 | Key | Value |
 |---|---|
@@ -575,24 +563,21 @@ Reference data used by Warframe's world state system. Includes Sol node mappings
 | SolNode199 | Yam (Sedna) |
 
 ## sortie
-
 | Key | Value |
 |---|---|
 | modifierTypes | {"SORTIE_MODIFIER_LOW_ENERGY":"Energy Reduction","SORTIE_MODIFIER_IMPACT":"Enemy Physical Enhancement: Impact","SORTIE_M |
 | modifierDescriptions | {"SORTIE_MODIFIER_LOW_ENERGY":"Maximum Warframe Energy capacity is quartered. Energy Siphon is less effective.","SORTIE_ |
 | bosses | {"SORTIE_BOSS_HYENA":{"name":"Hyena Pack","faction":"Corpus"},"SORTIE_BOSS_KELA":{"name":"Kela De Thaym","faction":"Grin |
 | endStates | [{"bossName":"Captain Vor","regions":[{"name":"0","missions":[]},{"name":"Mercury","missions":["Exterminate","Survival", |
-| modifiers | ["+ Enemy armor/shield","Environmental hazard","Enemy damage resistance","Energy reduction","Eximus stronghold","Weapon  |
+| modifiers | ["+ Enemy armor/shield","Environmental hazard","Enemy damage resistance","Energy reduction","Eximus stronghold","Weapon |
 
 ## steelPath
-
 | Key | Value |
 |---|---|
 | rotation | [{"name":"Umbra Forma Blueprint","cost":150},{"name":"50,000 Kuva","cost":55},{"name":"Kitgun Riven Mod","cost":75},{"na |
 | evergreen | [{"name":"Veiled Riven Cipher","cost":20},{"name":"Bishamo Pauldrons Blueprint","cost":15},{"name":"Bishamo Cuirass Blue |
 
 ## syndicates
-
 | Key | Value |
 |---|---|
 | ArbitersSyndicate | Arbiters of Hexis |
@@ -625,7 +610,6 @@ Reference data used by Warframe's world state system. Includes Sol node mappings
 | HexSyndicate | The Hex |
 
 ## synthTargets
-
 - **Ancient Disruptor**
 - **Ancient Healer**
 - **Anti MOA [Research]**
@@ -667,17 +651,14 @@ Reference data used by Warframe's world state system. Includes Sol node mappings
 - **Trooper**
 
 ## tutorials
-
 - **Focus**
 - **Mods**
 - **Dojos**
 
 ## upgradeTypes
-
 | Key | Value |
 |---|---|
 | GAMEPLAY_KILL_XP_AMOUNT | Mission Kill XP |
 | GAMEPLAY_PICKUP_AMOUNT | Resource Drop Amount |
 | GAMEPLAY_MONEY_REWARD_AMOUNT | Credit Drop chance |
 | GAMEPLAY_MONEY_PICKUP_AMOUNT | Credit Drop amount |
-
