@@ -1,0 +1,125 @@
+name: Publish data to Oda-Fragment-pull
+
+on:
+  schedule:
+    # Weekly: every Monday at 06:00 UTC
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "pull.js"
+      - "transform.js"
+      - "organize-docs.js"
+      - "extract-wiki.py"
+      - ".github/workflows/publish-data.yml"
+
+concurrency:
+  group: publish-data
+  cancel-in-progress: false
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Checkout source repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install Node dependencies
+        run: npm ci
+
+      - name: Install Python dependencies
+        run: pip install mwparserfromhell pandas pyarrow
+
+      - name: Clone wiki dataset
+        run: |
+          if [ ! -d data/wf-wiki/.git ]; then
+            mkdir -p data
+            git clone --depth 1 https://huggingface.co/datasets/LLukas22/wf-wiki data/wf-wiki
+          else
+            git -C data/wf-wiki pull --ff-only
+          fi
+
+      - name: Pull raw data
+        run: npm run pull
+
+      - name: Extract wiki
+        run: python3 extract-wiki.py
+
+      - name: Transform to Markdown
+        run: npm run transform
+
+      - name: Organize into .txt bundles
+        run: node organize-docs.js
+
+      - name: List generated txt files
+        run: ls -lh docs/warframe-data-*.txt
+
+      - name: Checkout downstream repo
+        uses: actions/checkout@v4
+        with:
+          repository: aidenlong04/Oda-Fragment-pull
+          token: ${{ secrets.DOWNSTREAM_PAT }}
+          path: downstream
+          fetch-depth: 1
+
+      - name: Sync txt files into downstream/data
+        run: |
+          set -euo pipefail
+          mkdir -p downstream/data
+          # Remove old generated txt files so deletions propagate
+          find downstream/data -maxdepth 1 -type f -name "warframe-data-*.txt" -delete
+          cp docs/warframe-data-*.txt downstream/data/
+
+          # Write a small manifest with source commit + timestamp
+          SRC_SHA="${GITHUB_SHA}"
+          NOW="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          {
+            echo "# Warframe data export"
+            echo ""
+            echo "Auto-generated from https://github.com/${GITHUB_REPOSITORY}"
+            echo ""
+            echo "- Source commit: ${SRC_SHA}"
+            echo "- Generated at: ${NOW}"
+            echo "- Workflow run: https://github.com/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
+            echo ""
+            echo "## Files"
+            echo ""
+            for f in downstream/data/warframe-data-*.txt; do
+              name="$(basename "$f")"
+              size="$(du -h "$f" | cut -f1)"
+              echo "- \`${name}\` (${size})"
+            done
+          } > downstream/data/MANIFEST.md
+
+      - name: Commit and push to downstream
+        working-directory: downstream
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/
+
+          if git diff --cached --quiet; then
+            echo "No changes to publish."
+            exit 0
+          fi
+
+          SHORT_SHA="${GITHUB_SHA::7}"
+          git commit -m "data: refresh warframe data bundles (source ${SHORT_SHA})"
+          git push
