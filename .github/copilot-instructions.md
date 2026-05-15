@@ -35,8 +35,9 @@ All output is tuned for Gemma 4's smaller context window (~128K tokens) and stri
 - `warframe-public-export-plus` — DE public export, CJS require
 - `warframe-riven-info` — Riven tags, read JSON directly from `node_modules`
 
-**APIs:**
+**APIs / scraped sources:**
 - Drop tables — `https://drops.warframestat.us/data/all.json`
+- Overframe.gg community builds — HTML scrape via `pull-overframe.js` (cheerio + `__NEXT_DATA__`). No public API. Listing route exposes only three category slugs: `warframes`, `archwing`, `sentinels` (other slugs silently fall back to warframes — no aggregate weapons/beasts listing exists). ToS risk: throttled at 1500 ms; cache 24 h. Output: `data/overframe-builds.json`. Optional / opt-in — NOT part of `npm run pull`. Add `--enrich` to fetch per-build mod loadouts (slow).
 
 **Wiki (Python):**
 - HuggingFace dataset `LLukas22/wf-wiki` — cloned as a git submodule-style repo into `data/wf-wiki/` (parquet shards under `data/wf-wiki/latest/`)
@@ -64,13 +65,14 @@ All output is tuned for Gemma 4's smaller context window (~128K tokens) and stri
 | `warframe-data-systems.txt` | ~562 KB | Open worlds, endgame, modular equipment |
 | `warframe-data-patchnotes.txt` | ~3.0 MB | Full patch history |
 | `warframe-data-mastery-rank.txt` | ~3 KB | Mastery rank requirements |
+| `warframe-data-community-builds.txt` | varies | Overframe.gg top builds for Warframes / Archwings / Sentinels (only categories Overframe exposes via SSR). Community-curated, T3-equivalent, suggestion-only. Each entry flagged `(community-curated, source: Overframe)`. Mod listings never include polarity or drain. Bot must never let these override authoritative stats. |
 
 ### Prompts
 
 | File | Purpose |
 |------|---------|
 | `prompts/oda-fragment.md` | System prompt — identity, core directives, source hierarchy, security. Delivered as the FIRST user turn (Gemma has no system role). |
-| `prompts/oda-response-format.md` | Category-specific response templates with `[SLOT]` tokens (square brackets — Gemma is more reliable than with `«»`). |
+| `prompts/oda-fragment-response-format.md` | Fragment category-specific response templates with `[SLOT]` tokens (square brackets — Gemma is more reliable than with `«»`). |
 
 ## Code Style
 
@@ -85,11 +87,12 @@ All output is tuned for Gemma 4's smaller context window (~128K tokens) and stri
 ```bash
 npm run pull              # Fetch fresh JSON from all APIs and packages
 python3 extract-wiki.py   # Extract wiki parquet → data/wiki-*.json
+node pull-overframe.js    # OPTIONAL: scrape Overframe.gg community builds (ToS risk; opt-in)
 npm run transform         # Convert JSON → docs/**/*.md
 node organize-docs.js     # Bundle .md → docs/*.txt (≤3 MB each)
 npm run lint              # JSHint
 npm run validate          # npm ls (dependency check)
-npm run update            # Shortcut: pull + transform (no wiki or organize)
+npm run update            # Shortcut: pull + transform (no wiki, overframe, or organize)
 ```
 
 ## Agent Workflow — Always Follow This Order

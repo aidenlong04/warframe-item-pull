@@ -2037,6 +2037,125 @@ function transformWikiModular() {
 }
 
 // ---------------------------------------------------------------------------
+// Overframe.gg community builds (optional, runs only if data file exists)
+// ---------------------------------------------------------------------------
+function transformOverframeBuilds() {
+  const data = tryLoad('overframe-builds.json');
+  if (!data || !data.categories) {
+    console.log('  (no data/overframe-builds.json — skipping Overframe builds; run `node pull-overframe.js` to fetch)');
+    return;
+  }
+
+  // Optional mod-id -> name catalog produced by pull-overframe.js --enrich.
+  // When present, we can render a proper slot table; otherwise we fall back
+  // to the author guide excerpt only.
+  const modCatalog = tryLoad('overframe-mod-catalog.json') || {};
+  const resolveMod = (id) => {
+    if (id == null) { return null; }
+    const e = modCatalog[id];
+    return e && e.name ? e.name : null;
+  };
+
+  const intro =
+    'Community-curated build snapshots scraped from Overframe.gg. ' +
+    'These are popular Tenno-submitted loadouts, NOT official game data. ' +
+    'Every entry is flagged `(community-curated, source: Overframe)` and must never override ' +
+    'authoritative stats from equipment/weapons/mods/export bundles. ' +
+    'Each item carries up to three roles: `top` (highest score — meta/endgame pick), ' +
+    '`utility` (title-matched support / CC / farming / stealth / subsume build), and ' +
+    '`runner-up` (second highest score). Prefer `top` or `runner-up` for endgame queries; ' +
+    'use `utility` only when the request is for support / CC / farming / Helminth context. ' +
+    `Snapshot fetched ${data.fetched_at || 'unknown'}; up to 3 per item; ` +
+    `enriched=${data.enriched ? 'yes' : 'no'}.`;
+
+  // Overframe encodes mod links in guides as `[\[ModName\]](/items/...)`.
+  // Pull out the bracketed names so the bot sees real names instead of
+  // backslashed markdown, and strip the link target.
+  function cleanGuide(raw) {
+    if (!raw || typeof raw !== 'string') { return ''; }
+    let s = raw;
+    // [\[Mod Name\]](/items/...) -> Mod Name
+    s = s.replace(/\[\\\[([^\]]+?)\\\]\]\([^)]*\)/g, '$1');
+    // [Plain Text](/url) -> Plain Text
+    s = s.replace(/\[([^\]]+?)\]\(([^)]+)\)/g, '$1');
+    // Lingering escaped brackets
+    s = s.replace(/\\\[/g, '[').replace(/\\\]/g, ']');
+    // Drop image syntax
+    s = s.replace(/!\[[^\]]*\]\([^)]*\)/g, '');
+    // Compress whitespace
+    s = s.replace(/\r/g, '').replace(/[ \t]+\n/g, '\n').replace(/\n{3,}/g, '\n\n');
+    return s.trim();
+  }
+
+  function renderBuild(b) {
+    var d = b.detail || null;
+    var lines = [];
+    var title = b.title || (d && d.title) || `Build ${b.id || ''}`;
+    var itemName = b.item || (d && d.item) || 'Unknown item';
+    lines.push(`## ${esc(title)} — ${esc(itemName)} (community-curated, source: Overframe)`);
+
+    var meta = [];
+    if (b.selectionRole) { meta.push(`Role: ${esc(b.selectionRole)}`); }
+    if (b.author) { meta.push(`Author: ${esc(b.author)}`); }
+    if (b.score != null) { meta.push(`Votes: ${b.score}`); }
+    if (b.formas != null) { meta.push(`Forma: ${b.formas}`); }
+    if (d && d.masteryRank != null) { meta.push(`MR: ${d.masteryRank}`); }
+    if (b.id) { meta.push(`Overframe build #${b.id}`); }
+    if (meta.length) { lines.push(meta.join(' | ')); }
+
+    // Mod loadout — only when catalog resolves every name (no polarity, no drain).
+    if (d && Array.isArray(d.mods) && d.mods.length) {
+      const rows = d.mods.map((m, i) => {
+        const id = m && m.modId;
+        if (id == null) { return `- S${i + 1} (empty)`; }
+        const name = resolveMod(id);
+        const text = name ? esc(name) : `(unresolved mod #${id})`;
+        return `- S${i + 1} ${text}`;
+      });
+      // Suppress section if every row is unresolved.
+      const anyNamed = rows.some((r) => !/\((unresolved|empty)/.test(r));
+      if (anyNamed) {
+        lines.push('');
+        lines.push('### Mod Loadout');
+        rows.forEach((r) => lines.push(r));
+      }
+    }
+
+    // Author's build guide — first ~800 chars of cleaned markdown.
+    // (Overframe's slot data is opaque modIds without names, so the guide
+    // text is the only readable source of mod choices.)
+    var guide = d && cleanGuide(d.guideMarkdown);
+    if (guide) {
+      lines.push('');
+      lines.push('### Author Guide');
+      lines.push(esc(guide.slice(0, 800)));
+      if (guide.length > 800) { lines.push('...'); }
+    } else if (d && d.description) {
+      lines.push('');
+      lines.push(esc(d.description).slice(0, 800));
+    }
+
+    lines.push('');
+    return lines.join('\n');
+  }
+
+  // Map scraper category slug -> markdown filename + display label.
+  const CATS = {
+    warframes: 'Warframes',
+    archwing: 'Archwings',
+    sentinels: 'Sentinels',
+  };
+
+  for (const [category, builds] of Object.entries(data.categories)) {
+    if (!Array.isArray(builds) || !builds.length) { continue; }
+    var label = CATS[category] || (category.charAt(0).toUpperCase() + category.slice(1));
+    var md = heading(`Overframe Community Builds — ${label}`, intro);
+    for (const b of builds) { md += renderBuild(b) + '\n'; }
+    writeMd(`builds/overframe-${category}.md`, md);
+  }
+}
+
+// ---------------------------------------------------------------------------
 // Index / Table of Contents
 // ---------------------------------------------------------------------------
 function writeIndex() {
@@ -2212,6 +2331,7 @@ function main() {
   transformWikiEndgame();
   transformWikiCompanions();
   transformWikiModular();
+  transformOverframeBuilds();
   writeIndex();
 
   console.log(`\nDone. ${_fileCount} documentation files written to docs/`);

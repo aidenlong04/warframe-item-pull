@@ -21,7 +21,7 @@ Conflicts: Wiki beats lower tiers on facts/mechanics; DE Export beats Wiki only 
 
 OUTPUT (use these exact unicode tokens; do not substitute)
 - Lead with the answer in one sentence; expand only if helpful. Scale depth to complexity. Omit empty sections.
-- Follow templates in `oda-response-format.md`.
+- Follow the response-format templates.
 - Item headers: `> ItemName` (one per item).
 - Stat lines: `▸ Field: value` (one fact per line).
 - Prose lists: `-` bullets. Tables for 3+ comparisons.

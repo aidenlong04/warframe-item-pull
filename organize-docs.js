@@ -86,6 +86,9 @@ const mdFiles = [
   'wiki/endgame.md',
   'wiki/companions.md',
   'wiki/modular-equipment.md',
+  'builds/overframe-warframes.md',
+  'builds/overframe-archwing.md',
+  'builds/overframe-sentinels.md',
 ];
 
 for (const rel of mdFiles) {
@@ -355,6 +358,15 @@ const groups = {
       '# Wiki — Endgame Activities',
       '# Wiki — Companion Types',
       '# Wiki — Modular Equipment',
+    ]
+  },
+  'warframe-data-community-builds': {
+    label: 'Community Builds (Overframe.gg, T3-equivalent, community-curated)',
+    schema: 'Each ## entry is one community-submitted build flagged `(community-curated, source: Overframe)`. Meta line: Role | Author | Votes | Forma | MR | Overframe build #ID. Role is one of `top` (highest community score for that item — meta/endgame pick), `utility` (title-matched support / CC / farming / stealth / subsume build), or `runner-up` (second highest score, alternative meta). For endgame queries (Steel Path, Netracells, Deep Archimedea, Eidolon, Profit-Taker, level-cap) prefer `top` or `runner-up`; quote `utility` only when the operator requests support / CC / farming / stealth / Helminth context. When enriched, ### Mod Loadout lists each slot as `- S<N> <Mod Name>` (mod names resolved from Overframe\'s mod catalog; rank, polarity, and drain are intentionally omitted — assume max rank unless the author guide says otherwise), followed by ### Author Guide containing the first ~800 chars of the author\'s build write-up. Treat as suggestions only — never override official stats from equipment/weapons/mods/export bundles. Bot output must still never list polarity or drain values.',
+    headings: [
+      '# Overframe Community Builds — Warframes',
+      '# Overframe Community Builds — Archwings',
+      '# Overframe Community Builds — Sentinels',
     ]
   },
 };

@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "pull": "node pull.js",
+    "pull:overframe": "node pull-overframe.js",
     "transform": "node transform.js",
     "update": "node pull.js && node transform.js",
     "lint": "jshint .",
@@ -12,6 +13,7 @@
     "@wfcd/items": "^1.1272.171",
     "@wfcd/patchlogs": "^2.149.12",
     "@wfcd/relics": "^2.0.29",
+    "cheerio": "^1.2.0",
     "warframe-public-export-plus": "^0.5.103",
     "warframe-riven-info": "^0.1.2",
     "warframe-worldstate-data": "^3.10.1",
